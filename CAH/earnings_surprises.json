@@ -1,0 +1,764 @@
+[
+    {
+        "date": "2024-11-01",
+        "symbol": "CAH",
+        "actualEarningResult": 1.88,
+        "estimatedEarning": 1.62
+    },
+    {
+        "date": "2024-08-14",
+        "symbol": "CAH",
+        "actualEarningResult": 1.84,
+        "estimatedEarning": 1.73
+    },
+    {
+        "date": "2024-05-02",
+        "symbol": "CAH",
+        "actualEarningResult": 2.08,
+        "estimatedEarning": 1.95
+    },
+    {
+        "date": "2024-02-01",
+        "symbol": "CAH",
+        "actualEarningResult": 1.82,
+        "estimatedEarning": 1.6
+    },
+    {
+        "date": "2023-11-03",
+        "symbol": "CAH",
+        "actualEarningResult": 1.73,
+        "estimatedEarning": 1.4
+    },
+    {
+        "date": "2023-08-15",
+        "symbol": "CAH",
+        "actualEarningResult": 1.55,
+        "estimatedEarning": 1.48
+    },
+    {
+        "date": "2023-05-04",
+        "symbol": "CAH",
+        "actualEarningResult": 1.74,
+        "estimatedEarning": 1.49
+    },
+    {
+        "date": "2023-02-02",
+        "symbol": "CAH",
+        "actualEarningResult": 1.32,
+        "estimatedEarning": 1.13
+    },
+    {
+        "date": "2022-11-04",
+        "symbol": "CAH",
+        "actualEarningResult": 1.2,
+        "estimatedEarning": 0.96
+    },
+    {
+        "date": "2022-08-11",
+        "symbol": "CAH",
+        "actualEarningResult": 1.05,
+        "estimatedEarning": 1.17
+    },
+    {
+        "date": "2022-05-05",
+        "symbol": "CAH",
+        "actualEarningResult": 1.45,
+        "estimatedEarning": 1.54
+    },
+    {
+        "date": "2022-02-03",
+        "symbol": "CAH",
+        "actualEarningResult": 1.27,
+        "estimatedEarning": 1.23
+    },
+    {
+        "date": "2021-11-09",
+        "symbol": "CAH",
+        "actualEarningResult": 1.29,
+        "estimatedEarning": 1.32
+    },
+    {
+        "date": "2021-08-05",
+        "symbol": "CAH",
+        "actualEarningResult": 0.77,
+        "estimatedEarning": 1.18
+    },
+    {
+        "date": "2021-05-06",
+        "symbol": "CAH",
+        "actualEarningResult": 1.53,
+        "estimatedEarning": 1.58
+    },
+    {
+        "date": "2021-02-05",
+        "symbol": "CAH",
+        "actualEarningResult": 1.74,
+        "estimatedEarning": 1.44
+    },
+    {
+        "date": "2020-11-05",
+        "symbol": "CAH",
+        "actualEarningResult": 1.51,
+        "estimatedEarning": 1.14
+    },
+    {
+        "date": "2020-08-06",
+        "symbol": "CAH",
+        "actualEarningResult": 1.04,
+        "estimatedEarning": 0.91
+    },
+    {
+        "date": "2020-05-11",
+        "symbol": "CAH",
+        "actualEarningResult": 1.62,
+        "estimatedEarning": 1.43
+    },
+    {
+        "date": "2020-02-06",
+        "symbol": "CAH",
+        "actualEarningResult": 1.52,
+        "estimatedEarning": 1.21
+    },
+    {
+        "date": "2019-11-07",
+        "symbol": "CAH",
+        "actualEarningResult": 1.27,
+        "estimatedEarning": 1.09
+    },
+    {
+        "date": "2019-08-08",
+        "symbol": "CAH",
+        "actualEarningResult": 1.11,
+        "estimatedEarning": 0.93
+    },
+    {
+        "date": "2019-05-09",
+        "symbol": "CAH",
+        "actualEarningResult": 1.59,
+        "estimatedEarning": 1.43
+    },
+    {
+        "date": "2019-02-07",
+        "symbol": "CAH",
+        "actualEarningResult": 1.29,
+        "estimatedEarning": 1.09
+    },
+    {
+        "date": "2018-11-08",
+        "symbol": "CAH",
+        "actualEarningResult": 1.29,
+        "estimatedEarning": 1.06
+    },
+    {
+        "date": "2018-08-06",
+        "symbol": "CAH",
+        "actualEarningResult": 1.01,
+        "estimatedEarning": 0.93
+    },
+    {
+        "date": "2018-05-03",
+        "symbol": "CAH",
+        "actualEarningResult": 1.39,
+        "estimatedEarning": 1.51
+    },
+    {
+        "date": "2018-02-08",
+        "symbol": "CAH",
+        "actualEarningResult": 1.31,
+        "estimatedEarning": 1.14
+    },
+    {
+        "date": "2017-11-06",
+        "symbol": "CAH",
+        "actualEarningResult": 1.09,
+        "estimatedEarning": 1.01
+    },
+    {
+        "date": "2017-08-02",
+        "symbol": "CAH",
+        "actualEarningResult": 1.31,
+        "estimatedEarning": 1.24
+    },
+    {
+        "date": "2017-05-01",
+        "symbol": "CAH",
+        "actualEarningResult": 1.53,
+        "estimatedEarning": 1.46
+    },
+    {
+        "date": "2017-02-07",
+        "symbol": "CAH",
+        "actualEarningResult": 1.34,
+        "estimatedEarning": 1.24
+    },
+    {
+        "date": "2016-10-31",
+        "symbol": "CAH",
+        "actualEarningResult": 1.24,
+        "estimatedEarning": 1.21
+    },
+    {
+        "date": "2016-08-02",
+        "symbol": "CAH",
+        "actualEarningResult": 1.14,
+        "estimatedEarning": 1.13
+    },
+    {
+        "date": "2016-04-28",
+        "symbol": "CAH",
+        "actualEarningResult": 1.43,
+        "estimatedEarning": 1.33
+    },
+    {
+        "date": "2016-02-01",
+        "symbol": "CAH",
+        "actualEarningResult": 1.3,
+        "estimatedEarning": 1.25
+    },
+    {
+        "date": "2015-11-02",
+        "symbol": "CAH",
+        "actualEarningResult": 1.38,
+        "estimatedEarning": 1.1
+    },
+    {
+        "date": "2015-07-30",
+        "symbol": "CAH",
+        "actualEarningResult": 1,
+        "estimatedEarning": 0.99
+    },
+    {
+        "date": "2015-04-30",
+        "symbol": "CAH",
+        "actualEarningResult": 1.19,
+        "estimatedEarning": 1.16
+    },
+    {
+        "date": "2015-01-29",
+        "symbol": "CAH",
+        "actualEarningResult": 1.2,
+        "estimatedEarning": 1.11
+    },
+    {
+        "date": "2014-10-30",
+        "symbol": "CAH",
+        "actualEarningResult": 1,
+        "estimatedEarning": 0.96
+    },
+    {
+        "date": "2014-08-04",
+        "symbol": "CAH",
+        "actualEarningResult": 0.83,
+        "estimatedEarning": 0.81
+    },
+    {
+        "date": "2014-05-01",
+        "symbol": "CAH",
+        "actualEarningResult": 1.01,
+        "estimatedEarning": 1.01
+    },
+    {
+        "date": "2014-01-30",
+        "symbol": "CAH",
+        "actualEarningResult": 0.9,
+        "estimatedEarning": 0.84
+    },
+    {
+        "date": "2013-10-31",
+        "symbol": "CAH",
+        "actualEarningResult": 0.92,
+        "estimatedEarning": 0.86
+    },
+    {
+        "date": "2013-08-01",
+        "symbol": "CAH",
+        "actualEarningResult": 0.79,
+        "estimatedEarning": 0.77
+    },
+    {
+        "date": "2013-05-02",
+        "symbol": "CAH",
+        "actualEarningResult": 1.02,
+        "estimatedEarning": 0.95
+    },
+    {
+        "date": "2013-02-05",
+        "symbol": "CAH",
+        "actualEarningResult": 0.93,
+        "estimatedEarning": 0.86
+    },
+    {
+        "date": "2012-10-30",
+        "symbol": "CAH",
+        "actualEarningResult": 0.81,
+        "estimatedEarning": 0.79
+    },
+    {
+        "date": "2012-08-02",
+        "symbol": "CAH",
+        "actualEarningResult": 0.73,
+        "estimatedEarning": 0.72
+    },
+    {
+        "date": "2012-05-03",
+        "symbol": "CAH",
+        "actualEarningResult": 0.94,
+        "estimatedEarning": 0.88
+    },
+    {
+        "date": "2012-02-02",
+        "symbol": "CAH",
+        "actualEarningResult": 0.81,
+        "estimatedEarning": 0.76
+    },
+    {
+        "date": "2011-10-27",
+        "symbol": "CAH",
+        "actualEarningResult": 0.73,
+        "estimatedEarning": 0.72
+    },
+    {
+        "date": "2011-08-04",
+        "symbol": "CAH",
+        "actualEarningResult": 0.6,
+        "estimatedEarning": 0.58
+    },
+    {
+        "date": "2011-04-28",
+        "symbol": "CAH",
+        "actualEarningResult": 0.81,
+        "estimatedEarning": 0.69
+    },
+    {
+        "date": "2011-02-03",
+        "symbol": "CAH",
+        "actualEarningResult": 0.73,
+        "estimatedEarning": 0.61
+    },
+    {
+        "date": "2010-10-28",
+        "symbol": "CAH",
+        "actualEarningResult": 0.66,
+        "estimatedEarning": 0.53
+    },
+    {
+        "date": "2010-08-05",
+        "symbol": "CAH",
+        "actualEarningResult": 0.5,
+        "estimatedEarning": 0.49
+    },
+    {
+        "date": "2010-04-29",
+        "symbol": "CAH",
+        "actualEarningResult": 0.61,
+        "estimatedEarning": 0.57
+    },
+    {
+        "date": "2010-01-28",
+        "symbol": "CAH",
+        "actualEarningResult": 0.57,
+        "estimatedEarning": 0.46
+    },
+    {
+        "date": "2009-11-05",
+        "symbol": "CAH",
+        "actualEarningResult": 0.54,
+        "estimatedEarning": 0.43
+    },
+    {
+        "date": "2009-08-18",
+        "symbol": "CAH",
+        "actualEarningResult": 0.86,
+        "estimatedEarning": 0.86
+    },
+    {
+        "date": "2009-04-30",
+        "symbol": "CAH",
+        "actualEarningResult": 0.97,
+        "estimatedEarning": 0.95
+    },
+    {
+        "date": "2009-02-05",
+        "symbol": "CAH",
+        "actualEarningResult": 0.93,
+        "estimatedEarning": 0.89
+    },
+    {
+        "date": "2008-10-29",
+        "symbol": "CAH",
+        "actualEarningResult": 0.74,
+        "estimatedEarning": 0.7
+    },
+    {
+        "date": "2008-08-07",
+        "symbol": "CAH",
+        "actualEarningResult": 0.97,
+        "estimatedEarning": 0.95
+    },
+    {
+        "date": "2008-05-01",
+        "symbol": "CAH",
+        "actualEarningResult": 1.08,
+        "estimatedEarning": 1.01
+    },
+    {
+        "date": "2008-01-29",
+        "symbol": "CAH",
+        "actualEarningResult": 0.9,
+        "estimatedEarning": 0.87
+    },
+    {
+        "date": "2007-11-05",
+        "symbol": "CAH",
+        "actualEarningResult": 0.86,
+        "estimatedEarning": 0.86
+    },
+    {
+        "date": "2007-08-09",
+        "symbol": "CAH",
+        "actualEarningResult": 0.89,
+        "estimatedEarning": 0.87
+    },
+    {
+        "date": "2007-04-26",
+        "symbol": "CAH",
+        "actualEarningResult": 0.96,
+        "estimatedEarning": 0.91
+    },
+    {
+        "date": "2007-01-25",
+        "symbol": "CAH",
+        "actualEarningResult": 0.83,
+        "estimatedEarning": 0.78
+    },
+    {
+        "date": "2006-10-27",
+        "symbol": "CAH",
+        "actualEarningResult": 0.78,
+        "estimatedEarning": 0.76
+    },
+    {
+        "date": "2006-08-03",
+        "symbol": "CAH",
+        "actualEarningResult": 0.87,
+        "estimatedEarning": 0.87
+    },
+    {
+        "date": "2006-04-27",
+        "symbol": "CAH",
+        "actualEarningResult": 0.87,
+        "estimatedEarning": 0.86
+    },
+    {
+        "date": "2006-01-26",
+        "symbol": "CAH",
+        "actualEarningResult": 0.74,
+        "estimatedEarning": 0.73
+    },
+    {
+        "date": "2005-10-26",
+        "symbol": "CAH",
+        "actualEarningResult": 0.63,
+        "estimatedEarning": 0.72
+    },
+    {
+        "date": "2005-08-05",
+        "symbol": "CAH",
+        "actualEarningResult": 0.78,
+        "estimatedEarning": 0.89
+    },
+    {
+        "date": "2005-04-29",
+        "symbol": "CAH",
+        "actualEarningResult": 0.94,
+        "estimatedEarning": 0.89
+    },
+    {
+        "date": "2005-02-04",
+        "symbol": "CAH",
+        "actualEarningResult": 0.73,
+        "estimatedEarning": 0.77
+    },
+    {
+        "date": "2004-11-04",
+        "symbol": "CAH",
+        "actualEarningResult": 0.61,
+        "estimatedEarning": 0.56
+    },
+    {
+        "date": "2004-04-22",
+        "symbol": "CAH",
+        "actualEarningResult": 0.98,
+        "estimatedEarning": 0.99
+    },
+    {
+        "date": "2004-01-22",
+        "symbol": "CAH",
+        "actualEarningResult": 0.87,
+        "estimatedEarning": 0.86
+    },
+    {
+        "date": "2003-10-23",
+        "symbol": "CAH",
+        "actualEarningResult": 0.76,
+        "estimatedEarning": 0.77
+    },
+    {
+        "date": "2003-07-31",
+        "symbol": "CAH",
+        "actualEarningResult": 0.89,
+        "estimatedEarning": 0.89
+    },
+    {
+        "date": "2003-04-23",
+        "symbol": "CAH",
+        "actualEarningResult": 0.86,
+        "estimatedEarning": 0.86
+    },
+    {
+        "date": "2003-01-23",
+        "symbol": "CAH",
+        "actualEarningResult": 0.77,
+        "estimatedEarning": 0.77
+    },
+    {
+        "date": "2002-10-22",
+        "symbol": "CAH",
+        "actualEarningResult": 0.67,
+        "estimatedEarning": 0.66
+    },
+    {
+        "date": "2002-08-06",
+        "symbol": "CAH",
+        "actualEarningResult": 0.74,
+        "estimatedEarning": 0.73
+    },
+    {
+        "date": "2002-04-23",
+        "symbol": "CAH",
+        "actualEarningResult": 0.71,
+        "estimatedEarning": 0.7
+    },
+    {
+        "date": "2002-01-22",
+        "symbol": "CAH",
+        "actualEarningResult": 0.62,
+        "estimatedEarning": 0.63
+    },
+    {
+        "date": "2001-10-23",
+        "symbol": "CAH",
+        "actualEarningResult": 0.57,
+        "estimatedEarning": 0.55
+    },
+    {
+        "date": "2001-07-31",
+        "symbol": "CAH",
+        "actualEarningResult": 0.58,
+        "estimatedEarning": 0.58
+    },
+    {
+        "date": "2001-04-26",
+        "symbol": "CAH",
+        "actualEarningResult": 0.56,
+        "estimatedEarning": 0.56
+    },
+    {
+        "date": "2001-01-30",
+        "symbol": "CAH",
+        "actualEarningResult": 0.33,
+        "estimatedEarning": 0.5
+    },
+    {
+        "date": "2000-10-24",
+        "symbol": "CAH",
+        "actualEarningResult": 0.29,
+        "estimatedEarning": 0.43
+    },
+    {
+        "date": "2000-07-25",
+        "symbol": "CAH",
+        "actualEarningResult": 0.32,
+        "estimatedEarning": 0.47
+    },
+    {
+        "date": "2000-04-25",
+        "symbol": "CAH",
+        "actualEarningResult": 0.47,
+        "estimatedEarning": 0.46
+    },
+    {
+        "date": "2000-01-25",
+        "symbol": "CAH",
+        "actualEarningResult": 0.41,
+        "estimatedEarning": 0.4
+    },
+    {
+        "date": "1999-10-26",
+        "symbol": "CAH",
+        "actualEarningResult": 0.35,
+        "estimatedEarning": 0.35
+    },
+    {
+        "date": "1999-07-30",
+        "symbol": "CAH",
+        "actualEarningResult": 0.39,
+        "estimatedEarning": 0.38
+    },
+    {
+        "date": "1999-04-28",
+        "symbol": "CAH",
+        "actualEarningResult": 0.37,
+        "estimatedEarning": 0.36
+    },
+    {
+        "date": "1999-01-25",
+        "symbol": "CAH",
+        "actualEarningResult": 0.33,
+        "estimatedEarning": 0.33
+    },
+    {
+        "date": "1998-10-26",
+        "symbol": "CAH",
+        "actualEarningResult": 0.28,
+        "estimatedEarning": 0.27
+    },
+    {
+        "date": "1998-07-27",
+        "symbol": "CAH",
+        "actualEarningResult": 0.32,
+        "estimatedEarning": 0.31
+    },
+    {
+        "date": "1998-04-22",
+        "symbol": "CAH",
+        "actualEarningResult": 0.32,
+        "estimatedEarning": 0.32
+    },
+    {
+        "date": "1998-01-26",
+        "symbol": "CAH",
+        "actualEarningResult": 0.27,
+        "estimatedEarning": 0.27
+    },
+    {
+        "date": "1997-10-20",
+        "symbol": "CAH",
+        "actualEarningResult": 0.22,
+        "estimatedEarning": 0.22
+    },
+    {
+        "date": "1997-07-31",
+        "symbol": "CAH",
+        "actualEarningResult": 0.25,
+        "estimatedEarning": 0.24
+    },
+    {
+        "date": "1997-04-22",
+        "symbol": "CAH",
+        "actualEarningResult": 0.26,
+        "estimatedEarning": 0.26
+    },
+    {
+        "date": "1997-01-22",
+        "symbol": "CAH",
+        "actualEarningResult": 0.22,
+        "estimatedEarning": 0.22
+    },
+    {
+        "date": "1996-10-22",
+        "symbol": "CAH",
+        "actualEarningResult": 0.18,
+        "estimatedEarning": 0.18
+    },
+    {
+        "date": "1996-07-29",
+        "symbol": "CAH",
+        "actualEarningResult": 0.2,
+        "estimatedEarning": 0.19
+    },
+    {
+        "date": "1996-04-22",
+        "symbol": "CAH",
+        "actualEarningResult": 0.22,
+        "estimatedEarning": 0.22
+    },
+    {
+        "date": "1996-01-22",
+        "symbol": "CAH",
+        "actualEarningResult": 0.18,
+        "estimatedEarning": 0.17
+    },
+    {
+        "date": "1995-10-23",
+        "symbol": "CAH",
+        "actualEarningResult": 0.14,
+        "estimatedEarning": 0.14
+    },
+    {
+        "date": "1995-07-26",
+        "symbol": "CAH",
+        "actualEarningResult": 0.15,
+        "estimatedEarning": 0.15
+    },
+    {
+        "date": "1995-04-24",
+        "symbol": "CAH",
+        "actualEarningResult": 0.18,
+        "estimatedEarning": 0.18
+    },
+    {
+        "date": "1995-01-23",
+        "symbol": "CAH",
+        "actualEarningResult": 0.15,
+        "estimatedEarning": 0.14
+    },
+    {
+        "date": "1994-10-24",
+        "symbol": "CAH",
+        "actualEarningResult": 0.12,
+        "estimatedEarning": 0.11
+    },
+    {
+        "date": "1994-07-26",
+        "symbol": "CAH",
+        "actualEarningResult": 0.12,
+        "estimatedEarning": 0.12
+    },
+    {
+        "date": "1994-04-25",
+        "symbol": "CAH",
+        "actualEarningResult": 0.14,
+        "estimatedEarning": 0.14
+    },
+    {
+        "date": "1994-01-19",
+        "symbol": "CAH",
+        "actualEarningResult": 0.11,
+        "estimatedEarning": 0.11
+    },
+    {
+        "date": "1993-10-18",
+        "symbol": "CAH",
+        "actualEarningResult": 0.09,
+        "estimatedEarning": 0.09
+    },
+    {
+        "date": "1993-07-22",
+        "symbol": "CAH",
+        "actualEarningResult": 0.1,
+        "estimatedEarning": 0.09
+    },
+    {
+        "date": "1993-05-11",
+        "symbol": "CAH",
+        "actualEarningResult": 0.13,
+        "estimatedEarning": 0.12
+    },
+    {
+        "date": "1993-01-20",
+        "symbol": "CAH",
+        "actualEarningResult": 0.1,
+        "estimatedEarning": 0.09
+    }
+]

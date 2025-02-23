@@ -1,0 +1,770 @@
+[
+    {
+        "date": "2024-11-06",
+        "symbol": "PTC",
+        "actualEarningResult": 1.54,
+        "estimatedEarning": 1.45
+    },
+    {
+        "date": "2024-07-31",
+        "symbol": "PTC",
+        "actualEarningResult": 0.98,
+        "estimatedEarning": 0.967
+    },
+    {
+        "date": "2024-05-01",
+        "symbol": "PTC",
+        "actualEarningResult": 1.46,
+        "estimatedEarning": 1.23
+    },
+    {
+        "date": "2024-01-31",
+        "symbol": "PTC",
+        "actualEarningResult": 1.11,
+        "estimatedEarning": 0.98
+    },
+    {
+        "date": "2023-11-01",
+        "symbol": "PTC",
+        "actualEarningResult": 1.2,
+        "estimatedEarning": 1.14
+    },
+    {
+        "date": "2023-07-26",
+        "symbol": "PTC",
+        "actualEarningResult": 0.99,
+        "estimatedEarning": 1.01
+    },
+    {
+        "date": "2023-04-26",
+        "symbol": "PTC",
+        "actualEarningResult": 1.16,
+        "estimatedEarning": 1.07
+    },
+    {
+        "date": "2023-02-01",
+        "symbol": "PTC",
+        "actualEarningResult": 0.99,
+        "estimatedEarning": 1.01
+    },
+    {
+        "date": "2022-11-02",
+        "symbol": "PTC",
+        "actualEarningResult": 1.27,
+        "estimatedEarning": 1.14
+    },
+    {
+        "date": "2022-07-27",
+        "symbol": "PTC",
+        "actualEarningResult": 0.97,
+        "estimatedEarning": 1.07
+    },
+    {
+        "date": "2022-04-27",
+        "symbol": "PTC",
+        "actualEarningResult": 1.39,
+        "estimatedEarning": 1.1
+    },
+    {
+        "date": "2022-01-26",
+        "symbol": "PTC",
+        "actualEarningResult": 0.95,
+        "estimatedEarning": 1
+    },
+    {
+        "date": "2021-11-03",
+        "symbol": "PTC",
+        "actualEarningResult": 1.1,
+        "estimatedEarning": 0.66
+    },
+    {
+        "date": "2021-07-28",
+        "symbol": "PTC",
+        "actualEarningResult": 0.83,
+        "estimatedEarning": 0.64
+    },
+    {
+        "date": "2021-04-28",
+        "symbol": "PTC",
+        "actualEarningResult": 1.08,
+        "estimatedEarning": 0.7
+    },
+    {
+        "date": "2021-01-27",
+        "symbol": "PTC",
+        "actualEarningResult": 0.97,
+        "estimatedEarning": 0.67
+    },
+    {
+        "date": "2020-10-28",
+        "symbol": "PTC",
+        "actualEarningResult": 0.78,
+        "estimatedEarning": 0.56
+    },
+    {
+        "date": "2020-07-29",
+        "symbol": "PTC",
+        "actualEarningResult": 0.62,
+        "estimatedEarning": 0.45
+    },
+    {
+        "date": "2020-04-29",
+        "symbol": "PTC",
+        "actualEarningResult": 0.59,
+        "estimatedEarning": 0.46
+    },
+    {
+        "date": "2020-01-22",
+        "symbol": "PTC",
+        "actualEarningResult": 0.57,
+        "estimatedEarning": 0.45
+    },
+    {
+        "date": "2019-10-23",
+        "symbol": "PTC",
+        "actualEarningResult": 0.64,
+        "estimatedEarning": 0.45
+    },
+    {
+        "date": "2019-07-24",
+        "symbol": "PTC",
+        "actualEarningResult": 0.36,
+        "estimatedEarning": 0.35
+    },
+    {
+        "date": "2019-04-24",
+        "symbol": "PTC",
+        "actualEarningResult": 0.38,
+        "estimatedEarning": 0.34
+    },
+    {
+        "date": "2019-01-23",
+        "symbol": "PTC",
+        "actualEarningResult": 0.56,
+        "estimatedEarning": 0.41
+    },
+    {
+        "date": "2018-10-24",
+        "symbol": "PTC",
+        "actualEarningResult": 0.45,
+        "estimatedEarning": 0.44
+    },
+    {
+        "date": "2018-07-18",
+        "symbol": "PTC",
+        "actualEarningResult": 0.36,
+        "estimatedEarning": 0.32
+    },
+    {
+        "date": "2018-04-18",
+        "symbol": "PTC",
+        "actualEarningResult": 0.34,
+        "estimatedEarning": 0.31
+    },
+    {
+        "date": "2018-01-17",
+        "symbol": "PTC",
+        "actualEarningResult": 0.31,
+        "estimatedEarning": 0.3
+    },
+    {
+        "date": "2017-10-25",
+        "symbol": "PTC",
+        "actualEarningResult": 0.34,
+        "estimatedEarning": 0.37
+    },
+    {
+        "date": "2017-07-19",
+        "symbol": "PTC",
+        "actualEarningResult": 0.28,
+        "estimatedEarning": 0.28
+    },
+    {
+        "date": "2017-04-19",
+        "symbol": "PTC",
+        "actualEarningResult": 0.3,
+        "estimatedEarning": 0.28
+    },
+    {
+        "date": "2017-01-18",
+        "symbol": "PTC",
+        "actualEarningResult": 0.26,
+        "estimatedEarning": 0.26
+    },
+    {
+        "date": "2016-10-26",
+        "symbol": "PTC",
+        "actualEarningResult": 0.2,
+        "estimatedEarning": 0.25
+    },
+    {
+        "date": "2016-07-20",
+        "symbol": "PTC",
+        "actualEarningResult": 0.26,
+        "estimatedEarning": 0.33
+    },
+    {
+        "date": "2016-04-20",
+        "symbol": "PTC",
+        "actualEarningResult": 0.23,
+        "estimatedEarning": 0.37
+    },
+    {
+        "date": "2016-01-20",
+        "symbol": "PTC",
+        "actualEarningResult": 0.5,
+        "estimatedEarning": 0.44
+    },
+    {
+        "date": "2015-10-28",
+        "symbol": "PTC",
+        "actualEarningResult": 0.67,
+        "estimatedEarning": 0.63
+    },
+    {
+        "date": "2015-07-29",
+        "symbol": "PTC",
+        "actualEarningResult": 0.53,
+        "estimatedEarning": 0.51
+    },
+    {
+        "date": "2015-04-29",
+        "symbol": "PTC",
+        "actualEarningResult": 0.53,
+        "estimatedEarning": 0.47
+    },
+    {
+        "date": "2015-01-28",
+        "symbol": "PTC",
+        "actualEarningResult": 0.5,
+        "estimatedEarning": 0.49
+    },
+    {
+        "date": "2014-11-05",
+        "symbol": "PTC",
+        "actualEarningResult": 0.67,
+        "estimatedEarning": 0.62
+    },
+    {
+        "date": "2014-07-23",
+        "symbol": "PTC",
+        "actualEarningResult": 0.53,
+        "estimatedEarning": 0.5
+    },
+    {
+        "date": "2014-04-23",
+        "symbol": "PTC",
+        "actualEarningResult": 0.48,
+        "estimatedEarning": 0.46
+    },
+    {
+        "date": "2014-01-22",
+        "symbol": "PTC",
+        "actualEarningResult": 0.5,
+        "estimatedEarning": 0.44
+    },
+    {
+        "date": "2013-11-06",
+        "symbol": "PTC",
+        "actualEarningResult": 0.59,
+        "estimatedEarning": 0.53
+    },
+    {
+        "date": "2013-07-24",
+        "symbol": "PTC",
+        "actualEarningResult": 0.45,
+        "estimatedEarning": 0.43
+    },
+    {
+        "date": "2013-04-24",
+        "symbol": "PTC",
+        "actualEarningResult": 0.41,
+        "estimatedEarning": 0.35
+    },
+    {
+        "date": "2013-01-23",
+        "symbol": "PTC",
+        "actualEarningResult": 0.36,
+        "estimatedEarning": 0.33
+    },
+    {
+        "date": "2012-10-31",
+        "symbol": "PTC",
+        "actualEarningResult": 0.5,
+        "estimatedEarning": 0.48
+    },
+    {
+        "date": "2012-07-25",
+        "symbol": "PTC",
+        "actualEarningResult": 0.37,
+        "estimatedEarning": 0.3
+    },
+    {
+        "date": "2012-04-25",
+        "symbol": "PTC",
+        "actualEarningResult": 0.3,
+        "estimatedEarning": 0.27
+    },
+    {
+        "date": "2012-01-25",
+        "symbol": "PTC",
+        "actualEarningResult": 0.35,
+        "estimatedEarning": 0.31
+    },
+    {
+        "date": "2011-10-26",
+        "symbol": "PTC",
+        "actualEarningResult": 0.47,
+        "estimatedEarning": 0.43
+    },
+    {
+        "date": "2011-07-26",
+        "symbol": "PTC",
+        "actualEarningResult": 0.32,
+        "estimatedEarning": 0.3
+    },
+    {
+        "date": "2011-04-27",
+        "symbol": "PTC",
+        "actualEarningResult": 0.26,
+        "estimatedEarning": 0.25
+    },
+    {
+        "date": "2011-01-26",
+        "symbol": "PTC",
+        "actualEarningResult": 0.22,
+        "estimatedEarning": 0.26
+    },
+    {
+        "date": "2010-10-26",
+        "symbol": "PTC",
+        "actualEarningResult": 0.32,
+        "estimatedEarning": 0.32
+    },
+    {
+        "date": "2010-07-27",
+        "symbol": "PTC",
+        "actualEarningResult": 0.21,
+        "estimatedEarning": 0.19
+    },
+    {
+        "date": "2010-04-27",
+        "symbol": "PTC",
+        "actualEarningResult": 0.2,
+        "estimatedEarning": 0.19
+    },
+    {
+        "date": "2010-01-26",
+        "symbol": "PTC",
+        "actualEarningResult": 0.27,
+        "estimatedEarning": 0.17
+    },
+    {
+        "date": "2009-10-27",
+        "symbol": "PTC",
+        "actualEarningResult": 0.3,
+        "estimatedEarning": 0.28
+    },
+    {
+        "date": "2009-07-28",
+        "symbol": "PTC",
+        "actualEarningResult": 0.2,
+        "estimatedEarning": 0.16
+    },
+    {
+        "date": "2009-04-28",
+        "symbol": "PTC",
+        "actualEarningResult": 0.15,
+        "estimatedEarning": 0.08
+    },
+    {
+        "date": "2009-01-27",
+        "symbol": "PTC",
+        "actualEarningResult": 0.15,
+        "estimatedEarning": 0.15
+    },
+    {
+        "date": "2008-10-30",
+        "symbol": "PTC",
+        "actualEarningResult": 0.45,
+        "estimatedEarning": 0.4
+    },
+    {
+        "date": "2008-07-22",
+        "symbol": "PTC",
+        "actualEarningResult": 0.33,
+        "estimatedEarning": 0.3
+    },
+    {
+        "date": "2008-04-23",
+        "symbol": "PTC",
+        "actualEarningResult": 0.3,
+        "estimatedEarning": 0.26
+    },
+    {
+        "date": "2008-01-23",
+        "symbol": "PTC",
+        "actualEarningResult": 0.26,
+        "estimatedEarning": 0.23
+    },
+    {
+        "date": "2007-10-31",
+        "symbol": "PTC",
+        "actualEarningResult": 0.38,
+        "estimatedEarning": 0.26
+    },
+    {
+        "date": "2007-07-25",
+        "symbol": "PTC",
+        "actualEarningResult": 0.16,
+        "estimatedEarning": 0.21
+    },
+    {
+        "date": "2007-04-25",
+        "symbol": "PTC",
+        "actualEarningResult": 0.24,
+        "estimatedEarning": 0.24
+    },
+    {
+        "date": "2007-01-24",
+        "symbol": "PTC",
+        "actualEarningResult": 0.23,
+        "estimatedEarning": 0.21
+    },
+    {
+        "date": "2006-11-01",
+        "symbol": "PTC",
+        "actualEarningResult": 0.37,
+        "estimatedEarning": 0.36
+    },
+    {
+        "date": "2006-07-26",
+        "symbol": "PTC",
+        "actualEarningResult": 0.26,
+        "estimatedEarning": 0.23
+    },
+    {
+        "date": "2006-04-26",
+        "symbol": "PTC",
+        "actualEarningResult": 0.2,
+        "estimatedEarning": 0.22
+    },
+    {
+        "date": "2006-01-25",
+        "symbol": "PTC",
+        "actualEarningResult": 0.18,
+        "estimatedEarning": 0.17
+    },
+    {
+        "date": "2005-11-02",
+        "symbol": "PTC",
+        "actualEarningResult": 0.23,
+        "estimatedEarning": 0.19
+    },
+    {
+        "date": "2005-07-20",
+        "symbol": "PTC",
+        "actualEarningResult": 0.2,
+        "estimatedEarning": 0.19
+    },
+    {
+        "date": "2005-04-27",
+        "symbol": "PTC",
+        "actualEarningResult": 0.18,
+        "estimatedEarning": 0.18
+    },
+    {
+        "date": "2005-01-19",
+        "symbol": "PTC",
+        "actualEarningResult": 0.18,
+        "estimatedEarning": 0.13
+    },
+    {
+        "date": "2004-10-20",
+        "symbol": "PTC",
+        "actualEarningResult": 0.38,
+        "estimatedEarning": 0.22
+    },
+    {
+        "date": "2004-07-21",
+        "symbol": "PTC",
+        "actualEarningResult": 0.15,
+        "estimatedEarning": 0.11
+    },
+    {
+        "date": "2004-04-21",
+        "symbol": "PTC",
+        "actualEarningResult": 0.03,
+        "estimatedEarning": 0.00882
+    },
+    {
+        "date": "2004-01-21",
+        "symbol": "PTC",
+        "actualEarningResult": -0.25,
+        "estimatedEarning": -0.33
+    },
+    {
+        "date": "2003-10-22",
+        "symbol": "PTC",
+        "actualEarningResult": -0.35,
+        "estimatedEarning": -0.29
+    },
+    {
+        "date": "2003-07-16",
+        "symbol": "PTC",
+        "actualEarningResult": -0.32,
+        "estimatedEarning": -0.31
+    },
+    {
+        "date": "2003-04-16",
+        "symbol": "PTC",
+        "actualEarningResult": -0.15,
+        "estimatedEarning": -0.1
+    },
+    {
+        "date": "2003-01-14",
+        "symbol": "PTC",
+        "actualEarningResult": -0.1,
+        "estimatedEarning": -0.06
+    },
+    {
+        "date": "2002-10-15",
+        "symbol": "PTC",
+        "actualEarningResult": -0.02,
+        "estimatedEarning": -0.004
+    },
+    {
+        "date": "2002-07-16",
+        "symbol": "PTC",
+        "actualEarningResult": -0.05,
+        "estimatedEarning": -0.05
+    },
+    {
+        "date": "2002-04-16",
+        "symbol": "PTC",
+        "actualEarningResult": -0.05,
+        "estimatedEarning": -0.02812
+    },
+    {
+        "date": "2002-01-15",
+        "symbol": "PTC",
+        "actualEarningResult": 0.08,
+        "estimatedEarning": 0.07
+    },
+    {
+        "date": "2001-10-16",
+        "symbol": "PTC",
+        "actualEarningResult": 0.08,
+        "estimatedEarning": 0.02889
+    },
+    {
+        "date": "2001-07-17",
+        "symbol": "PTC",
+        "actualEarningResult": 0.08,
+        "estimatedEarning": 0.08
+    },
+    {
+        "date": "2001-04-17",
+        "symbol": "PTC",
+        "actualEarningResult": 0.18,
+        "estimatedEarning": 0.18
+    },
+    {
+        "date": "2001-01-16",
+        "symbol": "PTC",
+        "actualEarningResult": 0.13,
+        "estimatedEarning": 0.13
+    },
+    {
+        "date": "2000-10-17",
+        "symbol": "PTC",
+        "actualEarningResult": 0.13,
+        "estimatedEarning": 0.039
+    },
+    {
+        "date": "2000-07-18",
+        "symbol": "PTC",
+        "actualEarningResult": 0.08,
+        "estimatedEarning": 0.016
+    },
+    {
+        "date": "2000-04-18",
+        "symbol": "PTC",
+        "actualEarningResult": -0.05,
+        "estimatedEarning": -0.00555
+    },
+    {
+        "date": "2000-01-18",
+        "symbol": "PTC",
+        "actualEarningResult": 0.1,
+        "estimatedEarning": 0.13
+    },
+    {
+        "date": "1999-10-19",
+        "symbol": "PTC",
+        "actualEarningResult": 0.45,
+        "estimatedEarning": 0.4
+    },
+    {
+        "date": "1999-07-20",
+        "symbol": "PTC",
+        "actualEarningResult": 0.4,
+        "estimatedEarning": 0.41
+    },
+    {
+        "date": "1999-04-20",
+        "symbol": "PTC",
+        "actualEarningResult": 0.4,
+        "estimatedEarning": 0.44
+    },
+    {
+        "date": "1999-01-19",
+        "symbol": "PTC",
+        "actualEarningResult": 0.4,
+        "estimatedEarning": 0.44
+    },
+    {
+        "date": "1998-10-15",
+        "symbol": "PTC",
+        "actualEarningResult": 0.43,
+        "estimatedEarning": 0.42
+    },
+    {
+        "date": "1998-07-16",
+        "symbol": "PTC",
+        "actualEarningResult": 0.4,
+        "estimatedEarning": 0.43
+    },
+    {
+        "date": "1998-04-16",
+        "symbol": "PTC",
+        "actualEarningResult": 0.6,
+        "estimatedEarning": 0.6
+    },
+    {
+        "date": "1998-01-15",
+        "symbol": "PTC",
+        "actualEarningResult": 0.61,
+        "estimatedEarning": 0.57
+    },
+    {
+        "date": "1997-10-16",
+        "symbol": "PTC",
+        "actualEarningResult": 0.57,
+        "estimatedEarning": 0.58
+    },
+    {
+        "date": "1997-07-10",
+        "symbol": "PTC",
+        "actualEarningResult": 0.53,
+        "estimatedEarning": 0.53
+    },
+    {
+        "date": "1997-04-10",
+        "symbol": "PTC",
+        "actualEarningResult": 0.49,
+        "estimatedEarning": 0.49
+    },
+    {
+        "date": "1997-01-15",
+        "symbol": "PTC",
+        "actualEarningResult": 0.46,
+        "estimatedEarning": 0.45
+    },
+    {
+        "date": "1996-10-17",
+        "symbol": "PTC",
+        "actualEarningResult": 0.44,
+        "estimatedEarning": 0.43
+    },
+    {
+        "date": "1996-07-11",
+        "symbol": "PTC",
+        "actualEarningResult": 0.39,
+        "estimatedEarning": 0.38
+    },
+    {
+        "date": "1996-04-11",
+        "symbol": "PTC",
+        "actualEarningResult": 0.35,
+        "estimatedEarning": 0.34
+    },
+    {
+        "date": "1996-01-16",
+        "symbol": "PTC",
+        "actualEarningResult": 0.31,
+        "estimatedEarning": 0.3
+    },
+    {
+        "date": "1995-10-19",
+        "symbol": "PTC",
+        "actualEarningResult": 0.29,
+        "estimatedEarning": 0.29
+    },
+    {
+        "date": "1995-07-13",
+        "symbol": "PTC",
+        "actualEarningResult": 0.26,
+        "estimatedEarning": 0.24
+    },
+    {
+        "date": "1995-04-13",
+        "symbol": "PTC",
+        "actualEarningResult": 0.23,
+        "estimatedEarning": 0.22
+    },
+    {
+        "date": "1995-01-12",
+        "symbol": "PTC",
+        "actualEarningResult": 0.21,
+        "estimatedEarning": 0.21
+    },
+    {
+        "date": "1994-10-20",
+        "symbol": "PTC",
+        "actualEarningResult": 0.2,
+        "estimatedEarning": 0.2
+    },
+    {
+        "date": "1994-07-14",
+        "symbol": "PTC",
+        "actualEarningResult": 0.19,
+        "estimatedEarning": 0.18
+    },
+    {
+        "date": "1994-04-14",
+        "symbol": "PTC",
+        "actualEarningResult": 0.17,
+        "estimatedEarning": 0.17
+    },
+    {
+        "date": "1994-01-17",
+        "symbol": "PTC",
+        "actualEarningResult": 0.16,
+        "estimatedEarning": 0.15
+    },
+    {
+        "date": "1993-10-22",
+        "symbol": "PTC",
+        "actualEarningResult": 0.14,
+        "estimatedEarning": 0.14
+    },
+    {
+        "date": "1993-07-16",
+        "symbol": "PTC",
+        "actualEarningResult": 0.13,
+        "estimatedEarning": 0.11
+    },
+    {
+        "date": "1993-05-04",
+        "symbol": "PTC",
+        "actualEarningResult": 0.11,
+        "estimatedEarning": 0.1
+    },
+    {
+        "date": "1993-01-16",
+        "symbol": "PTC",
+        "actualEarningResult": 0.09,
+        "estimatedEarning": 0.08
+    }
+]

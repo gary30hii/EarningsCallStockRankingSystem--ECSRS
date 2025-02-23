@@ -1,0 +1,230 @@
+[
+    {
+        "date": "2024-11-12",
+        "symbol": "NTRA",
+        "actualEarningResult": -0.26,
+        "estimatedEarning": -0.57461
+    },
+    {
+        "date": "2024-08-08",
+        "symbol": "NTRA",
+        "actualEarningResult": -0.3,
+        "estimatedEarning": -0.68873
+    },
+    {
+        "date": "2024-05-09",
+        "symbol": "NTRA",
+        "actualEarningResult": -0.56,
+        "estimatedEarning": -0.7052
+    },
+    {
+        "date": "2024-02-28",
+        "symbol": "NTRA",
+        "actualEarningResult": -0.64,
+        "estimatedEarning": -0.73
+    },
+    {
+        "date": "2023-11-14",
+        "symbol": "NTRA",
+        "actualEarningResult": -0.95,
+        "estimatedEarning": -0.96
+    },
+    {
+        "date": "2023-08-03",
+        "symbol": "NTRA",
+        "actualEarningResult": -0.97,
+        "estimatedEarning": -1.09
+    },
+    {
+        "date": "2023-05-09",
+        "symbol": "NTRA",
+        "actualEarningResult": -1.23,
+        "estimatedEarning": -1.18
+    },
+    {
+        "date": "2023-02-28",
+        "symbol": "NTRA",
+        "actualEarningResult": -1.37,
+        "estimatedEarning": -1.4
+    },
+    {
+        "date": "2022-11-08",
+        "symbol": "NTRA",
+        "actualEarningResult": -1.25,
+        "estimatedEarning": -1.42
+    },
+    {
+        "date": "2022-08-04",
+        "symbol": "NTRA",
+        "actualEarningResult": -1.5,
+        "estimatedEarning": -1.47
+    },
+    {
+        "date": "2022-05-05",
+        "symbol": "NTRA",
+        "actualEarningResult": -1.45,
+        "estimatedEarning": -1.5
+    },
+    {
+        "date": "2022-02-24",
+        "symbol": "NTRA",
+        "actualEarningResult": -1.48,
+        "estimatedEarning": -1.24
+    },
+    {
+        "date": "2021-11-04",
+        "symbol": "NTRA",
+        "actualEarningResult": -1.63,
+        "estimatedEarning": -1.27
+    },
+    {
+        "date": "2021-08-05",
+        "symbol": "NTRA",
+        "actualEarningResult": -1.32,
+        "estimatedEarning": -1.05
+    },
+    {
+        "date": "2021-05-06",
+        "symbol": "NTRA",
+        "actualEarningResult": -0.74,
+        "estimatedEarning": -1.05
+    },
+    {
+        "date": "2021-02-25",
+        "symbol": "NTRA",
+        "actualEarningResult": -0.89,
+        "estimatedEarning": -0.61
+    },
+    {
+        "date": "2020-11-05",
+        "symbol": "NTRA",
+        "actualEarningResult": -0.72,
+        "estimatedEarning": -0.67
+    },
+    {
+        "date": "2020-08-05",
+        "symbol": "NTRA",
+        "actualEarningResult": -0.69,
+        "estimatedEarning": -0.57
+    },
+    {
+        "date": "2020-05-06",
+        "symbol": "NTRA",
+        "actualEarningResult": -0.45,
+        "estimatedEarning": -0.57
+    },
+    {
+        "date": "2020-02-26",
+        "symbol": "NTRA",
+        "actualEarningResult": -0.46,
+        "estimatedEarning": -0.6
+    },
+    {
+        "date": "2019-11-06",
+        "symbol": "NTRA",
+        "actualEarningResult": -0.53,
+        "estimatedEarning": -0.53
+    },
+    {
+        "date": "2019-08-07",
+        "symbol": "NTRA",
+        "actualEarningResult": -0.48,
+        "estimatedEarning": -0.57
+    },
+    {
+        "date": "2019-05-09",
+        "symbol": "NTRA",
+        "actualEarningResult": -0.54,
+        "estimatedEarning": -0.59
+    },
+    {
+        "date": "2019-03-12",
+        "symbol": "NTRA",
+        "actualEarningResult": -0.51,
+        "estimatedEarning": -0.49
+    },
+    {
+        "date": "2018-11-08",
+        "symbol": "NTRA",
+        "actualEarningResult": -0.49,
+        "estimatedEarning": -0.46
+    },
+    {
+        "date": "2018-08-08",
+        "symbol": "NTRA",
+        "actualEarningResult": -0.55,
+        "estimatedEarning": -0.52
+    },
+    {
+        "date": "2018-05-08",
+        "symbol": "NTRA",
+        "actualEarningResult": -0.61,
+        "estimatedEarning": -0.54
+    },
+    {
+        "date": "2018-03-13",
+        "symbol": "NTRA",
+        "actualEarningResult": -0.73,
+        "estimatedEarning": -0.46
+    },
+    {
+        "date": "2017-11-08",
+        "symbol": "NTRA",
+        "actualEarningResult": -0.51,
+        "estimatedEarning": -0.47
+    },
+    {
+        "date": "2017-08-08",
+        "symbol": "NTRA",
+        "actualEarningResult": -0.52,
+        "estimatedEarning": -0.52
+    },
+    {
+        "date": "2017-05-09",
+        "symbol": "NTRA",
+        "actualEarningResult": -0.7,
+        "estimatedEarning": -0.61
+    },
+    {
+        "date": "2017-03-07",
+        "symbol": "NTRA",
+        "actualEarningResult": -0.72,
+        "estimatedEarning": -0.54
+    },
+    {
+        "date": "2016-11-09",
+        "symbol": "NTRA",
+        "actualEarningResult": -0.5,
+        "estimatedEarning": -0.52
+    },
+    {
+        "date": "2016-08-04",
+        "symbol": "NTRA",
+        "actualEarningResult": -0.46,
+        "estimatedEarning": -0.48
+    },
+    {
+        "date": "2016-05-10",
+        "symbol": "NTRA",
+        "actualEarningResult": -0.17,
+        "estimatedEarning": -0.5
+    },
+    {
+        "date": "2016-03-08",
+        "symbol": "NTRA",
+        "actualEarningResult": -0.47,
+        "estimatedEarning": -0.56
+    },
+    {
+        "date": "2015-11-12",
+        "symbol": "NTRA",
+        "actualEarningResult": -0.39,
+        "estimatedEarning": -0.42
+    },
+    {
+        "date": "2015-08-12",
+        "symbol": "NTRA",
+        "actualEarningResult": -2.98,
+        "estimatedEarning": -0.45
+    }
+]

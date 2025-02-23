@@ -1,0 +1,224 @@
+[
+    {
+        "date": "2024-10-30",
+        "symbol": "KHC",
+        "actualEarningResult": 0.75,
+        "estimatedEarning": 0.743
+    },
+    {
+        "date": "2024-07-31",
+        "symbol": "KHC",
+        "actualEarningResult": 0.78,
+        "estimatedEarning": 0.734
+    },
+    {
+        "date": "2024-05-01",
+        "symbol": "KHC",
+        "actualEarningResult": 0.69,
+        "estimatedEarning": 0.69
+    },
+    {
+        "date": "2024-02-14",
+        "symbol": "KHC",
+        "actualEarningResult": 0.78,
+        "estimatedEarning": 0.77
+    },
+    {
+        "date": "2023-11-01",
+        "symbol": "KHC",
+        "actualEarningResult": 0.72,
+        "estimatedEarning": 0.66
+    },
+    {
+        "date": "2023-08-02",
+        "symbol": "KHC",
+        "actualEarningResult": 0.79,
+        "estimatedEarning": 0.76
+    },
+    {
+        "date": "2023-05-03",
+        "symbol": "KHC",
+        "actualEarningResult": 0.68,
+        "estimatedEarning": 0.6
+    },
+    {
+        "date": "2023-02-15",
+        "symbol": "KHC",
+        "actualEarningResult": 0.85,
+        "estimatedEarning": 0.78
+    },
+    {
+        "date": "2022-10-26",
+        "symbol": "KHC",
+        "actualEarningResult": 0.63,
+        "estimatedEarning": 0.55
+    },
+    {
+        "date": "2022-07-27",
+        "symbol": "KHC",
+        "actualEarningResult": 0.7,
+        "estimatedEarning": 0.67
+    },
+    {
+        "date": "2022-04-27",
+        "symbol": "KHC",
+        "actualEarningResult": 0.6,
+        "estimatedEarning": 0.53
+    },
+    {
+        "date": "2022-02-16",
+        "symbol": "KHC",
+        "actualEarningResult": 0.79,
+        "estimatedEarning": 0.62
+    },
+    {
+        "date": "2021-10-27",
+        "symbol": "KHC",
+        "actualEarningResult": 0.65,
+        "estimatedEarning": 0.58
+    },
+    {
+        "date": "2021-08-04",
+        "symbol": "KHC",
+        "actualEarningResult": 0.78,
+        "estimatedEarning": 0.73
+    },
+    {
+        "date": "2021-04-29",
+        "symbol": "KHC",
+        "actualEarningResult": 0.72,
+        "estimatedEarning": 0.6
+    },
+    {
+        "date": "2021-02-11",
+        "symbol": "KHC",
+        "actualEarningResult": 0.8,
+        "estimatedEarning": 0.74
+    },
+    {
+        "date": "2020-10-29",
+        "symbol": "KHC",
+        "actualEarningResult": 0.7,
+        "estimatedEarning": 0.63
+    },
+    {
+        "date": "2020-07-30",
+        "symbol": "KHC",
+        "actualEarningResult": 0.8,
+        "estimatedEarning": 0.64
+    },
+    {
+        "date": "2020-04-30",
+        "symbol": "KHC",
+        "actualEarningResult": 0.58,
+        "estimatedEarning": 0.54
+    },
+    {
+        "date": "2020-02-13",
+        "symbol": "KHC",
+        "actualEarningResult": 0.72,
+        "estimatedEarning": 0.68
+    },
+    {
+        "date": "2019-10-31",
+        "symbol": "KHC",
+        "actualEarningResult": 0.69,
+        "estimatedEarning": 0.54
+    },
+    {
+        "date": "2019-08-08",
+        "symbol": "KHC",
+        "actualEarningResult": 0.78,
+        "estimatedEarning": 0.75
+    },
+    {
+        "date": "2019-02-21",
+        "symbol": "KHC",
+        "actualEarningResult": 0.84,
+        "estimatedEarning": 0.93
+    },
+    {
+        "date": "2018-11-01",
+        "symbol": "KHC",
+        "actualEarningResult": 0.78,
+        "estimatedEarning": 0.81
+    },
+    {
+        "date": "2018-08-03",
+        "symbol": "KHC",
+        "actualEarningResult": 1,
+        "estimatedEarning": 0.91
+    },
+    {
+        "date": "2018-05-02",
+        "symbol": "KHC",
+        "actualEarningResult": 0.89,
+        "estimatedEarning": 0.82
+    },
+    {
+        "date": "2018-02-16",
+        "symbol": "KHC",
+        "actualEarningResult": 0.9,
+        "estimatedEarning": 0.95
+    },
+    {
+        "date": "2017-11-01",
+        "symbol": "KHC",
+        "actualEarningResult": 0.83,
+        "estimatedEarning": 0.82
+    },
+    {
+        "date": "2017-08-03",
+        "symbol": "KHC",
+        "actualEarningResult": 0.98,
+        "estimatedEarning": 0.95
+    },
+    {
+        "date": "2017-05-03",
+        "symbol": "KHC",
+        "actualEarningResult": 0.84,
+        "estimatedEarning": 0.86
+    },
+    {
+        "date": "2017-02-15",
+        "symbol": "KHC",
+        "actualEarningResult": 0.91,
+        "estimatedEarning": 0.88
+    },
+    {
+        "date": "2016-11-03",
+        "symbol": "KHC",
+        "actualEarningResult": 0.83,
+        "estimatedEarning": 0.75
+    },
+    {
+        "date": "2016-08-04",
+        "symbol": "KHC",
+        "actualEarningResult": 0.85,
+        "estimatedEarning": 0.71
+    },
+    {
+        "date": "2016-05-04",
+        "symbol": "KHC",
+        "actualEarningResult": 0.73,
+        "estimatedEarning": 0.62
+    },
+    {
+        "date": "2016-02-25",
+        "symbol": "KHC",
+        "actualEarningResult": 0.62,
+        "estimatedEarning": 0.58
+    },
+    {
+        "date": "2015-11-05",
+        "symbol": "KHC",
+        "actualEarningResult": 0.44,
+        "estimatedEarning": 0.59
+    },
+    {
+        "date": "2015-08-10",
+        "symbol": "KHC",
+        "actualEarningResult": 0.98,
+        "estimatedEarning": 0.84
+    }
+]

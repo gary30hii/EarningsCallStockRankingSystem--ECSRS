@@ -1,0 +1,254 @@
+[
+    {
+        "date": "2024-11-07",
+        "symbol": "ANET",
+        "actualEarningResult": 2.4,
+        "estimatedEarning": 2.08
+    },
+    {
+        "date": "2024-07-29",
+        "symbol": "ANET",
+        "actualEarningResult": 2.1,
+        "estimatedEarning": 1.95
+    },
+    {
+        "date": "2024-05-06",
+        "symbol": "ANET",
+        "actualEarningResult": 1.99,
+        "estimatedEarning": 1.74
+    },
+    {
+        "date": "2024-02-12",
+        "symbol": "ANET",
+        "actualEarningResult": 2.08,
+        "estimatedEarning": 1.7
+    },
+    {
+        "date": "2023-10-30",
+        "symbol": "ANET",
+        "actualEarningResult": 1.83,
+        "estimatedEarning": 1.58
+    },
+    {
+        "date": "2023-07-31",
+        "symbol": "ANET",
+        "actualEarningResult": 1.58,
+        "estimatedEarning": 1.44
+    },
+    {
+        "date": "2023-05-01",
+        "symbol": "ANET",
+        "actualEarningResult": 1.43,
+        "estimatedEarning": 1.34
+    },
+    {
+        "date": "2023-02-13",
+        "symbol": "ANET",
+        "actualEarningResult": 1.41,
+        "estimatedEarning": 1.21
+    },
+    {
+        "date": "2022-10-31",
+        "symbol": "ANET",
+        "actualEarningResult": 1.25,
+        "estimatedEarning": 1.04
+    },
+    {
+        "date": "2022-08-01",
+        "symbol": "ANET",
+        "actualEarningResult": 1.08,
+        "estimatedEarning": 0.91
+    },
+    {
+        "date": "2022-05-02",
+        "symbol": "ANET",
+        "actualEarningResult": 0.84,
+        "estimatedEarning": 0.81
+    },
+    {
+        "date": "2022-02-14",
+        "symbol": "ANET",
+        "actualEarningResult": 0.82,
+        "estimatedEarning": 0.73
+    },
+    {
+        "date": "2021-11-01",
+        "symbol": "ANET",
+        "actualEarningResult": 0.74,
+        "estimatedEarning": 0.68
+    },
+    {
+        "date": "2021-08-02",
+        "symbol": "ANET",
+        "actualEarningResult": 0.68,
+        "estimatedEarning": 0.64
+    },
+    {
+        "date": "2021-05-04",
+        "symbol": "ANET",
+        "actualEarningResult": 0.63,
+        "estimatedEarning": 0.6
+    },
+    {
+        "date": "2021-02-18",
+        "symbol": "ANET",
+        "actualEarningResult": 0.62,
+        "estimatedEarning": 0.6
+    },
+    {
+        "date": "2020-11-02",
+        "symbol": "ANET",
+        "actualEarningResult": 0.61,
+        "estimatedEarning": 0.55
+    },
+    {
+        "date": "2020-08-04",
+        "symbol": "ANET",
+        "actualEarningResult": 0.53,
+        "estimatedEarning": 0.49
+    },
+    {
+        "date": "2020-05-05",
+        "symbol": "ANET",
+        "actualEarningResult": 0.51,
+        "estimatedEarning": 0.45
+    },
+    {
+        "date": "2020-02-13",
+        "symbol": "ANET",
+        "actualEarningResult": 0.57,
+        "estimatedEarning": 0.52
+    },
+    {
+        "date": "2019-10-31",
+        "symbol": "ANET",
+        "actualEarningResult": 0.67,
+        "estimatedEarning": 0.6
+    },
+    {
+        "date": "2019-08-01",
+        "symbol": "ANET",
+        "actualEarningResult": 0.61,
+        "estimatedEarning": 0.55
+    },
+    {
+        "date": "2019-05-02",
+        "symbol": "ANET",
+        "actualEarningResult": 0.58,
+        "estimatedEarning": 0.52
+    },
+    {
+        "date": "2019-02-14",
+        "symbol": "ANET",
+        "actualEarningResult": 0.56,
+        "estimatedEarning": 0.52
+    },
+    {
+        "date": "2018-11-01",
+        "symbol": "ANET",
+        "actualEarningResult": 0.53,
+        "estimatedEarning": 0.46
+    },
+    {
+        "date": "2018-08-02",
+        "symbol": "ANET",
+        "actualEarningResult": 0.48,
+        "estimatedEarning": 0.42
+    },
+    {
+        "date": "2018-05-03",
+        "symbol": "ANET",
+        "actualEarningResult": 0.42,
+        "estimatedEarning": 0.38
+    },
+    {
+        "date": "2018-02-15",
+        "symbol": "ANET",
+        "actualEarningResult": 0.43,
+        "estimatedEarning": 0.35
+    },
+    {
+        "date": "2017-11-02",
+        "symbol": "ANET",
+        "actualEarningResult": 0.41,
+        "estimatedEarning": 0.3
+    },
+    {
+        "date": "2017-08-03",
+        "symbol": "ANET",
+        "actualEarningResult": 0.34,
+        "estimatedEarning": 0.24
+    },
+    {
+        "date": "2017-05-04",
+        "symbol": "ANET",
+        "actualEarningResult": 0.23,
+        "estimatedEarning": 0.21
+    },
+    {
+        "date": "2017-02-16",
+        "symbol": "ANET",
+        "actualEarningResult": 0.26,
+        "estimatedEarning": 0.2
+    },
+    {
+        "date": "2016-11-03",
+        "symbol": "ANET",
+        "actualEarningResult": 0.21,
+        "estimatedEarning": 0.18
+    },
+    {
+        "date": "2016-08-04",
+        "symbol": "ANET",
+        "actualEarningResult": 0.19,
+        "estimatedEarning": 0.17
+    },
+    {
+        "date": "2016-05-05",
+        "symbol": "ANET",
+        "actualEarningResult": 0.17,
+        "estimatedEarning": 0.15
+    },
+    {
+        "date": "2016-02-18",
+        "symbol": "ANET",
+        "actualEarningResult": 0.2,
+        "estimatedEarning": 0.15
+    },
+    {
+        "date": "2015-11-05",
+        "symbol": "ANET",
+        "actualEarningResult": 0.15,
+        "estimatedEarning": 0.13
+    },
+    {
+        "date": "2015-08-06",
+        "symbol": "ANET",
+        "actualEarningResult": 0.14,
+        "estimatedEarning": 0.12
+    },
+    {
+        "date": "2015-05-14",
+        "symbol": "ANET",
+        "actualEarningResult": 0.13,
+        "estimatedEarning": 0.09
+    },
+    {
+        "date": "2015-02-19",
+        "symbol": "ANET",
+        "actualEarningResult": 0.13,
+        "estimatedEarning": 0.1
+    },
+    {
+        "date": "2014-11-06",
+        "symbol": "ANET",
+        "actualEarningResult": 0.1,
+        "estimatedEarning": 0.07
+    },
+    {
+        "date": "2014-08-07",
+        "symbol": "ANET",
+        "actualEarningResult": 0.02,
+        "estimatedEarning": 0.00733
+    }
+]

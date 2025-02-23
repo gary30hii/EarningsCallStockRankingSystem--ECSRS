@@ -1,0 +1,464 @@
+[
+    {
+        "date": "2024-11-05",
+        "symbol": "BLDR",
+        "actualEarningResult": 3.07,
+        "estimatedEarning": 2.98
+    },
+    {
+        "date": "2024-08-06",
+        "symbol": "BLDR",
+        "actualEarningResult": 3.5,
+        "estimatedEarning": 3.02
+    },
+    {
+        "date": "2024-05-07",
+        "symbol": "BLDR",
+        "actualEarningResult": 2.65,
+        "estimatedEarning": 2.3
+    },
+    {
+        "date": "2024-02-22",
+        "symbol": "BLDR",
+        "actualEarningResult": 3.55,
+        "estimatedEarning": 2.54
+    },
+    {
+        "date": "2023-11-01",
+        "symbol": "BLDR",
+        "actualEarningResult": 4.24,
+        "estimatedEarning": 3.73
+    },
+    {
+        "date": "2023-08-02",
+        "symbol": "BLDR",
+        "actualEarningResult": 3.89,
+        "estimatedEarning": 2.51
+    },
+    {
+        "date": "2023-05-03",
+        "symbol": "BLDR",
+        "actualEarningResult": 2.96,
+        "estimatedEarning": 1.51
+    },
+    {
+        "date": "2023-02-28",
+        "symbol": "BLDR",
+        "actualEarningResult": 3.21,
+        "estimatedEarning": 2.36
+    },
+    {
+        "date": "2022-11-08",
+        "symbol": "BLDR",
+        "actualEarningResult": 5.2,
+        "estimatedEarning": 3.32
+    },
+    {
+        "date": "2022-08-01",
+        "symbol": "BLDR",
+        "actualEarningResult": 6.26,
+        "estimatedEarning": 3.06
+    },
+    {
+        "date": "2022-05-10",
+        "symbol": "BLDR",
+        "actualEarningResult": 3.9,
+        "estimatedEarning": 1.98
+    },
+    {
+        "date": "2022-03-01",
+        "symbol": "BLDR",
+        "actualEarningResult": 2.78,
+        "estimatedEarning": 1.91
+    },
+    {
+        "date": "2021-11-04",
+        "symbol": "BLDR",
+        "actualEarningResult": 3.39,
+        "estimatedEarning": 1.6
+    },
+    {
+        "date": "2021-08-05",
+        "symbol": "BLDR",
+        "actualEarningResult": 2.76,
+        "estimatedEarning": 1.75
+    },
+    {
+        "date": "2021-05-06",
+        "symbol": "BLDR",
+        "actualEarningResult": 1.1,
+        "estimatedEarning": 0.81
+    },
+    {
+        "date": "2021-02-26",
+        "symbol": "BLDR",
+        "actualEarningResult": 1.26,
+        "estimatedEarning": 0.92
+    },
+    {
+        "date": "2020-10-29",
+        "symbol": "BLDR",
+        "actualEarningResult": 0.82,
+        "estimatedEarning": 0.64
+    },
+    {
+        "date": "2020-07-30",
+        "symbol": "BLDR",
+        "actualEarningResult": 0.67,
+        "estimatedEarning": 0.32
+    },
+    {
+        "date": "2020-04-30",
+        "symbol": "BLDR",
+        "actualEarningResult": 0.34,
+        "estimatedEarning": 0.28
+    },
+    {
+        "date": "2020-02-20",
+        "symbol": "BLDR",
+        "actualEarningResult": 0.4,
+        "estimatedEarning": 0.36
+    },
+    {
+        "date": "2019-10-31",
+        "symbol": "BLDR",
+        "actualEarningResult": 0.72,
+        "estimatedEarning": 0.59
+    },
+    {
+        "date": "2019-08-01",
+        "symbol": "BLDR",
+        "actualEarningResult": 0.63,
+        "estimatedEarning": 0.48
+    },
+    {
+        "date": "2019-05-02",
+        "symbol": "BLDR",
+        "actualEarningResult": 0.34,
+        "estimatedEarning": 0.23
+    },
+    {
+        "date": "2019-02-28",
+        "symbol": "BLDR",
+        "actualEarningResult": 0.46,
+        "estimatedEarning": 0.42
+    },
+    {
+        "date": "2018-11-01",
+        "symbol": "BLDR",
+        "actualEarningResult": 0.67,
+        "estimatedEarning": 0.6
+    },
+    {
+        "date": "2018-08-07",
+        "symbol": "BLDR",
+        "actualEarningResult": 0.54,
+        "estimatedEarning": 0.54
+    },
+    {
+        "date": "2018-05-09",
+        "symbol": "BLDR",
+        "actualEarningResult": 0.24,
+        "estimatedEarning": 0.17
+    },
+    {
+        "date": "2018-02-28",
+        "symbol": "BLDR",
+        "actualEarningResult": 0.4,
+        "estimatedEarning": 0.17
+    },
+    {
+        "date": "2017-11-08",
+        "symbol": "BLDR",
+        "actualEarningResult": 0.39,
+        "estimatedEarning": 0.38
+    },
+    {
+        "date": "2017-08-03",
+        "symbol": "BLDR",
+        "actualEarningResult": 0.37,
+        "estimatedEarning": 0.34
+    },
+    {
+        "date": "2017-05-08",
+        "symbol": "BLDR",
+        "actualEarningResult": 0.11,
+        "estimatedEarning": 0.05
+    },
+    {
+        "date": "2017-02-28",
+        "symbol": "BLDR",
+        "actualEarningResult": 0.16,
+        "estimatedEarning": 0.08
+    },
+    {
+        "date": "2016-11-03",
+        "symbol": "BLDR",
+        "actualEarningResult": 0.61,
+        "estimatedEarning": 0.36
+    },
+    {
+        "date": "2016-08-04",
+        "symbol": "BLDR",
+        "actualEarningResult": 0.31,
+        "estimatedEarning": 0.36
+    },
+    {
+        "date": "2016-05-05",
+        "symbol": "BLDR",
+        "actualEarningResult": -0.11,
+        "estimatedEarning": -0.13
+    },
+    {
+        "date": "2016-03-03",
+        "symbol": "BLDR",
+        "actualEarningResult": -0.09626,
+        "estimatedEarning": -0.08
+    },
+    {
+        "date": "2015-11-05",
+        "symbol": "BLDR",
+        "actualEarningResult": 0.31,
+        "estimatedEarning": 0.14
+    },
+    {
+        "date": "2015-07-23",
+        "symbol": "BLDR",
+        "actualEarningResult": 0.14,
+        "estimatedEarning": 0.055
+    },
+    {
+        "date": "2015-04-23",
+        "symbol": "BLDR",
+        "actualEarningResult": -0.02,
+        "estimatedEarning": -0.0125
+    },
+    {
+        "date": "2015-02-19",
+        "symbol": "BLDR",
+        "actualEarningResult": 0.02,
+        "estimatedEarning": 0.085
+    },
+    {
+        "date": "2014-10-23",
+        "symbol": "BLDR",
+        "actualEarningResult": 0.07,
+        "estimatedEarning": 0.1
+    },
+    {
+        "date": "2014-07-24",
+        "symbol": "BLDR",
+        "actualEarningResult": 0.06,
+        "estimatedEarning": 0.12
+    },
+    {
+        "date": "2014-04-24",
+        "symbol": "BLDR",
+        "actualEarningResult": -0.01,
+        "estimatedEarning": -0.004
+    },
+    {
+        "date": "2014-02-20",
+        "symbol": "BLDR",
+        "actualEarningResult": 0.03,
+        "estimatedEarning": 0.01667
+    },
+    {
+        "date": "2013-10-24",
+        "symbol": "BLDR",
+        "actualEarningResult": 0.09,
+        "estimatedEarning": 0.034
+    },
+    {
+        "date": "2013-07-25",
+        "symbol": "BLDR",
+        "actualEarningResult": 0.01,
+        "estimatedEarning": 0.00441
+    },
+    {
+        "date": "2013-04-25",
+        "symbol": "BLDR",
+        "actualEarningResult": -0.07,
+        "estimatedEarning": -0.07
+    },
+    {
+        "date": "2013-02-21",
+        "symbol": "BLDR",
+        "actualEarningResult": -0.08,
+        "estimatedEarning": -0.07
+    },
+    {
+        "date": "2012-10-18",
+        "symbol": "BLDR",
+        "actualEarningResult": -0.07,
+        "estimatedEarning": -0.05
+    },
+    {
+        "date": "2012-07-19",
+        "symbol": "BLDR",
+        "actualEarningResult": -0.07,
+        "estimatedEarning": -0.05
+    },
+    {
+        "date": "2012-04-19",
+        "symbol": "BLDR",
+        "actualEarningResult": -0.11,
+        "estimatedEarning": -0.14
+    },
+    {
+        "date": "2012-02-16",
+        "symbol": "BLDR",
+        "actualEarningResult": -0.1,
+        "estimatedEarning": -0.12
+    },
+    {
+        "date": "2011-10-20",
+        "symbol": "BLDR",
+        "actualEarningResult": -0.07,
+        "estimatedEarning": -0.07
+    },
+    {
+        "date": "2011-07-21",
+        "symbol": "BLDR",
+        "actualEarningResult": -0.08,
+        "estimatedEarning": -0.11
+    },
+    {
+        "date": "2011-04-25",
+        "symbol": "BLDR",
+        "actualEarningResult": -0.13,
+        "estimatedEarning": -0.17
+    },
+    {
+        "date": "2011-02-17",
+        "symbol": "BLDR",
+        "actualEarningResult": -0.15,
+        "estimatedEarning": -0.18
+    },
+    {
+        "date": "2010-10-21",
+        "symbol": "BLDR",
+        "actualEarningResult": -0.13,
+        "estimatedEarning": -0.15
+    },
+    {
+        "date": "2010-07-22",
+        "symbol": "BLDR",
+        "actualEarningResult": -0.12,
+        "estimatedEarning": -0.14
+    },
+    {
+        "date": "2010-04-22",
+        "symbol": "BLDR",
+        "actualEarningResult": -0.21,
+        "estimatedEarning": -0.19
+    },
+    {
+        "date": "2010-02-18",
+        "symbol": "BLDR",
+        "actualEarningResult": -0.37,
+        "estimatedEarning": -0.42
+    },
+    {
+        "date": "2009-10-22",
+        "symbol": "BLDR",
+        "actualEarningResult": -0.27,
+        "estimatedEarning": -0.33
+    },
+    {
+        "date": "2009-07-23",
+        "symbol": "BLDR",
+        "actualEarningResult": -0.31,
+        "estimatedEarning": -0.46
+    },
+    {
+        "date": "2009-04-23",
+        "symbol": "BLDR",
+        "actualEarningResult": -0.46,
+        "estimatedEarning": -0.54
+    },
+    {
+        "date": "2009-02-19",
+        "symbol": "BLDR",
+        "actualEarningResult": -0.52,
+        "estimatedEarning": -0.58
+    },
+    {
+        "date": "2008-10-23",
+        "symbol": "BLDR",
+        "actualEarningResult": -0.37,
+        "estimatedEarning": -0.41
+    },
+    {
+        "date": "2008-07-31",
+        "symbol": "BLDR",
+        "actualEarningResult": -0.37,
+        "estimatedEarning": -0.35
+    },
+    {
+        "date": "2008-04-24",
+        "symbol": "BLDR",
+        "actualEarningResult": -0.45,
+        "estimatedEarning": -0.3
+    },
+    {
+        "date": "2008-02-20",
+        "symbol": "BLDR",
+        "actualEarningResult": -0.38,
+        "estimatedEarning": -0.33
+    },
+    {
+        "date": "2007-10-25",
+        "symbol": "BLDR",
+        "actualEarningResult": -0.31439,
+        "estimatedEarning": 0.25
+    },
+    {
+        "date": "2007-07-26",
+        "symbol": "BLDR",
+        "actualEarningResult": 0.23,
+        "estimatedEarning": 0.23
+    },
+    {
+        "date": "2007-04-25",
+        "symbol": "BLDR",
+        "actualEarningResult": 0.00587,
+        "estimatedEarning": 0.14
+    },
+    {
+        "date": "2007-02-22",
+        "symbol": "BLDR",
+        "actualEarningResult": 0.11,
+        "estimatedEarning": 0.32
+    },
+    {
+        "date": "2006-10-26",
+        "symbol": "BLDR",
+        "actualEarningResult": 0.6,
+        "estimatedEarning": 0.72
+    },
+    {
+        "date": "2006-07-27",
+        "symbol": "BLDR",
+        "actualEarningResult": 0.79,
+        "estimatedEarning": 0.75
+    },
+    {
+        "date": "2006-04-26",
+        "symbol": "BLDR",
+        "actualEarningResult": 0.54,
+        "estimatedEarning": 0.37
+    },
+    {
+        "date": "2006-02-23",
+        "symbol": "BLDR",
+        "actualEarningResult": 0.56,
+        "estimatedEarning": 0.48
+    },
+    {
+        "date": "2005-10-27",
+        "symbol": "BLDR",
+        "actualEarningResult": 0.8,
+        "estimatedEarning": 0.63
+    }
+]

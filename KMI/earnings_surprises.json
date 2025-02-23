@@ -1,0 +1,332 @@
+[
+    {
+        "date": "2024-10-16",
+        "symbol": "KMI",
+        "actualEarningResult": 0.25,
+        "estimatedEarning": 0.27
+    },
+    {
+        "date": "2024-07-17",
+        "symbol": "KMI",
+        "actualEarningResult": 0.25,
+        "estimatedEarning": 0.26
+    },
+    {
+        "date": "2024-04-17",
+        "symbol": "KMI",
+        "actualEarningResult": 0.34,
+        "estimatedEarning": 0.34
+    },
+    {
+        "date": "2024-01-17",
+        "symbol": "KMI",
+        "actualEarningResult": 0.27,
+        "estimatedEarning": 0.3
+    },
+    {
+        "date": "2023-10-18",
+        "symbol": "KMI",
+        "actualEarningResult": 0.25,
+        "estimatedEarning": 0.26
+    },
+    {
+        "date": "2023-07-19",
+        "symbol": "KMI",
+        "actualEarningResult": 0.24,
+        "estimatedEarning": 0.24
+    },
+    {
+        "date": "2023-04-19",
+        "symbol": "KMI",
+        "actualEarningResult": 0.3,
+        "estimatedEarning": 0.29
+    },
+    {
+        "date": "2023-01-18",
+        "symbol": "KMI",
+        "actualEarningResult": 0.31,
+        "estimatedEarning": 0.3
+    },
+    {
+        "date": "2022-10-19",
+        "symbol": "KMI",
+        "actualEarningResult": 0.25,
+        "estimatedEarning": 0.29
+    },
+    {
+        "date": "2022-07-20",
+        "symbol": "KMI",
+        "actualEarningResult": 0.27,
+        "estimatedEarning": 0.27
+    },
+    {
+        "date": "2022-04-20",
+        "symbol": "KMI",
+        "actualEarningResult": 0.32,
+        "estimatedEarning": 0.29
+    },
+    {
+        "date": "2022-01-19",
+        "symbol": "KMI",
+        "actualEarningResult": 0.27,
+        "estimatedEarning": 0.26
+    },
+    {
+        "date": "2021-10-20",
+        "symbol": "KMI",
+        "actualEarningResult": 0.22,
+        "estimatedEarning": 0.24
+    },
+    {
+        "date": "2021-07-21",
+        "symbol": "KMI",
+        "actualEarningResult": 0.23,
+        "estimatedEarning": 0.19
+    },
+    {
+        "date": "2021-04-21",
+        "symbol": "KMI",
+        "actualEarningResult": 0.6,
+        "estimatedEarning": 0.24
+    },
+    {
+        "date": "2021-01-20",
+        "symbol": "KMI",
+        "actualEarningResult": 0.27,
+        "estimatedEarning": 0.24
+    },
+    {
+        "date": "2020-10-21",
+        "symbol": "KMI",
+        "actualEarningResult": 0.21,
+        "estimatedEarning": 0.21
+    },
+    {
+        "date": "2020-07-22",
+        "symbol": "KMI",
+        "actualEarningResult": 0.17,
+        "estimatedEarning": 0.18
+    },
+    {
+        "date": "2020-04-22",
+        "symbol": "KMI",
+        "actualEarningResult": 0.24,
+        "estimatedEarning": 0.24
+    },
+    {
+        "date": "2020-01-22",
+        "symbol": "KMI",
+        "actualEarningResult": 0.26,
+        "estimatedEarning": 0.27
+    },
+    {
+        "date": "2019-10-16",
+        "symbol": "KMI",
+        "actualEarningResult": 0.22,
+        "estimatedEarning": 0.24
+    },
+    {
+        "date": "2019-07-17",
+        "symbol": "KMI",
+        "actualEarningResult": 0.22,
+        "estimatedEarning": 0.24
+    },
+    {
+        "date": "2019-04-17",
+        "symbol": "KMI",
+        "actualEarningResult": 0.25,
+        "estimatedEarning": 0.24
+    },
+    {
+        "date": "2019-01-16",
+        "symbol": "KMI",
+        "actualEarningResult": 0.25,
+        "estimatedEarning": 0.26
+    },
+    {
+        "date": "2018-10-17",
+        "symbol": "KMI",
+        "actualEarningResult": 0.21,
+        "estimatedEarning": 0.2
+    },
+    {
+        "date": "2018-07-18",
+        "symbol": "KMI",
+        "actualEarningResult": 0.21,
+        "estimatedEarning": 0.19
+    },
+    {
+        "date": "2018-04-18",
+        "symbol": "KMI",
+        "actualEarningResult": 0.22,
+        "estimatedEarning": 0.21
+    },
+    {
+        "date": "2018-01-17",
+        "symbol": "KMI",
+        "actualEarningResult": 0.21,
+        "estimatedEarning": 0.18
+    },
+    {
+        "date": "2017-10-20",
+        "symbol": "KMI",
+        "actualEarningResult": 0.15,
+        "estimatedEarning": 0.15
+    },
+    {
+        "date": "2017-07-19",
+        "symbol": "KMI",
+        "actualEarningResult": 0.14,
+        "estimatedEarning": 0.15
+    },
+    {
+        "date": "2017-04-19",
+        "symbol": "KMI",
+        "actualEarningResult": 0.17,
+        "estimatedEarning": 0.18
+    },
+    {
+        "date": "2017-01-18",
+        "symbol": "KMI",
+        "actualEarningResult": 0.19,
+        "estimatedEarning": 0.18
+    },
+    {
+        "date": "2016-10-19",
+        "symbol": "KMI",
+        "actualEarningResult": 0.16,
+        "estimatedEarning": 0.15
+    },
+    {
+        "date": "2016-07-20",
+        "symbol": "KMI",
+        "actualEarningResult": 0.15,
+        "estimatedEarning": 0.15
+    },
+    {
+        "date": "2016-04-20",
+        "symbol": "KMI",
+        "actualEarningResult": 0.12,
+        "estimatedEarning": 0.19
+    },
+    {
+        "date": "2016-01-20",
+        "symbol": "KMI",
+        "actualEarningResult": 0.27,
+        "estimatedEarning": 0.17
+    },
+    {
+        "date": "2015-10-21",
+        "symbol": "KMI",
+        "actualEarningResult": 0.19,
+        "estimatedEarning": 0.18
+    },
+    {
+        "date": "2015-07-15",
+        "symbol": "KMI",
+        "actualEarningResult": 0.16,
+        "estimatedEarning": 0.19
+    },
+    {
+        "date": "2015-04-15",
+        "symbol": "KMI",
+        "actualEarningResult": 0.24,
+        "estimatedEarning": 0.23
+    },
+    {
+        "date": "2015-01-21",
+        "symbol": "KMI",
+        "actualEarningResult": 0.27,
+        "estimatedEarning": 0.36
+    },
+    {
+        "date": "2014-10-15",
+        "symbol": "KMI",
+        "actualEarningResult": 0.32,
+        "estimatedEarning": 0.34
+    },
+    {
+        "date": "2014-07-16",
+        "symbol": "KMI",
+        "actualEarningResult": 0.27,
+        "estimatedEarning": 0.29
+    },
+    {
+        "date": "2014-04-16",
+        "symbol": "KMI",
+        "actualEarningResult": 0.28,
+        "estimatedEarning": 0.33
+    },
+    {
+        "date": "2014-01-15",
+        "symbol": "KMI",
+        "actualEarningResult": 0.33,
+        "estimatedEarning": 0.35
+    },
+    {
+        "date": "2013-10-16",
+        "symbol": "KMI",
+        "actualEarningResult": 0.27,
+        "estimatedEarning": 0.32
+    },
+    {
+        "date": "2013-07-17",
+        "symbol": "KMI",
+        "actualEarningResult": 0.27,
+        "estimatedEarning": 0.31
+    },
+    {
+        "date": "2013-04-17",
+        "symbol": "KMI",
+        "actualEarningResult": 0.28,
+        "estimatedEarning": 0.32
+    },
+    {
+        "date": "2013-01-16",
+        "symbol": "KMI",
+        "actualEarningResult": 0.34,
+        "estimatedEarning": 0.34
+    },
+    {
+        "date": "2012-10-17",
+        "symbol": "KMI",
+        "actualEarningResult": 0.19,
+        "estimatedEarning": 0.26
+    },
+    {
+        "date": "2012-07-18",
+        "symbol": "KMI",
+        "actualEarningResult": -0.15,
+        "estimatedEarning": 0.26
+    },
+    {
+        "date": "2012-04-18",
+        "symbol": "KMI",
+        "actualEarningResult": 0.56,
+        "estimatedEarning": 0.31
+    },
+    {
+        "date": "2012-01-18",
+        "symbol": "KMI",
+        "actualEarningResult": 0.4,
+        "estimatedEarning": 0.29
+    },
+    {
+        "date": "2011-10-19",
+        "symbol": "KMI",
+        "actualEarningResult": 0.21,
+        "estimatedEarning": 0.26
+    },
+    {
+        "date": "2011-07-20",
+        "symbol": "KMI",
+        "actualEarningResult": 0.19,
+        "estimatedEarning": 0.25
+    },
+    {
+        "date": "2011-04-20",
+        "symbol": "KMI",
+        "actualEarningResult": 0.12,
+        "estimatedEarning": 0.26
+    }
+]

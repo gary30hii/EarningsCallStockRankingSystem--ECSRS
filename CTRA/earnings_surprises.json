@@ -1,0 +1,602 @@
+[
+    {
+        "date": "2024-10-31",
+        "symbol": "CTRA",
+        "actualEarningResult": 0.32,
+        "estimatedEarning": 0.34
+    },
+    {
+        "date": "2024-08-01",
+        "symbol": "CTRA",
+        "actualEarningResult": 0.37,
+        "estimatedEarning": 0.39
+    },
+    {
+        "date": "2024-05-02",
+        "symbol": "CTRA",
+        "actualEarningResult": 0.51,
+        "estimatedEarning": 0.41
+    },
+    {
+        "date": "2024-02-22",
+        "symbol": "CTRA",
+        "actualEarningResult": 0.52,
+        "estimatedEarning": 0.55
+    },
+    {
+        "date": "2023-11-06",
+        "symbol": "CTRA",
+        "actualEarningResult": 0.5,
+        "estimatedEarning": 0.44
+    },
+    {
+        "date": "2023-08-07",
+        "symbol": "CTRA",
+        "actualEarningResult": 0.39,
+        "estimatedEarning": 0.36
+    },
+    {
+        "date": "2023-05-04",
+        "symbol": "CTRA",
+        "actualEarningResult": 0.87,
+        "estimatedEarning": 0.7
+    },
+    {
+        "date": "2023-02-22",
+        "symbol": "CTRA",
+        "actualEarningResult": 1.16,
+        "estimatedEarning": 1.1
+    },
+    {
+        "date": "2022-11-03",
+        "symbol": "CTRA",
+        "actualEarningResult": 1.42,
+        "estimatedEarning": 1.37
+    },
+    {
+        "date": "2022-08-02",
+        "symbol": "CTRA",
+        "actualEarningResult": 1.35,
+        "estimatedEarning": 1.23
+    },
+    {
+        "date": "2022-05-02",
+        "symbol": "CTRA",
+        "actualEarningResult": 1.01,
+        "estimatedEarning": 0.81
+    },
+    {
+        "date": "2022-02-23",
+        "symbol": "CTRA",
+        "actualEarningResult": 0.83,
+        "estimatedEarning": 1.02
+    },
+    {
+        "date": "2021-11-03",
+        "symbol": "CTRA",
+        "actualEarningResult": 0.52,
+        "estimatedEarning": 0.53
+    },
+    {
+        "date": "2021-07-30",
+        "symbol": "CTRA",
+        "actualEarningResult": 0.26,
+        "estimatedEarning": 0.28
+    },
+    {
+        "date": "2021-04-29",
+        "symbol": "CTRA",
+        "actualEarningResult": 0.38,
+        "estimatedEarning": 0.36
+    },
+    {
+        "date": "2021-02-23",
+        "symbol": "CTRA",
+        "actualEarningResult": 0.26,
+        "estimatedEarning": 0.21
+    },
+    {
+        "date": "2020-10-29",
+        "symbol": "CTRA",
+        "actualEarningResult": 0.09,
+        "estimatedEarning": 0.07
+    },
+    {
+        "date": "2020-07-30",
+        "symbol": "CTRA",
+        "actualEarningResult": 0.05,
+        "estimatedEarning": 0.02018
+    },
+    {
+        "date": "2020-04-30",
+        "symbol": "CTRA",
+        "actualEarningResult": 0.14,
+        "estimatedEarning": 0.13
+    },
+    {
+        "date": "2020-02-20",
+        "symbol": "CTRA",
+        "actualEarningResult": 0.3,
+        "estimatedEarning": 0.3
+    },
+    {
+        "date": "2019-10-24",
+        "symbol": "CTRA",
+        "actualEarningResult": 0.29,
+        "estimatedEarning": 0.27
+    },
+    {
+        "date": "2019-07-26",
+        "symbol": "CTRA",
+        "actualEarningResult": 0.36,
+        "estimatedEarning": 0.34
+    },
+    {
+        "date": "2019-04-26",
+        "symbol": "CTRA",
+        "actualEarningResult": 0.73,
+        "estimatedEarning": 0.63
+    },
+    {
+        "date": "2019-02-22",
+        "symbol": "CTRA",
+        "actualEarningResult": 0.55,
+        "estimatedEarning": 0.58
+    },
+    {
+        "date": "2018-10-26",
+        "symbol": "CTRA",
+        "actualEarningResult": 0.25,
+        "estimatedEarning": 0.28
+    },
+    {
+        "date": "2018-07-27",
+        "symbol": "CTRA",
+        "actualEarningResult": 0.13,
+        "estimatedEarning": 0.19
+    },
+    {
+        "date": "2018-04-27",
+        "symbol": "CTRA",
+        "actualEarningResult": 0.28,
+        "estimatedEarning": 0.27
+    },
+    {
+        "date": "2018-02-23",
+        "symbol": "CTRA",
+        "actualEarningResult": 0.13,
+        "estimatedEarning": 0.11
+    },
+    {
+        "date": "2017-10-27",
+        "symbol": "CTRA",
+        "actualEarningResult": 0.07,
+        "estimatedEarning": 0.07
+    },
+    {
+        "date": "2017-07-27",
+        "symbol": "CTRA",
+        "actualEarningResult": 0.14,
+        "estimatedEarning": 0.15
+    },
+    {
+        "date": "2017-04-28",
+        "symbol": "CTRA",
+        "actualEarningResult": 0.19,
+        "estimatedEarning": 0.16
+    },
+    {
+        "date": "2016-10-28",
+        "symbol": "CTRA",
+        "actualEarningResult": -0.04,
+        "estimatedEarning": -0.0378
+    },
+    {
+        "date": "2016-07-29",
+        "symbol": "CTRA",
+        "actualEarningResult": -0.07,
+        "estimatedEarning": -0.08
+    },
+    {
+        "date": "2016-04-29",
+        "symbol": "CTRA",
+        "actualEarningResult": -0.13,
+        "estimatedEarning": -0.14
+    },
+    {
+        "date": "2016-02-19",
+        "symbol": "CTRA",
+        "actualEarningResult": -0.02,
+        "estimatedEarning": -0.01436
+    },
+    {
+        "date": "2015-07-24",
+        "symbol": "CTRA",
+        "actualEarningResult": 0.03,
+        "estimatedEarning": 0.04406
+    },
+    {
+        "date": "2015-04-24",
+        "symbol": "CTRA",
+        "actualEarningResult": 0.12,
+        "estimatedEarning": 0.03251
+    },
+    {
+        "date": "2015-02-20",
+        "symbol": "CTRA",
+        "actualEarningResult": 0.23,
+        "estimatedEarning": 0.22
+    },
+    {
+        "date": "2014-10-24",
+        "symbol": "CTRA",
+        "actualEarningResult": 0.2,
+        "estimatedEarning": 0.22
+    },
+    {
+        "date": "2014-07-24",
+        "symbol": "CTRA",
+        "actualEarningResult": 0.28,
+        "estimatedEarning": 0.25
+    },
+    {
+        "date": "2014-04-24",
+        "symbol": "CTRA",
+        "actualEarningResult": 0.26,
+        "estimatedEarning": 0.26
+    },
+    {
+        "date": "2014-02-20",
+        "symbol": "CTRA",
+        "actualEarningResult": 0.18,
+        "estimatedEarning": 0.18
+    },
+    {
+        "date": "2013-10-24",
+        "symbol": "CTRA",
+        "actualEarningResult": 0.18,
+        "estimatedEarning": 0.17
+    },
+    {
+        "date": "2013-07-24",
+        "symbol": "CTRA",
+        "actualEarningResult": 0.23,
+        "estimatedEarning": 0.19
+    },
+    {
+        "date": "2013-04-24",
+        "symbol": "CTRA",
+        "actualEarningResult": 0.13,
+        "estimatedEarning": 0.12
+    },
+    {
+        "date": "2013-02-21",
+        "symbol": "CTRA",
+        "actualEarningResult": 0.14,
+        "estimatedEarning": 0.1
+    },
+    {
+        "date": "2012-10-25",
+        "symbol": "CTRA",
+        "actualEarningResult": 0.11,
+        "estimatedEarning": 0.07
+    },
+    {
+        "date": "2012-07-24",
+        "symbol": "CTRA",
+        "actualEarningResult": 0.03,
+        "estimatedEarning": 0.03882
+    },
+    {
+        "date": "2012-04-25",
+        "symbol": "CTRA",
+        "actualEarningResult": 0.07,
+        "estimatedEarning": 0.07
+    },
+    {
+        "date": "2012-02-20",
+        "symbol": "CTRA",
+        "actualEarningResult": 0.1,
+        "estimatedEarning": 0.07
+    },
+    {
+        "date": "2011-10-26",
+        "symbol": "CTRA",
+        "actualEarningResult": 0.09,
+        "estimatedEarning": 0.09
+    },
+    {
+        "date": "2011-07-27",
+        "symbol": "CTRA",
+        "actualEarningResult": 0.1,
+        "estimatedEarning": 0.07
+    },
+    {
+        "date": "2011-04-27",
+        "symbol": "CTRA",
+        "actualEarningResult": 0.05,
+        "estimatedEarning": 0.02953
+    },
+    {
+        "date": "2011-02-22",
+        "symbol": "CTRA",
+        "actualEarningResult": 0.05,
+        "estimatedEarning": 0.05
+    },
+    {
+        "date": "2010-10-25",
+        "symbol": "CTRA",
+        "actualEarningResult": 0.08,
+        "estimatedEarning": 0.07
+    },
+    {
+        "date": "2010-07-22",
+        "symbol": "CTRA",
+        "actualEarningResult": 0.05,
+        "estimatedEarning": 0.04672
+    },
+    {
+        "date": "2010-04-28",
+        "symbol": "CTRA",
+        "actualEarningResult": 0.08,
+        "estimatedEarning": 0.07
+    },
+    {
+        "date": "2010-02-21",
+        "symbol": "CTRA",
+        "actualEarningResult": 0.13,
+        "estimatedEarning": 0.11
+    },
+    {
+        "date": "2009-10-26",
+        "symbol": "CTRA",
+        "actualEarningResult": 0.1,
+        "estimatedEarning": 0.09
+    },
+    {
+        "date": "2009-07-23",
+        "symbol": "CTRA",
+        "actualEarningResult": 0.1,
+        "estimatedEarning": 0.08
+    },
+    {
+        "date": "2009-04-28",
+        "symbol": "CTRA",
+        "actualEarningResult": 0.1,
+        "estimatedEarning": 0.09
+    },
+    {
+        "date": "2009-02-12",
+        "symbol": "CTRA",
+        "actualEarningResult": 0.11,
+        "estimatedEarning": 0.1
+    },
+    {
+        "date": "2008-10-29",
+        "symbol": "CTRA",
+        "actualEarningResult": 0.14,
+        "estimatedEarning": 0.16
+    },
+    {
+        "date": "2008-07-24",
+        "symbol": "CTRA",
+        "actualEarningResult": 0.18,
+        "estimatedEarning": 0.19
+    },
+    {
+        "date": "2008-04-30",
+        "symbol": "CTRA",
+        "actualEarningResult": 0.14,
+        "estimatedEarning": 0.13
+    },
+    {
+        "date": "2008-02-13",
+        "symbol": "CTRA",
+        "actualEarningResult": 0.11,
+        "estimatedEarning": 0.11
+    },
+    {
+        "date": "2007-10-25",
+        "symbol": "CTRA",
+        "actualEarningResult": 0.1,
+        "estimatedEarning": 0.09
+    },
+    {
+        "date": "2007-07-25",
+        "symbol": "CTRA",
+        "actualEarningResult": 0.1,
+        "estimatedEarning": 0.1
+    },
+    {
+        "date": "2007-04-30",
+        "symbol": "CTRA",
+        "actualEarningResult": 0.11,
+        "estimatedEarning": 0.1
+    },
+    {
+        "date": "2007-02-15",
+        "symbol": "CTRA",
+        "actualEarningResult": 0.09,
+        "estimatedEarning": 0.09
+    },
+    {
+        "date": "2006-10-26",
+        "symbol": "CTRA",
+        "actualEarningResult": 0.12,
+        "estimatedEarning": 0.1
+    },
+    {
+        "date": "2006-07-24",
+        "symbol": "CTRA",
+        "actualEarningResult": 0.12,
+        "estimatedEarning": 0.1
+    },
+    {
+        "date": "2006-05-04",
+        "symbol": "CTRA",
+        "actualEarningResult": 0.14,
+        "estimatedEarning": 0.13
+    },
+    {
+        "date": "2006-02-16",
+        "symbol": "CTRA",
+        "actualEarningResult": 0.14,
+        "estimatedEarning": 0.14
+    },
+    {
+        "date": "2005-10-27",
+        "symbol": "CTRA",
+        "actualEarningResult": 0.08,
+        "estimatedEarning": 0.1
+    },
+    {
+        "date": "2005-07-28",
+        "symbol": "CTRA",
+        "actualEarningResult": 0.08,
+        "estimatedEarning": 0.08
+    },
+    {
+        "date": "2005-04-28",
+        "symbol": "CTRA",
+        "actualEarningResult": 0.07,
+        "estimatedEarning": 0.06
+    },
+    {
+        "date": "2005-02-21",
+        "symbol": "CTRA",
+        "actualEarningResult": 0.07,
+        "estimatedEarning": 0.06
+    },
+    {
+        "date": "2004-10-28",
+        "symbol": "CTRA",
+        "actualEarningResult": 0.06,
+        "estimatedEarning": 0.05
+    },
+    {
+        "date": "2004-07-29",
+        "symbol": "CTRA",
+        "actualEarningResult": 0.05,
+        "estimatedEarning": 0.05
+    },
+    {
+        "date": "2004-04-29",
+        "symbol": "CTRA",
+        "actualEarningResult": 0.05,
+        "estimatedEarning": 0.04548
+    },
+    {
+        "date": "2004-02-17",
+        "symbol": "CTRA",
+        "actualEarningResult": 0.05,
+        "estimatedEarning": 0.05
+    },
+    {
+        "date": "2003-10-29",
+        "symbol": "CTRA",
+        "actualEarningResult": 0.06,
+        "estimatedEarning": 0.05
+    },
+    {
+        "date": "2003-07-29",
+        "symbol": "CTRA",
+        "actualEarningResult": 0.05,
+        "estimatedEarning": 0.04553
+    },
+    {
+        "date": "2003-04-29",
+        "symbol": "CTRA",
+        "actualEarningResult": 0.06,
+        "estimatedEarning": 0.06
+    },
+    {
+        "date": "2003-02-18",
+        "symbol": "CTRA",
+        "actualEarningResult": 0.03,
+        "estimatedEarning": 0.02583
+    },
+    {
+        "date": "2001-10-22",
+        "symbol": "CTRA",
+        "actualEarningResult": 0.03,
+        "estimatedEarning": 0.02577
+    },
+    {
+        "date": "2001-07-19",
+        "symbol": "CTRA",
+        "actualEarningResult": 0.05,
+        "estimatedEarning": 0.04725
+    },
+    {
+        "date": "2001-04-23",
+        "symbol": "CTRA",
+        "actualEarningResult": 0.1,
+        "estimatedEarning": 0.09
+    },
+    {
+        "date": "2001-01-25",
+        "symbol": "CTRA",
+        "actualEarningResult": 0.05,
+        "estimatedEarning": 0.05
+    },
+    {
+        "date": "2000-10-25",
+        "symbol": "CTRA",
+        "actualEarningResult": 0.02,
+        "estimatedEarning": 0.03397
+    },
+    {
+        "date": "1998-01-27",
+        "symbol": "CTRA",
+        "actualEarningResult": 0.03,
+        "estimatedEarning": 0.02412
+    },
+    {
+        "date": "1997-04-22",
+        "symbol": "CTRA",
+        "actualEarningResult": 0.04,
+        "estimatedEarning": 0.02835
+    },
+    {
+        "date": "1995-10-26",
+        "symbol": "CTRA",
+        "actualEarningResult": -0.02,
+        "estimatedEarning": -0.01391
+    },
+    {
+        "date": "1995-07-25",
+        "symbol": "CTRA",
+        "actualEarningResult": -0.02,
+        "estimatedEarning": -0.01762
+    },
+    {
+        "date": "1995-04-27",
+        "symbol": "CTRA",
+        "actualEarningResult": -0.02488,
+        "estimatedEarning": -0.02149
+    },
+    {
+        "date": "1994-04-29",
+        "symbol": "CTRA",
+        "actualEarningResult": 0.02,
+        "estimatedEarning": 0.0193
+    },
+    {
+        "date": "1994-02-04",
+        "symbol": "CTRA",
+        "actualEarningResult": 0.00528,
+        "estimatedEarning": 0.02922
+    },
+    {
+        "date": "1993-04-27",
+        "symbol": "CTRA",
+        "actualEarningResult": 0.02,
+        "estimatedEarning": 0.01895
+    },
+    {
+        "date": "1993-02-02",
+        "symbol": "CTRA",
+        "actualEarningResult": 0.00693,
+        "estimatedEarning": 0.00973
+    }
+]

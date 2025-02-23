@@ -1,0 +1,116 @@
+[
+    {
+        "date": "2024-10-24",
+        "symbol": "CARR",
+        "actualEarningResult": 0.83,
+        "estimatedEarning": 0.807
+    },
+    {
+        "date": "2024-07-25",
+        "symbol": "CARR",
+        "actualEarningResult": 0.87,
+        "estimatedEarning": 0.846
+    },
+    {
+        "date": "2024-04-25",
+        "symbol": "CARR",
+        "actualEarningResult": 0.62,
+        "estimatedEarning": 0.503
+    },
+    {
+        "date": "2024-02-06",
+        "symbol": "CARR",
+        "actualEarningResult": 0.53,
+        "estimatedEarning": 0.51
+    },
+    {
+        "date": "2023-10-26",
+        "symbol": "CARR",
+        "actualEarningResult": 0.89,
+        "estimatedEarning": 0.78
+    },
+    {
+        "date": "2023-07-27",
+        "symbol": "CARR",
+        "actualEarningResult": 0.79,
+        "estimatedEarning": 0.76
+    },
+    {
+        "date": "2023-04-25",
+        "symbol": "CARR",
+        "actualEarningResult": 0.52,
+        "estimatedEarning": 0.48
+    },
+    {
+        "date": "2023-02-07",
+        "symbol": "CARR",
+        "actualEarningResult": 0.4,
+        "estimatedEarning": 0.4
+    },
+    {
+        "date": "2022-10-27",
+        "symbol": "CARR",
+        "actualEarningResult": 0.7,
+        "estimatedEarning": 0.65
+    },
+    {
+        "date": "2022-07-28",
+        "symbol": "CARR",
+        "actualEarningResult": 0.69,
+        "estimatedEarning": 0.62
+    },
+    {
+        "date": "2022-04-28",
+        "symbol": "CARR",
+        "actualEarningResult": 0.54,
+        "estimatedEarning": 0.47
+    },
+    {
+        "date": "2022-02-08",
+        "symbol": "CARR",
+        "actualEarningResult": 0.44,
+        "estimatedEarning": 0.39
+    },
+    {
+        "date": "2021-10-28",
+        "symbol": "CARR",
+        "actualEarningResult": 0.71,
+        "estimatedEarning": 0.66
+    },
+    {
+        "date": "2021-07-29",
+        "symbol": "CARR",
+        "actualEarningResult": 0.64,
+        "estimatedEarning": 0.55
+    },
+    {
+        "date": "2021-04-29",
+        "symbol": "CARR",
+        "actualEarningResult": 0.48,
+        "estimatedEarning": 0.37
+    },
+    {
+        "date": "2021-02-09",
+        "symbol": "CARR",
+        "actualEarningResult": 0.31,
+        "estimatedEarning": 0.37
+    },
+    {
+        "date": "2020-10-29",
+        "symbol": "CARR",
+        "actualEarningResult": 0.67,
+        "estimatedEarning": 0.46
+    },
+    {
+        "date": "2020-07-30",
+        "symbol": "CARR",
+        "actualEarningResult": 0.33,
+        "estimatedEarning": 0.25
+    },
+    {
+        "date": "2020-05-08",
+        "symbol": "CARR",
+        "actualEarningResult": 0.35,
+        "estimatedEarning": 0.19
+    }
+]

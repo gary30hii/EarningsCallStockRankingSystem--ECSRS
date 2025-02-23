@@ -1,0 +1,6292 @@
+[
+    {
+        "symbol": "MSFT",
+        "date": "2024-12-31",
+        "marketCap": 3133009500000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2024-12-30",
+        "marketCap": 3157761390000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2024-12-27",
+        "marketCap": 3200129490000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2024-12-26",
+        "marketCap": 3256471630000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2024-12-24",
+        "marketCap": 3265539890000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2024-12-23",
+        "marketCap": 3235213250000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2024-12-20",
+        "marketCap": 3245247800000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2024-12-19",
+        "marketCap": 3248443990000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2024-12-18",
+        "marketCap": 3251119870000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2024-12-17",
+        "marketCap": 3378001180000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2024-12-16",
+        "marketCap": 3356668470000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2024-12-13",
+        "marketCap": 3324557910000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2024-12-12",
+        "marketCap": 3341579480000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2024-12-11",
+        "marketCap": 3337342670000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2024-12-10",
+        "marketCap": 3295271890000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2024-12-09",
+        "marketCap": 3315266660000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2024-12-06",
+        "marketCap": 3297055810000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2024-12-05",
+        "marketCap": 3289994460000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2024-12-04",
+        "marketCap": 3251342860000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2024-12-03",
+        "marketCap": 3205109600000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2024-12-02",
+        "marketCap": 3203474340000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2024-11-29",
+        "marketCap": 3147578180000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2024-11-27",
+        "marketCap": 3144084670000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2024-11-26",
+        "marketCap": 3181249670000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2024-11-25",
+        "marketCap": 3112866070000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2024-11-22",
+        "marketCap": 3099561000000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2024-11-21",
+        "marketCap": 3068862710000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2024-11-20",
+        "marketCap": 3088337170000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2024-11-19",
+        "marketCap": 3105433070000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2024-11-18",
+        "marketCap": 3090344080000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2024-11-15",
+        "marketCap": 3084695000000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2024-11-14",
+        "marketCap": 3173073370000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2024-11-13",
+        "marketCap": 3160511600000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2024-11-12",
+        "marketCap": 3144381990000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2024-11-11",
+        "marketCap": 3107068330000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2024-11-08",
+        "marketCap": 3140739820000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2024-11-07",
+        "marketCap": 3162221190000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2024-11-06",
+        "marketCap": 3123197940000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2024-11-05",
+        "marketCap": 3058382180000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2024-11-04",
+        "marketCap": 3036083180000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2024-11-01",
+        "marketCap": 3050280210000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2024-10-31",
+        "marketCap": 3020399550000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2024-10-30",
+        "marketCap": 3214995490000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2024-10-29",
+        "marketCap": 3210684350000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2024-10-28",
+        "marketCap": 3170843470000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2024-10-25",
+        "marketCap": 3182438950000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2024-10-24",
+        "marketCap": 3157018090000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2024-10-23",
+        "marketCap": 3156051800000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2024-10-22",
+        "marketCap": 3177681830000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2024-10-21",
+        "marketCap": 3112791740000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2024-10-18",
+        "marketCap": 3108183280000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2024-10-17",
+        "marketCap": 3097479760000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2024-10-16",
+        "marketCap": 3093019960000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2024-10-15",
+        "marketCap": 3112494420000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2024-10-14",
+        "marketCap": 3115467620000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2024-10-11",
+        "marketCap": 3094506560000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2024-10-10",
+        "marketCap": 3090938720000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2024-10-09",
+        "marketCap": 3102980180000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2024-10-08",
+        "marketCap": 3082539430000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2024-10-07",
+        "marketCap": 3044110820000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2024-10-04",
+        "marketCap": 3092573980000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2024-10-03",
+        "marketCap": 3096141820000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2024-10-02",
+        "marketCap": 3100527290000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2024-10-01",
+        "marketCap": 3126988770000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2024-09-30",
+        "marketCap": 3198419900000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2024-09-27",
+        "marketCap": 3181472660000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2024-09-26",
+        "marketCap": 3205927230000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2024-09-25",
+        "marketCap": 3211873630000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2024-09-24",
+        "marketCap": 3190020610000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2024-09-23",
+        "marketCap": 3222279830000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2024-09-20",
+        "marketCap": 3235361910000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2024-09-19",
+        "marketCap": 3260782770000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2024-09-18",
+        "marketCap": 3202210730000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2024-09-17",
+        "marketCap": 3234469950000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2024-09-16",
+        "marketCap": 3206150220000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2024-09-13",
+        "marketCap": 3200575470000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2024-09-12",
+        "marketCap": 3173891000000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2024-09-11",
+        "marketCap": 3144456320000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2024-09-10",
+        "marketCap": 3078748600000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2024-09-09",
+        "marketCap": 3015716760000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2024-09-06",
+        "marketCap": 2985836100000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2024-09-05",
+        "marketCap": 3035562870000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2024-09-04",
+        "marketCap": 3039353700000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2024-09-03",
+        "marketCap": 3043367520000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2024-08-30",
+        "marketCap": 3100601620000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2024-08-29",
+        "marketCap": 3070720960000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2024-08-28",
+        "marketCap": 3051989800000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2024-08-27",
+        "marketCap": 3076072720000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2024-08-26",
+        "marketCap": 3073471170000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2024-08-23",
+        "marketCap": 3098000070000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2024-08-22",
+        "marketCap": 3088783150000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2024-08-21",
+        "marketCap": 3152632620000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2024-08-20",
+        "marketCap": 3157538400000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2024-08-19",
+        "marketCap": 3133232490000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2024-08-16",
+        "marketCap": 3110487510000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2024-08-15",
+        "marketCap": 3129515990000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2024-08-14",
+        "marketCap": 3098520380000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2024-08-13",
+        "marketCap": 3077336330000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2024-08-12",
+        "marketCap": 3023818730000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2024-08-09",
+        "marketCap": 3017946660000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2024-08-08",
+        "marketCap": 2993194770000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2024-08-07",
+        "marketCap": 2961530190000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2024-08-06",
+        "marketCap": 2970301130000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2024-08-05",
+        "marketCap": 2937149950000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2024-08-02",
+        "marketCap": 3036306170000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2024-08-01",
+        "marketCap": 3100378630000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2024-07-31",
+        "marketCap": 3109595550000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2024-07-30",
+        "marketCap": 3143564360000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2024-07-29",
+        "marketCap": 3171884090000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2024-07-26",
+        "marketCap": 3161031910000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2024-07-25",
+        "marketCap": 3109967200000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2024-07-24",
+        "marketCap": 3188013700000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2024-07-23",
+        "marketCap": 3306570050000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2024-07-22",
+        "marketCap": 3292373020000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2024-07-19",
+        "marketCap": 3249038630000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2024-07-18",
+        "marketCap": 3273270210000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2024-07-17",
+        "marketCap": 3296684160000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2024-07-16",
+        "marketCap": 3341282160000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2024-07-15",
+        "marketCap": 3374284680000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2024-07-12",
+        "marketCap": 3371237150000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2024-07-11",
+        "marketCap": 3379785100000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2024-07-10",
+        "marketCap": 3465636250000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2024-07-09",
+        "marketCap": 3415760820000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2024-07-08",
+        "marketCap": 3465561920000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2024-07-05",
+        "marketCap": 3475373480000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2024-07-03",
+        "marketCap": 3424903410000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2024-07-02",
+        "marketCap": 3413828240000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2024-07-01",
+        "marketCap": 3394874090000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2024-06-28",
+        "marketCap": 3322179350000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2024-06-27",
+        "marketCap": 3366034050000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2024-06-26",
+        "marketCap": 3360905280000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2024-06-25",
+        "marketCap": 3351911350000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2024-06-24",
+        "marketCap": 3327531110000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2024-06-21",
+        "marketCap": 3343214740000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2024-06-20",
+        "marketCap": 3312888100000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2024-06-18",
+        "marketCap": 3317645220000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2024-06-17",
+        "marketCap": 3332734210000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2024-06-14",
+        "marketCap": 3289622810000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2024-06-13",
+        "marketCap": 3282264140000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2024-06-12",
+        "marketCap": 3278398980000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2024-06-11",
+        "marketCap": 3216110440000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2024-06-10",
+        "marketCap": 3180357710000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2024-06-07",
+        "marketCap": 3150477050000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2024-06-06",
+        "marketCap": 3155457160000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2024-06-05",
+        "marketCap": 3151666330000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2024-06-04",
+        "marketCap": 3092648310000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2024-06-03",
+        "marketCap": 3073694160000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2024-05-31",
+        "marketCap": 3085661290000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2024-05-30",
+        "marketCap": 3082242110000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2024-05-29",
+        "marketCap": 3190020610000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2024-05-28",
+        "marketCap": 3198568560000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2024-05-24",
+        "marketCap": 3197379280000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2024-05-23",
+        "marketCap": 3173891000000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2024-05-22",
+        "marketCap": 3200055160000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2024-05-21",
+        "marketCap": 3189054320000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2024-05-20",
+        "marketCap": 3161552220000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2024-05-17",
+        "marketCap": 3123420930000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2024-05-16",
+        "marketCap": 3129218670000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2024-05-15",
+        "marketCap": 3144753640000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2024-05-14",
+        "marketCap": 3096290480000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2024-05-13",
+        "marketCap": 3075180760000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2024-05-10",
+        "marketCap": 3082762420000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2024-05-09",
+        "marketCap": 3064774560000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2024-05-08",
+        "marketCap": 3051543820000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2024-05-07",
+        "marketCap": 3042624220000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2024-05-06",
+        "marketCap": 3073842820000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2024-05-03",
+        "marketCap": 3022703780000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2024-05-02",
+        "marketCap": 2957144720000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2024-05-01",
+        "marketCap": 2935589020000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2024-04-30",
+        "marketCap": 2893889890000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2024-04-29",
+        "marketCap": 2989924250000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2024-04-26",
+        "marketCap": 3020176560000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2024-04-25",
+        "marketCap": 2966064320000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2024-04-24",
+        "marketCap": 3040542980000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2024-04-23",
+        "marketCap": 3029467810000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2024-04-22",
+        "marketCap": 2980335680000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2024-04-19",
+        "marketCap": 2966658960000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2024-04-18",
+        "marketCap": 3004938910000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2024-04-17",
+        "marketCap": 3061206720000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2024-04-16",
+        "marketCap": 3081573140000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2024-04-15",
+        "marketCap": 3074586120000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2024-04-12",
+        "marketCap": 3135982700000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2024-04-11",
+        "marketCap": 3180803690000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2024-04-10",
+        "marketCap": 3146091580000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2024-04-09",
+        "marketCap": 3168539240000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2024-04-08",
+        "marketCap": 3155977470000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2024-04-05",
+        "marketCap": 3162890160000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2024-04-04",
+        "marketCap": 3106102040000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2024-04-03",
+        "marketCap": 3125204850000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2024-04-02",
+        "marketCap": 3132563520000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2024-04-01",
+        "marketCap": 3155828810000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2024-03-28",
+        "marketCap": 3126370320000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2024-03-27",
+        "marketCap": 3131646330000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2024-03-26",
+        "marketCap": 3133281150000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2024-03-25",
+        "marketCap": 3142272660000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2024-03-22",
+        "marketCap": 3185966940000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2024-03-21",
+        "marketCap": 3190648470000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2024-03-20",
+        "marketCap": 3159884130000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2024-03-19",
+        "marketCap": 3131497710000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2024-03-18",
+        "marketCap": 3101104920000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2024-03-15",
+        "marketCap": 3094417020000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2024-03-14",
+        "marketCap": 3159809820000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2024-03-13",
+        "marketCap": 3084608100000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2024-03-12",
+        "marketCap": 3085945680000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2024-03-11",
+        "marketCap": 3005988120000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2024-03-08",
+        "marketCap": 3018620820000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2024-03-07",
+        "marketCap": 3040319340000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2024-03-06",
+        "marketCap": 2987930790000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2024-03-05",
+        "marketCap": 2992092150000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2024-03-04",
+        "marketCap": 3083270520000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2024-03-01",
+        "marketCap": 3087580500000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2024-02-29",
+        "marketCap": 3073758840000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2024-02-28",
+        "marketCap": 3029767320000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2024-02-27",
+        "marketCap": 3027983880000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2024-02-26",
+        "marketCap": 3028429740000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2024-02-23",
+        "marketCap": 3049236540000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2024-02-22",
+        "marketCap": 3058971150000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2024-02-21",
+        "marketCap": 2988599580000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2024-02-20",
+        "marketCap": 2993132490000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2024-02-16",
+        "marketCap": 3002569860000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2024-02-15",
+        "marketCap": 3021147360000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2024-02-14",
+        "marketCap": 3042920190000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2024-02-13",
+        "marketCap": 3019363920000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2024-02-12",
+        "marketCap": 3085797060000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2024-02-09",
+        "marketCap": 3125107050000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2024-02-08",
+        "marketCap": 3077251410000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2024-02-07",
+        "marketCap": 3076805550000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2024-02-06",
+        "marketCap": 3013196190000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2024-02-05",
+        "marketCap": 3014385150000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2024-02-02",
+        "marketCap": 3055775820000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2024-02-01",
+        "marketCap": 3000489180000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2024-01-31",
+        "marketCap": 2954416980000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2024-01-30",
+        "marketCap": 3036232290000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2024-01-29",
+        "marketCap": 3044629320000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2024-01-26",
+        "marketCap": 3001603830000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2024-01-25",
+        "marketCap": 3008588970000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2024-01-24",
+        "marketCap": 2991423360000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2024-01-23",
+        "marketCap": 2964225900000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2024-01-22",
+        "marketCap": 2946465810000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2024-01-19",
+        "marketCap": 2962516770000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2024-01-18",
+        "marketCap": 2926847970000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2024-01-17",
+        "marketCap": 2894151570000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2024-01-16",
+        "marketCap": 2900096370000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2024-01-12",
+        "marketCap": 2886720570000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2024-01-11",
+        "marketCap": 2858185530000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2024-01-10",
+        "marketCap": 2844363870000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2024-01-09",
+        "marketCap": 2792495490000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2024-01-08",
+        "marketCap": 2784321390000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2024-01-05",
+        "marketCap": 2732750250000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2024-01-04",
+        "marketCap": 2734162140000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2024-01-03",
+        "marketCap": 2753928600000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2024-01-02",
+        "marketCap": 2755934970000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2023-12-29",
+        "marketCap": 2794729280000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2023-12-28",
+        "marketCap": 2789080960000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2023-12-27",
+        "marketCap": 2780088240000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2023-12-26",
+        "marketCap": 2784473120000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2023-12-22",
+        "marketCap": 2783878560000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2023-12-21",
+        "marketCap": 2776149280000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2023-12-20",
+        "marketCap": 2754447840000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2023-12-19",
+        "marketCap": 2774068320000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2023-12-18",
+        "marketCap": 2769534800000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2023-12-15",
+        "marketCap": 2755265360000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2023-12-14",
+        "marketCap": 2719591760000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2023-12-13",
+        "marketCap": 2782317840000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2023-12-12",
+        "marketCap": 2782392160000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2023-12-11",
+        "marketCap": 2759501600000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2023-12-08",
+        "marketCap": 2781277360000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2023-12-07",
+        "marketCap": 2756900400000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2023-12-06",
+        "marketCap": 2740921600000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2023-12-05",
+        "marketCap": 2768568640000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2023-12-04",
+        "marketCap": 2743448480000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2023-12-01",
+        "marketCap": 2783358320000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2023-11-30",
+        "marketCap": 2816059120000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2023-11-29",
+        "marketCap": 2815613200000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2023-11-28",
+        "marketCap": 2844226400000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2023-11-27",
+        "marketCap": 2813829520000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2023-11-24",
+        "marketCap": 2805059760000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2023-11-22",
+        "marketCap": 2808181200000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2023-11-21",
+        "marketCap": 2772656240000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2023-11-20",
+        "marketCap": 2805134080000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2023-11-17",
+        "marketCap": 2748725200000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2023-11-16",
+        "marketCap": 2795695440000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2023-11-15",
+        "marketCap": 2747387440000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2023-11-14",
+        "marketCap": 2751846640000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2023-11-13",
+        "marketCap": 2725165760000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2023-11-10",
+        "marketCap": 2747387440000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2023-11-09",
+        "marketCap": 2680648080000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2023-11-08",
+        "marketCap": 2699302400000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2023-11-07",
+        "marketCap": 2679458960000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2023-11-06",
+        "marketCap": 2649730960000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2023-11-03",
+        "marketCap": 2622009600000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2023-11-02",
+        "marketCap": 2588714240000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2023-11-01",
+        "marketCap": 2571992240000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2023-10-31",
+        "marketCap": 2512833520000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2023-10-30",
+        "marketCap": 2506887920000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2023-10-27",
+        "marketCap": 2451147920000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2023-10-26",
+        "marketCap": 2436878480000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2023-10-25",
+        "marketCap": 2531859440000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2023-10-24",
+        "marketCap": 2456498960000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2023-10-23",
+        "marketCap": 2447506240000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2023-10-20",
+        "marketCap": 2427811440000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2023-10-19",
+        "marketCap": 2462370240000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2023-10-18",
+        "marketCap": 2453377520000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2023-10-17",
+        "marketCap": 2467869920000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2023-10-16",
+        "marketCap": 2472180480000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2023-10-13",
+        "marketCap": 2435689360000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2023-10-12",
+        "marketCap": 2461181120000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2023-10-11",
+        "marketCap": 2470545440000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2023-10-10",
+        "marketCap": 2440594480000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2023-10-09",
+        "marketCap": 2451222240000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2023-10-06",
+        "marketCap": 2432196320000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2023-10-05",
+        "marketCap": 2373483520000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2023-10-04",
+        "marketCap": 2370510720000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2023-10-03",
+        "marketCap": 2329114480000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2023-10-02",
+        "marketCap": 2391617600000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2023-09-29",
+        "marketCap": 2345706750000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2023-09-28",
+        "marketCap": 2330031560000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2023-09-27",
+        "marketCap": 2323716910000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2023-09-26",
+        "marketCap": 2318888060000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2023-09-25",
+        "marketCap": 2359004660000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2023-09-22",
+        "marketCap": 2355067290000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2023-09-21",
+        "marketCap": 2373788370000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2023-09-20",
+        "marketCap": 2383000330000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2023-09-19",
+        "marketCap": 2441540850000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2023-09-18",
+        "marketCap": 2444586740000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2023-09-15",
+        "marketCap": 2453204380000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2023-09-14",
+        "marketCap": 2516202300000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2023-09-13",
+        "marketCap": 2496589740000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2023-09-12",
+        "marketCap": 2464719330000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2023-09-11",
+        "marketCap": 2510556260000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2023-09-08",
+        "marketCap": 2483291830000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2023-09-07",
+        "marketCap": 2450901390000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2023-09-06",
+        "marketCap": 2472965520000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2023-09-05",
+        "marketCap": 2477942950000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2023-09-01",
+        "marketCap": 2441615140000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2023-08-31",
+        "marketCap": 2434929040000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2023-08-30",
+        "marketCap": 2442580910000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2023-08-29",
+        "marketCap": 2439757890000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2023-08-28",
+        "marketCap": 2404767300000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2023-08-25",
+        "marketCap": 2399418420000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2023-08-24",
+        "marketCap": 2377057130000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2023-08-23",
+        "marketCap": 2429283000000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2023-08-22",
+        "marketCap": 2395555340000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2023-08-21",
+        "marketCap": 2391246520000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2023-08-18",
+        "marketCap": 2351129920000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2023-08-17",
+        "marketCap": 2354101520000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2023-08-16",
+        "marketCap": 2380251600000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2023-08-15",
+        "marketCap": 2391097940000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2023-08-14",
+        "marketCap": 2407293160000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2023-08-11",
+        "marketCap": 2384783290000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2023-08-10",
+        "marketCap": 2399046970000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2023-08-09",
+        "marketCap": 2393846670000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2023-08-08",
+        "marketCap": 2422225450000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2023-08-07",
+        "marketCap": 2452387190000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2023-08-04",
+        "marketCap": 2435077620000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2023-08-03",
+        "marketCap": 2426757140000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2023-08-02",
+        "marketCap": 2432997500000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2023-08-01",
+        "marketCap": 2498669860000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2023-07-31",
+        "marketCap": 2495549680000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2023-07-28",
+        "marketCap": 2513750730000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2023-07-27",
+        "marketCap": 2456918880000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2023-07-26",
+        "marketCap": 2509293330000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2023-07-25",
+        "marketCap": 2607430420000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2023-07-24",
+        "marketCap": 2563822190000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2023-07-21",
+        "marketCap": 2553867330000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2023-07-20",
+        "marketCap": 2576897230000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2023-07-19",
+        "marketCap": 2637889320000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2023-07-18",
+        "marketCap": 2670651210000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2023-07-17",
+        "marketCap": 2568428170000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2023-07-14",
+        "marketCap": 2564787960000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2023-07-13",
+        "marketCap": 2545621140000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2023-07-12",
+        "marketCap": 2505058800000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2023-07-11",
+        "marketCap": 2469919630000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2023-07-10",
+        "marketCap": 2465165070000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2023-07-07",
+        "marketCap": 2505207380000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2023-07-06",
+        "marketCap": 2535294830000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2023-07-05",
+        "marketCap": 2512116350000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2023-07-03",
+        "marketCap": 2510927710000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2023-06-30",
+        "marketCap": 2529871660000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2023-06-29",
+        "marketCap": 2490761700000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2023-06-28",
+        "marketCap": 2496708900000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2023-06-27",
+        "marketCap": 2487193380000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2023-06-26",
+        "marketCap": 2442812400000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2023-06-23",
+        "marketCap": 2490538680000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2023-06-22",
+        "marketCap": 2525404140000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2023-06-21",
+        "marketCap": 2479685040000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2023-06-20",
+        "marketCap": 2513063700000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2023-06-16",
+        "marketCap": 2544881220000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2023-06-15",
+        "marketCap": 2587775400000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2023-06-14",
+        "marketCap": 2507785560000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2023-06-13",
+        "marketCap": 2485111860000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2023-06-12",
+        "marketCap": 2466972900000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2023-06-09",
+        "marketCap": 2429356860000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2023-06-08",
+        "marketCap": 2417982840000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2023-06-07",
+        "marketCap": 2404006920000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2023-06-06",
+        "marketCap": 2480577120000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2023-06-05",
+        "marketCap": 2497377960000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2023-06-02",
+        "marketCap": 2493363600000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2023-06-01",
+        "marketCap": 2472399720000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2023-05-31",
+        "marketCap": 2441251260000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2023-05-30",
+        "marketCap": 2462215140000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2023-05-26",
+        "marketCap": 2474704260000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2023-05-25",
+        "marketCap": 2422889280000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2023-05-24",
+        "marketCap": 2333160900000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2023-05-23",
+        "marketCap": 2343642840000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2023-05-22",
+        "marketCap": 2387652120000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2023-05-19",
+        "marketCap": 2366539560000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2023-05-18",
+        "marketCap": 2367877680000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2023-05-17",
+        "marketCap": 2334276000000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2023-05-16",
+        "marketCap": 2317475160000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2023-05-15",
+        "marketCap": 2300525640000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2023-05-12",
+        "marketCap": 2296882980000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2023-05-11",
+        "marketCap": 2305357740000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2023-05-10",
+        "marketCap": 2321712540000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2023-05-09",
+        "marketCap": 2282238000000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2023-05-08",
+        "marketCap": 2294504100000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2023-05-05",
+        "marketCap": 2309372100000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2023-05-04",
+        "marketCap": 2270417940000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2023-05-03",
+        "marketCap": 2262909600000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2023-05-02",
+        "marketCap": 2270417940000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2023-05-01",
+        "marketCap": 2271533040000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2023-04-28",
+        "marketCap": 2284170840000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2023-04-27",
+        "marketCap": 2266106220000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2023-04-26",
+        "marketCap": 2195780580000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2023-04-25",
+        "marketCap": 2047472280000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2023-04-24",
+        "marketCap": 2094678179999
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2023-04-21",
+        "marketCap": 2124339840000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2023-04-20",
+        "marketCap": 2126941740000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2023-04-19",
+        "marketCap": 2144337300000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2023-04-18",
+        "marketCap": 2143742580000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2023-04-17",
+        "marketCap": 2146939200000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2023-04-14",
+        "marketCap": 2127164760000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2023-04-13",
+        "marketCap": 2154670559999
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2023-04-12",
+        "marketCap": 2107464660000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2023-04-11",
+        "marketCap": 2102558220000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2023-04-10",
+        "marketCap": 2151325260000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2023-04-06",
+        "marketCap": 2167754400000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2023-04-05",
+        "marketCap": 2113783559999
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2023-04-04",
+        "marketCap": 2134896120000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2023-04-03",
+        "marketCap": 2135267820000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2023-03-31",
+        "marketCap": 2143222200000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2023-03-30",
+        "marketCap": 2113616050000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2023-03-29",
+        "marketCap": 2087274910000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2023-03-28",
+        "marketCap": 2047986430000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2023-03-27",
+        "marketCap": 2056543580000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2023-03-24",
+        "marketCap": 2087721370000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2023-03-23",
+        "marketCap": 2066068060000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2023-03-22",
+        "marketCap": 2026109890000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2023-03-21",
+        "marketCap": 2037196979999
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2023-03-20",
+        "marketCap": 2025663430000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2023-03-17",
+        "marketCap": 2079238630000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2023-03-16",
+        "marketCap": 2055204200000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2023-03-15",
+        "marketCap": 1975139040000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2023-03-14",
+        "marketCap": 1940538390000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2023-03-13",
+        "marketCap": 1889418720000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2023-03-10",
+        "marketCap": 1849758190000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2023-03-09",
+        "marketCap": 1877513120000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2023-03-08",
+        "marketCap": 1887781700000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2023-03-07",
+        "marketCap": 1891130150000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2023-03-06",
+        "marketCap": 1911369670000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2023-03-03",
+        "marketCap": 1899612890000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2023-03-02",
+        "marketCap": 1868509510000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2023-03-01",
+        "marketCap": 1832495070000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2023-02-28",
+        "marketCap": 1855934220000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2023-02-27",
+        "marketCap": 1861440560000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2023-02-24",
+        "marketCap": 1854446020000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2023-02-23",
+        "marketCap": 1895743570000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2023-02-22",
+        "marketCap": 1871485910000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2023-02-21",
+        "marketCap": 1880117470000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2023-02-17",
+        "marketCap": 1920224460000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2023-02-16",
+        "marketCap": 1950658149999
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2023-02-15",
+        "marketCap": 2004010120000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2023-02-14",
+        "marketCap": 2025216970000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2023-02-13",
+        "marketCap": 2018892120000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2023-02-10",
+        "marketCap": 1957727100000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2023-02-09",
+        "marketCap": 1961596420000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2023-02-08",
+        "marketCap": 1984737930000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2023-02-07",
+        "marketCap": 1990913960000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2023-02-06",
+        "marketCap": 1910625569999
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2023-02-03",
+        "marketCap": 1922382350000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2023-02-02",
+        "marketCap": 1968888600000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2023-02-01",
+        "marketCap": 1880712750000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2023-01-31",
+        "marketCap": 1843954210000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2023-01-30",
+        "marketCap": 1806005110000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2023-01-27",
+        "marketCap": 1846558560000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2023-01-26",
+        "marketCap": 1845368000000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2023-01-25",
+        "marketCap": 1790379010000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2023-01-24",
+        "marketCap": 1801019640000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2023-01-23",
+        "marketCap": 1805037780000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2023-01-20",
+        "marketCap": 1787477020000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2023-01-19",
+        "marketCap": 1725791130000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2023-01-18",
+        "marketCap": 1754662210000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2023-01-17",
+        "marketCap": 1788444350000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2023-01-13",
+        "marketCap": 1780110430000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2023-01-12",
+        "marketCap": 1774752910000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2023-01-11",
+        "marketCap": 1754364570000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2023-01-10",
+        "marketCap": 1702872850000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2023-01-09",
+        "marketCap": 1689999920000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2023-01-06",
+        "marketCap": 1673704130000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2023-01-05",
+        "marketCap": 1654208710000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2023-01-04",
+        "marketCap": 1704733100000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2023-01-03",
+        "marketCap": 1782714780000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2022-12-30",
+        "marketCap": 1786898820000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2022-12-29",
+        "marketCap": 1795765510000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2022-12-28",
+        "marketCap": 1747483030000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2022-12-27",
+        "marketCap": 1765588960000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2022-12-23",
+        "marketCap": 1778777230000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2022-12-22",
+        "marketCap": 1774753690000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2022-12-21",
+        "marketCap": 1821247930000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2022-12-20",
+        "marketCap": 1801651800000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2022-12-19",
+        "marketCap": 1791592950000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2022-12-16",
+        "marketCap": 1823185190000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2022-12-15",
+        "marketCap": 1855373510000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2022-12-14",
+        "marketCap": 1916546220000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2022-12-13",
+        "marketCap": 1914310920000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2022-12-12",
+        "marketCap": 1881452010000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2022-12-09",
+        "marketCap": 1828624420000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2022-12-08",
+        "marketCap": 1843377400000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2022-12-07",
+        "marketCap": 1820800870000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2022-12-06",
+        "marketCap": 1826389120000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2022-12-05",
+        "marketCap": 1864240200000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2022-12-02",
+        "marketCap": 1900154020000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2022-12-01",
+        "marketCap": 1897695190000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2022-11-30",
+        "marketCap": 1901048140000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2022-11-29",
+        "marketCap": 1790698830000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2022-11-28",
+        "marketCap": 1801353760000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2022-11-25",
+        "marketCap": 1844047990000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2022-11-23",
+        "marketCap": 1844718580000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2022-11-22",
+        "marketCap": 1825718530000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2022-11-21",
+        "marketCap": 1803514550000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2022-11-18",
+        "marketCap": 1797330220000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2022-11-17",
+        "marketCap": 1800757680000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2022-11-16",
+        "marketCap": 1801130230000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2022-11-15",
+        "marketCap": 1802918470000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2022-11-14",
+        "marketCap": 1799789050000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2022-11-11",
+        "marketCap": 1841216610000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2022-11-10",
+        "marketCap": 1810443980000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2022-11-09",
+        "marketCap": 1672824010000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2022-11-08",
+        "marketCap": 1705310370000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2022-11-07",
+        "marketCap": 1697859370000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2022-11-04",
+        "marketCap": 1649576890000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2022-11-03",
+        "marketCap": 1596376750000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2022-11-02",
+        "marketCap": 1639965100000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2022-11-01",
+        "marketCap": 1700094670000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2022-10-31",
+        "marketCap": 1729600630000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2022-10-28",
+        "marketCap": 1757467370000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2022-10-27",
+        "marketCap": 1689514250000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2022-10-26",
+        "marketCap": 1723565320000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2022-10-25",
+        "marketCap": 1867667660000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2022-10-24",
+        "marketCap": 1842259750000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2022-10-21",
+        "marketCap": 1804036120000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2022-10-20",
+        "marketCap": 1759553650000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2022-10-19",
+        "marketCap": 1762012480000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2022-10-18",
+        "marketCap": 1777063500000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2022-10-17",
+        "marketCap": 1769836030000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2022-10-14",
+        "marketCap": 1703000560000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2022-10-13",
+        "marketCap": 1745322240000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2022-10-12",
+        "marketCap": 1682063250000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2022-10-11",
+        "marketCap": 1679529910000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2022-10-10",
+        "marketCap": 1708141750000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2022-10-07",
+        "marketCap": 1745322240000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2022-10-06",
+        "marketCap": 1838832290000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2022-10-05",
+        "marketCap": 1856789200000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2022-10-04",
+        "marketCap": 1854404880000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2022-10-03",
+        "marketCap": 1793753740000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2022-09-30",
+        "marketCap": 1735337900000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2022-09-29",
+        "marketCap": 1771037500000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2022-09-28",
+        "marketCap": 1797658990000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2022-09-27",
+        "marketCap": 1762909370000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2022-09-26",
+        "marketCap": 1770664650000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2022-09-23",
+        "marketCap": 1774169440000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2022-09-22",
+        "marketCap": 1796987860000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2022-09-21",
+        "marketCap": 1781850150000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2022-09-20",
+        "marketCap": 1807949650000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2022-09-19",
+        "marketCap": 1823385640000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2022-09-16",
+        "marketCap": 1825026180000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2022-09-15",
+        "marketCap": 1829798660000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2022-09-14",
+        "marketCap": 1880804540000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2022-09-13",
+        "marketCap": 1879089430000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2022-09-12",
+        "marketCap": 1988409049999
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2022-09-09",
+        "marketCap": 1972078219999
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2022-09-08",
+        "marketCap": 1927783639999
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2022-09-07",
+        "marketCap": 1924577129999
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2022-09-06",
+        "marketCap": 1888485250000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2022-09-02",
+        "marketCap": 1909439420000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2022-09-01",
+        "marketCap": 1941802799999
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2022-08-31",
+        "marketCap": 1949781790000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2022-08-30",
+        "marketCap": 1960967290000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2022-08-29",
+        "marketCap": 1977820110000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2022-08-26",
+        "marketCap": 1999147129999
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2022-08-25",
+        "marketCap": 2079384450000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2022-08-24",
+        "marketCap": 2056566030000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2022-08-23",
+        "marketCap": 2061413080000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2022-08-22",
+        "marketCap": 2071181750000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2022-08-19",
+        "marketCap": 2133820549999
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2022-08-18",
+        "marketCap": 2163797690000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2022-08-17",
+        "marketCap": 2172373240000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2022-08-16",
+        "marketCap": 2182738469999
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2022-08-15",
+        "marketCap": 2188405790000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2022-08-12",
+        "marketCap": 2176772870000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2022-08-11",
+        "marketCap": 2140308139999
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2022-08-10",
+        "marketCap": 2156266120000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2022-08-09",
+        "marketCap": 2105111100000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2022-08-08",
+        "marketCap": 2090346240000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2022-08-05",
+        "marketCap": 2109659870000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2022-08-04",
+        "marketCap": 2115178049999
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2022-08-03",
+        "marketCap": 2106378790000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2022-08-02",
+        "marketCap": 2049332740000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2022-08-01",
+        "marketCap": 2073120570000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2022-07-29",
+        "marketCap": 2093478180000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2022-07-28",
+        "marketCap": 2061189370000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2022-07-27",
+        "marketCap": 2003994180000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2022-07-26",
+        "marketCap": 1878418300000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2022-07-25",
+        "marketCap": 1930095310000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2022-07-22",
+        "marketCap": 1941504520000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2022-07-21",
+        "marketCap": 1974911879999
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2022-07-20",
+        "marketCap": 1955747389999
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2022-07-19",
+        "marketCap": 1935315209999
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2022-07-18",
+        "marketCap": 1895942250000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2022-07-15",
+        "marketCap": 1914361040000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2022-07-14",
+        "marketCap": 1894674560000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2022-07-13",
+        "marketCap": 1884533040000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2022-07-12",
+        "marketCap": 1891617190000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2022-07-11",
+        "marketCap": 1972451070000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2022-07-08",
+        "marketCap": 1995940620000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2022-07-07",
+        "marketCap": 2001458799999
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2022-07-06",
+        "marketCap": 1985127969999
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2022-07-05",
+        "marketCap": 1960072450000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2022-07-01",
+        "marketCap": 1935688060000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2022-06-30",
+        "marketCap": 1915181310000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2022-06-29",
+        "marketCap": 1945183240000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2022-06-28",
+        "marketCap": 1916931520000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2022-06-27",
+        "marketCap": 1979787860000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2022-06-24",
+        "marketCap": 2000789800000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2022-06-23",
+        "marketCap": 1934719640000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2022-06-22",
+        "marketCap": 1891893620000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2022-06-21",
+        "marketCap": 1896452760000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2022-06-17",
+        "marketCap": 1850936100000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2022-06-16",
+        "marketCap": 1830905780000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2022-06-15",
+        "marketCap": 1881654240000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2022-06-14",
+        "marketCap": 1827318260000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2022-06-13",
+        "marketCap": 1810651240000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2022-06-10",
+        "marketCap": 1890847260000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2022-06-09",
+        "marketCap": 1979040460000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2022-06-08",
+        "marketCap": 2021044340000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2022-06-07",
+        "marketCap": 2036665000000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2022-06-06",
+        "marketCap": 2008637500000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2022-06-03",
+        "marketCap": 2018129479999
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2022-06-02",
+        "marketCap": 2052210920000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2022-06-01",
+        "marketCap": 2036067080000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2022-05-31",
+        "marketCap": 2031956380000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2022-05-27",
+        "marketCap": 2042195760000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2022-05-26",
+        "marketCap": 1987336599999
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2022-05-25",
+        "marketCap": 1962074479999
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2022-05-24",
+        "marketCap": 1940399880000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2022-05-23",
+        "marketCap": 1948098099999
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2022-05-20",
+        "marketCap": 1887633440000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2022-05-19",
+        "marketCap": 1891968360000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2022-05-18",
+        "marketCap": 1898993920000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2022-05-17",
+        "marketCap": 1994212680000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2022-05-16",
+        "marketCap": 1954451000000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2022-05-13",
+        "marketCap": 1951610880000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2022-05-12",
+        "marketCap": 1908485900000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2022-05-11",
+        "marketCap": 1947350700000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2022-05-10",
+        "marketCap": 2014243000000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2022-05-09",
+        "marketCap": 1977470920000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2022-05-06",
+        "marketCap": 2053332020000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2022-05-05",
+        "marketCap": 2072913900000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2022-05-04",
+        "marketCap": 2167310520000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2022-05-03",
+        "marketCap": 2106023719999
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2022-05-02",
+        "marketCap": 2126128780000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2022-04-29",
+        "marketCap": 2074184479999
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2022-04-28",
+        "marketCap": 2164694620000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2022-04-27",
+        "marketCap": 2116786280000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2022-04-26",
+        "marketCap": 2019624280000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2022-04-25",
+        "marketCap": 2098101280000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2022-04-22",
+        "marketCap": 2048100219999
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2022-04-21",
+        "marketCap": 2098773940000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2022-04-20",
+        "marketCap": 2140254640000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2022-04-19",
+        "marketCap": 2132332200000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2022-04-18",
+        "marketCap": 2096606479999
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2022-04-14",
+        "marketCap": 2091449420000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2022-04-13",
+        "marketCap": 2149671880000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2022-04-12",
+        "marketCap": 2108116440000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2022-04-11",
+        "marketCap": 2132033240000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2022-04-08",
+        "marketCap": 2219553780000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2022-04-07",
+        "marketCap": 2252439380000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2022-04-06",
+        "marketCap": 2238463000000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2022-04-05",
+        "marketCap": 2323517120000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2022-04-04",
+        "marketCap": 2354085780000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2022-04-01",
+        "marketCap": 2312605080000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2022-03-31",
+        "marketCap": 2304308940000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2022-03-30",
+        "marketCap": 2351752980000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2022-03-29",
+        "marketCap": 2363367130000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2022-03-28",
+        "marketCap": 2328075100000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2022-03-25",
+        "marketCap": 2275474240000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2022-03-24",
+        "marketCap": 2278621300000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2022-03-23",
+        "marketCap": 2244078570000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2022-03-22",
+        "marketCap": 2278321580000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2022-03-21",
+        "marketCap": 2241605880000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2022-03-18",
+        "marketCap": 2251121990000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2022-03-17",
+        "marketCap": 2212083460000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2022-03-16",
+        "marketCap": 2205864270000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2022-03-15",
+        "marketCap": 2151614949999
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2022-03-14",
+        "marketCap": 2071364920000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2022-03-11",
+        "marketCap": 2098564510000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2022-03-10",
+        "marketCap": 2139925869999
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2022-03-09",
+        "marketCap": 2161730500000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2022-03-08",
+        "marketCap": 2066944050000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2022-03-07",
+        "marketCap": 2089872630000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2022-03-04",
+        "marketCap": 2171920980000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2022-03-03",
+        "marketCap": 2217328560000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2022-03-02",
+        "marketCap": 2249323670000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2022-03-01",
+        "marketCap": 2210060350000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2022-02-28",
+        "marketCap": 2238833470000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2022-02-25",
+        "marketCap": 2227743830000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2022-02-24",
+        "marketCap": 2207362870000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2022-02-23",
+        "marketCap": 2100063109999
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2022-02-22",
+        "marketCap": 2155885960000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2022-02-18",
+        "marketCap": 2157459490000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2022-02-17",
+        "marketCap": 2178439890000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2022-02-16",
+        "marketCap": 2244153500000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2022-02-15",
+        "marketCap": 2251421710000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2022-02-14",
+        "marketCap": 2210435000000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2022-02-11",
+        "marketCap": 2210734720000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2022-02-10",
+        "marketCap": 2265733340000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2022-02-09",
+        "marketCap": 2331896530000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2022-02-08",
+        "marketCap": 2282068080000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2022-02-07",
+        "marketCap": 2255018350000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2022-02-04",
+        "marketCap": 2292408420000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2022-02-03",
+        "marketCap": 2257266250000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2022-02-02",
+        "marketCap": 2348755780000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2022-02-01",
+        "marketCap": 2313538680000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2022-01-31",
+        "marketCap": 2330173140000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2022-01-28",
+        "marketCap": 2309792180000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2022-01-27",
+        "marketCap": 2246701120000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2022-01-26",
+        "marketCap": 2223248030000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2022-01-25",
+        "marketCap": 2161655570000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2022-01-24",
+        "marketCap": 2220700410000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2022-01-21",
+        "marketCap": 2218152790000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2022-01-20",
+        "marketCap": 2259888800000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2022-01-19",
+        "marketCap": 2272851690000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2022-01-18",
+        "marketCap": 2267756450000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2022-01-14",
+        "marketCap": 2324328600000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2022-01-13",
+        "marketCap": 2283866400000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2022-01-12",
+        "marketCap": 2384797110000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2022-01-11",
+        "marketCap": 2360145140000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2022-01-10",
+        "marketCap": 2354825110000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2022-01-07",
+        "marketCap": 2353101720000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2022-01-06",
+        "marketCap": 2351902840000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2022-01-05",
+        "marketCap": 2370635340000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2022-01-04",
+        "marketCap": 2465271930000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2022-01-03",
+        "marketCap": 2508281750000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2021-12-31",
+        "marketCap": 2520045760000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2021-12-30",
+        "marketCap": 2546596600000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2021-12-29",
+        "marketCap": 2566334750000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2021-12-28",
+        "marketCap": 2561081250000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2021-12-27",
+        "marketCap": 2570087250000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2021-12-23",
+        "marketCap": 2511848450000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2021-12-22",
+        "marketCap": 2500666000000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2021-12-21",
+        "marketCap": 2456311450000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2021-12-20",
+        "marketCap": 2400924550000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2021-12-17",
+        "marketCap": 2430119000000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2021-12-16",
+        "marketCap": 2438374500000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2021-12-15",
+        "marketCap": 2511548250000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2021-12-14",
+        "marketCap": 2464191700000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2021-12-13",
+        "marketCap": 2547197000000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2021-12-10",
+        "marketCap": 2570762700000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2021-12-09",
+        "marketCap": 2499915500000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2021-12-08",
+        "marketCap": 2513949850000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2021-12-07",
+        "marketCap": 2513574600000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2021-12-06",
+        "marketCap": 2448055950000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2021-12-03",
+        "marketCap": 2424190050000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2021-12-02",
+        "marketCap": 2472822450000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2021-12-01",
+        "marketCap": 2477250400000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2021-11-30",
+        "marketCap": 2481077950000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2021-11-29",
+        "marketCap": 2526408150000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2021-11-26",
+        "marketCap": 2474248400000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2021-11-24",
+        "marketCap": 2536014550000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2021-11-23",
+        "marketCap": 2534288400000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2021-11-22",
+        "marketCap": 2550424150000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2021-11-19",
+        "marketCap": 2575040550000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2021-11-18",
+        "marketCap": 2561231350000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2021-11-17",
+        "marketCap": 2545095600000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2021-11-16",
+        "marketCap": 2548022550000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2021-11-15",
+        "marketCap": 2522205350000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2021-11-12",
+        "marketCap": 2527083600000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2021-11-11",
+        "marketCap": 2494887150000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2021-11-10",
+        "marketCap": 2482654000000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2021-11-09",
+        "marketCap": 2521304750000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2021-11-08",
+        "marketCap": 2529109950000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2021-11-05",
+        "marketCap": 2522130300000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2021-11-04",
+        "marketCap": 2524982200000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2021-11-03",
+        "marketCap": 2506670000000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2021-11-02",
+        "marketCap": 2500140650000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2021-11-01",
+        "marketCap": 2471921850000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2021-10-29",
+        "marketCap": 2488808100000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2021-10-28",
+        "marketCap": 2434246750000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2021-10-27",
+        "marketCap": 2425390850000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2021-10-26",
+        "marketCap": 2327375550000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2021-10-25",
+        "marketCap": 2312515650000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2021-10-22",
+        "marketCap": 2320245800000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2021-10-21",
+        "marketCap": 2332253800000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2021-10-20",
+        "marketCap": 2307112050000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2021-10-19",
+        "marketCap": 2313266150000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2021-10-18",
+        "marketCap": 2306211450000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2021-10-15",
+        "marketCap": 2283096050000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2021-10-14",
+        "marketCap": 2272138750000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2021-10-13",
+        "marketCap": 2223806550000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2021-10-12",
+        "marketCap": 2198064400000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2021-10-11",
+        "marketCap": 2208196150000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2021-10-08",
+        "marketCap": 2212849250000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2021-10-07",
+        "marketCap": 2212849250000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2021-10-06",
+        "marketCap": 2199790550000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2021-10-05",
+        "marketCap": 2167143800000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2021-10-04",
+        "marketCap": 2124740550000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2021-10-01",
+        "marketCap": 2169695500000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2021-09-30",
+        "marketCap": 2115809600000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2021-09-29",
+        "marketCap": 2133692000000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2021-09-28",
+        "marketCap": 2130085759999
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2021-09-27",
+        "marketCap": 2210099210000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2021-09-24",
+        "marketCap": 2249016550000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2021-09-23",
+        "marketCap": 2250594280000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2021-09-22",
+        "marketCap": 2243231540000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2021-09-21",
+        "marketCap": 2214832400000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2021-09-20",
+        "marketCap": 2211075900000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2021-09-17",
+        "marketCap": 2252923310000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2021-09-16",
+        "marketCap": 2293117860000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2021-09-15",
+        "marketCap": 2290112660000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2021-09-14",
+        "marketCap": 2252322270000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2021-09-13",
+        "marketCap": 2231285870000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2021-09-10",
+        "marketCap": 2221669230000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2021-09-09",
+        "marketCap": 2233239250000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2021-09-08",
+        "marketCap": 2255477730000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2021-09-07",
+        "marketCap": 2255252340000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2021-09-03",
+        "marketCap": 2262464820000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2021-09-02",
+        "marketCap": 2262539950000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2021-09-01",
+        "marketCap": 2267648790000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2021-08-31",
+        "marketCap": 2268024440000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2021-08-30",
+        "marketCap": 2280871670000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2021-08-27",
+        "marketCap": 2251796360000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2021-08-26",
+        "marketCap": 2247063170000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2021-08-25",
+        "marketCap": 2269001130000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2021-08-24",
+        "marketCap": 2273584060000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2021-08-23",
+        "marketCap": 2288835450000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2021-08-20",
+        "marketCap": 2286656680000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2021-08-19",
+        "marketCap": 2229633010000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2021-08-18",
+        "marketCap": 2184254490000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2021-08-17",
+        "marketCap": 2201910040000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2021-08-16",
+        "marketCap": 2213329800000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2021-08-13",
+        "marketCap": 2200182050000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2021-08-12",
+        "marketCap": 2177342530000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2021-08-11",
+        "marketCap": 2155855350000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2021-08-10",
+        "marketCap": 2152023720000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2021-08-09",
+        "marketCap": 2166223290000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2021-08-06",
+        "marketCap": 2174712979999
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2021-08-05",
+        "marketCap": 2175163759999
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2021-08-04",
+        "marketCap": 2152549630000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2021-08-03",
+        "marketCap": 2157132560000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2021-08-02",
+        "marketCap": 2139852660000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2021-07-30",
+        "marketCap": 2140528830000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2021-07-29",
+        "marketCap": 2152474500000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2021-07-28",
+        "marketCap": 2150370860000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2021-07-27",
+        "marketCap": 2152775020000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2021-07-26",
+        "marketCap": 2171632650000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2021-07-23",
+        "marketCap": 2176290710000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2021-07-22",
+        "marketCap": 2149769820000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2021-07-21",
+        "marketCap": 2114158199999
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2021-07-20",
+        "marketCap": 2098531160000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2021-07-19",
+        "marketCap": 2081176130000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2021-07-16",
+        "marketCap": 2109274750000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2021-07-15",
+        "marketCap": 2111378389999
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2021-07-14",
+        "marketCap": 2122497630000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2021-07-13",
+        "marketCap": 2111002740000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2021-07-12",
+        "marketCap": 2083505160000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2021-07-09",
+        "marketCap": 2088163220000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2021-07-08",
+        "marketCap": 2084256460000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2021-07-07",
+        "marketCap": 2103114090000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2021-07-06",
+        "marketCap": 2086059580000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2021-07-02",
+        "marketCap": 2085984449999
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2021-07-01",
+        "marketCap": 2040530800000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2021-06-30",
+        "marketCap": 2035271699999
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2021-06-29",
+        "marketCap": 2042827799999
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2021-06-28",
+        "marketCap": 2022655440000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2021-06-25",
+        "marketCap": 1994805539999
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2021-06-24",
+        "marketCap": 2007375630000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2021-06-23",
+        "marketCap": 1996687289999
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2021-06-22",
+        "marketCap": 1998493770000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2021-06-21",
+        "marketCap": 1976816010000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2021-06-18",
+        "marketCap": 1952729610000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2021-06-17",
+        "marketCap": 1963794299999
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2021-06-16",
+        "marketCap": 1937299260000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2021-06-15",
+        "marketCap": 1944675720000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2021-06-14",
+        "marketCap": 1956192030000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2021-06-11",
+        "marketCap": 1941138030000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2021-06-10",
+        "marketCap": 1936245480000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2021-06-09",
+        "marketCap": 1908771930000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2021-06-08",
+        "marketCap": 1901094390000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2021-06-07",
+        "marketCap": 1910427870000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2021-06-04",
+        "marketCap": 1887696330000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2021-06-03",
+        "marketCap": 1849459170000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2021-06-02",
+        "marketCap": 1861427100000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2021-06-01",
+        "marketCap": 1862179800000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2021-05-28",
+        "marketCap": 1879341360000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2021-05-27",
+        "marketCap": 1876556370000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2021-05-26",
+        "marketCap": 1892965230000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2021-05-25",
+        "marketCap": 1894696440000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2021-05-24",
+        "marketCap": 1887621060000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2021-05-21",
+        "marketCap": 1845394590000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2021-05-20",
+        "marketCap": 1855254960000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2021-05-19",
+        "marketCap": 1829964240000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2021-05-18",
+        "marketCap": 1829663160000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2021-05-17",
+        "marketCap": 1845469860000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2021-05-14",
+        "marketCap": 1867825050000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2021-05-13",
+        "marketCap": 1829286810000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2021-05-12",
+        "marketCap": 1798953000000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2021-05-11",
+        "marketCap": 1853373210000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2021-05-10",
+        "marketCap": 1860523860000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2021-05-07",
+        "marketCap": 1900266420000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2021-05-06",
+        "marketCap": 1879717710000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2021-05-05",
+        "marketCap": 1855179690000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2021-05-04",
+        "marketCap": 1865115330000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2021-05-03",
+        "marketCap": 1895750220000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2021-04-30",
+        "marketCap": 1898158860000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2021-04-29",
+        "marketCap": 1900642770000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2021-04-28",
+        "marketCap": 1916073120000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2021-04-27",
+        "marketCap": 1971848190000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2021-04-26",
+        "marketCap": 1968686850000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2021-04-23",
+        "marketCap": 1965676049999
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2021-04-22",
+        "marketCap": 1935718590000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2021-04-21",
+        "marketCap": 1961385660000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2021-04-20",
+        "marketCap": 1943923020000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2021-04-19",
+        "marketCap": 1947535980000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2021-04-16",
+        "marketCap": 1962589980000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2021-04-15",
+        "marketCap": 1953256500000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2021-04-14",
+        "marketCap": 1923825930000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2021-04-13",
+        "marketCap": 1945654230000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2021-04-12",
+        "marketCap": 1926234570000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2021-04-09",
+        "marketCap": 1925782950000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2021-04-08",
+        "marketCap": 1906212750000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2021-04-07",
+        "marketCap": 1880997300000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2021-04-06",
+        "marketCap": 1865642220000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2021-04-05",
+        "marketCap": 1874749890000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2021-04-01",
+        "marketCap": 1824168450000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2021-03-31",
+        "marketCap": 1774640790000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2021-03-30",
+        "marketCap": 1747917150000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2021-03-29",
+        "marketCap": 1773474360000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2021-03-26",
+        "marketCap": 1782822720000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2021-03-25",
+        "marketCap": 1751611260000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2021-03-24",
+        "marketCap": 1775132940000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2021-03-23",
+        "marketCap": 1791115620000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2021-03-22",
+        "marketCap": 1779128610000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2021-03-19",
+        "marketCap": 1736608650000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2021-03-18",
+        "marketCap": 1739398080000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2021-03-17",
+        "marketCap": 1787044560000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2021-03-16",
+        "marketCap": 1792095690000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2021-03-15",
+        "marketCap": 1770232590000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2021-03-12",
+        "marketCap": 1777319250000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2021-03-11",
+        "marketCap": 1787723070000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2021-03-10",
+        "marketCap": 1752214380000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2021-03-09",
+        "marketCap": 1762467420000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2021-03-08",
+        "marketCap": 1714293210000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2021-03-05",
+        "marketCap": 1746032400000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2021-03-04",
+        "marketCap": 1709317470000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2021-03-03",
+        "marketCap": 1715574840000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2021-03-02",
+        "marketCap": 1763145930000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2021-03-01",
+        "marketCap": 1786290660000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2021-02-26",
+        "marketCap": 1751912820000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2021-02-25",
+        "marketCap": 1726355610000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2021-02-24",
+        "marketCap": 1768272450000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2021-02-23",
+        "marketCap": 1758622530000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2021-02-22",
+        "marketCap": 1767970890000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2021-02-19",
+        "marketCap": 1816672830000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2021-02-18",
+        "marketCap": 1837932810000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2021-02-17",
+        "marketCap": 1841023800000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2021-02-16",
+        "marketCap": 1837254300000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2021-02-12",
+        "marketCap": 1846979610000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2021-02-11",
+        "marketCap": 1843210110000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2021-02-10",
+        "marketCap": 1830619980000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2021-02-09",
+        "marketCap": 1837782030000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2021-02-08",
+        "marketCap": 1827981330000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2021-02-05",
+        "marketCap": 1825945800000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2021-02-04",
+        "marketCap": 1824513390000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2021-02-03",
+        "marketCap": 1831977000000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2021-02-02",
+        "marketCap": 1805665890000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2021-02-01",
+        "marketCap": 1806721350000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2021-01-29",
+        "marketCap": 1748746440000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2021-01-28",
+        "marketCap": 1801293270000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2021-01-27",
+        "marketCap": 1755833100000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2021-01-26",
+        "marketCap": 1751535870000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2021-01-25",
+        "marketCap": 1730426670000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2021-01-22",
+        "marketCap": 1703437050000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2021-01-21",
+        "marketCap": 1696048830000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2021-01-20",
+        "marketCap": 1691299260000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2021-01-19",
+        "marketCap": 1631741160000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2021-01-15",
+        "marketCap": 1603168350000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2021-01-14",
+        "marketCap": 1605957780000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2021-01-13",
+        "marketCap": 1630987260000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2021-01-12",
+        "marketCap": 1620357270000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2021-01-11",
+        "marketCap": 1639657110000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2021-01-08",
+        "marketCap": 1655715180000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2021-01-07",
+        "marketCap": 1645688310000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2021-01-06",
+        "marketCap": 1600152750000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2021-01-05",
+        "marketCap": 1642748100000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2021-01-04",
+        "marketCap": 1641164910000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2020-12-31",
+        "marketCap": 1676824380000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2020-12-30",
+        "marketCap": 1674792400000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2020-12-29",
+        "marketCap": 1693453250000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2020-12-28",
+        "marketCap": 1699572800000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2020-12-24",
+        "marketCap": 1682876250000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2020-12-23",
+        "marketCap": 1669806100000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2020-12-22",
+        "marketCap": 1691866700000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2020-12-21",
+        "marketCap": 1681667450000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2020-12-18",
+        "marketCap": 1651447450000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2020-12-17",
+        "marketCap": 1657718100000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2020-12-16",
+        "marketCap": 1656660400000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2020-12-15",
+        "marketCap": 1617752150000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2020-12-14",
+        "marketCap": 1618281000000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2020-12-11",
+        "marketCap": 1611179300000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2020-12-10",
+        "marketCap": 1590478600000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2020-12-09",
+        "marketCap": 1600149000000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2020-12-08",
+        "marketCap": 1631955550000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2020-12-07",
+        "marketCap": 1618960950000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2020-12-04",
+        "marketCap": 1619489800000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2020-12-03",
+        "marketCap": 1618583200000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2020-12-02",
+        "marketCap": 1627120350000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2020-12-01",
+        "marketCap": 1633466550000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2020-11-30",
+        "marketCap": 1617298850000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2020-11-27",
+        "marketCap": 1626062650000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2020-11-25",
+        "marketCap": 1615787850000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2020-11-24",
+        "marketCap": 1615712300000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2020-11-23",
+        "marketCap": 1587381050000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2020-11-20",
+        "marketCap": 1589496450000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2020-11-19",
+        "marketCap": 1604833100000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2020-11-18",
+        "marketCap": 1594709400000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2020-11-17",
+        "marketCap": 1620245300000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2020-11-16",
+        "marketCap": 1641172650000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2020-11-13",
+        "marketCap": 1635733050000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2020-11-12",
+        "marketCap": 1627649200000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2020-11-11",
+        "marketCap": 1636035250000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2020-11-10",
+        "marketCap": 1594180550000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2020-11-09",
+        "marketCap": 1649936450000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2020-11-06",
+        "marketCap": 1690204600000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2020-11-05",
+        "marketCap": 1686955950000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2020-11-04",
+        "marketCap": 1634826450000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2020-11-03",
+        "marketCap": 1559578650000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2020-11-02",
+        "marketCap": 1528603150000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2020-10-30",
+        "marketCap": 1529660850000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2020-10-29",
+        "marketCap": 1546659600000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2020-10-28",
+        "marketCap": 1531247400000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2020-10-27",
+        "marketCap": 1611103750000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2020-10-26",
+        "marketCap": 1587154400000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2020-10-23",
+        "marketCap": 1633617650000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2020-10-22",
+        "marketCap": 1623493950000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2020-10-21",
+        "marketCap": 1622814000000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2020-10-20",
+        "marketCap": 1621680750000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2020-10-19",
+        "marketCap": 1618432100000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2020-10-16",
+        "marketCap": 1659531300000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2020-10-15",
+        "marketCap": 1659531300000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2020-10-14",
+        "marketCap": 1668597300000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2020-10-13",
+        "marketCap": 1683707300000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2020-10-12",
+        "marketCap": 1672677000000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2020-10-09",
+        "marketCap": 1630444550000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2020-10-08",
+        "marketCap": 1590931900000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2020-10-07",
+        "marketCap": 1585265650000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2020-10-06",
+        "marketCap": 1555650050000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2020-10-05",
+        "marketCap": 1589420900000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2020-10-02",
+        "marketCap": 1557765450000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2020-10-01",
+        "marketCap": 1605135300000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2020-09-30",
+        "marketCap": 1589043150000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2020-09-29",
+        "marketCap": 1568129160000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2020-09-28",
+        "marketCap": 1584623040000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2020-09-25",
+        "marketCap": 1572366120000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2020-09-24",
+        "marketCap": 1537335540000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2020-09-23",
+        "marketCap": 1517663940000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2020-09-22",
+        "marketCap": 1569339720000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2020-09-21",
+        "marketCap": 1532417640000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2020-09-18",
+        "marketCap": 1516150740000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2020-09-17",
+        "marketCap": 1535217060000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2020-09-16",
+        "marketCap": 1551408300000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2020-09-15",
+        "marketCap": 1579629480000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2020-09-14",
+        "marketCap": 1554132060000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2020-09-11",
+        "marketCap": 1543690980000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2020-09-10",
+        "marketCap": 1553829420000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2020-09-09",
+        "marketCap": 1598620140000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2020-09-08",
+        "marketCap": 1533325560000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2020-09-04",
+        "marketCap": 1621015500000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2020-09-03",
+        "marketCap": 1644091800000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2020-09-02",
+        "marketCap": 1752663900000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2020-09-01",
+        "marketCap": 1719524820000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2020-08-31",
+        "marketCap": 1706359980000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2020-08-28",
+        "marketCap": 1731933060000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2020-08-27",
+        "marketCap": 1714304280000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2020-08-26",
+        "marketCap": 1673220900000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2020-08-25",
+        "marketCap": 1637812020000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2020-08-24",
+        "marketCap": 1616778540000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2020-08-21",
+        "marketCap": 1611709320000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2020-08-20",
+        "marketCap": 1623512280000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2020-08-19",
+        "marketCap": 1586590200000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2020-08-18",
+        "marketCap": 1600133340000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2020-08-17",
+        "marketCap": 1590978480000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2020-08-14",
+        "marketCap": 1580537400000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2020-08-13",
+        "marketCap": 1579024200000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2020-08-12",
+        "marketCap": 1582731540000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2020-08-11",
+        "marketCap": 1538773080000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2020-08-10",
+        "marketCap": 1575619500000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2020-08-07",
+        "marketCap": 1607623680000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2020-08-06",
+        "marketCap": 1636904100000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2020-08-05",
+        "marketCap": 1611104040000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2020-08-04",
+        "marketCap": 1613752140000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2020-08-03",
+        "marketCap": 1638341640000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2020-07-31",
+        "marketCap": 1551105660000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2020-07-30",
+        "marketCap": 1542707400000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2020-07-29",
+        "marketCap": 1543917960000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2020-07-28",
+        "marketCap": 1528483320000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2020-07-27",
+        "marketCap": 1542329100000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2020-07-24",
+        "marketCap": 1523035800000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2020-07-23",
+        "marketCap": 1532417640000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2020-07-22",
+        "marketCap": 1602100500000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2020-07-21",
+        "marketCap": 1579402500000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2020-07-20",
+        "marketCap": 1600965600000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2020-07-17",
+        "marketCap": 1534990080000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2020-07-16",
+        "marketCap": 1542858720000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2020-07-15",
+        "marketCap": 1574030640000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2020-07-14",
+        "marketCap": 1576376100000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2020-07-13",
+        "marketCap": 1566691620000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2020-07-10",
+        "marketCap": 1616627220000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2020-07-09",
+        "marketCap": 1621545120000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2020-07-08",
+        "marketCap": 1610271780000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2020-07-07",
+        "marketCap": 1575619500000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2020-07-06",
+        "marketCap": 1594156200000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2020-07-02",
+        "marketCap": 1560563160000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2020-07-01",
+        "marketCap": 1548760200000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2020-06-30",
+        "marketCap": 1539756660000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2020-06-29",
+        "marketCap": 1504175200000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2020-06-26",
+        "marketCap": 1488181400000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2020-06-25",
+        "marketCap": 1518577200000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2020-06-24",
+        "marketCap": 1499627200000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2020-06-23",
+        "marketCap": 1530477800000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2020-06-22",
+        "marketCap": 1520320600000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2020-06-19",
+        "marketCap": 1479237000000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2020-06-18",
+        "marketCap": 1488105600000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2020-06-17",
+        "marketCap": 1472339200000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2020-06-16",
+        "marketCap": 1467260600000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2020-06-15",
+        "marketCap": 1432165200000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2020-06-12",
+        "marketCap": 1423069200000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2020-06-11",
+        "marketCap": 1411926600000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2020-06-10",
+        "marketCap": 1492047200000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2020-06-09",
+        "marketCap": 1438684000000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2020-06-08",
+        "marketCap": 1427768800000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2020-06-05",
+        "marketCap": 1418976000000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2020-06-04",
+        "marketCap": 1386533600000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2020-06-03",
+        "marketCap": 1405028800000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2020-06-02",
+        "marketCap": 1401617800000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2020-06-01",
+        "marketCap": 1385851400000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2020-05-29",
+        "marketCap": 1389035000000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2020-05-28",
+        "marketCap": 1375012000000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2020-05-27",
+        "marketCap": 1378119800000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2020-05-26",
+        "marketCap": 1376300600000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2020-05-22",
+        "marketCap": 1391005800000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2020-05-21",
+        "marketCap": 1390399400000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2020-05-20",
+        "marketCap": 1407302800000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2020-05-19",
+        "marketCap": 1391915400000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2020-05-18",
+        "marketCap": 1401617800000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2020-05-15",
+        "marketCap": 1388352800000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2020-05-14",
+        "marketCap": 1368417400000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2020-05-13",
+        "marketCap": 1362505000000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2020-05-12",
+        "marketCap": 1383425800000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2020-05-11",
+        "marketCap": 1415489200000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2020-05-08",
+        "marketCap": 1399874400000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2020-05-07",
+        "marketCap": 1391688000000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2020-05-06",
+        "marketCap": 1383653200000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2020-05-05",
+        "marketCap": 1370160800000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2020-05-04",
+        "marketCap": 1355607200000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2020-05-01",
+        "marketCap": 1323240600000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2020-04-30",
+        "marketCap": 1358411800000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2020-04-29",
+        "marketCap": 1344919400000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2020-04-28",
+        "marketCap": 1287159800000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2020-04-27",
+        "marketCap": 1319299000000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2020-04-24",
+        "marketCap": 1323089000000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2020-04-23",
+        "marketCap": 1299363600000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2020-04-22",
+        "marketCap": 1315281600000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2020-04-21",
+        "marketCap": 1272075600000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2020-04-20",
+        "marketCap": 1326954800000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2020-04-17",
+        "marketCap": 1353788000000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2020-04-16",
+        "marketCap": 1341963200000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2020-04-15",
+        "marketCap": 1302850400000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2020-04-14",
+        "marketCap": 1316646000000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2020-04-13",
+        "marketCap": 1254565800000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2020-04-09",
+        "marketCap": 1251761200000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2020-04-08",
+        "marketCap": 1251685400000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2020-04-07",
+        "marketCap": 1239254200000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2020-04-06",
+        "marketCap": 1252746600000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2020-04-03",
+        "marketCap": 1166031400000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2020-04-02",
+        "marketCap": 1176870800000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2020-04-01",
+        "marketCap": 1152993800000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2020-03-31",
+        "marketCap": 1195441800000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2020-03-30",
+        "marketCap": 1218068460000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2020-03-27",
+        "marketCap": 1138019400000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2020-03-26",
+        "marketCap": 1186748220000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2020-03-25",
+        "marketCap": 1116885840000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2020-03-24",
+        "marketCap": 1127680680000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2020-03-23",
+        "marketCap": 1033719959999
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2020-03-20",
+        "marketCap": 1044134700000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2020-03-19",
+        "marketCap": 1084881420000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2020-03-18",
+        "marketCap": 1067320800000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2020-03-17",
+        "marketCap": 1114225140000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2020-03-16",
+        "marketCap": 1029462839999
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2020-03-13",
+        "marketCap": 1207425660000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2020-03-12",
+        "marketCap": 1057134120000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2020-03-11",
+        "marketCap": 1167895260000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2020-03-10",
+        "marketCap": 1223313840000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2020-03-09",
+        "marketCap": 1145013240000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2020-03-06",
+        "marketCap": 1228255140000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2020-03-05",
+        "marketCap": 1263984540000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2020-03-04",
+        "marketCap": 1296521100000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2020-03-03",
+        "marketCap": 1250605020000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2020-03-02",
+        "marketCap": 1313549580000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2020-02-28",
+        "marketCap": 1231600020000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2020-02-27",
+        "marketCap": 1202484360000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2020-02-26",
+        "marketCap": 1293632340000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2020-02-25",
+        "marketCap": 1277668140000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2020-02-24",
+        "marketCap": 1299105780000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2020-02-21",
+        "marketCap": 1357641180000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2020-02-20",
+        "marketCap": 1401960840000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2020-02-19",
+        "marketCap": 1423702560000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2020-02-18",
+        "marketCap": 1423322460000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2020-02-14",
+        "marketCap": 1409030700000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2020-02-13",
+        "marketCap": 1396563420000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2020-02-12",
+        "marketCap": 1404165420000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2020-02-11",
+        "marketCap": 1402112880000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2020-02-10",
+        "marketCap": 1434497400000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2020-02-07",
+        "marketCap": 1397931780000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2020-02-06",
+        "marketCap": 1395955260000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2020-02-05",
+        "marketCap": 1367599800000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2020-02-04",
+        "marketCap": 1369272240000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2020-02-03",
+        "marketCap": 1325636760000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2020-01-31",
+        "marketCap": 1294088460000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2020-01-30",
+        "marketCap": 1313473560000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2020-01-29",
+        "marketCap": 1277440080000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2020-01-28",
+        "marketCap": 1257826920000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2020-01-27",
+        "marketCap": 1233652560000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2020-01-24",
+        "marketCap": 1254634080000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2020-01-23",
+        "marketCap": 1267405440000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2020-01-22",
+        "marketCap": 1259651400000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2020-01-21",
+        "marketCap": 1265733000000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2020-01-17",
+        "marketCap": 1270294200000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2020-01-16",
+        "marketCap": 1263224340000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2020-01-15",
+        "marketCap": 1240494360000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2020-01-14",
+        "marketCap": 1232512260000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2020-01-13",
+        "marketCap": 1241254560000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2020-01-10",
+        "marketCap": 1226506680000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2020-01-09",
+        "marketCap": 1232208180000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2020-01-08",
+        "marketCap": 1217004180000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2020-01-07",
+        "marketCap": 1197923160000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2020-01-06",
+        "marketCap": 1208946060000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2020-01-03",
+        "marketCap": 1205829240000
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2020-01-02",
+        "marketCap": 1221033240000
+    }
+]

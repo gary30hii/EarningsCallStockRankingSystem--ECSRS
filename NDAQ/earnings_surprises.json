@@ -1,0 +1,536 @@
+[
+    {
+        "date": "2024-10-24",
+        "symbol": "NDAQ",
+        "actualEarningResult": 0.74,
+        "estimatedEarning": 0.694
+    },
+    {
+        "date": "2024-07-25",
+        "symbol": "NDAQ",
+        "actualEarningResult": 0.69,
+        "estimatedEarning": 0.642
+    },
+    {
+        "date": "2024-04-25",
+        "symbol": "NDAQ",
+        "actualEarningResult": 0.63,
+        "estimatedEarning": 0.653
+    },
+    {
+        "date": "2024-01-31",
+        "symbol": "NDAQ",
+        "actualEarningResult": 0.72,
+        "estimatedEarning": 0.7
+    },
+    {
+        "date": "2023-10-18",
+        "symbol": "NDAQ",
+        "actualEarningResult": 0.71,
+        "estimatedEarning": 0.68
+    },
+    {
+        "date": "2023-07-19",
+        "symbol": "NDAQ",
+        "actualEarningResult": 0.71,
+        "estimatedEarning": 0.65
+    },
+    {
+        "date": "2023-04-19",
+        "symbol": "NDAQ",
+        "actualEarningResult": 0.69,
+        "estimatedEarning": 0.66
+    },
+    {
+        "date": "2023-01-25",
+        "symbol": "NDAQ",
+        "actualEarningResult": 0.64,
+        "estimatedEarning": 0.65
+    },
+    {
+        "date": "2022-10-19",
+        "symbol": "NDAQ",
+        "actualEarningResult": 0.68,
+        "estimatedEarning": 0.65
+    },
+    {
+        "date": "2022-07-20",
+        "symbol": "NDAQ",
+        "actualEarningResult": 0.69,
+        "estimatedEarning": 0.64
+    },
+    {
+        "date": "2022-04-20",
+        "symbol": "NDAQ",
+        "actualEarningResult": 0.66,
+        "estimatedEarning": 0.65
+    },
+    {
+        "date": "2022-01-26",
+        "symbol": "NDAQ",
+        "actualEarningResult": 0.64,
+        "estimatedEarning": 0.59
+    },
+    {
+        "date": "2021-10-20",
+        "symbol": "NDAQ",
+        "actualEarningResult": 0.59,
+        "estimatedEarning": 0.57
+    },
+    {
+        "date": "2021-07-21",
+        "symbol": "NDAQ",
+        "actualEarningResult": 0.63,
+        "estimatedEarning": 0.58
+    },
+    {
+        "date": "2021-04-21",
+        "symbol": "NDAQ",
+        "actualEarningResult": 0.65,
+        "estimatedEarning": 0.58
+    },
+    {
+        "date": "2021-01-27",
+        "symbol": "NDAQ",
+        "actualEarningResult": 0.53,
+        "estimatedEarning": 0.48
+    },
+    {
+        "date": "2020-10-21",
+        "symbol": "NDAQ",
+        "actualEarningResult": 0.51,
+        "estimatedEarning": 0.49
+    },
+    {
+        "date": "2020-07-22",
+        "symbol": "NDAQ",
+        "actualEarningResult": 0.51,
+        "estimatedEarning": 0.48
+    },
+    {
+        "date": "2020-04-22",
+        "symbol": "NDAQ",
+        "actualEarningResult": 0.5,
+        "estimatedEarning": 0.49
+    },
+    {
+        "date": "2020-01-29",
+        "symbol": "NDAQ",
+        "actualEarningResult": 0.43,
+        "estimatedEarning": 0.42
+    },
+    {
+        "date": "2019-10-23",
+        "symbol": "NDAQ",
+        "actualEarningResult": 0.42,
+        "estimatedEarning": 0.4
+    },
+    {
+        "date": "2019-07-24",
+        "symbol": "NDAQ",
+        "actualEarningResult": 0.41,
+        "estimatedEarning": 0.4
+    },
+    {
+        "date": "2019-04-24",
+        "symbol": "NDAQ",
+        "actualEarningResult": 0.41,
+        "estimatedEarning": 0.39
+    },
+    {
+        "date": "2019-01-30",
+        "symbol": "NDAQ",
+        "actualEarningResult": 0.42,
+        "estimatedEarning": 0.42
+    },
+    {
+        "date": "2018-10-24",
+        "symbol": "NDAQ",
+        "actualEarningResult": 0.38,
+        "estimatedEarning": 0.38
+    },
+    {
+        "date": "2018-07-25",
+        "symbol": "NDAQ",
+        "actualEarningResult": 0.39,
+        "estimatedEarning": 0.39
+    },
+    {
+        "date": "2018-04-25",
+        "symbol": "NDAQ",
+        "actualEarningResult": 0.41,
+        "estimatedEarning": 0.4
+    },
+    {
+        "date": "2018-01-31",
+        "symbol": "NDAQ",
+        "actualEarningResult": 0.35,
+        "estimatedEarning": 0.33
+    },
+    {
+        "date": "2017-10-25",
+        "symbol": "NDAQ",
+        "actualEarningResult": 0.35,
+        "estimatedEarning": 0.34
+    },
+    {
+        "date": "2017-07-26",
+        "symbol": "NDAQ",
+        "actualEarningResult": 0.34,
+        "estimatedEarning": 0.32
+    },
+    {
+        "date": "2017-04-26",
+        "symbol": "NDAQ",
+        "actualEarningResult": 0.37,
+        "estimatedEarning": 0.35
+    },
+    {
+        "date": "2017-01-31",
+        "symbol": "NDAQ",
+        "actualEarningResult": 0.32,
+        "estimatedEarning": 0.31
+    },
+    {
+        "date": "2016-10-26",
+        "symbol": "NDAQ",
+        "actualEarningResult": 0.3,
+        "estimatedEarning": 0.3
+    },
+    {
+        "date": "2016-07-27",
+        "symbol": "NDAQ",
+        "actualEarningResult": 0.3,
+        "estimatedEarning": 0.29
+    },
+    {
+        "date": "2016-04-27",
+        "symbol": "NDAQ",
+        "actualEarningResult": 0.3,
+        "estimatedEarning": 0.3
+    },
+    {
+        "date": "2016-01-28",
+        "symbol": "NDAQ",
+        "actualEarningResult": 0.3,
+        "estimatedEarning": 0.29
+    },
+    {
+        "date": "2015-10-22",
+        "symbol": "NDAQ",
+        "actualEarningResult": 0.29,
+        "estimatedEarning": 0.29
+    },
+    {
+        "date": "2015-07-23",
+        "symbol": "NDAQ",
+        "actualEarningResult": 0.28,
+        "estimatedEarning": 0.27
+    },
+    {
+        "date": "2015-04-23",
+        "symbol": "NDAQ",
+        "actualEarningResult": 0.27,
+        "estimatedEarning": 0.26
+    },
+    {
+        "date": "2015-01-29",
+        "symbol": "NDAQ",
+        "actualEarningResult": 0.25,
+        "estimatedEarning": 0.25
+    },
+    {
+        "date": "2014-10-24",
+        "symbol": "NDAQ",
+        "actualEarningResult": 0.24,
+        "estimatedEarning": 0.23
+    },
+    {
+        "date": "2014-07-24",
+        "symbol": "NDAQ",
+        "actualEarningResult": 0.23,
+        "estimatedEarning": 0.23
+    },
+    {
+        "date": "2014-04-24",
+        "symbol": "NDAQ",
+        "actualEarningResult": 0.24,
+        "estimatedEarning": 0.24
+    },
+    {
+        "date": "2014-02-05",
+        "symbol": "NDAQ",
+        "actualEarningResult": 0.23,
+        "estimatedEarning": 0.22
+    },
+    {
+        "date": "2013-10-23",
+        "symbol": "NDAQ",
+        "actualEarningResult": 0.22,
+        "estimatedEarning": 0.21
+    },
+    {
+        "date": "2013-07-24",
+        "symbol": "NDAQ",
+        "actualEarningResult": 0.21,
+        "estimatedEarning": 0.21
+    },
+    {
+        "date": "2013-04-24",
+        "symbol": "NDAQ",
+        "actualEarningResult": 0.21,
+        "estimatedEarning": 0.2
+    },
+    {
+        "date": "2013-01-31",
+        "symbol": "NDAQ",
+        "actualEarningResult": 0.21,
+        "estimatedEarning": 0.2
+    },
+    {
+        "date": "2012-10-24",
+        "symbol": "NDAQ",
+        "actualEarningResult": 0.21,
+        "estimatedEarning": 0.2
+    },
+    {
+        "date": "2012-07-25",
+        "symbol": "NDAQ",
+        "actualEarningResult": 0.21,
+        "estimatedEarning": 0.2
+    },
+    {
+        "date": "2012-04-25",
+        "symbol": "NDAQ",
+        "actualEarningResult": 0.2,
+        "estimatedEarning": 0.21
+    },
+    {
+        "date": "2012-02-01",
+        "symbol": "NDAQ",
+        "actualEarningResult": 0.21,
+        "estimatedEarning": 0.2033
+    },
+    {
+        "date": "2011-10-26",
+        "symbol": "NDAQ",
+        "actualEarningResult": 0.22,
+        "estimatedEarning": 0.22
+    },
+    {
+        "date": "2011-07-27",
+        "symbol": "NDAQ",
+        "actualEarningResult": 0.21,
+        "estimatedEarning": 0.2
+    },
+    {
+        "date": "2011-04-20",
+        "symbol": "NDAQ",
+        "actualEarningResult": 0.2,
+        "estimatedEarning": 0.2
+    },
+    {
+        "date": "2011-02-02",
+        "symbol": "NDAQ",
+        "actualEarningResult": 0.18,
+        "estimatedEarning": 0.17
+    },
+    {
+        "date": "2010-10-29",
+        "symbol": "NDAQ",
+        "actualEarningResult": 0.17,
+        "estimatedEarning": 0.15
+    },
+    {
+        "date": "2010-07-27",
+        "symbol": "NDAQ",
+        "actualEarningResult": 0.17,
+        "estimatedEarning": 0.16
+    },
+    {
+        "date": "2010-04-30",
+        "symbol": "NDAQ",
+        "actualEarningResult": 0.14,
+        "estimatedEarning": 0.1533
+    },
+    {
+        "date": "2010-02-08",
+        "symbol": "NDAQ",
+        "actualEarningResult": 0.15,
+        "estimatedEarning": 0.15
+    },
+    {
+        "date": "2009-11-05",
+        "symbol": "NDAQ",
+        "actualEarningResult": 0.14,
+        "estimatedEarning": 0.14
+    },
+    {
+        "date": "2009-08-06",
+        "symbol": "NDAQ",
+        "actualEarningResult": 0.15,
+        "estimatedEarning": 0.1567
+    },
+    {
+        "date": "2009-05-07",
+        "symbol": "NDAQ",
+        "actualEarningResult": 0.16,
+        "estimatedEarning": 0.16
+    },
+    {
+        "date": "2009-02-26",
+        "symbol": "NDAQ",
+        "actualEarningResult": 0.18,
+        "estimatedEarning": 0.17
+    },
+    {
+        "date": "2008-11-06",
+        "symbol": "NDAQ",
+        "actualEarningResult": 0.17,
+        "estimatedEarning": 0.17
+    },
+    {
+        "date": "2008-08-06",
+        "symbol": "NDAQ",
+        "actualEarningResult": 0.16,
+        "estimatedEarning": 0.14
+    },
+    {
+        "date": "2008-05-08",
+        "symbol": "NDAQ",
+        "actualEarningResult": 0.16,
+        "estimatedEarning": 0.16
+    },
+    {
+        "date": "2008-01-31",
+        "symbol": "NDAQ",
+        "actualEarningResult": 0.15,
+        "estimatedEarning": 0.16
+    },
+    {
+        "date": "2007-10-24",
+        "symbol": "NDAQ",
+        "actualEarningResult": 0.14,
+        "estimatedEarning": 0.13
+    },
+    {
+        "date": "2007-07-19",
+        "symbol": "NDAQ",
+        "actualEarningResult": 0.13,
+        "estimatedEarning": 0.12
+    },
+    {
+        "date": "2007-04-19",
+        "symbol": "NDAQ",
+        "actualEarningResult": 0.05,
+        "estimatedEarning": 0.07
+    },
+    {
+        "date": "2007-02-13",
+        "symbol": "NDAQ",
+        "actualEarningResult": 0.14,
+        "estimatedEarning": 0.08
+    },
+    {
+        "date": "2006-10-19",
+        "symbol": "NDAQ",
+        "actualEarningResult": 0.07,
+        "estimatedEarning": 0.05
+    },
+    {
+        "date": "2006-07-20",
+        "symbol": "NDAQ",
+        "actualEarningResult": 0.04,
+        "estimatedEarning": 0.02414
+    },
+    {
+        "date": "2006-04-20",
+        "symbol": "NDAQ",
+        "actualEarningResult": 0.05,
+        "estimatedEarning": 0.03875
+    },
+    {
+        "date": "2006-01-30",
+        "symbol": "NDAQ",
+        "actualEarningResult": 0.05,
+        "estimatedEarning": 0.05
+    },
+    {
+        "date": "2005-10-26",
+        "symbol": "NDAQ",
+        "actualEarningResult": 0.05,
+        "estimatedEarning": 0.0375
+    },
+    {
+        "date": "2005-07-28",
+        "symbol": "NDAQ",
+        "actualEarningResult": 0.04,
+        "estimatedEarning": 0.02615
+    },
+    {
+        "date": "2005-04-21",
+        "symbol": "NDAQ",
+        "actualEarningResult": 0.04,
+        "estimatedEarning": 0.02615
+    },
+    {
+        "date": "2005-02-24",
+        "symbol": "NDAQ",
+        "actualEarningResult": 0.03198,
+        "estimatedEarning": 0.1119
+    },
+    {
+        "date": "2004-10-28",
+        "symbol": "NDAQ",
+        "actualEarningResult": -0.03,
+        "estimatedEarning": -0.0075
+    },
+    {
+        "date": "2004-07-29",
+        "symbol": "NDAQ",
+        "actualEarningResult": 0.02577,
+        "estimatedEarning": 0.01031
+    },
+    {
+        "date": "2004-04-29",
+        "symbol": "NDAQ",
+        "actualEarningResult": 0.01685,
+        "estimatedEarning": 0.00632
+    },
+    {
+        "date": "2004-02-25",
+        "symbol": "NDAQ",
+        "actualEarningResult": -0.06,
+        "estimatedEarning": -0.13
+    },
+    {
+        "date": "2003-11-05",
+        "symbol": "NDAQ",
+        "actualEarningResult": -0.17,
+        "estimatedEarning": -0.02942
+    },
+    {
+        "date": "2003-08-05",
+        "symbol": "NDAQ",
+        "actualEarningResult": -0.02,
+        "estimatedEarning": -0.00285
+    },
+    {
+        "date": "2003-04-30",
+        "symbol": "NDAQ",
+        "actualEarningResult": 0.00893,
+        "estimatedEarning": 0.00406
+    },
+    {
+        "date": "2003-03-10",
+        "symbol": "NDAQ",
+        "actualEarningResult": 0.00136,
+        "estimatedEarning": -0.00272
+    },
+    {
+        "date": "2002-10-28",
+        "symbol": "NDAQ",
+        "actualEarningResult": 0.04,
+        "estimatedEarning": 0.03693
+    }
+]

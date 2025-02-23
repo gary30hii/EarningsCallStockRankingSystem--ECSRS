@@ -1,0 +1,680 @@
+[
+    {
+        "date": "2024-10-24",
+        "symbol": "RMD",
+        "actualEarningResult": 2.2,
+        "estimatedEarning": 2.04
+    },
+    {
+        "date": "2024-08-01",
+        "symbol": "RMD",
+        "actualEarningResult": 2.08,
+        "estimatedEarning": 2.07
+    },
+    {
+        "date": "2024-04-25",
+        "symbol": "RMD",
+        "actualEarningResult": 2.13,
+        "estimatedEarning": 1.91
+    },
+    {
+        "date": "2024-01-24",
+        "symbol": "RMD",
+        "actualEarningResult": 1.88,
+        "estimatedEarning": 1.81
+    },
+    {
+        "date": "2023-10-26",
+        "symbol": "RMD",
+        "actualEarningResult": 1.64,
+        "estimatedEarning": 1.62
+    },
+    {
+        "date": "2023-08-03",
+        "symbol": "RMD",
+        "actualEarningResult": 1.6,
+        "estimatedEarning": 1.69
+    },
+    {
+        "date": "2023-04-27",
+        "symbol": "RMD",
+        "actualEarningResult": 1.68,
+        "estimatedEarning": 1.59
+    },
+    {
+        "date": "2023-01-26",
+        "symbol": "RMD",
+        "actualEarningResult": 1.66,
+        "estimatedEarning": 1.62
+    },
+    {
+        "date": "2022-10-27",
+        "symbol": "RMD",
+        "actualEarningResult": 1.51,
+        "estimatedEarning": 1.52
+    },
+    {
+        "date": "2022-08-11",
+        "symbol": "RMD",
+        "actualEarningResult": 1.49,
+        "estimatedEarning": 1.45
+    },
+    {
+        "date": "2022-04-28",
+        "symbol": "RMD",
+        "actualEarningResult": 1.32,
+        "estimatedEarning": 1.42
+    },
+    {
+        "date": "2022-01-27",
+        "symbol": "RMD",
+        "actualEarningResult": 1.47,
+        "estimatedEarning": 1.52
+    },
+    {
+        "date": "2021-10-28",
+        "symbol": "RMD",
+        "actualEarningResult": 1.51,
+        "estimatedEarning": 1.36
+    },
+    {
+        "date": "2021-08-05",
+        "symbol": "RMD",
+        "actualEarningResult": 1.35,
+        "estimatedEarning": 1.3
+    },
+    {
+        "date": "2021-04-29",
+        "symbol": "RMD",
+        "actualEarningResult": 1.3,
+        "estimatedEarning": 1.22
+    },
+    {
+        "date": "2021-01-28",
+        "symbol": "RMD",
+        "actualEarningResult": 1.41,
+        "estimatedEarning": 1.27
+    },
+    {
+        "date": "2020-10-29",
+        "symbol": "RMD",
+        "actualEarningResult": 1.27,
+        "estimatedEarning": 1.03
+    },
+    {
+        "date": "2020-08-05",
+        "symbol": "RMD",
+        "actualEarningResult": 1.33,
+        "estimatedEarning": 1.08
+    },
+    {
+        "date": "2020-04-30",
+        "symbol": "RMD",
+        "actualEarningResult": 1.29,
+        "estimatedEarning": 1.05
+    },
+    {
+        "date": "2020-01-30",
+        "symbol": "RMD",
+        "actualEarningResult": 1.21,
+        "estimatedEarning": 1.02
+    },
+    {
+        "date": "2019-10-24",
+        "symbol": "RMD",
+        "actualEarningResult": 0.93,
+        "estimatedEarning": 0.87
+    },
+    {
+        "date": "2019-07-25",
+        "symbol": "RMD",
+        "actualEarningResult": 0.95,
+        "estimatedEarning": 0.92
+    },
+    {
+        "date": "2019-05-02",
+        "symbol": "RMD",
+        "actualEarningResult": 0.89,
+        "estimatedEarning": 0.85
+    },
+    {
+        "date": "2019-01-24",
+        "symbol": "RMD",
+        "actualEarningResult": 1,
+        "estimatedEarning": 0.95
+    },
+    {
+        "date": "2018-10-25",
+        "symbol": "RMD",
+        "actualEarningResult": 0.81,
+        "estimatedEarning": 0.79
+    },
+    {
+        "date": "2018-08-02",
+        "symbol": "RMD",
+        "actualEarningResult": 0.95,
+        "estimatedEarning": 0.95
+    },
+    {
+        "date": "2018-04-26",
+        "symbol": "RMD",
+        "actualEarningResult": 0.92,
+        "estimatedEarning": 0.85
+    },
+    {
+        "date": "2018-01-22",
+        "symbol": "RMD",
+        "actualEarningResult": 1,
+        "estimatedEarning": 0.78
+    },
+    {
+        "date": "2017-10-26",
+        "symbol": "RMD",
+        "actualEarningResult": 0.66,
+        "estimatedEarning": 0.66
+    },
+    {
+        "date": "2017-08-01",
+        "symbol": "RMD",
+        "actualEarningResult": 0.77,
+        "estimatedEarning": 0.75
+    },
+    {
+        "date": "2017-04-27",
+        "symbol": "RMD",
+        "actualEarningResult": 0.71,
+        "estimatedEarning": 0.71
+    },
+    {
+        "date": "2017-01-23",
+        "symbol": "RMD",
+        "actualEarningResult": 0.73,
+        "estimatedEarning": 0.7
+    },
+    {
+        "date": "2016-10-25",
+        "symbol": "RMD",
+        "actualEarningResult": 0.62,
+        "estimatedEarning": 0.64
+    },
+    {
+        "date": "2016-07-28",
+        "symbol": "RMD",
+        "actualEarningResult": 0.74,
+        "estimatedEarning": 0.74
+    },
+    {
+        "date": "2016-04-26",
+        "symbol": "RMD",
+        "actualEarningResult": 0.68,
+        "estimatedEarning": 0.68
+    },
+    {
+        "date": "2016-01-21",
+        "symbol": "RMD",
+        "actualEarningResult": 0.69,
+        "estimatedEarning": 0.66
+    },
+    {
+        "date": "2015-10-22",
+        "symbol": "RMD",
+        "actualEarningResult": 0.58,
+        "estimatedEarning": 0.59
+    },
+    {
+        "date": "2015-07-30",
+        "symbol": "RMD",
+        "actualEarningResult": 0.68,
+        "estimatedEarning": 0.65
+    },
+    {
+        "date": "2015-04-23",
+        "symbol": "RMD",
+        "actualEarningResult": 0.65,
+        "estimatedEarning": 0.66
+    },
+    {
+        "date": "2015-01-22",
+        "symbol": "RMD",
+        "actualEarningResult": 0.65,
+        "estimatedEarning": 0.61
+    },
+    {
+        "date": "2014-10-23",
+        "symbol": "RMD",
+        "actualEarningResult": 0.59,
+        "estimatedEarning": 0.57
+    },
+    {
+        "date": "2014-07-31",
+        "symbol": "RMD",
+        "actualEarningResult": 0.65,
+        "estimatedEarning": 0.67
+    },
+    {
+        "date": "2014-04-23",
+        "symbol": "RMD",
+        "actualEarningResult": 0.64,
+        "estimatedEarning": 0.64
+    },
+    {
+        "date": "2014-01-23",
+        "symbol": "RMD",
+        "actualEarningResult": 0.61,
+        "estimatedEarning": 0.63
+    },
+    {
+        "date": "2013-10-24",
+        "symbol": "RMD",
+        "actualEarningResult": 0.57,
+        "estimatedEarning": 0.57
+    },
+    {
+        "date": "2013-08-01",
+        "symbol": "RMD",
+        "actualEarningResult": 0.63,
+        "estimatedEarning": 0.61
+    },
+    {
+        "date": "2013-04-25",
+        "symbol": "RMD",
+        "actualEarningResult": 0.59,
+        "estimatedEarning": 0.56
+    },
+    {
+        "date": "2013-01-24",
+        "symbol": "RMD",
+        "actualEarningResult": 0.54,
+        "estimatedEarning": 0.51
+    },
+    {
+        "date": "2012-10-25",
+        "symbol": "RMD",
+        "actualEarningResult": 0.5,
+        "estimatedEarning": 0.46
+    },
+    {
+        "date": "2012-08-02",
+        "symbol": "RMD",
+        "actualEarningResult": 0.55,
+        "estimatedEarning": 0.49
+    },
+    {
+        "date": "2012-04-26",
+        "symbol": "RMD",
+        "actualEarningResult": 0.46,
+        "estimatedEarning": 0.41
+    },
+    {
+        "date": "2012-01-26",
+        "symbol": "RMD",
+        "actualEarningResult": 0.44,
+        "estimatedEarning": 0.38
+    },
+    {
+        "date": "2011-10-24",
+        "symbol": "RMD",
+        "actualEarningResult": 0.35,
+        "estimatedEarning": 0.35
+    },
+    {
+        "date": "2011-08-04",
+        "symbol": "RMD",
+        "actualEarningResult": 0.39,
+        "estimatedEarning": 0.36
+    },
+    {
+        "date": "2011-04-28",
+        "symbol": "RMD",
+        "actualEarningResult": 0.35,
+        "estimatedEarning": 0.35
+    },
+    {
+        "date": "2011-01-27",
+        "symbol": "RMD",
+        "actualEarningResult": 0.38,
+        "estimatedEarning": 0.36
+    },
+    {
+        "date": "2010-10-28",
+        "symbol": "RMD",
+        "actualEarningResult": 0.37,
+        "estimatedEarning": 0.32
+    },
+    {
+        "date": "2010-08-05",
+        "symbol": "RMD",
+        "actualEarningResult": 0.35,
+        "estimatedEarning": 0.33
+    },
+    {
+        "date": "2010-04-29",
+        "symbol": "RMD",
+        "actualEarningResult": 0.32,
+        "estimatedEarning": 0.28
+    },
+    {
+        "date": "2010-02-04",
+        "symbol": "RMD",
+        "actualEarningResult": 0.31,
+        "estimatedEarning": 0.27
+    },
+    {
+        "date": "2009-11-05",
+        "symbol": "RMD",
+        "actualEarningResult": 0.28,
+        "estimatedEarning": 0.25
+    },
+    {
+        "date": "2009-08-06",
+        "symbol": "RMD",
+        "actualEarningResult": 0.31,
+        "estimatedEarning": 0.27
+    },
+    {
+        "date": "2009-05-07",
+        "symbol": "RMD",
+        "actualEarningResult": 0.26,
+        "estimatedEarning": 0.23
+    },
+    {
+        "date": "2009-02-05",
+        "symbol": "RMD",
+        "actualEarningResult": 0.23,
+        "estimatedEarning": 0.21
+    },
+    {
+        "date": "2008-11-06",
+        "symbol": "RMD",
+        "actualEarningResult": 0.19,
+        "estimatedEarning": 0.19
+    },
+    {
+        "date": "2008-08-05",
+        "symbol": "RMD",
+        "actualEarningResult": 0.21,
+        "estimatedEarning": 0.19
+    },
+    {
+        "date": "2008-05-01",
+        "symbol": "RMD",
+        "actualEarningResult": 0.2,
+        "estimatedEarning": 0.19
+    },
+    {
+        "date": "2008-02-07",
+        "symbol": "RMD",
+        "actualEarningResult": 0.18,
+        "estimatedEarning": 0.19
+    },
+    {
+        "date": "2007-11-01",
+        "symbol": "RMD",
+        "actualEarningResult": 0.17,
+        "estimatedEarning": 0.17
+    },
+    {
+        "date": "2007-08-07",
+        "symbol": "RMD",
+        "actualEarningResult": 0.21,
+        "estimatedEarning": 0.2
+    },
+    {
+        "date": "2007-04-23",
+        "symbol": "RMD",
+        "actualEarningResult": 0.18,
+        "estimatedEarning": 0.21
+    },
+    {
+        "date": "2007-02-06",
+        "symbol": "RMD",
+        "actualEarningResult": 0.2,
+        "estimatedEarning": 0.2
+    },
+    {
+        "date": "2006-11-08",
+        "symbol": "RMD",
+        "actualEarningResult": 0.17,
+        "estimatedEarning": 0.16
+    },
+    {
+        "date": "2006-08-17",
+        "symbol": "RMD",
+        "actualEarningResult": 0.18,
+        "estimatedEarning": 0.18
+    },
+    {
+        "date": "2006-05-04",
+        "symbol": "RMD",
+        "actualEarningResult": 0.18,
+        "estimatedEarning": 0.15
+    },
+    {
+        "date": "2006-02-07",
+        "symbol": "RMD",
+        "actualEarningResult": 0.16,
+        "estimatedEarning": 0.16
+    },
+    {
+        "date": "2005-11-02",
+        "symbol": "RMD",
+        "actualEarningResult": 0.13,
+        "estimatedEarning": 0.13
+    },
+    {
+        "date": "2005-08-22",
+        "symbol": "RMD",
+        "actualEarningResult": 0.15,
+        "estimatedEarning": 0.14
+    },
+    {
+        "date": "2005-05-05",
+        "symbol": "RMD",
+        "actualEarningResult": 0.13,
+        "estimatedEarning": 0.13
+    },
+    {
+        "date": "2005-02-03",
+        "symbol": "RMD",
+        "actualEarningResult": 0.13,
+        "estimatedEarning": 0.12
+    },
+    {
+        "date": "2004-11-08",
+        "symbol": "RMD",
+        "actualEarningResult": 0.11,
+        "estimatedEarning": 0.11
+    },
+    {
+        "date": "2004-08-05",
+        "symbol": "RMD",
+        "actualEarningResult": 0.11,
+        "estimatedEarning": 0.12
+    },
+    {
+        "date": "2004-04-26",
+        "symbol": "RMD",
+        "actualEarningResult": 0.11,
+        "estimatedEarning": 0.11
+    },
+    {
+        "date": "2004-02-04",
+        "symbol": "RMD",
+        "actualEarningResult": 0.1,
+        "estimatedEarning": 0.09
+    },
+    {
+        "date": "2003-10-28",
+        "symbol": "RMD",
+        "actualEarningResult": 0.09,
+        "estimatedEarning": 0.09
+    },
+    {
+        "date": "2003-08-05",
+        "symbol": "RMD",
+        "actualEarningResult": 0.1,
+        "estimatedEarning": 0.09
+    },
+    {
+        "date": "2003-04-22",
+        "symbol": "RMD",
+        "actualEarningResult": 0.09,
+        "estimatedEarning": 0.08
+    },
+    {
+        "date": "2003-02-03",
+        "symbol": "RMD",
+        "actualEarningResult": 0.08,
+        "estimatedEarning": 0.08
+    },
+    {
+        "date": "2002-10-30",
+        "symbol": "RMD",
+        "actualEarningResult": 0.07,
+        "estimatedEarning": 0.07
+    },
+    {
+        "date": "2002-08-13",
+        "symbol": "RMD",
+        "actualEarningResult": 0.07,
+        "estimatedEarning": 0.07
+    },
+    {
+        "date": "2002-05-02",
+        "symbol": "RMD",
+        "actualEarningResult": 0.07,
+        "estimatedEarning": 0.07
+    },
+    {
+        "date": "2002-01-30",
+        "symbol": "RMD",
+        "actualEarningResult": 0.07,
+        "estimatedEarning": 0.07
+    },
+    {
+        "date": "2001-11-15",
+        "symbol": "RMD",
+        "actualEarningResult": 0.06,
+        "estimatedEarning": 0.06
+    },
+    {
+        "date": "2001-08-08",
+        "symbol": "RMD",
+        "actualEarningResult": 0.06,
+        "estimatedEarning": 0.06
+    },
+    {
+        "date": "2001-05-01",
+        "symbol": "RMD",
+        "actualEarningResult": 0.06,
+        "estimatedEarning": 0.05
+    },
+    {
+        "date": "2001-02-05",
+        "symbol": "RMD",
+        "actualEarningResult": 0.05,
+        "estimatedEarning": 0.05
+    },
+    {
+        "date": "2000-10-31",
+        "symbol": "RMD",
+        "actualEarningResult": 0.05,
+        "estimatedEarning": 0.0425
+    },
+    {
+        "date": "2000-08-08",
+        "symbol": "RMD",
+        "actualEarningResult": 0.05,
+        "estimatedEarning": 0.05
+    },
+    {
+        "date": "2000-05-02",
+        "symbol": "RMD",
+        "actualEarningResult": 0.05,
+        "estimatedEarning": 0.04884
+    },
+    {
+        "date": "2000-02-02",
+        "symbol": "RMD",
+        "actualEarningResult": 0.04,
+        "estimatedEarning": 0.03765
+    },
+    {
+        "date": "1999-10-27",
+        "symbol": "RMD",
+        "actualEarningResult": 0.04,
+        "estimatedEarning": 0.03635
+    },
+    {
+        "date": "1999-08-04",
+        "symbol": "RMD",
+        "actualEarningResult": 0.04,
+        "estimatedEarning": 0.03867
+    },
+    {
+        "date": "1999-04-15",
+        "symbol": "RMD",
+        "actualEarningResult": 0.04,
+        "estimatedEarning": 0.03467
+    },
+    {
+        "date": "1999-02-02",
+        "symbol": "RMD",
+        "actualEarningResult": 0.03,
+        "estimatedEarning": 0.02616
+    },
+    {
+        "date": "1998-11-02",
+        "symbol": "RMD",
+        "actualEarningResult": 0.03,
+        "estimatedEarning": 0.02672
+    },
+    {
+        "date": "1998-08-17",
+        "symbol": "RMD",
+        "actualEarningResult": 0.03,
+        "estimatedEarning": 0.02756
+    },
+    {
+        "date": "1998-04-20",
+        "symbol": "RMD",
+        "actualEarningResult": 0.03,
+        "estimatedEarning": 0.02304
+    },
+    {
+        "date": "1998-02-02",
+        "symbol": "RMD",
+        "actualEarningResult": 0.02,
+        "estimatedEarning": 0.01913
+    },
+    {
+        "date": "1997-10-27",
+        "symbol": "RMD",
+        "actualEarningResult": 0.02,
+        "estimatedEarning": 0.01724
+    },
+    {
+        "date": "1997-08-11",
+        "symbol": "RMD",
+        "actualEarningResult": 0.02,
+        "estimatedEarning": 0.01857
+    },
+    {
+        "date": "1997-05-05",
+        "symbol": "RMD",
+        "actualEarningResult": 0.02,
+        "estimatedEarning": 0.01808
+    },
+    {
+        "date": "1996-08-12",
+        "symbol": "RMD",
+        "actualEarningResult": 0.01458,
+        "estimatedEarning": 0.01284
+    },
+    {
+        "date": "1996-05-14",
+        "symbol": "RMD",
+        "actualEarningResult": 0.0125,
+        "estimatedEarning": 0.01
+    }
+]

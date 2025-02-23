@@ -1,0 +1,164 @@
+[
+    {
+        "date": "2024-10-31",
+        "symbol": "VICI",
+        "actualEarningResult": 0.7,
+        "estimatedEarning": 0.67
+    },
+    {
+        "date": "2024-07-31",
+        "symbol": "VICI",
+        "actualEarningResult": 0.71,
+        "estimatedEarning": 0.68
+    },
+    {
+        "date": "2024-05-01",
+        "symbol": "VICI",
+        "actualEarningResult": 0.57,
+        "estimatedEarning": 0.66
+    },
+    {
+        "date": "2024-02-22",
+        "symbol": "VICI",
+        "actualEarningResult": 0.72,
+        "estimatedEarning": 0.65
+    },
+    {
+        "date": "2023-10-25",
+        "symbol": "VICI",
+        "actualEarningResult": 0.55,
+        "estimatedEarning": 0.63
+    },
+    {
+        "date": "2023-07-26",
+        "symbol": "VICI",
+        "actualEarningResult": 0.69,
+        "estimatedEarning": 0.62
+    },
+    {
+        "date": "2023-05-01",
+        "symbol": "VICI",
+        "actualEarningResult": 0.52,
+        "estimatedEarning": 0.56
+    },
+    {
+        "date": "2023-02-23",
+        "symbol": "VICI",
+        "actualEarningResult": 0.63,
+        "estimatedEarning": 0.58
+    },
+    {
+        "date": "2022-10-27",
+        "symbol": "VICI",
+        "actualEarningResult": 0.34,
+        "estimatedEarning": 0.57
+    },
+    {
+        "date": "2022-07-27",
+        "symbol": "VICI",
+        "actualEarningResult": 0.48,
+        "estimatedEarning": 0.48
+    },
+    {
+        "date": "2022-05-04",
+        "symbol": "VICI",
+        "actualEarningResult": 0.35,
+        "estimatedEarning": 0.42
+    },
+    {
+        "date": "2022-02-23",
+        "symbol": "VICI",
+        "actualEarningResult": 0.44,
+        "estimatedEarning": 0.45
+    },
+    {
+        "date": "2021-10-27",
+        "symbol": "VICI",
+        "actualEarningResult": 0.28,
+        "estimatedEarning": 0.47
+    },
+    {
+        "date": "2021-07-28",
+        "symbol": "VICI",
+        "actualEarningResult": 0.54,
+        "estimatedEarning": 0.5
+    },
+    {
+        "date": "2021-04-29",
+        "symbol": "VICI",
+        "actualEarningResult": 0.5,
+        "estimatedEarning": 0.49
+    },
+    {
+        "date": "2021-02-18",
+        "symbol": "VICI",
+        "actualEarningResult": 0.53,
+        "estimatedEarning": 0.48
+    },
+    {
+        "date": "2020-10-28",
+        "symbol": "VICI",
+        "actualEarningResult": 0.74,
+        "estimatedEarning": 0.34
+    },
+    {
+        "date": "2020-07-29",
+        "symbol": "VICI",
+        "actualEarningResult": 0.34,
+        "estimatedEarning": 0.36
+    },
+    {
+        "date": "2020-04-30",
+        "symbol": "VICI",
+        "actualEarningResult": -0.05,
+        "estimatedEarning": 0.37
+    },
+    {
+        "date": "2020-02-20",
+        "symbol": "VICI",
+        "actualEarningResult": 0.21,
+        "estimatedEarning": 0.33
+    },
+    {
+        "date": "2019-10-31",
+        "symbol": "VICI",
+        "actualEarningResult": 0.31,
+        "estimatedEarning": 0.33
+    },
+    {
+        "date": "2019-07-31",
+        "symbol": "VICI",
+        "actualEarningResult": 0.37,
+        "estimatedEarning": 0.37
+    },
+    {
+        "date": "2019-05-01",
+        "symbol": "VICI",
+        "actualEarningResult": 0.37,
+        "estimatedEarning": 0.36
+    },
+    {
+        "date": "2019-02-14",
+        "symbol": "VICI",
+        "actualEarningResult": 0.37,
+        "estimatedEarning": 0.37
+    },
+    {
+        "date": "2018-11-01",
+        "symbol": "VICI",
+        "actualEarningResult": 0.35,
+        "estimatedEarning": 0.39
+    },
+    {
+        "date": "2018-08-02",
+        "symbol": "VICI",
+        "actualEarningResult": 0.38,
+        "estimatedEarning": 0.37
+    },
+    {
+        "date": "2018-05-03",
+        "symbol": "VICI",
+        "actualEarningResult": 0.33,
+        "estimatedEarning": 0.34
+    }
+]

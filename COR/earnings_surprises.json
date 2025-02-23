@@ -1,0 +1,338 @@
+[
+    {
+        "date": "2024-11-06",
+        "symbol": "COR",
+        "actualEarningResult": 3.34,
+        "estimatedEarning": 3.23
+    },
+    {
+        "date": "2024-07-31",
+        "symbol": "COR",
+        "actualEarningResult": 3.34,
+        "estimatedEarning": 3.22
+    },
+    {
+        "date": "2024-05-01",
+        "symbol": "COR",
+        "actualEarningResult": 3.8,
+        "estimatedEarning": 3.69
+    },
+    {
+        "date": "2024-01-31",
+        "symbol": "COR",
+        "actualEarningResult": 3.28,
+        "estimatedEarning": 2.89
+    },
+    {
+        "date": "2023-11-02",
+        "symbol": "COR",
+        "actualEarningResult": 2.86,
+        "estimatedEarning": 2.79
+    },
+    {
+        "date": "2023-06-30",
+        "symbol": "COR",
+        "actualEarningResult": 2.35,
+        "estimatedEarning": 2.82
+    },
+    {
+        "date": "2023-03-31",
+        "symbol": "COR",
+        "actualEarningResult": 2.13,
+        "estimatedEarning": 3.3
+    },
+    {
+        "date": "2022-12-31",
+        "symbol": "COR",
+        "actualEarningResult": 2.33,
+        "estimatedEarning": 2.64
+    },
+    {
+        "date": "2022-09-30",
+        "symbol": "COR",
+        "actualEarningResult": 1.4,
+        "estimatedEarning": 2.57
+    },
+    {
+        "date": "2022-06-30",
+        "symbol": "COR",
+        "actualEarningResult": 1.92,
+        "estimatedEarning": 2.56
+    },
+    {
+        "date": "2022-03-31",
+        "symbol": "COR",
+        "actualEarningResult": 2.59,
+        "estimatedEarning": 2.92
+    },
+    {
+        "date": "2022-02-02",
+        "symbol": "COR",
+        "actualEarningResult": 2.58,
+        "estimatedEarning": 2.59
+    },
+    {
+        "date": "2021-11-04",
+        "symbol": "COR",
+        "actualEarningResult": 2.39,
+        "estimatedEarning": 2.36
+    },
+    {
+        "date": "2021-08-04",
+        "symbol": "COR",
+        "actualEarningResult": 2.16,
+        "estimatedEarning": 2.01
+    },
+    {
+        "date": "2021-05-05",
+        "symbol": "COR",
+        "actualEarningResult": 2.53,
+        "estimatedEarning": 2.51
+    },
+    {
+        "date": "2021-02-04",
+        "symbol": "COR",
+        "actualEarningResult": 2.18,
+        "estimatedEarning": 1.94
+    },
+    {
+        "date": "2020-11-05",
+        "symbol": "COR",
+        "actualEarningResult": 1.89,
+        "estimatedEarning": 1.87
+    },
+    {
+        "date": "2020-08-05",
+        "symbol": "COR",
+        "actualEarningResult": 1.85,
+        "estimatedEarning": 1.58
+    },
+    {
+        "date": "2020-05-07",
+        "symbol": "COR",
+        "actualEarningResult": 2.4,
+        "estimatedEarning": 2.28
+    },
+    {
+        "date": "2020-01-30",
+        "symbol": "COR",
+        "actualEarningResult": 1.76,
+        "estimatedEarning": 1.67
+    },
+    {
+        "date": "2019-11-07",
+        "symbol": "COR",
+        "actualEarningResult": 1.61,
+        "estimatedEarning": 1.58
+    },
+    {
+        "date": "2019-08-01",
+        "symbol": "COR",
+        "actualEarningResult": 1.76,
+        "estimatedEarning": 1.63
+    },
+    {
+        "date": "2019-05-02",
+        "symbol": "COR",
+        "actualEarningResult": 2.11,
+        "estimatedEarning": 1.96
+    },
+    {
+        "date": "2019-01-31",
+        "symbol": "COR",
+        "actualEarningResult": 1.6,
+        "estimatedEarning": 1.5
+    },
+    {
+        "date": "2018-11-06",
+        "symbol": "COR",
+        "actualEarningResult": 1.45,
+        "estimatedEarning": 1.44
+    },
+    {
+        "date": "2018-08-02",
+        "symbol": "COR",
+        "actualEarningResult": 1.54,
+        "estimatedEarning": 1.45
+    },
+    {
+        "date": "2018-05-02",
+        "symbol": "COR",
+        "actualEarningResult": 1.94,
+        "estimatedEarning": 1.83
+    },
+    {
+        "date": "2018-02-06",
+        "symbol": "COR",
+        "actualEarningResult": 1.55,
+        "estimatedEarning": 1.35
+    },
+    {
+        "date": "2017-11-02",
+        "symbol": "COR",
+        "actualEarningResult": 1.33,
+        "estimatedEarning": 1.32
+    },
+    {
+        "date": "2017-08-03",
+        "symbol": "COR",
+        "actualEarningResult": 1.43,
+        "estimatedEarning": 1.37
+    },
+    {
+        "date": "2017-05-04",
+        "symbol": "COR",
+        "actualEarningResult": 1.77,
+        "estimatedEarning": 1.71
+    },
+    {
+        "date": "2017-01-31",
+        "symbol": "COR",
+        "actualEarningResult": 1.36,
+        "estimatedEarning": 1.24
+    },
+    {
+        "date": "2016-11-02",
+        "symbol": "COR",
+        "actualEarningResult": 1.3,
+        "estimatedEarning": 1.22
+    },
+    {
+        "date": "2016-08-02",
+        "symbol": "COR",
+        "actualEarningResult": 1.37,
+        "estimatedEarning": 1.26
+    },
+    {
+        "date": "2016-05-05",
+        "symbol": "COR",
+        "actualEarningResult": 1.68,
+        "estimatedEarning": 1.59
+    },
+    {
+        "date": "2016-02-04",
+        "symbol": "COR",
+        "actualEarningResult": 1.27,
+        "estimatedEarning": 1.25
+    },
+    {
+        "date": "2015-10-29",
+        "symbol": "COR",
+        "actualEarningResult": 1.17,
+        "estimatedEarning": 1.18
+    },
+    {
+        "date": "2015-07-23",
+        "symbol": "COR",
+        "actualEarningResult": 1.2,
+        "estimatedEarning": 1.15
+    },
+    {
+        "date": "2015-04-30",
+        "symbol": "COR",
+        "actualEarningResult": 1.45,
+        "estimatedEarning": 1.18
+    },
+    {
+        "date": "2015-01-28",
+        "symbol": "COR",
+        "actualEarningResult": 1.14,
+        "estimatedEarning": 0.96
+    },
+    {
+        "date": "2014-10-30",
+        "symbol": "COR",
+        "actualEarningResult": 1.1,
+        "estimatedEarning": 1.05
+    },
+    {
+        "date": "2014-07-24",
+        "symbol": "COR",
+        "actualEarningResult": 1.01,
+        "estimatedEarning": 0.92
+    },
+    {
+        "date": "2014-04-24",
+        "symbol": "COR",
+        "actualEarningResult": 1.06,
+        "estimatedEarning": 1
+    },
+    {
+        "date": "2014-01-23",
+        "symbol": "COR",
+        "actualEarningResult": 0.8,
+        "estimatedEarning": 0.79
+    },
+    {
+        "date": "2013-10-31",
+        "symbol": "COR",
+        "actualEarningResult": 0.79,
+        "estimatedEarning": 0.74
+    },
+    {
+        "date": "2013-07-24",
+        "symbol": "COR",
+        "actualEarningResult": 0.73,
+        "estimatedEarning": 0.74
+    },
+    {
+        "date": "2013-04-25",
+        "symbol": "COR",
+        "actualEarningResult": 0.87,
+        "estimatedEarning": 0.89
+    },
+    {
+        "date": "2013-01-24",
+        "symbol": "COR",
+        "actualEarningResult": 0.67,
+        "estimatedEarning": 0.67
+    },
+    {
+        "date": "2012-11-01",
+        "symbol": "COR",
+        "actualEarningResult": 0.69,
+        "estimatedEarning": 0.68
+    },
+    {
+        "date": "2012-07-26",
+        "symbol": "COR",
+        "actualEarningResult": 0.04,
+        "estimatedEarning": 0.03
+    },
+    {
+        "date": "2012-04-26",
+        "symbol": "COR",
+        "actualEarningResult": 0.03,
+        "estimatedEarning": 0.006
+    },
+    {
+        "date": "2012-02-23",
+        "symbol": "COR",
+        "actualEarningResult": 0.616,
+        "estimatedEarning": 0.2641
+    },
+    {
+        "date": "2011-11-03",
+        "symbol": "COR",
+        "actualEarningResult": 0.06,
+        "estimatedEarning": -0.11
+    },
+    {
+        "date": "2011-08-04",
+        "symbol": "COR",
+        "actualEarningResult": -0.13,
+        "estimatedEarning": -0.15
+    },
+    {
+        "date": "2011-05-05",
+        "symbol": "COR",
+        "actualEarningResult": -0.14,
+        "estimatedEarning": -0.14
+    },
+    {
+        "date": "2011-03-10",
+        "symbol": "COR",
+        "actualEarningResult": -0.16,
+        "estimatedEarning": -0.12
+    }
+]

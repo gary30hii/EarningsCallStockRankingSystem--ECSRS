@@ -1,0 +1,680 @@
+[
+    {
+        "date": "2024-12-12",
+        "symbol": "COST",
+        "actualEarningResult": 3.82,
+        "estimatedEarning": 3.79
+    },
+    {
+        "date": "2024-09-26",
+        "symbol": "COST",
+        "actualEarningResult": 5.29,
+        "estimatedEarning": 5.08
+    },
+    {
+        "date": "2024-05-30",
+        "symbol": "COST",
+        "actualEarningResult": 3.78,
+        "estimatedEarning": 3.7
+    },
+    {
+        "date": "2024-03-07",
+        "symbol": "COST",
+        "actualEarningResult": 3.92,
+        "estimatedEarning": 3.62
+    },
+    {
+        "date": "2023-12-14",
+        "symbol": "COST",
+        "actualEarningResult": 3.58,
+        "estimatedEarning": 3.42
+    },
+    {
+        "date": "2023-09-26",
+        "symbol": "COST",
+        "actualEarningResult": 4.86,
+        "estimatedEarning": 4.71
+    },
+    {
+        "date": "2023-03-02",
+        "symbol": "COST",
+        "actualEarningResult": 3.3,
+        "estimatedEarning": 3.21
+    },
+    {
+        "date": "2022-12-08",
+        "symbol": "COST",
+        "actualEarningResult": 3.1,
+        "estimatedEarning": 3.11
+    },
+    {
+        "date": "2022-09-22",
+        "symbol": "COST",
+        "actualEarningResult": 4.2,
+        "estimatedEarning": 4.12
+    },
+    {
+        "date": "2022-03-03",
+        "symbol": "COST",
+        "actualEarningResult": 2.92,
+        "estimatedEarning": 2.74
+    },
+    {
+        "date": "2021-12-09",
+        "symbol": "COST",
+        "actualEarningResult": 2.98,
+        "estimatedEarning": 2.64
+    },
+    {
+        "date": "2021-09-23",
+        "symbol": "COST",
+        "actualEarningResult": 3.9,
+        "estimatedEarning": 3.55
+    },
+    {
+        "date": "2021-03-04",
+        "symbol": "COST",
+        "actualEarningResult": 2.14,
+        "estimatedEarning": 2.45
+    },
+    {
+        "date": "2020-12-10",
+        "symbol": "COST",
+        "actualEarningResult": 2.3,
+        "estimatedEarning": 2.05
+    },
+    {
+        "date": "2020-09-24",
+        "symbol": "COST",
+        "actualEarningResult": 3.13,
+        "estimatedEarning": 2.85
+    },
+    {
+        "date": "2020-03-05",
+        "symbol": "COST",
+        "actualEarningResult": 2.1,
+        "estimatedEarning": 2.06
+    },
+    {
+        "date": "2019-12-12",
+        "symbol": "COST",
+        "actualEarningResult": 1.73,
+        "estimatedEarning": 1.72
+    },
+    {
+        "date": "2019-10-03",
+        "symbol": "COST",
+        "actualEarningResult": 2.69,
+        "estimatedEarning": 2.54
+    },
+    {
+        "date": "2019-05-30",
+        "symbol": "COST",
+        "actualEarningResult": 1.89,
+        "estimatedEarning": 1.82
+    },
+    {
+        "date": "2019-03-07",
+        "symbol": "COST",
+        "actualEarningResult": 2.01,
+        "estimatedEarning": 1.69
+    },
+    {
+        "date": "2018-12-13",
+        "symbol": "COST",
+        "actualEarningResult": 1.61,
+        "estimatedEarning": 1.62
+    },
+    {
+        "date": "2018-10-04",
+        "symbol": "COST",
+        "actualEarningResult": 2.36,
+        "estimatedEarning": 2.36
+    },
+    {
+        "date": "2018-05-31",
+        "symbol": "COST",
+        "actualEarningResult": 1.7,
+        "estimatedEarning": 1.69
+    },
+    {
+        "date": "2018-03-07",
+        "symbol": "COST",
+        "actualEarningResult": 1.42,
+        "estimatedEarning": 1.47
+    },
+    {
+        "date": "2017-12-14",
+        "symbol": "COST",
+        "actualEarningResult": 1.36,
+        "estimatedEarning": 1.34
+    },
+    {
+        "date": "2017-10-05",
+        "symbol": "COST",
+        "actualEarningResult": 2.08,
+        "estimatedEarning": 2.02
+    },
+    {
+        "date": "2017-03-02",
+        "symbol": "COST",
+        "actualEarningResult": 1.17,
+        "estimatedEarning": 1.36
+    },
+    {
+        "date": "2016-12-07",
+        "symbol": "COST",
+        "actualEarningResult": 1.17,
+        "estimatedEarning": 1.19
+    },
+    {
+        "date": "2016-09-29",
+        "symbol": "COST",
+        "actualEarningResult": 1.77,
+        "estimatedEarning": 1.73
+    },
+    {
+        "date": "2016-03-02",
+        "symbol": "COST",
+        "actualEarningResult": 1.24,
+        "estimatedEarning": 1.28
+    },
+    {
+        "date": "2015-12-08",
+        "symbol": "COST",
+        "actualEarningResult": 1.09,
+        "estimatedEarning": 1.17
+    },
+    {
+        "date": "2015-09-30",
+        "symbol": "COST",
+        "actualEarningResult": 1.73,
+        "estimatedEarning": 1.66
+    },
+    {
+        "date": "2015-03-05",
+        "symbol": "COST",
+        "actualEarningResult": 1.25,
+        "estimatedEarning": 1.18
+    },
+    {
+        "date": "2014-12-10",
+        "symbol": "COST",
+        "actualEarningResult": 1.12,
+        "estimatedEarning": 1.09
+    },
+    {
+        "date": "2014-10-08",
+        "symbol": "COST",
+        "actualEarningResult": 1.58,
+        "estimatedEarning": 1.52
+    },
+    {
+        "date": "2014-05-29",
+        "symbol": "COST",
+        "actualEarningResult": 1.07,
+        "estimatedEarning": 1.09
+    },
+    {
+        "date": "2014-03-06",
+        "symbol": "COST",
+        "actualEarningResult": 1.05,
+        "estimatedEarning": 1.17
+    },
+    {
+        "date": "2013-12-11",
+        "symbol": "COST",
+        "actualEarningResult": 0.96,
+        "estimatedEarning": 1.02
+    },
+    {
+        "date": "2013-10-09",
+        "symbol": "COST",
+        "actualEarningResult": 1.4,
+        "estimatedEarning": 1.46
+    },
+    {
+        "date": "2013-05-30",
+        "symbol": "COST",
+        "actualEarningResult": 1.04,
+        "estimatedEarning": 1.03
+    },
+    {
+        "date": "2013-03-12",
+        "symbol": "COST",
+        "actualEarningResult": 1.1,
+        "estimatedEarning": 1.06
+    },
+    {
+        "date": "2012-12-12",
+        "symbol": "COST",
+        "actualEarningResult": 0.95,
+        "estimatedEarning": 0.93
+    },
+    {
+        "date": "2012-10-10",
+        "symbol": "COST",
+        "actualEarningResult": 1.39,
+        "estimatedEarning": 1.3
+    },
+    {
+        "date": "2012-02-29",
+        "symbol": "COST",
+        "actualEarningResult": 0.9,
+        "estimatedEarning": 0.87
+    },
+    {
+        "date": "2011-12-08",
+        "symbol": "COST",
+        "actualEarningResult": 0.8,
+        "estimatedEarning": 0.8
+    },
+    {
+        "date": "2011-10-05",
+        "symbol": "COST",
+        "actualEarningResult": 1.08,
+        "estimatedEarning": 1.1
+    },
+    {
+        "date": "2011-03-02",
+        "symbol": "COST",
+        "actualEarningResult": 0.79,
+        "estimatedEarning": 0.79
+    },
+    {
+        "date": "2010-12-08",
+        "symbol": "COST",
+        "actualEarningResult": 0.71,
+        "estimatedEarning": 0.69
+    },
+    {
+        "date": "2010-10-06",
+        "symbol": "COST",
+        "actualEarningResult": 0.97,
+        "estimatedEarning": 0.95
+    },
+    {
+        "date": "2010-03-03",
+        "symbol": "COST",
+        "actualEarningResult": 0.7,
+        "estimatedEarning": 0.72
+    },
+    {
+        "date": "2009-12-10",
+        "symbol": "COST",
+        "actualEarningResult": 0.6,
+        "estimatedEarning": 0.6
+    },
+    {
+        "date": "2009-10-07",
+        "symbol": "COST",
+        "actualEarningResult": 0.85,
+        "estimatedEarning": 0.77
+    },
+    {
+        "date": "2009-03-04",
+        "symbol": "COST",
+        "actualEarningResult": 0.55,
+        "estimatedEarning": 0.59
+    },
+    {
+        "date": "2008-12-11",
+        "symbol": "COST",
+        "actualEarningResult": 0.65,
+        "estimatedEarning": 0.62
+    },
+    {
+        "date": "2008-10-08",
+        "symbol": "COST",
+        "actualEarningResult": 0.92,
+        "estimatedEarning": 0.93
+    },
+    {
+        "date": "2008-05-29",
+        "symbol": "COST",
+        "actualEarningResult": 0.67,
+        "estimatedEarning": 0.65
+    },
+    {
+        "date": "2008-03-05",
+        "symbol": "COST",
+        "actualEarningResult": 0.74,
+        "estimatedEarning": 0.74
+    },
+    {
+        "date": "2007-12-13",
+        "symbol": "COST",
+        "actualEarningResult": 0.59,
+        "estimatedEarning": 0.59
+    },
+    {
+        "date": "2007-10-10",
+        "symbol": "COST",
+        "actualEarningResult": 0.91,
+        "estimatedEarning": 0.83
+    },
+    {
+        "date": "2007-05-31",
+        "symbol": "COST",
+        "actualEarningResult": 0.56,
+        "estimatedEarning": 0.56
+    },
+    {
+        "date": "2007-03-08",
+        "symbol": "COST",
+        "actualEarningResult": 0.66,
+        "estimatedEarning": 0.66
+    },
+    {
+        "date": "2006-12-14",
+        "symbol": "COST",
+        "actualEarningResult": 0.51,
+        "estimatedEarning": 0.5
+    },
+    {
+        "date": "2006-10-12",
+        "symbol": "COST",
+        "actualEarningResult": 0.75,
+        "estimatedEarning": 0.73
+    },
+    {
+        "date": "2006-05-31",
+        "symbol": "COST",
+        "actualEarningResult": 0.49,
+        "estimatedEarning": 0.5
+    },
+    {
+        "date": "2006-03-02",
+        "symbol": "COST",
+        "actualEarningResult": 0.62,
+        "estimatedEarning": 0.6
+    },
+    {
+        "date": "2005-12-08",
+        "symbol": "COST",
+        "actualEarningResult": 0.45,
+        "estimatedEarning": 0.45
+    },
+    {
+        "date": "2005-09-01",
+        "symbol": "COST",
+        "actualEarningResult": 0.66,
+        "estimatedEarning": 0.65
+    },
+    {
+        "date": "2005-03-02",
+        "symbol": "COST",
+        "actualEarningResult": 0.54,
+        "estimatedEarning": 0.55
+    },
+    {
+        "date": "2004-12-09",
+        "symbol": "COST",
+        "actualEarningResult": 0.4,
+        "estimatedEarning": 0.4
+    },
+    {
+        "date": "2004-10-07",
+        "symbol": "COST",
+        "actualEarningResult": 0.62,
+        "estimatedEarning": 0.58
+    },
+    {
+        "date": "2004-06-17",
+        "symbol": "COST",
+        "actualEarningResult": 0.42,
+        "estimatedEarning": 0.38
+    },
+    {
+        "date": "2004-03-03",
+        "symbol": "COST",
+        "actualEarningResult": 0.48,
+        "estimatedEarning": 0.47
+    },
+    {
+        "date": "2003-12-09",
+        "symbol": "COST",
+        "actualEarningResult": 0.34,
+        "estimatedEarning": 0.31
+    },
+    {
+        "date": "2003-10-08",
+        "symbol": "COST",
+        "actualEarningResult": 0.51,
+        "estimatedEarning": 0.47
+    },
+    {
+        "date": "2003-03-05",
+        "symbol": "COST",
+        "actualEarningResult": 0.39,
+        "estimatedEarning": 0.43
+    },
+    {
+        "date": "2002-12-12",
+        "symbol": "COST",
+        "actualEarningResult": 0.31,
+        "estimatedEarning": 0.31
+    },
+    {
+        "date": "2002-10-10",
+        "symbol": "COST",
+        "actualEarningResult": 0.52,
+        "estimatedEarning": 0.49
+    },
+    {
+        "date": "2002-05-30",
+        "symbol": "COST",
+        "actualEarningResult": 0.28,
+        "estimatedEarning": 0.27
+    },
+    {
+        "date": "2002-03-05",
+        "symbol": "COST",
+        "actualEarningResult": 0.41,
+        "estimatedEarning": 0.41
+    },
+    {
+        "date": "2001-12-13",
+        "symbol": "COST",
+        "actualEarningResult": 0.28,
+        "estimatedEarning": 0.28
+    },
+    {
+        "date": "2001-10-11",
+        "symbol": "COST",
+        "actualEarningResult": 0.41,
+        "estimatedEarning": 0.4
+    },
+    {
+        "date": "2001-05-31",
+        "symbol": "COST",
+        "actualEarningResult": 0.23,
+        "estimatedEarning": 0.23
+    },
+    {
+        "date": "2001-03-08",
+        "symbol": "COST",
+        "actualEarningResult": 0.38,
+        "estimatedEarning": 0.38
+    },
+    {
+        "date": "2000-12-14",
+        "symbol": "COST",
+        "actualEarningResult": 0.28,
+        "estimatedEarning": 0.28
+    },
+    {
+        "date": "2000-10-12",
+        "symbol": "COST",
+        "actualEarningResult": 0.43,
+        "estimatedEarning": 0.43
+    },
+    {
+        "date": "2000-03-02",
+        "symbol": "COST",
+        "actualEarningResult": 0.41,
+        "estimatedEarning": 0.38
+    },
+    {
+        "date": "1999-12-09",
+        "symbol": "COST",
+        "actualEarningResult": 0.28,
+        "estimatedEarning": 0.27
+    },
+    {
+        "date": "1999-10-06",
+        "symbol": "COST",
+        "actualEarningResult": 0.4,
+        "estimatedEarning": 0.38
+    },
+    {
+        "date": "1999-03-04",
+        "symbol": "COST",
+        "actualEarningResult": 0.35,
+        "estimatedEarning": 0.32
+    },
+    {
+        "date": "1998-12-17",
+        "symbol": "COST",
+        "actualEarningResult": 0.23,
+        "estimatedEarning": 0.23
+    },
+    {
+        "date": "1998-10-08",
+        "symbol": "COST",
+        "actualEarningResult": 0.33,
+        "estimatedEarning": 0.32
+    },
+    {
+        "date": "1998-03-12",
+        "symbol": "COST",
+        "actualEarningResult": 0.28,
+        "estimatedEarning": 0.27
+    },
+    {
+        "date": "1997-12-18",
+        "symbol": "COST",
+        "actualEarningResult": 0.22,
+        "estimatedEarning": 0.21
+    },
+    {
+        "date": "1997-10-14",
+        "symbol": "COST",
+        "actualEarningResult": 0.27,
+        "estimatedEarning": 0.26
+    },
+    {
+        "date": "1997-07-15",
+        "symbol": "COST",
+        "actualEarningResult": 0.16,
+        "estimatedEarning": 0.14
+    },
+    {
+        "date": "1997-03-13",
+        "symbol": "COST",
+        "actualEarningResult": 0.23,
+        "estimatedEarning": 0.21
+    },
+    {
+        "date": "1996-12-17",
+        "symbol": "COST",
+        "actualEarningResult": 0.17,
+        "estimatedEarning": 0.15
+    },
+    {
+        "date": "1996-10-10",
+        "symbol": "COST",
+        "actualEarningResult": 0.21,
+        "estimatedEarning": 0.21
+    },
+    {
+        "date": "1996-06-05",
+        "symbol": "COST",
+        "actualEarningResult": 0.12,
+        "estimatedEarning": 0.1
+    },
+    {
+        "date": "1996-03-21",
+        "symbol": "COST",
+        "actualEarningResult": 0.18,
+        "estimatedEarning": 0.17
+    },
+    {
+        "date": "1995-12-19",
+        "symbol": "COST",
+        "actualEarningResult": 0.13,
+        "estimatedEarning": 0.13
+    },
+    {
+        "date": "1995-10-26",
+        "symbol": "COST",
+        "actualEarningResult": 0.18,
+        "estimatedEarning": 0.18
+    },
+    {
+        "date": "1995-06-15",
+        "symbol": "COST",
+        "actualEarningResult": 0.09,
+        "estimatedEarning": 0.09
+    },
+    {
+        "date": "1995-03-23",
+        "symbol": "COST",
+        "actualEarningResult": 0.16,
+        "estimatedEarning": 0.16
+    },
+    {
+        "date": "1994-12-13",
+        "symbol": "COST",
+        "actualEarningResult": 0.11,
+        "estimatedEarning": 0.12
+    },
+    {
+        "date": "1994-10-27",
+        "symbol": "COST",
+        "actualEarningResult": 0.14,
+        "estimatedEarning": 0.15
+    },
+    {
+        "date": "1994-06-07",
+        "symbol": "COST",
+        "actualEarningResult": 0.08,
+        "estimatedEarning": 0.08
+    },
+    {
+        "date": "1994-03-22",
+        "symbol": "COST",
+        "actualEarningResult": 0.14,
+        "estimatedEarning": 0.15
+    },
+    {
+        "date": "1993-12-17",
+        "symbol": "COST",
+        "actualEarningResult": 0.1,
+        "estimatedEarning": 0.1
+    },
+    {
+        "date": "1993-10-27",
+        "symbol": "COST",
+        "actualEarningResult": 0.17,
+        "estimatedEarning": 0.15
+    },
+    {
+        "date": "1993-06-16",
+        "symbol": "COST",
+        "actualEarningResult": 0.08,
+        "estimatedEarning": 0.09
+    },
+    {
+        "date": "1993-03-26",
+        "symbol": "COST",
+        "actualEarningResult": 0.14,
+        "estimatedEarning": 0.14
+    },
+    {
+        "date": "1993-01-06",
+        "symbol": "COST",
+        "actualEarningResult": 0.1,
+        "estimatedEarning": 0.1
+    }
+]

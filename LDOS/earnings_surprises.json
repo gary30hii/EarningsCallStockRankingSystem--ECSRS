@@ -1,0 +1,380 @@
+[
+    {
+        "date": "2024-10-29",
+        "symbol": "LDOS",
+        "actualEarningResult": 2.93,
+        "estimatedEarning": 2.02
+    },
+    {
+        "date": "2024-07-30",
+        "symbol": "LDOS",
+        "actualEarningResult": 2.63,
+        "estimatedEarning": 2.27
+    },
+    {
+        "date": "2024-04-30",
+        "symbol": "LDOS",
+        "actualEarningResult": 2.29,
+        "estimatedEarning": 1.7
+    },
+    {
+        "date": "2024-02-13",
+        "symbol": "LDOS",
+        "actualEarningResult": 1.99,
+        "estimatedEarning": 1.74
+    },
+    {
+        "date": "2023-10-31",
+        "symbol": "LDOS",
+        "actualEarningResult": 2.03,
+        "estimatedEarning": 1.64
+    },
+    {
+        "date": "2023-08-01",
+        "symbol": "LDOS",
+        "actualEarningResult": 1.8,
+        "estimatedEarning": 1.57
+    },
+    {
+        "date": "2023-05-02",
+        "symbol": "LDOS",
+        "actualEarningResult": 1.47,
+        "estimatedEarning": 1.59
+    },
+    {
+        "date": "2023-02-14",
+        "symbol": "LDOS",
+        "actualEarningResult": 1.83,
+        "estimatedEarning": 1.61
+    },
+    {
+        "date": "2022-11-01",
+        "symbol": "LDOS",
+        "actualEarningResult": 1.59,
+        "estimatedEarning": 1.56
+    },
+    {
+        "date": "2022-08-02",
+        "symbol": "LDOS",
+        "actualEarningResult": 1.59,
+        "estimatedEarning": 1.56
+    },
+    {
+        "date": "2022-05-03",
+        "symbol": "LDOS",
+        "actualEarningResult": 1.58,
+        "estimatedEarning": 1.5
+    },
+    {
+        "date": "2022-02-15",
+        "symbol": "LDOS",
+        "actualEarningResult": 1.56,
+        "estimatedEarning": 1.6
+    },
+    {
+        "date": "2021-11-02",
+        "symbol": "LDOS",
+        "actualEarningResult": 1.8,
+        "estimatedEarning": 1.62
+    },
+    {
+        "date": "2021-08-03",
+        "symbol": "LDOS",
+        "actualEarningResult": 1.52,
+        "estimatedEarning": 1.58
+    },
+    {
+        "date": "2021-05-04",
+        "symbol": "LDOS",
+        "actualEarningResult": 1.73,
+        "estimatedEarning": 1.48
+    },
+    {
+        "date": "2021-02-23",
+        "symbol": "LDOS",
+        "actualEarningResult": 1.63,
+        "estimatedEarning": 1.61
+    },
+    {
+        "date": "2020-11-02",
+        "symbol": "LDOS",
+        "actualEarningResult": 1.47,
+        "estimatedEarning": 1.24
+    },
+    {
+        "date": "2020-08-04",
+        "symbol": "LDOS",
+        "actualEarningResult": 1.55,
+        "estimatedEarning": 1.07
+    },
+    {
+        "date": "2020-05-05",
+        "symbol": "LDOS",
+        "actualEarningResult": 1.19,
+        "estimatedEarning": 1.24
+    },
+    {
+        "date": "2020-02-18",
+        "symbol": "LDOS",
+        "actualEarningResult": 1.51,
+        "estimatedEarning": 1.35
+    },
+    {
+        "date": "2019-10-29",
+        "symbol": "LDOS",
+        "actualEarningResult": 1.36,
+        "estimatedEarning": 1.19
+    },
+    {
+        "date": "2019-07-30",
+        "symbol": "LDOS",
+        "actualEarningResult": 1.16,
+        "estimatedEarning": 1.11
+    },
+    {
+        "date": "2019-04-30",
+        "symbol": "LDOS",
+        "actualEarningResult": 1.13,
+        "estimatedEarning": 1
+    },
+    {
+        "date": "2019-02-19",
+        "symbol": "LDOS",
+        "actualEarningResult": 1.1,
+        "estimatedEarning": 1.07
+    },
+    {
+        "date": "2018-10-25",
+        "symbol": "LDOS",
+        "actualEarningResult": 1.14,
+        "estimatedEarning": 1.11
+    },
+    {
+        "date": "2018-07-26",
+        "symbol": "LDOS",
+        "actualEarningResult": 1.12,
+        "estimatedEarning": 1.06
+    },
+    {
+        "date": "2018-05-03",
+        "symbol": "LDOS",
+        "actualEarningResult": 1.03,
+        "estimatedEarning": 1.03
+    },
+    {
+        "date": "2018-02-22",
+        "symbol": "LDOS",
+        "actualEarningResult": 0.87,
+        "estimatedEarning": 0.84
+    },
+    {
+        "date": "2017-11-02",
+        "symbol": "LDOS",
+        "actualEarningResult": 0.95,
+        "estimatedEarning": 0.8
+    },
+    {
+        "date": "2017-08-03",
+        "symbol": "LDOS",
+        "actualEarningResult": 1.04,
+        "estimatedEarning": 0.77
+    },
+    {
+        "date": "2017-05-04",
+        "symbol": "LDOS",
+        "actualEarningResult": 0.88,
+        "estimatedEarning": 0.78
+    },
+    {
+        "date": "2017-02-23",
+        "symbol": "LDOS",
+        "actualEarningResult": 0.75,
+        "estimatedEarning": 0.81
+    },
+    {
+        "date": "2016-11-03",
+        "symbol": "LDOS",
+        "actualEarningResult": 1.25,
+        "estimatedEarning": 0.95
+    },
+    {
+        "date": "2016-07-28",
+        "symbol": "LDOS",
+        "actualEarningResult": 0.68,
+        "estimatedEarning": 0.73
+    },
+    {
+        "date": "2016-04-27",
+        "symbol": "LDOS",
+        "actualEarningResult": 0.72,
+        "estimatedEarning": 0.68
+    },
+    {
+        "date": "2016-02-18",
+        "symbol": "LDOS",
+        "actualEarningResult": 0.78,
+        "estimatedEarning": 0.66
+    },
+    {
+        "date": "2015-10-29",
+        "symbol": "LDOS",
+        "actualEarningResult": 0.71,
+        "estimatedEarning": 0.66
+    },
+    {
+        "date": "2015-08-05",
+        "symbol": "LDOS",
+        "actualEarningResult": 0.73,
+        "estimatedEarning": 0.56
+    },
+    {
+        "date": "2015-05-12",
+        "symbol": "LDOS",
+        "actualEarningResult": 0.65,
+        "estimatedEarning": 0.59
+    },
+    {
+        "date": "2014-12-03",
+        "symbol": "LDOS",
+        "actualEarningResult": 0.65,
+        "estimatedEarning": 0.52
+    },
+    {
+        "date": "2014-06-04",
+        "symbol": "LDOS",
+        "actualEarningResult": 0.59,
+        "estimatedEarning": 0.54
+    },
+    {
+        "date": "2013-12-10",
+        "symbol": "LDOS",
+        "actualEarningResult": 0.23,
+        "estimatedEarning": 0.14
+    },
+    {
+        "date": "2013-09-04",
+        "symbol": "LDOS",
+        "actualEarningResult": 0.52,
+        "estimatedEarning": 0.87
+    },
+    {
+        "date": "2013-03-26",
+        "symbol": "LDOS",
+        "actualEarningResult": 2.16,
+        "estimatedEarning": 2.06
+    },
+    {
+        "date": "2012-12-05",
+        "symbol": "LDOS",
+        "actualEarningResult": 1.32,
+        "estimatedEarning": 1.37
+    },
+    {
+        "date": "2012-08-30",
+        "symbol": "LDOS",
+        "actualEarningResult": 1.36,
+        "estimatedEarning": 1.31
+    },
+    {
+        "date": "2012-05-31",
+        "symbol": "LDOS",
+        "actualEarningResult": 1.4,
+        "estimatedEarning": 1.31
+    },
+    {
+        "date": "2011-12-06",
+        "symbol": "LDOS",
+        "actualEarningResult": 1.4,
+        "estimatedEarning": 1.36
+    },
+    {
+        "date": "2011-08-31",
+        "symbol": "LDOS",
+        "actualEarningResult": 1.28,
+        "estimatedEarning": 1.4
+    },
+    {
+        "date": "2011-06-02",
+        "symbol": "LDOS",
+        "actualEarningResult": 1.44,
+        "estimatedEarning": 1.31
+    },
+    {
+        "date": "2010-12-08",
+        "symbol": "LDOS",
+        "actualEarningResult": 1.64,
+        "estimatedEarning": 1.39
+    },
+    {
+        "date": "2010-09-01",
+        "symbol": "LDOS",
+        "actualEarningResult": 1.68,
+        "estimatedEarning": 1.33
+    },
+    {
+        "date": "2010-06-03",
+        "symbol": "LDOS",
+        "actualEarningResult": 1.28,
+        "estimatedEarning": 1.24
+    },
+    {
+        "date": "2009-12-08",
+        "symbol": "LDOS",
+        "actualEarningResult": 1.36,
+        "estimatedEarning": 1.32
+    },
+    {
+        "date": "2009-09-02",
+        "symbol": "LDOS",
+        "actualEarningResult": 1.24,
+        "estimatedEarning": 1.22
+    },
+    {
+        "date": "2009-06-03",
+        "symbol": "LDOS",
+        "actualEarningResult": 1.16,
+        "estimatedEarning": 1.06
+    },
+    {
+        "date": "2008-12-09",
+        "symbol": "LDOS",
+        "actualEarningResult": 1.16,
+        "estimatedEarning": 1.18
+    },
+    {
+        "date": "2008-09-03",
+        "symbol": "LDOS",
+        "actualEarningResult": 1.04,
+        "estimatedEarning": 1.04
+    },
+    {
+        "date": "2008-06-03",
+        "symbol": "LDOS",
+        "actualEarningResult": 1,
+        "estimatedEarning": 0.9
+    },
+    {
+        "date": "2007-12-10",
+        "symbol": "LDOS",
+        "actualEarningResult": 1.04,
+        "estimatedEarning": 0.92
+    },
+    {
+        "date": "2007-09-06",
+        "symbol": "LDOS",
+        "actualEarningResult": 0.96,
+        "estimatedEarning": 0.82
+    },
+    {
+        "date": "2007-06-06",
+        "symbol": "LDOS",
+        "actualEarningResult": 0.72,
+        "estimatedEarning": 0.79
+    },
+    {
+        "date": "2006-12-12",
+        "symbol": "LDOS",
+        "actualEarningResult": 1.04,
+        "estimatedEarning": 0.93
+    }
+]

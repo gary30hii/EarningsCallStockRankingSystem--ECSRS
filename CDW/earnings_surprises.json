@@ -1,0 +1,272 @@
+[
+    {
+        "date": "2024-10-30",
+        "symbol": "CDW",
+        "actualEarningResult": 2.63,
+        "estimatedEarning": 2.86
+    },
+    {
+        "date": "2024-07-31",
+        "symbol": "CDW",
+        "actualEarningResult": 2.5,
+        "estimatedEarning": 2.53
+    },
+    {
+        "date": "2024-05-01",
+        "symbol": "CDW",
+        "actualEarningResult": 1.92,
+        "estimatedEarning": 2.15
+    },
+    {
+        "date": "2024-02-07",
+        "symbol": "CDW",
+        "actualEarningResult": 2.57,
+        "estimatedEarning": 2.56
+    },
+    {
+        "date": "2023-11-01",
+        "symbol": "CDW",
+        "actualEarningResult": 2.72,
+        "estimatedEarning": 2.6
+    },
+    {
+        "date": "2023-08-02",
+        "symbol": "CDW",
+        "actualEarningResult": 2.56,
+        "estimatedEarning": 2.34
+    },
+    {
+        "date": "2023-05-03",
+        "symbol": "CDW",
+        "actualEarningResult": 2.03,
+        "estimatedEarning": 2.01
+    },
+    {
+        "date": "2023-02-08",
+        "symbol": "CDW",
+        "actualEarningResult": 2.5,
+        "estimatedEarning": 2.48
+    },
+    {
+        "date": "2022-11-02",
+        "symbol": "CDW",
+        "actualEarningResult": 2.6,
+        "estimatedEarning": 2.52
+    },
+    {
+        "date": "2022-08-03",
+        "symbol": "CDW",
+        "actualEarningResult": 2.49,
+        "estimatedEarning": 2.42
+    },
+    {
+        "date": "2022-05-04",
+        "symbol": "CDW",
+        "actualEarningResult": 2.2,
+        "estimatedEarning": 2.01
+    },
+    {
+        "date": "2022-02-09",
+        "symbol": "CDW",
+        "actualEarningResult": 2.08,
+        "estimatedEarning": 1.93
+    },
+    {
+        "date": "2021-11-03",
+        "symbol": "CDW",
+        "actualEarningResult": 2.13,
+        "estimatedEarning": 2.05
+    },
+    {
+        "date": "2021-08-04",
+        "symbol": "CDW",
+        "actualEarningResult": 2.02,
+        "estimatedEarning": 1.8
+    },
+    {
+        "date": "2021-05-05",
+        "symbol": "CDW",
+        "actualEarningResult": 1.74,
+        "estimatedEarning": 1.53
+    },
+    {
+        "date": "2021-02-10",
+        "symbol": "CDW",
+        "actualEarningResult": 1.82,
+        "estimatedEarning": 1.51
+    },
+    {
+        "date": "2020-11-02",
+        "symbol": "CDW",
+        "actualEarningResult": 1.83,
+        "estimatedEarning": 1.5
+    },
+    {
+        "date": "2020-08-05",
+        "symbol": "CDW",
+        "actualEarningResult": 1.56,
+        "estimatedEarning": 1.38
+    },
+    {
+        "date": "2020-05-06",
+        "symbol": "CDW",
+        "actualEarningResult": 1.38,
+        "estimatedEarning": 1.34
+    },
+    {
+        "date": "2020-02-06",
+        "symbol": "CDW",
+        "actualEarningResult": 1.57,
+        "estimatedEarning": 1.48
+    },
+    {
+        "date": "2019-10-31",
+        "symbol": "CDW",
+        "actualEarningResult": 1.7,
+        "estimatedEarning": 1.58
+    },
+    {
+        "date": "2019-07-31",
+        "symbol": "CDW",
+        "actualEarningResult": 1.6,
+        "estimatedEarning": 1.52
+    },
+    {
+        "date": "2019-05-01",
+        "symbol": "CDW",
+        "actualEarningResult": 1.24,
+        "estimatedEarning": 1.11
+    },
+    {
+        "date": "2019-02-07",
+        "symbol": "CDW",
+        "actualEarningResult": 1.32,
+        "estimatedEarning": 1.21
+    },
+    {
+        "date": "2018-10-31",
+        "symbol": "CDW",
+        "actualEarningResult": 1.42,
+        "estimatedEarning": 1.34
+    },
+    {
+        "date": "2018-08-02",
+        "symbol": "CDW",
+        "actualEarningResult": 1.38,
+        "estimatedEarning": 1.28
+    },
+    {
+        "date": "2018-05-02",
+        "symbol": "CDW",
+        "actualEarningResult": 1.05,
+        "estimatedEarning": 0.92
+    },
+    {
+        "date": "2018-02-07",
+        "symbol": "CDW",
+        "actualEarningResult": 0.99,
+        "estimatedEarning": 0.99
+    },
+    {
+        "date": "2017-11-01",
+        "symbol": "CDW",
+        "actualEarningResult": 1.08,
+        "estimatedEarning": 1.07
+    },
+    {
+        "date": "2017-08-03",
+        "symbol": "CDW",
+        "actualEarningResult": 1.03,
+        "estimatedEarning": 1.03
+    },
+    {
+        "date": "2017-05-03",
+        "symbol": "CDW",
+        "actualEarningResult": 0.75,
+        "estimatedEarning": 0.75
+    },
+    {
+        "date": "2017-02-07",
+        "symbol": "CDW",
+        "actualEarningResult": 0.86,
+        "estimatedEarning": 0.79
+    },
+    {
+        "date": "2016-11-02",
+        "symbol": "CDW",
+        "actualEarningResult": 0.97,
+        "estimatedEarning": 0.9
+    },
+    {
+        "date": "2016-08-03",
+        "symbol": "CDW",
+        "actualEarningResult": 0.93,
+        "estimatedEarning": 0.83
+    },
+    {
+        "date": "2016-05-04",
+        "symbol": "CDW",
+        "actualEarningResult": 0.67,
+        "estimatedEarning": 0.65
+    },
+    {
+        "date": "2016-02-09",
+        "symbol": "CDW",
+        "actualEarningResult": 0.73,
+        "estimatedEarning": 0.73
+    },
+    {
+        "date": "2015-11-04",
+        "symbol": "CDW",
+        "actualEarningResult": 0.84,
+        "estimatedEarning": 0.8
+    },
+    {
+        "date": "2015-08-03",
+        "symbol": "CDW",
+        "actualEarningResult": 0.81,
+        "estimatedEarning": 0.7
+    },
+    {
+        "date": "2015-05-07",
+        "symbol": "CDW",
+        "actualEarningResult": 0.56,
+        "estimatedEarning": 0.52
+    },
+    {
+        "date": "2015-02-10",
+        "symbol": "CDW",
+        "actualEarningResult": 0.59,
+        "estimatedEarning": 0.54
+    },
+    {
+        "date": "2014-11-06",
+        "symbol": "CDW",
+        "actualEarningResult": 0.64,
+        "estimatedEarning": 0.62
+    },
+    {
+        "date": "2014-07-31",
+        "symbol": "CDW",
+        "actualEarningResult": 0.67,
+        "estimatedEarning": 0.58
+    },
+    {
+        "date": "2014-05-08",
+        "symbol": "CDW",
+        "actualEarningResult": 0.47,
+        "estimatedEarning": 0.42
+    },
+    {
+        "date": "2014-02-13",
+        "symbol": "CDW",
+        "actualEarningResult": 0.54,
+        "estimatedEarning": 0.46
+    },
+    {
+        "date": "2013-11-01",
+        "symbol": "CDW",
+        "actualEarningResult": 0.5,
+        "estimatedEarning": 0.47
+    }
+]

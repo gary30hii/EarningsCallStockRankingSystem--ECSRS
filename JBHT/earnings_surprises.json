@@ -1,0 +1,764 @@
+[
+    {
+        "date": "2024-10-15",
+        "symbol": "JBHT",
+        "actualEarningResult": 1.49,
+        "estimatedEarning": 1.41
+    },
+    {
+        "date": "2024-07-16",
+        "symbol": "JBHT",
+        "actualEarningResult": 1.32,
+        "estimatedEarning": 1.52
+    },
+    {
+        "date": "2024-04-16",
+        "symbol": "JBHT",
+        "actualEarningResult": 1.22,
+        "estimatedEarning": 1.52
+    },
+    {
+        "date": "2024-01-18",
+        "symbol": "JBHT",
+        "actualEarningResult": 1.47,
+        "estimatedEarning": 1.75
+    },
+    {
+        "date": "2023-10-17",
+        "symbol": "JBHT",
+        "actualEarningResult": 1.8,
+        "estimatedEarning": 1.83
+    },
+    {
+        "date": "2023-07-18",
+        "symbol": "JBHT",
+        "actualEarningResult": 1.81,
+        "estimatedEarning": 1.92
+    },
+    {
+        "date": "2023-04-17",
+        "symbol": "JBHT",
+        "actualEarningResult": 1.89,
+        "estimatedEarning": 2
+    },
+    {
+        "date": "2023-01-18",
+        "symbol": "JBHT",
+        "actualEarningResult": 1.92,
+        "estimatedEarning": 2.46
+    },
+    {
+        "date": "2022-10-18",
+        "symbol": "JBHT",
+        "actualEarningResult": 2.57,
+        "estimatedEarning": 2.45
+    },
+    {
+        "date": "2022-07-19",
+        "symbol": "JBHT",
+        "actualEarningResult": 2.42,
+        "estimatedEarning": 2.35
+    },
+    {
+        "date": "2022-04-18",
+        "symbol": "JBHT",
+        "actualEarningResult": 2.29,
+        "estimatedEarning": 1.94
+    },
+    {
+        "date": "2022-01-18",
+        "symbol": "JBHT",
+        "actualEarningResult": 2.28,
+        "estimatedEarning": 2.02
+    },
+    {
+        "date": "2021-10-15",
+        "symbol": "JBHT",
+        "actualEarningResult": 1.88,
+        "estimatedEarning": 1.77
+    },
+    {
+        "date": "2021-07-19",
+        "symbol": "JBHT",
+        "actualEarningResult": 1.61,
+        "estimatedEarning": 1.57
+    },
+    {
+        "date": "2021-04-15",
+        "symbol": "JBHT",
+        "actualEarningResult": 1.37,
+        "estimatedEarning": 1.17
+    },
+    {
+        "date": "2021-01-19",
+        "symbol": "JBHT",
+        "actualEarningResult": 1.44,
+        "estimatedEarning": 1.29
+    },
+    {
+        "date": "2020-10-16",
+        "symbol": "JBHT",
+        "actualEarningResult": 1.18,
+        "estimatedEarning": 1.28
+    },
+    {
+        "date": "2020-07-16",
+        "symbol": "JBHT",
+        "actualEarningResult": 1.14,
+        "estimatedEarning": 0.83
+    },
+    {
+        "date": "2020-04-14",
+        "symbol": "JBHT",
+        "actualEarningResult": 0.98,
+        "estimatedEarning": 0.98
+    },
+    {
+        "date": "2020-01-17",
+        "symbol": "JBHT",
+        "actualEarningResult": 1.35,
+        "estimatedEarning": 1.5
+    },
+    {
+        "date": "2019-10-15",
+        "symbol": "JBHT",
+        "actualEarningResult": 1.4,
+        "estimatedEarning": 1.45
+    },
+    {
+        "date": "2019-07-15",
+        "symbol": "JBHT",
+        "actualEarningResult": 1.37,
+        "estimatedEarning": 1.35
+    },
+    {
+        "date": "2019-04-15",
+        "symbol": "JBHT",
+        "actualEarningResult": 1.09,
+        "estimatedEarning": 1.26
+    },
+    {
+        "date": "2019-01-17",
+        "symbol": "JBHT",
+        "actualEarningResult": 1.77,
+        "estimatedEarning": 1.48
+    },
+    {
+        "date": "2018-10-15",
+        "symbol": "JBHT",
+        "actualEarningResult": 1.47,
+        "estimatedEarning": 1.38
+    },
+    {
+        "date": "2018-07-16",
+        "symbol": "JBHT",
+        "actualEarningResult": 1.37,
+        "estimatedEarning": 1.28
+    },
+    {
+        "date": "2018-04-16",
+        "symbol": "JBHT",
+        "actualEarningResult": 1.07,
+        "estimatedEarning": 1.07
+    },
+    {
+        "date": "2018-01-18",
+        "symbol": "JBHT",
+        "actualEarningResult": 1.04,
+        "estimatedEarning": 1.03
+    },
+    {
+        "date": "2017-10-13",
+        "symbol": "JBHT",
+        "actualEarningResult": 0.91,
+        "estimatedEarning": 0.96
+    },
+    {
+        "date": "2017-07-17",
+        "symbol": "JBHT",
+        "actualEarningResult": 0.88,
+        "estimatedEarning": 0.91
+    },
+    {
+        "date": "2017-04-17",
+        "symbol": "JBHT",
+        "actualEarningResult": 0.8,
+        "estimatedEarning": 0.84
+    },
+    {
+        "date": "2017-01-19",
+        "symbol": "JBHT",
+        "actualEarningResult": 0.97,
+        "estimatedEarning": 1.01
+    },
+    {
+        "date": "2016-10-17",
+        "symbol": "JBHT",
+        "actualEarningResult": 0.97,
+        "estimatedEarning": 1.02
+    },
+    {
+        "date": "2016-07-18",
+        "symbol": "JBHT",
+        "actualEarningResult": 0.92,
+        "estimatedEarning": 0.97
+    },
+    {
+        "date": "2016-04-18",
+        "symbol": "JBHT",
+        "actualEarningResult": 0.88,
+        "estimatedEarning": 0.85
+    },
+    {
+        "date": "2016-01-21",
+        "symbol": "JBHT",
+        "actualEarningResult": 1.01,
+        "estimatedEarning": 0.99
+    },
+    {
+        "date": "2015-10-14",
+        "symbol": "JBHT",
+        "actualEarningResult": 0.99,
+        "estimatedEarning": 0.97
+    },
+    {
+        "date": "2015-07-17",
+        "symbol": "JBHT",
+        "actualEarningResult": 0.95,
+        "estimatedEarning": 0.9
+    },
+    {
+        "date": "2015-04-14",
+        "symbol": "JBHT",
+        "actualEarningResult": 0.78,
+        "estimatedEarning": 0.72
+    },
+    {
+        "date": "2015-01-22",
+        "symbol": "JBHT",
+        "actualEarningResult": 0.93,
+        "estimatedEarning": 0.89
+    },
+    {
+        "date": "2014-10-14",
+        "symbol": "JBHT",
+        "actualEarningResult": 0.87,
+        "estimatedEarning": 0.84
+    },
+    {
+        "date": "2014-07-15",
+        "symbol": "JBHT",
+        "actualEarningResult": 0.79,
+        "estimatedEarning": 0.79
+    },
+    {
+        "date": "2014-04-14",
+        "symbol": "JBHT",
+        "actualEarningResult": 0.58,
+        "estimatedEarning": 0.62
+    },
+    {
+        "date": "2014-01-23",
+        "symbol": "JBHT",
+        "actualEarningResult": 0.77,
+        "estimatedEarning": 0.79
+    },
+    {
+        "date": "2013-10-15",
+        "symbol": "JBHT",
+        "actualEarningResult": 0.75,
+        "estimatedEarning": 0.78
+    },
+    {
+        "date": "2013-07-15",
+        "symbol": "JBHT",
+        "actualEarningResult": 0.73,
+        "estimatedEarning": 0.74
+    },
+    {
+        "date": "2013-04-11",
+        "symbol": "JBHT",
+        "actualEarningResult": 0.61,
+        "estimatedEarning": 0.64
+    },
+    {
+        "date": "2013-01-24",
+        "symbol": "JBHT",
+        "actualEarningResult": 0.7,
+        "estimatedEarning": 0.69
+    },
+    {
+        "date": "2012-10-11",
+        "symbol": "JBHT",
+        "actualEarningResult": 0.65,
+        "estimatedEarning": 0.66
+    },
+    {
+        "date": "2012-07-16",
+        "symbol": "JBHT",
+        "actualEarningResult": 0.67,
+        "estimatedEarning": 0.67
+    },
+    {
+        "date": "2012-04-12",
+        "symbol": "JBHT",
+        "actualEarningResult": 0.57,
+        "estimatedEarning": 0.52
+    },
+    {
+        "date": "2012-01-26",
+        "symbol": "JBHT",
+        "actualEarningResult": 0.61,
+        "estimatedEarning": 0.58
+    },
+    {
+        "date": "2011-10-13",
+        "symbol": "JBHT",
+        "actualEarningResult": 0.57,
+        "estimatedEarning": 0.56
+    },
+    {
+        "date": "2011-07-14",
+        "symbol": "JBHT",
+        "actualEarningResult": 0.53,
+        "estimatedEarning": 0.53
+    },
+    {
+        "date": "2011-04-13",
+        "symbol": "JBHT",
+        "actualEarningResult": 0.4,
+        "estimatedEarning": 0.38
+    },
+    {
+        "date": "2011-01-28",
+        "symbol": "JBHT",
+        "actualEarningResult": 0.46,
+        "estimatedEarning": 0.45
+    },
+    {
+        "date": "2010-10-14",
+        "symbol": "JBHT",
+        "actualEarningResult": 0.43,
+        "estimatedEarning": 0.44
+    },
+    {
+        "date": "2010-07-15",
+        "symbol": "JBHT",
+        "actualEarningResult": 0.4,
+        "estimatedEarning": 0.36
+    },
+    {
+        "date": "2010-04-14",
+        "symbol": "JBHT",
+        "actualEarningResult": 0.29,
+        "estimatedEarning": 0.27
+    },
+    {
+        "date": "2010-01-27",
+        "symbol": "JBHT",
+        "actualEarningResult": 0.32,
+        "estimatedEarning": 0.32
+    },
+    {
+        "date": "2009-10-19",
+        "symbol": "JBHT",
+        "actualEarningResult": 0.31,
+        "estimatedEarning": 0.28
+    },
+    {
+        "date": "2009-07-14",
+        "symbol": "JBHT",
+        "actualEarningResult": 0.23,
+        "estimatedEarning": 0.31
+    },
+    {
+        "date": "2009-04-13",
+        "symbol": "JBHT",
+        "actualEarningResult": 0.24,
+        "estimatedEarning": 0.22
+    },
+    {
+        "date": "2009-01-29",
+        "symbol": "JBHT",
+        "actualEarningResult": 0.43,
+        "estimatedEarning": 0.4
+    },
+    {
+        "date": "2008-10-14",
+        "symbol": "JBHT",
+        "actualEarningResult": 0.47,
+        "estimatedEarning": 0.42
+    },
+    {
+        "date": "2008-07-14",
+        "symbol": "JBHT",
+        "actualEarningResult": 0.39,
+        "estimatedEarning": 0.36
+    },
+    {
+        "date": "2008-04-14",
+        "symbol": "JBHT",
+        "actualEarningResult": 0.28,
+        "estimatedEarning": 0.3
+    },
+    {
+        "date": "2008-01-29",
+        "symbol": "JBHT",
+        "actualEarningResult": 0.46,
+        "estimatedEarning": 0.39
+    },
+    {
+        "date": "2007-10-11",
+        "symbol": "JBHT",
+        "actualEarningResult": 0.38,
+        "estimatedEarning": 0.39
+    },
+    {
+        "date": "2007-07-16",
+        "symbol": "JBHT",
+        "actualEarningResult": 0.38,
+        "estimatedEarning": 0.38
+    },
+    {
+        "date": "2007-04-16",
+        "symbol": "JBHT",
+        "actualEarningResult": 0.3,
+        "estimatedEarning": 0.3
+    },
+    {
+        "date": "2007-01-29",
+        "symbol": "JBHT",
+        "actualEarningResult": 0.44,
+        "estimatedEarning": 0.4
+    },
+    {
+        "date": "2006-10-13",
+        "symbol": "JBHT",
+        "actualEarningResult": 0.39,
+        "estimatedEarning": 0.37
+    },
+    {
+        "date": "2006-07-18",
+        "symbol": "JBHT",
+        "actualEarningResult": 0.36,
+        "estimatedEarning": 0.37
+    },
+    {
+        "date": "2006-04-17",
+        "symbol": "JBHT",
+        "actualEarningResult": 0.31,
+        "estimatedEarning": 0.31
+    },
+    {
+        "date": "2006-01-30",
+        "symbol": "JBHT",
+        "actualEarningResult": 0.41,
+        "estimatedEarning": 0.36
+    },
+    {
+        "date": "2005-10-14",
+        "symbol": "JBHT",
+        "actualEarningResult": 0.35,
+        "estimatedEarning": 0.33
+    },
+    {
+        "date": "2005-07-15",
+        "symbol": "JBHT",
+        "actualEarningResult": 0.33,
+        "estimatedEarning": 0.34
+    },
+    {
+        "date": "2005-04-14",
+        "symbol": "JBHT",
+        "actualEarningResult": 0.28,
+        "estimatedEarning": 0.26
+    },
+    {
+        "date": "2005-02-02",
+        "symbol": "JBHT",
+        "actualEarningResult": 0.32,
+        "estimatedEarning": 0.29
+    },
+    {
+        "date": "2004-10-15",
+        "symbol": "JBHT",
+        "actualEarningResult": 0.28,
+        "estimatedEarning": 0.28
+    },
+    {
+        "date": "2004-07-15",
+        "symbol": "JBHT",
+        "actualEarningResult": 0.28,
+        "estimatedEarning": 0.23
+    },
+    {
+        "date": "2004-04-14",
+        "symbol": "JBHT",
+        "actualEarningResult": 0.2,
+        "estimatedEarning": 0.12
+    },
+    {
+        "date": "2004-01-28",
+        "symbol": "JBHT",
+        "actualEarningResult": 0.21,
+        "estimatedEarning": 0.17
+    },
+    {
+        "date": "2003-10-14",
+        "symbol": "JBHT",
+        "actualEarningResult": 0.2,
+        "estimatedEarning": 0.16
+    },
+    {
+        "date": "2003-07-15",
+        "symbol": "JBHT",
+        "actualEarningResult": 0.16,
+        "estimatedEarning": 0.12
+    },
+    {
+        "date": "2003-04-14",
+        "symbol": "JBHT",
+        "actualEarningResult": 0.07,
+        "estimatedEarning": 0.03981
+    },
+    {
+        "date": "2003-01-30",
+        "symbol": "JBHT",
+        "actualEarningResult": 0.09,
+        "estimatedEarning": 0.1
+    },
+    {
+        "date": "2002-10-15",
+        "symbol": "JBHT",
+        "actualEarningResult": 0.11,
+        "estimatedEarning": 0.09
+    },
+    {
+        "date": "2002-07-15",
+        "symbol": "JBHT",
+        "actualEarningResult": 0.1,
+        "estimatedEarning": 0.07
+    },
+    {
+        "date": "2002-04-15",
+        "symbol": "JBHT",
+        "actualEarningResult": 0.03,
+        "estimatedEarning": 0.02366
+    },
+    {
+        "date": "2002-01-30",
+        "symbol": "JBHT",
+        "actualEarningResult": 0.06,
+        "estimatedEarning": 0.03896
+    },
+    {
+        "date": "2001-10-15",
+        "symbol": "JBHT",
+        "actualEarningResult": 0.03,
+        "estimatedEarning": 0.011
+    },
+    {
+        "date": "2001-08-15",
+        "symbol": "JBHT",
+        "actualEarningResult": 0.06,
+        "estimatedEarning": 0.03583
+    },
+    {
+        "date": "2001-04-16",
+        "symbol": "JBHT",
+        "actualEarningResult": 0.01149,
+        "estimatedEarning": 0.00276
+    },
+    {
+        "date": "2001-01-29",
+        "symbol": "JBHT",
+        "actualEarningResult": 0.08,
+        "estimatedEarning": 0.07
+    },
+    {
+        "date": "2000-10-16",
+        "symbol": "JBHT",
+        "actualEarningResult": 0.07,
+        "estimatedEarning": 0.06
+    },
+    {
+        "date": "2000-07-18",
+        "symbol": "JBHT",
+        "actualEarningResult": 0.08,
+        "estimatedEarning": 0.06
+    },
+    {
+        "date": "2000-04-14",
+        "symbol": "JBHT",
+        "actualEarningResult": 0.04,
+        "estimatedEarning": 0.00938
+    },
+    {
+        "date": "2000-01-26",
+        "symbol": "JBHT",
+        "actualEarningResult": 0.04,
+        "estimatedEarning": 0.03909
+    },
+    {
+        "date": "1999-10-14",
+        "symbol": "JBHT",
+        "actualEarningResult": 0.04,
+        "estimatedEarning": 0.04114
+    },
+    {
+        "date": "1999-07-15",
+        "symbol": "JBHT",
+        "actualEarningResult": 0.08,
+        "estimatedEarning": 0.08
+    },
+    {
+        "date": "1999-04-14",
+        "symbol": "JBHT",
+        "actualEarningResult": 0.08,
+        "estimatedEarning": 0.07
+    },
+    {
+        "date": "1999-02-01",
+        "symbol": "JBHT",
+        "actualEarningResult": 0.08,
+        "estimatedEarning": 0.07
+    },
+    {
+        "date": "1998-10-14",
+        "symbol": "JBHT",
+        "actualEarningResult": 0.08,
+        "estimatedEarning": 0.08
+    },
+    {
+        "date": "1998-07-15",
+        "symbol": "JBHT",
+        "actualEarningResult": 0.11,
+        "estimatedEarning": 0.09
+    },
+    {
+        "date": "1998-04-14",
+        "symbol": "JBHT",
+        "actualEarningResult": 0.07,
+        "estimatedEarning": 0.05
+    },
+    {
+        "date": "1998-01-27",
+        "symbol": "JBHT",
+        "actualEarningResult": 0.05,
+        "estimatedEarning": 0.02778
+    },
+    {
+        "date": "1997-10-14",
+        "symbol": "JBHT",
+        "actualEarningResult": 0.01321,
+        "estimatedEarning": 0.0241
+    },
+    {
+        "date": "1997-07-16",
+        "symbol": "JBHT",
+        "actualEarningResult": 0.01279,
+        "estimatedEarning": 0.01822
+    },
+    {
+        "date": "1997-04-16",
+        "symbol": "JBHT",
+        "actualEarningResult": 0.00386,
+        "estimatedEarning": 0.01374
+    },
+    {
+        "date": "1997-02-04",
+        "symbol": "JBHT",
+        "actualEarningResult": 0.04,
+        "estimatedEarning": 0.0473
+    },
+    {
+        "date": "1996-10-15",
+        "symbol": "JBHT",
+        "actualEarningResult": 0.05,
+        "estimatedEarning": 0.05
+    },
+    {
+        "date": "1996-07-15",
+        "symbol": "JBHT",
+        "actualEarningResult": 0.05,
+        "estimatedEarning": 0.0373
+    },
+    {
+        "date": "1996-04-12",
+        "symbol": "JBHT",
+        "actualEarningResult": 0.02,
+        "estimatedEarning": 0.01795
+    },
+    {
+        "date": "1996-02-05",
+        "symbol": "JBHT",
+        "actualEarningResult": 0.03,
+        "estimatedEarning": 0.02377
+    },
+    {
+        "date": "1995-10-16",
+        "symbol": "JBHT",
+        "actualEarningResult": 0.0119,
+        "estimatedEarning": 0.01982
+    },
+    {
+        "date": "1995-07-18",
+        "symbol": "JBHT",
+        "actualEarningResult": -0.01386,
+        "estimatedEarning": -0.00523
+    },
+    {
+        "date": "1995-04-13",
+        "symbol": "JBHT",
+        "actualEarningResult": 0.03,
+        "estimatedEarning": 0.0445
+    },
+    {
+        "date": "1995-02-06",
+        "symbol": "JBHT",
+        "actualEarningResult": 0.07,
+        "estimatedEarning": 0.07
+    },
+    {
+        "date": "1994-10-13",
+        "symbol": "JBHT",
+        "actualEarningResult": 0.08,
+        "estimatedEarning": 0.08
+    },
+    {
+        "date": "1994-07-14",
+        "symbol": "JBHT",
+        "actualEarningResult": 0.08,
+        "estimatedEarning": 0.08
+    },
+    {
+        "date": "1994-04-14",
+        "symbol": "JBHT",
+        "actualEarningResult": 0.04,
+        "estimatedEarning": 0.04191
+    },
+    {
+        "date": "1994-02-02",
+        "symbol": "JBHT",
+        "actualEarningResult": 0.07,
+        "estimatedEarning": 0.07
+    },
+    {
+        "date": "1993-10-15",
+        "symbol": "JBHT",
+        "actualEarningResult": 0.08,
+        "estimatedEarning": 0.08
+    },
+    {
+        "date": "1993-07-14",
+        "symbol": "JBHT",
+        "actualEarningResult": 0.09,
+        "estimatedEarning": 0.07
+    },
+    {
+        "date": "1993-04-14",
+        "symbol": "JBHT",
+        "actualEarningResult": 0.03,
+        "estimatedEarning": 0.0248
+    }
+]

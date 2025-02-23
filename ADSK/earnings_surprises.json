@@ -1,0 +1,752 @@
+[
+    {
+        "date": "2024-11-26",
+        "symbol": "ADSK",
+        "actualEarningResult": 2.17,
+        "estimatedEarning": 2.12
+    },
+    {
+        "date": "2024-08-29",
+        "symbol": "ADSK",
+        "actualEarningResult": 2.15,
+        "estimatedEarning": 2
+    },
+    {
+        "date": "2024-06-11",
+        "symbol": "ADSK",
+        "actualEarningResult": 1.87,
+        "estimatedEarning": 1.8
+    },
+    {
+        "date": "2024-02-29",
+        "symbol": "ADSK",
+        "actualEarningResult": 2.09,
+        "estimatedEarning": 1.95
+    },
+    {
+        "date": "2023-11-21",
+        "symbol": "ADSK",
+        "actualEarningResult": 2.07,
+        "estimatedEarning": 1.99
+    },
+    {
+        "date": "2023-08-23",
+        "symbol": "ADSK",
+        "actualEarningResult": 1.91,
+        "estimatedEarning": 1.72
+    },
+    {
+        "date": "2023-05-25",
+        "symbol": "ADSK",
+        "actualEarningResult": 1.55,
+        "estimatedEarning": 1.55
+    },
+    {
+        "date": "2023-02-23",
+        "symbol": "ADSK",
+        "actualEarningResult": 1.86,
+        "estimatedEarning": 1.81
+    },
+    {
+        "date": "2022-11-22",
+        "symbol": "ADSK",
+        "actualEarningResult": 1.7,
+        "estimatedEarning": 1.7
+    },
+    {
+        "date": "2022-08-24",
+        "symbol": "ADSK",
+        "actualEarningResult": 1.65,
+        "estimatedEarning": 1.56
+    },
+    {
+        "date": "2022-05-26",
+        "symbol": "ADSK",
+        "actualEarningResult": 1.43,
+        "estimatedEarning": 1.33
+    },
+    {
+        "date": "2022-02-24",
+        "symbol": "ADSK",
+        "actualEarningResult": 1.5,
+        "estimatedEarning": 1.43
+    },
+    {
+        "date": "2021-11-23",
+        "symbol": "ADSK",
+        "actualEarningResult": 1.33,
+        "estimatedEarning": 1.25
+    },
+    {
+        "date": "2021-08-25",
+        "symbol": "ADSK",
+        "actualEarningResult": 1.21,
+        "estimatedEarning": 1.11
+    },
+    {
+        "date": "2021-05-27",
+        "symbol": "ADSK",
+        "actualEarningResult": 1.03,
+        "estimatedEarning": 0.94
+    },
+    {
+        "date": "2021-02-25",
+        "symbol": "ADSK",
+        "actualEarningResult": 1.18,
+        "estimatedEarning": 1.07
+    },
+    {
+        "date": "2020-11-24",
+        "symbol": "ADSK",
+        "actualEarningResult": 1.04,
+        "estimatedEarning": 0.95
+    },
+    {
+        "date": "2020-08-25",
+        "symbol": "ADSK",
+        "actualEarningResult": 0.98,
+        "estimatedEarning": 0.9
+    },
+    {
+        "date": "2020-05-27",
+        "symbol": "ADSK",
+        "actualEarningResult": 0.85,
+        "estimatedEarning": 0.81
+    },
+    {
+        "date": "2020-02-27",
+        "symbol": "ADSK",
+        "actualEarningResult": 0.92,
+        "estimatedEarning": 0.9
+    },
+    {
+        "date": "2019-11-26",
+        "symbol": "ADSK",
+        "actualEarningResult": 0.78,
+        "estimatedEarning": 0.73
+    },
+    {
+        "date": "2019-08-27",
+        "symbol": "ADSK",
+        "actualEarningResult": 0.65,
+        "estimatedEarning": 0.61
+    },
+    {
+        "date": "2019-05-23",
+        "symbol": "ADSK",
+        "actualEarningResult": 0.45,
+        "estimatedEarning": 0.47
+    },
+    {
+        "date": "2019-02-28",
+        "symbol": "ADSK",
+        "actualEarningResult": 0.46,
+        "estimatedEarning": 0.42
+    },
+    {
+        "date": "2018-11-20",
+        "symbol": "ADSK",
+        "actualEarningResult": 0.29,
+        "estimatedEarning": 0.26
+    },
+    {
+        "date": "2018-08-23",
+        "symbol": "ADSK",
+        "actualEarningResult": 0.19,
+        "estimatedEarning": 0.17
+    },
+    {
+        "date": "2018-05-24",
+        "symbol": "ADSK",
+        "actualEarningResult": 0.06,
+        "estimatedEarning": 0.03167
+    },
+    {
+        "date": "2018-03-06",
+        "symbol": "ADSK",
+        "actualEarningResult": -0.09,
+        "estimatedEarning": -0.12
+    },
+    {
+        "date": "2017-11-28",
+        "symbol": "ADSK",
+        "actualEarningResult": -0.12,
+        "estimatedEarning": -0.13
+    },
+    {
+        "date": "2017-08-24",
+        "symbol": "ADSK",
+        "actualEarningResult": -0.11,
+        "estimatedEarning": -0.15
+    },
+    {
+        "date": "2017-05-18",
+        "symbol": "ADSK",
+        "actualEarningResult": -0.16,
+        "estimatedEarning": -0.22
+    },
+    {
+        "date": "2017-03-02",
+        "symbol": "ADSK",
+        "actualEarningResult": -0.28,
+        "estimatedEarning": -0.33
+    },
+    {
+        "date": "2016-11-29",
+        "symbol": "ADSK",
+        "actualEarningResult": -0.18,
+        "estimatedEarning": -0.24
+    },
+    {
+        "date": "2016-08-25",
+        "symbol": "ADSK",
+        "actualEarningResult": 0.05,
+        "estimatedEarning": -0.13
+    },
+    {
+        "date": "2016-05-19",
+        "symbol": "ADSK",
+        "actualEarningResult": -0.1,
+        "estimatedEarning": -0.14
+    },
+    {
+        "date": "2016-02-25",
+        "symbol": "ADSK",
+        "actualEarningResult": 0.21,
+        "estimatedEarning": 0.1
+    },
+    {
+        "date": "2015-11-19",
+        "symbol": "ADSK",
+        "actualEarningResult": 0.14,
+        "estimatedEarning": 0.08
+    },
+    {
+        "date": "2015-08-27",
+        "symbol": "ADSK",
+        "actualEarningResult": 0.19,
+        "estimatedEarning": 0.17
+    },
+    {
+        "date": "2015-05-19",
+        "symbol": "ADSK",
+        "actualEarningResult": 0.3,
+        "estimatedEarning": 0.28
+    },
+    {
+        "date": "2015-02-26",
+        "symbol": "ADSK",
+        "actualEarningResult": 0.25,
+        "estimatedEarning": 0.24
+    },
+    {
+        "date": "2014-11-20",
+        "symbol": "ADSK",
+        "actualEarningResult": 0.25,
+        "estimatedEarning": 0.22
+    },
+    {
+        "date": "2014-08-14",
+        "symbol": "ADSK",
+        "actualEarningResult": 0.35,
+        "estimatedEarning": 0.28
+    },
+    {
+        "date": "2014-05-15",
+        "symbol": "ADSK",
+        "actualEarningResult": 0.32,
+        "estimatedEarning": 0.21
+    },
+    {
+        "date": "2014-02-26",
+        "symbol": "ADSK",
+        "actualEarningResult": 0.4,
+        "estimatedEarning": 0.33
+    },
+    {
+        "date": "2013-11-21",
+        "symbol": "ADSK",
+        "actualEarningResult": 0.41,
+        "estimatedEarning": 0.39
+    },
+    {
+        "date": "2013-08-22",
+        "symbol": "ADSK",
+        "actualEarningResult": 0.45,
+        "estimatedEarning": 0.42
+    },
+    {
+        "date": "2013-05-16",
+        "symbol": "ADSK",
+        "actualEarningResult": 0.42,
+        "estimatedEarning": 0.45
+    },
+    {
+        "date": "2013-02-25",
+        "symbol": "ADSK",
+        "actualEarningResult": 0.53,
+        "estimatedEarning": 0.49
+    },
+    {
+        "date": "2012-11-15",
+        "symbol": "ADSK",
+        "actualEarningResult": 0.47,
+        "estimatedEarning": 0.43
+    },
+    {
+        "date": "2012-08-23",
+        "symbol": "ADSK",
+        "actualEarningResult": 0.48,
+        "estimatedEarning": 0.49
+    },
+    {
+        "date": "2012-05-17",
+        "symbol": "ADSK",
+        "actualEarningResult": 0.47,
+        "estimatedEarning": 0.47
+    },
+    {
+        "date": "2012-02-23",
+        "symbol": "ADSK",
+        "actualEarningResult": 0.46,
+        "estimatedEarning": 0.45
+    },
+    {
+        "date": "2011-11-15",
+        "symbol": "ADSK",
+        "actualEarningResult": 0.44,
+        "estimatedEarning": 0.41
+    },
+    {
+        "date": "2011-08-18",
+        "symbol": "ADSK",
+        "actualEarningResult": 0.44,
+        "estimatedEarning": 0.41
+    },
+    {
+        "date": "2011-05-19",
+        "symbol": "ADSK",
+        "actualEarningResult": 0.4,
+        "estimatedEarning": 0.37
+    },
+    {
+        "date": "2011-02-24",
+        "symbol": "ADSK",
+        "actualEarningResult": 0.35,
+        "estimatedEarning": 0.34
+    },
+    {
+        "date": "2010-11-18",
+        "symbol": "ADSK",
+        "actualEarningResult": 0.32,
+        "estimatedEarning": 0.32
+    },
+    {
+        "date": "2010-08-12",
+        "symbol": "ADSK",
+        "actualEarningResult": 0.36,
+        "estimatedEarning": 0.27
+    },
+    {
+        "date": "2010-05-19",
+        "symbol": "ADSK",
+        "actualEarningResult": 0.29,
+        "estimatedEarning": 0.22
+    },
+    {
+        "date": "2010-02-23",
+        "symbol": "ADSK",
+        "actualEarningResult": 0.3,
+        "estimatedEarning": 0.23
+    },
+    {
+        "date": "2009-11-17",
+        "symbol": "ADSK",
+        "actualEarningResult": 0.27,
+        "estimatedEarning": 0.23
+    },
+    {
+        "date": "2009-08-13",
+        "symbol": "ADSK",
+        "actualEarningResult": 0.24,
+        "estimatedEarning": 0.19
+    },
+    {
+        "date": "2009-05-21",
+        "symbol": "ADSK",
+        "actualEarningResult": 0.18,
+        "estimatedEarning": 0.08
+    },
+    {
+        "date": "2009-02-26",
+        "symbol": "ADSK",
+        "actualEarningResult": 0.31,
+        "estimatedEarning": 0.21
+    },
+    {
+        "date": "2008-11-20",
+        "symbol": "ADSK",
+        "actualEarningResult": 0.56,
+        "estimatedEarning": 0.53
+    },
+    {
+        "date": "2008-08-14",
+        "symbol": "ADSK",
+        "actualEarningResult": 0.56,
+        "estimatedEarning": 0.52
+    },
+    {
+        "date": "2008-05-15",
+        "symbol": "ADSK",
+        "actualEarningResult": 0.5,
+        "estimatedEarning": 0.48
+    },
+    {
+        "date": "2008-02-26",
+        "symbol": "ADSK",
+        "actualEarningResult": 0.52,
+        "estimatedEarning": 0.54
+    },
+    {
+        "date": "2007-11-15",
+        "symbol": "ADSK",
+        "actualEarningResult": 0.49,
+        "estimatedEarning": 0.47
+    },
+    {
+        "date": "2007-08-16",
+        "symbol": "ADSK",
+        "actualEarningResult": 0.44,
+        "estimatedEarning": 0.43
+    },
+    {
+        "date": "2007-06-08",
+        "symbol": "ADSK",
+        "actualEarningResult": 0.44,
+        "estimatedEarning": 0.44
+    },
+    {
+        "date": "2006-05-18",
+        "symbol": "ADSK",
+        "actualEarningResult": 0.32,
+        "estimatedEarning": 0.31
+    },
+    {
+        "date": "2006-02-28",
+        "symbol": "ADSK",
+        "actualEarningResult": 0.37,
+        "estimatedEarning": 0.35
+    },
+    {
+        "date": "2005-11-17",
+        "symbol": "ADSK",
+        "actualEarningResult": 0.31,
+        "estimatedEarning": 0.3
+    },
+    {
+        "date": "2005-08-18",
+        "symbol": "ADSK",
+        "actualEarningResult": 0.29,
+        "estimatedEarning": 0.24
+    },
+    {
+        "date": "2005-05-19",
+        "symbol": "ADSK",
+        "actualEarningResult": 0.3,
+        "estimatedEarning": 0.28
+    },
+    {
+        "date": "2005-02-22",
+        "symbol": "ADSK",
+        "actualEarningResult": 0.3,
+        "estimatedEarning": 0.28
+    },
+    {
+        "date": "2004-11-18",
+        "symbol": "ADSK",
+        "actualEarningResult": 0.38,
+        "estimatedEarning": 0.17
+    },
+    {
+        "date": "2004-08-19",
+        "symbol": "ADSK",
+        "actualEarningResult": 0.34,
+        "estimatedEarning": 0.15
+    },
+    {
+        "date": "2004-05-18",
+        "symbol": "ADSK",
+        "actualEarningResult": 0.41,
+        "estimatedEarning": 0.15
+    },
+    {
+        "date": "2004-02-26",
+        "symbol": "ADSK",
+        "actualEarningResult": 0.45,
+        "estimatedEarning": 0.15
+    },
+    {
+        "date": "2003-11-20",
+        "symbol": "ADSK",
+        "actualEarningResult": 0.2,
+        "estimatedEarning": 0.07
+    },
+    {
+        "date": "2003-08-21",
+        "symbol": "ADSK",
+        "actualEarningResult": 0.11,
+        "estimatedEarning": 0.05
+    },
+    {
+        "date": "2003-05-22",
+        "symbol": "ADSK",
+        "actualEarningResult": 0.07,
+        "estimatedEarning": 0.02278
+    },
+    {
+        "date": "2003-02-25",
+        "symbol": "ADSK",
+        "actualEarningResult": 0.04,
+        "estimatedEarning": 0.03086
+    },
+    {
+        "date": "2002-11-21",
+        "symbol": "ADSK",
+        "actualEarningResult": 0.03,
+        "estimatedEarning": 0.02626
+    },
+    {
+        "date": "2002-08-15",
+        "symbol": "ADSK",
+        "actualEarningResult": 0.07,
+        "estimatedEarning": 0.05
+    },
+    {
+        "date": "2002-05-16",
+        "symbol": "ADSK",
+        "actualEarningResult": 0.08,
+        "estimatedEarning": 0.07
+    },
+    {
+        "date": "2002-02-21",
+        "symbol": "ADSK",
+        "actualEarningResult": 0.16,
+        "estimatedEarning": 0.13
+    },
+    {
+        "date": "2001-11-15",
+        "symbol": "ADSK",
+        "actualEarningResult": 0.09,
+        "estimatedEarning": 0.09
+    },
+    {
+        "date": "2001-08-16",
+        "symbol": "ADSK",
+        "actualEarningResult": 0.13,
+        "estimatedEarning": 0.12
+    },
+    {
+        "date": "2001-05-17",
+        "symbol": "ADSK",
+        "actualEarningResult": 0.14,
+        "estimatedEarning": 0.12
+    },
+    {
+        "date": "2001-02-22",
+        "symbol": "ADSK",
+        "actualEarningResult": 0.14,
+        "estimatedEarning": 0.13
+    },
+    {
+        "date": "2000-11-16",
+        "symbol": "ADSK",
+        "actualEarningResult": 0.1,
+        "estimatedEarning": 0.08
+    },
+    {
+        "date": "2000-08-17",
+        "symbol": "ADSK",
+        "actualEarningResult": 0.11,
+        "estimatedEarning": 0.1
+    },
+    {
+        "date": "2000-05-18",
+        "symbol": "ADSK",
+        "actualEarningResult": 0.12,
+        "estimatedEarning": 0.11
+    },
+    {
+        "date": "2000-02-24",
+        "symbol": "ADSK",
+        "actualEarningResult": 0.12,
+        "estimatedEarning": 0.1
+    },
+    {
+        "date": "1999-11-23",
+        "symbol": "ADSK",
+        "actualEarningResult": 0.07,
+        "estimatedEarning": 0.02982
+    },
+    {
+        "date": "1999-08-26",
+        "symbol": "ADSK",
+        "actualEarningResult": 0.02,
+        "estimatedEarning": 0.02267
+    },
+    {
+        "date": "1999-05-28",
+        "symbol": "ADSK",
+        "actualEarningResult": 0.04,
+        "estimatedEarning": 0.04118
+    },
+    {
+        "date": "1999-02-24",
+        "symbol": "ADSK",
+        "actualEarningResult": 0.13,
+        "estimatedEarning": 0.13
+    },
+    {
+        "date": "1998-11-19",
+        "symbol": "ADSK",
+        "actualEarningResult": 0.11,
+        "estimatedEarning": 0.11
+    },
+    {
+        "date": "1998-08-20",
+        "symbol": "ADSK",
+        "actualEarningResult": 0.14,
+        "estimatedEarning": 0.14
+    },
+    {
+        "date": "1998-05-21",
+        "symbol": "ADSK",
+        "actualEarningResult": 0.14,
+        "estimatedEarning": 0.13
+    },
+    {
+        "date": "1998-02-25",
+        "symbol": "ADSK",
+        "actualEarningResult": 0.15,
+        "estimatedEarning": 0.14
+    },
+    {
+        "date": "1997-11-20",
+        "symbol": "ADSK",
+        "actualEarningResult": 0.1,
+        "estimatedEarning": 0.09
+    },
+    {
+        "date": "1997-08-21",
+        "symbol": "ADSK",
+        "actualEarningResult": 0.09,
+        "estimatedEarning": 0.08
+    },
+    {
+        "date": "1997-05-23",
+        "symbol": "ADSK",
+        "actualEarningResult": 0.03,
+        "estimatedEarning": 0.03
+    },
+    {
+        "date": "1997-02-26",
+        "symbol": "ADSK",
+        "actualEarningResult": 0.03,
+        "estimatedEarning": 0.03367
+    },
+    {
+        "date": "1996-11-21",
+        "symbol": "ADSK",
+        "actualEarningResult": 0.03,
+        "estimatedEarning": 0.03293
+    },
+    {
+        "date": "1996-08-15",
+        "symbol": "ADSK",
+        "actualEarningResult": 0.08,
+        "estimatedEarning": 0.1
+    },
+    {
+        "date": "1996-05-16",
+        "symbol": "ADSK",
+        "actualEarningResult": 0.1,
+        "estimatedEarning": 0.1
+    },
+    {
+        "date": "1996-02-21",
+        "symbol": "ADSK",
+        "actualEarningResult": 0.09,
+        "estimatedEarning": 0.1
+    },
+    {
+        "date": "1995-11-16",
+        "symbol": "ADSK",
+        "actualEarningResult": 0.1,
+        "estimatedEarning": 0.11
+    },
+    {
+        "date": "1995-08-18",
+        "symbol": "ADSK",
+        "actualEarningResult": 0.13,
+        "estimatedEarning": 0.13
+    },
+    {
+        "date": "1995-05-18",
+        "symbol": "ADSK",
+        "actualEarningResult": 0.13,
+        "estimatedEarning": 0.12
+    },
+    {
+        "date": "1995-02-22",
+        "symbol": "ADSK",
+        "actualEarningResult": 0.12,
+        "estimatedEarning": 0.11
+    },
+    {
+        "date": "1994-11-17",
+        "symbol": "ADSK",
+        "actualEarningResult": 0.08,
+        "estimatedEarning": 0.08
+    },
+    {
+        "date": "1994-08-18",
+        "symbol": "ADSK",
+        "actualEarningResult": 0.09,
+        "estimatedEarning": 0.08
+    },
+    {
+        "date": "1994-05-19",
+        "symbol": "ADSK",
+        "actualEarningResult": 0.08,
+        "estimatedEarning": 0.08
+    },
+    {
+        "date": "1994-02-23",
+        "symbol": "ADSK",
+        "actualEarningResult": 0.08,
+        "estimatedEarning": 0.08
+    },
+    {
+        "date": "1993-11-19",
+        "symbol": "ADSK",
+        "actualEarningResult": 0.08,
+        "estimatedEarning": 0.07
+    },
+    {
+        "date": "1993-08-19",
+        "symbol": "ADSK",
+        "actualEarningResult": 0.08,
+        "estimatedEarning": 0.08
+    },
+    {
+        "date": "1993-05-21",
+        "symbol": "ADSK",
+        "actualEarningResult": 0.08,
+        "estimatedEarning": 0.07
+    },
+    {
+        "date": "1993-02-23",
+        "symbol": "ADSK",
+        "actualEarningResult": 0.07,
+        "estimatedEarning": 0.07
+    }
+]

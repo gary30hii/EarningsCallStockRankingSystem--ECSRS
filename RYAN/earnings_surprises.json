@@ -1,0 +1,86 @@
+[
+    {
+        "date": "2024-10-30",
+        "symbol": "RYAN",
+        "actualEarningResult": 0.41,
+        "estimatedEarning": 0.4143
+    },
+    {
+        "date": "2024-08-01",
+        "symbol": "RYAN",
+        "actualEarningResult": 0.58,
+        "estimatedEarning": 0.563
+    },
+    {
+        "date": "2024-05-02",
+        "symbol": "RYAN",
+        "actualEarningResult": 0.35,
+        "estimatedEarning": 0.3496
+    },
+    {
+        "date": "2024-02-27",
+        "symbol": "RYAN",
+        "actualEarningResult": 0.35,
+        "estimatedEarning": 0.35
+    },
+    {
+        "date": "2023-11-02",
+        "symbol": "RYAN",
+        "actualEarningResult": 0.32,
+        "estimatedEarning": 0.32
+    },
+    {
+        "date": "2023-08-03",
+        "symbol": "RYAN",
+        "actualEarningResult": 0.45,
+        "estimatedEarning": 0.42
+    },
+    {
+        "date": "2023-05-04",
+        "symbol": "RYAN",
+        "actualEarningResult": 0.26,
+        "estimatedEarning": 0.25
+    },
+    {
+        "date": "2023-02-28",
+        "symbol": "RYAN",
+        "actualEarningResult": 0.27,
+        "estimatedEarning": 0.27
+    },
+    {
+        "date": "2022-11-10",
+        "symbol": "RYAN",
+        "actualEarningResult": 0.25,
+        "estimatedEarning": 0.26
+    },
+    {
+        "date": "2022-08-11",
+        "symbol": "RYAN",
+        "actualEarningResult": 0.39,
+        "estimatedEarning": 0.36
+    },
+    {
+        "date": "2022-05-12",
+        "symbol": "RYAN",
+        "actualEarningResult": 0.24,
+        "estimatedEarning": 0.21
+    },
+    {
+        "date": "2022-03-15",
+        "symbol": "RYAN",
+        "actualEarningResult": 0.29,
+        "estimatedEarning": 0.28
+    },
+    {
+        "date": "2021-11-11",
+        "symbol": "RYAN",
+        "actualEarningResult": 0.24,
+        "estimatedEarning": 0.17
+    },
+    {
+        "date": "2021-09-01",
+        "symbol": "RYAN",
+        "actualEarningResult": 0.35,
+        "estimatedEarning": 0.32
+    }
+]

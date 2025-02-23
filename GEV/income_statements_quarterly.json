@@ -1,0 +1,32 @@
+[
+    {
+        "date": "2024-06-29",
+        "symbol": "GEV",
+        "period": "Q2",
+        "revenuefromcontractwithcustomerexcludingassessedtax": 8307000000,
+        "costofgoodsandservicessold": 6502000000,
+        "grossprofit": 1702000000,
+        "sellinggeneralandadministrativeexpense": 938000000,
+        "researchanddevelopmentexpense": 237000000,
+        "operatingincomeloss": 527000000,
+        "interestandotherfinancialcharges": 1000000,
+        "benefitcostincomenonoperating": -134000000,
+        "othernonoperatingincomeexpense": 881000000,
+        "incomelossfromcontinuingoperationsbeforeincometaxesextraordinaryitemsnoncontrollinginterest": 1602000000,
+        "incometaxexpensebenefit": -11000000,
+        "profitloss": 1280000000,
+        "netincomelossattributabletononcontrollinginterest": -14000000,
+        "netincomeloss": 1294000000,
+        "earningspersharebasic": 4.72,
+        "earningspersharediluted": 4.65,
+        "weightedaveragenumberofsharesoutstandingbasic": 274000000,
+        "weightedaveragenumberofdilutedsharesoutstanding": 278000000,
+        "othercomprehensiveincomelossforeigncurrencytransactionandtranslationadjustmentnetoftax": -117000000,
+        "othercomprehensiveincomelosspensionandotherpostretirementbenefitplansadjustmentnetoftax": 271000000,
+        "othercomprehensiveincomelosscashflowhedgegainlossafterreclassificationandtax": 43000000,
+        "othercomprehensiveincomelossnetoftax": -346000000,
+        "comprehensiveincomenetoftaxincludingportionattributabletononcontrollinginterest": 934000000,
+        "comprehensiveincomenetoftaxattributabletononcontrollinginterest": 4000000,
+        "comprehensiveincomenetoftax": 930000000
+    }
+]

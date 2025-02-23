@@ -1,0 +1,608 @@
+[
+    {
+        "date": "2024-10-22",
+        "symbol": "CSGP",
+        "actualEarningResult": 0.22,
+        "estimatedEarning": 0.1626
+    },
+    {
+        "date": "2024-07-23",
+        "symbol": "CSGP",
+        "actualEarningResult": 0.15,
+        "estimatedEarning": 0.1048
+    },
+    {
+        "date": "2024-04-23",
+        "symbol": "CSGP",
+        "actualEarningResult": 0.1,
+        "estimatedEarning": 0.06621
+    },
+    {
+        "date": "2024-02-20",
+        "symbol": "CSGP",
+        "actualEarningResult": 0.33,
+        "estimatedEarning": 0.32
+    },
+    {
+        "date": "2023-10-24",
+        "symbol": "CSGP",
+        "actualEarningResult": 0.3,
+        "estimatedEarning": 0.3
+    },
+    {
+        "date": "2023-07-25",
+        "symbol": "CSGP",
+        "actualEarningResult": 0.31,
+        "estimatedEarning": 0.3
+    },
+    {
+        "date": "2023-04-25",
+        "symbol": "CSGP",
+        "actualEarningResult": 0.29,
+        "estimatedEarning": 0.25
+    },
+    {
+        "date": "2023-02-21",
+        "symbol": "CSGP",
+        "actualEarningResult": 0.38,
+        "estimatedEarning": 0.36
+    },
+    {
+        "date": "2022-10-25",
+        "symbol": "CSGP",
+        "actualEarningResult": 0.3,
+        "estimatedEarning": 0.24
+    },
+    {
+        "date": "2022-07-26",
+        "symbol": "CSGP",
+        "actualEarningResult": 0.28,
+        "estimatedEarning": 0.21
+    },
+    {
+        "date": "2022-04-26",
+        "symbol": "CSGP",
+        "actualEarningResult": 0.31,
+        "estimatedEarning": 0.28
+    },
+    {
+        "date": "2022-02-22",
+        "symbol": "CSGP",
+        "actualEarningResult": 0.35,
+        "estimatedEarning": 0.29
+    },
+    {
+        "date": "2021-10-26",
+        "symbol": "CSGP",
+        "actualEarningResult": 0.25,
+        "estimatedEarning": 0.23
+    },
+    {
+        "date": "2021-07-27",
+        "symbol": "CSGP",
+        "actualEarningResult": 0.26,
+        "estimatedEarning": 0.23
+    },
+    {
+        "date": "2021-04-27",
+        "symbol": "CSGP",
+        "actualEarningResult": 0.28,
+        "estimatedEarning": 0.24
+    },
+    {
+        "date": "2021-02-23",
+        "symbol": "CSGP",
+        "actualEarningResult": 0.29,
+        "estimatedEarning": 0.24
+    },
+    {
+        "date": "2020-10-27",
+        "symbol": "CSGP",
+        "actualEarningResult": 0.23,
+        "estimatedEarning": 0.21
+    },
+    {
+        "date": "2020-07-28",
+        "symbol": "CSGP",
+        "actualEarningResult": 0.23,
+        "estimatedEarning": 0.2
+    },
+    {
+        "date": "2020-04-28",
+        "symbol": "CSGP",
+        "actualEarningResult": 0.24,
+        "estimatedEarning": 0.23
+    },
+    {
+        "date": "2020-02-25",
+        "symbol": "CSGP",
+        "actualEarningResult": 0.28,
+        "estimatedEarning": 0.26
+    },
+    {
+        "date": "2019-10-22",
+        "symbol": "CSGP",
+        "actualEarningResult": 0.26,
+        "estimatedEarning": 0.25
+    },
+    {
+        "date": "2019-07-23",
+        "symbol": "CSGP",
+        "actualEarningResult": 0.22,
+        "estimatedEarning": 0.2
+    },
+    {
+        "date": "2019-04-23",
+        "symbol": "CSGP",
+        "actualEarningResult": 0.25,
+        "estimatedEarning": 0.24
+    },
+    {
+        "date": "2019-02-26",
+        "symbol": "CSGP",
+        "actualEarningResult": 0.28,
+        "estimatedEarning": 0.25
+    },
+    {
+        "date": "2018-10-23",
+        "symbol": "CSGP",
+        "actualEarningResult": 0.22,
+        "estimatedEarning": 0.21
+    },
+    {
+        "date": "2018-07-24",
+        "symbol": "CSGP",
+        "actualEarningResult": 0.17,
+        "estimatedEarning": 0.13
+    },
+    {
+        "date": "2018-04-23",
+        "symbol": "CSGP",
+        "actualEarningResult": 0.17,
+        "estimatedEarning": 0.14
+    },
+    {
+        "date": "2018-02-21",
+        "symbol": "CSGP",
+        "actualEarningResult": 0.13,
+        "estimatedEarning": 0.12
+    },
+    {
+        "date": "2017-10-25",
+        "symbol": "CSGP",
+        "actualEarningResult": 0.14,
+        "estimatedEarning": 0.11
+    },
+    {
+        "date": "2017-07-26",
+        "symbol": "CSGP",
+        "actualEarningResult": 0.09,
+        "estimatedEarning": 0.06
+    },
+    {
+        "date": "2017-04-26",
+        "symbol": "CSGP",
+        "actualEarningResult": 0.11,
+        "estimatedEarning": 0.09
+    },
+    {
+        "date": "2017-02-22",
+        "symbol": "CSGP",
+        "actualEarningResult": 0.13,
+        "estimatedEarning": 0.13
+    },
+    {
+        "date": "2016-10-26",
+        "symbol": "CSGP",
+        "actualEarningResult": 0.11,
+        "estimatedEarning": 0.1
+    },
+    {
+        "date": "2016-07-27",
+        "symbol": "CSGP",
+        "actualEarningResult": 0.09,
+        "estimatedEarning": 0.08
+    },
+    {
+        "date": "2016-04-27",
+        "symbol": "CSGP",
+        "actualEarningResult": 0.1,
+        "estimatedEarning": 0.07
+    },
+    {
+        "date": "2016-02-24",
+        "symbol": "CSGP",
+        "actualEarningResult": 0.11,
+        "estimatedEarning": 0.08
+    },
+    {
+        "date": "2015-10-28",
+        "symbol": "CSGP",
+        "actualEarningResult": 0.05,
+        "estimatedEarning": 0.04203
+    },
+    {
+        "date": "2015-07-29",
+        "symbol": "CSGP",
+        "actualEarningResult": 0.01,
+        "estimatedEarning": 0.00534
+    },
+    {
+        "date": "2015-04-29",
+        "symbol": "CSGP",
+        "actualEarningResult": 0.03,
+        "estimatedEarning": 0.01845
+    },
+    {
+        "date": "2015-02-25",
+        "symbol": "CSGP",
+        "actualEarningResult": 0.09,
+        "estimatedEarning": 0.09
+    },
+    {
+        "date": "2014-10-29",
+        "symbol": "CSGP",
+        "actualEarningResult": 0.09,
+        "estimatedEarning": 0.08
+    },
+    {
+        "date": "2014-07-23",
+        "symbol": "CSGP",
+        "actualEarningResult": 0.08,
+        "estimatedEarning": 0.07
+    },
+    {
+        "date": "2014-04-23",
+        "symbol": "CSGP",
+        "actualEarningResult": 0.07,
+        "estimatedEarning": 0.07
+    },
+    {
+        "date": "2014-02-19",
+        "symbol": "CSGP",
+        "actualEarningResult": 0.08,
+        "estimatedEarning": 0.07
+    },
+    {
+        "date": "2013-10-23",
+        "symbol": "CSGP",
+        "actualEarningResult": 0.07,
+        "estimatedEarning": 0.06
+    },
+    {
+        "date": "2013-07-24",
+        "symbol": "CSGP",
+        "actualEarningResult": 0.06,
+        "estimatedEarning": 0.05
+    },
+    {
+        "date": "2013-04-24",
+        "symbol": "CSGP",
+        "actualEarningResult": 0.05,
+        "estimatedEarning": 0.04638
+    },
+    {
+        "date": "2013-02-27",
+        "symbol": "CSGP",
+        "actualEarningResult": 0.04,
+        "estimatedEarning": 0.03764
+    },
+    {
+        "date": "2012-10-24",
+        "symbol": "CSGP",
+        "actualEarningResult": 0.05,
+        "estimatedEarning": 0.04164
+    },
+    {
+        "date": "2012-07-25",
+        "symbol": "CSGP",
+        "actualEarningResult": 0.04,
+        "estimatedEarning": 0.34
+    },
+    {
+        "date": "2012-04-25",
+        "symbol": "CSGP",
+        "actualEarningResult": 0.03,
+        "estimatedEarning": 0.3
+    },
+    {
+        "date": "2012-02-22",
+        "symbol": "CSGP",
+        "actualEarningResult": 0.02,
+        "estimatedEarning": 0.11
+    },
+    {
+        "date": "2011-07-27",
+        "symbol": "CSGP",
+        "actualEarningResult": 0.01176,
+        "estimatedEarning": 0.00326
+    },
+    {
+        "date": "2011-04-27",
+        "symbol": "CSGP",
+        "actualEarningResult": 0.02,
+        "estimatedEarning": 0.01572
+    },
+    {
+        "date": "2011-02-23",
+        "symbol": "CSGP",
+        "actualEarningResult": 0.02,
+        "estimatedEarning": 0.01921
+    },
+    {
+        "date": "2010-10-20",
+        "symbol": "CSGP",
+        "actualEarningResult": 0.02,
+        "estimatedEarning": 0.15
+    },
+    {
+        "date": "2010-07-21",
+        "symbol": "CSGP",
+        "actualEarningResult": 0.02,
+        "estimatedEarning": 0.14
+    },
+    {
+        "date": "2010-04-21",
+        "symbol": "CSGP",
+        "actualEarningResult": 0.01402,
+        "estimatedEarning": 0.12
+    },
+    {
+        "date": "2010-02-24",
+        "symbol": "CSGP",
+        "actualEarningResult": 0.02,
+        "estimatedEarning": 0.02111
+    },
+    {
+        "date": "2009-10-21",
+        "symbol": "CSGP",
+        "actualEarningResult": 0.02,
+        "estimatedEarning": 0.01853
+    },
+    {
+        "date": "2009-07-22",
+        "symbol": "CSGP",
+        "actualEarningResult": 0.02,
+        "estimatedEarning": 0.01928
+    },
+    {
+        "date": "2009-04-22",
+        "symbol": "CSGP",
+        "actualEarningResult": 0.03,
+        "estimatedEarning": 0.0271
+    },
+    {
+        "date": "2009-02-18",
+        "symbol": "CSGP",
+        "actualEarningResult": 0.04,
+        "estimatedEarning": 0.03639
+    },
+    {
+        "date": "2008-10-29",
+        "symbol": "CSGP",
+        "actualEarningResult": 0.03,
+        "estimatedEarning": 0.02597
+    },
+    {
+        "date": "2008-07-15",
+        "symbol": "CSGP",
+        "actualEarningResult": 0.03,
+        "estimatedEarning": 0.02607
+    },
+    {
+        "date": "2008-04-23",
+        "symbol": "CSGP",
+        "actualEarningResult": 0.03,
+        "estimatedEarning": 0.02377
+    },
+    {
+        "date": "2008-02-20",
+        "symbol": "CSGP",
+        "actualEarningResult": 0.05,
+        "estimatedEarning": 0.01967
+    },
+    {
+        "date": "2007-10-24",
+        "symbol": "CSGP",
+        "actualEarningResult": 0.02,
+        "estimatedEarning": 0.14
+    },
+    {
+        "date": "2007-07-25",
+        "symbol": "CSGP",
+        "actualEarningResult": 0.00607,
+        "estimatedEarning": 0.05
+    },
+    {
+        "date": "2007-04-25",
+        "symbol": "CSGP",
+        "actualEarningResult": 0.00944,
+        "estimatedEarning": 0.08
+    },
+    {
+        "date": "2007-02-21",
+        "symbol": "CSGP",
+        "actualEarningResult": 0.02,
+        "estimatedEarning": 0.15
+    },
+    {
+        "date": "2006-10-25",
+        "symbol": "CSGP",
+        "actualEarningResult": 0.03,
+        "estimatedEarning": 0.0206
+    },
+    {
+        "date": "2006-07-26",
+        "symbol": "CSGP",
+        "actualEarningResult": 0.01196,
+        "estimatedEarning": 0.05
+    },
+    {
+        "date": "2006-04-26",
+        "symbol": "CSGP",
+        "actualEarningResult": 0.00965,
+        "estimatedEarning": 0.08
+    },
+    {
+        "date": "2006-02-15",
+        "symbol": "CSGP",
+        "actualEarningResult": 0.02,
+        "estimatedEarning": 0.15
+    },
+    {
+        "date": "2005-10-19",
+        "symbol": "CSGP",
+        "actualEarningResult": 0.00596,
+        "estimatedEarning": 0.07
+    },
+    {
+        "date": "2005-07-20",
+        "symbol": "CSGP",
+        "actualEarningResult": 0.00606,
+        "estimatedEarning": 0.06
+    },
+    {
+        "date": "2005-04-19",
+        "symbol": "CSGP",
+        "actualEarningResult": 0.00516,
+        "estimatedEarning": 0.05
+    },
+    {
+        "date": "2005-02-16",
+        "symbol": "CSGP",
+        "actualEarningResult": 0.1,
+        "estimatedEarning": 0.14
+    },
+    {
+        "date": "2004-10-19",
+        "symbol": "CSGP",
+        "actualEarningResult": 0.01253,
+        "estimatedEarning": 0.01927
+    },
+    {
+        "date": "2004-07-20",
+        "symbol": "CSGP",
+        "actualEarningResult": 0.00925,
+        "estimatedEarning": 0.01767
+    },
+    {
+        "date": "2004-04-20",
+        "symbol": "CSGP",
+        "actualEarningResult": 0.00792,
+        "estimatedEarning": 0.01584
+    },
+    {
+        "date": "2004-02-17",
+        "symbol": "CSGP",
+        "actualEarningResult": 0.02,
+        "estimatedEarning": 0.15
+    },
+    {
+        "date": "2003-10-14",
+        "symbol": "CSGP",
+        "actualEarningResult": 0.0017,
+        "estimatedEarning": 0.12
+    },
+    {
+        "date": "2003-07-22",
+        "symbol": "CSGP",
+        "actualEarningResult": -0.00231,
+        "estimatedEarning": 0.08
+    },
+    {
+        "date": "2003-04-23",
+        "symbol": "CSGP",
+        "actualEarningResult": -0.00533,
+        "estimatedEarning": 0.05
+    },
+    {
+        "date": "2003-02-18",
+        "symbol": "CSGP",
+        "actualEarningResult": -0.00487,
+        "estimatedEarning": -0.0039
+    },
+    {
+        "date": "2002-10-22",
+        "symbol": "CSGP",
+        "actualEarningResult": -0.00713,
+        "estimatedEarning": -0.00554
+    },
+    {
+        "date": "2002-07-23",
+        "symbol": "CSGP",
+        "actualEarningResult": -0.00805,
+        "estimatedEarning": -0.00402
+    },
+    {
+        "date": "2002-04-23",
+        "symbol": "CSGP",
+        "actualEarningResult": -0.01032,
+        "estimatedEarning": -0.00774
+    },
+    {
+        "date": "2002-02-13",
+        "symbol": "CSGP",
+        "actualEarningResult": -0.01663,
+        "estimatedEarning": -0.00416
+    },
+    {
+        "date": "2001-10-24",
+        "symbol": "CSGP",
+        "actualEarningResult": -0.02563,
+        "estimatedEarning": -0.09
+    },
+    {
+        "date": "2001-07-24",
+        "symbol": "CSGP",
+        "actualEarningResult": -0.02,
+        "estimatedEarning": -0.01785
+    },
+    {
+        "date": "2001-04-25",
+        "symbol": "CSGP",
+        "actualEarningResult": -0.03,
+        "estimatedEarning": -0.02597
+    },
+    {
+        "date": "2001-02-21",
+        "symbol": "CSGP",
+        "actualEarningResult": -0.04,
+        "estimatedEarning": -0.05
+    },
+    {
+        "date": "2000-10-25",
+        "symbol": "CSGP",
+        "actualEarningResult": -0.05,
+        "estimatedEarning": -0.06
+    },
+    {
+        "date": "2000-08-02",
+        "symbol": "CSGP",
+        "actualEarningResult": -0.08,
+        "estimatedEarning": -0.08
+    },
+    {
+        "date": "2000-06-23",
+        "symbol": "CSGP",
+        "actualEarningResult": -0.11,
+        "estimatedEarning": -0.06
+    },
+    {
+        "date": "2000-02-28",
+        "symbol": "CSGP",
+        "actualEarningResult": -0.03,
+        "estimatedEarning": -0.02748
+    },
+    {
+        "date": "1999-10-19",
+        "symbol": "CSGP",
+        "actualEarningResult": -0.02,
+        "estimatedEarning": -0.01807
+    },
+    {
+        "date": "1999-07-28",
+        "symbol": "CSGP",
+        "actualEarningResult": -0.02,
+        "estimatedEarning": -0.02
+    }
+]

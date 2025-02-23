@@ -1,0 +1,188 @@
+[
+    {
+        "date": "2024-10-30",
+        "symbol": "INVH",
+        "actualEarningResult": 0.15,
+        "estimatedEarning": 0.17
+    },
+    {
+        "date": "2024-07-24",
+        "symbol": "INVH",
+        "actualEarningResult": 0.12,
+        "estimatedEarning": 0.18
+    },
+    {
+        "date": "2024-04-30",
+        "symbol": "INVH",
+        "actualEarningResult": 0.23,
+        "estimatedEarning": 0.46
+    },
+    {
+        "date": "2024-02-13",
+        "symbol": "INVH",
+        "actualEarningResult": 0.21,
+        "estimatedEarning": 0.45
+    },
+    {
+        "date": "2023-10-25",
+        "symbol": "INVH",
+        "actualEarningResult": 0.21,
+        "estimatedEarning": 0.45
+    },
+    {
+        "date": "2023-07-26",
+        "symbol": "INVH",
+        "actualEarningResult": 0.22,
+        "estimatedEarning": 0.45
+    },
+    {
+        "date": "2023-05-01",
+        "symbol": "INVH",
+        "actualEarningResult": 0.2,
+        "estimatedEarning": 0.44
+    },
+    {
+        "date": "2023-02-15",
+        "symbol": "INVH",
+        "actualEarningResult": 0.16,
+        "estimatedEarning": 0.15
+    },
+    {
+        "date": "2022-10-26",
+        "symbol": "INVH",
+        "actualEarningResult": 0.13,
+        "estimatedEarning": 0.16
+    },
+    {
+        "date": "2022-07-27",
+        "symbol": "INVH",
+        "actualEarningResult": 0.18,
+        "estimatedEarning": 0.15
+    },
+    {
+        "date": "2022-04-27",
+        "symbol": "INVH",
+        "actualEarningResult": 0.15,
+        "estimatedEarning": 0.14
+    },
+    {
+        "date": "2022-02-15",
+        "symbol": "INVH",
+        "actualEarningResult": 0.12,
+        "estimatedEarning": 0.12
+    },
+    {
+        "date": "2021-10-27",
+        "symbol": "INVH",
+        "actualEarningResult": 0.12,
+        "estimatedEarning": 0.1
+    },
+    {
+        "date": "2021-07-28",
+        "symbol": "INVH",
+        "actualEarningResult": 0.11,
+        "estimatedEarning": 0.08
+    },
+    {
+        "date": "2021-04-28",
+        "symbol": "INVH",
+        "actualEarningResult": 0.1,
+        "estimatedEarning": 0.07
+    },
+    {
+        "date": "2021-02-16",
+        "symbol": "INVH",
+        "actualEarningResult": 0.13,
+        "estimatedEarning": 0.06
+    },
+    {
+        "date": "2020-10-28",
+        "symbol": "INVH",
+        "actualEarningResult": 0.06,
+        "estimatedEarning": 0.04429
+    },
+    {
+        "date": "2020-08-03",
+        "symbol": "INVH",
+        "actualEarningResult": 0.08,
+        "estimatedEarning": 0.06
+    },
+    {
+        "date": "2020-05-06",
+        "symbol": "INVH",
+        "actualEarningResult": 0.09,
+        "estimatedEarning": 0.05
+    },
+    {
+        "date": "2020-02-18",
+        "symbol": "INVH",
+        "actualEarningResult": 0.1,
+        "estimatedEarning": 0.06
+    },
+    {
+        "date": "2019-10-29",
+        "symbol": "INVH",
+        "actualEarningResult": 0.06,
+        "estimatedEarning": 0.03375
+    },
+    {
+        "date": "2019-07-30",
+        "symbol": "INVH",
+        "actualEarningResult": 0.07,
+        "estimatedEarning": 0.025
+    },
+    {
+        "date": "2019-05-06",
+        "symbol": "INVH",
+        "actualEarningResult": 0.04,
+        "estimatedEarning": 0.02
+    },
+    {
+        "date": "2019-02-14",
+        "symbol": "INVH",
+        "actualEarningResult": 0.11,
+        "estimatedEarning": 0.3
+    },
+    {
+        "date": "2018-11-05",
+        "symbol": "INVH",
+        "actualEarningResult": 0.00158,
+        "estimatedEarning": 0.29
+    },
+    {
+        "date": "2018-08-09",
+        "symbol": "INVH",
+        "actualEarningResult": 0.02,
+        "estimatedEarning": 0.29
+    },
+    {
+        "date": "2018-05-14",
+        "symbol": "INVH",
+        "actualEarningResult": -0.03,
+        "estimatedEarning": 0.28
+    },
+    {
+        "date": "2018-02-21",
+        "symbol": "INVH",
+        "actualEarningResult": -0.11,
+        "estimatedEarning": 0.27
+    },
+    {
+        "date": "2017-11-08",
+        "symbol": "INVH",
+        "actualEarningResult": -0.07,
+        "estimatedEarning": 0.08
+    },
+    {
+        "date": "2017-08-10",
+        "symbol": "INVH",
+        "actualEarningResult": 0.02,
+        "estimatedEarning": 0.024
+    },
+    {
+        "date": "2017-05-11",
+        "symbol": "INVH",
+        "actualEarningResult": -0.14,
+        "estimatedEarning": 0.25
+    }
+]

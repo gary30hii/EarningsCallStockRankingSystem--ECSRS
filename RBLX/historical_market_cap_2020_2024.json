@@ -1,0 +1,4802 @@
+[
+    {
+        "symbol": "RBLX",
+        "date": "2024-12-31",
+        "marketCap": 37664603460
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2024-12-30",
+        "marketCap": 38068199280
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2024-12-27",
+        "marketCap": 38699631450
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2024-12-26",
+        "marketCap": 39012092730
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2024-12-24",
+        "marketCap": 38771237160
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2024-12-23",
+        "marketCap": 38582458470
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2024-12-20",
+        "marketCap": 39129265710
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2024-12-19",
+        "marketCap": 38348112510
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2024-12-18",
+        "marketCap": 38276506800
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2024-12-17",
+        "marketCap": 39871361250
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2024-12-16",
+        "marketCap": 40001553450
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2024-12-13",
+        "marketCap": 38797275600
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2024-12-12",
+        "marketCap": 38803785210
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2024-12-11",
+        "marketCap": 38986054290
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2024-12-10",
+        "marketCap": 36623065860
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2024-12-09",
+        "marketCap": 37059209730
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2024-12-06",
+        "marketCap": 38608496910
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2024-12-05",
+        "marketCap": 38367641340
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2024-12-04",
+        "marketCap": 35503412940
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2024-12-03",
+        "marketCap": 34845942330
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2024-12-02",
+        "marketCap": 33954125759
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2024-11-29",
+        "marketCap": 32632674930
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2024-11-27",
+        "marketCap": 32137944570
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2024-11-26",
+        "marketCap": 31936146660
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2024-11-25",
+        "marketCap": 32001242759
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2024-11-22",
+        "marketCap": 32144454180
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2024-11-21",
+        "marketCap": 32124925350
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2024-11-20",
+        "marketCap": 33537510720
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2024-11-19",
+        "marketCap": 34006202640
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2024-11-18",
+        "marketCap": 33218539830
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2024-11-15",
+        "marketCap": 33023251529
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2024-11-14",
+        "marketCap": 34325173529
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2024-11-13",
+        "marketCap": 34592067540
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2024-11-12",
+        "marketCap": 35399259180
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2024-11-11",
+        "marketCap": 35516432160
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2024-11-08",
+        "marketCap": 34110356400
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2024-11-07",
+        "marketCap": 34572538710
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2024-11-06",
+        "marketCap": 34435836900
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2024-11-05",
+        "marketCap": 33316183980
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2024-11-04",
+        "marketCap": 32548050000
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2024-11-01",
+        "marketCap": 33485433840
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2024-10-31",
+        "marketCap": 33667702920
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2024-10-30",
+        "marketCap": 28082457540
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2024-10-29",
+        "marketCap": 27737448210
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2024-10-28",
+        "marketCap": 27535650300
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2024-10-25",
+        "marketCap": 27088181960
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2024-10-24",
+        "marketCap": 26856768920
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2024-10-23",
+        "marketCap": 26458224239
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2024-10-22",
+        "marketCap": 26541790060
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2024-10-21",
+        "marketCap": 25911832340
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2024-10-18",
+        "marketCap": 25667563020
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2024-10-17",
+        "marketCap": 25622566040
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2024-10-16",
+        "marketCap": 26606071460
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2024-10-15",
+        "marketCap": 26201098640
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2024-10-14",
+        "marketCap": 26220383060
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2024-10-11",
+        "marketCap": 26741062400
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2024-10-10",
+        "marketCap": 26612499600
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2024-10-09",
+        "marketCap": 26831056360
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2024-10-08",
+        "marketCap": 26040395140
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2024-10-07",
+        "marketCap": 26606071460
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2024-10-04",
+        "marketCap": 26991759860
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2024-10-03",
+        "marketCap": 27113894520
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2024-10-02",
+        "marketCap": 27891699460
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2024-10-01",
+        "marketCap": 27981693420
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2024-09-30",
+        "marketCap": 28450947640
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2024-09-27",
+        "marketCap": 28399522520
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2024-09-26",
+        "marketCap": 28843064180
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2024-09-25",
+        "marketCap": 30623658960
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2024-09-24",
+        "marketCap": 30282967540
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2024-09-23",
+        "marketCap": 29267321420
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2024-09-20",
+        "marketCap": 29588728420
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2024-09-19",
+        "marketCap": 29762288200
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2024-09-18",
+        "marketCap": 29106617920
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2024-09-17",
+        "marketCap": 29402312360
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2024-09-16",
+        "marketCap": 29723719360
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2024-09-13",
+        "marketCap": 29485878180
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2024-09-12",
+        "marketCap": 29190183739
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2024-09-11",
+        "marketCap": 28920201860
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2024-09-10",
+        "marketCap": 28862348600
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2024-09-09",
+        "marketCap": 28039546680
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2024-09-06",
+        "marketCap": 28052402960
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2024-09-05",
+        "marketCap": 28097399940
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2024-09-04",
+        "marketCap": 27808133640
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2024-09-03",
+        "marketCap": 27589576880
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2024-08-30",
+        "marketCap": 28277387860
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2024-08-29",
+        "marketCap": 28007405980
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2024-08-28",
+        "marketCap": 28367381820
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2024-08-27",
+        "marketCap": 28386666239
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2024-08-26",
+        "marketCap": 28245247160
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2024-08-23",
+        "marketCap": 28386666239
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2024-08-22",
+        "marketCap": 27872415040
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2024-08-21",
+        "marketCap": 27865986900
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2024-08-20",
+        "marketCap": 26059679560
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2024-08-19",
+        "marketCap": 26265380040
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2024-08-16",
+        "marketCap": 26091820260
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2024-08-15",
+        "marketCap": 26033967000
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2024-08-14",
+        "marketCap": 25127599260
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2024-08-13",
+        "marketCap": 24909042500
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2024-08-12",
+        "marketCap": 23989818480
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2024-08-09",
+        "marketCap": 23796974280
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2024-08-08",
+        "marketCap": 23893396380
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2024-08-07",
+        "marketCap": 23257010520
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2024-08-06",
+        "marketCap": 24214803380
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2024-08-05",
+        "marketCap": 23481995420
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2024-08-02",
+        "marketCap": 25095458560
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2024-08-01",
+        "marketCap": 24973323900
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2024-07-31",
+        "marketCap": 26689637280
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2024-07-30",
+        "marketCap": 26374658420
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2024-07-29",
+        "marketCap": 26078963980
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2024-07-26",
+        "marketCap": 25724660200
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2024-07-25",
+        "marketCap": 25743710800
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2024-07-24",
+        "marketCap": 25375399200
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2024-07-23",
+        "marketCap": 26086621600
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2024-07-22",
+        "marketCap": 26035820000
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2024-07-19",
+        "marketCap": 25731010400
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2024-07-18",
+        "marketCap": 25267445800
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2024-07-17",
+        "marketCap": 25400800000
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2024-07-16",
+        "marketCap": 26213625600
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2024-07-15",
+        "marketCap": 26105672200
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2024-07-12",
+        "marketCap": 25737360600
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2024-07-11",
+        "marketCap": 24460970400
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2024-07-10",
+        "marketCap": 25184893199
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2024-07-09",
+        "marketCap": 25013437800
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2024-07-08",
+        "marketCap": 25286496400
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2024-07-05",
+        "marketCap": 24562573600
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2024-07-03",
+        "marketCap": 23984705400
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2024-07-02",
+        "marketCap": 23584642800
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2024-07-01",
+        "marketCap": 23533841200
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2024-06-28",
+        "marketCap": 23629094200
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2024-06-27",
+        "marketCap": 23635444400
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2024-06-26",
+        "marketCap": 23438588199
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2024-06-25",
+        "marketCap": 22498758600
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2024-06-24",
+        "marketCap": 22346353800
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2024-06-21",
+        "marketCap": 22962323199
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2024-06-20",
+        "marketCap": 22771817200
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2024-06-18",
+        "marketCap": 22797218000
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2024-06-17",
+        "marketCap": 22797218000
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2024-06-14",
+        "marketCap": 22289202000
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2024-06-13",
+        "marketCap": 22555910400
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2024-06-12",
+        "marketCap": 22879770600
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2024-06-11",
+        "marketCap": 22536859800
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2024-06-10",
+        "marketCap": 22219349800
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2024-06-07",
+        "marketCap": 22625762600
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2024-06-06",
+        "marketCap": 22632112800
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2024-06-05",
+        "marketCap": 22606712000
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2024-06-04",
+        "marketCap": 22225700000
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2024-06-03",
+        "marketCap": 21895489599
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2024-05-31",
+        "marketCap": 21349372400
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2024-05-30",
+        "marketCap": 21050913000
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2024-05-29",
+        "marketCap": 21025512200
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2024-05-28",
+        "marketCap": 20930259200
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2024-05-24",
+        "marketCap": 20746103400
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2024-05-23",
+        "marketCap": 20301589400
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2024-05-22",
+        "marketCap": 21038212600
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2024-05-21",
+        "marketCap": 20669901000
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2024-05-20",
+        "marketCap": 21330321800
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2024-05-17",
+        "marketCap": 20892158000
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2024-05-16",
+        "marketCap": 20803255200
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2024-05-15",
+        "marketCap": 20962010200
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2024-05-14",
+        "marketCap": 20104733200
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2024-05-13",
+        "marketCap": 19660219200
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2024-05-10",
+        "marketCap": 19971379000
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2024-05-09",
+        "marketCap": 19317308400
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2024-05-08",
+        "marketCap": 24784830600
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2024-05-07",
+        "marketCap": 25743710800
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2024-05-06",
+        "marketCap": 25470652200
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2024-05-03",
+        "marketCap": 24596299080
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2024-05-02",
+        "marketCap": 23405346780
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2024-05-01",
+        "marketCap": 22928965860
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2024-04-30",
+        "marketCap": 22289612520
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2024-04-29",
+        "marketCap": 22916429520
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2024-04-26",
+        "marketCap": 22571680170
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2024-04-25",
+        "marketCap": 22270808010
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2024-04-24",
+        "marketCap": 21919790490
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2024-04-23",
+        "marketCap": 22753457100
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2024-04-22",
+        "marketCap": 21913522320
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2024-04-19",
+        "marketCap": 22151712780
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2024-04-18",
+        "marketCap": 22283344350
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2024-04-17",
+        "marketCap": 22797334290
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2024-04-16",
+        "marketCap": 22966574880
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2024-04-15",
+        "marketCap": 22979111219
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2024-04-12",
+        "marketCap": 24050968290
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2024-04-11",
+        "marketCap": 24608835420
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2024-04-10",
+        "marketCap": 24947316600
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2024-04-09",
+        "marketCap": 24502276530
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2024-04-08",
+        "marketCap": 23956945740
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2024-04-05",
+        "marketCap": 23706218940
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2024-04-04",
+        "marketCap": 23066865600
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2024-04-03",
+        "marketCap": 22841211480
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2024-04-02",
+        "marketCap": 23041792920
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2024-04-01",
+        "marketCap": 23718755280
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2024-03-28",
+        "marketCap": 23931873060
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2024-03-27",
+        "marketCap": 23743827960
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2024-03-26",
+        "marketCap": 23374005930
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2024-03-25",
+        "marketCap": 22979111219
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2024-03-22",
+        "marketCap": 23355201420
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2024-03-21",
+        "marketCap": 23624732730
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2024-03-20",
+        "marketCap": 23706218940
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2024-03-19",
+        "marketCap": 22853747820
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2024-03-18",
+        "marketCap": 22690775400
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2024-03-15",
+        "marketCap": 24596299080
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2024-03-14",
+        "marketCap": 25480111050
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2024-03-13",
+        "marketCap": 25317138630
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2024-03-12",
+        "marketCap": 25580401770
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2024-03-11",
+        "marketCap": 26351386680
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2024-03-08",
+        "marketCap": 25035070980
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2024-03-07",
+        "marketCap": 25147898040
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2024-03-06",
+        "marketCap": 24991193790
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2024-03-05",
+        "marketCap": 24364376790
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2024-03-04",
+        "marketCap": 24859562219
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2024-03-01",
+        "marketCap": 25900078440
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2024-02-29",
+        "marketCap": 25009998300
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2024-02-28",
+        "marketCap": 25172970719
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2024-02-27",
+        "marketCap": 25592938110
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2024-02-26",
+        "marketCap": 25881273930
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2024-02-23",
+        "marketCap": 25987832820
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2024-02-22",
+        "marketCap": 26583308969
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2024-02-21",
+        "marketCap": 25536524580
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2024-02-20",
+        "marketCap": 25956491969
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2024-02-16",
+        "marketCap": 26896717469
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2024-02-15",
+        "marketCap": 27855747480
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2024-02-14",
+        "marketCap": 27667702380
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2024-02-13",
+        "marketCap": 26526895440
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2024-02-12",
+        "marketCap": 27416975580
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2024-02-09",
+        "marketCap": 27830674800
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2024-02-08",
+        "marketCap": 28125278790
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2024-02-07",
+        "marketCap": 28043792580
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2024-02-06",
+        "marketCap": 25448770200
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2024-02-05",
+        "marketCap": 24665248950
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2024-02-02",
+        "marketCap": 25492647390
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2024-02-01",
+        "marketCap": 24652712610
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2024-01-31",
+        "marketCap": 24326767770
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2024-01-30",
+        "marketCap": 24533617380
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2024-01-29",
+        "marketCap": 25812324060
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2024-01-26",
+        "marketCap": 25329674969
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2024-01-25",
+        "marketCap": 25900078440
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2024-01-24",
+        "marketCap": 25586669940
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2024-01-23",
+        "marketCap": 25561597260
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2024-01-22",
+        "marketCap": 25373552159
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2024-01-19",
+        "marketCap": 24251549730
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2024-01-18",
+        "marketCap": 24376913130
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2024-01-17",
+        "marketCap": 24245281560
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2024-01-16",
+        "marketCap": 24665248950
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2024-01-12",
+        "marketCap": 25649351640
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2024-01-11",
+        "marketCap": 26602113480
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2024-01-10",
+        "marketCap": 26188414260
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2024-01-09",
+        "marketCap": 26501822760
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2024-01-08",
+        "marketCap": 26464213740
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2024-01-05",
+        "marketCap": 26163341580
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2024-01-04",
+        "marketCap": 26740013219
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2024-01-03",
+        "marketCap": 26269900469
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2024-01-02",
+        "marketCap": 26946862830
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2023-12-29",
+        "marketCap": 28658073240
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2023-12-28",
+        "marketCap": 29103113310
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2023-12-27",
+        "marketCap": 29366376450
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2023-12-26",
+        "marketCap": 29071772460
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2023-12-22",
+        "marketCap": 28814777490
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2023-12-21",
+        "marketCap": 27880820159
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2023-12-20",
+        "marketCap": 27473389110
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2023-12-19",
+        "marketCap": 28037524409
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2023-12-18",
+        "marketCap": 27887088330
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2023-12-15",
+        "marketCap": 27529802640
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2023-12-14",
+        "marketCap": 27905892840
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2023-12-13",
+        "marketCap": 27147444270
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2023-12-12",
+        "marketCap": 26351386680
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2023-12-11",
+        "marketCap": 25379820330
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2023-12-08",
+        "marketCap": 25592938110
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2023-12-07",
+        "marketCap": 24984925620
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2023-12-06",
+        "marketCap": 25047607320
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2023-12-05",
+        "marketCap": 25492647390
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2023-12-04",
+        "marketCap": 25843664909
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2023-12-01",
+        "marketCap": 25354747650
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2023-11-30",
+        "marketCap": 24640176270
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2023-11-29",
+        "marketCap": 24245281560
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2023-11-28",
+        "marketCap": 24458399340
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2023-11-27",
+        "marketCap": 24195136200
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2023-11-24",
+        "marketCap": 23906800380
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2023-11-22",
+        "marketCap": 23706218940
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2023-11-21",
+        "marketCap": 23016720240
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2023-11-20",
+        "marketCap": 23731291620
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2023-11-17",
+        "marketCap": 23762632469
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2023-11-16",
+        "marketCap": 24044700120
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2023-11-15",
+        "marketCap": 24922243920
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2023-11-14",
+        "marketCap": 24596299080
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2023-11-13",
+        "marketCap": 24289158750
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2023-11-10",
+        "marketCap": 24082309140
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2023-11-09",
+        "marketCap": 23850386850
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2023-11-08",
+        "marketCap": 24583762740
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2023-11-07",
+        "marketCap": 21982472190
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2023-11-06",
+        "marketCap": 21217755450
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2023-11-03",
+        "marketCap": 21875913300
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2023-11-02",
+        "marketCap": 21035978520
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2023-11-01",
+        "marketCap": 19957853280
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2023-10-31",
+        "marketCap": 19939048770
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2023-10-30",
+        "marketCap": 19895171580
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2023-10-27",
+        "marketCap": 19425058830
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2023-10-26",
+        "marketCap": 19149259350
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2023-10-25",
+        "marketCap": 19494008700
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2023-10-24",
+        "marketCap": 20509452240
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2023-10-23",
+        "marketCap": 19161795690
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2023-10-20",
+        "marketCap": 19901439750
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2023-10-19",
+        "marketCap": 19851294390
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2023-10-18",
+        "marketCap": 18923605230
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2023-10-17",
+        "marketCap": 19431327000
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2023-10-16",
+        "marketCap": 19061504970
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2023-10-13",
+        "marketCap": 19124186670
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2023-10-12",
+        "marketCap": 19826221710
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2023-10-11",
+        "marketCap": 19907707920
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2023-10-10",
+        "marketCap": 19374913470
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2023-10-09",
+        "marketCap": 18936141570
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2023-10-06",
+        "marketCap": 19092845820
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2023-10-05",
+        "marketCap": 18691682940
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2023-10-04",
+        "marketCap": 18547515030
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2023-10-03",
+        "marketCap": 17814139140
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2023-10-02",
+        "marketCap": 17977111560
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2023-09-29",
+        "marketCap": 17936376000
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2023-09-28",
+        "marketCap": 17236510500
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2023-09-27",
+        "marketCap": 16963996500
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2023-09-26",
+        "marketCap": 16728643500
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2023-09-25",
+        "marketCap": 16189809000
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2023-09-22",
+        "marketCap": 15725296500
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2023-09-21",
+        "marketCap": 15675748500
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2023-09-20",
+        "marketCap": 16257937500
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2023-09-19",
+        "marketCap": 16697676000
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2023-09-18",
+        "marketCap": 17100253500
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2023-09-15",
+        "marketCap": 17286058500
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2023-09-14",
+        "marketCap": 17186962500
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2023-09-13",
+        "marketCap": 17180769000
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2023-09-12",
+        "marketCap": 18091213500
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2023-09-11",
+        "marketCap": 17682442500
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2023-09-08",
+        "marketCap": 17967343500
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2023-09-07",
+        "marketCap": 17831086500
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2023-09-06",
+        "marketCap": 18016891500
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2023-09-05",
+        "marketCap": 18041665500
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2023-09-01",
+        "marketCap": 17614314000
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2023-08-31",
+        "marketCap": 17521411500
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2023-08-30",
+        "marketCap": 17453283000
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2023-08-29",
+        "marketCap": 17193156000
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2023-08-28",
+        "marketCap": 16784385000
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2023-08-25",
+        "marketCap": 16604773500
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2023-08-24",
+        "marketCap": 16443742500
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2023-08-23",
+        "marketCap": 16363227000
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2023-08-22",
+        "marketCap": 16487097000
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2023-08-21",
+        "marketCap": 16697676000
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2023-08-18",
+        "marketCap": 17038318500
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2023-08-17",
+        "marketCap": 17248897500
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2023-08-16",
+        "marketCap": 18109794000
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2023-08-15",
+        "marketCap": 18438049500
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2023-08-14",
+        "marketCap": 18914949000
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2023-08-11",
+        "marketCap": 18475210500
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2023-08-10",
+        "marketCap": 18958303500
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2023-08-09",
+        "marketCap": 18246051000
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2023-08-08",
+        "marketCap": 23374269000
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2023-08-07",
+        "marketCap": 23287560000
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2023-08-04",
+        "marketCap": 23213237999
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2023-08-03",
+        "marketCap": 22717758000
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2023-08-02",
+        "marketCap": 23306140500
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2023-08-01",
+        "marketCap": 24420970500
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2023-07-31",
+        "marketCap": 24309487500
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2023-07-28",
+        "marketCap": 24111295500
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2023-07-27",
+        "marketCap": 23479558499
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2023-07-26",
+        "marketCap": 24743032500
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2023-07-25",
+        "marketCap": 24563420999
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2023-07-24",
+        "marketCap": 24495292500
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2023-07-21",
+        "marketCap": 25127029500
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2023-07-20",
+        "marketCap": 25418124000
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2023-07-19",
+        "marketCap": 27784041000
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2023-07-18",
+        "marketCap": 28205199000
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2023-07-17",
+        "marketCap": 27536301000
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2023-07-14",
+        "marketCap": 26632050000
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2023-07-13",
+        "marketCap": 27437205000
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2023-07-12",
+        "marketCap": 26916951000
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2023-07-11",
+        "marketCap": 27028434000
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2023-07-10",
+        "marketCap": 25783540500
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2023-07-07",
+        "marketCap": 25486252500
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2023-07-06",
+        "marketCap": 24761612999
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2023-07-05",
+        "marketCap": 25839282000
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2023-07-03",
+        "marketCap": 26074635000
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2023-06-30",
+        "marketCap": 24959805000
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2023-06-29",
+        "marketCap": 23735571860
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2023-06-28",
+        "marketCap": 24519813780
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2023-06-27",
+        "marketCap": 25622653980
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2023-06-26",
+        "marketCap": 24023535690
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2023-06-23",
+        "marketCap": 23190278650
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2023-06-22",
+        "marketCap": 23980647460
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2023-06-21",
+        "marketCap": 23649795400
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2023-06-20",
+        "marketCap": 25592019530
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2023-06-16",
+        "marketCap": 25610400200
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2023-06-15",
+        "marketCap": 24893554070
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2023-06-14",
+        "marketCap": 24452417989
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2023-06-13",
+        "marketCap": 24679112920
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2023-06-12",
+        "marketCap": 23864236550
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2023-06-09",
+        "marketCap": 23704937410
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2023-06-08",
+        "marketCap": 23815221430
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2023-06-07",
+        "marketCap": 23674302960
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2023-06-06",
+        "marketCap": 25322436370
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2023-06-05",
+        "marketCap": 24991584310
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2023-06-02",
+        "marketCap": 24715874260
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2023-06-01",
+        "marketCap": 25812587570
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2023-05-31",
+        "marketCap": 25647161540
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2023-05-30",
+        "marketCap": 24256357510
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2023-05-26",
+        "marketCap": 24581082680
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2023-05-25",
+        "marketCap": 24207342390
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2023-05-24",
+        "marketCap": 24820031390
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2023-05-23",
+        "marketCap": 24299245739
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2023-05-22",
+        "marketCap": 24195088610
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2023-05-19",
+        "marketCap": 24513686890
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2023-05-18",
+        "marketCap": 25775826230
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2023-05-17",
+        "marketCap": 25628780870
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2023-05-16",
+        "marketCap": 24048043250
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2023-05-15",
+        "marketCap": 23876490330
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2023-05-12",
+        "marketCap": 24115439040
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2023-05-11",
+        "marketCap": 24434037320
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2023-05-10",
+        "marketCap": 23815221430
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2023-05-09",
+        "marketCap": 22173214910
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2023-05-08",
+        "marketCap": 22228356920
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2023-05-05",
+        "marketCap": 21474749450
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2023-05-04",
+        "marketCap": 21125516719
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2023-05-03",
+        "marketCap": 20972344469
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2023-05-02",
+        "marketCap": 21107136050
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2023-05-01",
+        "marketCap": 22056804000
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2023-04-28",
+        "marketCap": 21811728400
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2023-04-27",
+        "marketCap": 21774967060
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2023-04-26",
+        "marketCap": 21909758640
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2023-04-25",
+        "marketCap": 23018725730
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2023-04-24",
+        "marketCap": 23931632340
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2023-04-21",
+        "marketCap": 24936442300
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2023-04-20",
+        "marketCap": 25310182590
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2023-04-19",
+        "marketCap": 25175391010
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2023-04-18",
+        "marketCap": 25003838090
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2023-04-17",
+        "marketCap": 24636224690
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2023-04-14",
+        "marketCap": 27999887300
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2023-04-13",
+        "marketCap": 27999887300
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2023-04-12",
+        "marketCap": 27693542800
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2023-04-11",
+        "marketCap": 28220455340
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2023-04-10",
+        "marketCap": 28447150270
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2023-04-06",
+        "marketCap": 28306231800
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2023-04-05",
+        "marketCap": 27809953710
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2023-04-04",
+        "marketCap": 28361373810
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2023-04-03",
+        "marketCap": 28441023380
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2023-03-31",
+        "marketCap": 27558751219
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2023-03-30",
+        "marketCap": 26152121070
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2023-03-29",
+        "marketCap": 26091457370
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2023-03-28",
+        "marketCap": 25387758450
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2023-03-27",
+        "marketCap": 25642545990
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2023-03-24",
+        "marketCap": 26346244910
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2023-03-23",
+        "marketCap": 25521218590
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2023-03-22",
+        "marketCap": 25994395450
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2023-03-21",
+        "marketCap": 27140939380
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2023-03-20",
+        "marketCap": 26303780320
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2023-03-17",
+        "marketCap": 26503970530
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2023-03-16",
+        "marketCap": 27498855210
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2023-03-15",
+        "marketCap": 25915532640
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2023-03-14",
+        "marketCap": 26200652030
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2023-03-13",
+        "marketCap": 25120838169
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2023-03-10",
+        "marketCap": 24295811850
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2023-03-09",
+        "marketCap": 24229081780
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2023-03-08",
+        "marketCap": 25084439950
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2023-03-07",
+        "marketCap": 25217900090
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2023-03-06",
+        "marketCap": 24611263090
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2023-03-03",
+        "marketCap": 25096572690
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2023-03-02",
+        "marketCap": 23798369510
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2023-03-01",
+        "marketCap": 22736754760
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2023-02-28",
+        "marketCap": 22227179680
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2023-02-27",
+        "marketCap": 22233246050
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2023-02-24",
+        "marketCap": 22421303520
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2023-02-23",
+        "marketCap": 22676091060
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2023-02-22",
+        "marketCap": 22779219350
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2023-02-21",
+        "marketCap": 22785285720
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2023-02-17",
+        "marketCap": 24799320560
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2023-02-16",
+        "marketCap": 26437240460
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2023-02-15",
+        "marketCap": 27347195960
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2023-02-14",
+        "marketCap": 21638741790
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2023-02-13",
+        "marketCap": 20886511910
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2023-02-10",
+        "marketCap": 21123100340
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2023-02-09",
+        "marketCap": 22081586800
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2023-02-08",
+        "marketCap": 22754953870
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2023-02-07",
+        "marketCap": 23458652790
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2023-02-06",
+        "marketCap": 23652776630
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2023-02-03",
+        "marketCap": 23379789980
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2023-02-02",
+        "marketCap": 24556665760
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2023-02-01",
+        "marketCap": 23197798880
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2023-01-31",
+        "marketCap": 22572962770
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2023-01-30",
+        "marketCap": 21553812610
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2023-01-27",
+        "marketCap": 22900546750
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2023-01-26",
+        "marketCap": 21820732890
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2023-01-25",
+        "marketCap": 21656940900
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2023-01-24",
+        "marketCap": 21590210830
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2023-01-23",
+        "marketCap": 22148316870
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2023-01-20",
+        "marketCap": 21462817060
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2023-01-19",
+        "marketCap": 20267742169
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2023-01-18",
+        "marketCap": 21693339120
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2023-01-17",
+        "marketCap": 22518365440
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2023-01-13",
+        "marketCap": 20146414770
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2023-01-12",
+        "marketCap": 20128215660
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2023-01-11",
+        "marketCap": 19958357300
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2023-01-10",
+        "marketCap": 19418450370
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2023-01-09",
+        "marketCap": 18666220490
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2023-01-06",
+        "marketCap": 17519676560
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2023-01-05",
+        "marketCap": 18186977260
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2023-01-04",
+        "marketCap": 17616738480
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2023-01-03",
+        "marketCap": 16894840450
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2022-12-30",
+        "marketCap": 17128907140
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2022-12-29",
+        "marketCap": 16304360310
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2022-12-28",
+        "marketCap": 15744631440
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2022-12-27",
+        "marketCap": 15846947469
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2022-12-23",
+        "marketCap": 16099728250
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2022-12-22",
+        "marketCap": 15907133370
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2022-12-21",
+        "marketCap": 16906219310
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2022-12-20",
+        "marketCap": 16599271219
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2022-12-19",
+        "marketCap": 16364546210
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2022-12-16",
+        "marketCap": 16623345580
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2022-12-15",
+        "marketCap": 16797884690
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2022-12-14",
+        "marketCap": 19939588670
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2022-12-13",
+        "marketCap": 19409952750
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2022-12-12",
+        "marketCap": 20053941880
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2022-12-09",
+        "marketCap": 19048837350
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2022-12-08",
+        "marketCap": 19217357870
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2022-12-07",
+        "marketCap": 18519201430
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2022-12-06",
+        "marketCap": 18446978350
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2022-12-05",
+        "marketCap": 18802075160
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2022-12-02",
+        "marketCap": 20457187410
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2022-12-01",
+        "marketCap": 20096072010
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2022-11-30",
+        "marketCap": 19121060430
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2022-11-29",
+        "marketCap": 17953453970
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2022-11-28",
+        "marketCap": 18585405920
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2022-11-25",
+        "marketCap": 19115041840
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2022-11-23",
+        "marketCap": 19259488000
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2022-11-22",
+        "marketCap": 18561331560
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2022-11-21",
+        "marketCap": 18519201430
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2022-11-18",
+        "marketCap": 19090967480
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2022-11-17",
+        "marketCap": 19578473270
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2022-11-16",
+        "marketCap": 20709968189
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2022-11-15",
+        "marketCap": 22106281070
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2022-11-14",
+        "marketCap": 21426180400
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2022-11-11",
+        "marketCap": 22112299660
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2022-11-10",
+        "marketCap": 20300704070
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2022-11-09",
+        "marketCap": 18609480280
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2022-11-08",
+        "marketCap": 23556761260
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2022-11-07",
+        "marketCap": 23966025380
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2022-11-04",
+        "marketCap": 24423438220
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2022-11-03",
+        "marketCap": 26060494700
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2022-11-02",
+        "marketCap": 25801695330
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2022-11-01",
+        "marketCap": 26668372290
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2022-10-31",
+        "marketCap": 26927171660
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2022-10-28",
+        "marketCap": 27553105020
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2022-10-27",
+        "marketCap": 27986443500
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2022-10-26",
+        "marketCap": 27384584500
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2022-10-25",
+        "marketCap": 27510974890
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2022-10-24",
+        "marketCap": 25187799150
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2022-10-21",
+        "marketCap": 25765583790
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2022-10-20",
+        "marketCap": 25621137630
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2022-10-19",
+        "marketCap": 24941036960
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2022-10-18",
+        "marketCap": 26108643420
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2022-10-17",
+        "marketCap": 25645211990
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2022-10-14",
+        "marketCap": 21402106040
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2022-10-13",
+        "marketCap": 22822493280
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2022-10-12",
+        "marketCap": 22383136210
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2022-10-11",
+        "marketCap": 20800247040
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2022-10-10",
+        "marketCap": 21305808600
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2022-10-07",
+        "marketCap": 20956730380
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2022-10-06",
+        "marketCap": 23562779850
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2022-10-05",
+        "marketCap": 22870642000
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2022-10-04",
+        "marketCap": 23279906120
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2022-10-03",
+        "marketCap": 21913686189
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2022-09-30",
+        "marketCap": 21570626560
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2022-09-29",
+        "marketCap": 21149421020
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2022-09-28",
+        "marketCap": 22739513160
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2022-09-27",
+        "marketCap": 21872733610
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2022-09-26",
+        "marketCap": 21251043450
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2022-09-23",
+        "marketCap": 21245065660
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2022-09-22",
+        "marketCap": 21077687540
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2022-09-21",
+        "marketCap": 21406465990
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2022-09-20",
+        "marketCap": 21765133389
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2022-09-19",
+        "marketCap": 22183578690
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2022-09-16",
+        "marketCap": 23612270500
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2022-09-15",
+        "marketCap": 26003386500
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2022-09-14",
+        "marketCap": 26941899530
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2022-09-13",
+        "marketCap": 26224564730
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2022-09-12",
+        "marketCap": 27838568030
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2022-09-09",
+        "marketCap": 27216877870
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2022-09-08",
+        "marketCap": 25023028940
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2022-09-07",
+        "marketCap": 23875293260
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2022-09-06",
+        "marketCap": 22661801889
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2022-09-02",
+        "marketCap": 22679735260
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2022-09-01",
+        "marketCap": 23020469290
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2022-08-31",
+        "marketCap": 23379136690
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2022-08-30",
+        "marketCap": 23331314370
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2022-08-29",
+        "marketCap": 23444892380
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2022-08-26",
+        "marketCap": 23648137240
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2022-08-25",
+        "marketCap": 24789895130
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2022-08-24",
+        "marketCap": 24616539220
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2022-08-23",
+        "marketCap": 24550783530
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2022-08-22",
+        "marketCap": 24807828500
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2022-08-19",
+        "marketCap": 25513207720
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2022-08-18",
+        "marketCap": 26953855110
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2022-08-17",
+        "marketCap": 27557611900
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2022-08-16",
+        "marketCap": 28549925040
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2022-08-15",
+        "marketCap": 29267259840
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2022-08-12",
+        "marketCap": 30576395850
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2022-08-11",
+        "marketCap": 29625927240
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2022-08-10",
+        "marketCap": 28699369790
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2022-08-09",
+        "marketCap": 28304835650
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2022-08-08",
+        "marketCap": 29231393100
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2022-08-05",
+        "marketCap": 29434637960
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2022-08-04",
+        "marketCap": 28669480840
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2022-08-03",
+        "marketCap": 28095613000
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2022-08-02",
+        "marketCap": 27073410910
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2022-08-01",
+        "marketCap": 27043521960
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2022-07-29",
+        "marketCap": 25662652470
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2022-07-28",
+        "marketCap": 25692541420
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2022-07-27",
+        "marketCap": 25076829050
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2022-07-26",
+        "marketCap": 23313381000
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2022-07-25",
+        "marketCap": 23815515360
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2022-07-22",
+        "marketCap": 23552492600
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2022-07-21",
+        "marketCap": 25058895680
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2022-07-20",
+        "marketCap": 24365472040
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2022-07-19",
+        "marketCap": 23821493150
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2022-07-18",
+        "marketCap": 23761715250
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2022-07-15",
+        "marketCap": 23773670830
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2022-07-14",
+        "marketCap": 22410734710
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2022-07-13",
+        "marketCap": 22165645320
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2022-07-12",
+        "marketCap": 22847113380
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2022-07-11",
+        "marketCap": 22960691389
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2022-07-08",
+        "marketCap": 24658383750
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2022-07-07",
+        "marketCap": 23624226080
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2022-07-06",
+        "marketCap": 22685713050
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2022-07-05",
+        "marketCap": 23905182210
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2022-07-01",
+        "marketCap": 20964109530
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2022-06-30",
+        "marketCap": 19643017940
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2022-06-29",
+        "marketCap": 20205430560
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2022-06-28",
+        "marketCap": 20484576720
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2022-06-27",
+        "marketCap": 21339833040
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2022-06-24",
+        "marketCap": 21630857760
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2022-06-23",
+        "marketCap": 20478637440
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2022-06-22",
+        "marketCap": 18483039360
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2022-06-21",
+        "marketCap": 17604025920
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2022-06-17",
+        "marketCap": 15958845360
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2022-06-16",
+        "marketCap": 14664082320
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2022-06-15",
+        "marketCap": 17164519200
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2022-06-14",
+        "marketCap": 15513399360
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2022-06-13",
+        "marketCap": 15715334880
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2022-06-10",
+        "marketCap": 16487441280
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2022-06-09",
+        "marketCap": 18114804000
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2022-06-08",
+        "marketCap": 19498656240
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2022-06-07",
+        "marketCap": 18673096320
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2022-06-06",
+        "marketCap": 18506796480
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2022-06-03",
+        "marketCap": 17817840000
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2022-06-02",
+        "marketCap": 19884709440
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2022-06-01",
+        "marketCap": 17188276320
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2022-05-31",
+        "marketCap": 17782204320
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2022-05-27",
+        "marketCap": 18892849680
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2022-05-26",
+        "marketCap": 18168257520
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2022-05-25",
+        "marketCap": 17182337040
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2022-05-24",
+        "marketCap": 16077630960
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2022-05-23",
+        "marketCap": 17853475680
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2022-05-20",
+        "marketCap": 18768124800
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2022-05-19",
+        "marketCap": 20401426800
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2022-05-18",
+        "marketCap": 19332356400
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2022-05-17",
+        "marketCap": 18970060320
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2022-05-16",
+        "marketCap": 19088845920
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2022-05-13",
+        "marketCap": 19581806160
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2022-05-12",
+        "marketCap": 16974462239
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2022-05-11",
+        "marketCap": 14236454160
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2022-05-10",
+        "marketCap": 13773190320
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2022-05-09",
+        "marketCap": 14616568080
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2022-05-06",
+        "marketCap": 16517137680
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2022-05-05",
+        "marketCap": 18079168320
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2022-05-04",
+        "marketCap": 20716208640
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2022-05-03",
+        "marketCap": 19659016800
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2022-05-02",
+        "marketCap": 19409567040
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2022-04-29",
+        "marketCap": 18203893200
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2022-04-28",
+        "marketCap": 19071028080
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2022-04-27",
+        "marketCap": 18031654080
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2022-04-26",
+        "marketCap": 18863153280
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2022-04-25",
+        "marketCap": 20555848080
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2022-04-22",
+        "marketCap": 20401426800
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2022-04-21",
+        "marketCap": 20555848080
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2022-04-20",
+        "marketCap": 21826854000
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2022-04-19",
+        "marketCap": 24944976000
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2022-04-18",
+        "marketCap": 24261958800
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2022-04-14",
+        "marketCap": 25158790080
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2022-04-13",
+        "marketCap": 26708942160
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2022-04-12",
+        "marketCap": 25538904000
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2022-04-11",
+        "marketCap": 26144710560
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2022-04-08",
+        "marketCap": 25598296800
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2022-04-07",
+        "marketCap": 26566399440
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2022-04-06",
+        "marketCap": 27255355920
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2022-04-05",
+        "marketCap": 29120289840
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2022-04-04",
+        "marketCap": 29708278560
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2022-04-01",
+        "marketCap": 27332566560
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2022-03-31",
+        "marketCap": 27463230720
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2022-03-30",
+        "marketCap": 28319630520
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2022-03-29",
+        "marketCap": 29967489320
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2022-03-28",
+        "marketCap": 28484416400
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2022-03-25",
+        "marketCap": 27701683470
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2022-03-24",
+        "marketCap": 29890981590
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2022-03-23",
+        "marketCap": 29843899910
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2022-03-22",
+        "marketCap": 29726195710
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2022-03-21",
+        "marketCap": 27436849020
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2022-03-18",
+        "marketCap": 29202412020
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2022-03-17",
+        "marketCap": 27277948350
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2022-03-16",
+        "marketCap": 24429506710
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2022-03-15",
+        "marketCap": 22287290270
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2022-03-14",
+        "marketCap": 21586950280
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2022-03-11",
+        "marketCap": 23093564040
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2022-03-10",
+        "marketCap": 24405965870
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2022-03-09",
+        "marketCap": 26118561980
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2022-03-08",
+        "marketCap": 24664915109
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2022-03-07",
+        "marketCap": 24305917300
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2022-03-04",
+        "marketCap": 24888553090
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2022-03-03",
+        "marketCap": 26624690040
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2022-03-02",
+        "marketCap": 28513842450
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2022-03-01",
+        "marketCap": 29555524620
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2022-02-28",
+        "marketCap": 30350027970
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2022-02-25",
+        "marketCap": 29455476050
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2022-02-24",
+        "marketCap": 29484902100
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2022-02-23",
+        "marketCap": 26883639280
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2022-02-22",
+        "marketCap": 28372597410
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2022-02-18",
+        "marketCap": 29261264120
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2022-02-17",
+        "marketCap": 32068509290
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2022-02-16",
+        "marketCap": 31703626270
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2022-02-15",
+        "marketCap": 43138589300
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2022-02-14",
+        "marketCap": 40207754719
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2022-02-11",
+        "marketCap": 39319088010
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2022-02-10",
+        "marketCap": 41149388320
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2022-02-09",
+        "marketCap": 41478960080
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2022-02-08",
+        "marketCap": 37918408030
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2022-02-07",
+        "marketCap": 37112134260
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2022-02-04",
+        "marketCap": 37512328540
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2022-02-03",
+        "marketCap": 35705569070
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2022-02-02",
+        "marketCap": 38942434570
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2022-02-01",
+        "marketCap": 39872297750
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2022-01-31",
+        "marketCap": 38759993060
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2022-01-28",
+        "marketCap": 34240151780
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2022-01-27",
+        "marketCap": 33581008260
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2022-01-26",
+        "marketCap": 37088593420
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2022-01-25",
+        "marketCap": 38424536090
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2022-01-24",
+        "marketCap": 41631975540
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2022-01-21",
+        "marketCap": 40566752530
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2022-01-20",
+        "marketCap": 44368598190
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2022-01-19",
+        "marketCap": 44821759360
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2022-01-18",
+        "marketCap": 45439706410
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2022-01-14",
+        "marketCap": 46522585050
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2022-01-13",
+        "marketCap": 47187613780
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2022-01-12",
+        "marketCap": 52413680260
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2022-01-11",
+        "marketCap": 52401909840
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2022-01-10",
+        "marketCap": 50330315920
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2022-01-07",
+        "marketCap": 49653516770
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2022-01-06",
+        "marketCap": 52496073200
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2022-01-05",
+        "marketCap": 52107649340
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2022-01-04",
+        "marketCap": 55997773150
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2022-01-03",
+        "marketCap": 58151760010
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2021-12-31",
+        "marketCap": 60711826360
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2021-12-30",
+        "marketCap": 58461713550
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2021-12-29",
+        "marketCap": 56606616900
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2021-12-28",
+        "marketCap": 57420765900
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2021-12-27",
+        "marketCap": 61066990350
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2021-12-23",
+        "marketCap": 59211893699
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2021-12-22",
+        "marketCap": 59764351950
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2021-12-21",
+        "marketCap": 59659675650
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2021-12-20",
+        "marketCap": 57391689150
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2021-12-17",
+        "marketCap": 59549184000
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2021-12-16",
+        "marketCap": 55367947350
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2021-12-15",
+        "marketCap": 56961353250
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2021-12-14",
+        "marketCap": 62613873450
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2021-12-13",
+        "marketCap": 64998166950
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2021-12-10",
+        "marketCap": 67394091150
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2021-12-09",
+        "marketCap": 67632520500
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2021-12-08",
+        "marketCap": 72563937300
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2021-12-07",
+        "marketCap": 67452244650
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2021-12-06",
+        "marketCap": 65858838750
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2021-12-03",
+        "marketCap": 66172867650
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2021-12-02",
+        "marketCap": 67993072200
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2021-12-01",
+        "marketCap": 65951884350
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2021-11-30",
+        "marketCap": 73331563500
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2021-11-29",
+        "marketCap": 75227367600
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2021-11-26",
+        "marketCap": 71325267750
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2021-11-24",
+        "marketCap": 72244093050
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2021-11-23",
+        "marketCap": 66800925450
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2021-11-22",
+        "marketCap": 69912137700
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2021-11-19",
+        "marketCap": 78344395200
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2021-11-18",
+        "marketCap": 73343194200
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2021-11-17",
+        "marketCap": 72517414500
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2021-11-16",
+        "marketCap": 67562736300
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2021-11-15",
+        "marketCap": 62840672100
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2021-11-12",
+        "marketCap": 62561535300
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2021-11-11",
+        "marketCap": 57060214200
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2021-11-10",
+        "marketCap": 55397024100
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2021-11-09",
+        "marketCap": 63689713200
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2021-11-08",
+        "marketCap": 44778195000
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2021-11-05",
+        "marketCap": 45353914650
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2021-11-04",
+        "marketCap": 47994083550
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2021-11-03",
+        "marketCap": 45569082600
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2021-11-02",
+        "marketCap": 46284370650
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2021-11-01",
+        "marketCap": 47185749900
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2021-10-29",
+        "marketCap": 48860570700
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2021-10-28",
+        "marketCap": 48122021250
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2021-10-27",
+        "marketCap": 46918243800
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2021-10-26",
+        "marketCap": 47040366150
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2021-10-25",
+        "marketCap": 48389527350
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2021-10-22",
+        "marketCap": 48837309300
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2021-10-21",
+        "marketCap": 48377896650
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2021-10-20",
+        "marketCap": 45697020300
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2021-10-19",
+        "marketCap": 46040125950
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2021-10-18",
+        "marketCap": 45243423000
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2021-10-15",
+        "marketCap": 44533950300
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2021-10-14",
+        "marketCap": 43237127250
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2021-10-13",
+        "marketCap": 43487187300
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2021-10-12",
+        "marketCap": 41812366500
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2021-10-11",
+        "marketCap": 40835387700
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2021-10-08",
+        "marketCap": 40963325400
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2021-10-07",
+        "marketCap": 43498818000
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2021-10-06",
+        "marketCap": 42859129500
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2021-10-05",
+        "marketCap": 42201994949
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2021-10-04",
+        "marketCap": 45243423000
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2021-10-01",
+        "marketCap": 43958230650
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2021-09-30",
+        "marketCap": 43934969250
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2021-09-29",
+        "marketCap": 43949370920
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2021-09-28",
+        "marketCap": 44375560600
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2021-09-27",
+        "marketCap": 46068800680
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2021-09-24",
+        "marketCap": 47929061040
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2021-09-23",
+        "marketCap": 47387684960
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2021-09-22",
+        "marketCap": 46754159760
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2021-09-21",
+        "marketCap": 45412238200
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2021-09-20",
+        "marketCap": 44790231640
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2021-09-17",
+        "marketCap": 46541064920
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2021-09-16",
+        "marketCap": 46892383440
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2021-09-15",
+        "marketCap": 47312813800
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2021-09-14",
+        "marketCap": 47416481560
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2021-09-13",
+        "marketCap": 48752643800
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2021-09-10",
+        "marketCap": 50612904160
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2021-09-09",
+        "marketCap": 49731728200
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2021-09-08",
+        "marketCap": 48096081320
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2021-09-07",
+        "marketCap": 48936942040
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2021-09-03",
+        "marketCap": 47727484840
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2021-09-02",
+        "marketCap": 48723847200
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2021-09-01",
+        "marketCap": 48637457400
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2021-08-31",
+        "marketCap": 47255220600
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2021-08-30",
+        "marketCap": 47151552840
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2021-08-27",
+        "marketCap": 49184592800
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2021-08-26",
+        "marketCap": 49420724920
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2021-08-25",
+        "marketCap": 52029696880
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2021-08-24",
+        "marketCap": 51407690320
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2021-08-23",
+        "marketCap": 48988775920
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2021-08-20",
+        "marketCap": 47669891640
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2021-08-19",
+        "marketCap": 46852068200
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2021-08-18",
+        "marketCap": 48067284720
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2021-08-17",
+        "marketCap": 45314329760
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2021-08-16",
+        "marketCap": 45826909239
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2021-08-13",
+        "marketCap": 48355250720
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2021-08-12",
+        "marketCap": 47600779800
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2021-08-11",
+        "marketCap": 48775681080
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2021-08-10",
+        "marketCap": 49000294560
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2021-08-09",
+        "marketCap": 49247945320
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2021-08-06",
+        "marketCap": 44876621440
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2021-08-05",
+        "marketCap": 46402841239
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2021-08-04",
+        "marketCap": 47024847800
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2021-08-03",
+        "marketCap": 44628970680
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2021-08-02",
+        "marketCap": 45101234920
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2021-07-30",
+        "marketCap": 44335245360
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2021-07-29",
+        "marketCap": 44260374200
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2021-07-28",
+        "marketCap": 45573499160
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2021-07-27",
+        "marketCap": 43880259080
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2021-07-26",
+        "marketCap": 44709601160
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2021-07-23",
+        "marketCap": 47128515560
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2021-07-22",
+        "marketCap": 47243701960
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2021-07-21",
+        "marketCap": 46022726120
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2021-07-20",
+        "marketCap": 45993929520
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2021-07-19",
+        "marketCap": 45636851680
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2021-07-16",
+        "marketCap": 44669285920
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2021-07-15",
+        "marketCap": 44508024960
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2021-07-14",
+        "marketCap": 45596536440
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2021-07-13",
+        "marketCap": 48389806640
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2021-07-12",
+        "marketCap": 49841155280
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2021-07-09",
+        "marketCap": 49679894320
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2021-07-08",
+        "marketCap": 50036972160
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2021-07-07",
+        "marketCap": 49760524800
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2021-07-06",
+        "marketCap": 50094565360
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2021-07-02",
+        "marketCap": 49645338400
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2021-07-01",
+        "marketCap": 49426484239
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2021-06-30",
+        "marketCap": 51822361360
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2021-06-29",
+        "marketCap": 52902380000
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2021-06-28",
+        "marketCap": 53153752000
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2021-06-25",
+        "marketCap": 49703100000
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2021-06-24",
+        "marketCap": 49897342000
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2021-06-23",
+        "marketCap": 48480518000
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2021-06-22",
+        "marketCap": 47097972000
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2021-06-21",
+        "marketCap": 47137963000
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2021-06-18",
+        "marketCap": 46355282000
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2021-06-17",
+        "marketCap": 47406474000
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2021-06-16",
+        "marketCap": 47183667000
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2021-06-15",
+        "marketCap": 51302740000
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2021-06-14",
+        "marketCap": 50160140000
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2021-06-11",
+        "marketCap": 53028065999
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2021-06-10",
+        "marketCap": 51988300000
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2021-06-09",
+        "marketCap": 52011152000
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2021-06-08",
+        "marketCap": 52222533000
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2021-06-07",
+        "marketCap": 53382272000
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2021-06-04",
+        "marketCap": 56884340999
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2021-06-03",
+        "marketCap": 55130450000
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2021-06-02",
+        "marketCap": 57050018000
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2021-06-01",
+        "marketCap": 55353257000
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2021-05-28",
+        "marketCap": 53570801000
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2021-05-27",
+        "marketCap": 55684611000
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2021-05-26",
+        "marketCap": 51251323000
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2021-05-25",
+        "marketCap": 51028515999
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2021-05-24",
+        "marketCap": 50977099000
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2021-05-21",
+        "marketCap": 47132250000
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2021-05-20",
+        "marketCap": 43607329000
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2021-05-19",
+        "marketCap": 42973186000
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2021-05-18",
+        "marketCap": 42841787000
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2021-05-17",
+        "marketCap": 43950109000
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2021-05-14",
+        "marketCap": 40533735000
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2021-05-13",
+        "marketCap": 39808184000
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2021-05-12",
+        "marketCap": 43150289000
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2021-05-11",
+        "marketCap": 44361445000
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2021-05-10",
+        "marketCap": 36563200000
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2021-05-07",
+        "marketCap": 38791270000
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2021-05-06",
+        "marketCap": 37168778000
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2021-05-05",
+        "marketCap": 38042867000
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2021-05-04",
+        "marketCap": 39773906000
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2021-05-03",
+        "marketCap": 40608004000
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2021-04-30",
+        "marketCap": 42590415000
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2021-04-29",
+        "marketCap": 43487356000
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2021-04-28",
+        "marketCap": 43213132000
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2021-04-27",
+        "marketCap": 42476155000
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2021-04-26",
+        "marketCap": 42790370000
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2021-04-23",
+        "marketCap": 41007914000
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2021-04-22",
+        "marketCap": 39905305000
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2021-04-21",
+        "marketCap": 40996488000
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2021-04-20",
+        "marketCap": 39556812000
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2021-04-19",
+        "marketCap": 41133600000
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2021-04-16",
+        "marketCap": 43333105000
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2021-04-15",
+        "marketCap": 45509758000
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2021-04-14",
+        "marketCap": 43047455000
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2021-04-13",
+        "marketCap": 46875165000
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2021-04-12",
+        "marketCap": 42847500000
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2021-04-09",
+        "marketCap": 41036479000
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2021-04-08",
+        "marketCap": 40425188000
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2021-04-07",
+        "marketCap": 39265449000
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2021-04-06",
+        "marketCap": 40745115999
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2021-04-05",
+        "marketCap": 40425188000
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2021-04-01",
+        "marketCap": 38471342000
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2021-03-31",
+        "marketCap": 37037379000
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2021-03-30",
+        "marketCap": 18969292580
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2021-03-29",
+        "marketCap": 19510690220
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2021-03-26",
+        "marketCap": 20657521780
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2021-03-25",
+        "marketCap": 19749370900
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2021-03-24",
+        "marketCap": 18774273000
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2021-03-23",
+        "marketCap": 19793032000
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2021-03-22",
+        "marketCap": 20375180000
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2021-03-19",
+        "marketCap": 20520717000
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2021-03-18",
+        "marketCap": 19589280200
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2021-03-17",
+        "marketCap": 22351572460
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2021-03-16",
+        "marketCap": 22412698000
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2021-03-15",
+        "marketCap": 21000989100
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2021-03-12",
+        "marketCap": 20287857800
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2021-03-11",
+        "marketCap": 21510368600
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2021-03-10",
+        "marketCap": 20229643000
+    }
+]

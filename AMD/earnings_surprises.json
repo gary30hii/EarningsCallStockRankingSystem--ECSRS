@@ -1,0 +1,770 @@
+[
+    {
+        "date": "2024-10-29",
+        "symbol": "AMD",
+        "actualEarningResult": 0.92,
+        "estimatedEarning": 0.922
+    },
+    {
+        "date": "2024-07-30",
+        "symbol": "AMD",
+        "actualEarningResult": 0.69,
+        "estimatedEarning": 0.678
+    },
+    {
+        "date": "2024-04-30",
+        "symbol": "AMD",
+        "actualEarningResult": 0.62,
+        "estimatedEarning": 0.616
+    },
+    {
+        "date": "2024-01-30",
+        "symbol": "AMD",
+        "actualEarningResult": 0.77,
+        "estimatedEarning": 0.77
+    },
+    {
+        "date": "2023-10-31",
+        "symbol": "AMD",
+        "actualEarningResult": 0.7,
+        "estimatedEarning": 0.68
+    },
+    {
+        "date": "2023-08-01",
+        "symbol": "AMD",
+        "actualEarningResult": 0.58,
+        "estimatedEarning": 0.57
+    },
+    {
+        "date": "2023-05-02",
+        "symbol": "AMD",
+        "actualEarningResult": 0.6,
+        "estimatedEarning": 0.56
+    },
+    {
+        "date": "2023-01-31",
+        "symbol": "AMD",
+        "actualEarningResult": 0.69,
+        "estimatedEarning": 0.66
+    },
+    {
+        "date": "2022-11-01",
+        "symbol": "AMD",
+        "actualEarningResult": 0.67,
+        "estimatedEarning": 0.67
+    },
+    {
+        "date": "2022-08-02",
+        "symbol": "AMD",
+        "actualEarningResult": 1.05,
+        "estimatedEarning": 1.03
+    },
+    {
+        "date": "2022-05-03",
+        "symbol": "AMD",
+        "actualEarningResult": 1.13,
+        "estimatedEarning": 0.91
+    },
+    {
+        "date": "2022-02-01",
+        "symbol": "AMD",
+        "actualEarningResult": 0.92,
+        "estimatedEarning": 0.76
+    },
+    {
+        "date": "2021-10-26",
+        "symbol": "AMD",
+        "actualEarningResult": 0.73,
+        "estimatedEarning": 0.67
+    },
+    {
+        "date": "2021-07-27",
+        "symbol": "AMD",
+        "actualEarningResult": 0.63,
+        "estimatedEarning": 0.54
+    },
+    {
+        "date": "2021-04-27",
+        "symbol": "AMD",
+        "actualEarningResult": 0.52,
+        "estimatedEarning": 0.44
+    },
+    {
+        "date": "2021-01-26",
+        "symbol": "AMD",
+        "actualEarningResult": 0.52,
+        "estimatedEarning": 0.47
+    },
+    {
+        "date": "2020-10-27",
+        "symbol": "AMD",
+        "actualEarningResult": 0.41,
+        "estimatedEarning": 0.36
+    },
+    {
+        "date": "2020-07-28",
+        "symbol": "AMD",
+        "actualEarningResult": 0.18,
+        "estimatedEarning": 0.16
+    },
+    {
+        "date": "2020-04-28",
+        "symbol": "AMD",
+        "actualEarningResult": 0.18,
+        "estimatedEarning": 0.18
+    },
+    {
+        "date": "2020-01-28",
+        "symbol": "AMD",
+        "actualEarningResult": 0.32,
+        "estimatedEarning": 0.3
+    },
+    {
+        "date": "2019-10-29",
+        "symbol": "AMD",
+        "actualEarningResult": 0.18,
+        "estimatedEarning": 0.18
+    },
+    {
+        "date": "2019-07-30",
+        "symbol": "AMD",
+        "actualEarningResult": 0.08,
+        "estimatedEarning": 0.08
+    },
+    {
+        "date": "2019-04-30",
+        "symbol": "AMD",
+        "actualEarningResult": 0.06,
+        "estimatedEarning": 0.05
+    },
+    {
+        "date": "2019-01-29",
+        "symbol": "AMD",
+        "actualEarningResult": 0.08,
+        "estimatedEarning": 0.09
+    },
+    {
+        "date": "2018-10-24",
+        "symbol": "AMD",
+        "actualEarningResult": 0.13,
+        "estimatedEarning": 0.12
+    },
+    {
+        "date": "2018-07-25",
+        "symbol": "AMD",
+        "actualEarningResult": 0.14,
+        "estimatedEarning": 0.13
+    },
+    {
+        "date": "2018-04-25",
+        "symbol": "AMD",
+        "actualEarningResult": 0.11,
+        "estimatedEarning": 0.09
+    },
+    {
+        "date": "2018-01-30",
+        "symbol": "AMD",
+        "actualEarningResult": 0.08,
+        "estimatedEarning": 0.05
+    },
+    {
+        "date": "2017-10-24",
+        "symbol": "AMD",
+        "actualEarningResult": 0.1,
+        "estimatedEarning": 0.08
+    },
+    {
+        "date": "2017-07-25",
+        "symbol": "AMD",
+        "actualEarningResult": 0.02,
+        "estimatedEarning": 0.00025
+    },
+    {
+        "date": "2017-05-01",
+        "symbol": "AMD",
+        "actualEarningResult": -0.04,
+        "estimatedEarning": -0.05
+    },
+    {
+        "date": "2017-01-31",
+        "symbol": "AMD",
+        "actualEarningResult": -0.01,
+        "estimatedEarning": -0.00737
+    },
+    {
+        "date": "2016-10-20",
+        "symbol": "AMD",
+        "actualEarningResult": 0.03,
+        "estimatedEarning": 0.00389
+    },
+    {
+        "date": "2016-07-21",
+        "symbol": "AMD",
+        "actualEarningResult": -0.05,
+        "estimatedEarning": -0.09
+    },
+    {
+        "date": "2016-04-21",
+        "symbol": "AMD",
+        "actualEarningResult": -0.12,
+        "estimatedEarning": -0.13
+    },
+    {
+        "date": "2016-01-19",
+        "symbol": "AMD",
+        "actualEarningResult": -0.1,
+        "estimatedEarning": -0.1
+    },
+    {
+        "date": "2015-10-15",
+        "symbol": "AMD",
+        "actualEarningResult": -0.17,
+        "estimatedEarning": -0.11
+    },
+    {
+        "date": "2015-07-16",
+        "symbol": "AMD",
+        "actualEarningResult": -0.17,
+        "estimatedEarning": -0.16
+    },
+    {
+        "date": "2015-04-16",
+        "symbol": "AMD",
+        "actualEarningResult": -0.09,
+        "estimatedEarning": -0.06
+    },
+    {
+        "date": "2015-01-20",
+        "symbol": "AMD",
+        "actualEarningResult": -0.46907,
+        "estimatedEarning": -0.23454
+    },
+    {
+        "date": "2014-10-16",
+        "symbol": "AMD",
+        "actualEarningResult": 0.03,
+        "estimatedEarning": 0.0424
+    },
+    {
+        "date": "2014-07-17",
+        "symbol": "AMD",
+        "actualEarningResult": 0.02,
+        "estimatedEarning": 0.02525
+    },
+    {
+        "date": "2014-04-17",
+        "symbol": "AMD",
+        "actualEarningResult": 0.02,
+        "estimatedEarning": 0.004
+    },
+    {
+        "date": "2014-01-21",
+        "symbol": "AMD",
+        "actualEarningResult": 0.06,
+        "estimatedEarning": 0.06
+    },
+    {
+        "date": "2013-10-17",
+        "symbol": "AMD",
+        "actualEarningResult": 0.04,
+        "estimatedEarning": 0.02144
+    },
+    {
+        "date": "2013-07-18",
+        "symbol": "AMD",
+        "actualEarningResult": -0.09,
+        "estimatedEarning": -0.12
+    },
+    {
+        "date": "2013-04-18",
+        "symbol": "AMD",
+        "actualEarningResult": -0.13,
+        "estimatedEarning": -0.17
+    },
+    {
+        "date": "2013-01-22",
+        "symbol": "AMD",
+        "actualEarningResult": -0.14,
+        "estimatedEarning": -0.2
+    },
+    {
+        "date": "2012-10-18",
+        "symbol": "AMD",
+        "actualEarningResult": -0.2,
+        "estimatedEarning": -0.15
+    },
+    {
+        "date": "2012-07-19",
+        "symbol": "AMD",
+        "actualEarningResult": 0.06,
+        "estimatedEarning": 0.07
+    },
+    {
+        "date": "2012-04-19",
+        "symbol": "AMD",
+        "actualEarningResult": 0.12,
+        "estimatedEarning": 0.09
+    },
+    {
+        "date": "2012-01-24",
+        "symbol": "AMD",
+        "actualEarningResult": 0.19,
+        "estimatedEarning": 0.16
+    },
+    {
+        "date": "2011-10-27",
+        "symbol": "AMD",
+        "actualEarningResult": 0.15,
+        "estimatedEarning": 0.1
+    },
+    {
+        "date": "2011-07-21",
+        "symbol": "AMD",
+        "actualEarningResult": 0.09,
+        "estimatedEarning": 0.08
+    },
+    {
+        "date": "2011-04-21",
+        "symbol": "AMD",
+        "actualEarningResult": 0.08,
+        "estimatedEarning": 0.05
+    },
+    {
+        "date": "2011-01-20",
+        "symbol": "AMD",
+        "actualEarningResult": 0.14,
+        "estimatedEarning": 0.11
+    },
+    {
+        "date": "2010-10-14",
+        "symbol": "AMD",
+        "actualEarningResult": 0.15,
+        "estimatedEarning": 0.06
+    },
+    {
+        "date": "2010-07-15",
+        "symbol": "AMD",
+        "actualEarningResult": 0.11,
+        "estimatedEarning": 0.06
+    },
+    {
+        "date": "2010-04-15",
+        "symbol": "AMD",
+        "actualEarningResult": 0.09,
+        "estimatedEarning": 0.0225
+    },
+    {
+        "date": "2010-01-21",
+        "symbol": "AMD",
+        "actualEarningResult": 1.52,
+        "estimatedEarning": -0.18
+    },
+    {
+        "date": "2009-10-15",
+        "symbol": "AMD",
+        "actualEarningResult": -0.18,
+        "estimatedEarning": -0.42
+    },
+    {
+        "date": "2009-07-21",
+        "symbol": "AMD",
+        "actualEarningResult": -0.49,
+        "estimatedEarning": -0.47
+    },
+    {
+        "date": "2009-04-21",
+        "symbol": "AMD",
+        "actualEarningResult": -0.66,
+        "estimatedEarning": -0.66
+    },
+    {
+        "date": "2009-01-22",
+        "symbol": "AMD",
+        "actualEarningResult": -0.69,
+        "estimatedEarning": -0.54
+    },
+    {
+        "date": "2008-10-16",
+        "symbol": "AMD",
+        "actualEarningResult": 0.13,
+        "estimatedEarning": -0.4
+    },
+    {
+        "date": "2008-07-17",
+        "symbol": "AMD",
+        "actualEarningResult": -0.6,
+        "estimatedEarning": -0.52
+    },
+    {
+        "date": "2008-04-17",
+        "symbol": "AMD",
+        "actualEarningResult": -0.51,
+        "estimatedEarning": -0.51
+    },
+    {
+        "date": "2008-01-17",
+        "symbol": "AMD",
+        "actualEarningResult": -0.17,
+        "estimatedEarning": -0.36
+    },
+    {
+        "date": "2007-10-18",
+        "symbol": "AMD",
+        "actualEarningResult": -0.49,
+        "estimatedEarning": -0.62
+    },
+    {
+        "date": "2007-07-19",
+        "symbol": "AMD",
+        "actualEarningResult": -0.95,
+        "estimatedEarning": -0.85
+    },
+    {
+        "date": "2007-04-19",
+        "symbol": "AMD",
+        "actualEarningResult": -0.9,
+        "estimatedEarning": -0.48
+    },
+    {
+        "date": "2007-01-23",
+        "symbol": "AMD",
+        "actualEarningResult": -0.04,
+        "estimatedEarning": 0.1
+    },
+    {
+        "date": "2006-10-18",
+        "symbol": "AMD",
+        "actualEarningResult": 0.27,
+        "estimatedEarning": 0.24
+    },
+    {
+        "date": "2006-07-20",
+        "symbol": "AMD",
+        "actualEarningResult": 0.18,
+        "estimatedEarning": 0.22
+    },
+    {
+        "date": "2006-04-12",
+        "symbol": "AMD",
+        "actualEarningResult": 0.38,
+        "estimatedEarning": 0.29
+    },
+    {
+        "date": "2006-01-18",
+        "symbol": "AMD",
+        "actualEarningResult": 0.45,
+        "estimatedEarning": 0.26
+    },
+    {
+        "date": "2005-10-11",
+        "symbol": "AMD",
+        "actualEarningResult": 0.18,
+        "estimatedEarning": 0.08
+    },
+    {
+        "date": "2005-07-13",
+        "symbol": "AMD",
+        "actualEarningResult": 0.03,
+        "estimatedEarning": -0.05
+    },
+    {
+        "date": "2005-04-13",
+        "symbol": "AMD",
+        "actualEarningResult": -0.04,
+        "estimatedEarning": -0.01053
+    },
+    {
+        "date": "2005-01-18",
+        "symbol": "AMD",
+        "actualEarningResult": 0.05,
+        "estimatedEarning": 0.08
+    },
+    {
+        "date": "2004-10-07",
+        "symbol": "AMD",
+        "actualEarningResult": 0.12,
+        "estimatedEarning": 0.12
+    },
+    {
+        "date": "2004-07-14",
+        "symbol": "AMD",
+        "actualEarningResult": 0.09,
+        "estimatedEarning": 0.09
+    },
+    {
+        "date": "2004-04-14",
+        "symbol": "AMD",
+        "actualEarningResult": 0.12,
+        "estimatedEarning": 0.035
+    },
+    {
+        "date": "2004-01-20",
+        "symbol": "AMD",
+        "actualEarningResult": 0.12,
+        "estimatedEarning": 0.03714
+    },
+    {
+        "date": "2003-10-16",
+        "symbol": "AMD",
+        "actualEarningResult": -0.09,
+        "estimatedEarning": -0.36
+    },
+    {
+        "date": "2003-07-16",
+        "symbol": "AMD",
+        "actualEarningResult": -0.4,
+        "estimatedEarning": -0.53
+    },
+    {
+        "date": "2003-04-16",
+        "symbol": "AMD",
+        "actualEarningResult": -0.42,
+        "estimatedEarning": -0.48
+    },
+    {
+        "date": "2003-01-16",
+        "symbol": "AMD",
+        "actualEarningResult": -0.68,
+        "estimatedEarning": -0.42
+    },
+    {
+        "date": "2002-10-16",
+        "symbol": "AMD",
+        "actualEarningResult": -0.74,
+        "estimatedEarning": -0.67
+    },
+    {
+        "date": "2002-07-17",
+        "symbol": "AMD",
+        "actualEarningResult": -0.54,
+        "estimatedEarning": -0.45
+    },
+    {
+        "date": "2002-04-17",
+        "symbol": "AMD",
+        "actualEarningResult": -0.03,
+        "estimatedEarning": -0.06
+    },
+    {
+        "date": "2002-01-16",
+        "symbol": "AMD",
+        "actualEarningResult": -0.05,
+        "estimatedEarning": -0.18
+    },
+    {
+        "date": "2001-10-17",
+        "symbol": "AMD",
+        "actualEarningResult": -0.28,
+        "estimatedEarning": -0.28
+    },
+    {
+        "date": "2001-07-12",
+        "symbol": "AMD",
+        "actualEarningResult": 0.05,
+        "estimatedEarning": 0.03923
+    },
+    {
+        "date": "2001-04-18",
+        "symbol": "AMD",
+        "actualEarningResult": 0.37,
+        "estimatedEarning": 0.33
+    },
+    {
+        "date": "2001-01-17",
+        "symbol": "AMD",
+        "actualEarningResult": 0.53,
+        "estimatedEarning": 0.55
+    },
+    {
+        "date": "2000-10-11",
+        "symbol": "AMD",
+        "actualEarningResult": 0.64,
+        "estimatedEarning": 0.62
+    },
+    {
+        "date": "2000-07-19",
+        "symbol": "AMD",
+        "actualEarningResult": 0.61,
+        "estimatedEarning": 0.56
+    },
+    {
+        "date": "2000-04-12",
+        "symbol": "AMD",
+        "actualEarningResult": 0.57,
+        "estimatedEarning": 0.26
+    },
+    {
+        "date": "2000-01-20",
+        "symbol": "AMD",
+        "actualEarningResult": 0.11,
+        "estimatedEarning": 0.00969
+    },
+    {
+        "date": "1999-10-06",
+        "symbol": "AMD",
+        "actualEarningResult": -0.36,
+        "estimatedEarning": -0.46
+    },
+    {
+        "date": "1999-07-14",
+        "symbol": "AMD",
+        "actualEarningResult": -0.55,
+        "estimatedEarning": -0.64
+    },
+    {
+        "date": "1999-04-14",
+        "symbol": "AMD",
+        "actualEarningResult": -0.4,
+        "estimatedEarning": -0.38
+    },
+    {
+        "date": "1999-01-13",
+        "symbol": "AMD",
+        "actualEarningResult": 0.04,
+        "estimatedEarning": 0.09
+    },
+    {
+        "date": "1998-10-06",
+        "symbol": "AMD",
+        "actualEarningResult": 0.00352,
+        "estimatedEarning": -0.07
+    },
+    {
+        "date": "1998-07-08",
+        "symbol": "AMD",
+        "actualEarningResult": -0.22,
+        "estimatedEarning": -0.11
+    },
+    {
+        "date": "1998-04-07",
+        "symbol": "AMD",
+        "actualEarningResult": -0.19,
+        "estimatedEarning": -0.12
+    },
+    {
+        "date": "1998-01-13",
+        "symbol": "AMD",
+        "actualEarningResult": -0.04,
+        "estimatedEarning": -0.07
+    },
+    {
+        "date": "1997-10-07",
+        "symbol": "AMD",
+        "actualEarningResult": -0.11,
+        "estimatedEarning": -0.05
+    },
+    {
+        "date": "1997-07-08",
+        "symbol": "AMD",
+        "actualEarningResult": 0.04,
+        "estimatedEarning": 0.1
+    },
+    {
+        "date": "1997-04-07",
+        "symbol": "AMD",
+        "actualEarningResult": 0.05,
+        "estimatedEarning": 0.00741
+    },
+    {
+        "date": "1997-01-13",
+        "symbol": "AMD",
+        "actualEarningResult": -0.07,
+        "estimatedEarning": -0.1
+    },
+    {
+        "date": "1996-10-07",
+        "symbol": "AMD",
+        "actualEarningResult": -0.12,
+        "estimatedEarning": -0.18
+    },
+    {
+        "date": "1996-07-10",
+        "symbol": "AMD",
+        "actualEarningResult": -0.16,
+        "estimatedEarning": -0.11
+    },
+    {
+        "date": "1996-04-09",
+        "symbol": "AMD",
+        "actualEarningResult": 0.09,
+        "estimatedEarning": 0.15
+    },
+    {
+        "date": "1996-01-10",
+        "symbol": "AMD",
+        "actualEarningResult": 0.26,
+        "estimatedEarning": 0.22
+    },
+    {
+        "date": "1995-10-10",
+        "symbol": "AMD",
+        "actualEarningResult": 0.26,
+        "estimatedEarning": 0.35
+    },
+    {
+        "date": "1995-07-10",
+        "symbol": "AMD",
+        "actualEarningResult": 0.43,
+        "estimatedEarning": 0.48
+    },
+    {
+        "date": "1995-04-10",
+        "symbol": "AMD",
+        "actualEarningResult": 0.46,
+        "estimatedEarning": 0.43
+    },
+    {
+        "date": "1995-01-06",
+        "symbol": "AMD",
+        "actualEarningResult": 0.37,
+        "estimatedEarning": 0.37
+    },
+    {
+        "date": "1994-10-03",
+        "symbol": "AMD",
+        "actualEarningResult": 0.42,
+        "estimatedEarning": 0.4
+    },
+    {
+        "date": "1994-07-01",
+        "symbol": "AMD",
+        "actualEarningResult": 0.45,
+        "estimatedEarning": 0.43
+    },
+    {
+        "date": "1994-04-04",
+        "symbol": "AMD",
+        "actualEarningResult": 0.41,
+        "estimatedEarning": 0.32
+    },
+    {
+        "date": "1994-01-07",
+        "symbol": "AMD",
+        "actualEarningResult": 0.21,
+        "estimatedEarning": 0.31
+    },
+    {
+        "date": "1993-10-05",
+        "symbol": "AMD",
+        "actualEarningResult": 0.31,
+        "estimatedEarning": 0.34
+    },
+    {
+        "date": "1993-07-06",
+        "symbol": "AMD",
+        "actualEarningResult": 0.33,
+        "estimatedEarning": 0.33
+    },
+    {
+        "date": "1993-04-06",
+        "symbol": "AMD",
+        "actualEarningResult": 0.32,
+        "estimatedEarning": 0.27
+    },
+    {
+        "date": "1993-01-08",
+        "symbol": "AMD",
+        "actualEarningResult": 0.37,
+        "estimatedEarning": 0.31
+    }
+]

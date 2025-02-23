@@ -1,0 +1,710 @@
+[
+    {
+        "date": "2024-11-04",
+        "symbol": "HOLX",
+        "actualEarningResult": 1.01,
+        "estimatedEarning": 1.01
+    },
+    {
+        "date": "2024-07-29",
+        "symbol": "HOLX",
+        "actualEarningResult": 1.06,
+        "estimatedEarning": 1.02
+    },
+    {
+        "date": "2024-05-02",
+        "symbol": "HOLX",
+        "actualEarningResult": 1.03,
+        "estimatedEarning": 0.978
+    },
+    {
+        "date": "2024-02-01",
+        "symbol": "HOLX",
+        "actualEarningResult": 0.98,
+        "estimatedEarning": 0.95
+    },
+    {
+        "date": "2023-11-09",
+        "symbol": "HOLX",
+        "actualEarningResult": 0.89,
+        "estimatedEarning": 0.85
+    },
+    {
+        "date": "2023-07-31",
+        "symbol": "HOLX",
+        "actualEarningResult": 0.93,
+        "estimatedEarning": 0.88
+    },
+    {
+        "date": "2023-05-01",
+        "symbol": "HOLX",
+        "actualEarningResult": 1.06,
+        "estimatedEarning": 0.88
+    },
+    {
+        "date": "2023-02-01",
+        "symbol": "HOLX",
+        "actualEarningResult": 1.07,
+        "estimatedEarning": 0.9
+    },
+    {
+        "date": "2022-10-31",
+        "symbol": "HOLX",
+        "actualEarningResult": 0.82,
+        "estimatedEarning": 0.62
+    },
+    {
+        "date": "2022-07-27",
+        "symbol": "HOLX",
+        "actualEarningResult": 0.95,
+        "estimatedEarning": 0.71
+    },
+    {
+        "date": "2022-04-27",
+        "symbol": "HOLX",
+        "actualEarningResult": 2.07,
+        "estimatedEarning": 1.6
+    },
+    {
+        "date": "2022-02-02",
+        "symbol": "HOLX",
+        "actualEarningResult": 2.17,
+        "estimatedEarning": 1.28
+    },
+    {
+        "date": "2021-11-01",
+        "symbol": "HOLX",
+        "actualEarningResult": 1.61,
+        "estimatedEarning": 1.01
+    },
+    {
+        "date": "2021-07-28",
+        "symbol": "HOLX",
+        "actualEarningResult": 1.33,
+        "estimatedEarning": 1.12
+    },
+    {
+        "date": "2021-04-28",
+        "symbol": "HOLX",
+        "actualEarningResult": 2.59,
+        "estimatedEarning": 2.62
+    },
+    {
+        "date": "2021-01-27",
+        "symbol": "HOLX",
+        "actualEarningResult": 2.86,
+        "estimatedEarning": 2.17
+    },
+    {
+        "date": "2020-11-04",
+        "symbol": "HOLX",
+        "actualEarningResult": 2.07,
+        "estimatedEarning": 1.22
+    },
+    {
+        "date": "2020-07-29",
+        "symbol": "HOLX",
+        "actualEarningResult": 0.75,
+        "estimatedEarning": 0.36
+    },
+    {
+        "date": "2020-04-29",
+        "symbol": "HOLX",
+        "actualEarningResult": 0.57,
+        "estimatedEarning": 0.54
+    },
+    {
+        "date": "2020-01-29",
+        "symbol": "HOLX",
+        "actualEarningResult": 0.61,
+        "estimatedEarning": 0.61
+    },
+    {
+        "date": "2019-11-06",
+        "symbol": "HOLX",
+        "actualEarningResult": 0.65,
+        "estimatedEarning": 0.65
+    },
+    {
+        "date": "2019-07-31",
+        "symbol": "HOLX",
+        "actualEarningResult": 0.63,
+        "estimatedEarning": 0.61
+    },
+    {
+        "date": "2019-05-01",
+        "symbol": "HOLX",
+        "actualEarningResult": 0.58,
+        "estimatedEarning": 0.57
+    },
+    {
+        "date": "2019-01-30",
+        "symbol": "HOLX",
+        "actualEarningResult": 0.58,
+        "estimatedEarning": 0.57
+    },
+    {
+        "date": "2018-11-07",
+        "symbol": "HOLX",
+        "actualEarningResult": 0.58,
+        "estimatedEarning": 0.59
+    },
+    {
+        "date": "2018-07-31",
+        "symbol": "HOLX",
+        "actualEarningResult": 0.58,
+        "estimatedEarning": 0.56
+    },
+    {
+        "date": "2018-05-02",
+        "symbol": "HOLX",
+        "actualEarningResult": 0.53,
+        "estimatedEarning": 0.53
+    },
+    {
+        "date": "2018-02-08",
+        "symbol": "HOLX",
+        "actualEarningResult": 0.55,
+        "estimatedEarning": 0.49
+    },
+    {
+        "date": "2017-11-08",
+        "symbol": "HOLX",
+        "actualEarningResult": 0.5,
+        "estimatedEarning": 0.49
+    },
+    {
+        "date": "2017-08-02",
+        "symbol": "HOLX",
+        "actualEarningResult": 0.5,
+        "estimatedEarning": 0.49
+    },
+    {
+        "date": "2017-05-10",
+        "symbol": "HOLX",
+        "actualEarningResult": 0.5,
+        "estimatedEarning": 0.46
+    },
+    {
+        "date": "2017-02-01",
+        "symbol": "HOLX",
+        "actualEarningResult": 0.52,
+        "estimatedEarning": 0.51
+    },
+    {
+        "date": "2016-11-02",
+        "symbol": "HOLX",
+        "actualEarningResult": 0.52,
+        "estimatedEarning": 0.5
+    },
+    {
+        "date": "2016-07-27",
+        "symbol": "HOLX",
+        "actualEarningResult": 0.51,
+        "estimatedEarning": 0.47
+    },
+    {
+        "date": "2016-04-27",
+        "symbol": "HOLX",
+        "actualEarningResult": 0.47,
+        "estimatedEarning": 0.46
+    },
+    {
+        "date": "2016-01-27",
+        "symbol": "HOLX",
+        "actualEarningResult": 0.46,
+        "estimatedEarning": 0.42
+    },
+    {
+        "date": "2015-11-04",
+        "symbol": "HOLX",
+        "actualEarningResult": 0.43,
+        "estimatedEarning": 0.42
+    },
+    {
+        "date": "2015-07-29",
+        "symbol": "HOLX",
+        "actualEarningResult": 0.43,
+        "estimatedEarning": 0.39
+    },
+    {
+        "date": "2015-04-29",
+        "symbol": "HOLX",
+        "actualEarningResult": 0.41,
+        "estimatedEarning": 0.39
+    },
+    {
+        "date": "2015-01-28",
+        "symbol": "HOLX",
+        "actualEarningResult": 0.39,
+        "estimatedEarning": 0.36
+    },
+    {
+        "date": "2014-11-05",
+        "symbol": "HOLX",
+        "actualEarningResult": 0.43,
+        "estimatedEarning": 0.37
+    },
+    {
+        "date": "2014-07-30",
+        "symbol": "HOLX",
+        "actualEarningResult": 0.37,
+        "estimatedEarning": 0.34
+    },
+    {
+        "date": "2014-04-30",
+        "symbol": "HOLX",
+        "actualEarningResult": 0.37,
+        "estimatedEarning": 0.33
+    },
+    {
+        "date": "2014-02-03",
+        "symbol": "HOLX",
+        "actualEarningResult": 0.34,
+        "estimatedEarning": 0.31
+    },
+    {
+        "date": "2013-11-11",
+        "symbol": "HOLX",
+        "actualEarningResult": 0.39,
+        "estimatedEarning": 0.37
+    },
+    {
+        "date": "2013-08-05",
+        "symbol": "HOLX",
+        "actualEarningResult": 0.38,
+        "estimatedEarning": 0.37
+    },
+    {
+        "date": "2013-05-06",
+        "symbol": "HOLX",
+        "actualEarningResult": 0.35,
+        "estimatedEarning": 0.34
+    },
+    {
+        "date": "2013-02-04",
+        "symbol": "HOLX",
+        "actualEarningResult": 0.38,
+        "estimatedEarning": 0.37
+    },
+    {
+        "date": "2012-11-12",
+        "symbol": "HOLX",
+        "actualEarningResult": 0.37,
+        "estimatedEarning": 0.36
+    },
+    {
+        "date": "2012-07-30",
+        "symbol": "HOLX",
+        "actualEarningResult": 0.35,
+        "estimatedEarning": 0.34
+    },
+    {
+        "date": "2012-04-30",
+        "symbol": "HOLX",
+        "actualEarningResult": 0.33,
+        "estimatedEarning": 0.33
+    },
+    {
+        "date": "2012-01-30",
+        "symbol": "HOLX",
+        "actualEarningResult": 0.34,
+        "estimatedEarning": 0.32
+    },
+    {
+        "date": "2011-11-07",
+        "symbol": "HOLX",
+        "actualEarningResult": 0.34,
+        "estimatedEarning": 0.33
+    },
+    {
+        "date": "2011-08-01",
+        "symbol": "HOLX",
+        "actualEarningResult": 0.32,
+        "estimatedEarning": 0.32
+    },
+    {
+        "date": "2011-05-02",
+        "symbol": "HOLX",
+        "actualEarningResult": 0.3,
+        "estimatedEarning": 0.28
+    },
+    {
+        "date": "2011-01-31",
+        "symbol": "HOLX",
+        "actualEarningResult": 0.3,
+        "estimatedEarning": 0.28
+    },
+    {
+        "date": "2010-11-08",
+        "symbol": "HOLX",
+        "actualEarningResult": 0.3,
+        "estimatedEarning": 0.3
+    },
+    {
+        "date": "2010-08-02",
+        "symbol": "HOLX",
+        "actualEarningResult": 0.3,
+        "estimatedEarning": 0.29
+    },
+    {
+        "date": "2010-05-03",
+        "symbol": "HOLX",
+        "actualEarningResult": 0.29,
+        "estimatedEarning": 0.29
+    },
+    {
+        "date": "2010-02-01",
+        "symbol": "HOLX",
+        "actualEarningResult": 0.29,
+        "estimatedEarning": 0.26
+    },
+    {
+        "date": "2009-11-09",
+        "symbol": "HOLX",
+        "actualEarningResult": 0.28,
+        "estimatedEarning": 0.27
+    },
+    {
+        "date": "2009-08-03",
+        "symbol": "HOLX",
+        "actualEarningResult": 0.29,
+        "estimatedEarning": 0.26
+    },
+    {
+        "date": "2009-05-04",
+        "symbol": "HOLX",
+        "actualEarningResult": 0.29,
+        "estimatedEarning": 0.27
+    },
+    {
+        "date": "2009-02-02",
+        "symbol": "HOLX",
+        "actualEarningResult": 0.31,
+        "estimatedEarning": 0.29
+    },
+    {
+        "date": "2008-11-11",
+        "symbol": "HOLX",
+        "actualEarningResult": 0.3,
+        "estimatedEarning": 0.3
+    },
+    {
+        "date": "2008-07-30",
+        "symbol": "HOLX",
+        "actualEarningResult": 0.33,
+        "estimatedEarning": 0.29
+    },
+    {
+        "date": "2008-05-01",
+        "symbol": "HOLX",
+        "actualEarningResult": 0.29,
+        "estimatedEarning": 0.28
+    },
+    {
+        "date": "2008-01-31",
+        "symbol": "HOLX",
+        "actualEarningResult": 0.26,
+        "estimatedEarning": 0.24
+    },
+    {
+        "date": "2007-11-06",
+        "symbol": "HOLX",
+        "actualEarningResult": 0.29,
+        "estimatedEarning": 0.23
+    },
+    {
+        "date": "2007-07-31",
+        "symbol": "HOLX",
+        "actualEarningResult": 0.23,
+        "estimatedEarning": 0.21
+    },
+    {
+        "date": "2007-05-01",
+        "symbol": "HOLX",
+        "actualEarningResult": 0.2,
+        "estimatedEarning": 0.18
+    },
+    {
+        "date": "2007-01-31",
+        "symbol": "HOLX",
+        "actualEarningResult": 0.15,
+        "estimatedEarning": 0.12
+    },
+    {
+        "date": "2006-11-08",
+        "symbol": "HOLX",
+        "actualEarningResult": -0.01355,
+        "estimatedEarning": 0.1
+    },
+    {
+        "date": "2006-07-25",
+        "symbol": "HOLX",
+        "actualEarningResult": 0.13,
+        "estimatedEarning": 0.13
+    },
+    {
+        "date": "2006-04-25",
+        "symbol": "HOLX",
+        "actualEarningResult": 0.12,
+        "estimatedEarning": 0.1
+    },
+    {
+        "date": "2006-01-24",
+        "symbol": "HOLX",
+        "actualEarningResult": 0.06,
+        "estimatedEarning": 0.07
+    },
+    {
+        "date": "2005-11-02",
+        "symbol": "HOLX",
+        "actualEarningResult": 0.1,
+        "estimatedEarning": 0.09
+    },
+    {
+        "date": "2005-07-27",
+        "symbol": "HOLX",
+        "actualEarningResult": 0.09,
+        "estimatedEarning": 0.07
+    },
+    {
+        "date": "2005-04-27",
+        "symbol": "HOLX",
+        "actualEarningResult": 0.07,
+        "estimatedEarning": 0.06
+    },
+    {
+        "date": "2005-01-26",
+        "symbol": "HOLX",
+        "actualEarningResult": 0.05,
+        "estimatedEarning": 0.02322
+    },
+    {
+        "date": "2004-11-10",
+        "symbol": "HOLX",
+        "actualEarningResult": 0.06,
+        "estimatedEarning": 0.05
+    },
+    {
+        "date": "2004-08-03",
+        "symbol": "HOLX",
+        "actualEarningResult": 0.04,
+        "estimatedEarning": 0.03733
+    },
+    {
+        "date": "2004-05-04",
+        "symbol": "HOLX",
+        "actualEarningResult": 0.03,
+        "estimatedEarning": 0.0275
+    },
+    {
+        "date": "2004-02-03",
+        "symbol": "HOLX",
+        "actualEarningResult": 0.01244,
+        "estimatedEarning": 0.00871
+    },
+    {
+        "date": "2003-11-12",
+        "symbol": "HOLX",
+        "actualEarningResult": 0.03,
+        "estimatedEarning": 0.01846
+    },
+    {
+        "date": "2003-08-06",
+        "symbol": "HOLX",
+        "actualEarningResult": 0.01259,
+        "estimatedEarning": 0.00881
+    },
+    {
+        "date": "2003-05-06",
+        "symbol": "HOLX",
+        "actualEarningResult": 0.00478,
+        "estimatedEarning": 0.0008
+    },
+    {
+        "date": "2003-02-04",
+        "symbol": "HOLX",
+        "actualEarningResult": -0.01171,
+        "estimatedEarning": -0.0039
+    },
+    {
+        "date": "2002-11-12",
+        "symbol": "HOLX",
+        "actualEarningResult": -0.04,
+        "estimatedEarning": -0.00476
+    },
+    {
+        "date": "2002-08-01",
+        "symbol": "HOLX",
+        "actualEarningResult": 0.00601,
+        "estimatedEarning": 0.01203
+    },
+    {
+        "date": "2002-05-02",
+        "symbol": "HOLX",
+        "actualEarningResult": 0.06,
+        "estimatedEarning": 0.02318
+    },
+    {
+        "date": "2002-02-05",
+        "symbol": "HOLX",
+        "actualEarningResult": -0.02,
+        "estimatedEarning": -0.06
+    },
+    {
+        "date": "2001-11-14",
+        "symbol": "HOLX",
+        "actualEarningResult": -0.06,
+        "estimatedEarning": -0.035
+    },
+    {
+        "date": "2001-08-13",
+        "symbol": "HOLX",
+        "actualEarningResult": -0.1,
+        "estimatedEarning": -0.1
+    },
+    {
+        "date": "2000-11-16",
+        "symbol": "HOLX",
+        "actualEarningResult": -0.04,
+        "estimatedEarning": -0.03733
+    },
+    {
+        "date": "2000-08-01",
+        "symbol": "HOLX",
+        "actualEarningResult": -0.04,
+        "estimatedEarning": -0.02706
+    },
+    {
+        "date": "2000-04-27",
+        "symbol": "HOLX",
+        "actualEarningResult": -0.04,
+        "estimatedEarning": -0.03867
+    },
+    {
+        "date": "2000-01-27",
+        "symbol": "HOLX",
+        "actualEarningResult": -0.05,
+        "estimatedEarning": -0.05
+    },
+    {
+        "date": "1999-11-08",
+        "symbol": "HOLX",
+        "actualEarningResult": -0.05049,
+        "estimatedEarning": -0.02714
+    },
+    {
+        "date": "1999-07-29",
+        "symbol": "HOLX",
+        "actualEarningResult": -0.0275,
+        "estimatedEarning": -0.01021
+    },
+    {
+        "date": "1999-04-29",
+        "symbol": "HOLX",
+        "actualEarningResult": -0.02,
+        "estimatedEarning": 0.05
+    },
+    {
+        "date": "1999-01-28",
+        "symbol": "HOLX",
+        "actualEarningResult": 0.04,
+        "estimatedEarning": 0.06
+    },
+    {
+        "date": "1998-11-09",
+        "symbol": "HOLX",
+        "actualEarningResult": 0.03,
+        "estimatedEarning": 0.08
+    },
+    {
+        "date": "1998-07-30",
+        "symbol": "HOLX",
+        "actualEarningResult": 0.08,
+        "estimatedEarning": 0.09
+    },
+    {
+        "date": "1998-04-29",
+        "symbol": "HOLX",
+        "actualEarningResult": 0.05,
+        "estimatedEarning": 0.07
+    },
+    {
+        "date": "1998-02-03",
+        "symbol": "HOLX",
+        "actualEarningResult": 0.04,
+        "estimatedEarning": 0.05
+    },
+    {
+        "date": "1997-11-12",
+        "symbol": "HOLX",
+        "actualEarningResult": 0.07,
+        "estimatedEarning": 0.07
+    },
+    {
+        "date": "1997-07-31",
+        "symbol": "HOLX",
+        "actualEarningResult": 0.09,
+        "estimatedEarning": 0.09
+    },
+    {
+        "date": "1997-04-30",
+        "symbol": "HOLX",
+        "actualEarningResult": 0.09,
+        "estimatedEarning": 0.08
+    },
+    {
+        "date": "1997-01-30",
+        "symbol": "HOLX",
+        "actualEarningResult": 0.08,
+        "estimatedEarning": 0.07
+    },
+    {
+        "date": "1996-11-08",
+        "symbol": "HOLX",
+        "actualEarningResult": 0.04,
+        "estimatedEarning": 0.06
+    },
+    {
+        "date": "1996-07-31",
+        "symbol": "HOLX",
+        "actualEarningResult": 0.08,
+        "estimatedEarning": 0.07
+    },
+    {
+        "date": "1996-05-02",
+        "symbol": "HOLX",
+        "actualEarningResult": 0.07,
+        "estimatedEarning": 0.05
+    },
+    {
+        "date": "1996-02-01",
+        "symbol": "HOLX",
+        "actualEarningResult": 0.04,
+        "estimatedEarning": 0.03143
+    },
+    {
+        "date": "1995-11-08",
+        "symbol": "HOLX",
+        "actualEarningResult": 0.02,
+        "estimatedEarning": 0.02308
+    },
+    {
+        "date": "1995-01-31",
+        "symbol": "HOLX",
+        "actualEarningResult": 0.02,
+        "estimatedEarning": 0.01733
+    },
+    {
+        "date": "1994-11-15",
+        "symbol": "HOLX",
+        "actualEarningResult": 0.02,
+        "estimatedEarning": 0.02
+    },
+    {
+        "date": "1994-08-01",
+        "symbol": "HOLX",
+        "actualEarningResult": 0.04,
+        "estimatedEarning": 0.03143
+    }
+]

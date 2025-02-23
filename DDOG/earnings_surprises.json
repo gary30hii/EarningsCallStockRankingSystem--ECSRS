@@ -1,0 +1,128 @@
+[
+    {
+        "date": "2024-11-07",
+        "symbol": "DDOG",
+        "actualEarningResult": 0.46,
+        "estimatedEarning": 0.3986
+    },
+    {
+        "date": "2024-08-08",
+        "symbol": "DDOG",
+        "actualEarningResult": 0.43,
+        "estimatedEarning": 0.3726
+    },
+    {
+        "date": "2024-05-07",
+        "symbol": "DDOG",
+        "actualEarningResult": 0.44,
+        "estimatedEarning": 0.3533
+    },
+    {
+        "date": "2024-02-13",
+        "symbol": "DDOG",
+        "actualEarningResult": 0.44,
+        "estimatedEarning": 0.4337
+    },
+    {
+        "date": "2023-11-07",
+        "symbol": "DDOG",
+        "actualEarningResult": 0.45,
+        "estimatedEarning": 0.34
+    },
+    {
+        "date": "2023-08-08",
+        "symbol": "DDOG",
+        "actualEarningResult": 0.36,
+        "estimatedEarning": 0.28
+    },
+    {
+        "date": "2023-05-04",
+        "symbol": "DDOG",
+        "actualEarningResult": 0.28,
+        "estimatedEarning": 0.24
+    },
+    {
+        "date": "2023-02-16",
+        "symbol": "DDOG",
+        "actualEarningResult": 0.26,
+        "estimatedEarning": 0.19
+    },
+    {
+        "date": "2022-11-03",
+        "symbol": "DDOG",
+        "actualEarningResult": 0.23,
+        "estimatedEarning": 0.15
+    },
+    {
+        "date": "2022-08-04",
+        "symbol": "DDOG",
+        "actualEarningResult": 0.24,
+        "estimatedEarning": 0.14
+    },
+    {
+        "date": "2022-05-05",
+        "symbol": "DDOG",
+        "actualEarningResult": 0.24,
+        "estimatedEarning": 0.11
+    },
+    {
+        "date": "2022-02-10",
+        "symbol": "DDOG",
+        "actualEarningResult": 0.2,
+        "estimatedEarning": 0.11
+    },
+    {
+        "date": "2021-11-04",
+        "symbol": "DDOG",
+        "actualEarningResult": 0.13,
+        "estimatedEarning": 0.06
+    },
+    {
+        "date": "2021-08-05",
+        "symbol": "DDOG",
+        "actualEarningResult": 0.09,
+        "estimatedEarning": 0.02983
+    },
+    {
+        "date": "2021-05-06",
+        "symbol": "DDOG",
+        "actualEarningResult": 0.06,
+        "estimatedEarning": 0.03105
+    },
+    {
+        "date": "2021-02-11",
+        "symbol": "DDOG",
+        "actualEarningResult": 0.06,
+        "estimatedEarning": 0.01759
+    },
+    {
+        "date": "2020-11-10",
+        "symbol": "DDOG",
+        "actualEarningResult": 0.05,
+        "estimatedEarning": 0.0095
+    },
+    {
+        "date": "2020-08-06",
+        "symbol": "DDOG",
+        "actualEarningResult": 0.05,
+        "estimatedEarning": 0.00753
+    },
+    {
+        "date": "2020-05-11",
+        "symbol": "DDOG",
+        "actualEarningResult": 0.06,
+        "estimatedEarning": 0.01
+    },
+    {
+        "date": "2020-02-13",
+        "symbol": "DDOG",
+        "actualEarningResult": 0.03,
+        "estimatedEarning": 0.00847
+    },
+    {
+        "date": "2019-11-12",
+        "symbol": "DDOG",
+        "actualEarningResult": -0.04006,
+        "estimatedEarning": -0.14
+    }
+]

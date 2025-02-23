@@ -1,0 +1,6292 @@
+[
+    {
+        "symbol": "EIX",
+        "date": "2024-12-31",
+        "marketCap": 30898080000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2024-12-30",
+        "marketCap": 30836160000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2024-12-27",
+        "marketCap": 30878730000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2024-12-26",
+        "marketCap": 30963870000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2024-12-24",
+        "marketCap": 31060620000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2024-12-23",
+        "marketCap": 30851640000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2024-12-20",
+        "marketCap": 30774240000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2024-12-19",
+        "marketCap": 30158910000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2024-12-18",
+        "marketCap": 30286620000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2024-12-17",
+        "marketCap": 31153500000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2024-12-16",
+        "marketCap": 31412790000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2024-12-13",
+        "marketCap": 31691430000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2024-12-12",
+        "marketCap": 31586940000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2024-12-11",
+        "marketCap": 31571460000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2024-12-10",
+        "marketCap": 32035860000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2024-12-09",
+        "marketCap": 32128740000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2024-12-06",
+        "marketCap": 32488650000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2024-12-05",
+        "marketCap": 32864040000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2024-12-04",
+        "marketCap": 32639580000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2024-12-03",
+        "marketCap": 32794379999
+    },
+    {
+        "symbol": "EIX",
+        "date": "2024-12-02",
+        "marketCap": 33196860000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2024-11-29",
+        "marketCap": 33959250000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2024-11-27",
+        "marketCap": 34195320000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2024-11-26",
+        "marketCap": 33955379999
+    },
+    {
+        "symbol": "EIX",
+        "date": "2024-11-25",
+        "marketCap": 33905070000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2024-11-22",
+        "marketCap": 33467760000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2024-11-21",
+        "marketCap": 33703830000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2024-11-20",
+        "marketCap": 33328440000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2024-11-19",
+        "marketCap": 33142680000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2024-11-18",
+        "marketCap": 32538960000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2024-11-15",
+        "marketCap": 32384160000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2024-11-14",
+        "marketCap": 31784310000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2024-11-13",
+        "marketCap": 31803660000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2024-11-12",
+        "marketCap": 32024250000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2024-11-11",
+        "marketCap": 32345460000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2024-11-08",
+        "marketCap": 32159699999
+    },
+    {
+        "symbol": "EIX",
+        "date": "2024-11-07",
+        "marketCap": 31521150000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2024-11-06",
+        "marketCap": 31412790000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2024-11-05",
+        "marketCap": 31722390000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2024-11-04",
+        "marketCap": 31347000000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2024-11-01",
+        "marketCap": 31397310000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2024-10-31",
+        "marketCap": 31888800000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2024-10-30",
+        "marketCap": 32213879999
+    },
+    {
+        "symbol": "EIX",
+        "date": "2024-10-29",
+        "marketCap": 32175180000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2024-10-28",
+        "marketCap": 32693760000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2024-10-25",
+        "marketCap": 32305350000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2024-10-24",
+        "marketCap": 32963700000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2024-10-23",
+        "marketCap": 33110000000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2024-10-22",
+        "marketCap": 33044550000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2024-10-21",
+        "marketCap": 32574850000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2024-10-18",
+        "marketCap": 32890550000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2024-10-17",
+        "marketCap": 32586400000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2024-10-16",
+        "marketCap": 33094599999
+    },
+    {
+        "symbol": "EIX",
+        "date": "2024-10-15",
+        "marketCap": 32751949999
+    },
+    {
+        "symbol": "EIX",
+        "date": "2024-10-14",
+        "marketCap": 32547900000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2024-10-11",
+        "marketCap": 32189850000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2024-10-10",
+        "marketCap": 31958850000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2024-10-09",
+        "marketCap": 32513250000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2024-10-08",
+        "marketCap": 32682650000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2024-10-07",
+        "marketCap": 32594100000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2024-10-04",
+        "marketCap": 33179300000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2024-10-03",
+        "marketCap": 33360250000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2024-10-02",
+        "marketCap": 33679800000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2024-10-01",
+        "marketCap": 33776050000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2024-09-30",
+        "marketCap": 33529650000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2024-09-27",
+        "marketCap": 33421850000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2024-09-26",
+        "marketCap": 33202399999
+    },
+    {
+        "symbol": "EIX",
+        "date": "2024-09-25",
+        "marketCap": 32917500000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2024-09-24",
+        "marketCap": 33086900000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2024-09-23",
+        "marketCap": 33148499999
+    },
+    {
+        "symbol": "EIX",
+        "date": "2024-09-20",
+        "marketCap": 32890550000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2024-09-19",
+        "marketCap": 32413150000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2024-09-18",
+        "marketCap": 32836650000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2024-09-17",
+        "marketCap": 33133100000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2024-09-16",
+        "marketCap": 33206250000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2024-09-13",
+        "marketCap": 32886700000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2024-09-12",
+        "marketCap": 32582550000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2024-09-11",
+        "marketCap": 32432399999
+    },
+    {
+        "symbol": "EIX",
+        "date": "2024-09-10",
+        "marketCap": 32578700000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2024-09-09",
+        "marketCap": 33144650000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2024-09-06",
+        "marketCap": 33360250000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2024-09-05",
+        "marketCap": 33741400000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2024-09-04",
+        "marketCap": 33772200000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2024-09-03",
+        "marketCap": 33622050000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2024-08-30",
+        "marketCap": 33506550000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2024-08-29",
+        "marketCap": 33302500000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2024-08-28",
+        "marketCap": 32725000000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2024-08-27",
+        "marketCap": 32640300000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2024-08-26",
+        "marketCap": 32882850000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2024-08-23",
+        "marketCap": 32632600000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2024-08-22",
+        "marketCap": 32482450000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2024-08-21",
+        "marketCap": 32409300000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2024-08-20",
+        "marketCap": 32228349999
+    },
+    {
+        "symbol": "EIX",
+        "date": "2024-08-19",
+        "marketCap": 32297650000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2024-08-16",
+        "marketCap": 32112850000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2024-08-15",
+        "marketCap": 32016600000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2024-08-14",
+        "marketCap": 32008900000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2024-08-13",
+        "marketCap": 31920350000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2024-08-12",
+        "marketCap": 31727850000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2024-08-09",
+        "marketCap": 31562300000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2024-08-08",
+        "marketCap": 31466050000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2024-08-07",
+        "marketCap": 31431400000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2024-08-06",
+        "marketCap": 31389050000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2024-08-05",
+        "marketCap": 31011750000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2024-08-02",
+        "marketCap": 31673950000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2024-08-01",
+        "marketCap": 31419850000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2024-07-31",
+        "marketCap": 30803850000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2024-07-30",
+        "marketCap": 30561300000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2024-07-29",
+        "marketCap": 30107000000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2024-07-26",
+        "marketCap": 30226350000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2024-07-25",
+        "marketCap": 29425550000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2024-07-24",
+        "marketCap": 29275400000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2024-07-23",
+        "marketCap": 28917350000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2024-07-22",
+        "marketCap": 28952000000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2024-07-19",
+        "marketCap": 28851900000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2024-07-18",
+        "marketCap": 28909650000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2024-07-17",
+        "marketCap": 29009749999
+    },
+    {
+        "symbol": "EIX",
+        "date": "2024-07-16",
+        "marketCap": 28459200000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2024-07-15",
+        "marketCap": 28124250000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2024-07-12",
+        "marketCap": 28813400000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2024-07-11",
+        "marketCap": 28597800000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2024-07-10",
+        "marketCap": 27870150000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2024-07-09",
+        "marketCap": 27539050000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2024-07-08",
+        "marketCap": 27554449999
+    },
+    {
+        "symbol": "EIX",
+        "date": "2024-07-05",
+        "marketCap": 27874000000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2024-07-03",
+        "marketCap": 27650699999
+    },
+    {
+        "symbol": "EIX",
+        "date": "2024-07-02",
+        "marketCap": 27577550000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2024-07-01",
+        "marketCap": 27408150000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2024-06-28",
+        "marketCap": 27646850000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2024-06-27",
+        "marketCap": 27735400000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2024-06-26",
+        "marketCap": 27662249999
+    },
+    {
+        "symbol": "EIX",
+        "date": "2024-06-25",
+        "marketCap": 27666100000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2024-06-24",
+        "marketCap": 28012600000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2024-06-21",
+        "marketCap": 27581400000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2024-06-20",
+        "marketCap": 27673800000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2024-06-18",
+        "marketCap": 27519800000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2024-06-17",
+        "marketCap": 27539050000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2024-06-14",
+        "marketCap": 28185849999
+    },
+    {
+        "symbol": "EIX",
+        "date": "2024-06-13",
+        "marketCap": 28278250000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2024-06-12",
+        "marketCap": 28316750000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2024-06-11",
+        "marketCap": 28339850000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2024-06-10",
+        "marketCap": 28432249999
+    },
+    {
+        "symbol": "EIX",
+        "date": "2024-06-07",
+        "marketCap": 28482300000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2024-06-06",
+        "marketCap": 28682500000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2024-06-05",
+        "marketCap": 29040550000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2024-06-04",
+        "marketCap": 29460200000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2024-06-03",
+        "marketCap": 29367800000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2024-05-31",
+        "marketCap": 29587249999
+    },
+    {
+        "symbol": "EIX",
+        "date": "2024-05-30",
+        "marketCap": 28747950000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2024-05-29",
+        "marketCap": 28239749999
+    },
+    {
+        "symbol": "EIX",
+        "date": "2024-05-28",
+        "marketCap": 28543900000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2024-05-24",
+        "marketCap": 28709449999
+    },
+    {
+        "symbol": "EIX",
+        "date": "2024-05-23",
+        "marketCap": 28586250000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2024-05-22",
+        "marketCap": 29086750000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2024-05-21",
+        "marketCap": 29556450000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2024-05-20",
+        "marketCap": 29298499999
+    },
+    {
+        "symbol": "EIX",
+        "date": "2024-05-17",
+        "marketCap": 29375500000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2024-05-16",
+        "marketCap": 29206100000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2024-05-15",
+        "marketCap": 29152200000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2024-05-14",
+        "marketCap": 28844200000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2024-05-13",
+        "marketCap": 28659400000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2024-05-10",
+        "marketCap": 28832650000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2024-05-09",
+        "marketCap": 28782600000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2024-05-08",
+        "marketCap": 28432249999
+    },
+    {
+        "symbol": "EIX",
+        "date": "2024-05-07",
+        "marketCap": 28447650000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2024-05-06",
+        "marketCap": 28112700000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2024-05-03",
+        "marketCap": 27850900000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2024-05-02",
+        "marketCap": 27708450000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2024-05-01",
+        "marketCap": 27442800000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2024-04-30",
+        "marketCap": 27358100000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2024-04-29",
+        "marketCap": 27462050000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2024-04-26",
+        "marketCap": 27003900000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2024-04-25",
+        "marketCap": 27385050000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2024-04-24",
+        "marketCap": 27265699999
+    },
+    {
+        "symbol": "EIX",
+        "date": "2024-04-23",
+        "marketCap": 27277249999
+    },
+    {
+        "symbol": "EIX",
+        "date": "2024-04-22",
+        "marketCap": 27204100000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2024-04-19",
+        "marketCap": 26923050000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2024-04-18",
+        "marketCap": 26230050000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2024-04-17",
+        "marketCap": 26195400000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2024-04-16",
+        "marketCap": 25721850000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2024-04-15",
+        "marketCap": 26133800000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2024-04-12",
+        "marketCap": 26422550000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2024-04-11",
+        "marketCap": 26503400000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2024-04-10",
+        "marketCap": 26534200000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2024-04-09",
+        "marketCap": 27292650000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2024-04-08",
+        "marketCap": 27211800000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2024-04-05",
+        "marketCap": 27265699999
+    },
+    {
+        "symbol": "EIX",
+        "date": "2024-04-04",
+        "marketCap": 26892249999
+    },
+    {
+        "symbol": "EIX",
+        "date": "2024-04-03",
+        "marketCap": 26911500000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2024-04-02",
+        "marketCap": 27000050000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2024-04-01",
+        "marketCap": 27119400000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2024-03-28",
+        "marketCap": 27231050000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2024-03-27",
+        "marketCap": 26719000000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2024-03-26",
+        "marketCap": 26268550000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2024-03-25",
+        "marketCap": 26653550000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2024-03-22",
+        "marketCap": 26780600000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2024-03-21",
+        "marketCap": 27015450000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2024-03-20",
+        "marketCap": 26757500000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2024-03-19",
+        "marketCap": 26757500000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2024-03-18",
+        "marketCap": 26549599999
+    },
+    {
+        "symbol": "EIX",
+        "date": "2024-03-15",
+        "marketCap": 26488000000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2024-03-14",
+        "marketCap": 26353250000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2024-03-13",
+        "marketCap": 26815250000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2024-03-12",
+        "marketCap": 26742099999
+    },
+    {
+        "symbol": "EIX",
+        "date": "2024-03-11",
+        "marketCap": 26715150000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2024-03-08",
+        "marketCap": 26668950000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2024-03-07",
+        "marketCap": 26549599999
+    },
+    {
+        "symbol": "EIX",
+        "date": "2024-03-06",
+        "marketCap": 26276250000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2024-03-05",
+        "marketCap": 25837350000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2024-03-04",
+        "marketCap": 25972099999
+    },
+    {
+        "symbol": "EIX",
+        "date": "2024-03-01",
+        "marketCap": 25621750000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2024-02-29",
+        "marketCap": 26187700000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2024-02-28",
+        "marketCap": 26122249999
+    },
+    {
+        "symbol": "EIX",
+        "date": "2024-02-27",
+        "marketCap": 26068349999
+    },
+    {
+        "symbol": "EIX",
+        "date": "2024-02-26",
+        "marketCap": 25621750000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2024-02-23",
+        "marketCap": 26280100000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2024-02-22",
+        "marketCap": 25956700000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2024-02-21",
+        "marketCap": 26160750000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2024-02-20",
+        "marketCap": 25617900000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2024-02-16",
+        "marketCap": 25529350000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2024-02-15",
+        "marketCap": 25587099999
+    },
+    {
+        "symbol": "EIX",
+        "date": "2024-02-14",
+        "marketCap": 25036550000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2024-02-13",
+        "marketCap": 24797850000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2024-02-12",
+        "marketCap": 25171300000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2024-02-09",
+        "marketCap": 24909500000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2024-02-08",
+        "marketCap": 24917200000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2024-02-07",
+        "marketCap": 25194400000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2024-02-06",
+        "marketCap": 25075050000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2024-02-05",
+        "marketCap": 25240600000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2024-02-02",
+        "marketCap": 25744950000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2024-02-01",
+        "marketCap": 26291650000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2024-01-31",
+        "marketCap": 25979800000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2024-01-30",
+        "marketCap": 25914350000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2024-01-29",
+        "marketCap": 26064500000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2024-01-26",
+        "marketCap": 25987500000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2024-01-25",
+        "marketCap": 25810400000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2024-01-24",
+        "marketCap": 25094300000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2024-01-23",
+        "marketCap": 25798850000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2024-01-22",
+        "marketCap": 26045250000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2024-01-19",
+        "marketCap": 26291650000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2024-01-18",
+        "marketCap": 26410999999
+    },
+    {
+        "symbol": "EIX",
+        "date": "2024-01-17",
+        "marketCap": 26680500000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2024-01-16",
+        "marketCap": 27015450000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2024-01-12",
+        "marketCap": 27473600000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2024-01-11",
+        "marketCap": 27400450000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2024-01-10",
+        "marketCap": 27847050000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2024-01-09",
+        "marketCap": 28112700000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2024-01-08",
+        "marketCap": 28170450000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2024-01-05",
+        "marketCap": 27939449999
+    },
+    {
+        "symbol": "EIX",
+        "date": "2024-01-04",
+        "marketCap": 27831650000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2024-01-03",
+        "marketCap": 27558300000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2024-01-02",
+        "marketCap": 27850900000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2023-12-29",
+        "marketCap": 27446791958
+    },
+    {
+        "symbol": "EIX",
+        "date": "2023-12-28",
+        "marketCap": 27489023699
+    },
+    {
+        "symbol": "EIX",
+        "date": "2023-12-27",
+        "marketCap": 27608040421
+    },
+    {
+        "symbol": "EIX",
+        "date": "2023-12-26",
+        "marketCap": 27504380695
+    },
+    {
+        "symbol": "EIX",
+        "date": "2023-12-22",
+        "marketCap": 26675102885
+    },
+    {
+        "symbol": "EIX",
+        "date": "2023-12-21",
+        "marketCap": 26440908689
+    },
+    {
+        "symbol": "EIX",
+        "date": "2023-12-20",
+        "marketCap": 26402516198
+    },
+    {
+        "symbol": "EIX",
+        "date": "2023-12-19",
+        "marketCap": 26878583089
+    },
+    {
+        "symbol": "EIX",
+        "date": "2023-12-18",
+        "marketCap": 26782601861
+    },
+    {
+        "symbol": "EIX",
+        "date": "2023-12-15",
+        "marketCap": 26893940085
+    },
+    {
+        "symbol": "EIX",
+        "date": "2023-12-14",
+        "marketCap": 26997599811
+    },
+    {
+        "symbol": "EIX",
+        "date": "2023-12-13",
+        "marketCap": 27178044520
+    },
+    {
+        "symbol": "EIX",
+        "date": "2023-12-12",
+        "marketCap": 25961002549
+    },
+    {
+        "symbol": "EIX",
+        "date": "2023-12-11",
+        "marketCap": 26118411763
+    },
+    {
+        "symbol": "EIX",
+        "date": "2023-12-08",
+        "marketCap": 25895735314
+    },
+    {
+        "symbol": "EIX",
+        "date": "2023-12-07",
+        "marketCap": 25841985826
+    },
+    {
+        "symbol": "EIX",
+        "date": "2023-12-06",
+        "marketCap": 25784397089
+    },
+    {
+        "symbol": "EIX",
+        "date": "2023-12-05",
+        "marketCap": 25615470128
+    },
+    {
+        "symbol": "EIX",
+        "date": "2023-12-04",
+        "marketCap": 25865021321
+    },
+    {
+        "symbol": "EIX",
+        "date": "2023-12-01",
+        "marketCap": 25907253061
+    },
+    {
+        "symbol": "EIX",
+        "date": "2023-11-30",
+        "marketCap": 25719129854
+    },
+    {
+        "symbol": "EIX",
+        "date": "2023-11-29",
+        "marketCap": 25254580711
+    },
+    {
+        "symbol": "EIX",
+        "date": "2023-11-28",
+        "marketCap": 25527167398
+    },
+    {
+        "symbol": "EIX",
+        "date": "2023-11-27",
+        "marketCap": 25442703918
+    },
+    {
+        "symbol": "EIX",
+        "date": "2023-11-24",
+        "marketCap": 25281455455
+    },
+    {
+        "symbol": "EIX",
+        "date": "2023-11-22",
+        "marketCap": 25300651700
+    },
+    {
+        "symbol": "EIX",
+        "date": "2023-11-21",
+        "marketCap": 25158599483
+    },
+    {
+        "symbol": "EIX",
+        "date": "2023-11-20",
+        "marketCap": 25220027469
+    },
+    {
+        "symbol": "EIX",
+        "date": "2023-11-17",
+        "marketCap": 25312169448
+    },
+    {
+        "symbol": "EIX",
+        "date": "2023-11-16",
+        "marketCap": 25335204942
+    },
+    {
+        "symbol": "EIX",
+        "date": "2023-11-15",
+        "marketCap": 25058779006
+    },
+    {
+        "symbol": "EIX",
+        "date": "2023-11-14",
+        "marketCap": 25227705967
+    },
+    {
+        "symbol": "EIX",
+        "date": "2023-11-13",
+        "marketCap": 23899325772
+    },
+    {
+        "symbol": "EIX",
+        "date": "2023-11-10",
+        "marketCap": 24463695392
+    },
+    {
+        "symbol": "EIX",
+        "date": "2023-11-09",
+        "marketCap": 24252536691
+    },
+    {
+        "symbol": "EIX",
+        "date": "2023-11-08",
+        "marketCap": 24156555463
+    },
+    {
+        "symbol": "EIX",
+        "date": "2023-11-07",
+        "marketCap": 24386910410
+    },
+    {
+        "symbol": "EIX",
+        "date": "2023-11-06",
+        "marketCap": 24525123378
+    },
+    {
+        "symbol": "EIX",
+        "date": "2023-11-03",
+        "marketCap": 24590390613
+    },
+    {
+        "symbol": "EIX",
+        "date": "2023-11-02",
+        "marketCap": 24429142150
+    },
+    {
+        "symbol": "EIX",
+        "date": "2023-11-01",
+        "marketCap": 24559676620
+    },
+    {
+        "symbol": "EIX",
+        "date": "2023-10-31",
+        "marketCap": 24210304950
+    },
+    {
+        "symbol": "EIX",
+        "date": "2023-10-30",
+        "marketCap": 24072091982
+    },
+    {
+        "symbol": "EIX",
+        "date": "2023-10-27",
+        "marketCap": 23780309049
+    },
+    {
+        "symbol": "EIX",
+        "date": "2023-10-26",
+        "marketCap": 24452177645
+    },
+    {
+        "symbol": "EIX",
+        "date": "2023-10-25",
+        "marketCap": 24302446929
+    },
+    {
+        "symbol": "EIX",
+        "date": "2023-10-24",
+        "marketCap": 24594229862
+    },
+    {
+        "symbol": "EIX",
+        "date": "2023-10-23",
+        "marketCap": 23741916558
+    },
+    {
+        "symbol": "EIX",
+        "date": "2023-10-20",
+        "marketCap": 24075931231
+    },
+    {
+        "symbol": "EIX",
+        "date": "2023-10-19",
+        "marketCap": 24571194368
+    },
+    {
+        "symbol": "EIX",
+        "date": "2023-10-18",
+        "marketCap": 25185474227
+    },
+    {
+        "symbol": "EIX",
+        "date": "2023-10-17",
+        "marketCap": 25481096409
+    },
+    {
+        "symbol": "EIX",
+        "date": "2023-10-16",
+        "marketCap": 25396632928
+    },
+    {
+        "symbol": "EIX",
+        "date": "2023-10-13",
+        "marketCap": 25220027469
+    },
+    {
+        "symbol": "EIX",
+        "date": "2023-10-12",
+        "marketCap": 24912887539
+    },
+    {
+        "symbol": "EIX",
+        "date": "2023-10-11",
+        "marketCap": 24928244536
+    },
+    {
+        "symbol": "EIX",
+        "date": "2023-10-10",
+        "marketCap": 24290929182
+    },
+    {
+        "symbol": "EIX",
+        "date": "2023-10-09",
+        "marketCap": 24006824747
+    },
+    {
+        "symbol": "EIX",
+        "date": "2023-10-06",
+        "marketCap": 23826380038
+    },
+    {
+        "symbol": "EIX",
+        "date": "2023-10-05",
+        "marketCap": 23300402909
+    },
+    {
+        "symbol": "EIX",
+        "date": "2023-10-04",
+        "marketCap": 23507722361
+    },
+    {
+        "symbol": "EIX",
+        "date": "2023-10-03",
+        "marketCap": 23507722361
+    },
+    {
+        "symbol": "EIX",
+        "date": "2023-10-02",
+        "marketCap": 23434776628
+    },
+    {
+        "symbol": "EIX",
+        "date": "2023-09-29",
+        "marketCap": 24240070000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2023-09-28",
+        "marketCap": 24354970000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2023-09-27",
+        "marketCap": 25009900000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2023-09-26",
+        "marketCap": 25201400000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2023-09-25",
+        "marketCap": 25906120000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2023-09-22",
+        "marketCap": 26070809999
+    },
+    {
+        "symbol": "EIX",
+        "date": "2023-09-21",
+        "marketCap": 26388700000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2023-09-20",
+        "marketCap": 26714250000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2023-09-19",
+        "marketCap": 26882770000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2023-09-18",
+        "marketCap": 27277260000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2023-09-15",
+        "marketCap": 27407480000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2023-09-14",
+        "marketCap": 27392160000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2023-09-13",
+        "marketCap": 27093419999
+    },
+    {
+        "symbol": "EIX",
+        "date": "2023-09-12",
+        "marketCap": 26921070000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2023-09-11",
+        "marketCap": 26760210000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2023-09-08",
+        "marketCap": 26733400000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2023-09-07",
+        "marketCap": 26304440000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2023-09-06",
+        "marketCap": 25940590000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2023-09-05",
+        "marketCap": 25749090000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2023-09-01",
+        "marketCap": 26201030000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2023-08-31",
+        "marketCap": 26369549999
+    },
+    {
+        "symbol": "EIX",
+        "date": "2023-08-30",
+        "marketCap": 26783190000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2023-08-29",
+        "marketCap": 26871280000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2023-08-28",
+        "marketCap": 26702760000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2023-08-25",
+        "marketCap": 26783190000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2023-08-24",
+        "marketCap": 26641480000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2023-08-23",
+        "marketCap": 26779360000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2023-08-22",
+        "marketCap": 26633820000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2023-08-21",
+        "marketCap": 26430830000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2023-08-18",
+        "marketCap": 26442320000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2023-08-17",
+        "marketCap": 26273799999
+    },
+    {
+        "symbol": "EIX",
+        "date": "2023-08-16",
+        "marketCap": 26488280000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2023-08-15",
+        "marketCap": 26358059999
+    },
+    {
+        "symbol": "EIX",
+        "date": "2023-08-14",
+        "marketCap": 26718080000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2023-08-11",
+        "marketCap": 27012990000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2023-08-10",
+        "marketCap": 26790850000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2023-08-09",
+        "marketCap": 26917240000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2023-08-08",
+        "marketCap": 27001500000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2023-08-07",
+        "marketCap": 26729570000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2023-08-04",
+        "marketCap": 26518919999
+    },
+    {
+        "symbol": "EIX",
+        "date": "2023-08-03",
+        "marketCap": 26940220000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2023-08-02",
+        "marketCap": 27399820000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2023-08-01",
+        "marketCap": 27208320000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2023-07-31",
+        "marketCap": 27560679999
+    },
+    {
+        "symbol": "EIX",
+        "date": "2023-07-28",
+        "marketCap": 27943679999
+    },
+    {
+        "symbol": "EIX",
+        "date": "2023-07-27",
+        "marketCap": 27139380000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2023-07-26",
+        "marketCap": 27614299999
+    },
+    {
+        "symbol": "EIX",
+        "date": "2023-07-25",
+        "marketCap": 27725370000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2023-07-24",
+        "marketCap": 27782820000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2023-07-21",
+        "marketCap": 27729200000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2023-07-20",
+        "marketCap": 27633450000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2023-07-19",
+        "marketCap": 27055120000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2023-07-18",
+        "marketCap": 26568710000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2023-07-17",
+        "marketCap": 26767870000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2023-07-14",
+        "marketCap": 26990010000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2023-07-13",
+        "marketCap": 27173850000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2023-07-12",
+        "marketCap": 26986179999
+    },
+    {
+        "symbol": "EIX",
+        "date": "2023-07-11",
+        "marketCap": 26572540000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2023-07-10",
+        "marketCap": 26162730000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2023-07-07",
+        "marketCap": 26373380000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2023-07-06",
+        "marketCap": 26591690000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2023-07-05",
+        "marketCap": 26898090000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2023-07-03",
+        "marketCap": 26461470000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2023-06-30",
+        "marketCap": 26599350000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2023-06-29",
+        "marketCap": 26262309999
+    },
+    {
+        "symbol": "EIX",
+        "date": "2023-06-28",
+        "marketCap": 26185710000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2023-06-27",
+        "marketCap": 26580200000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2023-06-26",
+        "marketCap": 26350400000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2023-06-23",
+        "marketCap": 25952080000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2023-06-22",
+        "marketCap": 26461470000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2023-06-21",
+        "marketCap": 26706590000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2023-06-20",
+        "marketCap": 26338910000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2023-06-16",
+        "marketCap": 26878940000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2023-06-15",
+        "marketCap": 26350400000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2023-06-14",
+        "marketCap": 26109110000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2023-06-13",
+        "marketCap": 25998040000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2023-06-12",
+        "marketCap": 25909950000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2023-06-09",
+        "marketCap": 25936760000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2023-06-08",
+        "marketCap": 26262309999
+    },
+    {
+        "symbol": "EIX",
+        "date": "2023-06-07",
+        "marketCap": 26312100000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2023-06-06",
+        "marketCap": 25549929999
+    },
+    {
+        "symbol": "EIX",
+        "date": "2023-06-05",
+        "marketCap": 25584400000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2023-06-02",
+        "marketCap": 25538440000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2023-06-01",
+        "marketCap": 25538440000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2023-05-31",
+        "marketCap": 25860160000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2023-05-30",
+        "marketCap": 25170760000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2023-05-26",
+        "marketCap": 25136290000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2023-05-25",
+        "marketCap": 25147780000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2023-05-24",
+        "marketCap": 25500140000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2023-05-23",
+        "marketCap": 25802710000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2023-05-22",
+        "marketCap": 25921440000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2023-05-19",
+        "marketCap": 26135919999
+    },
+    {
+        "symbol": "EIX",
+        "date": "2023-05-18",
+        "marketCap": 26369549999
+    },
+    {
+        "symbol": "EIX",
+        "date": "2023-05-17",
+        "marketCap": 26710419999
+    },
+    {
+        "symbol": "EIX",
+        "date": "2023-05-16",
+        "marketCap": 26924900000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2023-05-15",
+        "marketCap": 27667919999
+    },
+    {
+        "symbol": "EIX",
+        "date": "2023-05-12",
+        "marketCap": 28219440000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2023-05-11",
+        "marketCap": 28039429999
+    },
+    {
+        "symbol": "EIX",
+        "date": "2023-05-10",
+        "marketCap": 28414770000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2023-05-09",
+        "marketCap": 28200290000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2023-05-08",
+        "marketCap": 28108370000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2023-05-05",
+        "marketCap": 28173480000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2023-05-04",
+        "marketCap": 27763669999
+    },
+    {
+        "symbol": "EIX",
+        "date": "2023-05-03",
+        "marketCap": 27449610000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2023-05-02",
+        "marketCap": 28066240000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2023-05-01",
+        "marketCap": 28322850000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2023-04-28",
+        "marketCap": 28188799999
+    },
+    {
+        "symbol": "EIX",
+        "date": "2023-04-27",
+        "marketCap": 28177309999
+    },
+    {
+        "symbol": "EIX",
+        "date": "2023-04-26",
+        "marketCap": 27959000000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2023-04-25",
+        "marketCap": 28253910000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2023-04-24",
+        "marketCap": 28215610000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2023-04-21",
+        "marketCap": 27932190000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2023-04-20",
+        "marketCap": 27959000000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2023-04-19",
+        "marketCap": 27859419999
+    },
+    {
+        "symbol": "EIX",
+        "date": "2023-04-18",
+        "marketCap": 27618130000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2023-04-17",
+        "marketCap": 27606640000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2023-04-14",
+        "marketCap": 27426630000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2023-04-13",
+        "marketCap": 27939850000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2023-04-12",
+        "marketCap": 27985809999
+    },
+    {
+        "symbol": "EIX",
+        "date": "2023-04-11",
+        "marketCap": 27886230000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2023-04-10",
+        "marketCap": 27897720000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2023-04-06",
+        "marketCap": 27790480000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2023-04-05",
+        "marketCap": 27675580000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2023-04-04",
+        "marketCap": 26921070000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2023-04-03",
+        "marketCap": 27016820000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2023-03-31",
+        "marketCap": 27035970000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2023-03-30",
+        "marketCap": 26810000000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2023-03-29",
+        "marketCap": 26733400000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2023-03-28",
+        "marketCap": 26312100000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2023-03-27",
+        "marketCap": 26246990000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2023-03-24",
+        "marketCap": 26189540000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2023-03-23",
+        "marketCap": 25293320000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2023-03-22",
+        "marketCap": 25396730000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2023-03-21",
+        "marketCap": 25971230000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2023-03-20",
+        "marketCap": 26427000000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2023-03-17",
+        "marketCap": 25952080000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2023-03-16",
+        "marketCap": 26419340000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2023-03-15",
+        "marketCap": 26089960000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2023-03-14",
+        "marketCap": 26158900000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2023-03-13",
+        "marketCap": 25810370000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2023-03-10",
+        "marketCap": 25366090000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2023-03-09",
+        "marketCap": 25661000000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2023-03-08",
+        "marketCap": 26155070000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2023-03-07",
+        "marketCap": 25810370000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2023-03-06",
+        "marketCap": 26204860000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2023-03-03",
+        "marketCap": 25775900000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2023-03-02",
+        "marketCap": 25109480000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2023-03-01",
+        "marketCap": 24737970000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2023-02-28",
+        "marketCap": 25358429999
+    },
+    {
+        "symbol": "EIX",
+        "date": "2023-02-27",
+        "marketCap": 26093790000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2023-02-24",
+        "marketCap": 26285290000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2023-02-23",
+        "marketCap": 25224380000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2023-02-22",
+        "marketCap": 25354600000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2023-02-21",
+        "marketCap": 25549929999
+    },
+    {
+        "symbol": "EIX",
+        "date": "2023-02-17",
+        "marketCap": 25886970000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2023-02-16",
+        "marketCap": 25745260000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2023-02-15",
+        "marketCap": 25929100000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2023-02-14",
+        "marketCap": 25867820000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2023-02-13",
+        "marketCap": 26051660000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2023-02-10",
+        "marketCap": 25664830000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2023-02-09",
+        "marketCap": 25205230000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2023-02-08",
+        "marketCap": 25588230000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2023-02-07",
+        "marketCap": 25779730000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2023-02-06",
+        "marketCap": 25971230000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2023-02-03",
+        "marketCap": 25611210000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2023-02-02",
+        "marketCap": 26327419999
+    },
+    {
+        "symbol": "EIX",
+        "date": "2023-02-01",
+        "marketCap": 25994210000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2023-01-31",
+        "marketCap": 26388700000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2023-01-30",
+        "marketCap": 26097620000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2023-01-27",
+        "marketCap": 26327419999
+    },
+    {
+        "symbol": "EIX",
+        "date": "2023-01-26",
+        "marketCap": 26185710000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2023-01-25",
+        "marketCap": 25863990000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2023-01-24",
+        "marketCap": 25975059999
+    },
+    {
+        "symbol": "EIX",
+        "date": "2023-01-23",
+        "marketCap": 25672490000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2023-01-20",
+        "marketCap": 25557590000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2023-01-19",
+        "marketCap": 25151610000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2023-01-18",
+        "marketCap": 25580570000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2023-01-17",
+        "marketCap": 26312100000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2023-01-13",
+        "marketCap": 26120600000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2023-01-12",
+        "marketCap": 26216350000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2023-01-11",
+        "marketCap": 26587860000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2023-01-10",
+        "marketCap": 26120600000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2023-01-09",
+        "marketCap": 25963570000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2023-01-06",
+        "marketCap": 25611210000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2023-01-05",
+        "marketCap": 24852870000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2023-01-04",
+        "marketCap": 25427370000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2023-01-03",
+        "marketCap": 24619240000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2022-12-30",
+        "marketCap": 24316104642
+    },
+    {
+        "symbol": "EIX",
+        "date": "2022-12-29",
+        "marketCap": 24614227271
+    },
+    {
+        "symbol": "EIX",
+        "date": "2022-12-28",
+        "marketCap": 24851196539
+    },
+    {
+        "symbol": "EIX",
+        "date": "2022-12-27",
+        "marketCap": 25156963338
+    },
+    {
+        "symbol": "EIX",
+        "date": "2022-12-23",
+        "marketCap": 24912349899
+    },
+    {
+        "symbol": "EIX",
+        "date": "2022-12-22",
+        "marketCap": 24652448121
+    },
+    {
+        "symbol": "EIX",
+        "date": "2022-12-21",
+        "marketCap": 24927638239
+    },
+    {
+        "symbol": "EIX",
+        "date": "2022-12-20",
+        "marketCap": 24797687350
+    },
+    {
+        "symbol": "EIX",
+        "date": "2022-12-19",
+        "marketCap": 24824441945
+    },
+    {
+        "symbol": "EIX",
+        "date": "2022-12-16",
+        "marketCap": 24881773219
+    },
+    {
+        "symbol": "EIX",
+        "date": "2022-12-15",
+        "marketCap": 25504773071
+    },
+    {
+        "symbol": "EIX",
+        "date": "2022-12-14",
+        "marketCap": 25856404889
+    },
+    {
+        "symbol": "EIX",
+        "date": "2022-12-13",
+        "marketCap": 25940490759
+    },
+    {
+        "symbol": "EIX",
+        "date": "2022-12-12",
+        "marketCap": 25768496935
+    },
+    {
+        "symbol": "EIX",
+        "date": "2022-12-09",
+        "marketCap": 25145497083
+    },
+    {
+        "symbol": "EIX",
+        "date": "2022-12-08",
+        "marketCap": 24996435769
+    },
+    {
+        "symbol": "EIX",
+        "date": "2022-12-07",
+        "marketCap": 24984969514
+    },
+    {
+        "symbol": "EIX",
+        "date": "2022-12-06",
+        "marketCap": 25233405037
+    },
+    {
+        "symbol": "EIX",
+        "date": "2022-12-05",
+        "marketCap": 24889417389
+    },
+    {
+        "symbol": "EIX",
+        "date": "2022-12-02",
+        "marketCap": 24984969514
+    },
+    {
+        "symbol": "EIX",
+        "date": "2022-12-01",
+        "marketCap": 25042300788
+    },
+    {
+        "symbol": "EIX",
+        "date": "2022-11-30",
+        "marketCap": 25478018476
+    },
+    {
+        "symbol": "EIX",
+        "date": "2022-11-29",
+        "marketCap": 24274061707
+    },
+    {
+        "symbol": "EIX",
+        "date": "2022-11-28",
+        "marketCap": 24228196688
+    },
+    {
+        "symbol": "EIX",
+        "date": "2022-11-25",
+        "marketCap": 24549251826
+    },
+    {
+        "symbol": "EIX",
+        "date": "2022-11-23",
+        "marketCap": 24358147577
+    },
+    {
+        "symbol": "EIX",
+        "date": "2022-11-22",
+        "marketCap": 23861276530
+    },
+    {
+        "symbol": "EIX",
+        "date": "2022-11-21",
+        "marketCap": 23681638536
+    },
+    {
+        "symbol": "EIX",
+        "date": "2022-11-18",
+        "marketCap": 23589908496
+    },
+    {
+        "symbol": "EIX",
+        "date": "2022-11-17",
+        "marketCap": 22871356520
+    },
+    {
+        "symbol": "EIX",
+        "date": "2022-11-16",
+        "marketCap": 23326184632
+    },
+    {
+        "symbol": "EIX",
+        "date": "2022-11-15",
+        "marketCap": 23188589573
+    },
+    {
+        "symbol": "EIX",
+        "date": "2022-11-14",
+        "marketCap": 22901933200
+    },
+    {
+        "symbol": "EIX",
+        "date": "2022-11-11",
+        "marketCap": 22882822775
+    },
+    {
+        "symbol": "EIX",
+        "date": "2022-11-10",
+        "marketCap": 23043350344
+    },
+    {
+        "symbol": "EIX",
+        "date": "2022-11-09",
+        "marketCap": 21904369020
+    },
+    {
+        "symbol": "EIX",
+        "date": "2022-11-08",
+        "marketCap": 22171914968
+    },
+    {
+        "symbol": "EIX",
+        "date": "2022-11-07",
+        "marketCap": 22072540759
+    },
+    {
+        "symbol": "EIX",
+        "date": "2022-11-04",
+        "marketCap": 22561767636
+    },
+    {
+        "symbol": "EIX",
+        "date": "2022-11-03",
+        "marketCap": 22340086708
+    },
+    {
+        "symbol": "EIX",
+        "date": "2022-11-02",
+        "marketCap": 22458571342
+    },
+    {
+        "symbol": "EIX",
+        "date": "2022-11-01",
+        "marketCap": 23127436213
+    },
+    {
+        "symbol": "EIX",
+        "date": "2022-10-31",
+        "marketCap": 22947798219
+    },
+    {
+        "symbol": "EIX",
+        "date": "2022-10-28",
+        "marketCap": 23020417834
+    },
+    {
+        "symbol": "EIX",
+        "date": "2022-10-27",
+        "marketCap": 22313332113
+    },
+    {
+        "symbol": "EIX",
+        "date": "2022-10-26",
+        "marketCap": 21740019366
+    },
+    {
+        "symbol": "EIX",
+        "date": "2022-10-25",
+        "marketCap": 21728553111
+    },
+    {
+        "symbol": "EIX",
+        "date": "2022-10-24",
+        "marketCap": 21315767933
+    },
+    {
+        "symbol": "EIX",
+        "date": "2022-10-21",
+        "marketCap": 21266080828
+    },
+    {
+        "symbol": "EIX",
+        "date": "2022-10-20",
+        "marketCap": 20998534880
+    },
+    {
+        "symbol": "EIX",
+        "date": "2022-10-19",
+        "marketCap": 21686510176
+    },
+    {
+        "symbol": "EIX",
+        "date": "2022-10-18",
+        "marketCap": 21946411955
+    },
+    {
+        "symbol": "EIX",
+        "date": "2022-10-17",
+        "marketCap": 21831749405
+    },
+    {
+        "symbol": "EIX",
+        "date": "2022-10-14",
+        "marketCap": 21032933644
+    },
+    {
+        "symbol": "EIX",
+        "date": "2022-10-13",
+        "marketCap": 21747663536
+    },
+    {
+        "symbol": "EIX",
+        "date": "2022-10-12",
+        "marketCap": 21235504148
+    },
+    {
+        "symbol": "EIX",
+        "date": "2022-10-11",
+        "marketCap": 21961700295
+    },
+    {
+        "symbol": "EIX",
+        "date": "2022-10-10",
+        "marketCap": 22110761609
+    },
+    {
+        "symbol": "EIX",
+        "date": "2022-10-07",
+        "marketCap": 22408884237
+    },
+    {
+        "symbol": "EIX",
+        "date": "2022-10-06",
+        "marketCap": 22416528407
+    },
+    {
+        "symbol": "EIX",
+        "date": "2022-10-05",
+        "marketCap": 22966908644
+    },
+    {
+        "symbol": "EIX",
+        "date": "2022-10-04",
+        "marketCap": 23249742933
+    },
+    {
+        "symbol": "EIX",
+        "date": "2022-10-03",
+        "marketCap": 22703184781
+    },
+    {
+        "symbol": "EIX",
+        "date": "2022-09-30",
+        "marketCap": 21625356816
+    },
+    {
+        "symbol": "EIX",
+        "date": "2022-09-29",
+        "marketCap": 21949720000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2022-09-28",
+        "marketCap": 23420420000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2022-09-27",
+        "marketCap": 23443340000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2022-09-26",
+        "marketCap": 24130940000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2022-09-23",
+        "marketCap": 24776520000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2022-09-22",
+        "marketCap": 25135600000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2022-09-21",
+        "marketCap": 25292219999
+    },
+    {
+        "symbol": "EIX",
+        "date": "2022-09-20",
+        "marketCap": 25865219999
+    },
+    {
+        "symbol": "EIX",
+        "date": "2022-09-19",
+        "marketCap": 26117340000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2022-09-16",
+        "marketCap": 25792640000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2022-09-15",
+        "marketCap": 26090600000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2022-09-14",
+        "marketCap": 26545179999
+    },
+    {
+        "symbol": "EIX",
+        "date": "2022-09-13",
+        "marketCap": 26319800000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2022-09-12",
+        "marketCap": 27167840000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2022-09-09",
+        "marketCap": 26396199999
+    },
+    {
+        "symbol": "EIX",
+        "date": "2022-09-08",
+        "marketCap": 26178460000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2022-09-07",
+        "marketCap": 25987460000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2022-09-06",
+        "marketCap": 25162340000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2022-09-02",
+        "marketCap": 25960719999
+    },
+    {
+        "symbol": "EIX",
+        "date": "2022-09-01",
+        "marketCap": 26079140000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2022-08-31",
+        "marketCap": 25888140000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2022-08-30",
+        "marketCap": 26289239999
+    },
+    {
+        "symbol": "EIX",
+        "date": "2022-08-29",
+        "marketCap": 26606300000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2022-08-26",
+        "marketCap": 26461140000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2022-08-25",
+        "marketCap": 26774380000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2022-08-24",
+        "marketCap": 26419120000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2022-08-23",
+        "marketCap": 26495520000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2022-08-22",
+        "marketCap": 26827860000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2022-08-19",
+        "marketCap": 27328280000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2022-08-18",
+        "marketCap": 27423780000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2022-08-17",
+        "marketCap": 27526920000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2022-08-16",
+        "marketCap": 27431420000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2022-08-15",
+        "marketCap": 27274800000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2022-08-12",
+        "marketCap": 27026500000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2022-08-11",
+        "marketCap": 26358000000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2022-08-10",
+        "marketCap": 26018020000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2022-08-09",
+        "marketCap": 26018020000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2022-08-08",
+        "marketCap": 25861400000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2022-08-05",
+        "marketCap": 26075320000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2022-08-04",
+        "marketCap": 26338900000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2022-08-03",
+        "marketCap": 26472600000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2022-08-02",
+        "marketCap": 26212840000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2022-08-01",
+        "marketCap": 25590179999
+    },
+    {
+        "symbol": "EIX",
+        "date": "2022-07-29",
+        "marketCap": 25888140000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2022-07-28",
+        "marketCap": 25017179999
+    },
+    {
+        "symbol": "EIX",
+        "date": "2022-07-27",
+        "marketCap": 24214980000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2022-07-26",
+        "marketCap": 24150040000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2022-07-25",
+        "marketCap": 23970500000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2022-07-22",
+        "marketCap": 23428060000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2022-07-21",
+        "marketCap": 23210320000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2022-07-20",
+        "marketCap": 23248520000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2022-07-19",
+        "marketCap": 23546480000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2022-07-18",
+        "marketCap": 23294360000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2022-07-15",
+        "marketCap": 23515920000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2022-07-14",
+        "marketCap": 23412780000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2022-07-13",
+        "marketCap": 23760400000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2022-07-12",
+        "marketCap": 23790960000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2022-07-11",
+        "marketCap": 23875000000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2022-07-08",
+        "marketCap": 23863540000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2022-07-07",
+        "marketCap": 23959040000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2022-07-06",
+        "marketCap": 23779500000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2022-07-05",
+        "marketCap": 23565580000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2022-07-01",
+        "marketCap": 24352500000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2022-06-30",
+        "marketCap": 24157680000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2022-06-29",
+        "marketCap": 23949660000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2022-06-28",
+        "marketCap": 23770590000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2022-06-27",
+        "marketCap": 24105870000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2022-06-24",
+        "marketCap": 23922990000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2022-06-23",
+        "marketCap": 23134320000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2022-06-22",
+        "marketCap": 22905720000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2022-06-21",
+        "marketCap": 22966680000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2022-06-17",
+        "marketCap": 22448520000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2022-06-16",
+        "marketCap": 22985730000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2022-06-15",
+        "marketCap": 23290530000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2022-06-14",
+        "marketCap": 23233380000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2022-06-13",
+        "marketCap": 23766780000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2022-06-10",
+        "marketCap": 25519380000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2022-06-09",
+        "marketCap": 25427939999
+    },
+    {
+        "symbol": "EIX",
+        "date": "2022-06-08",
+        "marketCap": 26338530000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2022-06-07",
+        "marketCap": 26757630000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2022-06-06",
+        "marketCap": 26441400000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2022-06-03",
+        "marketCap": 26586180000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2022-06-02",
+        "marketCap": 26807160000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2022-06-01",
+        "marketCap": 26567130000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2022-05-31",
+        "marketCap": 26635710000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2022-05-27",
+        "marketCap": 26692860000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2022-05-26",
+        "marketCap": 26300430000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2022-05-25",
+        "marketCap": 26068020000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2022-05-24",
+        "marketCap": 25938480000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2022-05-23",
+        "marketCap": 25317450000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2022-05-20",
+        "marketCap": 25088849999
+    },
+    {
+        "symbol": "EIX",
+        "date": "2022-05-19",
+        "marketCap": 25088849999
+    },
+    {
+        "symbol": "EIX",
+        "date": "2022-05-18",
+        "marketCap": 25081230000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2022-05-17",
+        "marketCap": 25397460000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2022-05-16",
+        "marketCap": 25370790000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2022-05-13",
+        "marketCap": 24940259999
+    },
+    {
+        "symbol": "EIX",
+        "date": "2022-05-12",
+        "marketCap": 24711660000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2022-05-11",
+        "marketCap": 26068020000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2022-05-10",
+        "marketCap": 25713689999
+    },
+    {
+        "symbol": "EIX",
+        "date": "2022-05-09",
+        "marketCap": 26692860000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2022-05-06",
+        "marketCap": 26784300000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2022-05-05",
+        "marketCap": 26220419999
+    },
+    {
+        "symbol": "EIX",
+        "date": "2022-05-04",
+        "marketCap": 26807160000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2022-05-03",
+        "marketCap": 26068020000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2022-05-02",
+        "marketCap": 25873710000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2022-04-29",
+        "marketCap": 26208990000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2022-04-28",
+        "marketCap": 26974800000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2022-04-27",
+        "marketCap": 26826210000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2022-04-26",
+        "marketCap": 26757630000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2022-04-25",
+        "marketCap": 27153870000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2022-04-22",
+        "marketCap": 27287220000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2022-04-21",
+        "marketCap": 27702509999
+    },
+    {
+        "symbol": "EIX",
+        "date": "2022-04-20",
+        "marketCap": 27717750000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2022-04-19",
+        "marketCap": 27359610000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2022-04-18",
+        "marketCap": 27336750000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2022-04-14",
+        "marketCap": 27371040000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2022-04-13",
+        "marketCap": 27607259999
+    },
+    {
+        "symbol": "EIX",
+        "date": "2022-04-12",
+        "marketCap": 27386280000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2022-04-11",
+        "marketCap": 26974800000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2022-04-08",
+        "marketCap": 27412950000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2022-04-07",
+        "marketCap": 26932890000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2022-04-06",
+        "marketCap": 27256740000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2022-04-05",
+        "marketCap": 26780490000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2022-04-04",
+        "marketCap": 26974800000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2022-04-01",
+        "marketCap": 27066240000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2022-03-31",
+        "marketCap": 26708099999
+    },
+    {
+        "symbol": "EIX",
+        "date": "2022-03-30",
+        "marketCap": 26464259999
+    },
+    {
+        "symbol": "EIX",
+        "date": "2022-03-29",
+        "marketCap": 26567130000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2022-03-28",
+        "marketCap": 26369009999
+    },
+    {
+        "symbol": "EIX",
+        "date": "2022-03-25",
+        "marketCap": 26208990000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2022-03-24",
+        "marketCap": 25511759999
+    },
+    {
+        "symbol": "EIX",
+        "date": "2022-03-23",
+        "marketCap": 25374599999
+    },
+    {
+        "symbol": "EIX",
+        "date": "2022-03-22",
+        "marketCap": 25123140000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2022-03-21",
+        "marketCap": 24932640000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2022-03-18",
+        "marketCap": 24631650000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2022-03-17",
+        "marketCap": 25218390000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2022-03-16",
+        "marketCap": 25264110000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2022-03-15",
+        "marketCap": 25195530000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2022-03-14",
+        "marketCap": 24620220000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2022-03-11",
+        "marketCap": 24684990000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2022-03-10",
+        "marketCap": 25054560000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2022-03-09",
+        "marketCap": 24944070000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2022-03-08",
+        "marketCap": 24829770000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2022-03-07",
+        "marketCap": 25218390000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2022-03-04",
+        "marketCap": 24989790000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2022-03-03",
+        "marketCap": 24860250000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2022-03-02",
+        "marketCap": 24570689999
+    },
+    {
+        "symbol": "EIX",
+        "date": "2022-03-01",
+        "marketCap": 24250650000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2022-02-28",
+        "marketCap": 24163020000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2022-02-25",
+        "marketCap": 23755350000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2022-02-24",
+        "marketCap": 22539960000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2022-02-23",
+        "marketCap": 22486620000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2022-02-22",
+        "marketCap": 22890480000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2022-02-18",
+        "marketCap": 22837140000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2022-02-17",
+        "marketCap": 22955250000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2022-02-16",
+        "marketCap": 22829520000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2022-02-15",
+        "marketCap": 22799040000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2022-02-14",
+        "marketCap": 22882860000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2022-02-11",
+        "marketCap": 22955250000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2022-02-10",
+        "marketCap": 23077170000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2022-02-09",
+        "marketCap": 23534370000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2022-02-08",
+        "marketCap": 23446740000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2022-02-07",
+        "marketCap": 23454360000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2022-02-04",
+        "marketCap": 23301960000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2022-02-03",
+        "marketCap": 23389590000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2022-02-02",
+        "marketCap": 23587710000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2022-02-01",
+        "marketCap": 23496270000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2022-01-31",
+        "marketCap": 23922990000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2022-01-28",
+        "marketCap": 23629620000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2022-01-27",
+        "marketCap": 23431500000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2022-01-26",
+        "marketCap": 23663910000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2022-01-25",
+        "marketCap": 23534370000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2022-01-24",
+        "marketCap": 23724870000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2022-01-21",
+        "marketCap": 23995380000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2022-01-20",
+        "marketCap": 24147780000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2022-01-19",
+        "marketCap": 24193500000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2022-01-18",
+        "marketCap": 24288750000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2022-01-14",
+        "marketCap": 24288750000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2022-01-13",
+        "marketCap": 24410669999
+    },
+    {
+        "symbol": "EIX",
+        "date": "2022-01-12",
+        "marketCap": 24547830000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2022-01-11",
+        "marketCap": 24521160000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2022-01-10",
+        "marketCap": 25008840000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2022-01-07",
+        "marketCap": 24765000000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2022-01-06",
+        "marketCap": 24620220000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2022-01-05",
+        "marketCap": 24841200000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2022-01-04",
+        "marketCap": 25401270000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2022-01-03",
+        "marketCap": 25721310000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2021-12-31",
+        "marketCap": 26003250000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2021-12-30",
+        "marketCap": 25699400000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2021-12-29",
+        "marketCap": 26007200000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2021-12-28",
+        "marketCap": 25916000000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2021-12-27",
+        "marketCap": 25695600000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2021-12-23",
+        "marketCap": 25714600000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2021-12-22",
+        "marketCap": 25695600000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2021-12-21",
+        "marketCap": 25551199999
+    },
+    {
+        "symbol": "EIX",
+        "date": "2021-12-20",
+        "marketCap": 25513200000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2021-12-17",
+        "marketCap": 25346000000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2021-12-16",
+        "marketCap": 25824799999
+    },
+    {
+        "symbol": "EIX",
+        "date": "2021-12-15",
+        "marketCap": 25574000000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2021-12-14",
+        "marketCap": 25212999999
+    },
+    {
+        "symbol": "EIX",
+        "date": "2021-12-13",
+        "marketCap": 25414400000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2021-12-10",
+        "marketCap": 25482800000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2021-12-09",
+        "marketCap": 25273800000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2021-12-08",
+        "marketCap": 25410600000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2021-12-07",
+        "marketCap": 25558800000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2021-12-06",
+        "marketCap": 25908400000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2021-12-03",
+        "marketCap": 25311800000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2021-12-02",
+        "marketCap": 24886199999
+    },
+    {
+        "symbol": "EIX",
+        "date": "2021-12-01",
+        "marketCap": 24935600000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2021-11-30",
+        "marketCap": 24806400000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2021-11-29",
+        "marketCap": 25106599999
+    },
+    {
+        "symbol": "EIX",
+        "date": "2021-11-26",
+        "marketCap": 24677200000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2021-11-24",
+        "marketCap": 25137000000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2021-11-23",
+        "marketCap": 24897600000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2021-11-22",
+        "marketCap": 24658200000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2021-11-19",
+        "marketCap": 24662000000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2021-11-18",
+        "marketCap": 24547999999
+    },
+    {
+        "symbol": "EIX",
+        "date": "2021-11-17",
+        "marketCap": 24494799999
+    },
+    {
+        "symbol": "EIX",
+        "date": "2021-11-16",
+        "marketCap": 24232600000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2021-11-15",
+        "marketCap": 24540400000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2021-11-12",
+        "marketCap": 24411199999
+    },
+    {
+        "symbol": "EIX",
+        "date": "2021-11-11",
+        "marketCap": 24783600000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2021-11-10",
+        "marketCap": 24874799999
+    },
+    {
+        "symbol": "EIX",
+        "date": "2021-11-09",
+        "marketCap": 24547999999
+    },
+    {
+        "symbol": "EIX",
+        "date": "2021-11-08",
+        "marketCap": 24346599999
+    },
+    {
+        "symbol": "EIX",
+        "date": "2021-11-05",
+        "marketCap": 24339000000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2021-11-04",
+        "marketCap": 23955200000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2021-11-03",
+        "marketCap": 23864000000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2021-11-02",
+        "marketCap": 24145200000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2021-11-01",
+        "marketCap": 24054000000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2021-10-29",
+        "marketCap": 23913400000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2021-10-28",
+        "marketCap": 23864000000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2021-10-27",
+        "marketCap": 23639800000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2021-10-26",
+        "marketCap": 23358600000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2021-10-25",
+        "marketCap": 23218000000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2021-10-22",
+        "marketCap": 22971000000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2021-10-21",
+        "marketCap": 22534000000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2021-10-20",
+        "marketCap": 22401000000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2021-10-19",
+        "marketCap": 21857600000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2021-10-18",
+        "marketCap": 21720800000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2021-10-15",
+        "marketCap": 21793000000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2021-10-14",
+        "marketCap": 21508000000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2021-10-13",
+        "marketCap": 21439600000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2021-10-12",
+        "marketCap": 21101400000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2021-10-11",
+        "marketCap": 21314200000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2021-10-08",
+        "marketCap": 21713200000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2021-10-07",
+        "marketCap": 21705600000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2021-10-06",
+        "marketCap": 21511800000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2021-10-05",
+        "marketCap": 21158400000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2021-10-04",
+        "marketCap": 21367400000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2021-10-01",
+        "marketCap": 20915200000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2021-09-30",
+        "marketCap": 21078600000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2021-09-29",
+        "marketCap": 21380699949
+    },
+    {
+        "symbol": "EIX",
+        "date": "2021-09-28",
+        "marketCap": 21642133282
+    },
+    {
+        "symbol": "EIX",
+        "date": "2021-09-27",
+        "marketCap": 21861888837
+    },
+    {
+        "symbol": "EIX",
+        "date": "2021-09-24",
+        "marketCap": 21812633282
+    },
+    {
+        "symbol": "EIX",
+        "date": "2021-09-23",
+        "marketCap": 21827788837
+    },
+    {
+        "symbol": "EIX",
+        "date": "2021-09-22",
+        "marketCap": 22108166614
+    },
+    {
+        "symbol": "EIX",
+        "date": "2021-09-21",
+        "marketCap": 21869466615
+    },
+    {
+        "symbol": "EIX",
+        "date": "2021-09-20",
+        "marketCap": 21820211059
+    },
+    {
+        "symbol": "EIX",
+        "date": "2021-09-17",
+        "marketCap": 21880833282
+    },
+    {
+        "symbol": "EIX",
+        "date": "2021-09-16",
+        "marketCap": 21801266615
+    },
+    {
+        "symbol": "EIX",
+        "date": "2021-09-15",
+        "marketCap": 22369599947
+    },
+    {
+        "symbol": "EIX",
+        "date": "2021-09-14",
+        "marketCap": 22157422170
+    },
+    {
+        "symbol": "EIX",
+        "date": "2021-09-13",
+        "marketCap": 22377177725
+    },
+    {
+        "symbol": "EIX",
+        "date": "2021-09-10",
+        "marketCap": 22024811059
+    },
+    {
+        "symbol": "EIX",
+        "date": "2021-09-09",
+        "marketCap": 22225622170
+    },
+    {
+        "symbol": "EIX",
+        "date": "2021-09-08",
+        "marketCap": 22388544391
+    },
+    {
+        "symbol": "EIX",
+        "date": "2021-09-07",
+        "marketCap": 22214255503
+    },
+    {
+        "symbol": "EIX",
+        "date": "2021-09-03",
+        "marketCap": 22221833281
+    },
+    {
+        "symbol": "EIX",
+        "date": "2021-09-02",
+        "marketCap": 22403699947
+    },
+    {
+        "symbol": "EIX",
+        "date": "2021-09-01",
+        "marketCap": 22066488837
+    },
+    {
+        "symbol": "EIX",
+        "date": "2021-08-31",
+        "marketCap": 21914933281
+    },
+    {
+        "symbol": "EIX",
+        "date": "2021-08-30",
+        "marketCap": 21797477726
+    },
+    {
+        "symbol": "EIX",
+        "date": "2021-08-27",
+        "marketCap": 21797477726
+    },
+    {
+        "symbol": "EIX",
+        "date": "2021-08-26",
+        "marketCap": 21846733282
+    },
+    {
+        "symbol": "EIX",
+        "date": "2021-08-25",
+        "marketCap": 22119533281
+    },
+    {
+        "symbol": "EIX",
+        "date": "2021-08-24",
+        "marketCap": 22335499947
+    },
+    {
+        "symbol": "EIX",
+        "date": "2021-08-23",
+        "marketCap": 22415066614
+    },
+    {
+        "symbol": "EIX",
+        "date": "2021-08-20",
+        "marketCap": 22555255502
+    },
+    {
+        "symbol": "EIX",
+        "date": "2021-08-19",
+        "marketCap": 22051333281
+    },
+    {
+        "symbol": "EIX",
+        "date": "2021-08-18",
+        "marketCap": 22191522170
+    },
+    {
+        "symbol": "EIX",
+        "date": "2021-08-17",
+        "marketCap": 21820211059
+    },
+    {
+        "symbol": "EIX",
+        "date": "2021-08-16",
+        "marketCap": 21702755504
+    },
+    {
+        "symbol": "EIX",
+        "date": "2021-08-13",
+        "marketCap": 21596666616
+    },
+    {
+        "symbol": "EIX",
+        "date": "2021-08-12",
+        "marketCap": 21608033282
+    },
+    {
+        "symbol": "EIX",
+        "date": "2021-08-11",
+        "marketCap": 21649711060
+    },
+    {
+        "symbol": "EIX",
+        "date": "2021-08-10",
+        "marketCap": 21172311061
+    },
+    {
+        "symbol": "EIX",
+        "date": "2021-08-09",
+        "marketCap": 21005599950
+    },
+    {
+        "symbol": "EIX",
+        "date": "2021-08-06",
+        "marketCap": 20865411062
+    },
+    {
+        "symbol": "EIX",
+        "date": "2021-08-05",
+        "marketCap": 20926033284
+    },
+    {
+        "symbol": "EIX",
+        "date": "2021-08-04",
+        "marketCap": 20785844395
+    },
+    {
+        "symbol": "EIX",
+        "date": "2021-08-03",
+        "marketCap": 20986655506
+    },
+    {
+        "symbol": "EIX",
+        "date": "2021-08-02",
+        "marketCap": 20876777728
+    },
+    {
+        "symbol": "EIX",
+        "date": "2021-07-30",
+        "marketCap": 20649444396
+    },
+    {
+        "symbol": "EIX",
+        "date": "2021-07-29",
+        "marketCap": 21680022171
+    },
+    {
+        "symbol": "EIX",
+        "date": "2021-07-28",
+        "marketCap": 21528466616
+    },
+    {
+        "symbol": "EIX",
+        "date": "2021-07-27",
+        "marketCap": 21653499949
+    },
+    {
+        "symbol": "EIX",
+        "date": "2021-07-26",
+        "marketCap": 21024544395
+    },
+    {
+        "symbol": "EIX",
+        "date": "2021-07-23",
+        "marketCap": 21304922172
+    },
+    {
+        "symbol": "EIX",
+        "date": "2021-07-22",
+        "marketCap": 21179888839
+    },
+    {
+        "symbol": "EIX",
+        "date": "2021-07-21",
+        "marketCap": 21293555505
+    },
+    {
+        "symbol": "EIX",
+        "date": "2021-07-20",
+        "marketCap": 21539833282
+    },
+    {
+        "symbol": "EIX",
+        "date": "2021-07-19",
+        "marketCap": 21289766616
+    },
+    {
+        "symbol": "EIX",
+        "date": "2021-07-16",
+        "marketCap": 21971766615
+    },
+    {
+        "symbol": "EIX",
+        "date": "2021-07-15",
+        "marketCap": 21846733282
+    },
+    {
+        "symbol": "EIX",
+        "date": "2021-07-14",
+        "marketCap": 21687599949
+    },
+    {
+        "symbol": "EIX",
+        "date": "2021-07-13",
+        "marketCap": 21714122171
+    },
+    {
+        "symbol": "EIX",
+        "date": "2021-07-12",
+        "marketCap": 22051333281
+    },
+    {
+        "symbol": "EIX",
+        "date": "2021-07-09",
+        "marketCap": 22081644392
+    },
+    {
+        "symbol": "EIX",
+        "date": "2021-07-08",
+        "marketCap": 21793688837
+    },
+    {
+        "symbol": "EIX",
+        "date": "2021-07-07",
+        "marketCap": 21842944393
+    },
+    {
+        "symbol": "EIX",
+        "date": "2021-07-06",
+        "marketCap": 21736855504
+    },
+    {
+        "symbol": "EIX",
+        "date": "2021-07-02",
+        "marketCap": 21615611060
+    },
+    {
+        "symbol": "EIX",
+        "date": "2021-07-01",
+        "marketCap": 21941455504
+    },
+    {
+        "symbol": "EIX",
+        "date": "2021-06-30",
+        "marketCap": 21907355504
+    },
+    {
+        "symbol": "EIX",
+        "date": "2021-06-29",
+        "marketCap": 21819600000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2021-06-28",
+        "marketCap": 21899400000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2021-06-25",
+        "marketCap": 21660000000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2021-06-24",
+        "marketCap": 21006400000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2021-06-23",
+        "marketCap": 20903800000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2021-06-22",
+        "marketCap": 21150800000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2021-06-21",
+        "marketCap": 21318000000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2021-06-18",
+        "marketCap": 21120400000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2021-06-17",
+        "marketCap": 21652400000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2021-06-16",
+        "marketCap": 21956400000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2021-06-15",
+        "marketCap": 22264200000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2021-06-14",
+        "marketCap": 22298400000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2021-06-11",
+        "marketCap": 22028600000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2021-06-10",
+        "marketCap": 21846200000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2021-06-09",
+        "marketCap": 21618200000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2021-06-08",
+        "marketCap": 21580200000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2021-06-07",
+        "marketCap": 21359800000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2021-06-04",
+        "marketCap": 21458600000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2021-06-03",
+        "marketCap": 21367400000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2021-06-02",
+        "marketCap": 21314200000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2021-06-01",
+        "marketCap": 21135600000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2021-05-28",
+        "marketCap": 21230600000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2021-05-27",
+        "marketCap": 21059600000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2021-05-26",
+        "marketCap": 21325600000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2021-05-25",
+        "marketCap": 21185000000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2021-05-24",
+        "marketCap": 22180600000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2021-05-21",
+        "marketCap": 22104600000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2021-05-20",
+        "marketCap": 21918400000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2021-05-19",
+        "marketCap": 21903200000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2021-05-18",
+        "marketCap": 21872800000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2021-05-17",
+        "marketCap": 21952600000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2021-05-14",
+        "marketCap": 22188200000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2021-05-13",
+        "marketCap": 22161600000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2021-05-12",
+        "marketCap": 21587800000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2021-05-11",
+        "marketCap": 22279400000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2021-05-10",
+        "marketCap": 22416200000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2021-05-07",
+        "marketCap": 22260400000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2021-05-06",
+        "marketCap": 22385800000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2021-05-05",
+        "marketCap": 22131200000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2021-05-04",
+        "marketCap": 22651800000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2021-05-03",
+        "marketCap": 22564400000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2021-04-30",
+        "marketCap": 22591000000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2021-04-29",
+        "marketCap": 22366800000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2021-04-28",
+        "marketCap": 22192000000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2021-04-27",
+        "marketCap": 22230000000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2021-04-26",
+        "marketCap": 22370600000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2021-04-23",
+        "marketCap": 22492200000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2021-04-22",
+        "marketCap": 22602400000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2021-04-21",
+        "marketCap": 23237000000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2021-04-20",
+        "marketCap": 23377600000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2021-04-19",
+        "marketCap": 23225600000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2021-04-16",
+        "marketCap": 23316800000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2021-04-15",
+        "marketCap": 23347200000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2021-04-14",
+        "marketCap": 23199000000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2021-04-13",
+        "marketCap": 22940600000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2021-04-12",
+        "marketCap": 22739200000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2021-04-09",
+        "marketCap": 22689800000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2021-04-08",
+        "marketCap": 22925400000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2021-04-07",
+        "marketCap": 22784800000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2021-04-06",
+        "marketCap": 22883600000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2021-04-05",
+        "marketCap": 22727800000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2021-04-01",
+        "marketCap": 22150200000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2021-03-31",
+        "marketCap": 22268000000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2021-03-30",
+        "marketCap": 22527760000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2021-03-29",
+        "marketCap": 22899180000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2021-03-26",
+        "marketCap": 22997720000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2021-03-25",
+        "marketCap": 22861280000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2021-03-24",
+        "marketCap": 22713470000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2021-03-23",
+        "marketCap": 22379950000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2021-03-22",
+        "marketCap": 22429220000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2021-03-19",
+        "marketCap": 22539130000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2021-03-18",
+        "marketCap": 22194240000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2021-03-17",
+        "marketCap": 22565660000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2021-03-16",
+        "marketCap": 22573240000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2021-03-15",
+        "marketCap": 22577030000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2021-03-12",
+        "marketCap": 22065380000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2021-03-11",
+        "marketCap": 21796290000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2021-03-10",
+        "marketCap": 22065380000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2021-03-09",
+        "marketCap": 21777340000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2021-03-08",
+        "marketCap": 21750810000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2021-03-05",
+        "marketCap": 21868300000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2021-03-04",
+        "marketCap": 21610580000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2021-03-03",
+        "marketCap": 21148200000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2021-03-02",
+        "marketCap": 20807100000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2021-03-01",
+        "marketCap": 20810890000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2021-02-26",
+        "marketCap": 20462210000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2021-02-25",
+        "marketCap": 21095140000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2021-02-24",
+        "marketCap": 21402130000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2021-02-23",
+        "marketCap": 21193680000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2021-02-22",
+        "marketCap": 20977650000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2021-02-19",
+        "marketCap": 20928380000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2021-02-18",
+        "marketCap": 21106510000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2021-02-17",
+        "marketCap": 21409710000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2021-02-16",
+        "marketCap": 21595420000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2021-02-12",
+        "marketCap": 21947890000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2021-02-11",
+        "marketCap": 22110860000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2021-02-10",
+        "marketCap": 22182870000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2021-02-09",
+        "marketCap": 21898620000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2021-02-08",
+        "marketCap": 21879670000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2021-02-05",
+        "marketCap": 22228350000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2021-02-04",
+        "marketCap": 22319310000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2021-02-03",
+        "marketCap": 22334470000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2021-02-02",
+        "marketCap": 22425430000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2021-02-01",
+        "marketCap": 21985790000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2021-01-29",
+        "marketCap": 22042640000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2021-01-28",
+        "marketCap": 22319310000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2021-01-27",
+        "marketCap": 21603000000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2021-01-26",
+        "marketCap": 22398900000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2021-01-25",
+        "marketCap": 22512600000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2021-01-22",
+        "marketCap": 22474700000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2021-01-21",
+        "marketCap": 22486070000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2021-01-20",
+        "marketCap": 22823380000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2021-01-19",
+        "marketCap": 23069730000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2021-01-15",
+        "marketCap": 23448730000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2021-01-14",
+        "marketCap": 23357770000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2021-01-13",
+        "marketCap": 23952800000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2021-01-12",
+        "marketCap": 23691290000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2021-01-11",
+        "marketCap": 23372930000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2021-01-08",
+        "marketCap": 23611700000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2021-01-07",
+        "marketCap": 23516950000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2021-01-06",
+        "marketCap": 23732980000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2021-01-05",
+        "marketCap": 23046990000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2021-01-04",
+        "marketCap": 22925710000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2020-12-31",
+        "marketCap": 23808780000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2020-12-30",
+        "marketCap": 23296140000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2020-12-29",
+        "marketCap": 23504040000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2020-12-28",
+        "marketCap": 23606100000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2020-12-24",
+        "marketCap": 23507820000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2020-12-23",
+        "marketCap": 23171400000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2020-12-22",
+        "marketCap": 23178960000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2020-12-21",
+        "marketCap": 23390640000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2020-12-18",
+        "marketCap": 23640120000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2020-12-17",
+        "marketCap": 23776200000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2020-12-16",
+        "marketCap": 23700600000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2020-12-15",
+        "marketCap": 24101280000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2020-12-14",
+        "marketCap": 23534280000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2020-12-11",
+        "marketCap": 23738400000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2020-12-10",
+        "marketCap": 23768640000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2020-12-09",
+        "marketCap": 23779980000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2020-12-08",
+        "marketCap": 23394420000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2020-12-07",
+        "marketCap": 23413320000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2020-12-04",
+        "marketCap": 23371740000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2020-12-03",
+        "marketCap": 23262120000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2020-12-02",
+        "marketCap": 23507820000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2020-12-01",
+        "marketCap": 23470020000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2020-11-30",
+        "marketCap": 23194080000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2020-11-27",
+        "marketCap": 23734620000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2020-11-25",
+        "marketCap": 24082380000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2020-11-24",
+        "marketCap": 24740100000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2020-11-23",
+        "marketCap": 24248700000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2020-11-20",
+        "marketCap": 23957640000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2020-11-19",
+        "marketCap": 24048360000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2020-11-18",
+        "marketCap": 24396120000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2020-11-17",
+        "marketCap": 24796799999
+    },
+    {
+        "symbol": "EIX",
+        "date": "2020-11-16",
+        "marketCap": 24634260000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2020-11-13",
+        "marketCap": 24214680000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2020-11-12",
+        "marketCap": 23734620000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2020-11-11",
+        "marketCap": 23776200000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2020-11-10",
+        "marketCap": 23708160000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2020-11-09",
+        "marketCap": 22967280000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2020-11-06",
+        "marketCap": 22044960000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2020-11-05",
+        "marketCap": 22445640000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2020-11-04",
+        "marketCap": 21708540000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2020-11-03",
+        "marketCap": 22078980000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2020-11-02",
+        "marketCap": 21753900000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2020-10-30",
+        "marketCap": 21183120000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2020-10-29",
+        "marketCap": 21194460000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2020-10-28",
+        "marketCap": 21379680000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2020-10-27",
+        "marketCap": 21852180000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2020-10-26",
+        "marketCap": 21995820000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2020-10-23",
+        "marketCap": 22865220000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2020-10-22",
+        "marketCap": 22638420000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2020-10-21",
+        "marketCap": 22320900000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2020-10-20",
+        "marketCap": 22585500000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2020-10-19",
+        "marketCap": 22022280000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2020-10-16",
+        "marketCap": 21965580000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2020-10-15",
+        "marketCap": 21474180000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2020-10-14",
+        "marketCap": 21258720000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2020-10-13",
+        "marketCap": 21273840000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2020-10-12",
+        "marketCap": 21270060000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2020-10-09",
+        "marketCap": 21202020000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2020-10-08",
+        "marketCap": 21205800000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2020-10-07",
+        "marketCap": 20767320000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2020-10-06",
+        "marketCap": 20359080000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2020-10-05",
+        "marketCap": 19886580000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2020-10-02",
+        "marketCap": 19467000000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2020-10-01",
+        "marketCap": 19066320000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2020-09-30",
+        "marketCap": 19217520000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2020-09-29",
+        "marketCap": 19285560000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2020-09-28",
+        "marketCap": 19614420000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2020-09-25",
+        "marketCap": 19523700000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2020-09-24",
+        "marketCap": 19217520000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2020-09-23",
+        "marketCap": 18635400000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2020-09-22",
+        "marketCap": 19058760000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2020-09-21",
+        "marketCap": 18786600000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2020-09-18",
+        "marketCap": 19436760000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2020-09-17",
+        "marketCap": 19894140000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2020-09-16",
+        "marketCap": 19860120000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2020-09-15",
+        "marketCap": 19470780000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2020-09-14",
+        "marketCap": 19523700000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2020-09-11",
+        "marketCap": 19138140000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2020-09-10",
+        "marketCap": 19089000000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2020-09-09",
+        "marketCap": 19482120000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2020-09-08",
+        "marketCap": 19417860000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2020-09-04",
+        "marketCap": 19754280000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2020-09-03",
+        "marketCap": 20018880000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2020-09-02",
+        "marketCap": 19871460000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2020-09-01",
+        "marketCap": 19584180000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2020-08-31",
+        "marketCap": 19837440000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2020-08-28",
+        "marketCap": 19720260000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2020-08-27",
+        "marketCap": 19561500000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2020-08-26",
+        "marketCap": 19312020000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2020-08-25",
+        "marketCap": 19656000000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2020-08-24",
+        "marketCap": 19784520000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2020-08-21",
+        "marketCap": 19376280000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2020-08-20",
+        "marketCap": 19368720000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2020-08-19",
+        "marketCap": 19750500000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2020-08-18",
+        "marketCap": 19463220000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2020-08-17",
+        "marketCap": 19572840000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2020-08-14",
+        "marketCap": 19916820000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2020-08-13",
+        "marketCap": 20264580000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2020-08-12",
+        "marketCap": 20612340000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2020-08-11",
+        "marketCap": 20253240000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2020-08-10",
+        "marketCap": 20506500000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2020-08-07",
+        "marketCap": 20642580000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2020-08-06",
+        "marketCap": 20362860000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2020-08-05",
+        "marketCap": 20264580000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2020-08-04",
+        "marketCap": 20676600000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2020-08-03",
+        "marketCap": 20385540000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2020-07-31",
+        "marketCap": 21043260000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2020-07-30",
+        "marketCap": 20740860000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2020-07-29",
+        "marketCap": 20328840000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2020-07-28",
+        "marketCap": 20831580000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2020-07-27",
+        "marketCap": 20094480000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2020-07-24",
+        "marketCap": 21175560000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2020-07-23",
+        "marketCap": 21417480000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2020-07-22",
+        "marketCap": 21436380000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2020-07-21",
+        "marketCap": 21149100000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2020-07-20",
+        "marketCap": 20748420000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2020-07-17",
+        "marketCap": 21304080000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2020-07-16",
+        "marketCap": 21202020000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2020-07-15",
+        "marketCap": 20895840000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2020-07-14",
+        "marketCap": 21421260000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2020-07-13",
+        "marketCap": 21160440000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2020-07-10",
+        "marketCap": 20914740000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2020-07-09",
+        "marketCap": 20385540000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2020-07-08",
+        "marketCap": 20585880000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2020-07-07",
+        "marketCap": 20593440000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2020-07-06",
+        "marketCap": 21186900000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2020-07-02",
+        "marketCap": 20994120000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2020-07-01",
+        "marketCap": 20914740000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2020-06-30",
+        "marketCap": 20529180000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2020-06-29",
+        "marketCap": 20752500000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2020-06-26",
+        "marketCap": 20557500000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2020-06-25",
+        "marketCap": 20583750000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2020-06-24",
+        "marketCap": 20388750000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2020-06-23",
+        "marketCap": 20913750000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2020-06-22",
+        "marketCap": 20921250000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2020-06-19",
+        "marketCap": 20872500000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2020-06-18",
+        "marketCap": 22065000000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2020-06-17",
+        "marketCap": 22458750000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2020-06-16",
+        "marketCap": 22695000000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2020-06-15",
+        "marketCap": 22293750000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2020-06-12",
+        "marketCap": 21588750000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2020-06-11",
+        "marketCap": 21303750000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2020-06-10",
+        "marketCap": 22627500000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2020-06-09",
+        "marketCap": 23111250000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2020-06-08",
+        "marketCap": 24285000000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2020-06-05",
+        "marketCap": 22830000000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2020-06-04",
+        "marketCap": 22147500000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2020-06-03",
+        "marketCap": 22863750000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2020-06-02",
+        "marketCap": 22447500000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2020-06-01",
+        "marketCap": 22218750000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2020-05-29",
+        "marketCap": 21791250000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2020-05-28",
+        "marketCap": 21746250000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2020-05-27",
+        "marketCap": 21393750000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2020-05-26",
+        "marketCap": 21003750000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2020-05-22",
+        "marketCap": 21161250000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2020-05-21",
+        "marketCap": 21101250000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2020-05-20",
+        "marketCap": 21097500000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2020-05-19",
+        "marketCap": 21532500000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2020-05-18",
+        "marketCap": 21442500000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2020-05-15",
+        "marketCap": 20981250000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2020-05-14",
+        "marketCap": 21570000000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2020-05-13",
+        "marketCap": 21528750000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2020-05-12",
+        "marketCap": 21153750000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2020-05-11",
+        "marketCap": 21307500000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2020-05-08",
+        "marketCap": 21393750000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2020-05-07",
+        "marketCap": 20448750000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2020-05-06",
+        "marketCap": 20265000000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2020-05-05",
+        "marketCap": 21146250000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2020-05-04",
+        "marketCap": 21123750000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2020-05-01",
+        "marketCap": 20883750000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2020-04-30",
+        "marketCap": 22016250000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2020-04-29",
+        "marketCap": 22638750000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2020-04-28",
+        "marketCap": 23321250000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2020-04-27",
+        "marketCap": 22781250000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2020-04-24",
+        "marketCap": 22218750000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2020-04-23",
+        "marketCap": 21836250000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2020-04-22",
+        "marketCap": 22121250000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2020-04-21",
+        "marketCap": 21821250000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2020-04-20",
+        "marketCap": 22503750000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2020-04-17",
+        "marketCap": 23272500000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2020-04-16",
+        "marketCap": 22432500000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2020-04-15",
+        "marketCap": 21705000000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2020-04-14",
+        "marketCap": 22447500000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2020-04-13",
+        "marketCap": 22271250000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2020-04-09",
+        "marketCap": 22601250000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2020-04-08",
+        "marketCap": 21588750000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2020-04-07",
+        "marketCap": 20261250000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2020-04-06",
+        "marketCap": 19938750000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2020-04-03",
+        "marketCap": 18510000000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2020-04-02",
+        "marketCap": 19323750000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2020-04-01",
+        "marketCap": 19226250000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2020-03-31",
+        "marketCap": 20546250000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2020-03-30",
+        "marketCap": 20440530000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2020-03-27",
+        "marketCap": 20095680000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2020-03-26",
+        "marketCap": 20955990000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2020-03-25",
+        "marketCap": 19536660000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2020-03-24",
+        "marketCap": 18287940000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2020-03-23",
+        "marketCap": 16142610000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2020-03-20",
+        "marketCap": 17010180000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2020-03-19",
+        "marketCap": 17699880000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2020-03-18",
+        "marketCap": 17801520000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2020-03-17",
+        "marketCap": 18643680000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2020-03-16",
+        "marketCap": 16752450000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2020-03-13",
+        "marketCap": 19329750000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2020-03-12",
+        "marketCap": 19032090000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2020-03-11",
+        "marketCap": 21685620000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2020-03-10",
+        "marketCap": 23192070000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2020-03-09",
+        "marketCap": 22418880000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2020-03-06",
+        "marketCap": 24535170000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2020-03-05",
+        "marketCap": 25050630000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2020-03-04",
+        "marketCap": 25468080000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2020-03-03",
+        "marketCap": 24792900000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2020-03-02",
+        "marketCap": 25569720000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2020-02-28",
+        "marketCap": 24389970000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2020-02-27",
+        "marketCap": 25500750000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2020-02-26",
+        "marketCap": 26974530000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2020-02-25",
+        "marketCap": 27254040000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2020-02-24",
+        "marketCap": 27704159999
+    },
+    {
+        "symbol": "EIX",
+        "date": "2020-02-21",
+        "marketCap": 28157909999
+    },
+    {
+        "symbol": "EIX",
+        "date": "2020-02-20",
+        "marketCap": 28067159999
+    },
+    {
+        "symbol": "EIX",
+        "date": "2020-02-19",
+        "marketCap": 27820320000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2020-02-18",
+        "marketCap": 27994560000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2020-02-14",
+        "marketCap": 28001820000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2020-02-13",
+        "marketCap": 28085310000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2020-02-12",
+        "marketCap": 28132500000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2020-02-11",
+        "marketCap": 28314000000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2020-02-10",
+        "marketCap": 28386600000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2020-02-07",
+        "marketCap": 27951000000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2020-02-06",
+        "marketCap": 27693270000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2020-02-05",
+        "marketCap": 28070790000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2020-02-04",
+        "marketCap": 27395610000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2020-02-03",
+        "marketCap": 28190580000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2020-01-31",
+        "marketCap": 27787650000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2020-01-30",
+        "marketCap": 27831210000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2020-01-29",
+        "marketCap": 27943740000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2020-01-28",
+        "marketCap": 27878400000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2020-01-27",
+        "marketCap": 27664229999
+    },
+    {
+        "symbol": "EIX",
+        "date": "2020-01-24",
+        "marketCap": 27921960000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2020-01-23",
+        "marketCap": 28201470000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2020-01-22",
+        "marketCap": 27976409999
+    },
+    {
+        "symbol": "EIX",
+        "date": "2020-01-21",
+        "marketCap": 28386600000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2020-01-17",
+        "marketCap": 27936479999
+    },
+    {
+        "symbol": "EIX",
+        "date": "2020-01-16",
+        "marketCap": 27791280000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2020-01-15",
+        "marketCap": 27925590000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2020-01-14",
+        "marketCap": 27235890000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2020-01-13",
+        "marketCap": 27359310000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2020-01-10",
+        "marketCap": 27406500000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2020-01-09",
+        "marketCap": 27638820000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2020-01-08",
+        "marketCap": 27493620000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2020-01-07",
+        "marketCap": 27537180000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2020-01-06",
+        "marketCap": 27272190000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2020-01-03",
+        "marketCap": 27145140000
+    },
+    {
+        "symbol": "EIX",
+        "date": "2020-01-02",
+        "marketCap": 26999940000
+    }
+]

@@ -1,0 +1,6292 @@
+[
+    {
+        "symbol": "TSLA",
+        "date": "2024-12-31",
+        "marketCap": 1291480320000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-12-30",
+        "marketCap": 1334877180000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-12-27",
+        "marketCap": 1380448680000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-12-26",
+        "marketCap": 1452307740000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-12-24",
+        "marketCap": 1478371440000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-12-23",
+        "marketCap": 1377058800000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-12-20",
+        "marketCap": 1346549880000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-12-19",
+        "marketCap": 1394871660000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-12-18",
+        "marketCap": 1407535740000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-12-17",
+        "marketCap": 1534592280000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-12-16",
+        "marketCap": 1480737960000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-12-13",
+        "marketCap": 1395063540000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-12-12",
+        "marketCap": 1337083800000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-12-11",
+        "marketCap": 1358414460000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-12-10",
+        "marketCap": 1282366020000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-12-09",
+        "marketCap": 1246548420000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-12-06",
+        "marketCap": 1244725560000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-12-05",
+        "marketCap": 1181629020000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-12-04",
+        "marketCap": 1144660140000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-12-03",
+        "marketCap": 1123841160000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-12-02",
+        "marketCap": 1141973820000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-11-29",
+        "marketCap": 1103821680000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-11-27",
+        "marketCap": 1064582220000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-11-26",
+        "marketCap": 1081659540000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-11-25",
+        "marketCap": 1082810819999
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-11-22",
+        "marketCap": 1127486880000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-11-21",
+        "marketCap": 1086168720000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-11-20",
+        "marketCap": 1093811939999
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-11-19",
+        "marketCap": 1106508000000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-11-18",
+        "marketCap": 1083290520000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-11-15",
+        "marketCap": 1025662560000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-11-14",
+        "marketCap": 995153640000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-11-13",
+        "marketCap": 1056107520000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-11-12",
+        "marketCap": 1050511020000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-11-11",
+        "marketCap": 1119300000000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-11-08",
+        "marketCap": 1027261560000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-11-07",
+        "marketCap": 949518180000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-11-06",
+        "marketCap": 922718939999
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-11-05",
+        "marketCap": 804105120000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-11-04",
+        "marketCap": 776602320000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-11-01",
+        "marketCap": 796238040000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-10-31",
+        "marketCap": 799020300000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-10-30",
+        "marketCap": 823644900000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-10-29",
+        "marketCap": 829944960000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-10-28",
+        "marketCap": 839506980000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-10-25",
+        "marketCap": 860869620000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-10-24",
+        "marketCap": 833015040000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-10-23",
+        "marketCap": 683252700000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-10-22",
+        "marketCap": 697068060000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-10-21",
+        "marketCap": 699882300000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-10-18",
+        "marketCap": 705798600000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-10-17",
+        "marketCap": 706406220000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-10-16",
+        "marketCap": 707813340000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-10-15",
+        "marketCap": 702184860000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-10-14",
+        "marketCap": 700873680000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-10-11",
+        "marketCap": 696524400000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-10-10",
+        "marketCap": 763586460000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-10-09",
+        "marketCap": 770877900000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-10-08",
+        "marketCap": 781911000000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-10-07",
+        "marketCap": 770174340000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-10-04",
+        "marketCap": 799755840000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-10-03",
+        "marketCap": 769630680000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-10-02",
+        "marketCap": 796365960000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-10-01",
+        "marketCap": 825147960000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-09-30",
+        "marketCap": 836692740000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-09-27",
+        "marketCap": 832951079999
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-09-26",
+        "marketCap": 812995560000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-09-25",
+        "marketCap": 821949960000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-09-24",
+        "marketCap": 813155460000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-09-23",
+        "marketCap": 799500000000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-09-20",
+        "marketCap": 761923500000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-09-19",
+        "marketCap": 780056160000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-09-18",
+        "marketCap": 726585600000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-09-17",
+        "marketCap": 728728260000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-09-16",
+        "marketCap": 725242440000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-09-13",
+        "marketCap": 736467420000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-09-12",
+        "marketCap": 734932380000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-09-11",
+        "marketCap": 729559740000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-09-10",
+        "marketCap": 723291660000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-09-09",
+        "marketCap": 691631460000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-09-06",
+        "marketCap": 673914540000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-09-05",
+        "marketCap": 736083660000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-09-04",
+        "marketCap": 701673180000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-09-03",
+        "marketCap": 673498800000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-08-30",
+        "marketCap": 684723780000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-08-29",
+        "marketCap": 659683440000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-08-28",
+        "marketCap": 657988500000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-08-27",
+        "marketCap": 669053580000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-08-26",
+        "marketCap": 681845580000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-08-23",
+        "marketCap": 704583360000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-08-22",
+        "marketCap": 673690680000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-08-21",
+        "marketCap": 714017460000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-08-20",
+        "marketCap": 707077800000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-08-19",
+        "marketCap": 712258560000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-08-16",
+        "marketCap": 691151760000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-08-15",
+        "marketCap": 684819720000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-08-14",
+        "marketCap": 644013240000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-08-13",
+        "marketCap": 664640340000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-08-12",
+        "marketCap": 631573020000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-08-09",
+        "marketCap": 639600000000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-08-08",
+        "marketCap": 635890320000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-08-07",
+        "marketCap": 613248480000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-08-06",
+        "marketCap": 641646720000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-08-05",
+        "marketCap": 636018240000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-08-02",
+        "marketCap": 664128660000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-08-01",
+        "marketCap": 693518280000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-07-31",
+        "marketCap": 742159860000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-07-30",
+        "marketCap": 711938760000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-07-29",
+        "marketCap": 742255800000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-07-26",
+        "marketCap": 702920400000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-07-25",
+        "marketCap": 704359500000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-07-24",
+        "marketCap": 690736020000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-07-23",
+        "marketCap": 787923240000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-07-22",
+        "marketCap": 804328980000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-07-19",
+        "marketCap": 764961600000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-07-18",
+        "marketCap": 797037540000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-07-17",
+        "marketCap": 794703000000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-07-16",
+        "marketCap": 820478880000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-07-15",
+        "marketCap": 807942720000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-07-12",
+        "marketCap": 793839540000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-07-11",
+        "marketCap": 770813940000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-07-10",
+        "marketCap": 841905480000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-07-09",
+        "marketCap": 838931340000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-07-08",
+        "marketCap": 808902120000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-07-05",
+        "marketCap": 804360960000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-07-03",
+        "marketCap": 787955220000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-07-02",
+        "marketCap": 739569480000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-07-01",
+        "marketCap": 671132280000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-06-28",
+        "marketCap": 631435080000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-06-27",
+        "marketCap": 629967220000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-06-26",
+        "marketCap": 626616670000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-06-25",
+        "marketCap": 597833850000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-06-24",
+        "marketCap": 582612780000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-06-21",
+        "marketCap": 583984910000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-06-20",
+        "marketCap": 579389870000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-06-18",
+        "marketCap": 589888260000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-06-17",
+        "marketCap": 598121040000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-06-14",
+        "marketCap": 568029910000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-06-13",
+        "marketCap": 582261770000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-06-12",
+        "marketCap": 565732390000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-06-11",
+        "marketCap": 544576060000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-06-10",
+        "marketCap": 554563890000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-06-07",
+        "marketCap": 566338680000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-06-06",
+        "marketCap": 567806540000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-06-05",
+        "marketCap": 558425000000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-06-04",
+        "marketCap": 557691070000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-06-03",
+        "marketCap": 562541390000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-05-31",
+        "marketCap": 568253280000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-05-30",
+        "marketCap": 570518890000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-05-29",
+        "marketCap": 562222290000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-05-28",
+        "marketCap": 564009250000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-05-24",
+        "marketCap": 571954840000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-05-23",
+        "marketCap": 554404340000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-05-22",
+        "marketCap": 574731010000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-05-21",
+        "marketCap": 595440600000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-05-20",
+        "marketCap": 558265450000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-05-17",
+        "marketCap": 566274860000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-05-16",
+        "marketCap": 557914440000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-05-15",
+        "marketCap": 555202090000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-05-14",
+        "marketCap": 566562050000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-05-13",
+        "marketCap": 548500989999
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-05-10",
+        "marketCap": 537587770000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-05-09",
+        "marketCap": 548756270000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-05-08",
+        "marketCap": 557531520000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-05-07",
+        "marketCap": 567391710000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-05-06",
+        "marketCap": 589569160000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-05-03",
+        "marketCap": 578177290000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-05-02",
+        "marketCap": 574411910000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-05-01",
+        "marketCap": 574348090000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-04-30",
+        "marketCap": 584846480000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-04-29",
+        "marketCap": 619213550000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-04-26",
+        "marketCap": 537013390000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-04-25",
+        "marketCap": 543044380000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-04-24",
+        "marketCap": 517356830000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-04-23",
+        "marketCap": 461673880000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-04-22",
+        "marketCap": 453281550000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-04-19",
+        "marketCap": 469236550000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-04-18",
+        "marketCap": 478426630000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-04-17",
+        "marketCap": 496040949999
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-04-16",
+        "marketCap": 501338010000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-04-15",
+        "marketCap": 515282679999
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-04-12",
+        "marketCap": 545820550000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-04-11",
+        "marketCap": 557148600000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-04-10",
+        "marketCap": 548086160000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-04-09",
+        "marketCap": 564424080000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-04-08",
+        "marketCap": 551979180000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-04-05",
+        "marketCap": 526195900000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-04-04",
+        "marketCap": 546012010000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-04-03",
+        "marketCap": 537300580000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-04-02",
+        "marketCap": 531716330000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-04-01",
+        "marketCap": 559127020000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-03-28",
+        "marketCap": 560066940000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-03-27",
+        "marketCap": 572938380000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-03-26",
+        "marketCap": 566056620000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-03-25",
+        "marketCap": 549999180000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-03-22",
+        "marketCap": 544264380000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-03-21",
+        "marketCap": 550604520000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-03-20",
+        "marketCap": 559652760000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-03-19",
+        "marketCap": 545825520000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-03-18",
+        "marketCap": 553726800000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-03-15",
+        "marketCap": 521134020000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-03-14",
+        "marketCap": 517725000000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-03-13",
+        "marketCap": 539963279999
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-03-12",
+        "marketCap": 565642440000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-03-11",
+        "marketCap": 566375220000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-03-08",
+        "marketCap": 558633240000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-03-07",
+        "marketCap": 569178900000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-03-06",
+        "marketCap": 562456440000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-03-05",
+        "marketCap": 575837640000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-03-04",
+        "marketCap": 599414040000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-03-01",
+        "marketCap": 645611040000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-02-29",
+        "marketCap": 643189680000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-02-28",
+        "marketCap": 643699440000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-02-27",
+        "marketCap": 636339780000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-02-26",
+        "marketCap": 635288400000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-02-23",
+        "marketCap": 611616420000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-02-22",
+        "marketCap": 628948260000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-02-21",
+        "marketCap": 620537220000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-02-20",
+        "marketCap": 617319360000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-02-16",
+        "marketCap": 637040700000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-02-15",
+        "marketCap": 638633700000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-02-14",
+        "marketCap": 601230060000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-02-13",
+        "marketCap": 586287720000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-02-12",
+        "marketCap": 599382180000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-02-09",
+        "marketCap": 616714020000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-02-08",
+        "marketCap": 603938160000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-02-07",
+        "marketCap": 597629880000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-02-06",
+        "marketCap": 589728600000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-02-05",
+        "marketCap": 576857160000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-02-02",
+        "marketCap": 598681260000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-02-01",
+        "marketCap": 601707960000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-01-31",
+        "marketCap": 596705940000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-01-30",
+        "marketCap": 610405740000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-01-29",
+        "marketCap": 608302980000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-01-26",
+        "marketCap": 583834500000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-01-25",
+        "marketCap": 581859180000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-01-24",
+        "marketCap": 662146380000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-01-23",
+        "marketCap": 666320040000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-01-22",
+        "marketCap": 665236800000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-01-19",
+        "marketCap": 676037340000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-01-18",
+        "marketCap": 675049680000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-01-17",
+        "marketCap": 686742300000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-01-16",
+        "marketCap": 700633260000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-01-12",
+        "marketCap": 697383540000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-01-11",
+        "marketCap": 723922920000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-01-10",
+        "marketCap": 745332840000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-01-09",
+        "marketCap": 748582560000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-01-08",
+        "marketCap": 766073700000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-01-05",
+        "marketCap": 756643140000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-01-04",
+        "marketCap": 758044980000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-01-03",
+        "marketCap": 759701700000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-01-02",
+        "marketCap": 791466120000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-12-29",
+        "marketCap": 790414880000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-12-28",
+        "marketCap": 805365580000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-12-27",
+        "marketCap": 831640640000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-12-26",
+        "marketCap": 816276410000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-12-22",
+        "marketCap": 803329740000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-12-21",
+        "marketCap": 809564500000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-12-20",
+        "marketCap": 786152340000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-12-19",
+        "marketCap": 818216820000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-12-18",
+        "marketCap": 801866480000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-12-15",
+        "marketCap": 806383500000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-12-14",
+        "marketCap": 798590050000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-12-13",
+        "marketCap": 761181490000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-12-12",
+        "marketCap": 753928810000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-12-11",
+        "marketCap": 762612940000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-12-08",
+        "marketCap": 775655040000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-12-07",
+        "marketCap": 771837840000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-12-06",
+        "marketCap": 761435970000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-12-05",
+        "marketCap": 759368320000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-12-04",
+        "marketCap": 749379980000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-12-01",
+        "marketCap": 759718230000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-11-30",
+        "marketCap": 763694480000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-11-29",
+        "marketCap": 776609340000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-11-28",
+        "marketCap": 784816320000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-11-27",
+        "marketCap": 750970480000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-11-24",
+        "marketCap": 748966450000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-11-22",
+        "marketCap": 745022010000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-11-21",
+        "marketCap": 767257200000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-11-20",
+        "marketCap": 749443600000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-11-17",
+        "marketCap": 745308300000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-11-16",
+        "marketCap": 743049790000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-11-15",
+        "marketCap": 772474040000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-11-14",
+        "marketCap": 755201210000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-11-13",
+        "marketCap": 711621510000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-11-10",
+        "marketCap": 682801650000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-11-09",
+        "marketCap": 667946380000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-11-08",
+        "marketCap": 706531910000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-11-07",
+        "marketCap": 706754580000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-11-06",
+        "marketCap": 697497870000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-11-03",
+        "marketCap": 699692760000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-11-02",
+        "marketCap": 695080310000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-11-01",
+        "marketCap": 654204460000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-10-31",
+        "marketCap": 638872040000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-10-30",
+        "marketCap": 627802160000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-10-27",
+        "marketCap": 659421300000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-10-26",
+        "marketCap": 654522560000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-10-25",
+        "marketCap": 675708020000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-10-24",
+        "marketCap": 688750120000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-10-23",
+        "marketCap": 674626480000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-10-20",
+        "marketCap": 674340190000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-10-19",
+        "marketCap": 700169910000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-10-18",
+        "marketCap": 771965080000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-10-17",
+        "marketCap": 810677850000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-10-16",
+        "marketCap": 807719520000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-10-13",
+        "marketCap": 798812720000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-10-12",
+        "marketCap": 823465470000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-10-11",
+        "marketCap": 836571190000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-10-10",
+        "marketCap": 838575220000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-10-09",
+        "marketCap": 826010270000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-10-06",
+        "marketCap": 828745929999
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-10-05",
+        "marketCap": 827219050000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-10-04",
+        "marketCap": 830749960000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-10-03",
+        "marketCap": 784211930000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-10-02",
+        "marketCap": 800339600000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-09-29",
+        "marketCap": 794698720000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-09-28",
+        "marketCap": 782502880000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-09-27",
+        "marketCap": 763828000000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-09-26",
+        "marketCap": 775325120000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-09-25",
+        "marketCap": 784440240000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-09-22",
+        "marketCap": 777738880000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-09-21",
+        "marketCap": 812103200000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-09-20",
+        "marketCap": 833985839999
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-09-19",
+        "marketCap": 846404000000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-09-18",
+        "marketCap": 842529279999
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-09-15",
+        "marketCap": 871462640000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-09-14",
+        "marketCap": 876703040000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-09-13",
+        "marketCap": 861648800000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-09-12",
+        "marketCap": 849516480000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-09-11",
+        "marketCap": 868890080000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-09-08",
+        "marketCap": 789236000000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-09-07",
+        "marketCap": 798732240000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-09-06",
+        "marketCap": 800097920000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-09-05",
+        "marketCap": 814612240000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-09-01",
+        "marketCap": 778151760000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-08-31",
+        "marketCap": 819662080000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-08-30",
+        "marketCap": 815914399999
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-08-29",
+        "marketCap": 816803680000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-08-28",
+        "marketCap": 758492320000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-08-25",
+        "marketCap": 757761840000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-08-24",
+        "marketCap": 730607040000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-08-23",
+        "marketCap": 752267360000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-08-22",
+        "marketCap": 740611440000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-08-21",
+        "marketCap": 734545280000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-08-18",
+        "marketCap": 684396240000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-08-17",
+        "marketCap": 696242720000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-08-16",
+        "marketCap": 716505600000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-08-15",
+        "marketCap": 739880960000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-08-14",
+        "marketCap": 761477760000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-08-11",
+        "marketCap": 770656400000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-08-10",
+        "marketCap": 779199840000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-08-09",
+        "marketCap": 769195440000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-08-08",
+        "marketCap": 793047200000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-08-07",
+        "marketCap": 798605200000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-08-04",
+        "marketCap": 806259360000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-08-03",
+        "marketCap": 823600320000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-08-02",
+        "marketCap": 807053360000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-08-01",
+        "marketCap": 829158320000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-07-31",
+        "marketCap": 849357680000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-07-28",
+        "marketCap": 846213440000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-07-27",
+        "marketCap": 812134960000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-07-26",
+        "marketCap": 839575600000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-07-25",
+        "marketCap": 842529279999
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-07-24",
+        "marketCap": 854534560000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-07-21",
+        "marketCap": 825823520000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-07-20",
+        "marketCap": 834970399999
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-07-19",
+        "marketCap": 925041760000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-07-18",
+        "marketCap": 931647839999
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-07-17",
+        "marketCap": 922246880000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-07-14",
+        "marketCap": 893662880000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-07-13",
+        "marketCap": 882610399999
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-07-12",
+        "marketCap": 863840240000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-07-11",
+        "marketCap": 856853040000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-07-10",
+        "marketCap": 856281360000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-07-07",
+        "marketCap": 871589680000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-07-06",
+        "marketCap": 878291040000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-07-05",
+        "marketCap": 897156480000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-07-03",
+        "marketCap": 888708320000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-06-30",
+        "marketCap": 831381520000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-06-29",
+        "marketCap": 816532500000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-06-28",
+        "marketCap": 812537040000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-06-27",
+        "marketCap": 793415910000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-06-26",
+        "marketCap": 764369550000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-06-23",
+        "marketCap": 813678600000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-06-22",
+        "marketCap": 839078310000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-06-21",
+        "marketCap": 822747659999
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-06-20",
+        "marketCap": 870280950000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-06-16",
+        "marketCap": 826172340000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-06-15",
+        "marketCap": 811458900000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-06-14",
+        "marketCap": 814281090000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-06-13",
+        "marketCap": 820369409999
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-06-12",
+        "marketCap": 792210930000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-06-09",
+        "marketCap": 774992400000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-06-08",
+        "marketCap": 744741060000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-06-07",
+        "marketCap": 712111470000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-06-06",
+        "marketCap": 701774010000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-06-05",
+        "marketCap": 690041310000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-06-02",
+        "marketCap": 678498870000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-06-01",
+        "marketCap": 658045920000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-05-31",
+        "marketCap": 646662030000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-05-30",
+        "marketCap": 637878360000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-05-26",
+        "marketCap": 612542070000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-05-25",
+        "marketCap": 584954370000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-05-24",
+        "marketCap": 579975900000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-05-23",
+        "marketCap": 589076670000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-05-22",
+        "marketCap": 598906770000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-05-19",
+        "marketCap": 571223940000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-05-18",
+        "marketCap": 560918190000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-05-17",
+        "marketCap": 551310060000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-05-16",
+        "marketCap": 528034920000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-05-15",
+        "marketCap": 527495850000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-05-12",
+        "marketCap": 532664579999
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-05-11",
+        "marketCap": 545665680000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-05-10",
+        "marketCap": 534440340000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-05-09",
+        "marketCap": 536374650000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-05-08",
+        "marketCap": 544746090000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-05-05",
+        "marketCap": 539260260000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-05-04",
+        "marketCap": 511165199999
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-05-03",
+        "marketCap": 509294310000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-05-02",
+        "marketCap": 508343010000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-05-01",
+        "marketCap": 513162930000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-04-28",
+        "marketCap": 521027010000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-04-27",
+        "marketCap": 507962490000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-04-26",
+        "marketCap": 487541250000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-04-25",
+        "marketCap": 509484569999
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-04-24",
+        "marketCap": 515446050000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-04-21",
+        "marketCap": 523468680000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-04-20",
+        "marketCap": 516841290000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-04-19",
+        "marketCap": 572650890000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-04-18",
+        "marketCap": 584447010000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-04-17",
+        "marketCap": 593103840000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-04-14",
+        "marketCap": 586635000000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-04-13",
+        "marketCap": 589488900000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-04-12",
+        "marketCap": 572492340000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-04-11",
+        "marketCap": 592311090000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-04-10",
+        "marketCap": 585081210000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-04-06",
+        "marketCap": 586825260000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-04-05",
+        "marketCap": 588283920000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-04-04",
+        "marketCap": 610671180000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-04-03",
+        "marketCap": 617615670000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-03-31",
+        "marketCap": 657855660000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-03-30",
+        "marketCap": 618256480000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-03-29",
+        "marketCap": 613824080000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-03-28",
+        "marketCap": 598975540000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-03-27",
+        "marketCap": 607270460000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-03-24",
+        "marketCap": 602838060000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-03-23",
+        "marketCap": 608568520000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-03-22",
+        "marketCap": 605180900000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-03-21",
+        "marketCap": 625538280000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-03-20",
+        "marketCap": 580169500000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-03-17",
+        "marketCap": 570291580000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-03-16",
+        "marketCap": 582955580000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-03-15",
+        "marketCap": 571304700000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-03-14",
+        "marketCap": 580201160000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-03-13",
+        "marketCap": 552403680000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-03-10",
+        "marketCap": 549111040000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-03-09",
+        "marketCap": 547464719999
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-03-08",
+        "marketCap": 576212000000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-03-07",
+        "marketCap": 594289860000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-03-06",
+        "marketCap": 613602460000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-03-03",
+        "marketCap": 626203140000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-03-02",
+        "marketCap": 604389400000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-03-01",
+        "marketCap": 641969820000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-02-28",
+        "marketCap": 651277860000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-02-27",
+        "marketCap": 657356580000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-02-24",
+        "marketCap": 623322080000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-02-23",
+        "marketCap": 639753620000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-02-22",
+        "marketCap": 635922760000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-02-21",
+        "marketCap": 624873420000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-02-17",
+        "marketCap": 659509460000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-02-16",
+        "marketCap": 639658640000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-02-15",
+        "marketCap": 678283840000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-02-14",
+        "marketCap": 662485500000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-02-13",
+        "marketCap": 616230240000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-02-10",
+        "marketCap": 623353740000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-02-09",
+        "marketCap": 656375120000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-02-08",
+        "marketCap": 637284140000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-02-07",
+        "marketCap": 623100460000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-02-06",
+        "marketCap": 616610160000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-02-03",
+        "marketCap": 601476680000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-02-02",
+        "marketCap": 596062820000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-02-01",
+        "marketCap": 574344060000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-01-31",
+        "marketCap": 548414520000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-01-30",
+        "marketCap": 527645560000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-01-27",
+        "marketCap": 563231400000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-01-26",
+        "marketCap": 507414820000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-01-25",
+        "marketCap": 457265380000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-01-24",
+        "marketCap": 455555739999
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-01-23",
+        "marketCap": 455112500000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-01-20",
+        "marketCap": 422407719999
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-01-19",
+        "marketCap": 402620220000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-01-18",
+        "marketCap": 407717480000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-01-17",
+        "marketCap": 416297340000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-01-13",
+        "marketCap": 387518400000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-01-12",
+        "marketCap": 391190960000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-01-11",
+        "marketCap": 390114520000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-01-10",
+        "marketCap": 376279100000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-01-09",
+        "marketCap": 379191820000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-01-06",
+        "marketCap": 357947960000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-01-05",
+        "marketCap": 349336440000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-01-04",
+        "marketCap": 359784240000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-01-03",
+        "marketCap": 342244600000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-12-30",
+        "marketCap": 389248800000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-12-29",
+        "marketCap": 384951200000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-12-28",
+        "marketCap": 356163600000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-12-27",
+        "marketCap": 344756000000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-12-23",
+        "marketCap": 389154000000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-12-22",
+        "marketCap": 396106000000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-12-21",
+        "marketCap": 434721200000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-12-20",
+        "marketCap": 435448000000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-12-19",
+        "marketCap": 473589200000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-12-16",
+        "marketCap": 474726799999
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-12-15",
+        "marketCap": 498237199999
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-12-14",
+        "marketCap": 495488000000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-12-13",
+        "marketCap": 508601999999
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-12-12",
+        "marketCap": 530311200000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-12-09",
+        "marketCap": 565798000000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-12-08",
+        "marketCap": 548070400000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-12-07",
+        "marketCap": 549966400000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-12-06",
+        "marketCap": 568231200000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-12-05",
+        "marketCap": 576542000000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-12-02",
+        "marketCap": 615757600000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-12-01",
+        "marketCap": 615252000000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-11-30",
+        "marketCap": 615252000000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-11-29",
+        "marketCap": 571422800000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-11-28",
+        "marketCap": 578027200000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-11-25",
+        "marketCap": 577837600000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-11-23",
+        "marketCap": 578912000000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-11-22",
+        "marketCap": 536915600000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-11-21",
+        "marketCap": 530469200000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-11-18",
+        "marketCap": 569400400000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-11-17",
+        "marketCap": 578817200000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-11-16",
+        "marketCap": 590667200000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-11-15",
+        "marketCap": 614367200000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-11-14",
+        "marketCap": 603402000000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-11-11",
+        "marketCap": 619265200000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-11-10",
+        "marketCap": 602675200000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-11-09",
+        "marketCap": 561184400000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-11-08",
+        "marketCap": 604508000000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-11-07",
+        "marketCap": 622772800000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-11-04",
+        "marketCap": 655605200000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-11-03",
+        "marketCap": 680379600000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-11-02",
+        "marketCap": 679336800000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-11-01",
+        "marketCap": 719911200000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-10-31",
+        "marketCap": 719026400000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-10-28",
+        "marketCap": 722123200000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-10-27",
+        "marketCap": 711284400000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-10-26",
+        "marketCap": 709862400000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-10-25",
+        "marketCap": 702847200000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-10-24",
+        "marketCap": 667550000000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-10-21",
+        "marketCap": 677630400000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-10-20",
+        "marketCap": 655004800000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-10-19",
+        "marketCap": 701646400000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-10-18",
+        "marketCap": 695800400000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-10-17",
+        "marketCap": 693146000000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-10-14",
+        "marketCap": 647768400000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-10-13",
+        "marketCap": 700635200000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-10-12",
+        "marketCap": 686478400000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-10-11",
+        "marketCap": 684140000000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-10-10",
+        "marketCap": 704553600000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-10-07",
+        "marketCap": 704901200000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-10-06",
+        "marketCap": 752490800000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-10-05",
+        "marketCap": 760959600000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-10-04",
+        "marketCap": 788230400000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-10-03",
+        "marketCap": 765984000000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-09-30",
+        "marketCap": 838190000000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-09-29",
+        "marketCap": 843788659999
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-09-28",
+        "marketCap": 905450260000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-09-27",
+        "marketCap": 890129240000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-09-26",
+        "marketCap": 868327460000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-09-23",
+        "marketCap": 866188180000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-09-22",
+        "marketCap": 907904139999
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-09-21",
+        "marketCap": 946316800000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-09-20",
+        "marketCap": 971264580000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-09-19",
+        "marketCap": 972334220000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-09-16",
+        "marketCap": 954339100000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-09-15",
+        "marketCap": 955597500000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-09-14",
+        "marketCap": 952011060000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-09-13",
+        "marketCap": 919040980000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-09-12",
+        "marketCap": 957705320000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-09-09",
+        "marketCap": 942793280000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-09-08",
+        "marketCap": 910011960000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-09-07",
+        "marketCap": 892520200000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-09-06",
+        "marketCap": 863325320000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-09-02",
+        "marketCap": 850080659999
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-09-01",
+        "marketCap": 871945360000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-08-31",
+        "marketCap": 867069060000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-08-30",
+        "marketCap": 873644200000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-08-29",
+        "marketCap": 896043720000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-08-26",
+        "marketCap": 906331139999
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-08-25",
+        "marketCap": 931436220000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-08-24",
+        "marketCap": 934676600000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-08-23",
+        "marketCap": 932631700000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-08-22",
+        "marketCap": 912056860000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-08-19",
+        "marketCap": 933323820000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-08-18",
+        "marketCap": 952829020000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-08-17",
+        "marketCap": 956384000000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-08-16",
+        "marketCap": 964437760000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-08-15",
+        "marketCap": 973120720000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-08-12",
+        "marketCap": 943894379999
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-08-11",
+        "marketCap": 901737980000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-08-10",
+        "marketCap": 926056560000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-08-09",
+        "marketCap": 891356180000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-08-08",
+        "marketCap": 913661320000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-08-05",
+        "marketCap": 906582820000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-08-04",
+        "marketCap": 970949980000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-08-03",
+        "marketCap": 967080399999
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-08-02",
+        "marketCap": 945656139999
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-08-01",
+        "marketCap": 935242879999
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-07-29",
+        "marketCap": 934833899999
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-07-28",
+        "marketCap": 883711399999
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-07-27",
+        "marketCap": 864583720000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-07-26",
+        "marketCap": 814373560000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-07-25",
+        "marketCap": 844480780000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-07-22",
+        "marketCap": 856467040000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-07-21",
+        "marketCap": 854799659999
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-07-20",
+        "marketCap": 778635000000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-07-19",
+        "marketCap": 772437380000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-07-18",
+        "marketCap": 756770300000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-07-15",
+        "marketCap": 755260220000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-07-14",
+        "marketCap": 749723260000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-07-13",
+        "marketCap": 745727840000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-07-12",
+        "marketCap": 733238220000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-07-11",
+        "marketCap": 737233640000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-07-08",
+        "marketCap": 788890960000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-07-07",
+        "marketCap": 769322840000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-07-06",
+        "marketCap": 729022580000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-07-05",
+        "marketCap": 733238220000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-07-01",
+        "marketCap": 714959960000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-06-30",
+        "marketCap": 706182620000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-06-29",
+        "marketCap": 710832390000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-06-28",
+        "marketCap": 723805260000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-06-27",
+        "marketCap": 761946120000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-06-24",
+        "marketCap": 764403810000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-06-23",
+        "marketCap": 731302770000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-06-22",
+        "marketCap": 734475990000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-06-21",
+        "marketCap": 737431440000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-06-17",
+        "marketCap": 674340360000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-06-16",
+        "marketCap": 662954100000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-06-15",
+        "marketCap": 724863000000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-06-14",
+        "marketCap": 687188790000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-06-13",
+        "marketCap": 671167140000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-06-10",
+        "marketCap": 722467530000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-06-09",
+        "marketCap": 745737810000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-06-08",
+        "marketCap": 752457570000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-06-07",
+        "marketCap": 743186790000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-06-06",
+        "marketCap": 741289080000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-06-03",
+        "marketCap": 729591720000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-06-02",
+        "marketCap": 803664630000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-06-01",
+        "marketCap": 767763690000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-05-31",
+        "marketCap": 786305250000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-05-27",
+        "marketCap": 787736310000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-05-26",
+        "marketCap": 733916010000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-05-25",
+        "marketCap": 683175600000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-05-24",
+        "marketCap": 651412290000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-05-23",
+        "marketCap": 699881670000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-05-20",
+        "marketCap": 688464300000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-05-19",
+        "marketCap": 735658170000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-05-18",
+        "marketCap": 736062600000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-05-17",
+        "marketCap": 789789570000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-05-16",
+        "marketCap": 751182060000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-05-13",
+        "marketCap": 798064829999
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-05-12",
+        "marketCap": 754946370000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-05-11",
+        "marketCap": 761168370000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-05-10",
+        "marketCap": 829641480000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-05-09",
+        "marketCap": 816233070000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-05-06",
+        "marketCap": 897679050000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-05-05",
+        "marketCap": 905580989999
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-05-04",
+        "marketCap": 987866940000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-05-03",
+        "marketCap": 942881880000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-05-02",
+        "marketCap": 936348780000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-04-29",
+        "marketCap": 902967750000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-04-28",
+        "marketCap": 909967500000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-04-27",
+        "marketCap": 914136239999
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-04-26",
+        "marketCap": 908847540000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-04-25",
+        "marketCap": 1034936370000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-04-22",
+        "marketCap": 1042247220000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-04-21",
+        "marketCap": 1046104860000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-04-20",
+        "marketCap": 1013346030000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-04-19",
+        "marketCap": 1066201920000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-04-18",
+        "marketCap": 1041438360000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-04-14",
+        "marketCap": 1021434630000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-04-13",
+        "marketCap": 1060197690000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-04-12",
+        "marketCap": 1023456780000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-04-11",
+        "marketCap": 1012039410000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-04-08",
+        "marketCap": 1063433130000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-04-07",
+        "marketCap": 1096378620000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-04-06",
+        "marketCap": 1084463489999
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-04-05",
+        "marketCap": 1131626250000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-04-04",
+        "marketCap": 1187842020000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-04-01",
+        "marketCap": 1124719830000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-03-31",
+        "marketCap": 1117471200000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-03-30",
+        "marketCap": 1131539980000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-03-29",
+        "marketCap": 1137311560000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-03-28",
+        "marketCap": 1129336850000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-03-25",
+        "marketCap": 1045338640000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-03-24",
+        "marketCap": 1048720910000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-03-23",
+        "marketCap": 1033423120000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-03-22",
+        "marketCap": 1028116990000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-03-21",
+        "marketCap": 952776150000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-03-18",
+        "marketCap": 936485400000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-03-17",
+        "marketCap": 901514589999
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-03-16",
+        "marketCap": 869088240000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-03-15",
+        "marketCap": 829431900000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-03-14",
+        "marketCap": 792692380000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-03-11",
+        "marketCap": 822667360000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-03-10",
+        "marketCap": 867071290000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-03-09",
+        "marketCap": 888450960000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-03-08",
+        "marketCap": 852704400000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-03-07",
+        "marketCap": 832193570000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-03-04",
+        "marketCap": 867071290000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-03-03",
+        "marketCap": 868095280000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-03-02",
+        "marketCap": 910109900000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-03-01",
+        "marketCap": 894036360000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-02-28",
+        "marketCap": 900304420000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-02-25",
+        "marketCap": 837685879999
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-02-24",
+        "marketCap": 828252760000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-02-23",
+        "marketCap": 790272040000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-02-22",
+        "marketCap": 849725519999
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-02-18",
+        "marketCap": 886402980000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-02-17",
+        "marketCap": 906448360000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-02-16",
+        "marketCap": 955103400000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-02-15",
+        "marketCap": 954110440000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-02-14",
+        "marketCap": 905827760000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-02-11",
+        "marketCap": 889537010000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-02-10",
+        "marketCap": 935616560000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-02-09",
+        "marketCap": 964009010000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-02-08",
+        "marketCap": 953644990000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-02-07",
+        "marketCap": 938502350000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-02-04",
+        "marketCap": 955010310000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-02-03",
+        "marketCap": 921746150000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-02-02",
+        "marketCap": 936764670000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-02-01",
+        "marketCap": 963233260000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-01-31",
+        "marketCap": 968880720000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-01-28",
+        "marketCap": 875418360000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-01-27",
+        "marketCap": 857576110000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-01-26",
+        "marketCap": 969594410000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-01-25",
+        "marketCap": 949921390000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-01-24",
+        "marketCap": 961930000000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-01-21",
+        "marketCap": 976296890000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-01-20",
+        "marketCap": 1030475269999
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-01-19",
+        "marketCap": 1029823640000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-01-18",
+        "marketCap": 1065880500000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-01-14",
+        "marketCap": 1085646610000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-01-13",
+        "marketCap": 1066966550000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-01-12",
+        "marketCap": 1144200220000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-01-11",
+        "marketCap": 1100944400000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-01-10",
+        "marketCap": 1094459129999
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-01-07",
+        "marketCap": 1062218960000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-01-06",
+        "marketCap": 1101254700000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-01-05",
+        "marketCap": 1125489130000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-01-04",
+        "marketCap": 1189069600000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-01-03",
+        "marketCap": 1240982790000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-12-31",
+        "marketCap": 1093062780000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-12-30",
+        "marketCap": 1086395099999
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-12-29",
+        "marketCap": 1102472700000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-12-28",
+        "marketCap": 1104786900000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-12-27",
+        "marketCap": 1110359250000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-12-23",
+        "marketCap": 1083015150000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-12-22",
+        "marketCap": 1024003050000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-12-21",
+        "marketCap": 952597799999
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-12-20",
+        "marketCap": 913439100000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-12-17",
+        "marketCap": 946568700000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-12-16",
+        "marketCap": 940813650000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-12-15",
+        "marketCap": 990629850000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-12-14",
+        "marketCap": 972877500000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-12-13",
+        "marketCap": 980916300000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-12-10",
+        "marketCap": 1032285450000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-12-09",
+        "marketCap": 1018857000000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-12-08",
+        "marketCap": 1084994400000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-12-07",
+        "marketCap": 1067516100000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-12-06",
+        "marketCap": 1024155299999
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-12-03",
+        "marketCap": 1030184400000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-12-02",
+        "marketCap": 1100858850000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-12-01",
+        "marketCap": 1111425000000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-11-30",
+        "marketCap": 1161941550000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-11-29",
+        "marketCap": 1154055000000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-11-26",
+        "marketCap": 1098148800000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-11-24",
+        "marketCap": 1132740000000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-11-23",
+        "marketCap": 1125675600000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-11-22",
+        "marketCap": 1174212900000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-11-19",
+        "marketCap": 1154115900000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-11-18",
+        "marketCap": 1112825700000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-11-17",
+        "marketCap": 1105335000000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-11-16",
+        "marketCap": 1070561100000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-11-15",
+        "marketCap": 1028601000000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-11-12",
+        "marketCap": 1048911150000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-11-11",
+        "marketCap": 1079452500000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-11-10",
+        "marketCap": 1083959100000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-11-09",
+        "marketCap": 1038862650000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-11-08",
+        "marketCap": 1180394250000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-11-05",
+        "marketCap": 1240411200000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-11-04",
+        "marketCap": 1248358650000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-11-03",
+        "marketCap": 1232067900000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-11-02",
+        "marketCap": 1189590150000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-11-01",
+        "marketCap": 1226708700000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-10-29",
+        "marketCap": 1130699850000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-10-28",
+        "marketCap": 1093185450000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-10-27",
+        "marketCap": 1053417750000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-10-26",
+        "marketCap": 1033716600000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-10-25",
+        "marketCap": 1040232900000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-10-22",
+        "marketCap": 923335350000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-10-21",
+        "marketCap": 907410000000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-10-20",
+        "marketCap": 878787000000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-10-19",
+        "marketCap": 877234049999
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-10-18",
+        "marketCap": 883171800000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-10-15",
+        "marketCap": 855675450000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-10-14",
+        "marketCap": 830584650000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-10-13",
+        "marketCap": 823246200000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-10-12",
+        "marketCap": 817795650000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-10-11",
+        "marketCap": 803819100000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-10-08",
+        "marketCap": 797272350000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-10-07",
+        "marketCap": 805524300000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-10-06",
+        "marketCap": 794501400000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-10-05",
+        "marketCap": 792309000000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-10-04",
+        "marketCap": 793252950000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-10-01",
+        "marketCap": 786858450000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-09-30",
+        "marketCap": 787102050000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-09-29",
+        "marketCap": 779757360000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-09-28",
+        "marketCap": 776014860000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-09-27",
+        "marketCap": 789787260000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-09-24",
+        "marketCap": 772841220000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-09-23",
+        "marketCap": 752122740000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-09-22",
+        "marketCap": 750446100000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-09-21",
+        "marketCap": 737901240000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-09-20",
+        "marketCap": 728709660000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-09-17",
+        "marketCap": 757961040000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-09-16",
+        "marketCap": 755476020000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-09-15",
+        "marketCap": 754308360000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-09-14",
+        "marketCap": 742991040000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-09-13",
+        "marketCap": 741523980000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-09-10",
+        "marketCap": 734787480000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-09-09",
+        "marketCap": 753350280000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-09-08",
+        "marketCap": 752362260000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-09-07",
+        "marketCap": 751404180000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-09-03",
+        "marketCap": 732092880000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-09-02",
+        "marketCap": 730925220000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-09-01",
+        "marketCap": 732631800000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-08-31",
+        "marketCap": 734248560000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-08-30",
+        "marketCap": 729458160000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-08-27",
+        "marketCap": 710506140000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-08-26",
+        "marketCap": 699757680000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-08-25",
+        "marketCap": 709787580000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-08-24",
+        "marketCap": 707063040000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-08-23",
+        "marketCap": 704877420000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-08-20",
+        "marketCap": 678889500000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-08-19",
+        "marketCap": 672123060000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-08-18",
+        "marketCap": 687602040000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-08-17",
+        "marketCap": 664368600000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-08-16",
+        "marketCap": 684787680000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-08-13",
+        "marketCap": 715745640000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-08-12",
+        "marketCap": 720805500000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-08-11",
+        "marketCap": 706404360000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-08-10",
+        "marketCap": 708560040000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-08-09",
+        "marketCap": 712332480000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-08-06",
+        "marketCap": 697691820000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-08-05",
+        "marketCap": 713200740000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-08-04",
+        "marketCap": 709488180000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-08-03",
+        "marketCap": 708320520000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-08-02",
+        "marketCap": 708260640000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-07-30",
+        "marketCap": 685835580000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-07-29",
+        "marketCap": 675985320000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-07-28",
+        "marketCap": 645686040000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-07-27",
+        "marketCap": 643500420000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-07-26",
+        "marketCap": 656314740000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-07-23",
+        "marketCap": 642093240000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-07-22",
+        "marketCap": 647961480000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-07-21",
+        "marketCap": 653979420000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-07-20",
+        "marketCap": 659188980000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-07-19",
+        "marketCap": 644937540000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-07-16",
+        "marketCap": 642931560000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-07-15",
+        "marketCap": 649308780000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-07-14",
+        "marketCap": 652063260000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-07-13",
+        "marketCap": 667212900000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-07-12",
+        "marketCap": 684338580000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-07-09",
+        "marketCap": 655626120000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-07-08",
+        "marketCap": 651494400000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-07-07",
+        "marketCap": 643350720000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-07-06",
+        "marketCap": 658260840000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-07-02",
+        "marketCap": 677542200000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-07-01",
+        "marketCap": 676554180000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-06-30",
+        "marketCap": 678350580000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-06-29",
+        "marketCap": 661017960000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-06-28",
+        "marketCap": 668737410000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-06-25",
+        "marketCap": 652395480000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-06-24",
+        "marketCap": 660114930000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-06-23",
+        "marketCap": 637539180000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-06-22",
+        "marketCap": 605612700000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-06-21",
+        "marketCap": 602816220000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-06-18",
+        "marketCap": 605234010000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-06-17",
+        "marketCap": 598708890000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-06-16",
+        "marketCap": 587319060000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-06-15",
+        "marketCap": 581988270000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-06-14",
+        "marketCap": 599786700000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-06-11",
+        "marketCap": 592212900000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-06-10",
+        "marketCap": 592416810000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-06-09",
+        "marketCap": 581405670000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-06-08",
+        "marketCap": 586095600000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-06-07",
+        "marketCap": 587581230000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-06-04",
+        "marketCap": 581667840000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-06-03",
+        "marketCap": 556237350000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-06-02",
+        "marketCap": 587581230000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-06-01",
+        "marketCap": 605816610000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-05-28",
+        "marketCap": 607098330000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-05-27",
+        "marketCap": 612545640000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-05-26",
+        "marketCap": 601184940000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-05-25",
+        "marketCap": 587144280000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-05-24",
+        "marketCap": 588862950000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-05-21",
+        "marketCap": 564044190000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-05-20",
+        "marketCap": 569753670000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-05-19",
+        "marketCap": 547119660000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-05-18",
+        "marketCap": 561102060000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-05-17",
+        "marketCap": 560111640000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-05-14",
+        "marketCap": 572637540000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-05-13",
+        "marketCap": 555101280000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-05-12",
+        "marketCap": 572783190000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-05-11",
+        "marketCap": 599291490000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-05-10",
+        "marketCap": 610797840000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-05-07",
+        "marketCap": 652861560000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-05-06",
+        "marketCap": 644297340000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-05-05",
+        "marketCap": 651492450000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-05-04",
+        "marketCap": 654055890000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-05-03",
+        "marketCap": 665037900000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-04-30",
+        "marketCap": 688866240000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-04-29",
+        "marketCap": 657376710000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-04-28",
+        "marketCap": 674272110000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-04-27",
+        "marketCap": 684292830000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-04-26",
+        "marketCap": 716801910000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-04-23",
+        "marketCap": 708237690000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-04-22",
+        "marketCap": 698828700000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-04-21",
+        "marketCap": 722540520000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-04-20",
+        "marketCap": 698129580000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-04-19",
+        "marketCap": 693905730000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-04-16",
+        "marketCap": 718316670000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-04-15",
+        "marketCap": 717413640000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-04-14",
+        "marketCap": 711005040000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-04-13",
+        "marketCap": 740222430000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-04-12",
+        "marketCap": 681612870000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-04-09",
+        "marketCap": 657376710000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-04-08",
+        "marketCap": 663960090000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-04-07",
+        "marketCap": 651521580000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-04-06",
+        "marketCap": 671563020000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-04-05",
+        "marketCap": 671009550000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-04-01",
+        "marketCap": 642549540000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-03-31",
+        "marketCap": 648550320000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-03-30",
+        "marketCap": 610821210000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-03-29",
+        "marketCap": 587440080000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-03-26",
+        "marketCap": 594589920000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-03-25",
+        "marketCap": 615405180000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-03-24",
+        "marketCap": 605689470000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-03-23",
+        "marketCap": 636335760000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-03-22",
+        "marketCap": 643860390000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-03-19",
+        "marketCap": 629330070000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-03-18",
+        "marketCap": 627686760000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-03-17",
+        "marketCap": 674449020000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-03-16",
+        "marketCap": 650491290000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-03-15",
+        "marketCap": 680330340000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-03-12",
+        "marketCap": 666664920000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-03-11",
+        "marketCap": 672315600000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-03-10",
+        "marketCap": 642015270000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-03-09",
+        "marketCap": 647319990000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-03-08",
+        "marketCap": 541052609999
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-03-05",
+        "marketCap": 574639560000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-03-04",
+        "marketCap": 597213450000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-03-03",
+        "marketCap": 627715590000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-03-02",
+        "marketCap": 659659230000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-03-01",
+        "marketCap": 690420840000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-02-26",
+        "marketCap": 649165110000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-02-25",
+        "marketCap": 655623030000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-02-24",
+        "marketCap": 713081220000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-02-23",
+        "marketCap": 671594850000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-02-22",
+        "marketCap": 686644110000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-02-19",
+        "marketCap": 750819690000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-02-18",
+        "marketCap": 756672180000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-02-17",
+        "marketCap": 767022150000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-02-16",
+        "marketCap": 765177030000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-02-12",
+        "marketCap": 784291320000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-02-11",
+        "marketCap": 779995650000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-02-10",
+        "marketCap": 773422410000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-02-09",
+        "marketCap": 816321449999
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-02-08",
+        "marketCap": 829756230000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-02-05",
+        "marketCap": 819002640000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-02-04",
+        "marketCap": 816840390000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-02-03",
+        "marketCap": 821366699999
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-02-02",
+        "marketCap": 838751190000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-02-01",
+        "marketCap": 807067020000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-01-29",
+        "marketCap": 762582330000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-01-28",
+        "marketCap": 802857840000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-01-27",
+        "marketCap": 830448150000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-01-26",
+        "marketCap": 848639880000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-01-25",
+        "marketCap": 846448800000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-01-22",
+        "marketCap": 813611430000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-01-21",
+        "marketCap": 812025780000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-01-20",
+        "marketCap": 817272840000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-01-19",
+        "marketCap": 811622160000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-01-15",
+        "marketCap": 793949370000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-01-14",
+        "marketCap": 812054610000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-01-13",
+        "marketCap": 821078400000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-01-12",
+        "marketCap": 816321449999
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-01-11",
+        "marketCap": 779563199999
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-01-08",
+        "marketCap": 845699219999
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-01-07",
+        "marketCap": 784204830000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-01-06",
+        "marketCap": 726487170000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-01-05",
+        "marketCap": 706450320000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-01-04",
+        "marketCap": 701318580000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2020-12-31",
+        "marketCap": 678139260000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2020-12-30",
+        "marketCap": 660726270000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2020-12-29",
+        "marketCap": 633366000000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2020-12-28",
+        "marketCap": 631169190000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2020-12-24",
+        "marketCap": 629343270000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2020-12-23",
+        "marketCap": 614336490000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2020-12-22",
+        "marketCap": 608972850000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2020-12-21",
+        "marketCap": 618016860000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2020-12-18",
+        "marketCap": 660954510000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2020-12-17",
+        "marketCap": 623751390000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2020-12-16",
+        "marketCap": 592254270000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2020-12-15",
+        "marketCap": 602211240000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2020-12-14",
+        "marketCap": 608487840000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2020-12-11",
+        "marketCap": 580100490000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2020-12-10",
+        "marketCap": 596334060000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2020-12-09",
+        "marketCap": 574850970000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2020-12-08",
+        "marketCap": 618045390000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2020-12-07",
+        "marketCap": 610313760000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2020-12-04",
+        "marketCap": 569687040000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2020-12-03",
+        "marketCap": 564294870000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2020-12-02",
+        "marketCap": 540957330000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2020-12-01",
+        "marketCap": 556106760000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2020-11-30",
+        "marketCap": 539787599999
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2020-11-27",
+        "marketCap": 557048250000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2020-11-25",
+        "marketCap": 545864490000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2020-11-24",
+        "marketCap": 528175890000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2020-11-23",
+        "marketCap": 496279349999
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2020-11-20",
+        "marketCap": 465609599999
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2020-11-19",
+        "marketCap": 474796259999
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2020-11-18",
+        "marketCap": 462785130000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2020-11-17",
+        "marketCap": 419961599999
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2020-11-16",
+        "marketCap": 388093590000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2020-11-13",
+        "marketCap": 388493009999
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2020-11-12",
+        "marketCap": 391574250000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2020-11-11",
+        "marketCap": 396681120000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2020-11-10",
+        "marketCap": 390261870000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2020-11-09",
+        "marketCap": 400618259999
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2020-11-06",
+        "marketCap": 408891960000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2020-11-05",
+        "marketCap": 416623590000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2020-11-04",
+        "marketCap": 400361490000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2020-11-03",
+        "marketCap": 403128900000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2020-11-02",
+        "marketCap": 380875500000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2020-10-30",
+        "marketCap": 369035550000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2020-10-29",
+        "marketCap": 390689820000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2020-10-28",
+        "marketCap": 386125020000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2020-10-27",
+        "marketCap": 403870680000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2020-10-26",
+        "marketCap": 399676770000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2020-10-23",
+        "marketCap": 400019130000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2020-10-22",
+        "marketCap": 404926290000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2020-10-21",
+        "marketCap": 401930640000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2020-10-20",
+        "marketCap": 401274450000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2020-10-19",
+        "marketCap": 409719330000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2020-10-16",
+        "marketCap": 418135680000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2020-10-15",
+        "marketCap": 426894390000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2020-10-14",
+        "marketCap": 438705810000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2020-10-13",
+        "marketCap": 424754640000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2020-10-12",
+        "marketCap": 420617790000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2020-10-09",
+        "marketCap": 412743509999
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2020-10-08",
+        "marketCap": 405040410000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2020-10-07",
+        "marketCap": 404469810000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2020-10-06",
+        "marketCap": 393685470000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2020-10-05",
+        "marketCap": 404812169999
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2020-10-02",
+        "marketCap": 394741080000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2020-10-01",
+        "marketCap": 426209669999
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2020-09-30",
+        "marketCap": 407979000000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2020-09-29",
+        "marketCap": 392668590000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2020-09-28",
+        "marketCap": 394664400000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2020-09-25",
+        "marketCap": 381677580000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2020-09-24",
+        "marketCap": 363349860000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2020-09-23",
+        "marketCap": 356406690000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2020-09-22",
+        "marketCap": 397503510000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2020-09-21",
+        "marketCap": 421087800000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2020-09-18",
+        "marketCap": 414285180000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2020-09-17",
+        "marketCap": 396744539999
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2020-09-16",
+        "marketCap": 413919750000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2020-09-15",
+        "marketCap": 421425119999
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2020-09-14",
+        "marketCap": 393174570000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2020-09-11",
+        "marketCap": 349238640000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2020-09-10",
+        "marketCap": 347945580000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2020-09-09",
+        "marketCap": 343194990000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2020-09-08",
+        "marketCap": 309406770000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2020-09-04",
+        "marketCap": 391965840000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2020-09-03",
+        "marketCap": 381368369999
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2020-09-02",
+        "marketCap": 419176320000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2020-09-01",
+        "marketCap": 445121850000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2020-08-31",
+        "marketCap": 466935210000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2020-08-28",
+        "marketCap": 414791160000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2020-08-27",
+        "marketCap": 419541750000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2020-08-26",
+        "marketCap": 403490940000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2020-08-25",
+        "marketCap": 379175789999
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2020-08-24",
+        "marketCap": 377461080000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2020-08-21",
+        "marketCap": 384179369999
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2020-08-20",
+        "marketCap": 375156060000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2020-08-19",
+        "marketCap": 352049640000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2020-08-18",
+        "marketCap": 353651910000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2020-08-17",
+        "marketCap": 344010180000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2020-08-14",
+        "marketCap": 309350550000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2020-08-13",
+        "marketCap": 303784770000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2020-08-12",
+        "marketCap": 291360150000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2020-08-11",
+        "marketCap": 257571930000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2020-08-10",
+        "marketCap": 265836269999
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2020-08-07",
+        "marketCap": 272245349999
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2020-08-06",
+        "marketCap": 279160410000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2020-08-05",
+        "marketCap": 278289000000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2020-08-04",
+        "marketCap": 278654430000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2020-08-03",
+        "marketCap": 278289000000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2020-07-31",
+        "marketCap": 268113180000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2020-07-30",
+        "marketCap": 278766870000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2020-07-29",
+        "marketCap": 280931340000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2020-07-28",
+        "marketCap": 276686730000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2020-07-27",
+        "marketCap": 288521040000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2020-07-24",
+        "marketCap": 265555170000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2020-07-23",
+        "marketCap": 283545570000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2020-07-22",
+        "marketCap": 298415760000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2020-07-21",
+        "marketCap": 293918160000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2020-07-20",
+        "marketCap": 307888830000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2020-07-17",
+        "marketCap": 281268660000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2020-07-16",
+        "marketCap": 281212440000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2020-07-15",
+        "marketCap": 289729770000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2020-07-14",
+        "marketCap": 284248320000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2020-07-13",
+        "marketCap": 280537800000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2020-07-10",
+        "marketCap": 289476780000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2020-07-09",
+        "marketCap": 261282450000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2020-07-08",
+        "marketCap": 255969660000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2020-07-07",
+        "marketCap": 260467260000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2020-07-06",
+        "marketCap": 257037840000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2020-07-02",
+        "marketCap": 226510380000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2020-07-01",
+        "marketCap": 209813040000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2020-06-30",
+        "marketCap": 202363890000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2020-06-29",
+        "marketCap": 187739100000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2020-06-26",
+        "marketCap": 178504200000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2020-06-25",
+        "marketCap": 183386700000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2020-06-24",
+        "marketCap": 178727400000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2020-06-23",
+        "marketCap": 186344100000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2020-06-22",
+        "marketCap": 184949100000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2020-06-19",
+        "marketCap": 186176700000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2020-06-18",
+        "marketCap": 186734700000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2020-06-17",
+        "marketCap": 184474800000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2020-06-16",
+        "marketCap": 182689200000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2020-06-15",
+        "marketCap": 184307400000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2020-06-12",
+        "marketCap": 173956500000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2020-06-11",
+        "marketCap": 180959400000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2020-06-10",
+        "marketCap": 190668600000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2020-06-09",
+        "marketCap": 174960900000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2020-06-08",
+        "marketCap": 176690700000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2020-06-05",
+        "marketCap": 164721600000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2020-06-04",
+        "marketCap": 160787700000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2020-06-03",
+        "marketCap": 164219400000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2020-06-02",
+        "marketCap": 163968300000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2020-06-01",
+        "marketCap": 167037300000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2020-05-29",
+        "marketCap": 155319300000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2020-05-28",
+        "marketCap": 149878800000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2020-05-27",
+        "marketCap": 152557200000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2020-05-26",
+        "marketCap": 152306100000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2020-05-22",
+        "marketCap": 151943400000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2020-05-21",
+        "marketCap": 153924300000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2020-05-20",
+        "marketCap": 151692300000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2020-05-19",
+        "marketCap": 150297300000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2020-05-18",
+        "marketCap": 151329600000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2020-05-15",
+        "marketCap": 148651200000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2020-05-14",
+        "marketCap": 149432400000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2020-05-13",
+        "marketCap": 147116700000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2020-05-12",
+        "marketCap": 150548400000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2020-05-11",
+        "marketCap": 150911100000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2020-05-08",
+        "marketCap": 152417700000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2020-05-07",
+        "marketCap": 145080000000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2020-05-06",
+        "marketCap": 145554300000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2020-05-05",
+        "marketCap": 142875900000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2020-05-04",
+        "marketCap": 141592500000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2020-05-01",
+        "marketCap": 130432500000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2020-04-30",
+        "marketCap": 145442700000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2020-04-29",
+        "marketCap": 148902300000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2020-04-28",
+        "marketCap": 143043300000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2020-04-27",
+        "marketCap": 148567500000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2020-04-24",
+        "marketCap": 134868600000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2020-04-23",
+        "marketCap": 131241600000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2020-04-22",
+        "marketCap": 136179900000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2020-04-21",
+        "marketCap": 127726200000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2020-04-20",
+        "marketCap": 138830400000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2020-04-17",
+        "marketCap": 140225400000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2020-04-16",
+        "marketCap": 138607200000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2020-04-15",
+        "marketCap": 135761399999
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2020-04-14",
+        "marketCap": 132050700000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2020-04-13",
+        "marketCap": 121086000000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2020-04-09",
+        "marketCap": 106578000000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2020-04-08",
+        "marketCap": 102086100000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2020-04-07",
+        "marketCap": 101444400000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2020-04-06",
+        "marketCap": 96031800000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2020-04-03",
+        "marketCap": 89280000000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2020-04-02",
+        "marketCap": 84537000000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2020-04-01",
+        "marketCap": 89559000000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2020-03-31",
+        "marketCap": 97454700000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2020-03-30",
+        "marketCap": 91902599999
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2020-03-27",
+        "marketCap": 94126050000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2020-03-26",
+        "marketCap": 96651450000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2020-03-25",
+        "marketCap": 98682750000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2020-03-24",
+        "marketCap": 92424150000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2020-03-23",
+        "marketCap": 79467750000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2020-03-20",
+        "marketCap": 78232500000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2020-03-19",
+        "marketCap": 78259950000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2020-03-18",
+        "marketCap": 66099599999
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2020-03-17",
+        "marketCap": 78726600000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2020-03-16",
+        "marketCap": 81444150000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2020-03-13",
+        "marketCap": 100027800000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2020-03-12",
+        "marketCap": 102580650000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2020-03-11",
+        "marketCap": 116058600000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2020-03-10",
+        "marketCap": 118089900000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2020-03-09",
+        "marketCap": 111254850000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2020-03-06",
+        "marketCap": 128740500000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2020-03-05",
+        "marketCap": 132583499999
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2020-03-04",
+        "marketCap": 137167650000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2020-03-03",
+        "marketCap": 136426500000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2020-03-02",
+        "marketCap": 136069650000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2020-02-28",
+        "marketCap": 122234850000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2020-02-27",
+        "marketCap": 124266150000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2020-02-26",
+        "marketCap": 142520400000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2020-02-25",
+        "marketCap": 146390850000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2020-02-24",
+        "marketCap": 152594550000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2020-02-21",
+        "marketCap": 164892150000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2020-02-20",
+        "marketCap": 164590200000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2020-02-19",
+        "marketCap": 167884200000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2020-02-18",
+        "marketCap": 157096350000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2020-02-14",
+        "marketCap": 146418300000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2020-02-13",
+        "marketCap": 147132000000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2020-02-12",
+        "marketCap": 140406750000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2020-02-11",
+        "marketCap": 141724350000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2020-02-10",
+        "marketCap": 141147900000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2020-02-07",
+        "marketCap": 136893150000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2020-02-06",
+        "marketCap": 137057850000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2020-02-05",
+        "marketCap": 134450099999
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2020-02-04",
+        "marketCap": 162339300000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2020-02-03",
+        "marketCap": 142740000000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2020-01-31",
+        "marketCap": 119050650000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2020-01-30",
+        "marketCap": 117266400000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2020-01-29",
+        "marketCap": 106313849999
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2020-01-28",
+        "marketCap": 103733550000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2020-01-27",
+        "marketCap": 102114000000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2020-01-24",
+        "marketCap": 103349250000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2020-01-23",
+        "marketCap": 104721750000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2020-01-22",
+        "marketCap": 104227650000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2020-01-21",
+        "marketCap": 100137599999
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2020-01-17",
+        "marketCap": 93412350000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2020-01-16",
+        "marketCap": 93961349999
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2020-01-15",
+        "marketCap": 94894650000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2020-01-14",
+        "marketCap": 98435700000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2020-01-13",
+        "marketCap": 96047550000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2020-01-10",
+        "marketCap": 87510600000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2020-01-09",
+        "marketCap": 88087050000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2020-01-08",
+        "marketCap": 90063450000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2020-01-07",
+        "marketCap": 85836150000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2020-01-06",
+        "marketCap": 82624500000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2020-01-03",
+        "marketCap": 81059850000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2020-01-02",
+        "marketCap": 78726600000
+    }
+]

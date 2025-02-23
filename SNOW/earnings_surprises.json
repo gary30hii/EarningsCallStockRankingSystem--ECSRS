@@ -1,0 +1,104 @@
+[
+    {
+        "date": "2024-11-20",
+        "symbol": "SNOW",
+        "actualEarningResult": 0.2,
+        "estimatedEarning": 0.15
+    },
+    {
+        "date": "2024-08-21",
+        "symbol": "SNOW",
+        "actualEarningResult": 0.18,
+        "estimatedEarning": 0.161
+    },
+    {
+        "date": "2024-05-22",
+        "symbol": "SNOW",
+        "actualEarningResult": 0.14,
+        "estimatedEarning": 0.1785
+    },
+    {
+        "date": "2024-02-28",
+        "symbol": "SNOW",
+        "actualEarningResult": 0.35,
+        "estimatedEarning": 0.1822
+    },
+    {
+        "date": "2023-11-29",
+        "symbol": "SNOW",
+        "actualEarningResult": 0.25,
+        "estimatedEarning": 0.15
+    },
+    {
+        "date": "2023-08-23",
+        "symbol": "SNOW",
+        "actualEarningResult": 0.22,
+        "estimatedEarning": 0.09
+    },
+    {
+        "date": "2023-05-24",
+        "symbol": "SNOW",
+        "actualEarningResult": 0.15,
+        "estimatedEarning": 0.05
+    },
+    {
+        "date": "2023-03-01",
+        "symbol": "SNOW",
+        "actualEarningResult": 0.14,
+        "estimatedEarning": 0.04279
+    },
+    {
+        "date": "2022-11-30",
+        "symbol": "SNOW",
+        "actualEarningResult": 0.11,
+        "estimatedEarning": 0.04097
+    },
+    {
+        "date": "2022-08-24",
+        "symbol": "SNOW",
+        "actualEarningResult": 0.01,
+        "estimatedEarning": -0.00267
+    },
+    {
+        "date": "2022-05-25",
+        "symbol": "SNOW",
+        "actualEarningResult": 0.01,
+        "estimatedEarning": 0.00096
+    },
+    {
+        "date": "2022-03-02",
+        "symbol": "SNOW",
+        "actualEarningResult": 0.12,
+        "estimatedEarning": 0.02571
+    },
+    {
+        "date": "2021-12-01",
+        "symbol": "SNOW",
+        "actualEarningResult": 0.04,
+        "estimatedEarning": -0.06
+    },
+    {
+        "date": "2021-08-25",
+        "symbol": "SNOW",
+        "actualEarningResult": -0.04,
+        "estimatedEarning": -0.15
+    },
+    {
+        "date": "2021-05-26",
+        "symbol": "SNOW",
+        "actualEarningResult": -0.24,
+        "estimatedEarning": -0.16
+    },
+    {
+        "date": "2021-03-03",
+        "symbol": "SNOW",
+        "actualEarningResult": -0.22,
+        "estimatedEarning": -0.17
+    },
+    {
+        "date": "2020-12-02",
+        "symbol": "SNOW",
+        "actualEarningResult": -0.28,
+        "estimatedEarning": -0.27
+    }
+]

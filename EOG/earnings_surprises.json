@@ -1,0 +1,770 @@
+[
+    {
+        "date": "2024-11-08",
+        "symbol": "EOG",
+        "actualEarningResult": 3.44,
+        "estimatedEarning": 3.01
+    },
+    {
+        "date": "2024-08-01",
+        "symbol": "EOG",
+        "actualEarningResult": 3.16,
+        "estimatedEarning": 2.96
+    },
+    {
+        "date": "2024-05-02",
+        "symbol": "EOG",
+        "actualEarningResult": 2.82,
+        "estimatedEarning": 2.71
+    },
+    {
+        "date": "2024-02-22",
+        "symbol": "EOG",
+        "actualEarningResult": 3.07,
+        "estimatedEarning": 3.07
+    },
+    {
+        "date": "2023-11-02",
+        "symbol": "EOG",
+        "actualEarningResult": 3.44,
+        "estimatedEarning": 3.02
+    },
+    {
+        "date": "2023-08-03",
+        "symbol": "EOG",
+        "actualEarningResult": 2.49,
+        "estimatedEarning": 2.32
+    },
+    {
+        "date": "2023-05-04",
+        "symbol": "EOG",
+        "actualEarningResult": 2.69,
+        "estimatedEarning": 2.48
+    },
+    {
+        "date": "2023-02-23",
+        "symbol": "EOG",
+        "actualEarningResult": 3.3,
+        "estimatedEarning": 3.37
+    },
+    {
+        "date": "2022-11-03",
+        "symbol": "EOG",
+        "actualEarningResult": 3.71,
+        "estimatedEarning": 3.73
+    },
+    {
+        "date": "2022-08-04",
+        "symbol": "EOG",
+        "actualEarningResult": 2.74,
+        "estimatedEarning": 2.63
+    },
+    {
+        "date": "2022-05-05",
+        "symbol": "EOG",
+        "actualEarningResult": 4,
+        "estimatedEarning": 3.69
+    },
+    {
+        "date": "2022-02-24",
+        "symbol": "EOG",
+        "actualEarningResult": 3.09,
+        "estimatedEarning": 3.19
+    },
+    {
+        "date": "2021-11-04",
+        "symbol": "EOG",
+        "actualEarningResult": 2.16,
+        "estimatedEarning": 2.04
+    },
+    {
+        "date": "2021-08-04",
+        "symbol": "EOG",
+        "actualEarningResult": 1.73,
+        "estimatedEarning": 1.56
+    },
+    {
+        "date": "2021-05-06",
+        "symbol": "EOG",
+        "actualEarningResult": 1.62,
+        "estimatedEarning": 1.44
+    },
+    {
+        "date": "2021-02-25",
+        "symbol": "EOG",
+        "actualEarningResult": 0.71,
+        "estimatedEarning": 0.35
+    },
+    {
+        "date": "2020-11-05",
+        "symbol": "EOG",
+        "actualEarningResult": 0.43,
+        "estimatedEarning": 0.16
+    },
+    {
+        "date": "2020-08-06",
+        "symbol": "EOG",
+        "actualEarningResult": -0.23,
+        "estimatedEarning": -0.14
+    },
+    {
+        "date": "2020-05-07",
+        "symbol": "EOG",
+        "actualEarningResult": 0.55,
+        "estimatedEarning": 0.73
+    },
+    {
+        "date": "2020-02-27",
+        "symbol": "EOG",
+        "actualEarningResult": 1.35,
+        "estimatedEarning": 1.15
+    },
+    {
+        "date": "2019-11-06",
+        "symbol": "EOG",
+        "actualEarningResult": 1.13,
+        "estimatedEarning": 1.13
+    },
+    {
+        "date": "2019-08-01",
+        "symbol": "EOG",
+        "actualEarningResult": 1.31,
+        "estimatedEarning": 1.32
+    },
+    {
+        "date": "2019-05-02",
+        "symbol": "EOG",
+        "actualEarningResult": 1.19,
+        "estimatedEarning": 1.02
+    },
+    {
+        "date": "2019-02-26",
+        "symbol": "EOG",
+        "actualEarningResult": 1.24,
+        "estimatedEarning": 1.34
+    },
+    {
+        "date": "2018-11-01",
+        "symbol": "EOG",
+        "actualEarningResult": 1.75,
+        "estimatedEarning": 1.52
+    },
+    {
+        "date": "2018-08-02",
+        "symbol": "EOG",
+        "actualEarningResult": 1.37,
+        "estimatedEarning": 1.23
+    },
+    {
+        "date": "2018-05-03",
+        "symbol": "EOG",
+        "actualEarningResult": 1.19,
+        "estimatedEarning": 1.01
+    },
+    {
+        "date": "2018-02-27",
+        "symbol": "EOG",
+        "actualEarningResult": 0.69,
+        "estimatedEarning": 0.52
+    },
+    {
+        "date": "2017-11-02",
+        "symbol": "EOG",
+        "actualEarningResult": 0.19,
+        "estimatedEarning": 0.1
+    },
+    {
+        "date": "2017-08-01",
+        "symbol": "EOG",
+        "actualEarningResult": 0.08,
+        "estimatedEarning": 0.1
+    },
+    {
+        "date": "2017-05-08",
+        "symbol": "EOG",
+        "actualEarningResult": 0.15,
+        "estimatedEarning": 0.15
+    },
+    {
+        "date": "2017-02-27",
+        "symbol": "EOG",
+        "actualEarningResult": -0.01,
+        "estimatedEarning": -0.14
+    },
+    {
+        "date": "2016-11-03",
+        "symbol": "EOG",
+        "actualEarningResult": -0.4,
+        "estimatedEarning": -0.31
+    },
+    {
+        "date": "2016-08-04",
+        "symbol": "EOG",
+        "actualEarningResult": -0.38,
+        "estimatedEarning": -0.49
+    },
+    {
+        "date": "2016-05-05",
+        "symbol": "EOG",
+        "actualEarningResult": -0.83,
+        "estimatedEarning": -0.87
+    },
+    {
+        "date": "2016-02-25",
+        "symbol": "EOG",
+        "actualEarningResult": -0.27,
+        "estimatedEarning": -0.33
+    },
+    {
+        "date": "2015-11-05",
+        "symbol": "EOG",
+        "actualEarningResult": 0.02,
+        "estimatedEarning": -0.3
+    },
+    {
+        "date": "2015-08-06",
+        "symbol": "EOG",
+        "actualEarningResult": 0.28,
+        "estimatedEarning": 0.05
+    },
+    {
+        "date": "2015-05-04",
+        "symbol": "EOG",
+        "actualEarningResult": 0.03,
+        "estimatedEarning": 0.00172
+    },
+    {
+        "date": "2015-02-18",
+        "symbol": "EOG",
+        "actualEarningResult": 0.79,
+        "estimatedEarning": 1.02
+    },
+    {
+        "date": "2014-11-04",
+        "symbol": "EOG",
+        "actualEarningResult": 1.31,
+        "estimatedEarning": 1.28
+    },
+    {
+        "date": "2014-08-05",
+        "symbol": "EOG",
+        "actualEarningResult": 1.45,
+        "estimatedEarning": 1.37
+    },
+    {
+        "date": "2014-05-05",
+        "symbol": "EOG",
+        "actualEarningResult": 1.4,
+        "estimatedEarning": 1.2
+    },
+    {
+        "date": "2014-02-24",
+        "symbol": "EOG",
+        "actualEarningResult": 1,
+        "estimatedEarning": 0.97
+    },
+    {
+        "date": "2013-11-06",
+        "symbol": "EOG",
+        "actualEarningResult": 1.16,
+        "estimatedEarning": 1.01
+    },
+    {
+        "date": "2013-08-06",
+        "symbol": "EOG",
+        "actualEarningResult": 1.05,
+        "estimatedEarning": 0.87
+    },
+    {
+        "date": "2013-05-06",
+        "symbol": "EOG",
+        "actualEarningResult": 0.9,
+        "estimatedEarning": 0.59
+    },
+    {
+        "date": "2013-02-13",
+        "symbol": "EOG",
+        "actualEarningResult": 0.81,
+        "estimatedEarning": 0.68
+    },
+    {
+        "date": "2012-11-05",
+        "symbol": "EOG",
+        "actualEarningResult": 0.87,
+        "estimatedEarning": 0.56
+    },
+    {
+        "date": "2012-08-02",
+        "symbol": "EOG",
+        "actualEarningResult": 0.58,
+        "estimatedEarning": 0.45
+    },
+    {
+        "date": "2012-05-08",
+        "symbol": "EOG",
+        "actualEarningResult": 0.59,
+        "estimatedEarning": 0.58
+    },
+    {
+        "date": "2012-02-16",
+        "symbol": "EOG",
+        "actualEarningResult": 0.57,
+        "estimatedEarning": 0.44
+    },
+    {
+        "date": "2011-11-01",
+        "symbol": "EOG",
+        "actualEarningResult": 0.42,
+        "estimatedEarning": 0.39
+    },
+    {
+        "date": "2011-08-04",
+        "symbol": "EOG",
+        "actualEarningResult": 0.56,
+        "estimatedEarning": 0.4
+    },
+    {
+        "date": "2011-05-05",
+        "symbol": "EOG",
+        "actualEarningResult": 0.34,
+        "estimatedEarning": 0.27
+    },
+    {
+        "date": "2011-02-17",
+        "symbol": "EOG",
+        "actualEarningResult": 0.18,
+        "estimatedEarning": 0.13
+    },
+    {
+        "date": "2010-11-02",
+        "symbol": "EOG",
+        "actualEarningResult": 0.09,
+        "estimatedEarning": 0.09
+    },
+    {
+        "date": "2010-08-05",
+        "symbol": "EOG",
+        "actualEarningResult": 0.09,
+        "estimatedEarning": 0.12
+    },
+    {
+        "date": "2010-05-03",
+        "symbol": "EOG",
+        "actualEarningResult": 0.23,
+        "estimatedEarning": 0.26
+    },
+    {
+        "date": "2010-02-09",
+        "symbol": "EOG",
+        "actualEarningResult": 0.46,
+        "estimatedEarning": 0.49
+    },
+    {
+        "date": "2009-11-05",
+        "symbol": "EOG",
+        "actualEarningResult": 0.41,
+        "estimatedEarning": 0.33
+    },
+    {
+        "date": "2009-08-06",
+        "symbol": "EOG",
+        "actualEarningResult": 0.37,
+        "estimatedEarning": 0.21
+    },
+    {
+        "date": "2009-05-04",
+        "symbol": "EOG",
+        "actualEarningResult": 0.27,
+        "estimatedEarning": 0.3
+    },
+    {
+        "date": "2009-02-04",
+        "symbol": "EOG",
+        "actualEarningResult": 0.37,
+        "estimatedEarning": 0.52
+    },
+    {
+        "date": "2008-11-03",
+        "symbol": "EOG",
+        "actualEarningResult": 1.17,
+        "estimatedEarning": 1.12
+    },
+    {
+        "date": "2008-07-29",
+        "symbol": "EOG",
+        "actualEarningResult": 1.26,
+        "estimatedEarning": 1.19
+    },
+    {
+        "date": "2008-05-01",
+        "symbol": "EOG",
+        "actualEarningResult": 0.95,
+        "estimatedEarning": 0.82
+    },
+    {
+        "date": "2008-02-07",
+        "symbol": "EOG",
+        "actualEarningResult": 0.65,
+        "estimatedEarning": 0.55
+    },
+    {
+        "date": "2007-10-29",
+        "symbol": "EOG",
+        "actualEarningResult": 0.4,
+        "estimatedEarning": 0.4
+    },
+    {
+        "date": "2007-08-02",
+        "symbol": "EOG",
+        "actualEarningResult": 0.59,
+        "estimatedEarning": 0.52
+    },
+    {
+        "date": "2007-04-30",
+        "symbol": "EOG",
+        "actualEarningResult": 0.56,
+        "estimatedEarning": 0.51
+    },
+    {
+        "date": "2007-02-01",
+        "symbol": "EOG",
+        "actualEarningResult": 0.51,
+        "estimatedEarning": 0.49
+    },
+    {
+        "date": "2006-10-30",
+        "symbol": "EOG",
+        "actualEarningResult": 0.56,
+        "estimatedEarning": 0.53
+    },
+    {
+        "date": "2006-07-31",
+        "symbol": "EOG",
+        "actualEarningResult": 0.58,
+        "estimatedEarning": 0.53
+    },
+    {
+        "date": "2006-05-04",
+        "symbol": "EOG",
+        "actualEarningResult": 0.77,
+        "estimatedEarning": 0.62
+    },
+    {
+        "date": "2006-02-01",
+        "symbol": "EOG",
+        "actualEarningResult": 0.99,
+        "estimatedEarning": 0.93
+    },
+    {
+        "date": "2005-11-01",
+        "symbol": "EOG",
+        "actualEarningResult": 0.7,
+        "estimatedEarning": 0.69
+    },
+    {
+        "date": "2005-07-26",
+        "symbol": "EOG",
+        "actualEarningResult": 0.49,
+        "estimatedEarning": 0.44
+    },
+    {
+        "date": "2005-04-26",
+        "symbol": "EOG",
+        "actualEarningResult": 0.43,
+        "estimatedEarning": 0.4
+    },
+    {
+        "date": "2005-02-02",
+        "symbol": "EOG",
+        "actualEarningResult": 0.4,
+        "estimatedEarning": 0.37
+    },
+    {
+        "date": "2004-10-26",
+        "symbol": "EOG",
+        "actualEarningResult": 0.28,
+        "estimatedEarning": 0.26
+    },
+    {
+        "date": "2004-08-02",
+        "symbol": "EOG",
+        "actualEarningResult": 0.26,
+        "estimatedEarning": 0.25
+    },
+    {
+        "date": "2004-05-02",
+        "symbol": "EOG",
+        "actualEarningResult": 0.27,
+        "estimatedEarning": 0.22
+    },
+    {
+        "date": "2004-02-04",
+        "symbol": "EOG",
+        "actualEarningResult": 0.18,
+        "estimatedEarning": 0.15
+    },
+    {
+        "date": "2003-11-03",
+        "symbol": "EOG",
+        "actualEarningResult": 0.2,
+        "estimatedEarning": 0.18
+    },
+    {
+        "date": "2003-08-05",
+        "symbol": "EOG",
+        "actualEarningResult": 0.24,
+        "estimatedEarning": 0.21
+    },
+    {
+        "date": "2003-05-04",
+        "symbol": "EOG",
+        "actualEarningResult": 0.31,
+        "estimatedEarning": 0.3
+    },
+    {
+        "date": "2003-02-03",
+        "symbol": "EOG",
+        "actualEarningResult": 0.08,
+        "estimatedEarning": 0.08
+    },
+    {
+        "date": "2002-10-21",
+        "symbol": "EOG",
+        "actualEarningResult": 0.06,
+        "estimatedEarning": 0.05
+    },
+    {
+        "date": "2002-08-12",
+        "symbol": "EOG",
+        "actualEarningResult": 0.05,
+        "estimatedEarning": 0.04568
+    },
+    {
+        "date": "2002-04-29",
+        "symbol": "EOG",
+        "actualEarningResult": -0.05248,
+        "estimatedEarning": -0.01996
+    },
+    {
+        "date": "2002-01-29",
+        "symbol": "EOG",
+        "actualEarningResult": -0.05358,
+        "estimatedEarning": -0.00689
+    },
+    {
+        "date": "2001-10-23",
+        "symbol": "EOG",
+        "actualEarningResult": 0.11,
+        "estimatedEarning": 0.09
+    },
+    {
+        "date": "2001-07-30",
+        "symbol": "EOG",
+        "actualEarningResult": 0.24,
+        "estimatedEarning": 0.23
+    },
+    {
+        "date": "2001-04-23",
+        "symbol": "EOG",
+        "actualEarningResult": 0.45,
+        "estimatedEarning": 0.41
+    },
+    {
+        "date": "2001-02-07",
+        "symbol": "EOG",
+        "actualEarningResult": 0.33,
+        "estimatedEarning": 0.26
+    },
+    {
+        "date": "2000-10-17",
+        "symbol": "EOG",
+        "actualEarningResult": 0.24,
+        "estimatedEarning": 0.11
+    },
+    {
+        "date": "2000-07-25",
+        "symbol": "EOG",
+        "actualEarningResult": 0.16,
+        "estimatedEarning": 0.15
+    },
+    {
+        "date": "2000-04-19",
+        "symbol": "EOG",
+        "actualEarningResult": 0.08,
+        "estimatedEarning": 0.06
+    },
+    {
+        "date": "2000-02-09",
+        "symbol": "EOG",
+        "actualEarningResult": 0.06,
+        "estimatedEarning": 0.06
+    },
+    {
+        "date": "1999-10-19",
+        "symbol": "EOG",
+        "actualEarningResult": 0.07,
+        "estimatedEarning": 0.05
+    },
+    {
+        "date": "1999-07-12",
+        "symbol": "EOG",
+        "actualEarningResult": 0.02,
+        "estimatedEarning": 0.01917
+    },
+    {
+        "date": "1999-04-12",
+        "symbol": "EOG",
+        "actualEarningResult": -0.02,
+        "estimatedEarning": -0.00428
+    },
+    {
+        "date": "1999-01-18",
+        "symbol": "EOG",
+        "actualEarningResult": 0.02,
+        "estimatedEarning": 0.01984
+    },
+    {
+        "date": "1998-10-12",
+        "symbol": "EOG",
+        "actualEarningResult": 0.01,
+        "estimatedEarning": 0.00786
+    },
+    {
+        "date": "1998-07-13",
+        "symbol": "EOG",
+        "actualEarningResult": 0.02,
+        "estimatedEarning": 0.02032
+    },
+    {
+        "date": "1998-04-13",
+        "symbol": "EOG",
+        "actualEarningResult": 0.04,
+        "estimatedEarning": 0.03747
+    },
+    {
+        "date": "1998-01-15",
+        "symbol": "EOG",
+        "actualEarningResult": 0.07,
+        "estimatedEarning": 0.07
+    },
+    {
+        "date": "1997-10-17",
+        "symbol": "EOG",
+        "actualEarningResult": 0.05,
+        "estimatedEarning": 0.04479
+    },
+    {
+        "date": "1997-07-14",
+        "symbol": "EOG",
+        "actualEarningResult": 0.04,
+        "estimatedEarning": 0.02883
+    },
+    {
+        "date": "1997-04-10",
+        "symbol": "EOG",
+        "actualEarningResult": 0.04,
+        "estimatedEarning": 0.05
+    },
+    {
+        "date": "1997-01-20",
+        "symbol": "EOG",
+        "actualEarningResult": 0.06,
+        "estimatedEarning": 0.06
+    },
+    {
+        "date": "1996-10-10",
+        "symbol": "EOG",
+        "actualEarningResult": 0.05,
+        "estimatedEarning": 0.06
+    },
+    {
+        "date": "1996-07-11",
+        "symbol": "EOG",
+        "actualEarningResult": 0.06,
+        "estimatedEarning": 0.06
+    },
+    {
+        "date": "1996-04-11",
+        "symbol": "EOG",
+        "actualEarningResult": 0.04,
+        "estimatedEarning": 0.03875
+    },
+    {
+        "date": "1996-01-24",
+        "symbol": "EOG",
+        "actualEarningResult": 0.05,
+        "estimatedEarning": 0.05
+    },
+    {
+        "date": "1995-10-12",
+        "symbol": "EOG",
+        "actualEarningResult": 0.05,
+        "estimatedEarning": 0.05
+    },
+    {
+        "date": "1995-07-13",
+        "symbol": "EOG",
+        "actualEarningResult": 0.08,
+        "estimatedEarning": 0.05
+    },
+    {
+        "date": "1995-04-13",
+        "symbol": "EOG",
+        "actualEarningResult": 0.05,
+        "estimatedEarning": 0.04018
+    },
+    {
+        "date": "1995-01-26",
+        "symbol": "EOG",
+        "actualEarningResult": 0.07,
+        "estimatedEarning": 0.04442
+    },
+    {
+        "date": "1994-10-13",
+        "symbol": "EOG",
+        "actualEarningResult": 0.07,
+        "estimatedEarning": 0.05
+    },
+    {
+        "date": "1994-07-14",
+        "symbol": "EOG",
+        "actualEarningResult": 0.05,
+        "estimatedEarning": 0.05
+    },
+    {
+        "date": "1994-04-14",
+        "symbol": "EOG",
+        "actualEarningResult": 0.05,
+        "estimatedEarning": 0.05
+    },
+    {
+        "date": "1994-01-28",
+        "symbol": "EOG",
+        "actualEarningResult": 0.06,
+        "estimatedEarning": 0.06
+    },
+    {
+        "date": "1993-10-15",
+        "symbol": "EOG",
+        "actualEarningResult": 0.07,
+        "estimatedEarning": 0.05
+    },
+    {
+        "date": "1993-07-16",
+        "symbol": "EOG",
+        "actualEarningResult": 0.05,
+        "estimatedEarning": 0.05
+    },
+    {
+        "date": "1993-04-20",
+        "symbol": "EOG",
+        "actualEarningResult": 0.05,
+        "estimatedEarning": 0.04298
+    },
+    {
+        "date": "1993-01-26",
+        "symbol": "EOG",
+        "actualEarningResult": 0.06,
+        "estimatedEarning": 0.05
+    }
+]

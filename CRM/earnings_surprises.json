@@ -1,0 +1,494 @@
+[
+    {
+        "date": "2024-12-03",
+        "symbol": "CRM",
+        "actualEarningResult": 2.41,
+        "estimatedEarning": 2.44
+    },
+    {
+        "date": "2024-08-28",
+        "symbol": "CRM",
+        "actualEarningResult": 2.56,
+        "estimatedEarning": 2.35
+    },
+    {
+        "date": "2024-05-29",
+        "symbol": "CRM",
+        "actualEarningResult": 2.44,
+        "estimatedEarning": 2.37
+    },
+    {
+        "date": "2024-02-28",
+        "symbol": "CRM",
+        "actualEarningResult": 2.29,
+        "estimatedEarning": 2.27
+    },
+    {
+        "date": "2023-11-29",
+        "symbol": "CRM",
+        "actualEarningResult": 2.11,
+        "estimatedEarning": 2.06
+    },
+    {
+        "date": "2023-08-30",
+        "symbol": "CRM",
+        "actualEarningResult": 2.12,
+        "estimatedEarning": 1.9
+    },
+    {
+        "date": "2023-05-31",
+        "symbol": "CRM",
+        "actualEarningResult": 1.69,
+        "estimatedEarning": 1.61
+    },
+    {
+        "date": "2023-03-01",
+        "symbol": "CRM",
+        "actualEarningResult": 1.68,
+        "estimatedEarning": 1.35
+    },
+    {
+        "date": "2022-11-30",
+        "symbol": "CRM",
+        "actualEarningResult": 1.4,
+        "estimatedEarning": 1.21
+    },
+    {
+        "date": "2022-08-24",
+        "symbol": "CRM",
+        "actualEarningResult": 1.19,
+        "estimatedEarning": 1.02
+    },
+    {
+        "date": "2022-05-31",
+        "symbol": "CRM",
+        "actualEarningResult": 0.98,
+        "estimatedEarning": 0.93
+    },
+    {
+        "date": "2022-03-01",
+        "symbol": "CRM",
+        "actualEarningResult": 0.84,
+        "estimatedEarning": 0.73
+    },
+    {
+        "date": "2021-11-30",
+        "symbol": "CRM",
+        "actualEarningResult": 1.27,
+        "estimatedEarning": 0.92
+    },
+    {
+        "date": "2021-08-25",
+        "symbol": "CRM",
+        "actualEarningResult": 1.48,
+        "estimatedEarning": 0.91
+    },
+    {
+        "date": "2021-05-27",
+        "symbol": "CRM",
+        "actualEarningResult": 1.21,
+        "estimatedEarning": 0.88
+    },
+    {
+        "date": "2021-02-25",
+        "symbol": "CRM",
+        "actualEarningResult": 1.04,
+        "estimatedEarning": 0.75
+    },
+    {
+        "date": "2020-12-01",
+        "symbol": "CRM",
+        "actualEarningResult": 1.74,
+        "estimatedEarning": 0.74
+    },
+    {
+        "date": "2020-08-25",
+        "symbol": "CRM",
+        "actualEarningResult": 1.44,
+        "estimatedEarning": 0.67
+    },
+    {
+        "date": "2020-05-28",
+        "symbol": "CRM",
+        "actualEarningResult": 0.7,
+        "estimatedEarning": 0.69
+    },
+    {
+        "date": "2020-02-25",
+        "symbol": "CRM",
+        "actualEarningResult": 0.66,
+        "estimatedEarning": 0.55
+    },
+    {
+        "date": "2019-12-03",
+        "symbol": "CRM",
+        "actualEarningResult": 0.75,
+        "estimatedEarning": 0.66
+    },
+    {
+        "date": "2019-08-22",
+        "symbol": "CRM",
+        "actualEarningResult": 0.66,
+        "estimatedEarning": 0.47
+    },
+    {
+        "date": "2019-06-04",
+        "symbol": "CRM",
+        "actualEarningResult": 0.93,
+        "estimatedEarning": 0.61
+    },
+    {
+        "date": "2019-03-04",
+        "symbol": "CRM",
+        "actualEarningResult": 0.7,
+        "estimatedEarning": 0.56
+    },
+    {
+        "date": "2018-11-27",
+        "symbol": "CRM",
+        "actualEarningResult": 0.61,
+        "estimatedEarning": 0.5
+    },
+    {
+        "date": "2018-08-29",
+        "symbol": "CRM",
+        "actualEarningResult": 0.71,
+        "estimatedEarning": 0.47
+    },
+    {
+        "date": "2018-05-29",
+        "symbol": "CRM",
+        "actualEarningResult": 0.74,
+        "estimatedEarning": 0.46
+    },
+    {
+        "date": "2018-02-28",
+        "symbol": "CRM",
+        "actualEarningResult": 0.35,
+        "estimatedEarning": 0.33
+    },
+    {
+        "date": "2017-11-21",
+        "symbol": "CRM",
+        "actualEarningResult": 0.39,
+        "estimatedEarning": 0.37
+    },
+    {
+        "date": "2017-08-22",
+        "symbol": "CRM",
+        "actualEarningResult": 0.33,
+        "estimatedEarning": 0.31
+    },
+    {
+        "date": "2017-05-18",
+        "symbol": "CRM",
+        "actualEarningResult": 0.28,
+        "estimatedEarning": 0.26
+    },
+    {
+        "date": "2017-02-28",
+        "symbol": "CRM",
+        "actualEarningResult": 0.28,
+        "estimatedEarning": 0.25
+    },
+    {
+        "date": "2016-11-17",
+        "symbol": "CRM",
+        "actualEarningResult": 0.24,
+        "estimatedEarning": 0.21
+    },
+    {
+        "date": "2016-08-31",
+        "symbol": "CRM",
+        "actualEarningResult": 0.24,
+        "estimatedEarning": 0.22
+    },
+    {
+        "date": "2016-05-18",
+        "symbol": "CRM",
+        "actualEarningResult": 0.24,
+        "estimatedEarning": 0.23
+    },
+    {
+        "date": "2016-02-24",
+        "symbol": "CRM",
+        "actualEarningResult": 0.19,
+        "estimatedEarning": 0.19
+    },
+    {
+        "date": "2015-11-18",
+        "symbol": "CRM",
+        "actualEarningResult": 0.21,
+        "estimatedEarning": 0.19
+    },
+    {
+        "date": "2015-08-20",
+        "symbol": "CRM",
+        "actualEarningResult": 0.19,
+        "estimatedEarning": 0.17
+    },
+    {
+        "date": "2015-05-20",
+        "symbol": "CRM",
+        "actualEarningResult": 0.16,
+        "estimatedEarning": 0.14
+    },
+    {
+        "date": "2015-02-25",
+        "symbol": "CRM",
+        "actualEarningResult": 0.14,
+        "estimatedEarning": 0.14
+    },
+    {
+        "date": "2014-11-19",
+        "symbol": "CRM",
+        "actualEarningResult": 0.14,
+        "estimatedEarning": 0.13
+    },
+    {
+        "date": "2014-08-21",
+        "symbol": "CRM",
+        "actualEarningResult": 0.13,
+        "estimatedEarning": 0.12
+    },
+    {
+        "date": "2014-05-20",
+        "symbol": "CRM",
+        "actualEarningResult": 0.11,
+        "estimatedEarning": 0.1
+    },
+    {
+        "date": "2014-02-27",
+        "symbol": "CRM",
+        "actualEarningResult": 0.07,
+        "estimatedEarning": 0.06
+    },
+    {
+        "date": "2013-11-18",
+        "symbol": "CRM",
+        "actualEarningResult": 0.09,
+        "estimatedEarning": 0.09
+    },
+    {
+        "date": "2013-08-29",
+        "symbol": "CRM",
+        "actualEarningResult": 0.09,
+        "estimatedEarning": 0.08
+    },
+    {
+        "date": "2013-05-23",
+        "symbol": "CRM",
+        "actualEarningResult": 0.1,
+        "estimatedEarning": 0.11
+    },
+    {
+        "date": "2013-02-28",
+        "symbol": "CRM",
+        "actualEarningResult": 0.13,
+        "estimatedEarning": 0.1
+    },
+    {
+        "date": "2012-11-20",
+        "symbol": "CRM",
+        "actualEarningResult": 0.08,
+        "estimatedEarning": 0.08
+    },
+    {
+        "date": "2012-08-23",
+        "symbol": "CRM",
+        "actualEarningResult": 0.11,
+        "estimatedEarning": 0.1
+    },
+    {
+        "date": "2012-05-17",
+        "symbol": "CRM",
+        "actualEarningResult": 0.09,
+        "estimatedEarning": 0.09
+    },
+    {
+        "date": "2012-02-23",
+        "symbol": "CRM",
+        "actualEarningResult": 0.11,
+        "estimatedEarning": 0.1
+    },
+    {
+        "date": "2011-11-17",
+        "symbol": "CRM",
+        "actualEarningResult": 0.09,
+        "estimatedEarning": 0.08
+    },
+    {
+        "date": "2011-08-18",
+        "symbol": "CRM",
+        "actualEarningResult": 0.08,
+        "estimatedEarning": 0.07
+    },
+    {
+        "date": "2011-05-19",
+        "symbol": "CRM",
+        "actualEarningResult": 0.07,
+        "estimatedEarning": 0.07
+    },
+    {
+        "date": "2011-02-24",
+        "symbol": "CRM",
+        "actualEarningResult": 0.08,
+        "estimatedEarning": 0.06
+    },
+    {
+        "date": "2010-11-18",
+        "symbol": "CRM",
+        "actualEarningResult": 0.08,
+        "estimatedEarning": 0.08
+    },
+    {
+        "date": "2010-08-19",
+        "symbol": "CRM",
+        "actualEarningResult": 0.07,
+        "estimatedEarning": 0.07
+    },
+    {
+        "date": "2010-05-20",
+        "symbol": "CRM",
+        "actualEarningResult": 0.08,
+        "estimatedEarning": 0.08
+    },
+    {
+        "date": "2010-02-24",
+        "symbol": "CRM",
+        "actualEarningResult": 0.04,
+        "estimatedEarning": 0.03742
+    },
+    {
+        "date": "2009-11-17",
+        "symbol": "CRM",
+        "actualEarningResult": 0.04,
+        "estimatedEarning": 0.04008
+    },
+    {
+        "date": "2009-08-20",
+        "symbol": "CRM",
+        "actualEarningResult": 0.04,
+        "estimatedEarning": 0.03496
+    },
+    {
+        "date": "2009-05-21",
+        "symbol": "CRM",
+        "actualEarningResult": 0.04,
+        "estimatedEarning": 0.02901
+    },
+    {
+        "date": "2009-02-25",
+        "symbol": "CRM",
+        "actualEarningResult": 0.03,
+        "estimatedEarning": 0.01892
+    },
+    {
+        "date": "2008-11-20",
+        "symbol": "CRM",
+        "actualEarningResult": 0.02,
+        "estimatedEarning": 0.01724
+    },
+    {
+        "date": "2008-08-20",
+        "symbol": "CRM",
+        "actualEarningResult": 0.02,
+        "estimatedEarning": 0.02032
+    },
+    {
+        "date": "2008-05-21",
+        "symbol": "CRM",
+        "actualEarningResult": 0.02,
+        "estimatedEarning": 0.01654
+    },
+    {
+        "date": "2008-02-27",
+        "symbol": "CRM",
+        "actualEarningResult": 0.02,
+        "estimatedEarning": 0.01449
+    },
+    {
+        "date": "2007-11-15",
+        "symbol": "CRM",
+        "actualEarningResult": 0.01333,
+        "estimatedEarning": 0.00678
+    },
+    {
+        "date": "2007-08-15",
+        "symbol": "CRM",
+        "actualEarningResult": 0.0077,
+        "estimatedEarning": 0.00285
+    },
+    {
+        "date": "2007-05-16",
+        "symbol": "CRM",
+        "actualEarningResult": 0.00151,
+        "estimatedEarning": 0.00287
+    },
+    {
+        "date": "2007-02-21",
+        "symbol": "CRM",
+        "actualEarningResult": 0.02,
+        "estimatedEarning": 0.01966
+    },
+    {
+        "date": "2006-11-15",
+        "symbol": "CRM",
+        "actualEarningResult": 0.02,
+        "estimatedEarning": 0.01813
+    },
+    {
+        "date": "2006-08-16",
+        "symbol": "CRM",
+        "actualEarningResult": 0.02,
+        "estimatedEarning": 0.01393
+    },
+    {
+        "date": "2006-05-17",
+        "symbol": "CRM",
+        "actualEarningResult": 0.01,
+        "estimatedEarning": 0.00932
+    },
+    {
+        "date": "2006-02-22",
+        "symbol": "CRM",
+        "actualEarningResult": 0.01,
+        "estimatedEarning": 0.00993
+    },
+    {
+        "date": "2005-11-16",
+        "symbol": "CRM",
+        "actualEarningResult": 0.02759,
+        "estimatedEarning": 0.02168
+    },
+    {
+        "date": "2005-08-17",
+        "symbol": "CRM",
+        "actualEarningResult": 0.01068,
+        "estimatedEarning": 0.01029
+    },
+    {
+        "date": "2005-05-18",
+        "symbol": "CRM",
+        "actualEarningResult": 0.00941,
+        "estimatedEarning": 0.00601
+    },
+    {
+        "date": "2005-02-17",
+        "symbol": "CRM",
+        "actualEarningResult": 0.01,
+        "estimatedEarning": 0.00644
+    },
+    {
+        "date": "2004-11-17",
+        "symbol": "CRM",
+        "actualEarningResult": 0.00463,
+        "estimatedEarning": 0.00288
+    },
+    {
+        "date": "2004-08-19",
+        "symbol": "CRM",
+        "actualEarningResult": 0.00271,
+        "estimatedEarning": 0.00163
+    }
+]

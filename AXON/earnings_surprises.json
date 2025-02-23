@@ -1,0 +1,434 @@
+[
+    {
+        "date": "2024-11-07",
+        "symbol": "AXON",
+        "actualEarningResult": 1.45,
+        "estimatedEarning": 1.2
+    },
+    {
+        "date": "2024-08-06",
+        "symbol": "AXON",
+        "actualEarningResult": 1.2,
+        "estimatedEarning": 1.02
+    },
+    {
+        "date": "2024-05-06",
+        "symbol": "AXON",
+        "actualEarningResult": 1.15,
+        "estimatedEarning": 0.945
+    },
+    {
+        "date": "2024-02-27",
+        "symbol": "AXON",
+        "actualEarningResult": 1.12,
+        "estimatedEarning": 0.86
+    },
+    {
+        "date": "2023-11-07",
+        "symbol": "AXON",
+        "actualEarningResult": 1.02,
+        "estimatedEarning": 0.76
+    },
+    {
+        "date": "2023-08-08",
+        "symbol": "AXON",
+        "actualEarningResult": 1.11,
+        "estimatedEarning": 0.62
+    },
+    {
+        "date": "2023-05-09",
+        "symbol": "AXON",
+        "actualEarningResult": 0.88,
+        "estimatedEarning": 0.46
+    },
+    {
+        "date": "2023-02-28",
+        "symbol": "AXON",
+        "actualEarningResult": 0.7,
+        "estimatedEarning": 0.5
+    },
+    {
+        "date": "2022-11-08",
+        "symbol": "AXON",
+        "actualEarningResult": 0.6,
+        "estimatedEarning": 0.46
+    },
+    {
+        "date": "2022-08-09",
+        "symbol": "AXON",
+        "actualEarningResult": 0.44,
+        "estimatedEarning": 0.38
+    },
+    {
+        "date": "2022-05-10",
+        "symbol": "AXON",
+        "actualEarningResult": 0.45,
+        "estimatedEarning": 0.25
+    },
+    {
+        "date": "2022-02-24",
+        "symbol": "AXON",
+        "actualEarningResult": 0.46,
+        "estimatedEarning": 0.16
+    },
+    {
+        "date": "2021-11-15",
+        "symbol": "AXON",
+        "actualEarningResult": 1.17,
+        "estimatedEarning": 0.27
+    },
+    {
+        "date": "2021-08-05",
+        "symbol": "AXON",
+        "actualEarningResult": 0.38,
+        "estimatedEarning": 0.22
+    },
+    {
+        "date": "2021-05-06",
+        "symbol": "AXON",
+        "actualEarningResult": 0.31,
+        "estimatedEarning": 0.21
+    },
+    {
+        "date": "2021-02-25",
+        "symbol": "AXON",
+        "actualEarningResult": 1,
+        "estimatedEarning": 0.36
+    },
+    {
+        "date": "2020-11-05",
+        "symbol": "AXON",
+        "actualEarningResult": 0.4,
+        "estimatedEarning": 0.2
+    },
+    {
+        "date": "2020-08-06",
+        "symbol": "AXON",
+        "actualEarningResult": -0.01,
+        "estimatedEarning": 0.16
+    },
+    {
+        "date": "2020-05-07",
+        "symbol": "AXON",
+        "actualEarningResult": 0.4,
+        "estimatedEarning": 0.18
+    },
+    {
+        "date": "2020-02-27",
+        "symbol": "AXON",
+        "actualEarningResult": 0.41,
+        "estimatedEarning": 0.38
+    },
+    {
+        "date": "2019-11-07",
+        "symbol": "AXON",
+        "actualEarningResult": 0.28,
+        "estimatedEarning": 0.27
+    },
+    {
+        "date": "2019-08-08",
+        "symbol": "AXON",
+        "actualEarningResult": 0.14,
+        "estimatedEarning": 0.16
+    },
+    {
+        "date": "2019-05-09",
+        "symbol": "AXON",
+        "actualEarningResult": 0.21,
+        "estimatedEarning": 0.16
+    },
+    {
+        "date": "2019-02-26",
+        "symbol": "AXON",
+        "actualEarningResult": 0.08,
+        "estimatedEarning": 0.11
+    },
+    {
+        "date": "2018-11-06",
+        "symbol": "AXON",
+        "actualEarningResult": 0.2,
+        "estimatedEarning": 0.12
+    },
+    {
+        "date": "2018-08-07",
+        "symbol": "AXON",
+        "actualEarningResult": 0.18,
+        "estimatedEarning": 0.09
+    },
+    {
+        "date": "2018-05-08",
+        "symbol": "AXON",
+        "actualEarningResult": 0.24,
+        "estimatedEarning": 0.05
+    },
+    {
+        "date": "2018-02-27",
+        "symbol": "AXON",
+        "actualEarningResult": 0.18,
+        "estimatedEarning": 0.02651
+    },
+    {
+        "date": "2017-11-07",
+        "symbol": "AXON",
+        "actualEarningResult": 0.01,
+        "estimatedEarning": 0.05
+    },
+    {
+        "date": "2017-08-08",
+        "symbol": "AXON",
+        "actualEarningResult": 0.04,
+        "estimatedEarning": 0.035
+    },
+    {
+        "date": "2017-05-09",
+        "symbol": "AXON",
+        "actualEarningResult": 0.07,
+        "estimatedEarning": 0.02857
+    },
+    {
+        "date": "2017-02-28",
+        "symbol": "AXON",
+        "actualEarningResult": 0.12,
+        "estimatedEarning": 0.11
+    },
+    {
+        "date": "2016-11-09",
+        "symbol": "AXON",
+        "actualEarningResult": 0.07,
+        "estimatedEarning": 0.06
+    },
+    {
+        "date": "2016-08-04",
+        "symbol": "AXON",
+        "actualEarningResult": 0.07,
+        "estimatedEarning": 0.04286
+    },
+    {
+        "date": "2016-05-04",
+        "symbol": "AXON",
+        "actualEarningResult": 0.06,
+        "estimatedEarning": 0.03286
+    },
+    {
+        "date": "2016-02-29",
+        "symbol": "AXON",
+        "actualEarningResult": 0.09,
+        "estimatedEarning": 0.03857
+    },
+    {
+        "date": "2015-11-03",
+        "symbol": "AXON",
+        "actualEarningResult": 0.03,
+        "estimatedEarning": 0.08
+    },
+    {
+        "date": "2015-07-30",
+        "symbol": "AXON",
+        "actualEarningResult": 0.11,
+        "estimatedEarning": 0.09
+    },
+    {
+        "date": "2015-04-30",
+        "symbol": "AXON",
+        "actualEarningResult": 0.13,
+        "estimatedEarning": 0.06
+    },
+    {
+        "date": "2015-02-26",
+        "symbol": "AXON",
+        "actualEarningResult": 0.09,
+        "estimatedEarning": 0.11
+    },
+    {
+        "date": "2014-10-30",
+        "symbol": "AXON",
+        "actualEarningResult": 0.14,
+        "estimatedEarning": 0.09
+    },
+    {
+        "date": "2014-07-30",
+        "symbol": "AXON",
+        "actualEarningResult": 0.07,
+        "estimatedEarning": 0.06
+    },
+    {
+        "date": "2014-04-30",
+        "symbol": "AXON",
+        "actualEarningResult": 0.06,
+        "estimatedEarning": 0.0425
+    },
+    {
+        "date": "2014-02-26",
+        "symbol": "AXON",
+        "actualEarningResult": 0.13,
+        "estimatedEarning": 0.06
+    },
+    {
+        "date": "2013-10-30",
+        "symbol": "AXON",
+        "actualEarningResult": 0.1,
+        "estimatedEarning": 0.08
+    },
+    {
+        "date": "2013-07-31",
+        "symbol": "AXON",
+        "actualEarningResult": 0.08,
+        "estimatedEarning": 0.07
+    },
+    {
+        "date": "2013-04-25",
+        "symbol": "AXON",
+        "actualEarningResult": 0.06,
+        "estimatedEarning": 0.05
+    },
+    {
+        "date": "2013-02-21",
+        "symbol": "AXON",
+        "actualEarningResult": 0.07,
+        "estimatedEarning": 0.07
+    },
+    {
+        "date": "2012-10-26",
+        "symbol": "AXON",
+        "actualEarningResult": 0.07,
+        "estimatedEarning": 0.035
+    },
+    {
+        "date": "2012-07-26",
+        "symbol": "AXON",
+        "actualEarningResult": 0.06,
+        "estimatedEarning": 0.0175
+    },
+    {
+        "date": "2012-02-23",
+        "symbol": "AXON",
+        "actualEarningResult": -0.09928,
+        "estimatedEarning": -0.03723
+    },
+    {
+        "date": "2011-10-31",
+        "symbol": "AXON",
+        "actualEarningResult": 0.02,
+        "estimatedEarning": 0.015
+    },
+    {
+        "date": "2010-07-27",
+        "symbol": "AXON",
+        "actualEarningResult": -0.02,
+        "estimatedEarning": -0.01556
+    },
+    {
+        "date": "2010-02-19",
+        "symbol": "AXON",
+        "actualEarningResult": 0.07,
+        "estimatedEarning": 0.024
+    },
+    {
+        "date": "2009-10-22",
+        "symbol": "AXON",
+        "actualEarningResult": -0.05,
+        "estimatedEarning": -0.032
+    },
+    {
+        "date": "2009-07-29",
+        "symbol": "AXON",
+        "actualEarningResult": -0.01169,
+        "estimatedEarning": -0.00673
+    },
+    {
+        "date": "2008-04-24",
+        "symbol": "AXON",
+        "actualEarningResult": 0.02,
+        "estimatedEarning": 0.05
+    },
+    {
+        "date": "2008-02-14",
+        "symbol": "AXON",
+        "actualEarningResult": 0.07,
+        "estimatedEarning": 0.07
+    },
+    {
+        "date": "2007-10-24",
+        "symbol": "AXON",
+        "actualEarningResult": 0.09,
+        "estimatedEarning": 0.05
+    },
+    {
+        "date": "2007-07-23",
+        "symbol": "AXON",
+        "actualEarningResult": 0.06,
+        "estimatedEarning": 0.042
+    },
+    {
+        "date": "2007-04-25",
+        "symbol": "AXON",
+        "actualEarningResult": 0.00764,
+        "estimatedEarning": 0.01784
+    },
+    {
+        "date": "2007-02-21",
+        "symbol": "AXON",
+        "actualEarningResult": 0.04,
+        "estimatedEarning": 0.04333
+    },
+    {
+        "date": "2006-10-25",
+        "symbol": "AXON",
+        "actualEarningResult": 0.04,
+        "estimatedEarning": 0.03333
+    },
+    {
+        "date": "2006-07-26",
+        "symbol": "AXON",
+        "actualEarningResult": 0.02,
+        "estimatedEarning": 0.02667
+    },
+    {
+        "date": "2006-04-26",
+        "symbol": "AXON",
+        "actualEarningResult": 0.01258,
+        "estimatedEarning": 0.02517
+    },
+    {
+        "date": "2005-07-20",
+        "symbol": "AXON",
+        "actualEarningResult": 0.00796,
+        "estimatedEarning": 0.01592
+    },
+    {
+        "date": "2005-04-19",
+        "symbol": "AXON",
+        "actualEarningResult": 0.00263,
+        "estimatedEarning": null
+    },
+    {
+        "date": "2005-02-08",
+        "symbol": "AXON",
+        "actualEarningResult": 0.08,
+        "estimatedEarning": 0.1
+    },
+    {
+        "date": "2004-10-19",
+        "symbol": "AXON",
+        "actualEarningResult": 0.1,
+        "estimatedEarning": 0.08
+    },
+    {
+        "date": "2004-07-20",
+        "symbol": "AXON",
+        "actualEarningResult": 0.07,
+        "estimatedEarning": 0.07
+    },
+    {
+        "date": "2004-04-20",
+        "symbol": "AXON",
+        "actualEarningResult": 0.06,
+        "estimatedEarning": 0.05
+    },
+    {
+        "date": "2004-02-02",
+        "symbol": "AXON",
+        "actualEarningResult": 0.05,
+        "estimatedEarning": 0.03125
+    }
+]

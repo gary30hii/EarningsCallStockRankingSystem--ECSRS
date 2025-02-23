@@ -1,0 +1,230 @@
+[
+    {
+        "date": "2024-10-29",
+        "symbol": "PYPL",
+        "actualEarningResult": 1.2,
+        "estimatedEarning": 1.07
+    },
+    {
+        "date": "2024-07-30",
+        "symbol": "PYPL",
+        "actualEarningResult": 1.19,
+        "estimatedEarning": 0.99
+    },
+    {
+        "date": "2024-04-30",
+        "symbol": "PYPL",
+        "actualEarningResult": 1.4,
+        "estimatedEarning": 1.22
+    },
+    {
+        "date": "2024-02-07",
+        "symbol": "PYPL",
+        "actualEarningResult": 1.38,
+        "estimatedEarning": 1.27
+    },
+    {
+        "date": "2023-11-01",
+        "symbol": "PYPL",
+        "actualEarningResult": 1.3,
+        "estimatedEarning": 1.22
+    },
+    {
+        "date": "2023-08-02",
+        "symbol": "PYPL",
+        "actualEarningResult": 1.16,
+        "estimatedEarning": 1.16
+    },
+    {
+        "date": "2023-05-08",
+        "symbol": "PYPL",
+        "actualEarningResult": 1.17,
+        "estimatedEarning": 1.1
+    },
+    {
+        "date": "2023-02-09",
+        "symbol": "PYPL",
+        "actualEarningResult": 1.24,
+        "estimatedEarning": 1.2
+    },
+    {
+        "date": "2022-11-03",
+        "symbol": "PYPL",
+        "actualEarningResult": 1.08,
+        "estimatedEarning": 0.96
+    },
+    {
+        "date": "2022-08-02",
+        "symbol": "PYPL",
+        "actualEarningResult": 0.93,
+        "estimatedEarning": 0.85
+    },
+    {
+        "date": "2022-04-27",
+        "symbol": "PYPL",
+        "actualEarningResult": 0.88,
+        "estimatedEarning": 0.88
+    },
+    {
+        "date": "2022-02-01",
+        "symbol": "PYPL",
+        "actualEarningResult": 1.11,
+        "estimatedEarning": 1.12
+    },
+    {
+        "date": "2021-11-08",
+        "symbol": "PYPL",
+        "actualEarningResult": 1.11,
+        "estimatedEarning": 1.07
+    },
+    {
+        "date": "2021-07-28",
+        "symbol": "PYPL",
+        "actualEarningResult": 1.15,
+        "estimatedEarning": 1.12
+    },
+    {
+        "date": "2021-05-05",
+        "symbol": "PYPL",
+        "actualEarningResult": 1.22,
+        "estimatedEarning": 1.01
+    },
+    {
+        "date": "2021-02-03",
+        "symbol": "PYPL",
+        "actualEarningResult": 1.08,
+        "estimatedEarning": 1
+    },
+    {
+        "date": "2020-11-02",
+        "symbol": "PYPL",
+        "actualEarningResult": 1.07,
+        "estimatedEarning": 0.94
+    },
+    {
+        "date": "2020-07-29",
+        "symbol": "PYPL",
+        "actualEarningResult": 1.07,
+        "estimatedEarning": 0.88
+    },
+    {
+        "date": "2020-05-06",
+        "symbol": "PYPL",
+        "actualEarningResult": 0.66,
+        "estimatedEarning": 0.75
+    },
+    {
+        "date": "2020-01-29",
+        "symbol": "PYPL",
+        "actualEarningResult": 0.86,
+        "estimatedEarning": 0.83
+    },
+    {
+        "date": "2019-10-23",
+        "symbol": "PYPL",
+        "actualEarningResult": 0.61,
+        "estimatedEarning": 0.52
+    },
+    {
+        "date": "2019-07-24",
+        "symbol": "PYPL",
+        "actualEarningResult": 0.86,
+        "estimatedEarning": 0.75
+    },
+    {
+        "date": "2019-04-24",
+        "symbol": "PYPL",
+        "actualEarningResult": 0.78,
+        "estimatedEarning": 0.67
+    },
+    {
+        "date": "2019-01-30",
+        "symbol": "PYPL",
+        "actualEarningResult": 0.69,
+        "estimatedEarning": 0.67
+    },
+    {
+        "date": "2018-10-18",
+        "symbol": "PYPL",
+        "actualEarningResult": 0.58,
+        "estimatedEarning": 0.54
+    },
+    {
+        "date": "2018-07-25",
+        "symbol": "PYPL",
+        "actualEarningResult": 0.58,
+        "estimatedEarning": 0.56
+    },
+    {
+        "date": "2018-04-25",
+        "symbol": "PYPL",
+        "actualEarningResult": 0.57,
+        "estimatedEarning": 0.54
+    },
+    {
+        "date": "2018-01-31",
+        "symbol": "PYPL",
+        "actualEarningResult": 0.55,
+        "estimatedEarning": 0.52
+    },
+    {
+        "date": "2017-10-19",
+        "symbol": "PYPL",
+        "actualEarningResult": 0.46,
+        "estimatedEarning": 0.44
+    },
+    {
+        "date": "2017-07-26",
+        "symbol": "PYPL",
+        "actualEarningResult": 0.46,
+        "estimatedEarning": 0.42
+    },
+    {
+        "date": "2017-04-26",
+        "symbol": "PYPL",
+        "actualEarningResult": 0.44,
+        "estimatedEarning": 0.41
+    },
+    {
+        "date": "2017-01-26",
+        "symbol": "PYPL",
+        "actualEarningResult": 0.42,
+        "estimatedEarning": 0.42
+    },
+    {
+        "date": "2016-10-20",
+        "symbol": "PYPL",
+        "actualEarningResult": 0.35,
+        "estimatedEarning": 0.35
+    },
+    {
+        "date": "2016-07-21",
+        "symbol": "PYPL",
+        "actualEarningResult": 0.36,
+        "estimatedEarning": 0.36
+    },
+    {
+        "date": "2016-04-27",
+        "symbol": "PYPL",
+        "actualEarningResult": 0.37,
+        "estimatedEarning": 0.35
+    },
+    {
+        "date": "2016-01-27",
+        "symbol": "PYPL",
+        "actualEarningResult": 0.36,
+        "estimatedEarning": 0.35
+    },
+    {
+        "date": "2015-10-28",
+        "symbol": "PYPL",
+        "actualEarningResult": 0.31,
+        "estimatedEarning": 0.29
+    },
+    {
+        "date": "2015-07-29",
+        "symbol": "PYPL",
+        "actualEarningResult": 0.33,
+        "estimatedEarning": 0.31
+    }
+]

@@ -1,0 +1,548 @@
+[
+    {
+        "date": "2024-10-30",
+        "symbol": "EQR",
+        "actualEarningResult": 0.98,
+        "estimatedEarning": 0.98
+    },
+    {
+        "date": "2024-07-29",
+        "symbol": "EQR",
+        "actualEarningResult": 0.97,
+        "estimatedEarning": 0.96
+    },
+    {
+        "date": "2024-04-23",
+        "symbol": "EQR",
+        "actualEarningResult": 0.77,
+        "estimatedEarning": 0.33
+    },
+    {
+        "date": "2024-01-30",
+        "symbol": "EQR",
+        "actualEarningResult": 0.82,
+        "estimatedEarning": 0.43
+    },
+    {
+        "date": "2023-10-31",
+        "symbol": "EQR",
+        "actualEarningResult": 0.96,
+        "estimatedEarning": 0.97
+    },
+    {
+        "date": "2023-07-27",
+        "symbol": "EQR",
+        "actualEarningResult": 0.94,
+        "estimatedEarning": 0.94
+    },
+    {
+        "date": "2023-04-25",
+        "symbol": "EQR",
+        "actualEarningResult": 0.87,
+        "estimatedEarning": 0.88
+    },
+    {
+        "date": "2023-02-09",
+        "symbol": "EQR",
+        "actualEarningResult": 0.94,
+        "estimatedEarning": 0.94
+    },
+    {
+        "date": "2022-10-25",
+        "symbol": "EQR",
+        "actualEarningResult": 0.86,
+        "estimatedEarning": 0.35
+    },
+    {
+        "date": "2022-07-26",
+        "symbol": "EQR",
+        "actualEarningResult": 0.89,
+        "estimatedEarning": 0.85
+    },
+    {
+        "date": "2022-04-26",
+        "symbol": "EQR",
+        "actualEarningResult": 0.77,
+        "estimatedEarning": 0.8
+    },
+    {
+        "date": "2022-02-01",
+        "symbol": "EQR",
+        "actualEarningResult": 0.82,
+        "estimatedEarning": 0.8
+    },
+    {
+        "date": "2021-10-26",
+        "symbol": "EQR",
+        "actualEarningResult": 0.77,
+        "estimatedEarning": 0.75
+    },
+    {
+        "date": "2021-07-27",
+        "symbol": "EQR",
+        "actualEarningResult": 0.84,
+        "estimatedEarning": 0.24
+    },
+    {
+        "date": "2021-04-27",
+        "symbol": "EQR",
+        "actualEarningResult": 0.68,
+        "estimatedEarning": 0.68
+    },
+    {
+        "date": "2021-02-10",
+        "symbol": "EQR",
+        "actualEarningResult": 0.68,
+        "estimatedEarning": 0.24
+    },
+    {
+        "date": "2020-10-27",
+        "symbol": "EQR",
+        "actualEarningResult": 0.77,
+        "estimatedEarning": 0.82
+    },
+    {
+        "date": "2020-07-28",
+        "symbol": "EQR",
+        "actualEarningResult": 0.7,
+        "estimatedEarning": 0.36
+    },
+    {
+        "date": "2020-05-05",
+        "symbol": "EQR",
+        "actualEarningResult": 0.83,
+        "estimatedEarning": 0.33
+    },
+    {
+        "date": "2020-01-28",
+        "symbol": "EQR",
+        "actualEarningResult": 0.77,
+        "estimatedEarning": 0.35
+    },
+    {
+        "date": "2019-10-22",
+        "symbol": "EQR",
+        "actualEarningResult": 0.71,
+        "estimatedEarning": 0.37
+    },
+    {
+        "date": "2019-07-30",
+        "symbol": "EQR",
+        "actualEarningResult": 0.83,
+        "estimatedEarning": 0.35
+    },
+    {
+        "date": "2019-04-30",
+        "symbol": "EQR",
+        "actualEarningResult": 0.82,
+        "estimatedEarning": 0.81
+    },
+    {
+        "date": "2019-01-29",
+        "symbol": "EQR",
+        "actualEarningResult": 0.84,
+        "estimatedEarning": 0.85
+    },
+    {
+        "date": "2018-10-23",
+        "symbol": "EQR",
+        "actualEarningResult": 0.6,
+        "estimatedEarning": 0.35
+    },
+    {
+        "date": "2018-07-24",
+        "symbol": "EQR",
+        "actualEarningResult": 0.81,
+        "estimatedEarning": 0.8
+    },
+    {
+        "date": "2018-04-24",
+        "symbol": "EQR",
+        "actualEarningResult": 0.57,
+        "estimatedEarning": 0.28
+    },
+    {
+        "date": "2018-01-30",
+        "symbol": "EQR",
+        "actualEarningResult": 0.83,
+        "estimatedEarning": 0.81
+    },
+    {
+        "date": "2017-10-24",
+        "symbol": "EQR",
+        "actualEarningResult": 0.8,
+        "estimatedEarning": 0.79
+    },
+    {
+        "date": "2017-07-25",
+        "symbol": "EQR",
+        "actualEarningResult": 0.77,
+        "estimatedEarning": 0.77
+    },
+    {
+        "date": "2017-04-25",
+        "symbol": "EQR",
+        "actualEarningResult": 0.74,
+        "estimatedEarning": 0.74
+    },
+    {
+        "date": "2017-01-31",
+        "symbol": "EQR",
+        "actualEarningResult": 0.75,
+        "estimatedEarning": 0.4
+    },
+    {
+        "date": "2016-10-25",
+        "symbol": "EQR",
+        "actualEarningResult": 0.56,
+        "estimatedEarning": 0.4
+    },
+    {
+        "date": "2016-07-26",
+        "symbol": "EQR",
+        "actualEarningResult": 0.59,
+        "estimatedEarning": 0.42
+    },
+    {
+        "date": "2016-04-26",
+        "symbol": "EQR",
+        "actualEarningResult": 0.76,
+        "estimatedEarning": 0.76
+    },
+    {
+        "date": "2016-02-02",
+        "symbol": "EQR",
+        "actualEarningResult": 0.92,
+        "estimatedEarning": 0.92
+    },
+    {
+        "date": "2015-10-26",
+        "symbol": "EQR",
+        "actualEarningResult": 0.87,
+        "estimatedEarning": 0.88
+    },
+    {
+        "date": "2015-07-28",
+        "symbol": "EQR",
+        "actualEarningResult": 0.78,
+        "estimatedEarning": 0.43
+    },
+    {
+        "date": "2015-04-28",
+        "symbol": "EQR",
+        "actualEarningResult": 0.79,
+        "estimatedEarning": 0.8
+    },
+    {
+        "date": "2015-02-03",
+        "symbol": "EQR",
+        "actualEarningResult": 0.86,
+        "estimatedEarning": 0.83
+    },
+    {
+        "date": "2014-10-28",
+        "symbol": "EQR",
+        "actualEarningResult": 0.81,
+        "estimatedEarning": 0.8
+    },
+    {
+        "date": "2014-07-29",
+        "symbol": "EQR",
+        "actualEarningResult": 0.78,
+        "estimatedEarning": 0.77
+    },
+    {
+        "date": "2014-04-30",
+        "symbol": "EQR",
+        "actualEarningResult": 0.71,
+        "estimatedEarning": 0.71
+    },
+    {
+        "date": "2014-02-04",
+        "symbol": "EQR",
+        "actualEarningResult": 0.77,
+        "estimatedEarning": 0.75
+    },
+    {
+        "date": "2013-10-30",
+        "symbol": "EQR",
+        "actualEarningResult": 0.73,
+        "estimatedEarning": 0.73
+    },
+    {
+        "date": "2013-07-30",
+        "symbol": "EQR",
+        "actualEarningResult": 0.71,
+        "estimatedEarning": 0.71
+    },
+    {
+        "date": "2013-04-30",
+        "symbol": "EQR",
+        "actualEarningResult": 0.64,
+        "estimatedEarning": 0.63
+    },
+    {
+        "date": "2013-02-05",
+        "symbol": "EQR",
+        "actualEarningResult": 0.75,
+        "estimatedEarning": 0.73
+    },
+    {
+        "date": "2012-10-24",
+        "symbol": "EQR",
+        "actualEarningResult": 0.72,
+        "estimatedEarning": 0.3
+    },
+    {
+        "date": "2012-07-25",
+        "symbol": "EQR",
+        "actualEarningResult": 0.68,
+        "estimatedEarning": 0.26
+    },
+    {
+        "date": "2012-04-25",
+        "symbol": "EQR",
+        "actualEarningResult": 0.47,
+        "estimatedEarning": 0.2
+    },
+    {
+        "date": "2012-02-01",
+        "symbol": "EQR",
+        "actualEarningResult": 0.65,
+        "estimatedEarning": 0.14
+    },
+    {
+        "date": "2011-10-26",
+        "symbol": "EQR",
+        "actualEarningResult": 0.62,
+        "estimatedEarning": 0.24
+    },
+    {
+        "date": "2011-07-27",
+        "symbol": "EQR",
+        "actualEarningResult": 0.6,
+        "estimatedEarning": 0.35
+    },
+    {
+        "date": "2011-04-27",
+        "symbol": "EQR",
+        "actualEarningResult": 0.42,
+        "estimatedEarning": 0.1
+    },
+    {
+        "date": "2011-02-02",
+        "symbol": "EQR",
+        "actualEarningResult": 0.8,
+        "estimatedEarning": 0.28
+    },
+    {
+        "date": "2010-10-27",
+        "symbol": "EQR",
+        "actualEarningResult": 0.55,
+        "estimatedEarning": 0.07
+    },
+    {
+        "date": "2010-07-28",
+        "symbol": "EQR",
+        "actualEarningResult": 0.58,
+        "estimatedEarning": 0.12
+    },
+    {
+        "date": "2010-04-28",
+        "symbol": "EQR",
+        "actualEarningResult": 0.49,
+        "estimatedEarning": 0.07
+    },
+    {
+        "date": "2010-02-03",
+        "symbol": "EQR",
+        "actualEarningResult": 0.52,
+        "estimatedEarning": 0.00426
+    },
+    {
+        "date": "2009-10-28",
+        "symbol": "EQR",
+        "actualEarningResult": 0.48,
+        "estimatedEarning": 0.12
+    },
+    {
+        "date": "2009-07-29",
+        "symbol": "EQR",
+        "actualEarningResult": 0.58,
+        "estimatedEarning": 0.13
+    },
+    {
+        "date": "2009-04-29",
+        "symbol": "EQR",
+        "actualEarningResult": 0.28,
+        "estimatedEarning": 0.07
+    },
+    {
+        "date": "2009-02-04",
+        "symbol": "EQR",
+        "actualEarningResult": -0.13,
+        "estimatedEarning": -0.11
+    },
+    {
+        "date": "2008-10-29",
+        "symbol": "EQR",
+        "actualEarningResult": 0.64,
+        "estimatedEarning": 0.14
+    },
+    {
+        "date": "2008-07-30",
+        "symbol": "EQR",
+        "actualEarningResult": 0.44,
+        "estimatedEarning": 0.11
+    },
+    {
+        "date": "2008-04-30",
+        "symbol": "EQR",
+        "actualEarningResult": 0.47,
+        "estimatedEarning": 0.07
+    },
+    {
+        "date": "2008-02-05",
+        "symbol": "EQR",
+        "actualEarningResult": 0.13,
+        "estimatedEarning": 0.07
+    },
+    {
+        "date": "2007-10-30",
+        "symbol": "EQR",
+        "actualEarningResult": 0.05,
+        "estimatedEarning": 0.03667
+    },
+    {
+        "date": "2007-07-31",
+        "symbol": "EQR",
+        "actualEarningResult": 0.08,
+        "estimatedEarning": 0.05
+    },
+    {
+        "date": "2007-05-01",
+        "symbol": "EQR",
+        "actualEarningResult": 0.05,
+        "estimatedEarning": 0.035
+    },
+    {
+        "date": "2007-02-06",
+        "symbol": "EQR",
+        "actualEarningResult": 0.02,
+        "estimatedEarning": 0.03667
+    },
+    {
+        "date": "2006-10-31",
+        "symbol": "EQR",
+        "actualEarningResult": 0.08,
+        "estimatedEarning": 0.09
+    },
+    {
+        "date": "2006-08-01",
+        "symbol": "EQR",
+        "actualEarningResult": 0.08,
+        "estimatedEarning": 0.09
+    },
+    {
+        "date": "2006-05-02",
+        "symbol": "EQR",
+        "actualEarningResult": 0.06,
+        "estimatedEarning": 0.05
+    },
+    {
+        "date": "2006-01-31",
+        "symbol": "EQR",
+        "actualEarningResult": 0.11,
+        "estimatedEarning": 0.23
+    },
+    {
+        "date": "2005-11-01",
+        "symbol": "EQR",
+        "actualEarningResult": 0.04,
+        "estimatedEarning": 0.28
+    },
+    {
+        "date": "2005-04-26",
+        "symbol": "EQR",
+        "actualEarningResult": 0.74,
+        "estimatedEarning": 0.08
+    },
+    {
+        "date": "2005-02-02",
+        "symbol": "EQR",
+        "actualEarningResult": 0.48,
+        "estimatedEarning": 0.09
+    },
+    {
+        "date": "2004-11-02",
+        "symbol": "EQR",
+        "actualEarningResult": 0.07,
+        "estimatedEarning": 0.14
+    },
+    {
+        "date": "2004-08-03",
+        "symbol": "EQR",
+        "actualEarningResult": 0.39,
+        "estimatedEarning": 0.29
+    },
+    {
+        "date": "2004-04-28",
+        "symbol": "EQR",
+        "actualEarningResult": 0.35,
+        "estimatedEarning": 0.19
+    },
+    {
+        "date": "2004-02-04",
+        "symbol": "EQR",
+        "actualEarningResult": 0.33,
+        "estimatedEarning": 0.39
+    },
+    {
+        "date": "2003-11-04",
+        "symbol": "EQR",
+        "actualEarningResult": 0.41,
+        "estimatedEarning": 0.28
+    },
+    {
+        "date": "2003-08-13",
+        "symbol": "EQR",
+        "actualEarningResult": 0.41,
+        "estimatedEarning": 0.28
+    },
+    {
+        "date": "2003-04-30",
+        "symbol": "EQR",
+        "actualEarningResult": 0.41,
+        "estimatedEarning": 0.24
+    },
+    {
+        "date": "2003-02-05",
+        "symbol": "EQR",
+        "actualEarningResult": 0.35,
+        "estimatedEarning": 0.32
+    },
+    {
+        "date": "2002-11-05",
+        "symbol": "EQR",
+        "actualEarningResult": 0.2965,
+        "estimatedEarning": 0.35
+    },
+    {
+        "date": "2002-07-31",
+        "symbol": "EQR",
+        "actualEarningResult": 0.58,
+        "estimatedEarning": 0.24
+    },
+    {
+        "date": "2002-05-01",
+        "symbol": "EQR",
+        "actualEarningResult": 0.28,
+        "estimatedEarning": 0.22
+    },
+    {
+        "date": "2002-03-04",
+        "symbol": "EQR",
+        "actualEarningResult": 0.5,
+        "estimatedEarning": 0.5
+    }
+]

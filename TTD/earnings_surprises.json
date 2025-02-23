@@ -1,0 +1,200 @@
+[
+    {
+        "date": "2024-11-07",
+        "symbol": "TTD",
+        "actualEarningResult": 0.41,
+        "estimatedEarning": 0.3949
+    },
+    {
+        "date": "2024-08-08",
+        "symbol": "TTD",
+        "actualEarningResult": 0.39,
+        "estimatedEarning": 0.357
+    },
+    {
+        "date": "2024-05-08",
+        "symbol": "TTD",
+        "actualEarningResult": 0.26,
+        "estimatedEarning": 0.2175
+    },
+    {
+        "date": "2024-02-15",
+        "symbol": "TTD",
+        "actualEarningResult": 0.41,
+        "estimatedEarning": 0.4104
+    },
+    {
+        "date": "2023-11-09",
+        "symbol": "TTD",
+        "actualEarningResult": 0.33,
+        "estimatedEarning": 0.29
+    },
+    {
+        "date": "2023-08-09",
+        "symbol": "TTD",
+        "actualEarningResult": 0.28,
+        "estimatedEarning": 0.26
+    },
+    {
+        "date": "2023-05-10",
+        "symbol": "TTD",
+        "actualEarningResult": 0.23,
+        "estimatedEarning": 0.13
+    },
+    {
+        "date": "2023-02-15",
+        "symbol": "TTD",
+        "actualEarningResult": 0.38,
+        "estimatedEarning": 0.37
+    },
+    {
+        "date": "2022-11-09",
+        "symbol": "TTD",
+        "actualEarningResult": 0.26,
+        "estimatedEarning": 0.24
+    },
+    {
+        "date": "2022-08-09",
+        "symbol": "TTD",
+        "actualEarningResult": 0.2,
+        "estimatedEarning": 0.21
+    },
+    {
+        "date": "2022-05-10",
+        "symbol": "TTD",
+        "actualEarningResult": 0.21,
+        "estimatedEarning": 0.16
+    },
+    {
+        "date": "2022-02-16",
+        "symbol": "TTD",
+        "actualEarningResult": 0.42,
+        "estimatedEarning": 0.29
+    },
+    {
+        "date": "2021-11-08",
+        "symbol": "TTD",
+        "actualEarningResult": 0.18,
+        "estimatedEarning": 0.16
+    },
+    {
+        "date": "2021-08-09",
+        "symbol": "TTD",
+        "actualEarningResult": 0.18,
+        "estimatedEarning": 0.13
+    },
+    {
+        "date": "2021-05-10",
+        "symbol": "TTD",
+        "actualEarningResult": 0.14,
+        "estimatedEarning": 0.08
+    },
+    {
+        "date": "2021-02-18",
+        "symbol": "TTD",
+        "actualEarningResult": 0.37,
+        "estimatedEarning": 0.19
+    },
+    {
+        "date": "2020-11-05",
+        "symbol": "TTD",
+        "actualEarningResult": 0.13,
+        "estimatedEarning": 0.05
+    },
+    {
+        "date": "2020-08-06",
+        "symbol": "TTD",
+        "actualEarningResult": 0.09,
+        "estimatedEarning": 0.01644
+    },
+    {
+        "date": "2020-05-07",
+        "symbol": "TTD",
+        "actualEarningResult": 0.09,
+        "estimatedEarning": 0.05
+    },
+    {
+        "date": "2020-02-27",
+        "symbol": "TTD",
+        "actualEarningResult": 0.15,
+        "estimatedEarning": 0.12
+    },
+    {
+        "date": "2019-11-07",
+        "symbol": "TTD",
+        "actualEarningResult": 0.08,
+        "estimatedEarning": 0.07
+    },
+    {
+        "date": "2019-08-08",
+        "symbol": "TTD",
+        "actualEarningResult": 0.1,
+        "estimatedEarning": 0.07
+    },
+    {
+        "date": "2019-05-09",
+        "symbol": "TTD",
+        "actualEarningResult": 0.05,
+        "estimatedEarning": 0.02507
+    },
+    {
+        "date": "2019-02-21",
+        "symbol": "TTD",
+        "actualEarningResult": 0.11,
+        "estimatedEarning": 0.08
+    },
+    {
+        "date": "2018-11-08",
+        "symbol": "TTD",
+        "actualEarningResult": 0.07,
+        "estimatedEarning": 0.05
+    },
+    {
+        "date": "2018-08-09",
+        "symbol": "TTD",
+        "actualEarningResult": 0.06,
+        "estimatedEarning": 0.04366
+    },
+    {
+        "date": "2018-05-10",
+        "symbol": "TTD",
+        "actualEarningResult": 0.03,
+        "estimatedEarning": 0.00885
+    },
+    {
+        "date": "2018-02-22",
+        "symbol": "TTD",
+        "actualEarningResult": 0.05,
+        "estimatedEarning": 0.0401
+    },
+    {
+        "date": "2017-11-09",
+        "symbol": "TTD",
+        "actualEarningResult": 0.04,
+        "estimatedEarning": 0.03147
+    },
+    {
+        "date": "2017-08-10",
+        "symbol": "TTD",
+        "actualEarningResult": 0.05,
+        "estimatedEarning": 0.01779
+    },
+    {
+        "date": "2017-05-11",
+        "symbol": "TTD",
+        "actualEarningResult": 0.02,
+        "estimatedEarning": 0.00022
+    },
+    {
+        "date": "2017-02-16",
+        "symbol": "TTD",
+        "actualEarningResult": 0.03,
+        "estimatedEarning": 0.02061
+    },
+    {
+        "date": "2016-11-10",
+        "symbol": "TTD",
+        "actualEarningResult": 0.02,
+        "estimatedEarning": 0.01764
+    }
+]

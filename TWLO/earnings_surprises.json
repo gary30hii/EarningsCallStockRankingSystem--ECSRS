@@ -1,0 +1,206 @@
+[
+    {
+        "date": "2024-10-30",
+        "symbol": "TWLO",
+        "actualEarningResult": 1.02,
+        "estimatedEarning": 0.858
+    },
+    {
+        "date": "2024-08-01",
+        "symbol": "TWLO",
+        "actualEarningResult": 0.87,
+        "estimatedEarning": 0.732
+    },
+    {
+        "date": "2024-05-07",
+        "symbol": "TWLO",
+        "actualEarningResult": 0.8,
+        "estimatedEarning": 0.592
+    },
+    {
+        "date": "2024-02-14",
+        "symbol": "TWLO",
+        "actualEarningResult": 0.86,
+        "estimatedEarning": 0.57
+    },
+    {
+        "date": "2023-11-08",
+        "symbol": "TWLO",
+        "actualEarningResult": 0.58,
+        "estimatedEarning": 0.35
+    },
+    {
+        "date": "2023-08-08",
+        "symbol": "TWLO",
+        "actualEarningResult": 0.54,
+        "estimatedEarning": 0.29
+    },
+    {
+        "date": "2023-05-09",
+        "symbol": "TWLO",
+        "actualEarningResult": 0.47,
+        "estimatedEarning": 0.2
+    },
+    {
+        "date": "2023-02-15",
+        "symbol": "TWLO",
+        "actualEarningResult": 0.22,
+        "estimatedEarning": -0.09
+    },
+    {
+        "date": "2022-11-03",
+        "symbol": "TWLO",
+        "actualEarningResult": -0.27,
+        "estimatedEarning": -0.39
+    },
+    {
+        "date": "2022-08-04",
+        "symbol": "TWLO",
+        "actualEarningResult": -0.11,
+        "estimatedEarning": -0.2
+    },
+    {
+        "date": "2022-05-04",
+        "symbol": "TWLO",
+        "actualEarningResult": -1.22514,
+        "estimatedEarning": -0.23
+    },
+    {
+        "date": "2022-02-09",
+        "symbol": "TWLO",
+        "actualEarningResult": -0.2,
+        "estimatedEarning": -0.21
+    },
+    {
+        "date": "2021-10-27",
+        "symbol": "TWLO",
+        "actualEarningResult": 0.01,
+        "estimatedEarning": -0.15
+    },
+    {
+        "date": "2021-07-29",
+        "symbol": "TWLO",
+        "actualEarningResult": -0.11,
+        "estimatedEarning": -0.14
+    },
+    {
+        "date": "2021-05-05",
+        "symbol": "TWLO",
+        "actualEarningResult": 0.05,
+        "estimatedEarning": -0.1
+    },
+    {
+        "date": "2021-02-17",
+        "symbol": "TWLO",
+        "actualEarningResult": 0.04,
+        "estimatedEarning": -0.08
+    },
+    {
+        "date": "2020-10-26",
+        "symbol": "TWLO",
+        "actualEarningResult": 0.04,
+        "estimatedEarning": -0.05
+    },
+    {
+        "date": "2020-08-04",
+        "symbol": "TWLO",
+        "actualEarningResult": 0.09,
+        "estimatedEarning": -0.09
+    },
+    {
+        "date": "2020-05-06",
+        "symbol": "TWLO",
+        "actualEarningResult": 0.06,
+        "estimatedEarning": -0.11
+    },
+    {
+        "date": "2020-02-05",
+        "symbol": "TWLO",
+        "actualEarningResult": 0.04,
+        "estimatedEarning": 0.0148
+    },
+    {
+        "date": "2019-10-30",
+        "symbol": "TWLO",
+        "actualEarningResult": 0.03,
+        "estimatedEarning": 0.01048
+    },
+    {
+        "date": "2019-07-31",
+        "symbol": "TWLO",
+        "actualEarningResult": 0.03,
+        "estimatedEarning": 0.02695
+    },
+    {
+        "date": "2019-04-30",
+        "symbol": "TWLO",
+        "actualEarningResult": 0.05,
+        "estimatedEarning": 0.00982
+    },
+    {
+        "date": "2019-02-12",
+        "symbol": "TWLO",
+        "actualEarningResult": 0.04,
+        "estimatedEarning": 0.04421
+    },
+    {
+        "date": "2018-11-06",
+        "symbol": "TWLO",
+        "actualEarningResult": 0.07,
+        "estimatedEarning": 0.02389
+    },
+    {
+        "date": "2018-08-06",
+        "symbol": "TWLO",
+        "actualEarningResult": 0.03,
+        "estimatedEarning": -0.06
+    },
+    {
+        "date": "2018-05-08",
+        "symbol": "TWLO",
+        "actualEarningResult": -0.04,
+        "estimatedEarning": -0.07
+    },
+    {
+        "date": "2018-02-13",
+        "symbol": "TWLO",
+        "actualEarningResult": -0.03,
+        "estimatedEarning": -0.06
+    },
+    {
+        "date": "2017-11-08",
+        "symbol": "TWLO",
+        "actualEarningResult": -0.08,
+        "estimatedEarning": -0.08
+    },
+    {
+        "date": "2017-08-07",
+        "symbol": "TWLO",
+        "actualEarningResult": -0.05,
+        "estimatedEarning": -0.11
+    },
+    {
+        "date": "2017-05-02",
+        "symbol": "TWLO",
+        "actualEarningResult": -0.04,
+        "estimatedEarning": -0.07
+    },
+    {
+        "date": "2017-02-07",
+        "symbol": "TWLO",
+        "actualEarningResult": -0.14228,
+        "estimatedEarning": -0.05
+    },
+    {
+        "date": "2016-11-03",
+        "symbol": "TWLO",
+        "actualEarningResult": -0.04,
+        "estimatedEarning": -0.08
+    },
+    {
+        "date": "2016-08-08",
+        "symbol": "TWLO",
+        "actualEarningResult": -0.08,
+        "estimatedEarning": -0.15
+    }
+]

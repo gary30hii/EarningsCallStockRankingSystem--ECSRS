@@ -1,0 +1,680 @@
+[
+    {
+        "date": "2024-10-11",
+        "symbol": "FAST",
+        "actualEarningResult": 0.52,
+        "estimatedEarning": 0.51
+    },
+    {
+        "date": "2024-07-12",
+        "symbol": "FAST",
+        "actualEarningResult": 0.51,
+        "estimatedEarning": 0.51
+    },
+    {
+        "date": "2024-04-11",
+        "symbol": "FAST",
+        "actualEarningResult": 0.52,
+        "estimatedEarning": 0.53
+    },
+    {
+        "date": "2024-01-18",
+        "symbol": "FAST",
+        "actualEarningResult": 0.46,
+        "estimatedEarning": 0.45
+    },
+    {
+        "date": "2023-10-12",
+        "symbol": "FAST",
+        "actualEarningResult": 0.52,
+        "estimatedEarning": 0.5
+    },
+    {
+        "date": "2023-07-13",
+        "symbol": "FAST",
+        "actualEarningResult": 0.52,
+        "estimatedEarning": 0.53
+    },
+    {
+        "date": "2023-04-13",
+        "symbol": "FAST",
+        "actualEarningResult": 0.52,
+        "estimatedEarning": 0.5
+    },
+    {
+        "date": "2023-01-19",
+        "symbol": "FAST",
+        "actualEarningResult": 0.43,
+        "estimatedEarning": 0.42
+    },
+    {
+        "date": "2022-10-13",
+        "symbol": "FAST",
+        "actualEarningResult": 0.5,
+        "estimatedEarning": 0.48
+    },
+    {
+        "date": "2022-07-13",
+        "symbol": "FAST",
+        "actualEarningResult": 0.5,
+        "estimatedEarning": 0.5
+    },
+    {
+        "date": "2022-04-13",
+        "symbol": "FAST",
+        "actualEarningResult": 0.47,
+        "estimatedEarning": 0.45
+    },
+    {
+        "date": "2022-01-19",
+        "symbol": "FAST",
+        "actualEarningResult": 0.4,
+        "estimatedEarning": 0.38
+    },
+    {
+        "date": "2021-10-12",
+        "symbol": "FAST",
+        "actualEarningResult": 0.42,
+        "estimatedEarning": 0.42
+    },
+    {
+        "date": "2021-07-13",
+        "symbol": "FAST",
+        "actualEarningResult": 0.42,
+        "estimatedEarning": 0.41
+    },
+    {
+        "date": "2021-04-13",
+        "symbol": "FAST",
+        "actualEarningResult": 0.37,
+        "estimatedEarning": 0.36
+    },
+    {
+        "date": "2021-01-20",
+        "symbol": "FAST",
+        "actualEarningResult": 0.34,
+        "estimatedEarning": 0.33
+    },
+    {
+        "date": "2020-10-13",
+        "symbol": "FAST",
+        "actualEarningResult": 0.38,
+        "estimatedEarning": 0.37
+    },
+    {
+        "date": "2020-07-14",
+        "symbol": "FAST",
+        "actualEarningResult": 0.42,
+        "estimatedEarning": 0.36
+    },
+    {
+        "date": "2020-04-14",
+        "symbol": "FAST",
+        "actualEarningResult": 0.35,
+        "estimatedEarning": 0.34
+    },
+    {
+        "date": "2020-01-17",
+        "symbol": "FAST",
+        "actualEarningResult": 0.31,
+        "estimatedEarning": 0.31
+    },
+    {
+        "date": "2019-10-11",
+        "symbol": "FAST",
+        "actualEarningResult": 0.37,
+        "estimatedEarning": 0.35
+    },
+    {
+        "date": "2019-07-11",
+        "symbol": "FAST",
+        "actualEarningResult": 0.36,
+        "estimatedEarning": 0.37
+    },
+    {
+        "date": "2019-04-11",
+        "symbol": "FAST",
+        "actualEarningResult": 0.34,
+        "estimatedEarning": 0.33
+    },
+    {
+        "date": "2019-01-17",
+        "symbol": "FAST",
+        "actualEarningResult": 0.3,
+        "estimatedEarning": 0.3
+    },
+    {
+        "date": "2018-10-10",
+        "symbol": "FAST",
+        "actualEarningResult": 0.35,
+        "estimatedEarning": 0.34
+    },
+    {
+        "date": "2018-07-11",
+        "symbol": "FAST",
+        "actualEarningResult": 0.3,
+        "estimatedEarning": 0.33
+    },
+    {
+        "date": "2018-04-11",
+        "symbol": "FAST",
+        "actualEarningResult": 0.31,
+        "estimatedEarning": 0.31
+    },
+    {
+        "date": "2018-01-17",
+        "symbol": "FAST",
+        "actualEarningResult": 0.23,
+        "estimatedEarning": 0.23
+    },
+    {
+        "date": "2017-10-11",
+        "symbol": "FAST",
+        "actualEarningResult": 0.25,
+        "estimatedEarning": 0.25
+    },
+    {
+        "date": "2017-07-12",
+        "symbol": "FAST",
+        "actualEarningResult": 0.26,
+        "estimatedEarning": 0.25
+    },
+    {
+        "date": "2017-04-12",
+        "symbol": "FAST",
+        "actualEarningResult": 0.23,
+        "estimatedEarning": 0.23
+    },
+    {
+        "date": "2017-01-18",
+        "symbol": "FAST",
+        "actualEarningResult": 0.2,
+        "estimatedEarning": 0.19
+    },
+    {
+        "date": "2016-10-11",
+        "symbol": "FAST",
+        "actualEarningResult": 0.22,
+        "estimatedEarning": 0.23
+    },
+    {
+        "date": "2016-07-12",
+        "symbol": "FAST",
+        "actualEarningResult": 0.23,
+        "estimatedEarning": 0.24
+    },
+    {
+        "date": "2016-04-12",
+        "symbol": "FAST",
+        "actualEarningResult": 0.22,
+        "estimatedEarning": 0.22
+    },
+    {
+        "date": "2016-01-15",
+        "symbol": "FAST",
+        "actualEarningResult": 0.2,
+        "estimatedEarning": 0.2
+    },
+    {
+        "date": "2015-10-13",
+        "symbol": "FAST",
+        "actualEarningResult": 0.24,
+        "estimatedEarning": 0.23
+    },
+    {
+        "date": "2015-07-14",
+        "symbol": "FAST",
+        "actualEarningResult": 0.24,
+        "estimatedEarning": 0.23
+    },
+    {
+        "date": "2015-04-14",
+        "symbol": "FAST",
+        "actualEarningResult": 0.22,
+        "estimatedEarning": 0.21
+    },
+    {
+        "date": "2015-01-15",
+        "symbol": "FAST",
+        "actualEarningResult": 0.2,
+        "estimatedEarning": 0.2
+    },
+    {
+        "date": "2014-10-10",
+        "symbol": "FAST",
+        "actualEarningResult": 0.23,
+        "estimatedEarning": 0.22
+    },
+    {
+        "date": "2014-07-11",
+        "symbol": "FAST",
+        "actualEarningResult": 0.22,
+        "estimatedEarning": 0.22
+    },
+    {
+        "date": "2014-04-11",
+        "symbol": "FAST",
+        "actualEarningResult": 0.19,
+        "estimatedEarning": 0.19
+    },
+    {
+        "date": "2014-01-15",
+        "symbol": "FAST",
+        "actualEarningResult": 0.17,
+        "estimatedEarning": 0.17
+    },
+    {
+        "date": "2013-10-09",
+        "symbol": "FAST",
+        "actualEarningResult": 0.2,
+        "estimatedEarning": 0.2
+    },
+    {
+        "date": "2013-07-10",
+        "symbol": "FAST",
+        "actualEarningResult": 0.21,
+        "estimatedEarning": 0.21
+    },
+    {
+        "date": "2013-04-10",
+        "symbol": "FAST",
+        "actualEarningResult": 0.19,
+        "estimatedEarning": 0.19
+    },
+    {
+        "date": "2013-01-17",
+        "symbol": "FAST",
+        "actualEarningResult": 0.17,
+        "estimatedEarning": 0.17
+    },
+    {
+        "date": "2012-10-11",
+        "symbol": "FAST",
+        "actualEarningResult": 0.19,
+        "estimatedEarning": 0.19
+    },
+    {
+        "date": "2012-07-12",
+        "symbol": "FAST",
+        "actualEarningResult": 0.19,
+        "estimatedEarning": 0.18
+    },
+    {
+        "date": "2012-04-12",
+        "symbol": "FAST",
+        "actualEarningResult": 0.17,
+        "estimatedEarning": 0.17
+    },
+    {
+        "date": "2012-01-18",
+        "symbol": "FAST",
+        "actualEarningResult": 0.15,
+        "estimatedEarning": 0.15
+    },
+    {
+        "date": "2011-10-13",
+        "symbol": "FAST",
+        "actualEarningResult": 0.17,
+        "estimatedEarning": 0.16
+    },
+    {
+        "date": "2011-07-12",
+        "symbol": "FAST",
+        "actualEarningResult": 0.16,
+        "estimatedEarning": 0.15
+    },
+    {
+        "date": "2011-04-12",
+        "symbol": "FAST",
+        "actualEarningResult": 0.14,
+        "estimatedEarning": 0.13
+    },
+    {
+        "date": "2011-01-18",
+        "symbol": "FAST",
+        "actualEarningResult": 0.11,
+        "estimatedEarning": 0.11
+    },
+    {
+        "date": "2010-10-12",
+        "symbol": "FAST",
+        "actualEarningResult": 0.13,
+        "estimatedEarning": 0.12
+    },
+    {
+        "date": "2010-07-13",
+        "symbol": "FAST",
+        "actualEarningResult": 0.12,
+        "estimatedEarning": 0.11
+    },
+    {
+        "date": "2010-04-13",
+        "symbol": "FAST",
+        "actualEarningResult": 0.1,
+        "estimatedEarning": 0.08
+    },
+    {
+        "date": "2010-01-19",
+        "symbol": "FAST",
+        "actualEarningResult": 0.08,
+        "estimatedEarning": 0.08
+    },
+    {
+        "date": "2009-10-12",
+        "symbol": "FAST",
+        "actualEarningResult": 0.08,
+        "estimatedEarning": 0.08
+    },
+    {
+        "date": "2009-07-13",
+        "symbol": "FAST",
+        "actualEarningResult": 0.07,
+        "estimatedEarning": 0.08
+    },
+    {
+        "date": "2009-04-14",
+        "symbol": "FAST",
+        "actualEarningResult": 0.08,
+        "estimatedEarning": 0.09
+    },
+    {
+        "date": "2009-01-20",
+        "symbol": "FAST",
+        "actualEarningResult": 0.11,
+        "estimatedEarning": 0.1
+    },
+    {
+        "date": "2008-10-13",
+        "symbol": "FAST",
+        "actualEarningResult": 0.13,
+        "estimatedEarning": 0.13
+    },
+    {
+        "date": "2008-07-11",
+        "symbol": "FAST",
+        "actualEarningResult": 0.13,
+        "estimatedEarning": 0.13
+    },
+    {
+        "date": "2008-04-11",
+        "symbol": "FAST",
+        "actualEarningResult": 0.12,
+        "estimatedEarning": 0.11
+    },
+    {
+        "date": "2008-01-22",
+        "symbol": "FAST",
+        "actualEarningResult": 0.1,
+        "estimatedEarning": 0.09
+    },
+    {
+        "date": "2007-10-11",
+        "symbol": "FAST",
+        "actualEarningResult": 0.1,
+        "estimatedEarning": 0.1
+    },
+    {
+        "date": "2007-07-12",
+        "symbol": "FAST",
+        "actualEarningResult": 0.1,
+        "estimatedEarning": 0.1
+    },
+    {
+        "date": "2007-04-12",
+        "symbol": "FAST",
+        "actualEarningResult": 0.09,
+        "estimatedEarning": 0.09
+    },
+    {
+        "date": "2007-01-19",
+        "symbol": "FAST",
+        "actualEarningResult": 0.08,
+        "estimatedEarning": 0.08
+    },
+    {
+        "date": "2006-10-11",
+        "symbol": "FAST",
+        "actualEarningResult": 0.09,
+        "estimatedEarning": 0.09
+    },
+    {
+        "date": "2006-07-12",
+        "symbol": "FAST",
+        "actualEarningResult": 0.09,
+        "estimatedEarning": 0.09
+    },
+    {
+        "date": "2006-04-12",
+        "symbol": "FAST",
+        "actualEarningResult": 0.08,
+        "estimatedEarning": 0.08
+    },
+    {
+        "date": "2006-01-20",
+        "symbol": "FAST",
+        "actualEarningResult": 0.07,
+        "estimatedEarning": 0.07
+    },
+    {
+        "date": "2005-10-12",
+        "symbol": "FAST",
+        "actualEarningResult": 0.08,
+        "estimatedEarning": 0.07
+    },
+    {
+        "date": "2005-07-13",
+        "symbol": "FAST",
+        "actualEarningResult": 0.07,
+        "estimatedEarning": 0.07
+    },
+    {
+        "date": "2005-04-13",
+        "symbol": "FAST",
+        "actualEarningResult": 0.06,
+        "estimatedEarning": 0.06
+    },
+    {
+        "date": "2005-01-19",
+        "symbol": "FAST",
+        "actualEarningResult": 0.06,
+        "estimatedEarning": 0.05
+    },
+    {
+        "date": "2004-10-12",
+        "symbol": "FAST",
+        "actualEarningResult": 0.06,
+        "estimatedEarning": 0.06
+    },
+    {
+        "date": "2004-07-13",
+        "symbol": "FAST",
+        "actualEarningResult": 0.06,
+        "estimatedEarning": 0.05
+    },
+    {
+        "date": "2004-04-13",
+        "symbol": "FAST",
+        "actualEarningResult": 0.05,
+        "estimatedEarning": 0.04567
+    },
+    {
+        "date": "2004-01-20",
+        "symbol": "FAST",
+        "actualEarningResult": 0.03,
+        "estimatedEarning": 0.02931
+    },
+    {
+        "date": "2003-10-10",
+        "symbol": "FAST",
+        "actualEarningResult": 0.04,
+        "estimatedEarning": 0.03742
+    },
+    {
+        "date": "2003-07-11",
+        "symbol": "FAST",
+        "actualEarningResult": 0.04,
+        "estimatedEarning": 0.04034
+    },
+    {
+        "date": "2003-04-11",
+        "symbol": "FAST",
+        "actualEarningResult": 0.03,
+        "estimatedEarning": 0.0309
+    },
+    {
+        "date": "2003-01-21",
+        "symbol": "FAST",
+        "actualEarningResult": 0.03,
+        "estimatedEarning": 0.02727
+    },
+    {
+        "date": "2002-10-11",
+        "symbol": "FAST",
+        "actualEarningResult": 0.03,
+        "estimatedEarning": 0.0303
+    },
+    {
+        "date": "2002-07-10",
+        "symbol": "FAST",
+        "actualEarningResult": 0.04,
+        "estimatedEarning": 0.03911
+    },
+    {
+        "date": "2002-04-10",
+        "symbol": "FAST",
+        "actualEarningResult": 0.03,
+        "estimatedEarning": 0.02856
+    },
+    {
+        "date": "2002-01-21",
+        "symbol": "FAST",
+        "actualEarningResult": 0.02,
+        "estimatedEarning": 0.01928
+    },
+    {
+        "date": "2001-10-10",
+        "symbol": "FAST",
+        "actualEarningResult": 0.03,
+        "estimatedEarning": 0.03116
+    },
+    {
+        "date": "2001-07-11",
+        "symbol": "FAST",
+        "actualEarningResult": 0.03,
+        "estimatedEarning": 0.03
+    },
+    {
+        "date": "2001-04-11",
+        "symbol": "FAST",
+        "actualEarningResult": 0.03,
+        "estimatedEarning": 0.03018
+    },
+    {
+        "date": "2001-01-17",
+        "symbol": "FAST",
+        "actualEarningResult": 0.03,
+        "estimatedEarning": 0.03105
+    },
+    {
+        "date": "2000-10-11",
+        "symbol": "FAST",
+        "actualEarningResult": 0.03,
+        "estimatedEarning": 0.03027
+    },
+    {
+        "date": "2000-07-12",
+        "symbol": "FAST",
+        "actualEarningResult": 0.03,
+        "estimatedEarning": 0.02989
+    },
+    {
+        "date": "2000-04-12",
+        "symbol": "FAST",
+        "actualEarningResult": 0.03,
+        "estimatedEarning": 0.02807
+    },
+    {
+        "date": "2000-01-19",
+        "symbol": "FAST",
+        "actualEarningResult": 0.03,
+        "estimatedEarning": 0.02964
+    },
+    {
+        "date": "1999-10-11",
+        "symbol": "FAST",
+        "actualEarningResult": 0.03,
+        "estimatedEarning": 0.03076
+    },
+    {
+        "date": "1999-07-12",
+        "symbol": "FAST",
+        "actualEarningResult": 0.03,
+        "estimatedEarning": 0.02916
+    },
+    {
+        "date": "1999-04-12",
+        "symbol": "FAST",
+        "actualEarningResult": 0.03,
+        "estimatedEarning": 0.0289
+    },
+    {
+        "date": "1999-01-22",
+        "symbol": "FAST",
+        "actualEarningResult": 0.02,
+        "estimatedEarning": 0.01969
+    },
+    {
+        "date": "1998-10-09",
+        "symbol": "FAST",
+        "actualEarningResult": 0.02,
+        "estimatedEarning": 0.02054
+    },
+    {
+        "date": "1998-07-10",
+        "symbol": "FAST",
+        "actualEarningResult": 0.02,
+        "estimatedEarning": 0.02054
+    },
+    {
+        "date": "1998-04-10",
+        "symbol": "FAST",
+        "actualEarningResult": 0.02,
+        "estimatedEarning": 0.01879
+    },
+    {
+        "date": "1998-01-23",
+        "symbol": "FAST",
+        "actualEarningResult": 0.02,
+        "estimatedEarning": 0.0195
+    },
+    {
+        "date": "1997-10-10",
+        "symbol": "FAST",
+        "actualEarningResult": 0.02,
+        "estimatedEarning": 0.02045
+    },
+    {
+        "date": "1997-07-11",
+        "symbol": "FAST",
+        "actualEarningResult": 0.02,
+        "estimatedEarning": 0.01952
+    },
+    {
+        "date": "1997-04-11",
+        "symbol": "FAST",
+        "actualEarningResult": 0.01438,
+        "estimatedEarning": 0.01457
+    },
+    {
+        "date": "1997-01-24",
+        "symbol": "FAST",
+        "actualEarningResult": 0.01305,
+        "estimatedEarning": 0.01388
+    },
+    {
+        "date": "1996-10-11",
+        "symbol": "FAST",
+        "actualEarningResult": 0.01438,
+        "estimatedEarning": 0.0153
+    }
+]

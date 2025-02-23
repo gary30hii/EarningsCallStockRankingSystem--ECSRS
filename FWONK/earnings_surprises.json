@@ -1,0 +1,260 @@
+[
+    {
+        "date": "2024-08-08",
+        "symbol": "FWONK",
+        "actualEarningResult": 0.1,
+        "estimatedEarning": 0.31
+    },
+    {
+        "date": "2024-05-08",
+        "symbol": "FWONK",
+        "actualEarningResult": 0.33,
+        "estimatedEarning": 0.07
+    },
+    {
+        "date": "2024-02-28",
+        "symbol": "FWONK",
+        "actualEarningResult": 0.25,
+        "estimatedEarning": 0.29
+    },
+    {
+        "date": "2023-11-03",
+        "symbol": "FWONK",
+        "actualEarningResult": 0.39,
+        "estimatedEarning": 0.21
+    },
+    {
+        "date": "2023-08-04",
+        "symbol": "FWONK",
+        "actualEarningResult": 0.41,
+        "estimatedEarning": 0.05
+    },
+    {
+        "date": "2023-05-05",
+        "symbol": "FWONK",
+        "actualEarningResult": -0.58,
+        "estimatedEarning": -0.15
+    },
+    {
+        "date": "2023-03-01",
+        "symbol": "FWONK",
+        "actualEarningResult": 1.55,
+        "estimatedEarning": 0.13
+    },
+    {
+        "date": "2022-11-04",
+        "symbol": "FWONK",
+        "actualEarningResult": 0.31,
+        "estimatedEarning": 0.19
+    },
+    {
+        "date": "2022-08-05",
+        "symbol": "FWONK",
+        "actualEarningResult": 0.35,
+        "estimatedEarning": 0.05
+    },
+    {
+        "date": "2022-05-06",
+        "symbol": "FWONK",
+        "actualEarningResult": -0.15,
+        "estimatedEarning": -0.13
+    },
+    {
+        "date": "2022-02-25",
+        "symbol": "FWONK",
+        "actualEarningResult": -0.64,
+        "estimatedEarning": 0.17
+    },
+    {
+        "date": "2021-11-04",
+        "symbol": "FWONK",
+        "actualEarningResult": -0.22,
+        "estimatedEarning": -0.11
+    },
+    {
+        "date": "2021-08-06",
+        "symbol": "FWONK",
+        "actualEarningResult": 0.24,
+        "estimatedEarning": -0.31
+    },
+    {
+        "date": "2021-05-07",
+        "symbol": "FWONK",
+        "actualEarningResult": -0.2,
+        "estimatedEarning": -0.34
+    },
+    {
+        "date": "2021-02-26",
+        "symbol": "FWONK",
+        "actualEarningResult": 0.18,
+        "estimatedEarning": -0.07
+    },
+    {
+        "date": "2020-11-05",
+        "symbol": "FWONK",
+        "actualEarningResult": -0.41,
+        "estimatedEarning": -0.0275
+    },
+    {
+        "date": "2020-08-10",
+        "symbol": "FWONK",
+        "actualEarningResult": -0.86,
+        "estimatedEarning": -0.73
+    },
+    {
+        "date": "2020-05-07",
+        "symbol": "FWONK",
+        "actualEarningResult": -1.48,
+        "estimatedEarning": -0.92
+    },
+    {
+        "date": "2020-02-26",
+        "symbol": "FWONK",
+        "actualEarningResult": -0.55,
+        "estimatedEarning": -0.4
+    },
+    {
+        "date": "2019-11-12",
+        "symbol": "FWONK",
+        "actualEarningResult": 0.18,
+        "estimatedEarning": 0.11
+    },
+    {
+        "date": "2019-08-08",
+        "symbol": "FWONK",
+        "actualEarningResult": -0.33,
+        "estimatedEarning": -0.08
+    },
+    {
+        "date": "2019-05-09",
+        "symbol": "FWONK",
+        "actualEarningResult": -0.64,
+        "estimatedEarning": -0.51
+    },
+    {
+        "date": "2019-02-28",
+        "symbol": "FWONK",
+        "actualEarningResult": -0.8,
+        "estimatedEarning": -0.42
+    },
+    {
+        "date": "2018-11-08",
+        "symbol": "FWONK",
+        "actualEarningResult": 0.18,
+        "estimatedEarning": 0.11
+    },
+    {
+        "date": "2018-08-08",
+        "symbol": "FWONK",
+        "actualEarningResult": 0.04,
+        "estimatedEarning": 0.01368
+    },
+    {
+        "date": "2018-05-09",
+        "symbol": "FWONK",
+        "actualEarningResult": -0.07,
+        "estimatedEarning": -0.92
+    },
+    {
+        "date": "2018-03-01",
+        "symbol": "FWONK",
+        "actualEarningResult": 1.79,
+        "estimatedEarning": -0.35
+    },
+    {
+        "date": "2017-11-09",
+        "symbol": "FWONK",
+        "actualEarningResult": -0.17,
+        "estimatedEarning": -0.22
+    },
+    {
+        "date": "2017-08-09",
+        "symbol": "FWONK",
+        "actualEarningResult": -0.13,
+        "estimatedEarning": -0.26
+    },
+    {
+        "date": "2017-02-28",
+        "symbol": "FWONK",
+        "actualEarningResult": 0.47,
+        "estimatedEarning": null
+    },
+    {
+        "date": "2016-11-08",
+        "symbol": "FWONK",
+        "actualEarningResult": 0.48,
+        "estimatedEarning": -0.07
+    },
+    {
+        "date": "2016-05-09",
+        "symbol": "FWONK",
+        "actualEarningResult": 1.08,
+        "estimatedEarning": 0.13
+    },
+    {
+        "date": "2016-02-26",
+        "symbol": "FWONK",
+        "actualEarningResult": 0.13,
+        "estimatedEarning": 0.24
+    },
+    {
+        "date": "2015-11-04",
+        "symbol": "FWONK",
+        "actualEarningResult": -0.07,
+        "estimatedEarning": 0.28
+    },
+    {
+        "date": "2015-08-05",
+        "symbol": "FWONK",
+        "actualEarningResult": 0.41,
+        "estimatedEarning": 0.1
+    },
+    {
+        "date": "2015-02-25",
+        "symbol": "FWONK",
+        "actualEarningResult": 0.21,
+        "estimatedEarning": 0.08
+    },
+    {
+        "date": "2014-11-04",
+        "symbol": "FWONK",
+        "actualEarningResult": 0.1,
+        "estimatedEarning": 0.06
+    },
+    {
+        "date": "2014-08-05",
+        "symbol": "FWONK",
+        "actualEarningResult": 0.48,
+        "estimatedEarning": 0.52
+    },
+    {
+        "date": "2014-05-08",
+        "symbol": "FWONK",
+        "actualEarningResult": 0.19,
+        "estimatedEarning": 0.82
+    },
+    {
+        "date": "2014-03-04",
+        "symbol": "FWONK",
+        "actualEarningResult": 5.17,
+        "estimatedEarning": 0.61
+    },
+    {
+        "date": "2013-11-05",
+        "symbol": "FWONK",
+        "actualEarningResult": 0.63,
+        "estimatedEarning": 0.82
+    },
+    {
+        "date": "2013-08-06",
+        "symbol": "FWONK",
+        "actualEarningResult": 0.79,
+        "estimatedEarning": 0.73
+    },
+    {
+        "date": "2013-05-08",
+        "symbol": "FWONK",
+        "actualEarningResult": 4.82,
+        "estimatedEarning": 0.32
+    }
+]

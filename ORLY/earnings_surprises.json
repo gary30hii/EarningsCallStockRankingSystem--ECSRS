@@ -1,0 +1,644 @@
+[
+    {
+        "date": "2024-10-23",
+        "symbol": "ORLY",
+        "actualEarningResult": 11.41,
+        "estimatedEarning": 11.55
+    },
+    {
+        "date": "2024-07-24",
+        "symbol": "ORLY",
+        "actualEarningResult": 10.55,
+        "estimatedEarning": 10.98
+    },
+    {
+        "date": "2024-04-24",
+        "symbol": "ORLY",
+        "actualEarningResult": 9.2,
+        "estimatedEarning": 9.28
+    },
+    {
+        "date": "2024-02-07",
+        "symbol": "ORLY",
+        "actualEarningResult": 9.26,
+        "estimatedEarning": 9.17
+    },
+    {
+        "date": "2023-10-25",
+        "symbol": "ORLY",
+        "actualEarningResult": 10.73,
+        "estimatedEarning": 10.4
+    },
+    {
+        "date": "2023-07-26",
+        "symbol": "ORLY",
+        "actualEarningResult": 10.22,
+        "estimatedEarning": 10.09
+    },
+    {
+        "date": "2023-04-26",
+        "symbol": "ORLY",
+        "actualEarningResult": 8.28,
+        "estimatedEarning": 8
+    },
+    {
+        "date": "2023-02-08",
+        "symbol": "ORLY",
+        "actualEarningResult": 8.37,
+        "estimatedEarning": 7.75
+    },
+    {
+        "date": "2022-10-26",
+        "symbol": "ORLY",
+        "actualEarningResult": 9.17,
+        "estimatedEarning": 8.5
+    },
+    {
+        "date": "2022-07-27",
+        "symbol": "ORLY",
+        "actualEarningResult": 8.78,
+        "estimatedEarning": 8.96
+    },
+    {
+        "date": "2022-04-27",
+        "symbol": "ORLY",
+        "actualEarningResult": 7.17,
+        "estimatedEarning": 7.48
+    },
+    {
+        "date": "2022-02-09",
+        "symbol": "ORLY",
+        "actualEarningResult": 7.64,
+        "estimatedEarning": 6.05
+    },
+    {
+        "date": "2021-10-27",
+        "symbol": "ORLY",
+        "actualEarningResult": 8.07,
+        "estimatedEarning": 7.19
+    },
+    {
+        "date": "2021-07-28",
+        "symbol": "ORLY",
+        "actualEarningResult": 8.33,
+        "estimatedEarning": 7.56
+    },
+    {
+        "date": "2021-04-28",
+        "symbol": "ORLY",
+        "actualEarningResult": 7.06,
+        "estimatedEarning": 5.47
+    },
+    {
+        "date": "2021-02-10",
+        "symbol": "ORLY",
+        "actualEarningResult": 5.4,
+        "estimatedEarning": 5.13
+    },
+    {
+        "date": "2020-10-28",
+        "symbol": "ORLY",
+        "actualEarningResult": 7.07,
+        "estimatedEarning": 6.4
+    },
+    {
+        "date": "2020-07-29",
+        "symbol": "ORLY",
+        "actualEarningResult": 7.1,
+        "estimatedEarning": 4.3
+    },
+    {
+        "date": "2020-04-22",
+        "symbol": "ORLY",
+        "actualEarningResult": 3.97,
+        "estimatedEarning": 3.95
+    },
+    {
+        "date": "2020-02-05",
+        "symbol": "ORLY",
+        "actualEarningResult": 4.25,
+        "estimatedEarning": 4.27
+    },
+    {
+        "date": "2019-10-23",
+        "symbol": "ORLY",
+        "actualEarningResult": 5.08,
+        "estimatedEarning": 4.79
+    },
+    {
+        "date": "2019-07-24",
+        "symbol": "ORLY",
+        "actualEarningResult": 4.51,
+        "estimatedEarning": 4.67
+    },
+    {
+        "date": "2019-04-24",
+        "symbol": "ORLY",
+        "actualEarningResult": 4.05,
+        "estimatedEarning": 4.05
+    },
+    {
+        "date": "2019-02-06",
+        "symbol": "ORLY",
+        "actualEarningResult": 3.72,
+        "estimatedEarning": 3.75
+    },
+    {
+        "date": "2018-10-24",
+        "symbol": "ORLY",
+        "actualEarningResult": 4.5,
+        "estimatedEarning": 4.3
+    },
+    {
+        "date": "2018-07-25",
+        "symbol": "ORLY",
+        "actualEarningResult": 4.28,
+        "estimatedEarning": 4.06
+    },
+    {
+        "date": "2018-04-25",
+        "symbol": "ORLY",
+        "actualEarningResult": 3.61,
+        "estimatedEarning": 3.58
+    },
+    {
+        "date": "2018-02-07",
+        "symbol": "ORLY",
+        "actualEarningResult": 2.9,
+        "estimatedEarning": 2.77
+    },
+    {
+        "date": "2017-10-25",
+        "symbol": "ORLY",
+        "actualEarningResult": 3.22,
+        "estimatedEarning": 3.15
+    },
+    {
+        "date": "2017-07-26",
+        "symbol": "ORLY",
+        "actualEarningResult": 3.04,
+        "estimatedEarning": 2.89
+    },
+    {
+        "date": "2017-04-26",
+        "symbol": "ORLY",
+        "actualEarningResult": 2.6,
+        "estimatedEarning": 2.88
+    },
+    {
+        "date": "2017-02-07",
+        "symbol": "ORLY",
+        "actualEarningResult": 2.59,
+        "estimatedEarning": 2.54
+    },
+    {
+        "date": "2016-10-26",
+        "symbol": "ORLY",
+        "actualEarningResult": 2.9,
+        "estimatedEarning": 2.92
+    },
+    {
+        "date": "2016-07-27",
+        "symbol": "ORLY",
+        "actualEarningResult": 2.65,
+        "estimatedEarning": 2.68
+    },
+    {
+        "date": "2016-04-27",
+        "symbol": "ORLY",
+        "actualEarningResult": 2.59,
+        "estimatedEarning": 2.49
+    },
+    {
+        "date": "2016-02-10",
+        "symbol": "ORLY",
+        "actualEarningResult": 2.19,
+        "estimatedEarning": 2.1
+    },
+    {
+        "date": "2015-10-28",
+        "symbol": "ORLY",
+        "actualEarningResult": 2.53,
+        "estimatedEarning": 2.38
+    },
+    {
+        "date": "2015-07-29",
+        "symbol": "ORLY",
+        "actualEarningResult": 2.4,
+        "estimatedEarning": 2.26
+    },
+    {
+        "date": "2015-04-22",
+        "symbol": "ORLY",
+        "actualEarningResult": 2.06,
+        "estimatedEarning": 1.94
+    },
+    {
+        "date": "2015-02-04",
+        "symbol": "ORLY",
+        "actualEarningResult": 1.76,
+        "estimatedEarning": 1.68
+    },
+    {
+        "date": "2014-10-22",
+        "symbol": "ORLY",
+        "actualEarningResult": 2.06,
+        "estimatedEarning": 1.95
+    },
+    {
+        "date": "2014-07-23",
+        "symbol": "ORLY",
+        "actualEarningResult": 1.91,
+        "estimatedEarning": 1.85
+    },
+    {
+        "date": "2014-04-23",
+        "symbol": "ORLY",
+        "actualEarningResult": 1.61,
+        "estimatedEarning": 1.58
+    },
+    {
+        "date": "2014-02-05",
+        "symbol": "ORLY",
+        "actualEarningResult": 1.4,
+        "estimatedEarning": 1.32
+    },
+    {
+        "date": "2013-10-23",
+        "symbol": "ORLY",
+        "actualEarningResult": 1.69,
+        "estimatedEarning": 1.65
+    },
+    {
+        "date": "2013-07-24",
+        "symbol": "ORLY",
+        "actualEarningResult": 1.58,
+        "estimatedEarning": 1.5
+    },
+    {
+        "date": "2013-04-24",
+        "symbol": "ORLY",
+        "actualEarningResult": 1.36,
+        "estimatedEarning": 1.35
+    },
+    {
+        "date": "2013-02-06",
+        "symbol": "ORLY",
+        "actualEarningResult": 1.14,
+        "estimatedEarning": 1.08
+    },
+    {
+        "date": "2012-10-24",
+        "symbol": "ORLY",
+        "actualEarningResult": 1.32,
+        "estimatedEarning": 1.27
+    },
+    {
+        "date": "2012-07-25",
+        "symbol": "ORLY",
+        "actualEarningResult": 1.15,
+        "estimatedEarning": 1.14
+    },
+    {
+        "date": "2012-04-25",
+        "symbol": "ORLY",
+        "actualEarningResult": 1.14,
+        "estimatedEarning": 1.04
+    },
+    {
+        "date": "2012-02-08",
+        "symbol": "ORLY",
+        "actualEarningResult": 0.93,
+        "estimatedEarning": 0.86
+    },
+    {
+        "date": "2011-10-26",
+        "symbol": "ORLY",
+        "actualEarningResult": 1.1,
+        "estimatedEarning": 1
+    },
+    {
+        "date": "2011-07-27",
+        "symbol": "ORLY",
+        "actualEarningResult": 0.96,
+        "estimatedEarning": 0.96
+    },
+    {
+        "date": "2011-04-27",
+        "symbol": "ORLY",
+        "actualEarningResult": 0.83,
+        "estimatedEarning": 0.78
+    },
+    {
+        "date": "2010-10-27",
+        "symbol": "ORLY",
+        "actualEarningResult": 0.86,
+        "estimatedEarning": 0.74
+    },
+    {
+        "date": "2010-07-28",
+        "symbol": "ORLY",
+        "actualEarningResult": 0.81,
+        "estimatedEarning": 0.74
+    },
+    {
+        "date": "2010-04-28",
+        "symbol": "ORLY",
+        "actualEarningResult": 0.7,
+        "estimatedEarning": 0.59
+    },
+    {
+        "date": "2009-10-28",
+        "symbol": "ORLY",
+        "actualEarningResult": 0.63,
+        "estimatedEarning": 0.56
+    },
+    {
+        "date": "2009-07-29",
+        "symbol": "ORLY",
+        "actualEarningResult": 0.63,
+        "estimatedEarning": 0.55
+    },
+    {
+        "date": "2009-04-29",
+        "symbol": "ORLY",
+        "actualEarningResult": 0.47,
+        "estimatedEarning": 0.4
+    },
+    {
+        "date": "2008-10-29",
+        "symbol": "ORLY",
+        "actualEarningResult": 0.4,
+        "estimatedEarning": 0.39
+    },
+    {
+        "date": "2008-07-22",
+        "symbol": "ORLY",
+        "actualEarningResult": 0.48,
+        "estimatedEarning": 0.48
+    },
+    {
+        "date": "2008-04-22",
+        "symbol": "ORLY",
+        "actualEarningResult": 0.4,
+        "estimatedEarning": 0.43
+    },
+    {
+        "date": "2007-10-23",
+        "symbol": "ORLY",
+        "actualEarningResult": 0.46,
+        "estimatedEarning": 0.46
+    },
+    {
+        "date": "2007-07-24",
+        "symbol": "ORLY",
+        "actualEarningResult": 0.45,
+        "estimatedEarning": 0.48
+    },
+    {
+        "date": "2007-04-24",
+        "symbol": "ORLY",
+        "actualEarningResult": 0.42,
+        "estimatedEarning": 0.4
+    },
+    {
+        "date": "2006-10-24",
+        "symbol": "ORLY",
+        "actualEarningResult": 0.42,
+        "estimatedEarning": 0.43
+    },
+    {
+        "date": "2006-07-26",
+        "symbol": "ORLY",
+        "actualEarningResult": 0.43,
+        "estimatedEarning": 0.43
+    },
+    {
+        "date": "2006-04-25",
+        "symbol": "ORLY",
+        "actualEarningResult": 0.35,
+        "estimatedEarning": 0.35
+    },
+    {
+        "date": "2005-10-25",
+        "symbol": "ORLY",
+        "actualEarningResult": 0.37,
+        "estimatedEarning": 0.37
+    },
+    {
+        "date": "2005-07-26",
+        "symbol": "ORLY",
+        "actualEarningResult": 0.38,
+        "estimatedEarning": 0.36
+    },
+    {
+        "date": "2005-04-26",
+        "symbol": "ORLY",
+        "actualEarningResult": 0.3,
+        "estimatedEarning": 0.28
+    },
+    {
+        "date": "2004-10-26",
+        "symbol": "ORLY",
+        "actualEarningResult": 0.3,
+        "estimatedEarning": 0.3
+    },
+    {
+        "date": "2004-07-27",
+        "symbol": "ORLY",
+        "actualEarningResult": 0.3,
+        "estimatedEarning": 0.3
+    },
+    {
+        "date": "2004-04-27",
+        "symbol": "ORLY",
+        "actualEarningResult": 0.25,
+        "estimatedEarning": 0.22
+    },
+    {
+        "date": "2003-10-28",
+        "symbol": "ORLY",
+        "actualEarningResult": 0.27,
+        "estimatedEarning": 0.27
+    },
+    {
+        "date": "2003-07-29",
+        "symbol": "ORLY",
+        "actualEarningResult": 0.25,
+        "estimatedEarning": 0.25
+    },
+    {
+        "date": "2003-04-22",
+        "symbol": "ORLY",
+        "actualEarningResult": 0.19,
+        "estimatedEarning": 0.19
+    },
+    {
+        "date": "2002-10-22",
+        "symbol": "ORLY",
+        "actualEarningResult": 0.23,
+        "estimatedEarning": 0.23
+    },
+    {
+        "date": "2002-07-23",
+        "symbol": "ORLY",
+        "actualEarningResult": 0.21,
+        "estimatedEarning": 0.21
+    },
+    {
+        "date": "2002-04-23",
+        "symbol": "ORLY",
+        "actualEarningResult": 0.16,
+        "estimatedEarning": 0.16
+    },
+    {
+        "date": "2001-10-23",
+        "symbol": "ORLY",
+        "actualEarningResult": 0.19,
+        "estimatedEarning": 0.19
+    },
+    {
+        "date": "2001-07-23",
+        "symbol": "ORLY",
+        "actualEarningResult": 0.17,
+        "estimatedEarning": 0.16
+    },
+    {
+        "date": "2001-04-24",
+        "symbol": "ORLY",
+        "actualEarningResult": 0.12,
+        "estimatedEarning": 0.12
+    },
+    {
+        "date": "2000-10-24",
+        "symbol": "ORLY",
+        "actualEarningResult": 0.16,
+        "estimatedEarning": 0.16
+    },
+    {
+        "date": "2000-08-14",
+        "symbol": "ORLY",
+        "actualEarningResult": 0.14,
+        "estimatedEarning": 0.14
+    },
+    {
+        "date": "2000-04-25",
+        "symbol": "ORLY",
+        "actualEarningResult": 0.12,
+        "estimatedEarning": 0.11
+    },
+    {
+        "date": "1999-10-28",
+        "symbol": "ORLY",
+        "actualEarningResult": 0.13,
+        "estimatedEarning": 0.13
+    },
+    {
+        "date": "1999-07-27",
+        "symbol": "ORLY",
+        "actualEarningResult": 0.12,
+        "estimatedEarning": 0.11
+    },
+    {
+        "date": "1999-04-28",
+        "symbol": "ORLY",
+        "actualEarningResult": 0.1,
+        "estimatedEarning": 0.09
+    },
+    {
+        "date": "1998-10-28",
+        "symbol": "ORLY",
+        "actualEarningResult": 0.1,
+        "estimatedEarning": 0.09
+    },
+    {
+        "date": "1998-07-29",
+        "symbol": "ORLY",
+        "actualEarningResult": 0.09,
+        "estimatedEarning": 0.09
+    },
+    {
+        "date": "1998-04-30",
+        "symbol": "ORLY",
+        "actualEarningResult": 0.07,
+        "estimatedEarning": 0.07
+    },
+    {
+        "date": "1997-10-21",
+        "symbol": "ORLY",
+        "actualEarningResult": 0.08,
+        "estimatedEarning": 0.08
+    },
+    {
+        "date": "1997-07-23",
+        "symbol": "ORLY",
+        "actualEarningResult": 0.07,
+        "estimatedEarning": 0.07
+    },
+    {
+        "date": "1997-04-23",
+        "symbol": "ORLY",
+        "actualEarningResult": 0.06,
+        "estimatedEarning": 0.06
+    },
+    {
+        "date": "1996-10-22",
+        "symbol": "ORLY",
+        "actualEarningResult": 0.07,
+        "estimatedEarning": 0.06
+    },
+    {
+        "date": "1996-07-23",
+        "symbol": "ORLY",
+        "actualEarningResult": 0.06,
+        "estimatedEarning": 0.05
+    },
+    {
+        "date": "1996-04-24",
+        "symbol": "ORLY",
+        "actualEarningResult": 0.05,
+        "estimatedEarning": 0.05
+    },
+    {
+        "date": "1995-10-24",
+        "symbol": "ORLY",
+        "actualEarningResult": 0.06,
+        "estimatedEarning": 0.06
+    },
+    {
+        "date": "1995-07-25",
+        "symbol": "ORLY",
+        "actualEarningResult": 0.05,
+        "estimatedEarning": 0.05
+    },
+    {
+        "date": "1995-04-25",
+        "symbol": "ORLY",
+        "actualEarningResult": 0.04,
+        "estimatedEarning": 0.03942
+    },
+    {
+        "date": "1994-10-25",
+        "symbol": "ORLY",
+        "actualEarningResult": 0.05,
+        "estimatedEarning": 0.05
+    },
+    {
+        "date": "1994-07-27",
+        "symbol": "ORLY",
+        "actualEarningResult": 0.04,
+        "estimatedEarning": 0.04
+    },
+    {
+        "date": "1994-04-26",
+        "symbol": "ORLY",
+        "actualEarningResult": 0.04,
+        "estimatedEarning": 0.04143
+    },
+    {
+        "date": "1993-10-26",
+        "symbol": "ORLY",
+        "actualEarningResult": 0.04,
+        "estimatedEarning": 0.03226
+    }
+]

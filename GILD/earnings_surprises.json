@@ -1,0 +1,716 @@
+[
+    {
+        "date": "2024-11-06",
+        "symbol": "GILD",
+        "actualEarningResult": 2.02,
+        "estimatedEarning": 1.53
+    },
+    {
+        "date": "2024-08-08",
+        "symbol": "GILD",
+        "actualEarningResult": 2.01,
+        "estimatedEarning": 1.61
+    },
+    {
+        "date": "2024-04-25",
+        "symbol": "GILD",
+        "actualEarningResult": -1.32,
+        "estimatedEarning": -1.49
+    },
+    {
+        "date": "2024-02-06",
+        "symbol": "GILD",
+        "actualEarningResult": 1.72,
+        "estimatedEarning": 1.76
+    },
+    {
+        "date": "2023-11-07",
+        "symbol": "GILD",
+        "actualEarningResult": 2.29,
+        "estimatedEarning": 1.91
+    },
+    {
+        "date": "2023-08-03",
+        "symbol": "GILD",
+        "actualEarningResult": 1.34,
+        "estimatedEarning": 1.6
+    },
+    {
+        "date": "2023-04-27",
+        "symbol": "GILD",
+        "actualEarningResult": 1.37,
+        "estimatedEarning": 1.63
+    },
+    {
+        "date": "2023-02-02",
+        "symbol": "GILD",
+        "actualEarningResult": 1.67,
+        "estimatedEarning": 1.5
+    },
+    {
+        "date": "2022-10-27",
+        "symbol": "GILD",
+        "actualEarningResult": 1.9,
+        "estimatedEarning": 1.44
+    },
+    {
+        "date": "2022-08-02",
+        "symbol": "GILD",
+        "actualEarningResult": 1.58,
+        "estimatedEarning": 1.51
+    },
+    {
+        "date": "2022-04-28",
+        "symbol": "GILD",
+        "actualEarningResult": 2.12,
+        "estimatedEarning": 1.77
+    },
+    {
+        "date": "2022-02-01",
+        "symbol": "GILD",
+        "actualEarningResult": 0.69,
+        "estimatedEarning": 1.53
+    },
+    {
+        "date": "2021-10-28",
+        "symbol": "GILD",
+        "actualEarningResult": 2.65,
+        "estimatedEarning": 1.75
+    },
+    {
+        "date": "2021-07-29",
+        "symbol": "GILD",
+        "actualEarningResult": 1.87,
+        "estimatedEarning": 1.76
+    },
+    {
+        "date": "2021-04-29",
+        "symbol": "GILD",
+        "actualEarningResult": 2.08,
+        "estimatedEarning": 2.06
+    },
+    {
+        "date": "2021-02-04",
+        "symbol": "GILD",
+        "actualEarningResult": 2.19,
+        "estimatedEarning": 2.15
+    },
+    {
+        "date": "2020-10-28",
+        "symbol": "GILD",
+        "actualEarningResult": 2.11,
+        "estimatedEarning": 1.83
+    },
+    {
+        "date": "2020-07-30",
+        "symbol": "GILD",
+        "actualEarningResult": 1.11,
+        "estimatedEarning": 1.46
+    },
+    {
+        "date": "2020-04-30",
+        "symbol": "GILD",
+        "actualEarningResult": 1.68,
+        "estimatedEarning": 1.58
+    },
+    {
+        "date": "2020-02-04",
+        "symbol": "GILD",
+        "actualEarningResult": 1.3,
+        "estimatedEarning": 1.68
+    },
+    {
+        "date": "2019-10-24",
+        "symbol": "GILD",
+        "actualEarningResult": 1.75,
+        "estimatedEarning": 1.76
+    },
+    {
+        "date": "2019-07-30",
+        "symbol": "GILD",
+        "actualEarningResult": 1.82,
+        "estimatedEarning": 1.72
+    },
+    {
+        "date": "2019-05-02",
+        "symbol": "GILD",
+        "actualEarningResult": 1.76,
+        "estimatedEarning": 1.61
+    },
+    {
+        "date": "2019-02-04",
+        "symbol": "GILD",
+        "actualEarningResult": 1.44,
+        "estimatedEarning": 1.7
+    },
+    {
+        "date": "2018-10-25",
+        "symbol": "GILD",
+        "actualEarningResult": 1.84,
+        "estimatedEarning": 1.63
+    },
+    {
+        "date": "2018-07-25",
+        "symbol": "GILD",
+        "actualEarningResult": 1.91,
+        "estimatedEarning": 1.55
+    },
+    {
+        "date": "2018-05-01",
+        "symbol": "GILD",
+        "actualEarningResult": 1.48,
+        "estimatedEarning": 1.67
+    },
+    {
+        "date": "2018-02-06",
+        "symbol": "GILD",
+        "actualEarningResult": 1.78,
+        "estimatedEarning": 1.7
+    },
+    {
+        "date": "2017-10-26",
+        "symbol": "GILD",
+        "actualEarningResult": 2.27,
+        "estimatedEarning": 2.13
+    },
+    {
+        "date": "2017-07-26",
+        "symbol": "GILD",
+        "actualEarningResult": 2.56,
+        "estimatedEarning": 2.15
+    },
+    {
+        "date": "2017-05-02",
+        "symbol": "GILD",
+        "actualEarningResult": 2.23,
+        "estimatedEarning": 2.28
+    },
+    {
+        "date": "2017-02-07",
+        "symbol": "GILD",
+        "actualEarningResult": 2.7,
+        "estimatedEarning": 2.61
+    },
+    {
+        "date": "2016-11-01",
+        "symbol": "GILD",
+        "actualEarningResult": 2.75,
+        "estimatedEarning": 2.86
+    },
+    {
+        "date": "2016-07-25",
+        "symbol": "GILD",
+        "actualEarningResult": 3.08,
+        "estimatedEarning": 3.02
+    },
+    {
+        "date": "2016-04-28",
+        "symbol": "GILD",
+        "actualEarningResult": 3.03,
+        "estimatedEarning": 3.15
+    },
+    {
+        "date": "2016-02-02",
+        "symbol": "GILD",
+        "actualEarningResult": 3.32,
+        "estimatedEarning": 3
+    },
+    {
+        "date": "2015-10-27",
+        "symbol": "GILD",
+        "actualEarningResult": 3.22,
+        "estimatedEarning": 2.87
+    },
+    {
+        "date": "2015-07-28",
+        "symbol": "GILD",
+        "actualEarningResult": 3.15,
+        "estimatedEarning": 2.71
+    },
+    {
+        "date": "2015-04-30",
+        "symbol": "GILD",
+        "actualEarningResult": 2.94,
+        "estimatedEarning": 2.32
+    },
+    {
+        "date": "2015-02-03",
+        "symbol": "GILD",
+        "actualEarningResult": 2.43,
+        "estimatedEarning": 2.22
+    },
+    {
+        "date": "2014-10-28",
+        "symbol": "GILD",
+        "actualEarningResult": 2.05,
+        "estimatedEarning": 1.92
+    },
+    {
+        "date": "2014-07-23",
+        "symbol": "GILD",
+        "actualEarningResult": 2.36,
+        "estimatedEarning": 1.79
+    },
+    {
+        "date": "2014-04-22",
+        "symbol": "GILD",
+        "actualEarningResult": 1.48,
+        "estimatedEarning": 0.91
+    },
+    {
+        "date": "2014-02-04",
+        "symbol": "GILD",
+        "actualEarningResult": 0.55,
+        "estimatedEarning": 0.5
+    },
+    {
+        "date": "2013-10-29",
+        "symbol": "GILD",
+        "actualEarningResult": 0.52,
+        "estimatedEarning": 0.48
+    },
+    {
+        "date": "2013-07-25",
+        "symbol": "GILD",
+        "actualEarningResult": 0.5,
+        "estimatedEarning": 0.5
+    },
+    {
+        "date": "2013-05-02",
+        "symbol": "GILD",
+        "actualEarningResult": 0.48,
+        "estimatedEarning": 0.5
+    },
+    {
+        "date": "2013-02-04",
+        "symbol": "GILD",
+        "actualEarningResult": 0.5,
+        "estimatedEarning": 0.48
+    },
+    {
+        "date": "2012-10-23",
+        "symbol": "GILD",
+        "actualEarningResult": 0.5,
+        "estimatedEarning": 0.47
+    },
+    {
+        "date": "2012-07-26",
+        "symbol": "GILD",
+        "actualEarningResult": 0.25,
+        "estimatedEarning": 0.48
+    },
+    {
+        "date": "2012-04-26",
+        "symbol": "GILD",
+        "actualEarningResult": 0.23,
+        "estimatedEarning": 0.47
+    },
+    {
+        "date": "2012-02-02",
+        "symbol": "GILD",
+        "actualEarningResult": 0.49,
+        "estimatedEarning": 0.52
+    },
+    {
+        "date": "2011-10-27",
+        "symbol": "GILD",
+        "actualEarningResult": 0.51,
+        "estimatedEarning": 0.5
+    },
+    {
+        "date": "2011-07-26",
+        "symbol": "GILD",
+        "actualEarningResult": 0.5,
+        "estimatedEarning": 0.5
+    },
+    {
+        "date": "2011-04-20",
+        "symbol": "GILD",
+        "actualEarningResult": 0.44,
+        "estimatedEarning": 0.48
+    },
+    {
+        "date": "2011-01-25",
+        "symbol": "GILD",
+        "actualEarningResult": 0.48,
+        "estimatedEarning": 0.47
+    },
+    {
+        "date": "2010-10-19",
+        "symbol": "GILD",
+        "actualEarningResult": 0.45,
+        "estimatedEarning": 0.44
+    },
+    {
+        "date": "2010-07-20",
+        "symbol": "GILD",
+        "actualEarningResult": 0.43,
+        "estimatedEarning": 0.43
+    },
+    {
+        "date": "2010-04-20",
+        "symbol": "GILD",
+        "actualEarningResult": 0.5,
+        "estimatedEarning": 0.48
+    },
+    {
+        "date": "2010-01-26",
+        "symbol": "GILD",
+        "actualEarningResult": 0.47,
+        "estimatedEarning": 0.42
+    },
+    {
+        "date": "2009-10-20",
+        "symbol": "GILD",
+        "actualEarningResult": 0.39,
+        "estimatedEarning": 0.34
+    },
+    {
+        "date": "2009-07-21",
+        "symbol": "GILD",
+        "actualEarningResult": 0.35,
+        "estimatedEarning": 0.31
+    },
+    {
+        "date": "2009-04-21",
+        "symbol": "GILD",
+        "actualEarningResult": 0.33,
+        "estimatedEarning": 0.3
+    },
+    {
+        "date": "2009-01-27",
+        "symbol": "GILD",
+        "actualEarningResult": 0.3,
+        "estimatedEarning": 0.27
+    },
+    {
+        "date": "2008-10-16",
+        "symbol": "GILD",
+        "actualEarningResult": 0.26,
+        "estimatedEarning": 0.25
+    },
+    {
+        "date": "2008-07-17",
+        "symbol": "GILD",
+        "actualEarningResult": 0.23,
+        "estimatedEarning": 0.24
+    },
+    {
+        "date": "2008-04-16",
+        "symbol": "GILD",
+        "actualEarningResult": 0.26,
+        "estimatedEarning": 0.24
+    },
+    {
+        "date": "2008-01-23",
+        "symbol": "GILD",
+        "actualEarningResult": 0.21,
+        "estimatedEarning": 0.2
+    },
+    {
+        "date": "2007-10-18",
+        "symbol": "GILD",
+        "actualEarningResult": 0.21,
+        "estimatedEarning": 0.2
+    },
+    {
+        "date": "2007-07-19",
+        "symbol": "GILD",
+        "actualEarningResult": 0.21,
+        "estimatedEarning": 0.2
+    },
+    {
+        "date": "2007-04-18",
+        "symbol": "GILD",
+        "actualEarningResult": 0.21,
+        "estimatedEarning": 0.2
+    },
+    {
+        "date": "2007-01-31",
+        "symbol": "GILD",
+        "actualEarningResult": 0.2,
+        "estimatedEarning": 0.17
+    },
+    {
+        "date": "2006-10-18",
+        "symbol": "GILD",
+        "actualEarningResult": 0.16,
+        "estimatedEarning": 0.14
+    },
+    {
+        "date": "2006-07-20",
+        "symbol": "GILD",
+        "actualEarningResult": 0.14,
+        "estimatedEarning": 0.13
+    },
+    {
+        "date": "2006-04-18",
+        "symbol": "GILD",
+        "actualEarningResult": 0.14,
+        "estimatedEarning": 0.13
+    },
+    {
+        "date": "2006-01-30",
+        "symbol": "GILD",
+        "actualEarningResult": 0.14,
+        "estimatedEarning": 0.13
+    },
+    {
+        "date": "2005-10-18",
+        "symbol": "GILD",
+        "actualEarningResult": 0.1,
+        "estimatedEarning": 0.09
+    },
+    {
+        "date": "2005-07-19",
+        "symbol": "GILD",
+        "actualEarningResult": 0.1,
+        "estimatedEarning": 0.09
+    },
+    {
+        "date": "2005-04-19",
+        "symbol": "GILD",
+        "actualEarningResult": 0.09,
+        "estimatedEarning": 0.07
+    },
+    {
+        "date": "2005-01-27",
+        "symbol": "GILD",
+        "actualEarningResult": 0.06,
+        "estimatedEarning": 0.06
+    },
+    {
+        "date": "2004-10-21",
+        "symbol": "GILD",
+        "actualEarningResult": 0.06,
+        "estimatedEarning": 0.05
+    },
+    {
+        "date": "2004-07-29",
+        "symbol": "GILD",
+        "actualEarningResult": 0.06,
+        "estimatedEarning": 0.04344
+    },
+    {
+        "date": "2004-04-22",
+        "symbol": "GILD",
+        "actualEarningResult": 0.06,
+        "estimatedEarning": 0.04475
+    },
+    {
+        "date": "2004-01-29",
+        "symbol": "GILD",
+        "actualEarningResult": 0.05,
+        "estimatedEarning": 0.05
+    },
+    {
+        "date": "2003-10-28",
+        "symbol": "GILD",
+        "actualEarningResult": 0.04,
+        "estimatedEarning": 0.04994
+    },
+    {
+        "date": "2003-07-31",
+        "symbol": "GILD",
+        "actualEarningResult": 0.06,
+        "estimatedEarning": 0.06
+    },
+    {
+        "date": "2003-04-23",
+        "symbol": "GILD",
+        "actualEarningResult": 0.03,
+        "estimatedEarning": 0.01934
+    },
+    {
+        "date": "2003-01-30",
+        "symbol": "GILD",
+        "actualEarningResult": 0.02,
+        "estimatedEarning": 0.01757
+    },
+    {
+        "date": "2002-10-31",
+        "symbol": "GILD",
+        "actualEarningResult": 0.02,
+        "estimatedEarning": 0.00771
+    },
+    {
+        "date": "2002-07-24",
+        "symbol": "GILD",
+        "actualEarningResult": 0.01194,
+        "estimatedEarning": 0.00498
+    },
+    {
+        "date": "2002-04-30",
+        "symbol": "GILD",
+        "actualEarningResult": -0.00248,
+        "estimatedEarning": -0.0015
+    },
+    {
+        "date": "2002-01-31",
+        "symbol": "GILD",
+        "actualEarningResult": 0.08629,
+        "estimatedEarning": 0.07359
+    },
+    {
+        "date": "2001-10-25",
+        "symbol": "GILD",
+        "actualEarningResult": -0.02,
+        "estimatedEarning": -0.01624
+    },
+    {
+        "date": "2001-07-26",
+        "symbol": "GILD",
+        "actualEarningResult": -0.02,
+        "estimatedEarning": -0.01396
+    },
+    {
+        "date": "2001-04-26",
+        "symbol": "GILD",
+        "actualEarningResult": -0.01439,
+        "estimatedEarning": -0.01093
+    },
+    {
+        "date": "2001-01-25",
+        "symbol": "GILD",
+        "actualEarningResult": -0.01984,
+        "estimatedEarning": -0.01862
+    },
+    {
+        "date": "2000-10-26",
+        "symbol": "GILD",
+        "actualEarningResult": -0.01191,
+        "estimatedEarning": -0.00815
+    },
+    {
+        "date": "2000-07-27",
+        "symbol": "GILD",
+        "actualEarningResult": -0.00293,
+        "estimatedEarning": -0.00178
+    },
+    {
+        "date": "2000-04-27",
+        "symbol": "GILD",
+        "actualEarningResult": -0.00406,
+        "estimatedEarning": -0.00267
+    },
+    {
+        "date": "2000-01-27",
+        "symbol": "GILD",
+        "actualEarningResult": -0.00648,
+        "estimatedEarning": -0.00454
+    },
+    {
+        "date": "1999-10-27",
+        "symbol": "GILD",
+        "actualEarningResult": -0.02186,
+        "estimatedEarning": -0.01753
+    },
+    {
+        "date": "1999-07-29",
+        "symbol": "GILD",
+        "actualEarningResult": -0.01113,
+        "estimatedEarning": -0.00979
+    },
+    {
+        "date": "1999-04-29",
+        "symbol": "GILD",
+        "actualEarningResult": -0.02,
+        "estimatedEarning": -0.01882
+    },
+    {
+        "date": "1999-01-27",
+        "symbol": "GILD",
+        "actualEarningResult": -0.02,
+        "estimatedEarning": -0.01682
+    },
+    {
+        "date": "1998-10-28",
+        "symbol": "GILD",
+        "actualEarningResult": -0.02,
+        "estimatedEarning": -0.01835
+    },
+    {
+        "date": "1998-07-30",
+        "symbol": "GILD",
+        "actualEarningResult": -0.02,
+        "estimatedEarning": -0.01739
+    },
+    {
+        "date": "1998-04-30",
+        "symbol": "GILD",
+        "actualEarningResult": -0.00812,
+        "estimatedEarning": -0.00537
+    },
+    {
+        "date": "1998-01-29",
+        "symbol": "GILD",
+        "actualEarningResult": -0.01354,
+        "estimatedEarning": -0.01239
+    },
+    {
+        "date": "1997-10-30",
+        "symbol": "GILD",
+        "actualEarningResult": -0.01125,
+        "estimatedEarning": -0.01083
+    },
+    {
+        "date": "1997-07-24",
+        "symbol": "GILD",
+        "actualEarningResult": 0.00299,
+        "estimatedEarning": -8e-05
+    },
+    {
+        "date": "1997-04-25",
+        "symbol": "GILD",
+        "actualEarningResult": -0.00875,
+        "estimatedEarning": -0.00432
+    },
+    {
+        "date": "1997-01-31",
+        "symbol": "GILD",
+        "actualEarningResult": -0.00914,
+        "estimatedEarning": -0.00753
+    },
+    {
+        "date": "1996-04-26",
+        "symbol": "GILD",
+        "actualEarningResult": -0.01312,
+        "estimatedEarning": -0.01081
+    },
+    {
+        "date": "1995-07-28",
+        "symbol": "GILD",
+        "actualEarningResult": -0.01312,
+        "estimatedEarning": -0.0107
+    },
+    {
+        "date": "1995-04-28",
+        "symbol": "GILD",
+        "actualEarningResult": -0.01492,
+        "estimatedEarning": -0.0119
+    },
+    {
+        "date": "1995-01-26",
+        "symbol": "GILD",
+        "actualEarningResult": -0.01375,
+        "estimatedEarning": -0.01172
+    },
+    {
+        "date": "1994-04-29",
+        "symbol": "GILD",
+        "actualEarningResult": -0.0141,
+        "estimatedEarning": -0.01252
+    },
+    {
+        "date": "1994-01-28",
+        "symbol": "GILD",
+        "actualEarningResult": -0.01125,
+        "estimatedEarning": -0.00894
+    },
+    {
+        "date": "1993-10-29",
+        "symbol": "GILD",
+        "actualEarningResult": -0.01,
+        "estimatedEarning": -0.00712
+    }
+]

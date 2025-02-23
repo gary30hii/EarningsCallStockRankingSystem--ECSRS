@@ -1,0 +1,548 @@
+[
+    {
+        "date": "2024-11-07",
+        "symbol": "MNST",
+        "actualEarningResult": 0.4,
+        "estimatedEarning": 0.43
+    },
+    {
+        "date": "2024-08-07",
+        "symbol": "MNST",
+        "actualEarningResult": 0.41,
+        "estimatedEarning": 0.45
+    },
+    {
+        "date": "2024-05-02",
+        "symbol": "MNST",
+        "actualEarningResult": 0.42,
+        "estimatedEarning": 0.43
+    },
+    {
+        "date": "2024-02-28",
+        "symbol": "MNST",
+        "actualEarningResult": 0.38,
+        "estimatedEarning": 0.38
+    },
+    {
+        "date": "2023-11-02",
+        "symbol": "MNST",
+        "actualEarningResult": 0.41,
+        "estimatedEarning": 0.4
+    },
+    {
+        "date": "2023-08-03",
+        "symbol": "MNST",
+        "actualEarningResult": 0.39,
+        "estimatedEarning": 0.39
+    },
+    {
+        "date": "2023-05-04",
+        "symbol": "MNST",
+        "actualEarningResult": 0.38,
+        "estimatedEarning": 0.34
+    },
+    {
+        "date": "2023-02-28",
+        "symbol": "MNST",
+        "actualEarningResult": 0.29,
+        "estimatedEarning": 0.31
+    },
+    {
+        "date": "2022-11-03",
+        "symbol": "MNST",
+        "actualEarningResult": 0.3,
+        "estimatedEarning": 0.29
+    },
+    {
+        "date": "2022-08-04",
+        "symbol": "MNST",
+        "actualEarningResult": 0.26,
+        "estimatedEarning": 0.34
+    },
+    {
+        "date": "2022-05-05",
+        "symbol": "MNST",
+        "actualEarningResult": 0.28,
+        "estimatedEarning": 0.3
+    },
+    {
+        "date": "2022-02-24",
+        "symbol": "MNST",
+        "actualEarningResult": 0.3,
+        "estimatedEarning": 0.3
+    },
+    {
+        "date": "2021-11-04",
+        "symbol": "MNST",
+        "actualEarningResult": 0.32,
+        "estimatedEarning": 0.33
+    },
+    {
+        "date": "2021-08-05",
+        "symbol": "MNST",
+        "actualEarningResult": 0.38,
+        "estimatedEarning": 0.34
+    },
+    {
+        "date": "2021-05-06",
+        "symbol": "MNST",
+        "actualEarningResult": 0.3,
+        "estimatedEarning": 0.31
+    },
+    {
+        "date": "2021-02-25",
+        "symbol": "MNST",
+        "actualEarningResult": 0.31,
+        "estimatedEarning": 0.3
+    },
+    {
+        "date": "2020-11-05",
+        "symbol": "MNST",
+        "actualEarningResult": 0.33,
+        "estimatedEarning": 0.32
+    },
+    {
+        "date": "2020-08-04",
+        "symbol": "MNST",
+        "actualEarningResult": 0.3,
+        "estimatedEarning": 0.24
+    },
+    {
+        "date": "2020-05-07",
+        "symbol": "MNST",
+        "actualEarningResult": 0.26,
+        "estimatedEarning": 0.24
+    },
+    {
+        "date": "2020-02-27",
+        "symbol": "MNST",
+        "actualEarningResult": 0.24,
+        "estimatedEarning": 0.23
+    },
+    {
+        "date": "2019-11-07",
+        "symbol": "MNST",
+        "actualEarningResult": 0.28,
+        "estimatedEarning": 0.27
+    },
+    {
+        "date": "2019-08-07",
+        "symbol": "MNST",
+        "actualEarningResult": 0.27,
+        "estimatedEarning": 0.28
+    },
+    {
+        "date": "2019-05-02",
+        "symbol": "MNST",
+        "actualEarningResult": 0.24,
+        "estimatedEarning": 0.22
+    },
+    {
+        "date": "2019-02-27",
+        "symbol": "MNST",
+        "actualEarningResult": 0.22,
+        "estimatedEarning": 0.2
+    },
+    {
+        "date": "2018-11-07",
+        "symbol": "MNST",
+        "actualEarningResult": 0.25,
+        "estimatedEarning": 0.23
+    },
+    {
+        "date": "2018-08-08",
+        "symbol": "MNST",
+        "actualEarningResult": 0.24,
+        "estimatedEarning": 0.24
+    },
+    {
+        "date": "2018-05-08",
+        "symbol": "MNST",
+        "actualEarningResult": 0.2,
+        "estimatedEarning": 0.2
+    },
+    {
+        "date": "2018-02-28",
+        "symbol": "MNST",
+        "actualEarningResult": 0.18,
+        "estimatedEarning": 0.19
+    },
+    {
+        "date": "2017-11-08",
+        "symbol": "MNST",
+        "actualEarningResult": 0.2,
+        "estimatedEarning": 0.2
+    },
+    {
+        "date": "2017-08-08",
+        "symbol": "MNST",
+        "actualEarningResult": 0.2,
+        "estimatedEarning": 0.2
+    },
+    {
+        "date": "2017-05-04",
+        "symbol": "MNST",
+        "actualEarningResult": 0.17,
+        "estimatedEarning": 0.16
+    },
+    {
+        "date": "2017-03-01",
+        "symbol": "MNST",
+        "actualEarningResult": 0.18,
+        "estimatedEarning": 0.15
+    },
+    {
+        "date": "2016-11-03",
+        "symbol": "MNST",
+        "actualEarningResult": 0.17,
+        "estimatedEarning": 0.19
+    },
+    {
+        "date": "2016-08-04",
+        "symbol": "MNST",
+        "actualEarningResult": 0.17,
+        "estimatedEarning": 0.17
+    },
+    {
+        "date": "2016-04-29",
+        "symbol": "MNST",
+        "actualEarningResult": 0.13,
+        "estimatedEarning": 0.13
+    },
+    {
+        "date": "2016-02-25",
+        "symbol": "MNST",
+        "actualEarningResult": 0.11,
+        "estimatedEarning": 0.14
+    },
+    {
+        "date": "2015-11-05",
+        "symbol": "MNST",
+        "actualEarningResult": 0.14,
+        "estimatedEarning": 0.14
+    },
+    {
+        "date": "2015-08-06",
+        "symbol": "MNST",
+        "actualEarningResult": 0.13,
+        "estimatedEarning": 0.15
+    },
+    {
+        "date": "2015-05-07",
+        "symbol": "MNST",
+        "actualEarningResult": 0.1,
+        "estimatedEarning": 0.11
+    },
+    {
+        "date": "2015-02-26",
+        "symbol": "MNST",
+        "actualEarningResult": 0.12,
+        "estimatedEarning": 0.1
+    },
+    {
+        "date": "2014-11-06",
+        "symbol": "MNST",
+        "actualEarningResult": 0.12,
+        "estimatedEarning": 0.11
+    },
+    {
+        "date": "2014-08-07",
+        "symbol": "MNST",
+        "actualEarningResult": 0.14,
+        "estimatedEarning": 0.13
+    },
+    {
+        "date": "2014-05-08",
+        "symbol": "MNST",
+        "actualEarningResult": 0.09,
+        "estimatedEarning": 0.08
+    },
+    {
+        "date": "2014-02-27",
+        "symbol": "MNST",
+        "actualEarningResult": 0.07,
+        "estimatedEarning": 0.08
+    },
+    {
+        "date": "2013-11-07",
+        "symbol": "MNST",
+        "actualEarningResult": 0.09,
+        "estimatedEarning": 0.1
+    },
+    {
+        "date": "2013-08-08",
+        "symbol": "MNST",
+        "actualEarningResult": 0.1,
+        "estimatedEarning": 0.11
+    },
+    {
+        "date": "2013-05-08",
+        "symbol": "MNST",
+        "actualEarningResult": 0.06,
+        "estimatedEarning": 0.08
+    },
+    {
+        "date": "2013-02-27",
+        "symbol": "MNST",
+        "actualEarningResult": 0.07,
+        "estimatedEarning": 0.07
+    },
+    {
+        "date": "2012-11-07",
+        "symbol": "MNST",
+        "actualEarningResult": 0.08,
+        "estimatedEarning": 0.09
+    },
+    {
+        "date": "2012-08-08",
+        "symbol": "MNST",
+        "actualEarningResult": 0.2,
+        "estimatedEarning": 0.2
+    },
+    {
+        "date": "2012-05-09",
+        "symbol": "MNST",
+        "actualEarningResult": 0.14,
+        "estimatedEarning": 0.13
+    },
+    {
+        "date": "2012-02-23",
+        "symbol": "MNST",
+        "actualEarningResult": 0.12,
+        "estimatedEarning": 0.12
+    },
+    {
+        "date": "2011-11-03",
+        "symbol": "MNST",
+        "actualEarningResult": 0.15,
+        "estimatedEarning": 0.15
+    },
+    {
+        "date": "2011-08-04",
+        "symbol": "MNST",
+        "actualEarningResult": 0.15,
+        "estimatedEarning": 0.14
+    },
+    {
+        "date": "2011-05-05",
+        "symbol": "MNST",
+        "actualEarningResult": 0.1,
+        "estimatedEarning": 0.08
+    },
+    {
+        "date": "2011-02-24",
+        "symbol": "MNST",
+        "actualEarningResult": 0.09,
+        "estimatedEarning": 0.1
+    },
+    {
+        "date": "2010-11-04",
+        "symbol": "MNST",
+        "actualEarningResult": 0.12,
+        "estimatedEarning": 0.12
+    },
+    {
+        "date": "2010-08-05",
+        "symbol": "MNST",
+        "actualEarningResult": 0.12,
+        "estimatedEarning": 0.11
+    },
+    {
+        "date": "2010-05-06",
+        "symbol": "MNST",
+        "actualEarningResult": 0.06,
+        "estimatedEarning": 0.08
+    },
+    {
+        "date": "2010-02-25",
+        "symbol": "MNST",
+        "actualEarningResult": 0.1,
+        "estimatedEarning": 0.09
+    },
+    {
+        "date": "2009-11-05",
+        "symbol": "MNST",
+        "actualEarningResult": 0.1,
+        "estimatedEarning": 0.11
+    },
+    {
+        "date": "2009-08-06",
+        "symbol": "MNST",
+        "actualEarningResult": 0.1,
+        "estimatedEarning": 0.1
+    },
+    {
+        "date": "2009-05-07",
+        "symbol": "MNST",
+        "actualEarningResult": 0.07,
+        "estimatedEarning": 0.06
+    },
+    {
+        "date": "2009-02-26",
+        "symbol": "MNST",
+        "actualEarningResult": -0.04,
+        "estimatedEarning": 0.07
+    },
+    {
+        "date": "2008-11-06",
+        "symbol": "MNST",
+        "actualEarningResult": 0.09,
+        "estimatedEarning": 0.09
+    },
+    {
+        "date": "2008-08-07",
+        "symbol": "MNST",
+        "actualEarningResult": 0.09,
+        "estimatedEarning": 0.09
+    },
+    {
+        "date": "2008-05-07",
+        "symbol": "MNST",
+        "actualEarningResult": 0.05,
+        "estimatedEarning": 0.06
+    },
+    {
+        "date": "2008-02-28",
+        "symbol": "MNST",
+        "actualEarningResult": 0.08,
+        "estimatedEarning": 0.06
+    },
+    {
+        "date": "2007-11-08",
+        "symbol": "MNST",
+        "actualEarningResult": 0.08,
+        "estimatedEarning": 0.08
+    },
+    {
+        "date": "2007-08-08",
+        "symbol": "MNST",
+        "actualEarningResult": 0.07,
+        "estimatedEarning": 0.06
+    },
+    {
+        "date": "2007-02-27",
+        "symbol": "MNST",
+        "actualEarningResult": 0.05,
+        "estimatedEarning": 0.0494
+    },
+    {
+        "date": "2006-11-09",
+        "symbol": "MNST",
+        "actualEarningResult": 0.06,
+        "estimatedEarning": 0.05
+    },
+    {
+        "date": "2006-08-07",
+        "symbol": "MNST",
+        "actualEarningResult": 0.05,
+        "estimatedEarning": 0.05
+    },
+    {
+        "date": "2006-05-09",
+        "symbol": "MNST",
+        "actualEarningResult": 0.04,
+        "estimatedEarning": 0.03364
+    },
+    {
+        "date": "2006-03-09",
+        "symbol": "MNST",
+        "actualEarningResult": 0.03,
+        "estimatedEarning": 0.0248
+    },
+    {
+        "date": "2005-11-09",
+        "symbol": "MNST",
+        "actualEarningResult": 0.03,
+        "estimatedEarning": 0.02151
+    },
+    {
+        "date": "2005-08-09",
+        "symbol": "MNST",
+        "actualEarningResult": 0.03,
+        "estimatedEarning": 0.02143
+    },
+    {
+        "date": "2005-05-10",
+        "symbol": "MNST",
+        "actualEarningResult": 0.02,
+        "estimatedEarning": 0.01644
+    },
+    {
+        "date": "2002-08-09",
+        "symbol": "MNST",
+        "actualEarningResult": 0.00128,
+        "estimatedEarning": 0.00117
+    },
+    {
+        "date": "2002-05-09",
+        "symbol": "MNST",
+        "actualEarningResult": 0.00041,
+        "estimatedEarning": 0.00031
+    },
+    {
+        "date": "2002-03-13",
+        "symbol": "MNST",
+        "actualEarningResult": 0.00033,
+        "estimatedEarning": 0.00044
+    },
+    {
+        "date": "2001-11-05",
+        "symbol": "MNST",
+        "actualEarningResult": 0.00127,
+        "estimatedEarning": 0.00116
+    },
+    {
+        "date": "2001-08-07",
+        "symbol": "MNST",
+        "actualEarningResult": 0.00112,
+        "estimatedEarning": 0.00102
+    },
+    {
+        "date": "2001-02-27",
+        "symbol": "MNST",
+        "actualEarningResult": 0.00021,
+        "estimatedEarning": 0.00114
+    },
+    {
+        "date": "2000-11-02",
+        "symbol": "MNST",
+        "actualEarningResult": 0.00136,
+        "estimatedEarning": 0.00167
+    },
+    {
+        "date": "2000-08-08",
+        "symbol": "MNST",
+        "actualEarningResult": 0.00166,
+        "estimatedEarning": 0.00156
+    },
+    {
+        "date": "2000-05-15",
+        "symbol": "MNST",
+        "actualEarningResult": 0.00068,
+        "estimatedEarning": 0.00103
+    },
+    {
+        "date": "1999-08-02",
+        "symbol": "MNST",
+        "actualEarningResult": 0.00146,
+        "estimatedEarning": 0.00125
+    },
+    {
+        "date": "1999-05-10",
+        "symbol": "MNST",
+        "actualEarningResult": 0.00089,
+        "estimatedEarning": 0.00084
+    },
+    {
+        "date": "1999-02-09",
+        "symbol": "MNST",
+        "actualEarningResult": 0.0007,
+        "estimatedEarning": 0.0005
+    },
+    {
+        "date": "1998-05-13",
+        "symbol": "MNST",
+        "actualEarningResult": 0.00104,
+        "estimatedEarning": 0.00044
+    }
+]

@@ -1,0 +1,4312 @@
+[
+    {
+        "symbol": "HOOD",
+        "date": "2024-12-31",
+        "marketCap": 32941884386
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2024-12-30",
+        "marketCap": 33843675102
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2024-12-27",
+        "marketCap": 34497915425
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2024-12-26",
+        "marketCap": 35700303047
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2024-12-24",
+        "marketCap": 34993016211
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2024-12-23",
+        "marketCap": 33154070437
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2024-12-20",
+        "marketCap": 33887880529
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2024-12-19",
+        "marketCap": 32658969652
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2024-12-18",
+        "marketCap": 32782744848
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2024-12-17",
+        "marketCap": 36805438728
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2024-12-16",
+        "marketCap": 38193489144
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2024-12-13",
+        "marketCap": 35541163509
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2024-12-12",
+        "marketCap": 34771989074
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2024-12-11",
+        "marketCap": 33454667342
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2024-12-10",
+        "marketCap": 33030295241
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2024-12-09",
+        "marketCap": 34957651869
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2024-12-06",
+        "marketCap": 36840803070
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2024-12-05",
+        "marketCap": 34409504571
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2024-12-04",
+        "marketCap": 35364341800
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2024-12-03",
+        "marketCap": 34161954178
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2024-12-02",
+        "marketCap": 33260163462
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2024-11-29",
+        "marketCap": 33189434779
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2024-11-27",
+        "marketCap": 33286686719
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2024-11-26",
+        "marketCap": 32199233208
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2024-11-25",
+        "marketCap": 33463508428
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2024-11-22",
+        "marketCap": 32402578174
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2024-11-21",
+        "marketCap": 31023368844
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2024-11-20",
+        "marketCap": 31898636303
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2024-11-19",
+        "marketCap": 31155985125
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2024-11-18",
+        "marketCap": 30943799075
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2024-11-15",
+        "marketCap": 28574388174
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2024-11-14",
+        "marketCap": 28485977319
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2024-11-13",
+        "marketCap": 28211903670
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2024-11-12",
+        "marketCap": 29175581985
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2024-11-11",
+        "marketCap": 28998760275
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2024-11-08",
+        "marketCap": 27000674964
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2024-11-07",
+        "marketCap": 25957426881
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2024-11-06",
+        "marketCap": 26399481153
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2024-11-05",
+        "marketCap": 22067349283
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2024-11-04",
+        "marketCap": 21501519814
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2024-11-01",
+        "marketCap": 21192081823
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2024-10-31",
+        "marketCap": 20767709722
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2024-10-30",
+        "marketCap": 24940702054
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2024-10-29",
+        "marketCap": 24781562516
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2024-10-28",
+        "marketCap": 24648946234
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2024-10-25",
+        "marketCap": 23923977227
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2024-10-24",
+        "marketCap": 24065434594
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2024-10-23",
+        "marketCap": 23605698151
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2024-10-22",
+        "marketCap": 24233415218
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2024-10-21",
+        "marketCap": 23844407458
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2024-10-18",
+        "marketCap": 23720632262
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2024-10-17",
+        "marketCap": 23269736904
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2024-10-16",
+        "marketCap": 23809043116
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2024-10-15",
+        "marketCap": 23694109006
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2024-10-14",
+        "marketCap": 23870930715
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2024-10-11",
+        "marketCap": 23225531477
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2024-10-10",
+        "marketCap": 22544767897
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2024-10-09",
+        "marketCap": 22677384179
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2024-10-08",
+        "marketCap": 22642019837
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2024-10-07",
+        "marketCap": 20617411269
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2024-10-04",
+        "marketCap": 20237244595
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2024-10-03",
+        "marketCap": 19830554664
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2024-10-02",
+        "marketCap": 20007376373
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2024-10-01",
+        "marketCap": 19742143809
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2024-09-30",
+        "marketCap": 20705822123
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2024-09-27",
+        "marketCap": 21121353140
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2024-09-26",
+        "marketCap": 19830554664
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2024-09-25",
+        "marketCap": 19795190322
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2024-09-24",
+        "marketCap": 20131151569
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2024-09-23",
+        "marketCap": 20069263971
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2024-09-20",
+        "marketCap": 20095787227
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2024-09-19",
+        "marketCap": 20166515911
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2024-09-18",
+        "marketCap": 20290291107
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2024-09-17",
+        "marketCap": 20016217458
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2024-09-16",
+        "marketCap": 19636050784
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2024-09-13",
+        "marketCap": 19512275588
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2024-09-12",
+        "marketCap": 19132108913
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2024-09-11",
+        "marketCap": 18248000368
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2024-09-10",
+        "marketCap": 17416938336
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2024-09-09",
+        "marketCap": 17381573994
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2024-09-06",
+        "marketCap": 16745015842
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2024-09-05",
+        "marketCap": 17390415080
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2024-09-04",
+        "marketCap": 16895314294
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2024-09-03",
+        "marketCap": 17125182516
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2024-08-30",
+        "marketCap": 17788263925
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2024-08-29",
+        "marketCap": 17832469352
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2024-08-28",
+        "marketCap": 17965085634
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2024-08-27",
+        "marketCap": 18884558521
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2024-08-26",
+        "marketCap": 18530915103
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2024-08-23",
+        "marketCap": 18672372470
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2024-08-22",
+        "marketCap": 17584918960
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2024-08-21",
+        "marketCap": 17841310438
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2024-08-20",
+        "marketCap": 17531872447
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2024-08-19",
+        "marketCap": 17929721292
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2024-08-16",
+        "marketCap": 17664488729
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2024-08-15",
+        "marketCap": 17284322054
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2024-08-14",
+        "marketCap": 16488624364
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2024-08-13",
+        "marketCap": 16276438313
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2024-08-12",
+        "marketCap": 16391372424
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2024-08-09",
+        "marketCap": 15843225126
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2024-08-08",
+        "marketCap": 15675244502
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2024-08-07",
+        "marketCap": 15135938290
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2024-08-06",
+        "marketCap": 15215508059
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2024-08-05",
+        "marketCap": 14517062308
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2024-08-02",
+        "marketCap": 15807860784
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2024-08-01",
+        "marketCap": 17894356950
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2024-07-31",
+        "marketCap": 18186112770
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2024-07-30",
+        "marketCap": 18035814318
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2024-07-29",
+        "marketCap": 18725418983
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2024-07-26",
+        "marketCap": 18743101154
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2024-07-25",
+        "marketCap": 18725418983
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2024-07-24",
+        "marketCap": 18928763948
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2024-07-23",
+        "marketCap": 20219562424
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2024-07-22",
+        "marketCap": 20705822123
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2024-07-19",
+        "marketCap": 20696981038
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2024-07-18",
+        "marketCap": 20184198082
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2024-07-17",
+        "marketCap": 21377744618
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2024-07-16",
+        "marketCap": 21775593463
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2024-07-15",
+        "marketCap": 21165558567
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2024-07-12",
+        "marketCap": 19697938382
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2024-07-11",
+        "marketCap": 19485752331
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2024-07-10",
+        "marketCap": 19733302724
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2024-07-09",
+        "marketCap": 19980853117
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2024-07-08",
+        "marketCap": 19529957759
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2024-07-05",
+        "marketCap": 20051581800
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2024-07-03",
+        "marketCap": 20237244595
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2024-07-02",
+        "marketCap": 19857077920
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2024-07-01",
+        "marketCap": 20148833740
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2024-06-28",
+        "marketCap": 20009250131
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2024-06-27",
+        "marketCap": 19903520936
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2024-06-26",
+        "marketCap": 19656819481
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2024-06-25",
+        "marketCap": 19507036455
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2024-06-24",
+        "marketCap": 18828607454
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2024-06-21",
+        "marketCap": 19639197948
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2024-06-20",
+        "marketCap": 19145795039
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2024-06-18",
+        "marketCap": 19260335000
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2024-06-17",
+        "marketCap": 19603954884
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2024-06-14",
+        "marketCap": 19753737910
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2024-06-13",
+        "marketCap": 20537896105
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2024-06-12",
+        "marketCap": 20881515988
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2024-06-11",
+        "marketCap": 20458599209
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2024-06-10",
+        "marketCap": 20634814534
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2024-06-07",
+        "marketCap": 19542279520
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2024-06-06",
+        "marketCap": 20238330053
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2024-06-05",
+        "marketCap": 19004822779
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2024-06-04",
+        "marketCap": 18308772246
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2024-06-03",
+        "marketCap": 18749310558
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2024-05-31",
+        "marketCap": 18414501441
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2024-05-30",
+        "marketCap": 19242713468
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2024-05-29",
+        "marketCap": 18581906000
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2024-05-28",
+        "marketCap": 18035638493
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2024-05-24",
+        "marketCap": 18070881558
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2024-05-23",
+        "marketCap": 16951914245
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2024-05-22",
+        "marketCap": 17321966427
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2024-05-21",
+        "marketCap": 18467366039
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2024-05-20",
+        "marketCap": 18361636844
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2024-05-17",
+        "marketCap": 17700829376
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2024-05-16",
+        "marketCap": 15771271569
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2024-05-15",
+        "marketCap": 16317539076
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2024-05-14",
+        "marketCap": 15877000764
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2024-05-13",
+        "marketCap": 14881384179
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2024-05-10",
+        "marketCap": 14299873607
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2024-05-09",
+        "marketCap": 15242625595
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2024-05-08",
+        "marketCap": 15727217738
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2024-05-07",
+        "marketCap": 15850568465
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2024-05-06",
+        "marketCap": 15665542374
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2024-05-03",
+        "marketCap": 15815325400
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2024-05-02",
+        "marketCap": 15515759348
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2024-05-01",
+        "marketCap": 14669925789
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2024-04-30",
+        "marketCap": 14528953529
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2024-04-29",
+        "marketCap": 15277868660
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2024-04-26",
+        "marketCap": 15753650037
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2024-04-25",
+        "marketCap": 15084031802
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2024-04-24",
+        "marketCap": 15251436361
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2024-04-23",
+        "marketCap": 15524570114
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2024-04-22",
+        "marketCap": 15145707166
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2024-04-19",
+        "marketCap": 14652304257
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2024-04-18",
+        "marketCap": 15048788737
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2024-04-17",
+        "marketCap": 15048788737
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2024-04-16",
+        "marketCap": 15251436361
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2024-04-15",
+        "marketCap": 15145707166
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2024-04-12",
+        "marketCap": 15832946933
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2024-04-11",
+        "marketCap": 16740455856
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2024-04-10",
+        "marketCap": 16158945284
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2024-04-09",
+        "marketCap": 16123702219
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2024-04-08",
+        "marketCap": 16352782141
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2024-04-05",
+        "marketCap": 16211809881
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2024-04-04",
+        "marketCap": 16255863712
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2024-04-03",
+        "marketCap": 16925481947
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2024-04-02",
+        "marketCap": 16916671180
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2024-04-01",
+        "marketCap": 17101697271
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2024-03-28",
+        "marketCap": 17620179662
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2024-03-27",
+        "marketCap": 17515141334
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2024-03-26",
+        "marketCap": 16876158166
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2024-03-25",
+        "marketCap": 16701094285
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2024-03-22",
+        "marketCap": 16018345148
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2024-03-21",
+        "marketCap": 16709847479
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2024-03-20",
+        "marketCap": 16245928193
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2024-03-19",
+        "marketCap": 15090506576
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2024-03-18",
+        "marketCap": 15939566401
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2024-03-15",
+        "marketCap": 15887047237
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2024-03-14",
+        "marketCap": 15799515296
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2024-03-13",
+        "marketCap": 15020481024
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2024-03-12",
+        "marketCap": 14346485080
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2024-03-11",
+        "marketCap": 14757885202
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2024-03-08",
+        "marketCap": 14880429919
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2024-03-07",
+        "marketCap": 14320225498
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2024-03-06",
+        "marketCap": 14355238274
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2024-03-05",
+        "marketCap": 13943838153
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2024-03-04",
+        "marketCap": 14556561738
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2024-03-01",
+        "marketCap": 14512795768
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2024-02-29",
+        "marketCap": 14276459528
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2024-02-28",
+        "marketCap": 14118902034
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2024-02-27",
+        "marketCap": 14223940363
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2024-02-26",
+        "marketCap": 13646229555
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2024-02-23",
+        "marketCap": 12674625013
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2024-02-22",
+        "marketCap": 12228212115
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2024-02-21",
+        "marketCap": 11895590741
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2024-02-20",
+        "marketCap": 12333250444
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2024-02-16",
+        "marketCap": 12254471698
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2024-02-15",
+        "marketCap": 11746786441
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2024-02-14",
+        "marketCap": 11711773665
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2024-02-13",
+        "marketCap": 10363781778
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2024-02-12",
+        "marketCap": 10512586078
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2024-02-09",
+        "marketCap": 10109939150
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2024-02-08",
+        "marketCap": 9821083746
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2024-02-07",
+        "marketCap": 9628513477
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2024-02-06",
+        "marketCap": 9435943207
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2024-02-05",
+        "marketCap": 9243372937
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2024-02-02",
+        "marketCap": 9558487924
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2024-02-01",
+        "marketCap": 9549734730
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2024-01-31",
+        "marketCap": 9400930431
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2024-01-30",
+        "marketCap": 9637266671
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2024-01-29",
+        "marketCap": 9899862493
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2024-01-26",
+        "marketCap": 9444696401
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2024-01-25",
+        "marketCap": 9365917654
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2024-01-24",
+        "marketCap": 9462202789
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2024-01-23",
+        "marketCap": 9584747506
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2024-01-22",
+        "marketCap": 9619760282
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2024-01-19",
+        "marketCap": 9374670848
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2024-01-18",
+        "marketCap": 9339658072
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2024-01-17",
+        "marketCap": 9322151684
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2024-01-16",
+        "marketCap": 9567241118
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2024-01-12",
+        "marketCap": 9646019865
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2024-01-11",
+        "marketCap": 10249990255
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2024-01-10",
+        "marketCap": 10626377600
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2024-01-09",
+        "marketCap": 10678896765
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2024-01-08",
+        "marketCap": 10871467034
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2024-01-05",
+        "marketCap": 10407547749
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2024-01-04",
+        "marketCap": 10486326495
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2024-01-03",
+        "marketCap": 10320015808
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2024-01-02",
+        "marketCap": 10827701064
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2023-12-29",
+        "marketCap": 11049383361
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2023-12-28",
+        "marketCap": 11430994717
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2023-12-27",
+        "marketCap": 11500378600
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2023-12-26",
+        "marketCap": 11222843068
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2023-12-22",
+        "marketCap": 11231516054
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2023-12-21",
+        "marketCap": 11179478141
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2023-12-20",
+        "marketCap": 10945307536
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2023-12-19",
+        "marketCap": 11422321732
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2023-12-18",
+        "marketCap": 10346871546
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2023-12-15",
+        "marketCap": 10138719897
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2023-12-14",
+        "marketCap": 10485639312
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2023-12-13",
+        "marketCap": 10398909458
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2023-12-12",
+        "marketCap": 10086681985
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2023-12-11",
+        "marketCap": 10156065868
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2023-12-08",
+        "marketCap": 10173411839
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2023-12-07",
+        "marketCap": 9956587204
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2023-12-06",
+        "marketCap": 9774454511
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2023-12-05",
+        "marketCap": 9132653594
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2023-12-04",
+        "marketCap": 8282701028
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2023-12-01",
+        "marketCap": 8083222364
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2023-11-30",
+        "marketCap": 7632227125
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2023-11-29",
+        "marketCap": 7736302950
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2023-11-28",
+        "marketCap": 7493459359
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2023-11-27",
+        "marketCap": 7276634725
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2023-11-24",
+        "marketCap": 7189904871
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2023-11-22",
+        "marketCap": 7129193974
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2023-11-21",
+        "marketCap": 6921042325
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2023-11-20",
+        "marketCap": 7051137105
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2023-11-17",
+        "marketCap": 7025118149
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2023-11-16",
+        "marketCap": 6886350383
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2023-11-15",
+        "marketCap": 7224596813
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2023-11-14",
+        "marketCap": 7372037564
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2023-11-13",
+        "marketCap": 7207250842
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2023-11-10",
+        "marketCap": 7137866959
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2023-11-09",
+        "marketCap": 6877677398
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2023-11-08",
+        "marketCap": 7254952262
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2023-11-07",
+        "marketCap": 8464833721
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2023-11-06",
+        "marketCap": 8317392969
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2023-11-03",
+        "marketCap": 8404122823
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2023-11-02",
+        "marketCap": 8221990130
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2023-11-01",
+        "marketCap": 7875070715
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2023-10-31",
+        "marketCap": 7927108628
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2023-10-30",
+        "marketCap": 7875070715
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2023-10-27",
+        "marketCap": 7718956979
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2023-10-26",
+        "marketCap": 7892416686
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2023-10-25",
+        "marketCap": 7831705789
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2023-10-24",
+        "marketCap": 8083222364
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2023-10-23",
+        "marketCap": 7953127584
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2023-10-20",
+        "marketCap": 7918435642
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2023-10-19",
+        "marketCap": 7779667876
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2023-10-18",
+        "marketCap": 7987819525
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2023-10-17",
+        "marketCap": 8326065955
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2023-10-16",
+        "marketCap": 8083222364
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2023-10-13",
+        "marketCap": 7927108628
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2023-10-12",
+        "marketCap": 8057203408
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2023-10-11",
+        "marketCap": 8430141779
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2023-10-10",
+        "marketCap": 8707677311
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2023-10-09",
+        "marketCap": 8560236560
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2023-10-06",
+        "marketCap": 8612274472
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2023-10-05",
+        "marketCap": 8438814765
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2023-10-04",
+        "marketCap": 8395449838
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2023-10-03",
+        "marketCap": 8265355057
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2023-10-02",
+        "marketCap": 8438814765
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2023-09-29",
+        "marketCap": 8781017229
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2023-09-28",
+        "marketCap": 8664653087
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2023-09-27",
+        "marketCap": 8566191120
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2023-09-26",
+        "marketCap": 8530386768
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2023-09-25",
+        "marketCap": 8664653087
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2023-09-22",
+        "marketCap": 8682555263
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2023-09-21",
+        "marketCap": 8798919405
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2023-09-20",
+        "marketCap": 9148011833
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2023-09-19",
+        "marketCap": 9371789031
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2023-09-18",
+        "marketCap": 9488153174
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2023-09-15",
+        "marketCap": 9550810789
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2023-09-14",
+        "marketCap": 9461299910
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2023-09-13",
+        "marketCap": 9506055349
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2023-09-12",
+        "marketCap": 9667174932
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2023-09-11",
+        "marketCap": 9702979283
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2023-09-08",
+        "marketCap": 9613468404
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2023-09-07",
+        "marketCap": 9613468404
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2023-09-06",
+        "marketCap": 9658223844
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2023-09-05",
+        "marketCap": 9685077107
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2023-09-01",
+        "marketCap": 9944658656
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2023-08-31",
+        "marketCap": 9747734723
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2023-08-30",
+        "marketCap": 9899903217
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2023-08-29",
+        "marketCap": 9864098865
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2023-08-28",
+        "marketCap": 9443397734
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2023-08-25",
+        "marketCap": 9434446646
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2023-08-24",
+        "marketCap": 9282278152
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2023-08-23",
+        "marketCap": 9398642295
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2023-08-22",
+        "marketCap": 9291229240
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2023-08-21",
+        "marketCap": 9300180328
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2023-08-18",
+        "marketCap": 9174865097
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2023-08-17",
+        "marketCap": 9013745515
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2023-08-16",
+        "marketCap": 9121158570
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2023-08-15",
+        "marketCap": 9318082503
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2023-08-14",
+        "marketCap": 9532908613
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2023-08-11",
+        "marketCap": 9595566228
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2023-08-10",
+        "marketCap": 9604517316
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2023-08-09",
+        "marketCap": 9667174932
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2023-08-08",
+        "marketCap": 9935707569
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2023-08-07",
+        "marketCap": 10150533678
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2023-08-04",
+        "marketCap": 10096827151
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2023-08-03",
+        "marketCap": 10329555436
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2023-08-02",
+        "marketCap": 11135153347
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2023-08-01",
+        "marketCap": 11520050127
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2023-07-31",
+        "marketCap": 11511099039
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2023-07-28",
+        "marketCap": 11394734896
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2023-07-27",
+        "marketCap": 10947180501
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2023-07-26",
+        "marketCap": 11403685984
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2023-07-25",
+        "marketCap": 11224664226
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2023-07-24",
+        "marketCap": 11403685984
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2023-07-21",
+        "marketCap": 11421588160
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2023-07-20",
+        "marketCap": 11466343599
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2023-07-19",
+        "marketCap": 11743827324
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2023-07-18",
+        "marketCap": 11269419666
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2023-07-17",
+        "marketCap": 11179908787
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2023-07-14",
+        "marketCap": 11081446820
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2023-07-13",
+        "marketCap": 11144104435
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2023-07-12",
+        "marketCap": 10687598952
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2023-07-11",
+        "marketCap": 10589136985
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2023-07-10",
+        "marketCap": 10034169535
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2023-07-07",
+        "marketCap": 9658223844
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2023-07-06",
+        "marketCap": 9318082503
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2023-07-05",
+        "marketCap": 9595566228
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2023-07-03",
+        "marketCap": 9541859701
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2023-06-30",
+        "marketCap": 8933185724
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2023-06-29",
+        "marketCap": 9022699084
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2023-06-28",
+        "marketCap": 9212745905
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2023-06-27",
+        "marketCap": 8995549538
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2023-06-26",
+        "marketCap": 8715004230
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2023-06-23",
+        "marketCap": 8588306349
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2023-06-22",
+        "marketCap": 8552106955
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2023-06-21",
+        "marketCap": 8832652262
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2023-06-20",
+        "marketCap": 9049848630
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2023-06-16",
+        "marketCap": 9076998175
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2023-06-15",
+        "marketCap": 9031748932
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2023-06-14",
+        "marketCap": 9004599386
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2023-06-13",
+        "marketCap": 8687854684
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2023-06-12",
+        "marketCap": 8470658317
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2023-06-09",
+        "marketCap": 8515907560
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2023-06-08",
+        "marketCap": 8597356198
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2023-06-07",
+        "marketCap": 8506857712
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2023-06-06",
+        "marketCap": 8253461950
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2023-06-05",
+        "marketCap": 8172013312
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2023-06-02",
+        "marketCap": 8452558620
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2023-06-01",
+        "marketCap": 8162963464
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2023-05-31",
+        "marketCap": 8072464977
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2023-05-30",
+        "marketCap": 8072464977
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2023-05-26",
+        "marketCap": 7981966491
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2023-05-25",
+        "marketCap": 7782869821
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2023-05-24",
+        "marketCap": 7782869821
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2023-05-23",
+        "marketCap": 7855268610
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2023-05-22",
+        "marketCap": 7927667399
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2023-05-19",
+        "marketCap": 7665221789
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2023-05-18",
+        "marketCap": 7800969519
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2023-05-17",
+        "marketCap": 7656171940
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2023-05-16",
+        "marketCap": 7556623606
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2023-05-15",
+        "marketCap": 7828119064
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2023-05-12",
+        "marketCap": 7909567702
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2023-05-11",
+        "marketCap": 8733103927
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2023-05-10",
+        "marketCap": 8208212707
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2023-05-09",
+        "marketCap": 8244412101
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2023-05-08",
+        "marketCap": 8063415129
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2023-05-05",
+        "marketCap": 8009116037
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2023-05-04",
+        "marketCap": 7674271638
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2023-05-03",
+        "marketCap": 7583773151
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2023-05-02",
+        "marketCap": 7656171940
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2023-05-01",
+        "marketCap": 7981966491
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2023-04-28",
+        "marketCap": 8009116037
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2023-04-27",
+        "marketCap": 7981966491
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2023-04-26",
+        "marketCap": 7981966491
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2023-04-25",
+        "marketCap": 8226312404
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2023-04-24",
+        "marketCap": 8506857712
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2023-04-21",
+        "marketCap": 8724054079
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2023-04-20",
+        "marketCap": 8805502716
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2023-04-19",
+        "marketCap": 8886951354
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2023-04-18",
+        "marketCap": 8905051051
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2023-04-17",
+        "marketCap": 8941250446
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2023-04-14",
+        "marketCap": 9049848630
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2023-04-13",
+        "marketCap": 9113197570
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2023-04-12",
+        "marketCap": 9058898478
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2023-04-11",
+        "marketCap": 9013649235
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2023-04-10",
+        "marketCap": 9031748932
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2023-04-06",
+        "marketCap": 9058898478
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2023-04-05",
+        "marketCap": 8823602414
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2023-04-04",
+        "marketCap": 8832652262
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2023-04-03",
+        "marketCap": 8832652262
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2023-03-31",
+        "marketCap": 8787403019
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2023-03-30",
+        "marketCap": 8484907614
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2023-03-29",
+        "marketCap": 8162014724
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2023-03-28",
+        "marketCap": 7776337105
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2023-03-27",
+        "marketCap": 7722521623
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2023-03-24",
+        "marketCap": 7785306352
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2023-03-23",
+        "marketCap": 7686644636
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2023-03-22",
+        "marketCap": 8009537526
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2023-03-21",
+        "marketCap": 8377276651
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2023-03-20",
+        "marketCap": 7892937316
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2023-03-17",
+        "marketCap": 8242737947
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2023-03-16",
+        "marketCap": 8350368910
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2023-03-15",
+        "marketCap": 8251707193
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2023-03-14",
+        "marketCap": 8170983971
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2023-03-13",
+        "marketCap": 8063353008
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2023-03-10",
+        "marketCap": 8081291501
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2023-03-09",
+        "marketCap": 8466969120
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2023-03-08",
+        "marketCap": 8655323306
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2023-03-07",
+        "marketCap": 8449030626
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2023-03-06",
+        "marketCap": 8718108035
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2023-03-03",
+        "marketCap": 8879554480
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2023-03-02",
+        "marketCap": 8628415565
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2023-03-01",
+        "marketCap": 8727077282
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2023-02-28",
+        "marketCap": 9032031678
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2023-02-27",
+        "marketCap": 8718108035
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2023-02-24",
+        "marketCap": 8601507825
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2023-02-23",
+        "marketCap": 9049970172
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2023-02-22",
+        "marketCap": 8924400715
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2023-02-21",
+        "marketCap": 8879554480
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2023-02-17",
+        "marketCap": 9283170593
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2023-02-16",
+        "marketCap": 9274201346
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2023-02-15",
+        "marketCap": 9534309507
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2023-02-14",
+        "marketCap": 9023062431
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2023-02-13",
+        "marketCap": 8897492974
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2023-02-10",
+        "marketCap": 8951308456
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2023-02-09",
+        "marketCap": 9041000925
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2023-02-08",
+        "marketCap": 9390801556
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2023-02-07",
+        "marketCap": 9462555532
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2023-02-06",
+        "marketCap": 9507401767
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2023-02-03",
+        "marketCap": 9632971224
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2023-02-02",
+        "marketCap": 9991741102
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2023-02-01",
+        "marketCap": 9668848212
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2023-01-31",
+        "marketCap": 9336986074
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2023-01-30",
+        "marketCap": 9103785654
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2023-01-27",
+        "marketCap": 9319047581
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2023-01-26",
+        "marketCap": 8646354059
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2023-01-25",
+        "marketCap": 8691200294
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2023-01-24",
+        "marketCap": 8709138788
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2023-01-23",
+        "marketCap": 8709138788
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2023-01-20",
+        "marketCap": 8538723096
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2023-01-19",
+        "marketCap": 8117168489
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2023-01-18",
+        "marketCap": 8350368910
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2023-01-17",
+        "marketCap": 8538723096
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2023-01-13",
+        "marketCap": 8359338157
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2023-01-12",
+        "marketCap": 8108199242
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2023-01-11",
+        "marketCap": 7857060328
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2023-01-10",
+        "marketCap": 7821183340
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2023-01-09",
+        "marketCap": 7668706142
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2023-01-06",
+        "marketCap": 7399628733
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2023-01-05",
+        "marketCap": 7274059276
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2023-01-04",
+        "marketCap": 7498290450
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2023-01-03",
+        "marketCap": 7247151535
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2022-12-30",
+        "marketCap": 7238410604
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2022-12-29",
+        "marketCap": 7158379037
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2022-12-28",
+        "marketCap": 6847145166
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2022-12-27",
+        "marketCap": 6847145166
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2022-12-23",
+        "marketCap": 7069455074
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2022-12-22",
+        "marketCap": 7105024659
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2022-12-21",
+        "marketCap": 7265087793
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2022-12-20",
+        "marketCap": 7202841019
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2022-12-19",
+        "marketCap": 7291764982
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2022-12-16",
+        "marketCap": 7656353231
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2022-12-15",
+        "marketCap": 7709707609
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2022-12-14",
+        "marketCap": 8083188254
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2022-12-13",
+        "marketCap": 8314390559
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2022-12-12",
+        "marketCap": 8518915674
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2022-12-09",
+        "marketCap": 8278820973
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2022-12-08",
+        "marketCap": 8465561296
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2022-12-07",
+        "marketCap": 8234358992
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2022-12-06",
+        "marketCap": 8349960144
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2022-12-05",
+        "marketCap": 8598947241
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2022-12-02",
+        "marketCap": 8883503923
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2022-12-01",
+        "marketCap": 8776795167
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2022-11-30",
+        "marketCap": 8527808070
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2022-11-29",
+        "marketCap": 8163219821
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2022-11-28",
+        "marketCap": 8172112218
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2022-11-25",
+        "marketCap": 8349960144
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2022-11-23",
+        "marketCap": 8412206918
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2022-11-22",
+        "marketCap": 8083188254
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2022-11-21",
+        "marketCap": 7869770743
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2022-11-18",
+        "marketCap": 8172112218
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2022-11-17",
+        "marketCap": 8421099315
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2022-11-16",
+        "marketCap": 8287713370
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2022-11-15",
+        "marketCap": 9025782264
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2022-11-14",
+        "marketCap": 8501130881
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2022-11-11",
+        "marketCap": 9310338947
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2022-11-10",
+        "marketCap": 8243251388
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2022-11-09",
+        "marketCap": 7469612908
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2022-11-08",
+        "marketCap": 8661194015
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2022-11-07",
+        "marketCap": 10697552772
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2022-11-04",
+        "marketCap": 10919862680
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2022-11-03",
+        "marketCap": 10964324662
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2022-11-02",
+        "marketCap": 10137331804
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2022-11-01",
+        "marketCap": 10599736413
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2022-10-31",
+        "marketCap": 10386318901
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2022-10-28",
+        "marketCap": 10226255768
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2022-10-27",
+        "marketCap": 9923914293
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2022-10-26",
+        "marketCap": 9852775122
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2022-10-25",
+        "marketCap": 9630465214
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2022-10-24",
+        "marketCap": 9079136642
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2022-10-21",
+        "marketCap": 9016889868
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2022-10-20",
+        "marketCap": 8741225582
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2022-10-19",
+        "marketCap": 8990212679
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2022-10-18",
+        "marketCap": 9283661758
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2022-10-17",
+        "marketCap": 9079136642
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2022-10-14",
+        "marketCap": 8794579960
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2022-10-13",
+        "marketCap": 9452617288
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2022-10-12",
+        "marketCap": 9479294477
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2022-10-11",
+        "marketCap": 9283661758
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2022-10-10",
+        "marketCap": 9354800928
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2022-10-07",
+        "marketCap": 9603788025
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2022-10-06",
+        "marketCap": 9932806689
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2022-10-05",
+        "marketCap": 9568218440
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2022-10-04",
+        "marketCap": 9621572818
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2022-10-03",
+        "marketCap": 8981320283
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2022-09-30",
+        "marketCap": 8981320283
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2022-09-29",
+        "marketCap": 8620623737
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2022-09-28",
+        "marketCap": 8832389315
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2022-09-27",
+        "marketCap": 8479446685
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2022-09-26",
+        "marketCap": 8152974753
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2022-09-23",
+        "marketCap": 8329446068
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2022-09-22",
+        "marketCap": 8514740948
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2022-09-21",
+        "marketCap": 8752977224
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2022-09-20",
+        "marketCap": 8770624355
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2022-09-19",
+        "marketCap": 9052978459
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2022-09-16",
+        "marketCap": 9044154893
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2022-09-15",
+        "marketCap": 9926511468
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2022-09-14",
+        "marketCap": 9511803878
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2022-09-13",
+        "marketCap": 9185331945
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2022-09-12",
+        "marketCap": 9714745890
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2022-09-09",
+        "marketCap": 9352979695
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2022-09-08",
+        "marketCap": 8911801407
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2022-09-07",
+        "marketCap": 8691212263
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2022-09-06",
+        "marketCap": 8444152422
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2022-09-02",
+        "marketCap": 8338269633
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2022-09-01",
+        "marketCap": 8497093817
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2022-08-31",
+        "marketCap": 8426505291
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2022-08-30",
+        "marketCap": 8355916765
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2022-08-29",
+        "marketCap": 8276504673
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2022-08-26",
+        "marketCap": 8276504673
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2022-08-25",
+        "marketCap": 8655918000
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2022-08-24",
+        "marketCap": 8223563279
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2022-08-23",
+        "marketCap": 8100033358
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2022-08-22",
+        "marketCap": 7976503437
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2022-08-19",
+        "marketCap": 8170621884
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2022-08-18",
+        "marketCap": 8973566367
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2022-08-17",
+        "marketCap": 9194155511
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2022-08-16",
+        "marketCap": 9617686667
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2022-08-15",
+        "marketCap": 9714745890
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2022-08-12",
+        "marketCap": 9644157364
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2022-08-11",
+        "marketCap": 9273567603
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2022-08-10",
+        "marketCap": 9335332563
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2022-08-09",
+        "marketCap": 8911801407
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2022-08-08",
+        "marketCap": 9423568221
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2022-08-05",
+        "marketCap": 9176508380
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2022-08-04",
+        "marketCap": 9600039536
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2022-08-03",
+        "marketCap": 9097096288
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2022-08-02",
+        "marketCap": 8144151187
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2022-08-01",
+        "marketCap": 7976503437
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2022-07-29",
+        "marketCap": 7985327003
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2022-07-28",
+        "marketCap": 8038268398
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2022-07-27",
+        "marketCap": 7852973517
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2022-07-26",
+        "marketCap": 7438265927
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2022-07-25",
+        "marketCap": 7844149951
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2022-07-22",
+        "marketCap": 8011797701
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2022-07-21",
+        "marketCap": 8302975370
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2022-07-20",
+        "marketCap": 8302975370
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2022-07-19",
+        "marketCap": 7967679872
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2022-07-18",
+        "marketCap": 7605913676
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2022-07-15",
+        "marketCap": 7420618795
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2022-07-14",
+        "marketCap": 7270618178
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2022-07-13",
+        "marketCap": 7376500966
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2022-07-12",
+        "marketCap": 7411795230
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2022-07-11",
+        "marketCap": 7358853835
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2022-07-08",
+        "marketCap": 7941209175
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2022-07-07",
+        "marketCap": 7958856306
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2022-07-06",
+        "marketCap": 7614737242
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2022-07-05",
+        "marketCap": 7411795230
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2022-07-01",
+        "marketCap": 7217676783
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2022-06-30",
+        "marketCap": 7252971046
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2022-06-29",
+        "marketCap": 7348992196
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2022-06-28",
+        "marketCap": 7691713792
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2022-06-27",
+        "marketCap": 7912964443
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2022-06-24",
+        "marketCap": 6941196880
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2022-06-23",
+        "marketCap": 6923843887
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2022-06-22",
+        "marketCap": 6498695578
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2022-06-21",
+        "marketCap": 6550754555
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2022-06-17",
+        "marketCap": 6238400695
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2022-06-16",
+        "marketCap": 5978105812
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2022-06-15",
+        "marketCap": 6116929750
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2022-06-14",
+        "marketCap": 6273106680
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2022-06-13",
+        "marketCap": 6273106680
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2022-06-10",
+        "marketCap": 6776343454
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2022-06-09",
+        "marketCap": 6967226368
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2022-06-08",
+        "marketCap": 7270903731
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2022-06-07",
+        "marketCap": 7565904599
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2022-06-06",
+        "marketCap": 7904287947
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2022-06-03",
+        "marketCap": 7956346923
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2022-06-02",
+        "marketCap": 8416201216
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2022-06-01",
+        "marketCap": 8129876845
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2022-05-31",
+        "marketCap": 8728555076
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2022-05-27",
+        "marketCap": 9006202951
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2022-05-26",
+        "marketCap": 8051788380
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2022-05-25",
+        "marketCap": 8008405900
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2022-05-24",
+        "marketCap": 7904287947
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2022-05-23",
+        "marketCap": 8728555076
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2022-05-20",
+        "marketCap": 8745908068
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2022-05-19",
+        "marketCap": 8858702518
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2022-05-18",
+        "marketCap": 8442230705
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2022-05-17",
+        "marketCap": 8728555076
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2022-05-16",
+        "marketCap": 8771937557
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2022-05-13",
+        "marketCap": 9275174330
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2022-05-12",
+        "marketCap": 7427080661
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2022-05-11",
+        "marketCap": 7071344321
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2022-05-10",
+        "marketCap": 8043111884
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2022-05-09",
+        "marketCap": 8242671295
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2022-05-06",
+        "marketCap": 8780614053
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2022-05-05",
+        "marketCap": 9205762362
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2022-05-04",
+        "marketCap": 9457380749
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2022-05-03",
+        "marketCap": 8763261061
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2022-05-02",
+        "marketCap": 9092967912
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2022-04-29",
+        "marketCap": 8507304426
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2022-04-28",
+        "marketCap": 8754584564
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2022-04-27",
+        "marketCap": 8251347791
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2022-04-26",
+        "marketCap": 8676496100
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2022-04-25",
+        "marketCap": 9014879447
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2022-04-22",
+        "marketCap": 8902084998
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2022-04-21",
+        "marketCap": 9058261928
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2022-04-20",
+        "marketCap": 9292527323
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2022-04-19",
+        "marketCap": 10030029491
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2022-04-18",
+        "marketCap": 9535469213
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2022-04-14",
+        "marketCap": 9873852561
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2022-04-13",
+        "marketCap": 10316353862
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2022-04-12",
+        "marketCap": 9917235042
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2022-04-11",
+        "marketCap": 9847823073
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2022-04-08",
+        "marketCap": 9752381616
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2022-04-07",
+        "marketCap": 10472530792
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2022-04-06",
+        "marketCap": 10854296621
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2022-04-05",
+        "marketCap": 11305474418
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2022-04-04",
+        "marketCap": 11999594106
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2022-04-01",
+        "marketCap": 11713269735
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2022-03-31",
+        "marketCap": 11721946231
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2022-03-30",
+        "marketCap": 12634719086
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2022-03-29",
+        "marketCap": 13806207462
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2022-03-28",
+        "marketCap": 11116123042
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2022-03-25",
+        "marketCap": 10751659991
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2022-03-24",
+        "marketCap": 11246288417
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2022-03-23",
+        "marketCap": 11350420717
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2022-03-22",
+        "marketCap": 11645462234
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2022-03-21",
+        "marketCap": 11324387642
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2022-03-18",
+        "marketCap": 11662817617
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2022-03-17",
+        "marketCap": 11619429159
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2022-03-16",
+        "marketCap": 11090089967
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2022-03-15",
+        "marketCap": 9580171614
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2022-03-14",
+        "marketCap": 9241741639
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2022-03-11",
+        "marketCap": 9562816231
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2022-03-10",
+        "marketCap": 10456618474
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2022-03-09",
+        "marketCap": 10777693066
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2022-03-08",
+        "marketCap": 10196287724
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2022-03-07",
+        "marketCap": 9909923898
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2022-03-04",
+        "marketCap": 9510750081
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2022-03-03",
+        "marketCap": 9875213131
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2022-03-02",
+        "marketCap": 9970667740
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2022-03-01",
+        "marketCap": 10213643107
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2022-02-28",
+        "marketCap": 10421907707
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2022-02-25",
+        "marketCap": 10074800040
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2022-02-24",
+        "marketCap": 9988023123
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2022-02-23",
+        "marketCap": 9423973164
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2022-02-22",
+        "marketCap": 9814469290
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2022-02-18",
+        "marketCap": 10248353874
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2022-02-17",
+        "marketCap": 10630172308
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2022-02-16",
+        "marketCap": 11723561459
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2022-02-15",
+        "marketCap": 11862404526
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2022-02-14",
+        "marketCap": 11584718392
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2022-02-11",
+        "marketCap": 11558685317
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2022-02-10",
+        "marketCap": 11732239151
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2022-02-09",
+        "marketCap": 12070669126
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2022-02-08",
+        "marketCap": 11610751467
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2022-02-07",
+        "marketCap": 12070669126
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2022-02-04",
+        "marketCap": 13172735970
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2022-02-03",
+        "marketCap": 12278933727
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2022-02-02",
+        "marketCap": 12166123735
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2022-02-01",
+        "marketCap": 12712818311
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2022-01-31",
+        "marketCap": 12278933727
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2022-01-28",
+        "marketCap": 11046701508
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2022-01-27",
+        "marketCap": 10074800040
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2022-01-26",
+        "marketCap": 10769015374
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2022-01-25",
+        "marketCap": 11324387642
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2022-01-24",
+        "marketCap": 11385131484
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2022-01-21",
+        "marketCap": 11263643800
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2022-01-20",
+        "marketCap": 11879759909
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2022-01-19",
+        "marketCap": 12053313743
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2022-01-18",
+        "marketCap": 12495876019
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2022-01-14",
+        "marketCap": 13164058278
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2022-01-13",
+        "marketCap": 13276868270
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2022-01-12",
+        "marketCap": 14101248980
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2022-01-11",
+        "marketCap": 14240092046
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2022-01-10",
+        "marketCap": 13545876712
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2022-01-07",
+        "marketCap": 13788852079
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2022-01-06",
+        "marketCap": 13519843637
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2022-01-05",
+        "marketCap": 13866951304
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2022-01-04",
+        "marketCap": 15099183523
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2022-01-03",
+        "marketCap": 16001663457
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2021-12-31",
+        "marketCap": 15411580423
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2021-12-30",
+        "marketCap": 15520807702
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2021-12-29",
+        "marketCap": 14591264823
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2021-12-28",
+        "marketCap": 14881213978
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2021-12-27",
+        "marketCap": 15725477694
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2021-12-23",
+        "marketCap": 16117761844
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2021-12-22",
+        "marketCap": 15674310196
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2021-12-21",
+        "marketCap": 16143345593
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2021-12-20",
+        "marketCap": 15375833124
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2021-12-17",
+        "marketCap": 16288320171
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2021-12-16",
+        "marketCap": 15469640204
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2021-12-15",
+        "marketCap": 16629436824
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2021-12-14",
+        "marketCap": 16313903920
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2021-12-13",
+        "marketCap": 16799995150
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2021-12-10",
+        "marketCap": 17166695552
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2021-12-09",
+        "marketCap": 18684664657
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2021-12-08",
+        "marketCap": 20228217511
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2021-12-07",
+        "marketCap": 19383953795
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2021-12-06",
+        "marketCap": 18676136740
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2021-12-03",
+        "marketCap": 18377659669
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2021-12-02",
+        "marketCap": 20637557494
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2021-12-01",
+        "marketCap": 20407303753
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2021-11-30",
+        "marketCap": 22121414934
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2021-11-29",
+        "marketCap": 23085069478
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2021-11-26",
+        "marketCap": 23809942365
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2021-11-24",
+        "marketCap": 23861109863
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2021-11-23",
+        "marketCap": 23579688624
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2021-11-22",
+        "marketCap": 23741719034
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2021-11-19",
+        "marketCap": 24722429411
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2021-11-18",
+        "marketCap": 26035728524
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2021-11-17",
+        "marketCap": 28039788860
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2021-11-16",
+        "marketCap": 28884052575
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2021-11-15",
+        "marketCap": 29813595454
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2021-11-12",
+        "marketCap": 30026793362
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2021-11-11",
+        "marketCap": 29139890065
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2021-11-10",
+        "marketCap": 29412783387
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2021-11-09",
+        "marketCap": 31297452894
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2021-11-08",
+        "marketCap": 32389026183
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2021-11-05",
+        "marketCap": 31561818300
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2021-11-04",
+        "marketCap": 31612985798
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2021-11-03",
+        "marketCap": 31587402049
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2021-11-02",
+        "marketCap": 29839179203
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2021-11-01",
+        "marketCap": 29719788375
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2021-10-29",
+        "marketCap": 29822123371
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2021-10-28",
+        "marketCap": 30248519187
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2021-10-27",
+        "marketCap": 30222935438
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2021-10-26",
+        "marketCap": 33744964878
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2021-10-25",
+        "marketCap": 33267401564
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2021-10-22",
+        "marketCap": 33762020710
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2021-10-21",
+        "marketCap": 35203238568
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2021-10-20",
+        "marketCap": 35672273966
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2021-10-19",
+        "marketCap": 35561411054
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2021-10-18",
+        "marketCap": 34665979840
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2021-10-15",
+        "marketCap": 34990040660
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2021-10-14",
+        "marketCap": 34904761497
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2021-10-13",
+        "marketCap": 34555116928
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2021-10-12",
+        "marketCap": 34563644844
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2021-10-11",
+        "marketCap": 35876943958
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2021-10-08",
+        "marketCap": 35629634384
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2021-10-07",
+        "marketCap": 35680801882
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2021-10-06",
+        "marketCap": 35868416041
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2021-10-05",
+        "marketCap": 35825776460
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2021-10-04",
+        "marketCap": 34904761497
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2021-10-01",
+        "marketCap": 35731969380
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2021-09-30",
+        "marketCap": 35885471874
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2021-09-29",
+        "marketCap": 27524193948
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2021-09-28",
+        "marketCap": 28475064548
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2021-09-27",
+        "marketCap": 28564408094
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2021-09-24",
+        "marketCap": 28660133323
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2021-09-23",
+        "marketCap": 29317446556
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2021-09-22",
+        "marketCap": 29917324653
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2021-09-21",
+        "marketCap": 26988132670
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2021-09-20",
+        "marketCap": 25973445251
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2021-09-17",
+        "marketCap": 27045567807
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2021-09-16",
+        "marketCap": 26771155486
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2021-09-15",
+        "marketCap": 26720102031
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2021-09-14",
+        "marketCap": 25539490883
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2021-09-13",
+        "marketCap": 25909628432
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2021-09-10",
+        "marketCap": 26273384299
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2021-09-09",
+        "marketCap": 26343582800
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2021-09-08",
+        "marketCap": 25558635929
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2021-09-07",
+        "marketCap": 26886025760
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2021-09-03",
+        "marketCap": 27664590949
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2021-09-02",
+        "marketCap": 28392102684
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2021-09-01",
+        "marketCap": 28443156139
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2021-08-31",
+        "marketCap": 28283614092
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2021-08-30",
+        "marketCap": 27849659724
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2021-08-27",
+        "marketCap": 29910942971
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2021-08-26",
+        "marketCap": 29904561289
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2021-08-25",
+        "marketCap": 31257477848
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2021-08-24",
+        "marketCap": 31512745123
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2021-08-23",
+        "marketCap": 28902637234
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2021-08-20",
+        "marketCap": 27211491536
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2021-08-19",
+        "marketCap": 28519736321
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2021-08-18",
+        "marketCap": 31780775762
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2021-08-17",
+        "marketCap": 29783309333
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2021-08-16",
+        "marketCap": 30115156791
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2021-08-13",
+        "marketCap": 32310455358
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2021-08-12",
+        "marketCap": 30695889842
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2021-08-11",
+        "marketCap": 32667829543
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2021-08-10",
+        "marketCap": 34422792060
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2021-08-09",
+        "marketCap": 36267098124
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2021-08-06",
+        "marketCap": 35105632021
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2021-08-05",
+        "marketCap": 32527432542
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2021-08-04",
+        "marketCap": 44920658753
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2021-08-03",
+        "marketCap": 29866271198
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2021-08-02",
+        "marketCap": 24046177323
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2021-07-30",
+        "marketCap": 22431611808
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2021-07-29",
+        "marketCap": 22221016306
+    }
+]

@@ -1,0 +1,770 @@
+[
+    {
+        "date": "2024-10-18",
+        "symbol": "PG",
+        "actualEarningResult": 1.93,
+        "estimatedEarning": 1.9
+    },
+    {
+        "date": "2024-07-30",
+        "symbol": "PG",
+        "actualEarningResult": 1.4,
+        "estimatedEarning": 1.37
+    },
+    {
+        "date": "2024-04-19",
+        "symbol": "PG",
+        "actualEarningResult": 1.52,
+        "estimatedEarning": 1.41
+    },
+    {
+        "date": "2024-01-23",
+        "symbol": "PG",
+        "actualEarningResult": 1.84,
+        "estimatedEarning": 1.7
+    },
+    {
+        "date": "2023-10-18",
+        "symbol": "PG",
+        "actualEarningResult": 1.83,
+        "estimatedEarning": 1.72
+    },
+    {
+        "date": "2023-07-28",
+        "symbol": "PG",
+        "actualEarningResult": 1.37,
+        "estimatedEarning": 1.32
+    },
+    {
+        "date": "2023-04-21",
+        "symbol": "PG",
+        "actualEarningResult": 1.37,
+        "estimatedEarning": 1.32
+    },
+    {
+        "date": "2023-01-19",
+        "symbol": "PG",
+        "actualEarningResult": 1.59,
+        "estimatedEarning": 1.59
+    },
+    {
+        "date": "2022-10-19",
+        "symbol": "PG",
+        "actualEarningResult": 1.57,
+        "estimatedEarning": 1.54
+    },
+    {
+        "date": "2022-07-29",
+        "symbol": "PG",
+        "actualEarningResult": 1.21,
+        "estimatedEarning": 1.22
+    },
+    {
+        "date": "2022-04-20",
+        "symbol": "PG",
+        "actualEarningResult": 1.33,
+        "estimatedEarning": 1.29
+    },
+    {
+        "date": "2022-01-19",
+        "symbol": "PG",
+        "actualEarningResult": 1.66,
+        "estimatedEarning": 1.65
+    },
+    {
+        "date": "2021-10-19",
+        "symbol": "PG",
+        "actualEarningResult": 1.61,
+        "estimatedEarning": 1.59
+    },
+    {
+        "date": "2021-07-30",
+        "symbol": "PG",
+        "actualEarningResult": 1.13,
+        "estimatedEarning": 1.08
+    },
+    {
+        "date": "2021-04-20",
+        "symbol": "PG",
+        "actualEarningResult": 1.26,
+        "estimatedEarning": 1.19
+    },
+    {
+        "date": "2021-01-20",
+        "symbol": "PG",
+        "actualEarningResult": 1.64,
+        "estimatedEarning": 1.51
+    },
+    {
+        "date": "2020-10-20",
+        "symbol": "PG",
+        "actualEarningResult": 1.63,
+        "estimatedEarning": 1.42
+    },
+    {
+        "date": "2020-07-30",
+        "symbol": "PG",
+        "actualEarningResult": 1.16,
+        "estimatedEarning": 1.01
+    },
+    {
+        "date": "2020-04-17",
+        "symbol": "PG",
+        "actualEarningResult": 1.17,
+        "estimatedEarning": 1.13
+    },
+    {
+        "date": "2020-01-23",
+        "symbol": "PG",
+        "actualEarningResult": 1.42,
+        "estimatedEarning": 1.37
+    },
+    {
+        "date": "2019-10-22",
+        "symbol": "PG",
+        "actualEarningResult": 1.37,
+        "estimatedEarning": 1.24
+    },
+    {
+        "date": "2019-07-30",
+        "symbol": "PG",
+        "actualEarningResult": 1.1,
+        "estimatedEarning": 1.06
+    },
+    {
+        "date": "2019-04-23",
+        "symbol": "PG",
+        "actualEarningResult": 1.06,
+        "estimatedEarning": 1.03
+    },
+    {
+        "date": "2019-01-23",
+        "symbol": "PG",
+        "actualEarningResult": 1.25,
+        "estimatedEarning": 1.21
+    },
+    {
+        "date": "2018-10-19",
+        "symbol": "PG",
+        "actualEarningResult": 1.12,
+        "estimatedEarning": 1.09
+    },
+    {
+        "date": "2018-07-31",
+        "symbol": "PG",
+        "actualEarningResult": 0.94,
+        "estimatedEarning": 0.9
+    },
+    {
+        "date": "2018-04-19",
+        "symbol": "PG",
+        "actualEarningResult": 1,
+        "estimatedEarning": 0.98
+    },
+    {
+        "date": "2018-01-23",
+        "symbol": "PG",
+        "actualEarningResult": 1.19,
+        "estimatedEarning": 1.14
+    },
+    {
+        "date": "2017-10-20",
+        "symbol": "PG",
+        "actualEarningResult": 1.09,
+        "estimatedEarning": 1.08
+    },
+    {
+        "date": "2017-07-27",
+        "symbol": "PG",
+        "actualEarningResult": 0.85,
+        "estimatedEarning": 0.78
+    },
+    {
+        "date": "2017-04-26",
+        "symbol": "PG",
+        "actualEarningResult": 0.96,
+        "estimatedEarning": 0.94
+    },
+    {
+        "date": "2017-01-20",
+        "symbol": "PG",
+        "actualEarningResult": 1.08,
+        "estimatedEarning": 1.06
+    },
+    {
+        "date": "2016-10-25",
+        "symbol": "PG",
+        "actualEarningResult": 1.03,
+        "estimatedEarning": 0.98
+    },
+    {
+        "date": "2016-08-02",
+        "symbol": "PG",
+        "actualEarningResult": 0.79,
+        "estimatedEarning": 0.74
+    },
+    {
+        "date": "2016-04-26",
+        "symbol": "PG",
+        "actualEarningResult": 0.86,
+        "estimatedEarning": 0.82
+    },
+    {
+        "date": "2016-01-26",
+        "symbol": "PG",
+        "actualEarningResult": 1.04,
+        "estimatedEarning": 0.98
+    },
+    {
+        "date": "2015-10-23",
+        "symbol": "PG",
+        "actualEarningResult": 0.98,
+        "estimatedEarning": 0.95
+    },
+    {
+        "date": "2015-07-30",
+        "symbol": "PG",
+        "actualEarningResult": 1,
+        "estimatedEarning": 0.94
+    },
+    {
+        "date": "2015-04-23",
+        "symbol": "PG",
+        "actualEarningResult": 0.92,
+        "estimatedEarning": 0.92
+    },
+    {
+        "date": "2015-01-27",
+        "symbol": "PG",
+        "actualEarningResult": 1.06,
+        "estimatedEarning": 1.13
+    },
+    {
+        "date": "2014-10-24",
+        "symbol": "PG",
+        "actualEarningResult": 1.07,
+        "estimatedEarning": 1.08
+    },
+    {
+        "date": "2014-08-01",
+        "symbol": "PG",
+        "actualEarningResult": 0.95,
+        "estimatedEarning": 0.91
+    },
+    {
+        "date": "2014-04-23",
+        "symbol": "PG",
+        "actualEarningResult": 1.04,
+        "estimatedEarning": 1.01
+    },
+    {
+        "date": "2014-01-24",
+        "symbol": "PG",
+        "actualEarningResult": 1.21,
+        "estimatedEarning": 1.2
+    },
+    {
+        "date": "2013-10-25",
+        "symbol": "PG",
+        "actualEarningResult": 1.05,
+        "estimatedEarning": 1.05
+    },
+    {
+        "date": "2013-08-01",
+        "symbol": "PG",
+        "actualEarningResult": 0.79,
+        "estimatedEarning": 0.77
+    },
+    {
+        "date": "2013-04-24",
+        "symbol": "PG",
+        "actualEarningResult": 0.99,
+        "estimatedEarning": 0.96
+    },
+    {
+        "date": "2013-01-25",
+        "symbol": "PG",
+        "actualEarningResult": 1.22,
+        "estimatedEarning": 1.11
+    },
+    {
+        "date": "2012-10-25",
+        "symbol": "PG",
+        "actualEarningResult": 1.06,
+        "estimatedEarning": 0.96
+    },
+    {
+        "date": "2012-08-03",
+        "symbol": "PG",
+        "actualEarningResult": 0.82,
+        "estimatedEarning": 0.77
+    },
+    {
+        "date": "2012-04-27",
+        "symbol": "PG",
+        "actualEarningResult": 0.94,
+        "estimatedEarning": 0.93
+    },
+    {
+        "date": "2012-01-27",
+        "symbol": "PG",
+        "actualEarningResult": 1.1,
+        "estimatedEarning": 1.08
+    },
+    {
+        "date": "2011-10-27",
+        "symbol": "PG",
+        "actualEarningResult": 1.03,
+        "estimatedEarning": 1.03
+    },
+    {
+        "date": "2011-08-05",
+        "symbol": "PG",
+        "actualEarningResult": 0.84,
+        "estimatedEarning": 0.82
+    },
+    {
+        "date": "2011-04-28",
+        "symbol": "PG",
+        "actualEarningResult": 0.96,
+        "estimatedEarning": 0.97
+    },
+    {
+        "date": "2011-01-27",
+        "symbol": "PG",
+        "actualEarningResult": 1.13,
+        "estimatedEarning": 1.1
+    },
+    {
+        "date": "2010-10-27",
+        "symbol": "PG",
+        "actualEarningResult": 1.02,
+        "estimatedEarning": 1
+    },
+    {
+        "date": "2010-08-03",
+        "symbol": "PG",
+        "actualEarningResult": 0.71,
+        "estimatedEarning": 0.73
+    },
+    {
+        "date": "2010-04-29",
+        "symbol": "PG",
+        "actualEarningResult": 0.83,
+        "estimatedEarning": 0.82
+    },
+    {
+        "date": "2010-01-28",
+        "symbol": "PG",
+        "actualEarningResult": 1.49,
+        "estimatedEarning": 1.42
+    },
+    {
+        "date": "2009-10-29",
+        "symbol": "PG",
+        "actualEarningResult": 1.06,
+        "estimatedEarning": 0.99
+    },
+    {
+        "date": "2009-08-05",
+        "symbol": "PG",
+        "actualEarningResult": 0.8,
+        "estimatedEarning": 0.79
+    },
+    {
+        "date": "2009-04-30",
+        "symbol": "PG",
+        "actualEarningResult": 0.84,
+        "estimatedEarning": 0.8
+    },
+    {
+        "date": "2009-01-30",
+        "symbol": "PG",
+        "actualEarningResult": 1.58,
+        "estimatedEarning": 1.58
+    },
+    {
+        "date": "2008-10-29",
+        "symbol": "PG",
+        "actualEarningResult": 1.03,
+        "estimatedEarning": 0.98
+    },
+    {
+        "date": "2008-08-05",
+        "symbol": "PG",
+        "actualEarningResult": 0.92,
+        "estimatedEarning": 0.78
+    },
+    {
+        "date": "2008-04-30",
+        "symbol": "PG",
+        "actualEarningResult": 0.82,
+        "estimatedEarning": 0.81
+    },
+    {
+        "date": "2008-01-31",
+        "symbol": "PG",
+        "actualEarningResult": 0.98,
+        "estimatedEarning": 0.97
+    },
+    {
+        "date": "2007-10-30",
+        "symbol": "PG",
+        "actualEarningResult": 0.92,
+        "estimatedEarning": 0.89
+    },
+    {
+        "date": "2007-08-03",
+        "symbol": "PG",
+        "actualEarningResult": 0.67,
+        "estimatedEarning": 0.66
+    },
+    {
+        "date": "2007-05-01",
+        "symbol": "PG",
+        "actualEarningResult": 0.74,
+        "estimatedEarning": 0.74
+    },
+    {
+        "date": "2007-01-30",
+        "symbol": "PG",
+        "actualEarningResult": 0.84,
+        "estimatedEarning": 0.83
+    },
+    {
+        "date": "2006-10-31",
+        "symbol": "PG",
+        "actualEarningResult": 0.79,
+        "estimatedEarning": 0.78
+    },
+    {
+        "date": "2006-08-02",
+        "symbol": "PG",
+        "actualEarningResult": 0.55,
+        "estimatedEarning": 0.54
+    },
+    {
+        "date": "2006-05-03",
+        "symbol": "PG",
+        "actualEarningResult": 0.63,
+        "estimatedEarning": 0.61
+    },
+    {
+        "date": "2006-01-27",
+        "symbol": "PG",
+        "actualEarningResult": 0.72,
+        "estimatedEarning": 0.69
+    },
+    {
+        "date": "2005-11-01",
+        "symbol": "PG",
+        "actualEarningResult": 0.77,
+        "estimatedEarning": 0.76
+    },
+    {
+        "date": "2005-08-01",
+        "symbol": "PG",
+        "actualEarningResult": 0.56,
+        "estimatedEarning": 0.55
+    },
+    {
+        "date": "2005-04-28",
+        "symbol": "PG",
+        "actualEarningResult": 0.63,
+        "estimatedEarning": 0.61
+    },
+    {
+        "date": "2005-01-27",
+        "symbol": "PG",
+        "actualEarningResult": 0.74,
+        "estimatedEarning": 0.72
+    },
+    {
+        "date": "2004-10-27",
+        "symbol": "PG",
+        "actualEarningResult": 0.73,
+        "estimatedEarning": 0.72
+    },
+    {
+        "date": "2004-08-02",
+        "symbol": "PG",
+        "actualEarningResult": 0.5,
+        "estimatedEarning": 0.48
+    },
+    {
+        "date": "2004-04-30",
+        "symbol": "PG",
+        "actualEarningResult": 0.55,
+        "estimatedEarning": 0.54
+    },
+    {
+        "date": "2004-01-28",
+        "symbol": "PG",
+        "actualEarningResult": 0.65,
+        "estimatedEarning": 0.64
+    },
+    {
+        "date": "2003-10-27",
+        "symbol": "PG",
+        "actualEarningResult": 0.63,
+        "estimatedEarning": 0.63
+    },
+    {
+        "date": "2003-07-31",
+        "symbol": "PG",
+        "actualEarningResult": 0.43,
+        "estimatedEarning": 0.43
+    },
+    {
+        "date": "2003-04-28",
+        "symbol": "PG",
+        "actualEarningResult": 0.48,
+        "estimatedEarning": 0.48
+    },
+    {
+        "date": "2003-01-28",
+        "symbol": "PG",
+        "actualEarningResult": 0.56,
+        "estimatedEarning": 0.56
+    },
+    {
+        "date": "2002-10-29",
+        "symbol": "PG",
+        "actualEarningResult": 0.56,
+        "estimatedEarning": 0.55
+    },
+    {
+        "date": "2002-08-05",
+        "symbol": "PG",
+        "actualEarningResult": 0.38,
+        "estimatedEarning": 0.37
+    },
+    {
+        "date": "2002-04-30",
+        "symbol": "PG",
+        "actualEarningResult": 0.42,
+        "estimatedEarning": 0.41
+    },
+    {
+        "date": "2002-01-31",
+        "symbol": "PG",
+        "actualEarningResult": 0.51,
+        "estimatedEarning": 0.51
+    },
+    {
+        "date": "2001-10-30",
+        "symbol": "PG",
+        "actualEarningResult": 0.48,
+        "estimatedEarning": 0.47
+    },
+    {
+        "date": "2001-08-07",
+        "symbol": "PG",
+        "actualEarningResult": 0.3,
+        "estimatedEarning": 0.29
+    },
+    {
+        "date": "2001-05-01",
+        "symbol": "PG",
+        "actualEarningResult": 0.36,
+        "estimatedEarning": 0.35
+    },
+    {
+        "date": "2001-01-30",
+        "symbol": "PG",
+        "actualEarningResult": 0.47,
+        "estimatedEarning": 0.46
+    },
+    {
+        "date": "2000-10-31",
+        "symbol": "PG",
+        "actualEarningResult": 0.44,
+        "estimatedEarning": 0.5
+    },
+    {
+        "date": "2000-08-01",
+        "symbol": "PG",
+        "actualEarningResult": 0.28,
+        "estimatedEarning": 0.27
+    },
+    {
+        "date": "2000-04-25",
+        "symbol": "PG",
+        "actualEarningResult": 0.32,
+        "estimatedEarning": 0.32
+    },
+    {
+        "date": "2000-01-25",
+        "symbol": "PG",
+        "actualEarningResult": 0.44,
+        "estimatedEarning": 0.44
+    },
+    {
+        "date": "1999-10-28",
+        "symbol": "PG",
+        "actualEarningResult": 0.44,
+        "estimatedEarning": 0.44
+    },
+    {
+        "date": "1999-07-29",
+        "symbol": "PG",
+        "actualEarningResult": 0.28,
+        "estimatedEarning": 0.27
+    },
+    {
+        "date": "1999-04-22",
+        "symbol": "PG",
+        "actualEarningResult": 0.38,
+        "estimatedEarning": 0.35
+    },
+    {
+        "date": "1999-01-25",
+        "symbol": "PG",
+        "actualEarningResult": 0.39,
+        "estimatedEarning": 0.39
+    },
+    {
+        "date": "1998-10-22",
+        "symbol": "PG",
+        "actualEarningResult": 0.4,
+        "estimatedEarning": 0.39
+    },
+    {
+        "date": "1998-07-30",
+        "symbol": "PG",
+        "actualEarningResult": 0.25,
+        "estimatedEarning": 0.24
+    },
+    {
+        "date": "1998-04-23",
+        "symbol": "PG",
+        "actualEarningResult": 0.33,
+        "estimatedEarning": 0.32
+    },
+    {
+        "date": "1998-01-27",
+        "symbol": "PG",
+        "actualEarningResult": 0.38,
+        "estimatedEarning": 0.38
+    },
+    {
+        "date": "1997-10-22",
+        "symbol": "PG",
+        "actualEarningResult": 0.4,
+        "estimatedEarning": 0.39
+    },
+    {
+        "date": "1997-07-31",
+        "symbol": "PG",
+        "actualEarningResult": 0.22,
+        "estimatedEarning": 0.21
+    },
+    {
+        "date": "1997-04-24",
+        "symbol": "PG",
+        "actualEarningResult": 0.32,
+        "estimatedEarning": 0.31
+    },
+    {
+        "date": "1997-01-28",
+        "symbol": "PG",
+        "actualEarningResult": 0.34,
+        "estimatedEarning": 0.33
+    },
+    {
+        "date": "1996-10-24",
+        "symbol": "PG",
+        "actualEarningResult": 0.35,
+        "estimatedEarning": 0.34
+    },
+    {
+        "date": "1996-08-08",
+        "symbol": "PG",
+        "actualEarningResult": 0.19,
+        "estimatedEarning": 0.19
+    },
+    {
+        "date": "1996-04-25",
+        "symbol": "PG",
+        "actualEarningResult": 0.27,
+        "estimatedEarning": 0.27
+    },
+    {
+        "date": "1996-01-25",
+        "symbol": "PG",
+        "actualEarningResult": 0.3,
+        "estimatedEarning": 0.3
+    },
+    {
+        "date": "1995-10-25",
+        "symbol": "PG",
+        "actualEarningResult": 0.32,
+        "estimatedEarning": 0.32
+    },
+    {
+        "date": "1995-08-10",
+        "symbol": "PG",
+        "actualEarningResult": 0.16,
+        "estimatedEarning": 0.16
+    },
+    {
+        "date": "1995-04-27",
+        "symbol": "PG",
+        "actualEarningResult": 0.24,
+        "estimatedEarning": 0.23
+    },
+    {
+        "date": "1995-01-26",
+        "symbol": "PG",
+        "actualEarningResult": 0.27,
+        "estimatedEarning": 0.26
+    },
+    {
+        "date": "1994-10-26",
+        "symbol": "PG",
+        "actualEarningResult": 0.28,
+        "estimatedEarning": 0.27
+    },
+    {
+        "date": "1994-08-10",
+        "symbol": "PG",
+        "actualEarningResult": 0.14,
+        "estimatedEarning": 0.13
+    },
+    {
+        "date": "1994-04-27",
+        "symbol": "PG",
+        "actualEarningResult": 0.2,
+        "estimatedEarning": 0.2
+    },
+    {
+        "date": "1994-01-28",
+        "symbol": "PG",
+        "actualEarningResult": 0.23,
+        "estimatedEarning": 0.23
+    },
+    {
+        "date": "1993-10-26",
+        "symbol": "PG",
+        "actualEarningResult": 0.24,
+        "estimatedEarning": 0.23
+    },
+    {
+        "date": "1993-08-10",
+        "symbol": "PG",
+        "actualEarningResult": 0.12,
+        "estimatedEarning": 0.12
+    },
+    {
+        "date": "1993-04-27",
+        "symbol": "PG",
+        "actualEarningResult": 0.18,
+        "estimatedEarning": 0.17
+    },
+    {
+        "date": "1993-01-28",
+        "symbol": "PG",
+        "actualEarningResult": 0.21,
+        "estimatedEarning": 0.21
+    }
+]

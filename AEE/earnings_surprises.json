@@ -1,0 +1,764 @@
+[
+    {
+        "date": "2024-11-06",
+        "symbol": "AEE",
+        "actualEarningResult": 1.87,
+        "estimatedEarning": 1.91
+    },
+    {
+        "date": "2024-08-01",
+        "symbol": "AEE",
+        "actualEarningResult": 0.97,
+        "estimatedEarning": 0.93
+    },
+    {
+        "date": "2024-02-22",
+        "symbol": "AEE",
+        "actualEarningResult": 0.6,
+        "estimatedEarning": 1.06
+    },
+    {
+        "date": "2024-01-11",
+        "symbol": "AEE",
+        "actualEarningResult": 0.6,
+        "estimatedEarning": 0.61
+    },
+    {
+        "date": "2023-11-08",
+        "symbol": "AEE",
+        "actualEarningResult": 1.87,
+        "estimatedEarning": 1.82
+    },
+    {
+        "date": "2023-08-02",
+        "symbol": "AEE",
+        "actualEarningResult": 0.9,
+        "estimatedEarning": 0.8
+    },
+    {
+        "date": "2023-05-04",
+        "symbol": "AEE",
+        "actualEarningResult": 1,
+        "estimatedEarning": 0.94
+    },
+    {
+        "date": "2023-02-15",
+        "symbol": "AEE",
+        "actualEarningResult": 0.63,
+        "estimatedEarning": 0.56
+    },
+    {
+        "date": "2022-11-03",
+        "symbol": "AEE",
+        "actualEarningResult": 1.74,
+        "estimatedEarning": 1.74
+    },
+    {
+        "date": "2022-08-04",
+        "symbol": "AEE",
+        "actualEarningResult": 0.8,
+        "estimatedEarning": 0.83
+    },
+    {
+        "date": "2022-05-05",
+        "symbol": "AEE",
+        "actualEarningResult": 0.97,
+        "estimatedEarning": 0.98
+    },
+    {
+        "date": "2022-02-17",
+        "symbol": "AEE",
+        "actualEarningResult": 0.48,
+        "estimatedEarning": 0.49
+    },
+    {
+        "date": "2021-11-03",
+        "symbol": "AEE",
+        "actualEarningResult": 1.65,
+        "estimatedEarning": 1.61
+    },
+    {
+        "date": "2021-08-05",
+        "symbol": "AEE",
+        "actualEarningResult": 0.8,
+        "estimatedEarning": 0.78
+    },
+    {
+        "date": "2021-05-10",
+        "symbol": "AEE",
+        "actualEarningResult": 0.91,
+        "estimatedEarning": 0.74
+    },
+    {
+        "date": "2021-02-18",
+        "symbol": "AEE",
+        "actualEarningResult": 0.46,
+        "estimatedEarning": 0.42
+    },
+    {
+        "date": "2020-11-04",
+        "symbol": "AEE",
+        "actualEarningResult": 1.47,
+        "estimatedEarning": 1.47
+    },
+    {
+        "date": "2020-08-06",
+        "symbol": "AEE",
+        "actualEarningResult": 0.98,
+        "estimatedEarning": 0.87
+    },
+    {
+        "date": "2020-05-11",
+        "symbol": "AEE",
+        "actualEarningResult": 0.59,
+        "estimatedEarning": 0.7
+    },
+    {
+        "date": "2020-02-26",
+        "symbol": "AEE",
+        "actualEarningResult": 0.38,
+        "estimatedEarning": 0.31
+    },
+    {
+        "date": "2019-11-08",
+        "symbol": "AEE",
+        "actualEarningResult": 1.47,
+        "estimatedEarning": 1.45
+    },
+    {
+        "date": "2019-08-02",
+        "symbol": "AEE",
+        "actualEarningResult": 0.72,
+        "estimatedEarning": 0.75
+    },
+    {
+        "date": "2019-05-09",
+        "symbol": "AEE",
+        "actualEarningResult": 0.78,
+        "estimatedEarning": 0.68
+    },
+    {
+        "date": "2019-02-14",
+        "symbol": "AEE",
+        "actualEarningResult": 0.28,
+        "estimatedEarning": 0.32
+    },
+    {
+        "date": "2018-10-31",
+        "symbol": "AEE",
+        "actualEarningResult": 1.5,
+        "estimatedEarning": 1.31
+    },
+    {
+        "date": "2018-08-03",
+        "symbol": "AEE",
+        "actualEarningResult": 0.97,
+        "estimatedEarning": 0.78
+    },
+    {
+        "date": "2018-05-09",
+        "symbol": "AEE",
+        "actualEarningResult": 0.62,
+        "estimatedEarning": 0.58
+    },
+    {
+        "date": "2018-02-16",
+        "symbol": "AEE",
+        "actualEarningResult": 0.39,
+        "estimatedEarning": 0.34
+    },
+    {
+        "date": "2017-11-03",
+        "symbol": "AEE",
+        "actualEarningResult": 1.24,
+        "estimatedEarning": 1.33
+    },
+    {
+        "date": "2017-08-04",
+        "symbol": "AEE",
+        "actualEarningResult": 0.79,
+        "estimatedEarning": 0.7
+    },
+    {
+        "date": "2017-05-04",
+        "symbol": "AEE",
+        "actualEarningResult": 0.42,
+        "estimatedEarning": 0.39
+    },
+    {
+        "date": "2017-02-16",
+        "symbol": "AEE",
+        "actualEarningResult": 0.13,
+        "estimatedEarning": 0.15
+    },
+    {
+        "date": "2016-11-04",
+        "symbol": "AEE",
+        "actualEarningResult": 1.52,
+        "estimatedEarning": 1.38
+    },
+    {
+        "date": "2016-08-05",
+        "symbol": "AEE",
+        "actualEarningResult": 0.61,
+        "estimatedEarning": 0.52
+    },
+    {
+        "date": "2016-05-10",
+        "symbol": "AEE",
+        "actualEarningResult": 0.43,
+        "estimatedEarning": 0.38
+    },
+    {
+        "date": "2016-02-19",
+        "symbol": "AEE",
+        "actualEarningResult": 0.12,
+        "estimatedEarning": 0.16
+    },
+    {
+        "date": "2015-11-06",
+        "symbol": "AEE",
+        "actualEarningResult": 1.41,
+        "estimatedEarning": 1.3
+    },
+    {
+        "date": "2015-07-31",
+        "symbol": "AEE",
+        "actualEarningResult": 0.58,
+        "estimatedEarning": 0.61
+    },
+    {
+        "date": "2015-05-07",
+        "symbol": "AEE",
+        "actualEarningResult": 0.45,
+        "estimatedEarning": 0.38
+    },
+    {
+        "date": "2015-02-25",
+        "symbol": "AEE",
+        "actualEarningResult": 0.19,
+        "estimatedEarning": 0.14
+    },
+    {
+        "date": "2014-11-06",
+        "symbol": "AEE",
+        "actualEarningResult": 1.2,
+        "estimatedEarning": 1.22
+    },
+    {
+        "date": "2014-08-05",
+        "symbol": "AEE",
+        "actualEarningResult": 0.62,
+        "estimatedEarning": 0.58
+    },
+    {
+        "date": "2014-05-08",
+        "symbol": "AEE",
+        "actualEarningResult": 0.4,
+        "estimatedEarning": 0.31
+    },
+    {
+        "date": "2014-02-21",
+        "symbol": "AEE",
+        "actualEarningResult": 0.19,
+        "estimatedEarning": 0.12
+    },
+    {
+        "date": "2013-11-07",
+        "symbol": "AEE",
+        "actualEarningResult": 1.25,
+        "estimatedEarning": 1.24
+    },
+    {
+        "date": "2013-08-01",
+        "symbol": "AEE",
+        "actualEarningResult": 0.44,
+        "estimatedEarning": 0.49
+    },
+    {
+        "date": "2013-05-02",
+        "symbol": "AEE",
+        "actualEarningResult": 0.22,
+        "estimatedEarning": 0.28
+    },
+    {
+        "date": "2013-02-20",
+        "symbol": "AEE",
+        "actualEarningResult": 0.14,
+        "estimatedEarning": 0.22
+    },
+    {
+        "date": "2012-11-09",
+        "symbol": "AEE",
+        "actualEarningResult": 1.33,
+        "estimatedEarning": 1.41
+    },
+    {
+        "date": "2012-08-02",
+        "symbol": "AEE",
+        "actualEarningResult": 0.73,
+        "estimatedEarning": 0.62
+    },
+    {
+        "date": "2012-05-04",
+        "symbol": "AEE",
+        "actualEarningResult": 0.22,
+        "estimatedEarning": 0.23
+    },
+    {
+        "date": "2012-02-23",
+        "symbol": "AEE",
+        "actualEarningResult": 0.14,
+        "estimatedEarning": 0.15
+    },
+    {
+        "date": "2011-11-04",
+        "symbol": "AEE",
+        "actualEarningResult": 1.57,
+        "estimatedEarning": 1.29
+    },
+    {
+        "date": "2011-08-04",
+        "symbol": "AEE",
+        "actualEarningResult": 0.59,
+        "estimatedEarning": 0.62
+    },
+    {
+        "date": "2011-05-05",
+        "symbol": "AEE",
+        "actualEarningResult": 0.25,
+        "estimatedEarning": 0.37
+    },
+    {
+        "date": "2011-02-22",
+        "symbol": "AEE",
+        "actualEarningResult": 0.22,
+        "estimatedEarning": 0.23
+    },
+    {
+        "date": "2010-10-29",
+        "symbol": "AEE",
+        "actualEarningResult": 1.4,
+        "estimatedEarning": 1.26
+    },
+    {
+        "date": "2010-08-05",
+        "symbol": "AEE",
+        "actualEarningResult": 0.73,
+        "estimatedEarning": 0.5
+    },
+    {
+        "date": "2010-05-05",
+        "symbol": "AEE",
+        "actualEarningResult": 0.4,
+        "estimatedEarning": 0.37
+    },
+    {
+        "date": "2010-02-18",
+        "symbol": "AEE",
+        "actualEarningResult": 0.37,
+        "estimatedEarning": 0.27
+    },
+    {
+        "date": "2009-10-30",
+        "symbol": "AEE",
+        "actualEarningResult": 1.16,
+        "estimatedEarning": 1.02
+    },
+    {
+        "date": "2009-08-06",
+        "symbol": "AEE",
+        "actualEarningResult": 0.75,
+        "estimatedEarning": 0.67
+    },
+    {
+        "date": "2009-05-01",
+        "symbol": "AEE",
+        "actualEarningResult": 0.54,
+        "estimatedEarning": 0.57
+    },
+    {
+        "date": "2009-02-13",
+        "symbol": "AEE",
+        "actualEarningResult": 0.45,
+        "estimatedEarning": 0.36
+    },
+    {
+        "date": "2008-11-04",
+        "symbol": "AEE",
+        "actualEarningResult": 1.17,
+        "estimatedEarning": 1.25
+    },
+    {
+        "date": "2008-08-01",
+        "symbol": "AEE",
+        "actualEarningResult": 0.67,
+        "estimatedEarning": 0.73
+    },
+    {
+        "date": "2008-05-02",
+        "symbol": "AEE",
+        "actualEarningResult": 0.64,
+        "estimatedEarning": 0.5
+    },
+    {
+        "date": "2008-02-14",
+        "symbol": "AEE",
+        "actualEarningResult": 0.61,
+        "estimatedEarning": 0.57
+    },
+    {
+        "date": "2007-11-09",
+        "symbol": "AEE",
+        "actualEarningResult": 1.36,
+        "estimatedEarning": 1.56
+    },
+    {
+        "date": "2007-08-02",
+        "symbol": "AEE",
+        "actualEarningResult": 0.69,
+        "estimatedEarning": 0.85
+    },
+    {
+        "date": "2007-05-10",
+        "symbol": "AEE",
+        "actualEarningResult": 0.63,
+        "estimatedEarning": 0.53
+    },
+    {
+        "date": "2007-02-15",
+        "symbol": "AEE",
+        "actualEarningResult": 0.43,
+        "estimatedEarning": 0.39
+    },
+    {
+        "date": "2006-11-03",
+        "symbol": "AEE",
+        "actualEarningResult": 1.42,
+        "estimatedEarning": 1.36
+    },
+    {
+        "date": "2006-08-03",
+        "symbol": "AEE",
+        "actualEarningResult": 0.6,
+        "estimatedEarning": 0.85
+    },
+    {
+        "date": "2006-05-04",
+        "symbol": "AEE",
+        "actualEarningResult": 0.34,
+        "estimatedEarning": 0.53
+    },
+    {
+        "date": "2006-02-14",
+        "symbol": "AEE",
+        "actualEarningResult": 0.21,
+        "estimatedEarning": 0.22
+    },
+    {
+        "date": "2005-11-01",
+        "symbol": "AEE",
+        "actualEarningResult": 1.37,
+        "estimatedEarning": 1.4
+    },
+    {
+        "date": "2005-07-28",
+        "symbol": "AEE",
+        "actualEarningResult": 0.93,
+        "estimatedEarning": 0.77
+    },
+    {
+        "date": "2005-04-28",
+        "symbol": "AEE",
+        "actualEarningResult": 0.62,
+        "estimatedEarning": 0.59
+    },
+    {
+        "date": "2005-02-08",
+        "symbol": "AEE",
+        "actualEarningResult": 0.42,
+        "estimatedEarning": 0.34
+    },
+    {
+        "date": "2004-10-22",
+        "symbol": "AEE",
+        "actualEarningResult": 1.2,
+        "estimatedEarning": 1.29
+    },
+    {
+        "date": "2004-07-29",
+        "symbol": "AEE",
+        "actualEarningResult": 0.65,
+        "estimatedEarning": 0.64
+    },
+    {
+        "date": "2004-04-29",
+        "symbol": "AEE",
+        "actualEarningResult": 0.55,
+        "estimatedEarning": 0.45
+    },
+    {
+        "date": "2004-02-10",
+        "symbol": "AEE",
+        "actualEarningResult": 0.24,
+        "estimatedEarning": 0.26
+    },
+    {
+        "date": "2003-10-24",
+        "symbol": "AEE",
+        "actualEarningResult": 1.51,
+        "estimatedEarning": 1.46
+    },
+    {
+        "date": "2003-07-30",
+        "symbol": "AEE",
+        "actualEarningResult": 0.68,
+        "estimatedEarning": 0.69
+    },
+    {
+        "date": "2003-04-30",
+        "symbol": "AEE",
+        "actualEarningResult": 0.52,
+        "estimatedEarning": 0.47
+    },
+    {
+        "date": "2003-02-11",
+        "symbol": "AEE",
+        "actualEarningResult": 0.18,
+        "estimatedEarning": 0.21
+    },
+    {
+        "date": "2002-10-18",
+        "symbol": "AEE",
+        "actualEarningResult": 1.63,
+        "estimatedEarning": 1.65
+    },
+    {
+        "date": "2002-07-25",
+        "symbol": "AEE",
+        "actualEarningResult": 0.8,
+        "estimatedEarning": 0.72
+    },
+    {
+        "date": "2002-04-22",
+        "symbol": "AEE",
+        "actualEarningResult": 0.42,
+        "estimatedEarning": 0.47
+    },
+    {
+        "date": "2002-02-05",
+        "symbol": "AEE",
+        "actualEarningResult": 0.35,
+        "estimatedEarning": 0.31
+    },
+    {
+        "date": "2001-10-24",
+        "symbol": "AEE",
+        "actualEarningResult": 1.94,
+        "estimatedEarning": 1.83
+    },
+    {
+        "date": "2001-07-24",
+        "symbol": "AEE",
+        "actualEarningResult": 0.69,
+        "estimatedEarning": 0.77
+    },
+    {
+        "date": "2001-04-23",
+        "symbol": "AEE",
+        "actualEarningResult": 0.48,
+        "estimatedEarning": 0.49
+    },
+    {
+        "date": "2001-02-06",
+        "symbol": "AEE",
+        "actualEarningResult": 0.19,
+        "estimatedEarning": 0.18
+    },
+    {
+        "date": "2000-10-23",
+        "symbol": "AEE",
+        "actualEarningResult": 1.87,
+        "estimatedEarning": 1.84
+    },
+    {
+        "date": "2000-07-25",
+        "symbol": "AEE",
+        "actualEarningResult": 0.83,
+        "estimatedEarning": 0.66
+    },
+    {
+        "date": "2000-04-19",
+        "symbol": "AEE",
+        "actualEarningResult": 0.45,
+        "estimatedEarning": 0.42
+    },
+    {
+        "date": "2000-02-03",
+        "symbol": "AEE",
+        "actualEarningResult": 0.13,
+        "estimatedEarning": 0.16
+    },
+    {
+        "date": "1999-10-15",
+        "symbol": "AEE",
+        "actualEarningResult": 1.75,
+        "estimatedEarning": 1.77
+    },
+    {
+        "date": "1999-07-27",
+        "symbol": "AEE",
+        "actualEarningResult": 0.63,
+        "estimatedEarning": 0.62
+    },
+    {
+        "date": "1999-04-20",
+        "symbol": "AEE",
+        "actualEarningResult": 0.4,
+        "estimatedEarning": 0.32
+    },
+    {
+        "date": "1999-02-04",
+        "symbol": "AEE",
+        "actualEarningResult": 0.19,
+        "estimatedEarning": 0.19
+    },
+    {
+        "date": "1998-10-15",
+        "symbol": "AEE",
+        "actualEarningResult": 1.73,
+        "estimatedEarning": 1.62
+    },
+    {
+        "date": "1998-07-23",
+        "symbol": "AEE",
+        "actualEarningResult": 0.61,
+        "estimatedEarning": 0.55
+    },
+    {
+        "date": "1998-04-24",
+        "symbol": "AEE",
+        "actualEarningResult": 0.29,
+        "estimatedEarning": 0.27
+    },
+    {
+        "date": "1998-02-05",
+        "symbol": "AEE",
+        "actualEarningResult": 0.34,
+        "estimatedEarning": 0.21
+    },
+    {
+        "date": "1997-10-16",
+        "symbol": "AEE",
+        "actualEarningResult": 1.78,
+        "estimatedEarning": 1.82
+    },
+    {
+        "date": "1997-07-22",
+        "symbol": "AEE",
+        "actualEarningResult": 0.7,
+        "estimatedEarning": 0.68
+    },
+    {
+        "date": "1997-04-18",
+        "symbol": "AEE",
+        "actualEarningResult": 0.29,
+        "estimatedEarning": 0.38
+    },
+    {
+        "date": "1997-02-04",
+        "symbol": "AEE",
+        "actualEarningResult": 0.13,
+        "estimatedEarning": 0.12
+    },
+    {
+        "date": "1996-10-22",
+        "symbol": "AEE",
+        "actualEarningResult": 1.79,
+        "estimatedEarning": 1.73
+    },
+    {
+        "date": "1996-07-23",
+        "symbol": "AEE",
+        "actualEarningResult": 0.77,
+        "estimatedEarning": 0.82
+    },
+    {
+        "date": "1996-04-18",
+        "symbol": "AEE",
+        "actualEarningResult": 0.36,
+        "estimatedEarning": 0.35
+    },
+    {
+        "date": "1996-02-01",
+        "symbol": "AEE",
+        "actualEarningResult": 0.24,
+        "estimatedEarning": 0.16
+    },
+    {
+        "date": "1995-10-18",
+        "symbol": "AEE",
+        "actualEarningResult": 1.93,
+        "estimatedEarning": 1.63
+    },
+    {
+        "date": "1995-07-20",
+        "symbol": "AEE",
+        "actualEarningResult": 0.71,
+        "estimatedEarning": 0.79
+    },
+    {
+        "date": "1995-04-19",
+        "symbol": "AEE",
+        "actualEarningResult": 0.34,
+        "estimatedEarning": 0.33
+    },
+    {
+        "date": "1995-02-01",
+        "symbol": "AEE",
+        "actualEarningResult": 0.15,
+        "estimatedEarning": 0.16
+    },
+    {
+        "date": "1994-10-19",
+        "symbol": "AEE",
+        "actualEarningResult": 1.6,
+        "estimatedEarning": 1.57
+    },
+    {
+        "date": "1994-07-20",
+        "symbol": "AEE",
+        "actualEarningResult": 0.92,
+        "estimatedEarning": 0.83
+    },
+    {
+        "date": "1994-04-19",
+        "symbol": "AEE",
+        "actualEarningResult": 0.34,
+        "estimatedEarning": 0.41
+    },
+    {
+        "date": "1993-10-19",
+        "symbol": "AEE",
+        "actualEarningResult": 1.54,
+        "estimatedEarning": 1.56
+    },
+    {
+        "date": "1993-07-20",
+        "symbol": "AEE",
+        "actualEarningResult": 0.82,
+        "estimatedEarning": 0.69
+    },
+    {
+        "date": "1993-04-19",
+        "symbol": "AEE",
+        "actualEarningResult": 0.4,
+        "estimatedEarning": 0.32
+    },
+    {
+        "date": "1993-02-03",
+        "symbol": "AEE",
+        "actualEarningResult": 0.15,
+        "estimatedEarning": 0.18
+    }
+]

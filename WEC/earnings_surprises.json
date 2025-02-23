@@ -1,0 +1,770 @@
+[
+    {
+        "date": "2024-10-31",
+        "symbol": "WEC",
+        "actualEarningResult": 0.82,
+        "estimatedEarning": 0.7
+    },
+    {
+        "date": "2024-07-31",
+        "symbol": "WEC",
+        "actualEarningResult": 0.67,
+        "estimatedEarning": 0.64
+    },
+    {
+        "date": "2024-05-01",
+        "symbol": "WEC",
+        "actualEarningResult": 1.97,
+        "estimatedEarning": 1.92
+    },
+    {
+        "date": "2024-02-01",
+        "symbol": "WEC",
+        "actualEarningResult": 1.1,
+        "estimatedEarning": 1.1
+    },
+    {
+        "date": "2023-10-31",
+        "symbol": "WEC",
+        "actualEarningResult": 1,
+        "estimatedEarning": 0.91
+    },
+    {
+        "date": "2023-08-01",
+        "symbol": "WEC",
+        "actualEarningResult": 0.92,
+        "estimatedEarning": 0.85
+    },
+    {
+        "date": "2023-05-01",
+        "symbol": "WEC",
+        "actualEarningResult": 1.61,
+        "estimatedEarning": 1.59
+    },
+    {
+        "date": "2023-02-02",
+        "symbol": "WEC",
+        "actualEarningResult": 0.8,
+        "estimatedEarning": 0.75
+    },
+    {
+        "date": "2022-11-01",
+        "symbol": "WEC",
+        "actualEarningResult": 0.96,
+        "estimatedEarning": 0.86
+    },
+    {
+        "date": "2022-08-02",
+        "symbol": "WEC",
+        "actualEarningResult": 0.91,
+        "estimatedEarning": 0.85
+    },
+    {
+        "date": "2022-05-02",
+        "symbol": "WEC",
+        "actualEarningResult": 1.79,
+        "estimatedEarning": 1.67
+    },
+    {
+        "date": "2022-02-03",
+        "symbol": "WEC",
+        "actualEarningResult": 0.71,
+        "estimatedEarning": 0.68
+    },
+    {
+        "date": "2021-11-02",
+        "symbol": "WEC",
+        "actualEarningResult": 0.92,
+        "estimatedEarning": 0.79
+    },
+    {
+        "date": "2021-08-03",
+        "symbol": "WEC",
+        "actualEarningResult": 0.87,
+        "estimatedEarning": 0.79
+    },
+    {
+        "date": "2021-05-03",
+        "symbol": "WEC",
+        "actualEarningResult": 1.61,
+        "estimatedEarning": 1.47
+    },
+    {
+        "date": "2021-02-04",
+        "symbol": "WEC",
+        "actualEarningResult": 0.76,
+        "estimatedEarning": 0.73
+    },
+    {
+        "date": "2020-11-03",
+        "symbol": "WEC",
+        "actualEarningResult": 0.84,
+        "estimatedEarning": 0.76
+    },
+    {
+        "date": "2020-08-04",
+        "symbol": "WEC",
+        "actualEarningResult": 0.76,
+        "estimatedEarning": 0.68
+    },
+    {
+        "date": "2020-05-04",
+        "symbol": "WEC",
+        "actualEarningResult": 1.43,
+        "estimatedEarning": 1.32
+    },
+    {
+        "date": "2020-01-30",
+        "symbol": "WEC",
+        "actualEarningResult": 0.77,
+        "estimatedEarning": 0.72
+    },
+    {
+        "date": "2019-11-06",
+        "symbol": "WEC",
+        "actualEarningResult": 0.74,
+        "estimatedEarning": 0.71
+    },
+    {
+        "date": "2019-08-05",
+        "symbol": "WEC",
+        "actualEarningResult": 0.74,
+        "estimatedEarning": 0.7
+    },
+    {
+        "date": "2019-04-25",
+        "symbol": "WEC",
+        "actualEarningResult": 1.33,
+        "estimatedEarning": 1.25
+    },
+    {
+        "date": "2019-02-12",
+        "symbol": "WEC",
+        "actualEarningResult": 0.65,
+        "estimatedEarning": 0.63
+    },
+    {
+        "date": "2018-10-31",
+        "symbol": "WEC",
+        "actualEarningResult": 0.74,
+        "estimatedEarning": 0.71
+    },
+    {
+        "date": "2018-07-31",
+        "symbol": "WEC",
+        "actualEarningResult": 0.73,
+        "estimatedEarning": 0.67
+    },
+    {
+        "date": "2018-05-01",
+        "symbol": "WEC",
+        "actualEarningResult": 1.23,
+        "estimatedEarning": 1.17
+    },
+    {
+        "date": "2018-01-31",
+        "symbol": "WEC",
+        "actualEarningResult": 0.71,
+        "estimatedEarning": 0.67
+    },
+    {
+        "date": "2017-10-26",
+        "symbol": "WEC",
+        "actualEarningResult": 0.68,
+        "estimatedEarning": 0.67
+    },
+    {
+        "date": "2017-07-26",
+        "symbol": "WEC",
+        "actualEarningResult": 0.63,
+        "estimatedEarning": 0.58
+    },
+    {
+        "date": "2017-05-02",
+        "symbol": "WEC",
+        "actualEarningResult": 1.12,
+        "estimatedEarning": 1.06
+    },
+    {
+        "date": "2017-02-01",
+        "symbol": "WEC",
+        "actualEarningResult": 0.61,
+        "estimatedEarning": 0.61
+    },
+    {
+        "date": "2016-10-26",
+        "symbol": "WEC",
+        "actualEarningResult": 0.69,
+        "estimatedEarning": 0.61
+    },
+    {
+        "date": "2016-07-27",
+        "symbol": "WEC",
+        "actualEarningResult": 0.57,
+        "estimatedEarning": 0.56
+    },
+    {
+        "date": "2016-05-03",
+        "symbol": "WEC",
+        "actualEarningResult": 1.09,
+        "estimatedEarning": 1.01
+    },
+    {
+        "date": "2016-02-04",
+        "symbol": "WEC",
+        "actualEarningResult": 0.63,
+        "estimatedEarning": 0.64
+    },
+    {
+        "date": "2015-11-04",
+        "symbol": "WEC",
+        "actualEarningResult": 0.61,
+        "estimatedEarning": 0.59
+    },
+    {
+        "date": "2015-07-29",
+        "symbol": "WEC",
+        "actualEarningResult": 0.59,
+        "estimatedEarning": 0.55
+    },
+    {
+        "date": "2015-05-05",
+        "symbol": "WEC",
+        "actualEarningResult": 0.86,
+        "estimatedEarning": 0.83
+    },
+    {
+        "date": "2015-02-11",
+        "symbol": "WEC",
+        "actualEarningResult": 0.53,
+        "estimatedEarning": 0.56
+    },
+    {
+        "date": "2014-10-29",
+        "symbol": "WEC",
+        "actualEarningResult": 0.56,
+        "estimatedEarning": 0.52
+    },
+    {
+        "date": "2014-07-30",
+        "symbol": "WEC",
+        "actualEarningResult": 0.58,
+        "estimatedEarning": 0.52
+    },
+    {
+        "date": "2014-04-30",
+        "symbol": "WEC",
+        "actualEarningResult": 0.91,
+        "estimatedEarning": 0.84
+    },
+    {
+        "date": "2014-02-06",
+        "symbol": "WEC",
+        "actualEarningResult": 0.63,
+        "estimatedEarning": 0.59
+    },
+    {
+        "date": "2013-10-30",
+        "symbol": "WEC",
+        "actualEarningResult": 0.6,
+        "estimatedEarning": 0.56
+    },
+    {
+        "date": "2013-07-31",
+        "symbol": "WEC",
+        "actualEarningResult": 0.52,
+        "estimatedEarning": 0.46
+    },
+    {
+        "date": "2013-04-30",
+        "symbol": "WEC",
+        "actualEarningResult": 0.76,
+        "estimatedEarning": 0.71
+    },
+    {
+        "date": "2013-01-30",
+        "symbol": "WEC",
+        "actualEarningResult": 0.43,
+        "estimatedEarning": 0.41
+    },
+    {
+        "date": "2012-10-31",
+        "symbol": "WEC",
+        "actualEarningResult": 0.67,
+        "estimatedEarning": 0.57
+    },
+    {
+        "date": "2012-08-01",
+        "symbol": "WEC",
+        "actualEarningResult": 0.51,
+        "estimatedEarning": 0.44
+    },
+    {
+        "date": "2012-05-01",
+        "symbol": "WEC",
+        "actualEarningResult": 0.74,
+        "estimatedEarning": 0.73
+    },
+    {
+        "date": "2012-02-02",
+        "symbol": "WEC",
+        "actualEarningResult": 0.49,
+        "estimatedEarning": 0.48
+    },
+    {
+        "date": "2011-10-27",
+        "symbol": "WEC",
+        "actualEarningResult": 0.55,
+        "estimatedEarning": 0.49
+    },
+    {
+        "date": "2011-07-28",
+        "symbol": "WEC",
+        "actualEarningResult": 0.41,
+        "estimatedEarning": 0.39
+    },
+    {
+        "date": "2011-05-03",
+        "symbol": "WEC",
+        "actualEarningResult": 0.72,
+        "estimatedEarning": 0.66
+    },
+    {
+        "date": "2011-02-01",
+        "symbol": "WEC",
+        "actualEarningResult": 0.53,
+        "estimatedEarning": 0.51
+    },
+    {
+        "date": "2010-10-26",
+        "symbol": "WEC",
+        "actualEarningResult": 0.48,
+        "estimatedEarning": 0.43
+    },
+    {
+        "date": "2010-07-29",
+        "symbol": "WEC",
+        "actualEarningResult": 0.37,
+        "estimatedEarning": 0.34
+    },
+    {
+        "date": "2010-05-04",
+        "symbol": "WEC",
+        "actualEarningResult": 0.55,
+        "estimatedEarning": 0.51
+    },
+    {
+        "date": "2010-02-02",
+        "symbol": "WEC",
+        "actualEarningResult": 0.48,
+        "estimatedEarning": 0.45
+    },
+    {
+        "date": "2009-10-29",
+        "symbol": "WEC",
+        "actualEarningResult": 0.25,
+        "estimatedEarning": 0.26
+    },
+    {
+        "date": "2009-07-30",
+        "symbol": "WEC",
+        "actualEarningResult": 0.27,
+        "estimatedEarning": 0.21
+    },
+    {
+        "date": "2009-05-05",
+        "symbol": "WEC",
+        "actualEarningResult": 0.6,
+        "estimatedEarning": 0.51
+    },
+    {
+        "date": "2009-02-03",
+        "symbol": "WEC",
+        "actualEarningResult": 0.43,
+        "estimatedEarning": 0.36
+    },
+    {
+        "date": "2008-10-29",
+        "symbol": "WEC",
+        "actualEarningResult": 0.33,
+        "estimatedEarning": 0.28
+    },
+    {
+        "date": "2008-07-31",
+        "symbol": "WEC",
+        "actualEarningResult": 0.25,
+        "estimatedEarning": 0.24
+    },
+    {
+        "date": "2008-04-29",
+        "symbol": "WEC",
+        "actualEarningResult": 0.52,
+        "estimatedEarning": 0.43
+    },
+    {
+        "date": "2008-02-05",
+        "symbol": "WEC",
+        "actualEarningResult": 0.4,
+        "estimatedEarning": 0.35
+    },
+    {
+        "date": "2007-10-30",
+        "symbol": "WEC",
+        "actualEarningResult": 0.35,
+        "estimatedEarning": 0.34
+    },
+    {
+        "date": "2007-07-31",
+        "symbol": "WEC",
+        "actualEarningResult": 0.25,
+        "estimatedEarning": 0.18
+    },
+    {
+        "date": "2007-05-01",
+        "symbol": "WEC",
+        "actualEarningResult": 0.43,
+        "estimatedEarning": 0.4
+    },
+    {
+        "date": "2007-02-07",
+        "symbol": "WEC",
+        "actualEarningResult": 0.3,
+        "estimatedEarning": 0.3
+    },
+    {
+        "date": "2006-10-26",
+        "symbol": "WEC",
+        "actualEarningResult": 0.3,
+        "estimatedEarning": 0.28
+    },
+    {
+        "date": "2006-08-01",
+        "symbol": "WEC",
+        "actualEarningResult": 0.25,
+        "estimatedEarning": 0.23
+    },
+    {
+        "date": "2006-05-01",
+        "symbol": "WEC",
+        "actualEarningResult": 0.44,
+        "estimatedEarning": 0.38
+    },
+    {
+        "date": "2006-02-08",
+        "symbol": "WEC",
+        "actualEarningResult": 0.39,
+        "estimatedEarning": 0.35
+    },
+    {
+        "date": "2005-10-26",
+        "symbol": "WEC",
+        "actualEarningResult": 0.28,
+        "estimatedEarning": 0.27
+    },
+    {
+        "date": "2005-07-27",
+        "symbol": "WEC",
+        "actualEarningResult": 0.17,
+        "estimatedEarning": 0.12
+    },
+    {
+        "date": "2005-04-28",
+        "symbol": "WEC",
+        "actualEarningResult": 0.38,
+        "estimatedEarning": 0.36
+    },
+    {
+        "date": "2005-02-10",
+        "symbol": "WEC",
+        "actualEarningResult": 0.4,
+        "estimatedEarning": 0.39
+    },
+    {
+        "date": "2004-11-02",
+        "symbol": "WEC",
+        "actualEarningResult": 0.23,
+        "estimatedEarning": 0.22
+    },
+    {
+        "date": "2004-08-05",
+        "symbol": "WEC",
+        "actualEarningResult": 0.16,
+        "estimatedEarning": 0.13
+    },
+    {
+        "date": "2004-05-03",
+        "symbol": "WEC",
+        "actualEarningResult": 0.38,
+        "estimatedEarning": 0.38
+    },
+    {
+        "date": "2004-02-11",
+        "symbol": "WEC",
+        "actualEarningResult": 0.32,
+        "estimatedEarning": 0.31
+    },
+    {
+        "date": "2003-10-23",
+        "symbol": "WEC",
+        "actualEarningResult": 0.24,
+        "estimatedEarning": 0.21
+    },
+    {
+        "date": "2003-07-31",
+        "symbol": "WEC",
+        "actualEarningResult": 0.21,
+        "estimatedEarning": 0.17
+    },
+    {
+        "date": "2003-04-30",
+        "symbol": "WEC",
+        "actualEarningResult": 0.4,
+        "estimatedEarning": 0.36
+    },
+    {
+        "date": "2003-02-10",
+        "symbol": "WEC",
+        "actualEarningResult": 0.32,
+        "estimatedEarning": 0.35
+    },
+    {
+        "date": "2002-10-25",
+        "symbol": "WEC",
+        "actualEarningResult": 0.25,
+        "estimatedEarning": 0.24
+    },
+    {
+        "date": "2002-07-26",
+        "symbol": "WEC",
+        "actualEarningResult": 0.19,
+        "estimatedEarning": 0.15
+    },
+    {
+        "date": "2002-04-30",
+        "symbol": "WEC",
+        "actualEarningResult": 0.34,
+        "estimatedEarning": 0.33
+    },
+    {
+        "date": "2002-02-06",
+        "symbol": "WEC",
+        "actualEarningResult": 0.27,
+        "estimatedEarning": 0.27
+    },
+    {
+        "date": "2001-10-25",
+        "symbol": "WEC",
+        "actualEarningResult": 0.27,
+        "estimatedEarning": 0.24
+    },
+    {
+        "date": "2001-07-26",
+        "symbol": "WEC",
+        "actualEarningResult": 0.13,
+        "estimatedEarning": 0.13
+    },
+    {
+        "date": "2001-05-01",
+        "symbol": "WEC",
+        "actualEarningResult": 0.33,
+        "estimatedEarning": 0.29
+    },
+    {
+        "date": "2001-02-06",
+        "symbol": "WEC",
+        "actualEarningResult": 0.24,
+        "estimatedEarning": 0.22
+    },
+    {
+        "date": "2000-10-25",
+        "symbol": "WEC",
+        "actualEarningResult": 0.26,
+        "estimatedEarning": 0.33
+    },
+    {
+        "date": "2000-07-28",
+        "symbol": "WEC",
+        "actualEarningResult": 0.16,
+        "estimatedEarning": 0.19
+    },
+    {
+        "date": "2000-04-26",
+        "symbol": "WEC",
+        "actualEarningResult": 0.21,
+        "estimatedEarning": 0.24
+    },
+    {
+        "date": "2000-01-25",
+        "symbol": "WEC",
+        "actualEarningResult": 0.21,
+        "estimatedEarning": 0.26
+    },
+    {
+        "date": "1999-10-22",
+        "symbol": "WEC",
+        "actualEarningResult": 0.3,
+        "estimatedEarning": 0.28
+    },
+    {
+        "date": "1999-07-28",
+        "symbol": "WEC",
+        "actualEarningResult": 0.21,
+        "estimatedEarning": 0.19
+    },
+    {
+        "date": "1999-04-27",
+        "symbol": "WEC",
+        "actualEarningResult": 0.23,
+        "estimatedEarning": 0.25
+    },
+    {
+        "date": "1999-01-28",
+        "symbol": "WEC",
+        "actualEarningResult": 0.23,
+        "estimatedEarning": 0.28
+    },
+    {
+        "date": "1998-10-28",
+        "symbol": "WEC",
+        "actualEarningResult": 0.25,
+        "estimatedEarning": 0.28
+    },
+    {
+        "date": "1998-07-29",
+        "symbol": "WEC",
+        "actualEarningResult": 0.13,
+        "estimatedEarning": 0.14
+    },
+    {
+        "date": "1998-04-27",
+        "symbol": "WEC",
+        "actualEarningResult": 0.22,
+        "estimatedEarning": 0.22
+    },
+    {
+        "date": "1998-01-29",
+        "symbol": "WEC",
+        "actualEarningResult": 0.09,
+        "estimatedEarning": 0.26
+    },
+    {
+        "date": "1997-10-22",
+        "symbol": "WEC",
+        "actualEarningResult": 0.11,
+        "estimatedEarning": 0.19
+    },
+    {
+        "date": "1997-07-30",
+        "symbol": "WEC",
+        "actualEarningResult": 0.13,
+        "estimatedEarning": 0.08
+    },
+    {
+        "date": "1997-04-30",
+        "symbol": "WEC",
+        "actualEarningResult": 0.2,
+        "estimatedEarning": 0.28
+    },
+    {
+        "date": "1997-01-29",
+        "symbol": "WEC",
+        "actualEarningResult": 0.26,
+        "estimatedEarning": 0.28
+    },
+    {
+        "date": "1996-10-30",
+        "symbol": "WEC",
+        "actualEarningResult": 0.24,
+        "estimatedEarning": 0.25
+    },
+    {
+        "date": "1996-07-24",
+        "symbol": "WEC",
+        "actualEarningResult": 0.21,
+        "estimatedEarning": 0.22
+    },
+    {
+        "date": "1996-04-24",
+        "symbol": "WEC",
+        "actualEarningResult": 0.28,
+        "estimatedEarning": 0.3
+    },
+    {
+        "date": "1996-01-31",
+        "symbol": "WEC",
+        "actualEarningResult": 0.28,
+        "estimatedEarning": 0.31
+    },
+    {
+        "date": "1995-10-25",
+        "symbol": "WEC",
+        "actualEarningResult": 0.27,
+        "estimatedEarning": 0.26
+    },
+    {
+        "date": "1995-07-26",
+        "symbol": "WEC",
+        "actualEarningResult": 0.24,
+        "estimatedEarning": 0.21
+    },
+    {
+        "date": "1995-04-26",
+        "symbol": "WEC",
+        "actualEarningResult": 0.28,
+        "estimatedEarning": 0.31
+    },
+    {
+        "date": "1995-01-25",
+        "symbol": "WEC",
+        "actualEarningResult": 0.29,
+        "estimatedEarning": 0.25
+    },
+    {
+        "date": "1994-10-26",
+        "symbol": "WEC",
+        "actualEarningResult": 0.24,
+        "estimatedEarning": 0.23
+    },
+    {
+        "date": "1994-07-27",
+        "symbol": "WEC",
+        "actualEarningResult": 0.2,
+        "estimatedEarning": 0.16
+    },
+    {
+        "date": "1994-04-27",
+        "symbol": "WEC",
+        "actualEarningResult": 0.32,
+        "estimatedEarning": 0.3
+    },
+    {
+        "date": "1994-01-26",
+        "symbol": "WEC",
+        "actualEarningResult": 0.26,
+        "estimatedEarning": 0.26
+    },
+    {
+        "date": "1993-10-27",
+        "symbol": "WEC",
+        "actualEarningResult": 0.23,
+        "estimatedEarning": 0.24
+    },
+    {
+        "date": "1993-07-28",
+        "symbol": "WEC",
+        "actualEarningResult": 0.14,
+        "estimatedEarning": 0.19
+    },
+    {
+        "date": "1993-04-28",
+        "symbol": "WEC",
+        "actualEarningResult": 0.28,
+        "estimatedEarning": 0.28
+    },
+    {
+        "date": "1993-01-27",
+        "symbol": "WEC",
+        "actualEarningResult": 0.23,
+        "estimatedEarning": 0.27
+    }
+]

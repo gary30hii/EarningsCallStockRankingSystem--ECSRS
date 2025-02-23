@@ -1,0 +1,987 @@
+[
+    {
+        "symbol": "RDDT",
+        "date": "2024-12-31",
+        "marketCap": 27649132051
+    },
+    {
+        "symbol": "RDDT",
+        "date": "2024-12-30",
+        "marketCap": 28002697188
+    },
+    {
+        "symbol": "RDDT",
+        "date": "2024-12-27",
+        "marketCap": 29357748263
+    },
+    {
+        "symbol": "RDDT",
+        "date": "2024-12-26",
+        "marketCap": 29899092014
+    },
+    {
+        "symbol": "RDDT",
+        "date": "2024-12-24",
+        "marketCap": 30012435862
+    },
+    {
+        "symbol": "RDDT",
+        "date": "2024-12-23",
+        "marketCap": 28523740548
+    },
+    {
+        "symbol": "RDDT",
+        "date": "2024-12-20",
+        "marketCap": 28878997384
+    },
+    {
+        "symbol": "RDDT",
+        "date": "2024-12-19",
+        "marketCap": 27696499629
+    },
+    {
+        "symbol": "RDDT",
+        "date": "2024-12-18",
+        "marketCap": 27177147969
+    },
+    {
+        "symbol": "RDDT",
+        "date": "2024-12-17",
+        "marketCap": 28554191134
+    },
+    {
+        "symbol": "RDDT",
+        "date": "2024-12-16",
+        "marketCap": 30129163108
+    },
+    {
+        "symbol": "RDDT",
+        "date": "2024-12-13",
+        "marketCap": 29207187033
+    },
+    {
+        "symbol": "RDDT",
+        "date": "2024-12-12",
+        "marketCap": 27660973946
+    },
+    {
+        "symbol": "RDDT",
+        "date": "2024-12-11",
+        "marketCap": 28068673458
+    },
+    {
+        "symbol": "RDDT",
+        "date": "2024-12-10",
+        "marketCap": 26378665937
+    },
+    {
+        "symbol": "RDDT",
+        "date": "2024-12-09",
+        "marketCap": 28280135860
+    },
+    {
+        "symbol": "RDDT",
+        "date": "2024-12-06",
+        "marketCap": 27534096504
+    },
+    {
+        "symbol": "RDDT",
+        "date": "2024-12-05",
+        "marketCap": 25898223358
+    },
+    {
+        "symbol": "RDDT",
+        "date": "2024-12-04",
+        "marketCap": 26091077070
+    },
+    {
+        "symbol": "RDDT",
+        "date": "2024-12-03",
+        "marketCap": 25346729413
+    },
+    {
+        "symbol": "RDDT",
+        "date": "2024-12-02",
+        "marketCap": 23961227752
+    },
+    {
+        "symbol": "RDDT",
+        "date": "2024-11-29",
+        "marketCap": 23800516326
+    },
+    {
+        "symbol": "RDDT",
+        "date": "2024-11-27",
+        "marketCap": 23690555876
+    },
+    {
+        "symbol": "RDDT",
+        "date": "2024-11-26",
+        "marketCap": 22941133122
+    },
+    {
+        "symbol": "RDDT",
+        "date": "2024-11-25",
+        "marketCap": 24005211931
+    },
+    {
+        "symbol": "RDDT",
+        "date": "2024-11-22",
+        "marketCap": 24812152459
+    },
+    {
+        "symbol": "RDDT",
+        "date": "2024-11-21",
+        "marketCap": 26732231074
+    },
+    {
+        "symbol": "RDDT",
+        "date": "2024-11-20",
+        "marketCap": 23052785270
+    },
+    {
+        "symbol": "RDDT",
+        "date": "2024-11-19",
+        "marketCap": 23203346501
+    },
+    {
+        "symbol": "RDDT",
+        "date": "2024-11-18",
+        "marketCap": 21893971305
+    },
+    {
+        "symbol": "RDDT",
+        "date": "2024-11-15",
+        "marketCap": 21109022867
+    },
+    {
+        "symbol": "RDDT",
+        "date": "2024-11-14",
+        "marketCap": 22310129313
+    },
+    {
+        "symbol": "RDDT",
+        "date": "2024-11-13",
+        "marketCap": 22340579899
+    },
+    {
+        "symbol": "RDDT",
+        "date": "2024-11-12",
+        "marketCap": 21611457535
+    },
+    {
+        "symbol": "RDDT",
+        "date": "2024-11-11",
+        "marketCap": 21861829020
+    },
+    {
+        "symbol": "RDDT",
+        "date": "2024-11-08",
+        "marketCap": 22804105485
+    },
+    {
+        "symbol": "RDDT",
+        "date": "2024-11-07",
+        "marketCap": 22235694547
+    },
+    {
+        "symbol": "RDDT",
+        "date": "2024-11-06",
+        "marketCap": 20483094155
+    },
+    {
+        "symbol": "RDDT",
+        "date": "2024-11-05",
+        "marketCap": 20735157339
+    },
+    {
+        "symbol": "RDDT",
+        "date": "2024-11-04",
+        "marketCap": 18444596595
+    },
+    {
+        "symbol": "RDDT",
+        "date": "2024-11-01",
+        "marketCap": 19112817787
+    },
+    {
+        "symbol": "RDDT",
+        "date": "2024-10-31",
+        "marketCap": 20181971694
+    },
+    {
+        "symbol": "RDDT",
+        "date": "2024-10-30",
+        "marketCap": 19632169448
+    },
+    {
+        "symbol": "RDDT",
+        "date": "2024-10-29",
+        "marketCap": 13827949424
+    },
+    {
+        "symbol": "RDDT",
+        "date": "2024-10-28",
+        "marketCap": 13479459384
+    },
+    {
+        "symbol": "RDDT",
+        "date": "2024-10-25",
+        "marketCap": 13763664853
+    },
+    {
+        "symbol": "RDDT",
+        "date": "2024-10-24",
+        "marketCap": 13296755869
+    },
+    {
+        "symbol": "RDDT",
+        "date": "2024-10-23",
+        "marketCap": 13141119540
+    },
+    {
+        "symbol": "RDDT",
+        "date": "2024-10-22",
+        "marketCap": 13075143271
+    },
+    {
+        "symbol": "RDDT",
+        "date": "2024-10-21",
+        "marketCap": 13288297373
+    },
+    {
+        "symbol": "RDDT",
+        "date": "2024-10-18",
+        "marketCap": 13685846689
+    },
+    {
+        "symbol": "RDDT",
+        "date": "2024-10-17",
+        "marketCap": 12905973349
+    },
+    {
+        "symbol": "RDDT",
+        "date": "2024-10-16",
+        "marketCap": 13070068173
+    },
+    {
+        "symbol": "RDDT",
+        "date": "2024-10-15",
+        "marketCap": 12716503036
+    },
+    {
+        "symbol": "RDDT",
+        "date": "2024-10-14",
+        "marketCap": 12665752060
+    },
+    {
+        "symbol": "RDDT",
+        "date": "2024-10-11",
+        "marketCap": 12391696786
+    },
+    {
+        "symbol": "RDDT",
+        "date": "2024-10-10",
+        "marketCap": 11824977547
+    },
+    {
+        "symbol": "RDDT",
+        "date": "2024-10-09",
+        "marketCap": 12011064462
+    },
+    {
+        "symbol": "RDDT",
+        "date": "2024-10-08",
+        "marketCap": 11972155379
+    },
+    {
+        "symbol": "RDDT",
+        "date": "2024-10-07",
+        "marketCap": 11916329305
+    },
+    {
+        "symbol": "RDDT",
+        "date": "2024-10-04",
+        "marketCap": 12244518954
+    },
+    {
+        "symbol": "RDDT",
+        "date": "2024-10-03",
+        "marketCap": 11413894637
+    },
+    {
+        "symbol": "RDDT",
+        "date": "2024-10-02",
+        "marketCap": 11466337313
+    },
+    {
+        "symbol": "RDDT",
+        "date": "2024-10-01",
+        "marketCap": 11160139754
+    },
+    {
+        "symbol": "RDDT",
+        "date": "2024-09-30",
+        "marketCap": 11151681258
+    },
+    {
+        "symbol": "RDDT",
+        "date": "2024-09-27",
+        "marketCap": 11347918367
+    },
+    {
+        "symbol": "RDDT",
+        "date": "2024-09-26",
+        "marketCap": 11253183211
+    },
+    {
+        "symbol": "RDDT",
+        "date": "2024-09-25",
+        "marketCap": 11483254305
+    },
+    {
+        "symbol": "RDDT",
+        "date": "2024-09-24",
+        "marketCap": 11327617977
+    },
+    {
+        "symbol": "RDDT",
+        "date": "2024-09-23",
+        "marketCap": 10996044930
+    },
+    {
+        "symbol": "RDDT",
+        "date": "2024-09-20",
+        "marketCap": 11193973738
+    },
+    {
+        "symbol": "RDDT",
+        "date": "2024-09-19",
+        "marketCap": 10921610164
+    },
+    {
+        "symbol": "RDDT",
+        "date": "2024-09-18",
+        "marketCap": 10769357234
+    },
+    {
+        "symbol": "RDDT",
+        "date": "2024-09-17",
+        "marketCap": 10469926472
+    },
+    {
+        "symbol": "RDDT",
+        "date": "2024-09-16",
+        "marketCap": 10006400886
+    },
+    {
+        "symbol": "RDDT",
+        "date": "2024-09-13",
+        "marketCap": 9996250690
+    },
+    {
+        "symbol": "RDDT",
+        "date": "2024-09-12",
+        "marketCap": 10087602448
+    },
+    {
+        "symbol": "RDDT",
+        "date": "2024-09-11",
+        "marketCap": 10128203230
+    },
+    {
+        "symbol": "RDDT",
+        "date": "2024-09-10",
+        "marketCap": 9620693464
+    },
+    {
+        "symbol": "RDDT",
+        "date": "2024-09-09",
+        "marketCap": 9720503718
+    },
+    {
+        "symbol": "RDDT",
+        "date": "2024-09-06",
+        "marketCap": 9617310065
+    },
+    {
+        "symbol": "RDDT",
+        "date": "2024-09-05",
+        "marketCap": 9931966120
+    },
+    {
+        "symbol": "RDDT",
+        "date": "2024-09-04",
+        "marketCap": 9642685554
+    },
+    {
+        "symbol": "RDDT",
+        "date": "2024-09-03",
+        "marketCap": 9732345612
+    },
+    {
+        "symbol": "RDDT",
+        "date": "2024-08-30",
+        "marketCap": 10155270417
+    },
+    {
+        "symbol": "RDDT",
+        "date": "2024-08-29",
+        "marketCap": 9938732917
+    },
+    {
+        "symbol": "RDDT",
+        "date": "2024-08-28",
+        "marketCap": 9497199421
+    },
+    {
+        "symbol": "RDDT",
+        "date": "2024-08-27",
+        "marketCap": 9981025398
+    },
+    {
+        "symbol": "RDDT",
+        "date": "2024-08-26",
+        "marketCap": 9855839655
+    },
+    {
+        "symbol": "RDDT",
+        "date": "2024-08-23",
+        "marketCap": 10016551081
+    },
+    {
+        "symbol": "RDDT",
+        "date": "2024-08-22",
+        "marketCap": 9546258698
+    },
+    {
+        "symbol": "RDDT",
+        "date": "2024-08-21",
+        "marketCap": 9624076862
+    },
+    {
+        "symbol": "RDDT",
+        "date": "2024-08-20",
+        "marketCap": 9307729108
+    },
+    {
+        "symbol": "RDDT",
+        "date": "2024-08-19",
+        "marketCap": 9196076959
+    },
+    {
+        "symbol": "RDDT",
+        "date": "2024-08-16",
+        "marketCap": 9290812116
+    },
+    {
+        "symbol": "RDDT",
+        "date": "2024-08-15",
+        "marketCap": 9397389167
+    },
+    {
+        "symbol": "RDDT",
+        "date": "2024-08-14",
+        "marketCap": 9295887213
+    },
+    {
+        "symbol": "RDDT",
+        "date": "2024-08-13",
+        "marketCap": 9223144147
+    },
+    {
+        "symbol": "RDDT",
+        "date": "2024-08-12",
+        "marketCap": 8883112604
+    },
+    {
+        "symbol": "RDDT",
+        "date": "2024-08-09",
+        "marketCap": 8950780573
+    },
+    {
+        "symbol": "RDDT",
+        "date": "2024-08-08",
+        "marketCap": 9294195514
+    },
+    {
+        "symbol": "RDDT",
+        "date": "2024-08-07",
+        "marketCap": 8575223346
+    },
+    {
+        "symbol": "RDDT",
+        "date": "2024-08-06",
+        "marketCap": 9196076959
+    },
+    {
+        "symbol": "RDDT",
+        "date": "2024-08-05",
+        "marketCap": 9610543268
+    },
+    {
+        "symbol": "RDDT",
+        "date": "2024-08-02",
+        "marketCap": 9740804108
+    },
+    {
+        "symbol": "RDDT",
+        "date": "2024-08-01",
+        "marketCap": 10045309968
+    },
+    {
+        "symbol": "RDDT",
+        "date": "2024-07-31",
+        "marketCap": 10293989753
+    },
+    {
+        "symbol": "RDDT",
+        "date": "2024-07-30",
+        "marketCap": 9886290241
+    },
+    {
+        "symbol": "RDDT",
+        "date": "2024-07-29",
+        "marketCap": 10146811921
+    },
+    {
+        "symbol": "RDDT",
+        "date": "2024-07-26",
+        "marketCap": 10549436335
+    },
+    {
+        "symbol": "RDDT",
+        "date": "2024-07-25",
+        "marketCap": 10498685359
+    },
+    {
+        "symbol": "RDDT",
+        "date": "2024-07-24",
+        "marketCap": 10649246589
+    },
+    {
+        "symbol": "RDDT",
+        "date": "2024-07-23",
+        "marketCap": 11476487508
+    },
+    {
+        "symbol": "RDDT",
+        "date": "2024-07-22",
+        "marketCap": 11525546785
+    },
+    {
+        "symbol": "RDDT",
+        "date": "2024-07-19",
+        "marketCap": 10945293953
+    },
+    {
+        "symbol": "RDDT",
+        "date": "2024-07-18",
+        "marketCap": 11151681258
+    },
+    {
+        "symbol": "RDDT",
+        "date": "2024-07-17",
+        "marketCap": 11031570613
+    },
+    {
+        "symbol": "RDDT",
+        "date": "2024-07-16",
+        "marketCap": 11916329305
+    },
+    {
+        "symbol": "RDDT",
+        "date": "2024-07-15",
+        "marketCap": 12346020907
+    },
+    {
+        "symbol": "RDDT",
+        "date": "2024-07-12",
+        "marketCap": 12493198739
+    },
+    {
+        "symbol": "RDDT",
+        "date": "2024-07-11",
+        "marketCap": 11890953817
+    },
+    {
+        "symbol": "RDDT",
+        "date": "2024-07-10",
+        "marketCap": 11740392586
+    },
+    {
+        "symbol": "RDDT",
+        "date": "2024-07-09",
+        "marketCap": 11941704793
+    },
+    {
+        "symbol": "RDDT",
+        "date": "2024-07-08",
+        "marketCap": 12317262020
+    },
+    {
+        "symbol": "RDDT",
+        "date": "2024-07-05",
+        "marketCap": 12344329208
+    },
+    {
+        "symbol": "RDDT",
+        "date": "2024-07-03",
+        "marketCap": 12454289657
+    },
+    {
+        "symbol": "RDDT",
+        "date": "2024-07-02",
+        "marketCap": 12435680966
+    },
+    {
+        "symbol": "RDDT",
+        "date": "2024-07-01",
+        "marketCap": 11265025105
+    },
+    {
+        "symbol": "RDDT",
+        "date": "2024-06-28",
+        "marketCap": 10502413003
+    },
+    {
+        "symbol": "RDDT",
+        "date": "2024-06-27",
+        "marketCap": 10451454354
+    },
+    {
+        "symbol": "RDDT",
+        "date": "2024-06-26",
+        "marketCap": 10456385836
+    },
+    {
+        "symbol": "RDDT",
+        "date": "2024-06-25",
+        "marketCap": 10089812335
+    },
+    {
+        "symbol": "RDDT",
+        "date": "2024-06-24",
+        "marketCap": 9284336929
+    },
+    {
+        "symbol": "RDDT",
+        "date": "2024-06-21",
+        "marketCap": 9419130772
+    },
+    {
+        "symbol": "RDDT",
+        "date": "2024-06-20",
+        "marketCap": 9438856701
+    },
+    {
+        "symbol": "RDDT",
+        "date": "2024-06-18",
+        "marketCap": 9897484534
+    },
+    {
+        "symbol": "RDDT",
+        "date": "2024-06-17",
+        "marketCap": 9920498117
+    },
+    {
+        "symbol": "RDDT",
+        "date": "2024-06-14",
+        "marketCap": 10017483931
+    },
+    {
+        "symbol": "RDDT",
+        "date": "2024-06-13",
+        "marketCap": 10513919794
+    },
+    {
+        "symbol": "RDDT",
+        "date": "2024-06-12",
+        "marketCap": 10837753784
+    },
+    {
+        "symbol": "RDDT",
+        "date": "2024-06-11",
+        "marketCap": 10117757400
+    },
+    {
+        "symbol": "RDDT",
+        "date": "2024-06-10",
+        "marketCap": 9802142547
+    },
+    {
+        "symbol": "RDDT",
+        "date": "2024-06-07",
+        "marketCap": 9830087612
+    },
+    {
+        "symbol": "RDDT",
+        "date": "2024-06-06",
+        "marketCap": 10431728426
+    },
+    {
+        "symbol": "RDDT",
+        "date": "2024-06-05",
+        "marketCap": 9874470951
+    },
+    {
+        "symbol": "RDDT",
+        "date": "2024-06-04",
+        "marketCap": 8958859112
+    },
+    {
+        "symbol": "RDDT",
+        "date": "2024-06-03",
+        "marketCap": 9172556668
+    },
+    {
+        "symbol": "RDDT",
+        "date": "2024-05-31",
+        "marketCap": 8916119600
+    },
+    {
+        "symbol": "RDDT",
+        "date": "2024-05-30",
+        "marketCap": 9254748036
+    },
+    {
+        "symbol": "RDDT",
+        "date": "2024-05-29",
+        "marketCap": 9475020903
+    },
+    {
+        "symbol": "RDDT",
+        "date": "2024-05-28",
+        "marketCap": 9614746228
+    },
+    {
+        "symbol": "RDDT",
+        "date": "2024-05-24",
+        "marketCap": 8995023313
+    },
+    {
+        "symbol": "RDDT",
+        "date": "2024-05-23",
+        "marketCap": 8902968981
+    },
+    {
+        "symbol": "RDDT",
+        "date": "2024-05-22",
+        "marketCap": 9318857303
+    },
+    {
+        "symbol": "RDDT",
+        "date": "2024-05-21",
+        "marketCap": 9749540072
+    },
+    {
+        "symbol": "RDDT",
+        "date": "2024-05-20",
+        "marketCap": 10063511097
+    },
+    {
+        "symbol": "RDDT",
+        "date": "2024-05-17",
+        "marketCap": 10198304941
+    },
+    {
+        "symbol": "RDDT",
+        "date": "2024-05-16",
+        "marketCap": 9267898655
+    },
+    {
+        "symbol": "RDDT",
+        "date": "2024-05-15",
+        "marketCap": 9802142547
+    },
+    {
+        "symbol": "RDDT",
+        "date": "2024-05-14",
+        "marketCap": 10247619762
+    },
+    {
+        "symbol": "RDDT",
+        "date": "2024-05-13",
+        "marketCap": 9565431407
+    },
+    {
+        "symbol": "RDDT",
+        "date": "2024-05-10",
+        "marketCap": 8799407858
+    },
+    {
+        "symbol": "RDDT",
+        "date": "2024-05-09",
+        "marketCap": 8237218900
+    },
+    {
+        "symbol": "RDDT",
+        "date": "2024-05-08",
+        "marketCap": 8449272630
+    },
+    {
+        "symbol": "RDDT",
+        "date": "2024-05-07",
+        "marketCap": 8120507158
+    },
+    {
+        "symbol": "RDDT",
+        "date": "2024-05-06",
+        "marketCap": 7934754666
+    },
+    {
+        "symbol": "RDDT",
+        "date": "2024-05-03",
+        "marketCap": 7666810807
+    },
+    {
+        "symbol": "RDDT",
+        "date": "2024-05-02",
+        "marketCap": 7841056507
+    },
+    {
+        "symbol": "RDDT",
+        "date": "2024-05-01",
+        "marketCap": 7541879927
+    },
+    {
+        "symbol": "RDDT",
+        "date": "2024-04-30",
+        "marketCap": 7305168787
+    },
+    {
+        "symbol": "RDDT",
+        "date": "2024-04-29",
+        "marketCap": 7607633022
+    },
+    {
+        "symbol": "RDDT",
+        "date": "2024-04-26",
+        "marketCap": 7467907696
+    },
+    {
+        "symbol": "RDDT",
+        "date": "2024-04-25",
+        "marketCap": 6978047143
+    },
+    {
+        "symbol": "RDDT",
+        "date": "2024-04-24",
+        "marketCap": 7093115058
+    },
+    {
+        "symbol": "RDDT",
+        "date": "2024-04-23",
+        "marketCap": 7038868755
+    },
+    {
+        "symbol": "RDDT",
+        "date": "2024-04-22",
+        "marketCap": 6910650221
+    },
+    {
+        "symbol": "RDDT",
+        "date": "2024-04-19",
+        "marketCap": 6719966247
+    },
+    {
+        "symbol": "RDDT",
+        "date": "2024-04-18",
+        "marketCap": 6858047745
+    },
+    {
+        "symbol": "RDDT",
+        "date": "2024-04-17",
+        "marketCap": 6438871769
+    },
+    {
+        "symbol": "RDDT",
+        "date": "2024-04-16",
+        "marketCap": 6762705759
+    },
+    {
+        "symbol": "RDDT",
+        "date": "2024-04-15",
+        "marketCap": 6575309440
+    },
+    {
+        "symbol": "RDDT",
+        "date": "2024-04-12",
+        "marketCap": 6948458250
+    },
+    {
+        "symbol": "RDDT",
+        "date": "2024-04-11",
+        "marketCap": 7319963234
+    },
+    {
+        "symbol": "RDDT",
+        "date": "2024-04-10",
+        "marketCap": 6918869358
+    },
+    {
+        "symbol": "RDDT",
+        "date": "2024-04-09",
+        "marketCap": 7397223120
+    },
+    {
+        "symbol": "RDDT",
+        "date": "2024-04-08",
+        "marketCap": 7586263266
+    },
+    {
+        "symbol": "RDDT",
+        "date": "2024-04-05",
+        "marketCap": 7818042924
+    },
+    {
+        "symbol": "RDDT",
+        "date": "2024-04-04",
+        "marketCap": 7525441654
+    },
+    {
+        "symbol": "RDDT",
+        "date": "2024-04-03",
+        "marketCap": 7724344764
+    },
+    {
+        "symbol": "RDDT",
+        "date": "2024-04-02",
+        "marketCap": 8293109031
+    },
+    {
+        "symbol": "RDDT",
+        "date": "2024-04-01",
+        "marketCap": 7556674373
+    },
+    {
+        "symbol": "RDDT",
+        "date": "2024-03-28",
+        "marketCap": 3464261460
+    },
+    {
+        "symbol": "RDDT",
+        "date": "2024-03-27",
+        "marketCap": 4056388875
+    },
+    {
+        "symbol": "RDDT",
+        "date": "2024-03-26",
+        "marketCap": 4573358955
+    },
+    {
+        "symbol": "RDDT",
+        "date": "2024-03-25",
+        "marketCap": 4200381900
+    },
+    {
+        "symbol": "RDDT",
+        "date": "2024-03-22",
+        "marketCap": 3231063000
+    },
+    {
+        "symbol": "RDDT",
+        "date": "2024-03-21",
+        "marketCap": 3542930820
+    }
+]

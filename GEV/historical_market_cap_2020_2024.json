@@ -1,0 +1,967 @@
+[
+    {
+        "symbol": "GEV",
+        "date": "2024-12-31",
+        "marketCap": 90455750000
+    },
+    {
+        "symbol": "GEV",
+        "date": "2024-12-30",
+        "marketCap": 90821500000
+    },
+    {
+        "symbol": "GEV",
+        "date": "2024-12-27",
+        "marketCap": 91795000000
+    },
+    {
+        "symbol": "GEV",
+        "date": "2024-12-26",
+        "marketCap": 94344250000
+    },
+    {
+        "symbol": "GEV",
+        "date": "2024-12-24",
+        "marketCap": 95504750000
+    },
+    {
+        "symbol": "GEV",
+        "date": "2024-12-23",
+        "marketCap": 94853000000
+    },
+    {
+        "symbol": "GEV",
+        "date": "2024-12-20",
+        "marketCap": 94231500000
+    },
+    {
+        "symbol": "GEV",
+        "date": "2024-12-19",
+        "marketCap": 91520000000
+    },
+    {
+        "symbol": "GEV",
+        "date": "2024-12-18",
+        "marketCap": 87208000000
+    },
+    {
+        "symbol": "GEV",
+        "date": "2024-12-17",
+        "marketCap": 90293500000
+    },
+    {
+        "symbol": "GEV",
+        "date": "2024-12-16",
+        "marketCap": 92870250000
+    },
+    {
+        "symbol": "GEV",
+        "date": "2024-12-13",
+        "marketCap": 91302750000
+    },
+    {
+        "symbol": "GEV",
+        "date": "2024-12-12",
+        "marketCap": 90725250000
+    },
+    {
+        "symbol": "GEV",
+        "date": "2024-12-11",
+        "marketCap": 94545000000
+    },
+    {
+        "symbol": "GEV",
+        "date": "2024-12-10",
+        "marketCap": 90032250000
+    },
+    {
+        "symbol": "GEV",
+        "date": "2024-12-09",
+        "marketCap": 92193750000
+    },
+    {
+        "symbol": "GEV",
+        "date": "2024-12-06",
+        "marketCap": 95290250000
+    },
+    {
+        "symbol": "GEV",
+        "date": "2024-12-05",
+        "marketCap": 95735750000
+    },
+    {
+        "symbol": "GEV",
+        "date": "2024-12-04",
+        "marketCap": 94531250000
+    },
+    {
+        "symbol": "GEV",
+        "date": "2024-12-03",
+        "marketCap": 91278000000
+    },
+    {
+        "symbol": "GEV",
+        "date": "2024-12-02",
+        "marketCap": 92823500000
+    },
+    {
+        "symbol": "GEV",
+        "date": "2024-11-29",
+        "marketCap": 91883000000
+    },
+    {
+        "symbol": "GEV",
+        "date": "2024-11-27",
+        "marketCap": 92215750000
+    },
+    {
+        "symbol": "GEV",
+        "date": "2024-11-26",
+        "marketCap": 93194750000
+    },
+    {
+        "symbol": "GEV",
+        "date": "2024-11-25",
+        "marketCap": 90469500000
+    },
+    {
+        "symbol": "GEV",
+        "date": "2024-11-22",
+        "marketCap": 96019000000
+    },
+    {
+        "symbol": "GEV",
+        "date": "2024-11-21",
+        "marketCap": 93458750000
+    },
+    {
+        "symbol": "GEV",
+        "date": "2024-11-20",
+        "marketCap": 94261750000
+    },
+    {
+        "symbol": "GEV",
+        "date": "2024-11-19",
+        "marketCap": 93500000000
+    },
+    {
+        "symbol": "GEV",
+        "date": "2024-11-18",
+        "marketCap": 89476750000
+    },
+    {
+        "symbol": "GEV",
+        "date": "2024-11-15",
+        "marketCap": 90684000000
+    },
+    {
+        "symbol": "GEV",
+        "date": "2024-11-14",
+        "marketCap": 89661000000
+    },
+    {
+        "symbol": "GEV",
+        "date": "2024-11-13",
+        "marketCap": 91646500000
+    },
+    {
+        "symbol": "GEV",
+        "date": "2024-11-12",
+        "marketCap": 89020250000
+    },
+    {
+        "symbol": "GEV",
+        "date": "2024-11-11",
+        "marketCap": 96096000000
+    },
+    {
+        "symbol": "GEV",
+        "date": "2024-11-08",
+        "marketCap": 93824500000
+    },
+    {
+        "symbol": "GEV",
+        "date": "2024-11-07",
+        "marketCap": 92614500000
+    },
+    {
+        "symbol": "GEV",
+        "date": "2024-11-06",
+        "marketCap": 92482500000
+    },
+    {
+        "symbol": "GEV",
+        "date": "2024-11-05",
+        "marketCap": 86836750000
+    },
+    {
+        "symbol": "GEV",
+        "date": "2024-11-04",
+        "marketCap": 81251500000
+    },
+    {
+        "symbol": "GEV",
+        "date": "2024-11-01",
+        "marketCap": 82799750000
+    },
+    {
+        "symbol": "GEV",
+        "date": "2024-10-31",
+        "marketCap": 82956500000
+    },
+    {
+        "symbol": "GEV",
+        "date": "2024-10-30",
+        "marketCap": 81840000000
+    },
+    {
+        "symbol": "GEV",
+        "date": "2024-10-29",
+        "marketCap": 82161750000
+    },
+    {
+        "symbol": "GEV",
+        "date": "2024-10-28",
+        "marketCap": 79538250000
+    },
+    {
+        "symbol": "GEV",
+        "date": "2024-10-25",
+        "marketCap": 80723500000
+    },
+    {
+        "symbol": "GEV",
+        "date": "2024-10-24",
+        "marketCap": 81675000000
+    },
+    {
+        "symbol": "GEV",
+        "date": "2024-10-23",
+        "marketCap": 76967000000
+    },
+    {
+        "symbol": "GEV",
+        "date": "2024-10-22",
+        "marketCap": 76015500000
+    },
+    {
+        "symbol": "GEV",
+        "date": "2024-10-21",
+        "marketCap": 76018250000
+    },
+    {
+        "symbol": "GEV",
+        "date": "2024-10-18",
+        "marketCap": 74725280000
+    },
+    {
+        "symbol": "GEV",
+        "date": "2024-10-17",
+        "marketCap": 74528000000
+    },
+    {
+        "symbol": "GEV",
+        "date": "2024-10-16",
+        "marketCap": 75286980000
+    },
+    {
+        "symbol": "GEV",
+        "date": "2024-10-15",
+        "marketCap": 72982640000
+    },
+    {
+        "symbol": "GEV",
+        "date": "2024-10-14",
+        "marketCap": 73843000000
+    },
+    {
+        "symbol": "GEV",
+        "date": "2024-10-11",
+        "marketCap": 73127860000
+    },
+    {
+        "symbol": "GEV",
+        "date": "2024-10-10",
+        "marketCap": 72505880000
+    },
+    {
+        "symbol": "GEV",
+        "date": "2024-10-09",
+        "marketCap": 73048400000
+    },
+    {
+        "symbol": "GEV",
+        "date": "2024-10-08",
+        "marketCap": 72409980000
+    },
+    {
+        "symbol": "GEV",
+        "date": "2024-10-07",
+        "marketCap": 71935960000
+    },
+    {
+        "symbol": "GEV",
+        "date": "2024-10-04",
+        "marketCap": 72771660000
+    },
+    {
+        "symbol": "GEV",
+        "date": "2024-10-03",
+        "marketCap": 69782320000
+    },
+    {
+        "symbol": "GEV",
+        "date": "2024-10-02",
+        "marketCap": 69127460000
+    },
+    {
+        "symbol": "GEV",
+        "date": "2024-10-01",
+        "marketCap": 70289220000
+    },
+    {
+        "symbol": "GEV",
+        "date": "2024-09-30",
+        "marketCap": 69864520000
+    },
+    {
+        "symbol": "GEV",
+        "date": "2024-09-27",
+        "marketCap": 68461640000
+    },
+    {
+        "symbol": "GEV",
+        "date": "2024-09-26",
+        "marketCap": 68834280000
+    },
+    {
+        "symbol": "GEV",
+        "date": "2024-09-25",
+        "marketCap": 69883700000
+    },
+    {
+        "symbol": "GEV",
+        "date": "2024-09-24",
+        "marketCap": 70001520000
+    },
+    {
+        "symbol": "GEV",
+        "date": "2024-09-23",
+        "marketCap": 68919220000
+    },
+    {
+        "symbol": "GEV",
+        "date": "2024-09-20",
+        "marketCap": 67256040000
+    },
+    {
+        "symbol": "GEV",
+        "date": "2024-09-19",
+        "marketCap": 66979300000
+    },
+    {
+        "symbol": "GEV",
+        "date": "2024-09-18",
+        "marketCap": 64573580000
+    },
+    {
+        "symbol": "GEV",
+        "date": "2024-09-17",
+        "marketCap": 64979100000
+    },
+    {
+        "symbol": "GEV",
+        "date": "2024-09-16",
+        "marketCap": 63000820000
+    },
+    {
+        "symbol": "GEV",
+        "date": "2024-09-13",
+        "marketCap": 61811660000
+    },
+    {
+        "symbol": "GEV",
+        "date": "2024-09-12",
+        "marketCap": 58983980000
+    },
+    {
+        "symbol": "GEV",
+        "date": "2024-09-11",
+        "marketCap": 57307100000
+    },
+    {
+        "symbol": "GEV",
+        "date": "2024-09-10",
+        "marketCap": 55350740000
+    },
+    {
+        "symbol": "GEV",
+        "date": "2024-09-09",
+        "marketCap": 55295940000
+    },
+    {
+        "symbol": "GEV",
+        "date": "2024-09-06",
+        "marketCap": 54342420000
+    },
+    {
+        "symbol": "GEV",
+        "date": "2024-09-05",
+        "marketCap": 54372560000
+    },
+    {
+        "symbol": "GEV",
+        "date": "2024-09-04",
+        "marketCap": 54698620000
+    },
+    {
+        "symbol": "GEV",
+        "date": "2024-09-03",
+        "marketCap": 52758700000
+    },
+    {
+        "symbol": "GEV",
+        "date": "2024-08-30",
+        "marketCap": 55074000000
+    },
+    {
+        "symbol": "GEV",
+        "date": "2024-08-29",
+        "marketCap": 52432640000
+    },
+    {
+        "symbol": "GEV",
+        "date": "2024-08-28",
+        "marketCap": 50416000000
+    },
+    {
+        "symbol": "GEV",
+        "date": "2024-08-27",
+        "marketCap": 50840700000
+    },
+    {
+        "symbol": "GEV",
+        "date": "2024-08-26",
+        "marketCap": 49903620000
+    },
+    {
+        "symbol": "GEV",
+        "date": "2024-08-23",
+        "marketCap": 50221460000
+    },
+    {
+        "symbol": "GEV",
+        "date": "2024-08-22",
+        "marketCap": 50964000000
+    },
+    {
+        "symbol": "GEV",
+        "date": "2024-08-21",
+        "marketCap": 50487240000
+    },
+    {
+        "symbol": "GEV",
+        "date": "2024-08-20",
+        "marketCap": 50416000000
+    },
+    {
+        "symbol": "GEV",
+        "date": "2024-08-19",
+        "marketCap": 50799600000
+    },
+    {
+        "symbol": "GEV",
+        "date": "2024-08-16",
+        "marketCap": 50432440000
+    },
+    {
+        "symbol": "GEV",
+        "date": "2024-08-15",
+        "marketCap": 51736680000
+    },
+    {
+        "symbol": "GEV",
+        "date": "2024-08-14",
+        "marketCap": 50459840000
+    },
+    {
+        "symbol": "GEV",
+        "date": "2024-08-13",
+        "marketCap": 49224100000
+    },
+    {
+        "symbol": "GEV",
+        "date": "2024-08-12",
+        "marketCap": 48344560000
+    },
+    {
+        "symbol": "GEV",
+        "date": "2024-08-09",
+        "marketCap": 49076140000
+    },
+    {
+        "symbol": "GEV",
+        "date": "2024-08-08",
+        "marketCap": 48555540000
+    },
+    {
+        "symbol": "GEV",
+        "date": "2024-08-07",
+        "marketCap": 45503180000
+    },
+    {
+        "symbol": "GEV",
+        "date": "2024-08-06",
+        "marketCap": 45031900000
+    },
+    {
+        "symbol": "GEV",
+        "date": "2024-08-05",
+        "marketCap": 44453760000
+    },
+    {
+        "symbol": "GEV",
+        "date": "2024-08-02",
+        "marketCap": 45136020000
+    },
+    {
+        "symbol": "GEV",
+        "date": "2024-08-01",
+        "marketCap": 47684220000
+    },
+    {
+        "symbol": "GEV",
+        "date": "2024-07-31",
+        "marketCap": 48837760000
+    },
+    {
+        "symbol": "GEV",
+        "date": "2024-07-30",
+        "marketCap": 44579800000
+    },
+    {
+        "symbol": "GEV",
+        "date": "2024-07-29",
+        "marketCap": 47141700000
+    },
+    {
+        "symbol": "GEV",
+        "date": "2024-07-26",
+        "marketCap": 47432140000
+    },
+    {
+        "symbol": "GEV",
+        "date": "2024-07-25",
+        "marketCap": 43840000000
+    },
+    {
+        "symbol": "GEV",
+        "date": "2024-07-24",
+        "marketCap": 44634600000
+    },
+    {
+        "symbol": "GEV",
+        "date": "2024-07-23",
+        "marketCap": 46714260000
+    },
+    {
+        "symbol": "GEV",
+        "date": "2024-07-22",
+        "marketCap": 45692240000
+    },
+    {
+        "symbol": "GEV",
+        "date": "2024-07-19",
+        "marketCap": 44442131303
+    },
+    {
+        "symbol": "GEV",
+        "date": "2024-07-18",
+        "marketCap": 43938776688
+    },
+    {
+        "symbol": "GEV",
+        "date": "2024-07-17",
+        "marketCap": 45119619408
+    },
+    {
+        "symbol": "GEV",
+        "date": "2024-07-16",
+        "marketCap": 49720552678
+    },
+    {
+        "symbol": "GEV",
+        "date": "2024-07-15",
+        "marketCap": 48278509725
+    },
+    {
+        "symbol": "GEV",
+        "date": "2024-07-12",
+        "marketCap": 49097481289
+    },
+    {
+        "symbol": "GEV",
+        "date": "2024-07-11",
+        "marketCap": 48077167879
+    },
+    {
+        "symbol": "GEV",
+        "date": "2024-07-10",
+        "marketCap": 48901581114
+    },
+    {
+        "symbol": "GEV",
+        "date": "2024-07-09",
+        "marketCap": 47065016976
+    },
+    {
+        "symbol": "GEV",
+        "date": "2024-07-08",
+        "marketCap": 47443213147
+    },
+    {
+        "symbol": "GEV",
+        "date": "2024-07-05",
+        "marketCap": 47949288598
+    },
+    {
+        "symbol": "GEV",
+        "date": "2024-07-03",
+        "marketCap": 46983391903
+    },
+    {
+        "symbol": "GEV",
+        "date": "2024-07-02",
+        "marketCap": 46202512040
+    },
+    {
+        "symbol": "GEV",
+        "date": "2024-07-01",
+        "marketCap": 45579440651
+    },
+    {
+        "symbol": "GEV",
+        "date": "2024-06-28",
+        "marketCap": 46665054119
+    },
+    {
+        "symbol": "GEV",
+        "date": "2024-06-27",
+        "marketCap": 47962892777
+    },
+    {
+        "symbol": "GEV",
+        "date": "2024-06-26",
+        "marketCap": 48975043680
+    },
+    {
+        "symbol": "GEV",
+        "date": "2024-06-25",
+        "marketCap": 49369564865
+    },
+    {
+        "symbol": "GEV",
+        "date": "2024-06-24",
+        "marketCap": 48468968228
+    },
+    {
+        "symbol": "GEV",
+        "date": "2024-06-21",
+        "marketCap": 47813246810
+    },
+    {
+        "symbol": "GEV",
+        "date": "2024-06-20",
+        "marketCap": 48207767995
+    },
+    {
+        "symbol": "GEV",
+        "date": "2024-06-18",
+        "marketCap": 48858047742
+    },
+    {
+        "symbol": "GEV",
+        "date": "2024-06-17",
+        "marketCap": 45916824285
+    },
+    {
+        "symbol": "GEV",
+        "date": "2024-06-14",
+        "marketCap": 46300462127
+    },
+    {
+        "symbol": "GEV",
+        "date": "2024-06-13",
+        "marketCap": 47932963583
+    },
+    {
+        "symbol": "GEV",
+        "date": "2024-06-12",
+        "marketCap": 48300276411
+    },
+    {
+        "symbol": "GEV",
+        "date": "2024-06-11",
+        "marketCap": 45772619990
+    },
+    {
+        "symbol": "GEV",
+        "date": "2024-06-10",
+        "marketCap": 45340007104
+    },
+    {
+        "symbol": "GEV",
+        "date": "2024-06-07",
+        "marketCap": 44099305998
+    },
+    {
+        "symbol": "GEV",
+        "date": "2024-06-06",
+        "marketCap": 43617718068
+    },
+    {
+        "symbol": "GEV",
+        "date": "2024-06-05",
+        "marketCap": 44482943840
+    },
+    {
+        "symbol": "GEV",
+        "date": "2024-06-04",
+        "marketCap": 44360506231
+    },
+    {
+        "symbol": "GEV",
+        "date": "2024-06-03",
+        "marketCap": 46354878843
+    },
+    {
+        "symbol": "GEV",
+        "date": "2024-05-31",
+        "marketCap": 47859501018
+    },
+    {
+        "symbol": "GEV",
+        "date": "2024-05-30",
+        "marketCap": 47636392486
+    },
+    {
+        "symbol": "GEV",
+        "date": "2024-05-29",
+        "marketCap": 48245859696
+    },
+    {
+        "symbol": "GEV",
+        "date": "2024-05-28",
+        "marketCap": 48455364049
+    },
+    {
+        "symbol": "GEV",
+        "date": "2024-05-24",
+        "marketCap": 48275788889
+    },
+    {
+        "symbol": "GEV",
+        "date": "2024-05-23",
+        "marketCap": 43987751731
+    },
+    {
+        "symbol": "GEV",
+        "date": "2024-05-22",
+        "marketCap": 44580893927
+    },
+    {
+        "symbol": "GEV",
+        "date": "2024-05-21",
+        "marketCap": 44602660613
+    },
+    {
+        "symbol": "GEV",
+        "date": "2024-05-20",
+        "marketCap": 43791851557
+    },
+    {
+        "symbol": "GEV",
+        "date": "2024-05-17",
+        "marketCap": 44246231129
+    },
+    {
+        "symbol": "GEV",
+        "date": "2024-05-16",
+        "marketCap": 45274707046
+    },
+    {
+        "symbol": "GEV",
+        "date": "2024-05-15",
+        "marketCap": 45674669903
+    },
+    {
+        "symbol": "GEV",
+        "date": "2024-05-14",
+        "marketCap": 45065202692
+    },
+    {
+        "symbol": "GEV",
+        "date": "2024-05-13",
+        "marketCap": 43949660031
+    },
+    {
+        "symbol": "GEV",
+        "date": "2024-05-10",
+        "marketCap": 45511419757
+    },
+    {
+        "symbol": "GEV",
+        "date": "2024-05-09",
+        "marketCap": 45274707046
+    },
+    {
+        "symbol": "GEV",
+        "date": "2024-05-08",
+        "marketCap": 44621706464
+    },
+    {
+        "symbol": "GEV",
+        "date": "2024-05-07",
+        "marketCap": 45535907279
+    },
+    {
+        "symbol": "GEV",
+        "date": "2024-05-06",
+        "marketCap": 46020216044
+    },
+    {
+        "symbol": "GEV",
+        "date": "2024-05-03",
+        "marketCap": 45236615345
+    },
+    {
+        "symbol": "GEV",
+        "date": "2024-05-02",
+        "marketCap": 41854616496
+    },
+    {
+        "symbol": "GEV",
+        "date": "2024-05-01",
+        "marketCap": 41266915971
+    },
+    {
+        "symbol": "GEV",
+        "date": "2024-04-30",
+        "marketCap": 41821966466
+    },
+    {
+        "symbol": "GEV",
+        "date": "2024-04-29",
+        "marketCap": 43264009419
+    },
+    {
+        "symbol": "GEV",
+        "date": "2024-04-26",
+        "marketCap": 41647832978
+    },
+    {
+        "symbol": "GEV",
+        "date": "2024-04-25",
+        "marketCap": 40352715156
+    },
+    {
+        "symbol": "GEV",
+        "date": "2024-04-24",
+        "marketCap": 39773177139
+    },
+    {
+        "symbol": "GEV",
+        "date": "2024-04-23",
+        "marketCap": 40222115040
+    },
+    {
+        "symbol": "GEV",
+        "date": "2024-04-22",
+        "marketCap": 37191104003
+    },
+    {
+        "symbol": "GEV",
+        "date": "2024-04-19",
+        "marketCap": 36758491117
+    },
+    {
+        "symbol": "GEV",
+        "date": "2024-04-18",
+        "marketCap": 37335308298
+    },
+    {
+        "symbol": "GEV",
+        "date": "2024-04-17",
+        "marketCap": 36663261866
+    },
+    {
+        "symbol": "GEV",
+        "date": "2024-04-16",
+        "marketCap": 35389910730
+    },
+    {
+        "symbol": "GEV",
+        "date": "2024-04-15",
+        "marketCap": 35847011138
+    },
+    {
+        "symbol": "GEV",
+        "date": "2024-04-12",
+        "marketCap": 36459199184
+    },
+    {
+        "symbol": "GEV",
+        "date": "2024-04-11",
+        "marketCap": 37158453974
+    },
+    {
+        "symbol": "GEV",
+        "date": "2024-04-10",
+        "marketCap": 37648204411
+    },
+    {
+        "symbol": "GEV",
+        "date": "2024-04-09",
+        "marketCap": 35961286239
+    },
+    {
+        "symbol": "GEV",
+        "date": "2024-04-08",
+        "marketCap": 35359981536
+    },
+    {
+        "symbol": "GEV",
+        "date": "2024-04-05",
+        "marketCap": 33384654775
+    },
+    {
+        "symbol": "GEV",
+        "date": "2024-04-04",
+        "marketCap": 34298855590
+    },
+    {
+        "symbol": "GEV",
+        "date": "2024-04-03",
+        "marketCap": 37367958327
+    },
+    {
+        "symbol": "GEV",
+        "date": "2024-04-02",
+        "marketCap": 38091700640
+    },
+    {
+        "symbol": "GEV",
+        "date": "2024-04-01",
+        "marketCap": 38641309463
+    },
+    {
+        "symbol": "GEV",
+        "date": "2024-03-28",
+        "marketCap": 37207429018
+    },
+    {
+        "symbol": "GEV",
+        "date": "2024-03-27",
+        "marketCap": 35710969350
+    }
+]

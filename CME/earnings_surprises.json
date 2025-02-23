@@ -1,0 +1,530 @@
+[
+    {
+        "date": "2024-10-23",
+        "symbol": "CME",
+        "actualEarningResult": 2.68,
+        "estimatedEarning": 2.66
+    },
+    {
+        "date": "2024-07-24",
+        "symbol": "CME",
+        "actualEarningResult": 2.56,
+        "estimatedEarning": 2.53
+    },
+    {
+        "date": "2024-04-24",
+        "symbol": "CME",
+        "actualEarningResult": 2.5,
+        "estimatedEarning": 2.45
+    },
+    {
+        "date": "2024-02-14",
+        "symbol": "CME",
+        "actualEarningResult": 2.37,
+        "estimatedEarning": 2.28
+    },
+    {
+        "date": "2023-10-25",
+        "symbol": "CME",
+        "actualEarningResult": 2.25,
+        "estimatedEarning": 2.22
+    },
+    {
+        "date": "2023-07-26",
+        "symbol": "CME",
+        "actualEarningResult": 2.3,
+        "estimatedEarning": 2.2
+    },
+    {
+        "date": "2023-04-26",
+        "symbol": "CME",
+        "actualEarningResult": 2.42,
+        "estimatedEarning": 2.38
+    },
+    {
+        "date": "2023-02-08",
+        "symbol": "CME",
+        "actualEarningResult": 1.92,
+        "estimatedEarning": 1.88
+    },
+    {
+        "date": "2022-10-26",
+        "symbol": "CME",
+        "actualEarningResult": 1.98,
+        "estimatedEarning": 1.94
+    },
+    {
+        "date": "2022-07-27",
+        "symbol": "CME",
+        "actualEarningResult": 1.97,
+        "estimatedEarning": 1.93
+    },
+    {
+        "date": "2022-04-27",
+        "symbol": "CME",
+        "actualEarningResult": 2.11,
+        "estimatedEarning": 2
+    },
+    {
+        "date": "2022-02-09",
+        "symbol": "CME",
+        "actualEarningResult": 1.66,
+        "estimatedEarning": 1.64
+    },
+    {
+        "date": "2021-10-27",
+        "symbol": "CME",
+        "actualEarningResult": 1.6,
+        "estimatedEarning": 1.55
+    },
+    {
+        "date": "2021-07-28",
+        "symbol": "CME",
+        "actualEarningResult": 1.64,
+        "estimatedEarning": 1.61
+    },
+    {
+        "date": "2021-04-28",
+        "symbol": "CME",
+        "actualEarningResult": 1.79,
+        "estimatedEarning": 1.75
+    },
+    {
+        "date": "2021-02-10",
+        "symbol": "CME",
+        "actualEarningResult": 1.39,
+        "estimatedEarning": 1.37
+    },
+    {
+        "date": "2020-10-28",
+        "symbol": "CME",
+        "actualEarningResult": 1.38,
+        "estimatedEarning": 1.41
+    },
+    {
+        "date": "2020-07-29",
+        "symbol": "CME",
+        "actualEarningResult": 1.63,
+        "estimatedEarning": 1.62
+    },
+    {
+        "date": "2020-04-29",
+        "symbol": "CME",
+        "actualEarningResult": 2.33,
+        "estimatedEarning": 2.23
+    },
+    {
+        "date": "2020-02-12",
+        "symbol": "CME",
+        "actualEarningResult": 1.52,
+        "estimatedEarning": 1.54
+    },
+    {
+        "date": "2019-10-30",
+        "symbol": "CME",
+        "actualEarningResult": 1.9,
+        "estimatedEarning": 1.76
+    },
+    {
+        "date": "2019-07-31",
+        "symbol": "CME",
+        "actualEarningResult": 1.76,
+        "estimatedEarning": 1.76
+    },
+    {
+        "date": "2019-05-01",
+        "symbol": "CME",
+        "actualEarningResult": 1.62,
+        "estimatedEarning": 1.6
+    },
+    {
+        "date": "2019-02-14",
+        "symbol": "CME",
+        "actualEarningResult": 1.77,
+        "estimatedEarning": 1.75
+    },
+    {
+        "date": "2018-10-25",
+        "symbol": "CME",
+        "actualEarningResult": 1.45,
+        "estimatedEarning": 1.43
+    },
+    {
+        "date": "2018-07-26",
+        "symbol": "CME",
+        "actualEarningResult": 1.74,
+        "estimatedEarning": 1.72
+    },
+    {
+        "date": "2018-04-26",
+        "symbol": "CME",
+        "actualEarningResult": 1.86,
+        "estimatedEarning": 1.83
+    },
+    {
+        "date": "2018-02-01",
+        "symbol": "CME",
+        "actualEarningResult": 1.12,
+        "estimatedEarning": 1.1
+    },
+    {
+        "date": "2017-10-26",
+        "symbol": "CME",
+        "actualEarningResult": 1.19,
+        "estimatedEarning": 1.16
+    },
+    {
+        "date": "2017-08-01",
+        "symbol": "CME",
+        "actualEarningResult": 1.23,
+        "estimatedEarning": 1.21
+    },
+    {
+        "date": "2017-04-27",
+        "symbol": "CME",
+        "actualEarningResult": 1.22,
+        "estimatedEarning": 1.2
+    },
+    {
+        "date": "2017-02-02",
+        "symbol": "CME",
+        "actualEarningResult": 1.14,
+        "estimatedEarning": 1.11
+    },
+    {
+        "date": "2016-10-27",
+        "symbol": "CME",
+        "actualEarningResult": 1.05,
+        "estimatedEarning": 1.04
+    },
+    {
+        "date": "2016-07-28",
+        "symbol": "CME",
+        "actualEarningResult": 1.14,
+        "estimatedEarning": 1.11
+    },
+    {
+        "date": "2016-04-28",
+        "symbol": "CME",
+        "actualEarningResult": 1.15,
+        "estimatedEarning": 1.15
+    },
+    {
+        "date": "2016-02-05",
+        "symbol": "CME",
+        "actualEarningResult": 0.92,
+        "estimatedEarning": 0.9
+    },
+    {
+        "date": "2015-10-29",
+        "symbol": "CME",
+        "actualEarningResult": 1.02,
+        "estimatedEarning": 0.99
+    },
+    {
+        "date": "2015-07-30",
+        "symbol": "CME",
+        "actualEarningResult": 0.95,
+        "estimatedEarning": 0.92
+    },
+    {
+        "date": "2015-04-30",
+        "symbol": "CME",
+        "actualEarningResult": 0.98,
+        "estimatedEarning": 0.95
+    },
+    {
+        "date": "2015-02-05",
+        "symbol": "CME",
+        "actualEarningResult": 0.95,
+        "estimatedEarning": 0.93
+    },
+    {
+        "date": "2014-10-30",
+        "symbol": "CME",
+        "actualEarningResult": 0.84,
+        "estimatedEarning": 0.83
+    },
+    {
+        "date": "2014-07-31",
+        "symbol": "CME",
+        "actualEarningResult": 0.77,
+        "estimatedEarning": 0.79
+    },
+    {
+        "date": "2014-05-01",
+        "symbol": "CME",
+        "actualEarningResult": 0.83,
+        "estimatedEarning": 0.83
+    },
+    {
+        "date": "2014-02-04",
+        "symbol": "CME",
+        "actualEarningResult": 0.64,
+        "estimatedEarning": 0.68
+    },
+    {
+        "date": "2013-11-04",
+        "symbol": "CME",
+        "actualEarningResult": 0.75,
+        "estimatedEarning": 0.73
+    },
+    {
+        "date": "2013-08-01",
+        "symbol": "CME",
+        "actualEarningResult": 0.93,
+        "estimatedEarning": 0.89
+    },
+    {
+        "date": "2013-05-02",
+        "symbol": "CME",
+        "actualEarningResult": 0.73,
+        "estimatedEarning": 0.73
+    },
+    {
+        "date": "2013-02-05",
+        "symbol": "CME",
+        "actualEarningResult": 0.63,
+        "estimatedEarning": 0.63
+    },
+    {
+        "date": "2012-10-25",
+        "symbol": "CME",
+        "actualEarningResult": 0.7,
+        "estimatedEarning": 0.69
+    },
+    {
+        "date": "2012-07-26",
+        "symbol": "CME",
+        "actualEarningResult": 0.89,
+        "estimatedEarning": 0.82
+    },
+    {
+        "date": "2012-04-26",
+        "symbol": "CME",
+        "actualEarningResult": 0.8,
+        "estimatedEarning": 0.8
+    },
+    {
+        "date": "2012-02-02",
+        "symbol": "CME",
+        "actualEarningResult": 0.71,
+        "estimatedEarning": 0.73
+    },
+    {
+        "date": "2011-11-01",
+        "symbol": "CME",
+        "actualEarningResult": 0.95,
+        "estimatedEarning": 0.94
+    },
+    {
+        "date": "2011-07-28",
+        "symbol": "CME",
+        "actualEarningResult": 0.88,
+        "estimatedEarning": 0.83
+    },
+    {
+        "date": "2011-04-28",
+        "symbol": "CME",
+        "actualEarningResult": 0.87,
+        "estimatedEarning": 0.84
+    },
+    {
+        "date": "2011-02-03",
+        "symbol": "CME",
+        "actualEarningResult": 0.75,
+        "estimatedEarning": 0.76
+    },
+    {
+        "date": "2010-10-28",
+        "symbol": "CME",
+        "actualEarningResult": 0.73,
+        "estimatedEarning": 0.73
+    },
+    {
+        "date": "2010-07-29",
+        "symbol": "CME",
+        "actualEarningResult": 0.89,
+        "estimatedEarning": 0.88
+    },
+    {
+        "date": "2010-04-29",
+        "symbol": "CME",
+        "actualEarningResult": 0.72,
+        "estimatedEarning": 0.72
+    },
+    {
+        "date": "2010-02-04",
+        "symbol": "CME",
+        "actualEarningResult": 0.67,
+        "estimatedEarning": 0.69
+    },
+    {
+        "date": "2009-10-29",
+        "symbol": "CME",
+        "actualEarningResult": 0.67,
+        "estimatedEarning": 0.66
+    },
+    {
+        "date": "2009-07-23",
+        "symbol": "CME",
+        "actualEarningResult": 0.67,
+        "estimatedEarning": 0.65
+    },
+    {
+        "date": "2009-04-23",
+        "symbol": "CME",
+        "actualEarningResult": 0.64,
+        "estimatedEarning": 0.64
+    },
+    {
+        "date": "2009-02-03",
+        "symbol": "CME",
+        "actualEarningResult": 0.72,
+        "estimatedEarning": 0.69
+    },
+    {
+        "date": "2008-10-29",
+        "symbol": "CME",
+        "actualEarningResult": 0.83,
+        "estimatedEarning": 0.8
+    },
+    {
+        "date": "2008-07-22",
+        "symbol": "CME",
+        "actualEarningResult": 0.79,
+        "estimatedEarning": 0.77
+    },
+    {
+        "date": "2008-04-22",
+        "symbol": "CME",
+        "actualEarningResult": 0.93,
+        "estimatedEarning": 0.96
+    },
+    {
+        "date": "2008-02-05",
+        "symbol": "CME",
+        "actualEarningResult": 0.75,
+        "estimatedEarning": 0.72
+    },
+    {
+        "date": "2007-10-24",
+        "symbol": "CME",
+        "actualEarningResult": 0.86,
+        "estimatedEarning": 0.82
+    },
+    {
+        "date": "2007-07-24",
+        "symbol": "CME",
+        "actualEarningResult": 0.74,
+        "estimatedEarning": 0.73
+    },
+    {
+        "date": "2007-04-24",
+        "symbol": "CME",
+        "actualEarningResult": 0.74,
+        "estimatedEarning": 0.72
+    },
+    {
+        "date": "2007-01-30",
+        "symbol": "CME",
+        "actualEarningResult": 0.58,
+        "estimatedEarning": 0.6
+    },
+    {
+        "date": "2006-10-24",
+        "symbol": "CME",
+        "actualEarningResult": 0.59,
+        "estimatedEarning": 0.57
+    },
+    {
+        "date": "2006-07-25",
+        "symbol": "CME",
+        "actualEarningResult": 0.62,
+        "estimatedEarning": 0.62
+    },
+    {
+        "date": "2006-04-25",
+        "symbol": "CME",
+        "actualEarningResult": 0.52,
+        "estimatedEarning": 0.53
+    },
+    {
+        "date": "2006-01-31",
+        "symbol": "CME",
+        "actualEarningResult": 0.44,
+        "estimatedEarning": 0.42
+    },
+    {
+        "date": "2005-10-25",
+        "symbol": "CME",
+        "actualEarningResult": 0.44,
+        "estimatedEarning": 0.44
+    },
+    {
+        "date": "2005-07-26",
+        "symbol": "CME",
+        "actualEarningResult": 0.47,
+        "estimatedEarning": 0.48
+    },
+    {
+        "date": "2005-04-26",
+        "symbol": "CME",
+        "actualEarningResult": 0.41,
+        "estimatedEarning": 0.39
+    },
+    {
+        "date": "2005-02-01",
+        "symbol": "CME",
+        "actualEarningResult": 0.33,
+        "estimatedEarning": 0.34
+    },
+    {
+        "date": "2004-10-26",
+        "symbol": "CME",
+        "actualEarningResult": 0.34,
+        "estimatedEarning": 0.33
+    },
+    {
+        "date": "2004-07-22",
+        "symbol": "CME",
+        "actualEarningResult": 0.33,
+        "estimatedEarning": 0.33
+    },
+    {
+        "date": "2004-04-27",
+        "symbol": "CME",
+        "actualEarningResult": 0.27,
+        "estimatedEarning": 0.24
+    },
+    {
+        "date": "2004-02-03",
+        "symbol": "CME",
+        "actualEarningResult": 0.17,
+        "estimatedEarning": 0.18
+    },
+    {
+        "date": "2003-10-22",
+        "symbol": "CME",
+        "actualEarningResult": 0.19,
+        "estimatedEarning": 0.18
+    },
+    {
+        "date": "2003-07-22",
+        "symbol": "CME",
+        "actualEarningResult": 0.21,
+        "estimatedEarning": 0.19
+    },
+    {
+        "date": "2003-04-22",
+        "symbol": "CME",
+        "actualEarningResult": 0.15,
+        "estimatedEarning": 0.13
+    },
+    {
+        "date": "2003-01-30",
+        "symbol": "CME",
+        "actualEarningResult": 0.18,
+        "estimatedEarning": 0.18
+    }
+]

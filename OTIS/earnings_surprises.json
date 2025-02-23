@@ -1,0 +1,116 @@
+[
+    {
+        "date": "2024-10-30",
+        "symbol": "OTIS",
+        "actualEarningResult": 0.96,
+        "estimatedEarning": 0.97
+    },
+    {
+        "date": "2024-07-24",
+        "symbol": "OTIS",
+        "actualEarningResult": 1.06,
+        "estimatedEarning": 1.03
+    },
+    {
+        "date": "2024-04-24",
+        "symbol": "OTIS",
+        "actualEarningResult": 0.88,
+        "estimatedEarning": 0.87
+    },
+    {
+        "date": "2024-01-31",
+        "symbol": "OTIS",
+        "actualEarningResult": 0.87,
+        "estimatedEarning": 0.86
+    },
+    {
+        "date": "2023-10-25",
+        "symbol": "OTIS",
+        "actualEarningResult": 0.95,
+        "estimatedEarning": 0.87
+    },
+    {
+        "date": "2023-07-26",
+        "symbol": "OTIS",
+        "actualEarningResult": 0.92,
+        "estimatedEarning": 0.86
+    },
+    {
+        "date": "2023-04-26",
+        "symbol": "OTIS",
+        "actualEarningResult": 0.8,
+        "estimatedEarning": 0.76
+    },
+    {
+        "date": "2023-02-01",
+        "symbol": "OTIS",
+        "actualEarningResult": 0.75,
+        "estimatedEarning": 0.74
+    },
+    {
+        "date": "2022-10-26",
+        "symbol": "OTIS",
+        "actualEarningResult": 0.8,
+        "estimatedEarning": 0.78
+    },
+    {
+        "date": "2022-07-27",
+        "symbol": "OTIS",
+        "actualEarningResult": 0.86,
+        "estimatedEarning": 0.78
+    },
+    {
+        "date": "2022-04-25",
+        "symbol": "OTIS",
+        "actualEarningResult": 0.77,
+        "estimatedEarning": 0.74
+    },
+    {
+        "date": "2022-01-31",
+        "symbol": "OTIS",
+        "actualEarningResult": 0.72,
+        "estimatedEarning": 0.68
+    },
+    {
+        "date": "2021-10-25",
+        "symbol": "OTIS",
+        "actualEarningResult": 0.77,
+        "estimatedEarning": 0.73
+    },
+    {
+        "date": "2021-07-26",
+        "symbol": "OTIS",
+        "actualEarningResult": 0.79,
+        "estimatedEarning": 0.72
+    },
+    {
+        "date": "2021-04-26",
+        "symbol": "OTIS",
+        "actualEarningResult": 0.72,
+        "estimatedEarning": 0.63
+    },
+    {
+        "date": "2021-02-01",
+        "symbol": "OTIS",
+        "actualEarningResult": 0.66,
+        "estimatedEarning": 0.59
+    },
+    {
+        "date": "2020-10-26",
+        "symbol": "OTIS",
+        "actualEarningResult": 0.69,
+        "estimatedEarning": 0.56
+    },
+    {
+        "date": "2020-07-28",
+        "symbol": "OTIS",
+        "actualEarningResult": 0.56,
+        "estimatedEarning": 0.44
+    },
+    {
+        "date": "2020-05-06",
+        "symbol": "OTIS",
+        "actualEarningResult": 0.6,
+        "estimatedEarning": 0.47
+    }
+]

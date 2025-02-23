@@ -1,0 +1,128 @@
+[
+    {
+        "date": "2024-11-26",
+        "symbol": "CRWD",
+        "actualEarningResult": 0.93,
+        "estimatedEarning": 0.81
+    },
+    {
+        "date": "2024-08-28",
+        "symbol": "CRWD",
+        "actualEarningResult": 1.04,
+        "estimatedEarning": 0.988
+    },
+    {
+        "date": "2024-06-04",
+        "symbol": "CRWD",
+        "actualEarningResult": 0.93,
+        "estimatedEarning": 0.895
+    },
+    {
+        "date": "2024-03-05",
+        "symbol": "CRWD",
+        "actualEarningResult": 0.95,
+        "estimatedEarning": 0.823
+    },
+    {
+        "date": "2023-11-28",
+        "symbol": "CRWD",
+        "actualEarningResult": 0.82,
+        "estimatedEarning": 0.74
+    },
+    {
+        "date": "2023-08-30",
+        "symbol": "CRWD",
+        "actualEarningResult": 0.74,
+        "estimatedEarning": 0.56
+    },
+    {
+        "date": "2023-05-31",
+        "symbol": "CRWD",
+        "actualEarningResult": 0.57,
+        "estimatedEarning": 0.5
+    },
+    {
+        "date": "2023-03-07",
+        "symbol": "CRWD",
+        "actualEarningResult": 0.47,
+        "estimatedEarning": 0.43
+    },
+    {
+        "date": "2022-11-29",
+        "symbol": "CRWD",
+        "actualEarningResult": 0.4,
+        "estimatedEarning": 0.32
+    },
+    {
+        "date": "2022-08-30",
+        "symbol": "CRWD",
+        "actualEarningResult": 0.36,
+        "estimatedEarning": 0.28
+    },
+    {
+        "date": "2022-06-02",
+        "symbol": "CRWD",
+        "actualEarningResult": 0.31,
+        "estimatedEarning": 0.23
+    },
+    {
+        "date": "2022-03-09",
+        "symbol": "CRWD",
+        "actualEarningResult": 0.3,
+        "estimatedEarning": 0.2
+    },
+    {
+        "date": "2021-12-01",
+        "symbol": "CRWD",
+        "actualEarningResult": 0.17,
+        "estimatedEarning": 0.1
+    },
+    {
+        "date": "2021-08-31",
+        "symbol": "CRWD",
+        "actualEarningResult": 0.11,
+        "estimatedEarning": 0.09
+    },
+    {
+        "date": "2021-06-03",
+        "symbol": "CRWD",
+        "actualEarningResult": 0.1,
+        "estimatedEarning": 0.06
+    },
+    {
+        "date": "2021-03-16",
+        "symbol": "CRWD",
+        "actualEarningResult": 0.13,
+        "estimatedEarning": 0.09
+    },
+    {
+        "date": "2020-09-02",
+        "symbol": "CRWD",
+        "actualEarningResult": 0.03,
+        "estimatedEarning": 0.00499
+    },
+    {
+        "date": "2020-06-02",
+        "symbol": "CRWD",
+        "actualEarningResult": 0.02,
+        "estimatedEarning": -0.06
+    },
+    {
+        "date": "2020-03-19",
+        "symbol": "CRWD",
+        "actualEarningResult": -0.02,
+        "estimatedEarning": -0.08
+    },
+    {
+        "date": "2019-12-05",
+        "symbol": "CRWD",
+        "actualEarningResult": -0.07,
+        "estimatedEarning": -0.12
+    },
+    {
+        "date": "2019-09-05",
+        "symbol": "CRWD",
+        "actualEarningResult": -0.18,
+        "estimatedEarning": -0.22
+    }
+]

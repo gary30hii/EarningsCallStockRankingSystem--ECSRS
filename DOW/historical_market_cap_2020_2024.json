@@ -1,0 +1,6292 @@
+[
+    {
+        "symbol": "DOW",
+        "date": "2024-12-31",
+        "marketCap": 28183299000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2024-12-30",
+        "marketCap": 27698712000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2024-12-27",
+        "marketCap": 28113069000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2024-12-26",
+        "marketCap": 28246506000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2024-12-24",
+        "marketCap": 28155207000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2024-12-23",
+        "marketCap": 28070931000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2024-12-20",
+        "marketCap": 28049862000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2024-12-19",
+        "marketCap": 27459930000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2024-12-18",
+        "marketCap": 28197345000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2024-12-17",
+        "marketCap": 28492311000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2024-12-16",
+        "marketCap": 28169253000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2024-12-13",
+        "marketCap": 28695978000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2024-12-12",
+        "marketCap": 28990944000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2024-12-11",
+        "marketCap": 29145450000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2024-12-10",
+        "marketCap": 29623014000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2024-12-09",
+        "marketCap": 30009278999
+    },
+    {
+        "symbol": "DOW",
+        "date": "2024-12-06",
+        "marketCap": 29489577000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2024-12-05",
+        "marketCap": 29630037000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2024-12-04",
+        "marketCap": 30093555000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2024-12-03",
+        "marketCap": 30809901000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2024-12-02",
+        "marketCap": 31168074000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2024-11-29",
+        "marketCap": 31048683000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2024-11-27",
+        "marketCap": 31350672000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2024-11-26",
+        "marketCap": 31280442000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2024-11-25",
+        "marketCap": 32214501000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2024-11-22",
+        "marketCap": 31926558000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2024-11-21",
+        "marketCap": 31470063000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2024-11-20",
+        "marketCap": 30852039000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2024-11-19",
+        "marketCap": 30655395000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2024-11-18",
+        "marketCap": 31055706000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2024-11-15",
+        "marketCap": 30929292000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2024-11-14",
+        "marketCap": 31315557000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2024-11-13",
+        "marketCap": 31596477000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2024-11-12",
+        "marketCap": 31631592000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2024-11-11",
+        "marketCap": 32495421000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2024-11-08",
+        "marketCap": 32649927000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2024-11-07",
+        "marketCap": 34342470000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2024-11-06",
+        "marketCap": 33956205000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2024-11-05",
+        "marketCap": 33640170000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2024-11-04",
+        "marketCap": 33675285000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2024-11-01",
+        "marketCap": 34391631000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2024-10-31",
+        "marketCap": 34679574000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2024-10-30",
+        "marketCap": 34651482000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2024-10-29",
+        "marketCap": 34749804000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2024-10-28",
+        "marketCap": 35192253000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2024-10-25",
+        "marketCap": 34988800000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2024-10-24",
+        "marketCap": 35896960000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2024-10-23",
+        "marketCap": 36248960000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2024-10-22",
+        "marketCap": 36657280000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2024-10-21",
+        "marketCap": 36755840000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2024-10-18",
+        "marketCap": 37378818000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2024-10-17",
+        "marketCap": 37357704000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2024-10-16",
+        "marketCap": 37259172000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2024-10-15",
+        "marketCap": 36998766000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2024-10-14",
+        "marketCap": 37681452000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2024-10-11",
+        "marketCap": 37850364000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2024-10-10",
+        "marketCap": 37737756000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2024-10-09",
+        "marketCap": 37596996000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2024-10-08",
+        "marketCap": 37449198000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2024-10-07",
+        "marketCap": 38441556000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2024-10-04",
+        "marketCap": 38948292000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2024-10-03",
+        "marketCap": 38357100000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2024-10-02",
+        "marketCap": 38483784000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2024-10-01",
+        "marketCap": 38385252000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2024-09-30",
+        "marketCap": 38448594000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2024-09-27",
+        "marketCap": 38765304000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2024-09-26",
+        "marketCap": 38511936000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2024-09-25",
+        "marketCap": 37188792000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2024-09-24",
+        "marketCap": 37618110000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2024-09-23",
+        "marketCap": 36625752000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2024-09-20",
+        "marketCap": 36393498000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2024-09-19",
+        "marketCap": 37223982000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2024-09-18",
+        "marketCap": 36344232000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2024-09-17",
+        "marketCap": 36252738000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2024-09-16",
+        "marketCap": 35654508000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2024-09-13",
+        "marketCap": 35295570000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2024-09-12",
+        "marketCap": 35372988000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2024-09-11",
+        "marketCap": 35703774000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2024-09-10",
+        "marketCap": 35767116000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2024-09-09",
+        "marketCap": 36104940000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2024-09-06",
+        "marketCap": 35668584000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2024-09-05",
+        "marketCap": 36111978000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2024-09-04",
+        "marketCap": 36302004000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2024-09-03",
+        "marketCap": 36548334000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2024-08-30",
+        "marketCap": 37709604000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2024-08-29",
+        "marketCap": 37906668000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2024-08-28",
+        "marketCap": 37660338000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2024-08-27",
+        "marketCap": 37843326000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2024-08-26",
+        "marketCap": 38026314000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2024-08-23",
+        "marketCap": 37674414000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2024-08-22",
+        "marketCap": 36991728000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2024-08-21",
+        "marketCap": 37266210000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2024-08-20",
+        "marketCap": 37104336000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2024-08-19",
+        "marketCap": 37758870000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2024-08-16",
+        "marketCap": 37941858000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2024-08-15",
+        "marketCap": 37913706000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2024-08-14",
+        "marketCap": 37132488000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2024-08-13",
+        "marketCap": 37132488000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2024-08-12",
+        "marketCap": 36752436000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2024-08-09",
+        "marketCap": 37062108000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2024-08-08",
+        "marketCap": 37069146000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2024-08-07",
+        "marketCap": 36717246000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2024-08-06",
+        "marketCap": 36935424000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2024-08-05",
+        "marketCap": 35900838000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2024-08-02",
+        "marketCap": 36604638000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2024-08-01",
+        "marketCap": 37498464000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2024-07-31",
+        "marketCap": 38335986000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2024-07-30",
+        "marketCap": 37787022000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2024-07-29",
+        "marketCap": 37202868000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2024-07-26",
+        "marketCap": 37202868000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2024-07-25",
+        "marketCap": 37195830000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2024-07-24",
+        "marketCap": 37526616000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2024-07-23",
+        "marketCap": 38054466000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2024-07-22",
+        "marketCap": 38300796000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2024-07-19",
+        "marketCap": 37972550000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2024-07-18",
+        "marketCap": 38585465000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2024-07-17",
+        "marketCap": 39036345000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2024-07-16",
+        "marketCap": 38536150000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2024-07-15",
+        "marketCap": 37528715000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2024-07-12",
+        "marketCap": 37275095000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2024-07-11",
+        "marketCap": 36922845000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2024-07-10",
+        "marketCap": 36429695000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2024-07-09",
+        "marketCap": 36338110000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2024-07-08",
+        "marketCap": 37197600000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2024-07-05",
+        "marketCap": 36796035000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2024-07-03",
+        "marketCap": 37253960000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2024-07-02",
+        "marketCap": 37134195000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2024-07-01",
+        "marketCap": 37077835000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2024-06-28",
+        "marketCap": 37373725000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2024-06-27",
+        "marketCap": 37310320000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2024-06-26",
+        "marketCap": 37479400000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2024-06-25",
+        "marketCap": 37451220000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2024-06-24",
+        "marketCap": 38479790000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2024-06-21",
+        "marketCap": 38035955000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2024-06-20",
+        "marketCap": 38190945000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2024-06-18",
+        "marketCap": 39057480000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2024-06-17",
+        "marketCap": 38909535000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2024-06-14",
+        "marketCap": 38761590000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2024-06-13",
+        "marketCap": 39494270000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2024-06-12",
+        "marketCap": 39628125000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2024-06-11",
+        "marketCap": 39557675000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2024-06-10",
+        "marketCap": 39487225000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2024-06-07",
+        "marketCap": 39261785000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2024-06-06",
+        "marketCap": 39226560000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2024-06-05",
+        "marketCap": 39233605000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2024-06-04",
+        "marketCap": 38853175000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2024-06-03",
+        "marketCap": 39501315000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2024-05-31",
+        "marketCap": 40600335000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2024-05-30",
+        "marketCap": 40431255000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2024-05-29",
+        "marketCap": 40156500000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2024-05-28",
+        "marketCap": 40889180000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2024-05-24",
+        "marketCap": 40691920000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2024-05-23",
+        "marketCap": 40100140000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2024-05-22",
+        "marketCap": 40579200000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2024-05-21",
+        "marketCap": 41502095000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2024-05-20",
+        "marketCap": 41734580000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2024-05-17",
+        "marketCap": 41699355000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2024-05-16",
+        "marketCap": 41354150000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2024-05-15",
+        "marketCap": 41607770000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2024-05-14",
+        "marketCap": 42023425000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2024-05-13",
+        "marketCap": 41819120000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2024-05-10",
+        "marketCap": 41854345000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2024-05-09",
+        "marketCap": 41882525000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2024-05-08",
+        "marketCap": 41311880000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2024-05-07",
+        "marketCap": 41114620000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2024-05-06",
+        "marketCap": 40396030000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2024-05-03",
+        "marketCap": 40184680000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2024-05-02",
+        "marketCap": 40036735000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2024-05-01",
+        "marketCap": 40318535000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2024-04-30",
+        "marketCap": 40086050000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2024-04-29",
+        "marketCap": 40720100000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2024-04-26",
+        "marketCap": 40360805000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2024-04-25",
+        "marketCap": 39761980000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2024-04-24",
+        "marketCap": 40142410000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2024-04-23",
+        "marketCap": 39973330000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2024-04-22",
+        "marketCap": 40149455000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2024-04-19",
+        "marketCap": 39916970000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2024-04-18",
+        "marketCap": 39797205000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2024-04-17",
+        "marketCap": 40029690000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2024-04-16",
+        "marketCap": 40057870000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2024-04-15",
+        "marketCap": 40381940000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2024-04-12",
+        "marketCap": 40642605000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2024-04-11",
+        "marketCap": 41185070000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2024-04-10",
+        "marketCap": 41459825000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2024-04-09",
+        "marketCap": 42178415000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2024-04-08",
+        "marketCap": 41931840000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2024-04-05",
+        "marketCap": 42051605000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2024-04-04",
+        "marketCap": 42171370000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2024-04-03",
+        "marketCap": 42262955000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2024-04-02",
+        "marketCap": 41769805000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2024-04-01",
+        "marketCap": 41044170000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2024-03-28",
+        "marketCap": 40811685000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2024-03-27",
+        "marketCap": 40959630000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2024-03-26",
+        "marketCap": 40205815000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2024-03-25",
+        "marketCap": 40431255000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2024-03-22",
+        "marketCap": 40635560000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2024-03-21",
+        "marketCap": 40811685000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2024-03-20",
+        "marketCap": 40980765000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2024-03-19",
+        "marketCap": 39987420000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2024-03-18",
+        "marketCap": 39973330000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2024-03-15",
+        "marketCap": 40184680000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2024-03-14",
+        "marketCap": 40381940000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2024-03-13",
+        "marketCap": 40839865000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2024-03-12",
+        "marketCap": 40635560000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2024-03-11",
+        "marketCap": 40459435000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2024-03-08",
+        "marketCap": 39881745000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2024-03-07",
+        "marketCap": 40114230000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2024-03-06",
+        "marketCap": 40057870000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2024-03-05",
+        "marketCap": 40142410000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2024-03-04",
+        "marketCap": 40170590000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2024-03-01",
+        "marketCap": 39289965000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2024-02-29",
+        "marketCap": 39367460000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2024-02-28",
+        "marketCap": 38817950000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2024-02-27",
+        "marketCap": 39642215000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2024-02-26",
+        "marketCap": 39501315000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2024-02-23",
+        "marketCap": 39726755000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2024-02-22",
+        "marketCap": 39452000000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2024-02-21",
+        "marketCap": 39275875000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2024-02-20",
+        "marketCap": 38543195000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2024-02-16",
+        "marketCap": 39085660000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2024-02-15",
+        "marketCap": 38867265000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2024-02-14",
+        "marketCap": 37747110000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2024-02-13",
+        "marketCap": 37465310000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2024-02-12",
+        "marketCap": 38599555000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2024-02-09",
+        "marketCap": 38035955000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2024-02-08",
+        "marketCap": 37958460000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2024-02-07",
+        "marketCap": 38106405000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2024-02-06",
+        "marketCap": 38071180000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2024-02-05",
+        "marketCap": 37451220000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2024-02-02",
+        "marketCap": 37634390000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2024-02-01",
+        "marketCap": 37718930000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2024-01-31",
+        "marketCap": 37761200000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2024-01-30",
+        "marketCap": 38374115000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2024-01-29",
+        "marketCap": 38092315000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2024-01-26",
+        "marketCap": 38085270000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2024-01-25",
+        "marketCap": 38705230000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2024-01-24",
+        "marketCap": 37401905000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2024-01-23",
+        "marketCap": 37979595000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2024-01-22",
+        "marketCap": 37733020000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2024-01-19",
+        "marketCap": 37204645000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2024-01-18",
+        "marketCap": 37056700000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2024-01-17",
+        "marketCap": 36965115000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2024-01-16",
+        "marketCap": 37408950000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2024-01-12",
+        "marketCap": 37599165000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2024-01-11",
+        "marketCap": 37789380000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2024-01-10",
+        "marketCap": 37606210000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2024-01-09",
+        "marketCap": 38000730000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2024-01-08",
+        "marketCap": 38803860000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2024-01-05",
+        "marketCap": 38620690000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2024-01-04",
+        "marketCap": 38176855000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2024-01-03",
+        "marketCap": 38486835000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2024-01-02",
+        "marketCap": 38979985000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2023-12-29",
+        "marketCap": 38585424000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2023-12-28",
+        "marketCap": 38859828000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2023-12-27",
+        "marketCap": 39197556000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2023-12-26",
+        "marketCap": 39197556000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2023-12-22",
+        "marketCap": 38782432000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2023-12-21",
+        "marketCap": 38676892000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2023-12-20",
+        "marketCap": 38402488000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2023-12-19",
+        "marketCap": 38641712000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2023-12-18",
+        "marketCap": 38170300000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2023-12-15",
+        "marketCap": 38163264000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2023-12-14",
+        "marketCap": 38156228000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2023-12-13",
+        "marketCap": 36819388000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2023-12-12",
+        "marketCap": 35756952000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2023-12-11",
+        "marketCap": 36080608000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2023-12-08",
+        "marketCap": 35827312000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2023-12-07",
+        "marketCap": 35932852000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2023-12-06",
+        "marketCap": 35806204000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2023-12-05",
+        "marketCap": 35982104000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2023-12-04",
+        "marketCap": 36657560000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2023-12-01",
+        "marketCap": 36798280000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2023-11-30",
+        "marketCap": 36411300000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2023-11-29",
+        "marketCap": 36115788000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2023-11-28",
+        "marketCap": 36369084000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2023-11-27",
+        "marketCap": 35968032000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2023-11-24",
+        "marketCap": 36355012000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2023-11-22",
+        "marketCap": 36165040000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2023-11-21",
+        "marketCap": 36397228000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2023-11-20",
+        "marketCap": 36362048000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2023-11-17",
+        "marketCap": 36376120000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2023-11-16",
+        "marketCap": 36193184000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2023-11-15",
+        "marketCap": 36256508000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2023-11-14",
+        "marketCap": 35918780000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2023-11-13",
+        "marketCap": 34645264000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2023-11-10",
+        "marketCap": 34814128000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2023-11-09",
+        "marketCap": 34026096000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2023-11-08",
+        "marketCap": 33983879999
+    },
+    {
+        "symbol": "DOW",
+        "date": "2023-11-07",
+        "marketCap": 34145708000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2023-11-06",
+        "marketCap": 34715624000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2023-11-03",
+        "marketCap": 34990028000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2023-11-02",
+        "marketCap": 34469364000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2023-11-01",
+        "marketCap": 33920556000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2023-10-31",
+        "marketCap": 34012024000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2023-10-30",
+        "marketCap": 34012024000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2023-10-27",
+        "marketCap": 33850196000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2023-10-26",
+        "marketCap": 33786872000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2023-10-25",
+        "marketCap": 33449144000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2023-10-24",
+        "marketCap": 34645264000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2023-10-23",
+        "marketCap": 33941664000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2023-10-20",
+        "marketCap": 34469364000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2023-10-19",
+        "marketCap": 34793020000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2023-10-18",
+        "marketCap": 35236288000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2023-10-17",
+        "marketCap": 35693628000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2023-10-16",
+        "marketCap": 35313684000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2023-10-13",
+        "marketCap": 34990028000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2023-10-12",
+        "marketCap": 35355900000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2023-10-11",
+        "marketCap": 35806204000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2023-10-10",
+        "marketCap": 36101716000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2023-10-09",
+        "marketCap": 35749916000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2023-10-06",
+        "marketCap": 35377008000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2023-10-05",
+        "marketCap": 35081496000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2023-10-04",
+        "marketCap": 35960996000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2023-10-03",
+        "marketCap": 35897672000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2023-10-02",
+        "marketCap": 36094680000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2023-09-29",
+        "marketCap": 36298240000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2023-09-28",
+        "marketCap": 35854720000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2023-09-27",
+        "marketCap": 35904000000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2023-09-26",
+        "marketCap": 35537920000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2023-09-25",
+        "marketCap": 35967360000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2023-09-22",
+        "marketCap": 35376000000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2023-09-21",
+        "marketCap": 35904000000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2023-09-20",
+        "marketCap": 36931840000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2023-09-19",
+        "marketCap": 37241600000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2023-09-18",
+        "marketCap": 37579520000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2023-09-15",
+        "marketCap": 37903360000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2023-09-14",
+        "marketCap": 38044160000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2023-09-13",
+        "marketCap": 37185280000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2023-09-12",
+        "marketCap": 37755520000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2023-09-11",
+        "marketCap": 37783680000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2023-09-08",
+        "marketCap": 37811840000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2023-09-07",
+        "marketCap": 38086400000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2023-09-06",
+        "marketCap": 38642560000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2023-09-05",
+        "marketCap": 38149760000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2023-09-01",
+        "marketCap": 38924160000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2023-08-31",
+        "marketCap": 38410240000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2023-08-30",
+        "marketCap": 38544000000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2023-08-29",
+        "marketCap": 38888960000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2023-08-28",
+        "marketCap": 38438400000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2023-08-25",
+        "marketCap": 38001920000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2023-08-24",
+        "marketCap": 37692160000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2023-08-23",
+        "marketCap": 37593600000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2023-08-22",
+        "marketCap": 37868160000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2023-08-21",
+        "marketCap": 38135680000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2023-08-18",
+        "marketCap": 38030080000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2023-08-17",
+        "marketCap": 37917440000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2023-08-16",
+        "marketCap": 37537280000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2023-08-15",
+        "marketCap": 37685120000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2023-08-14",
+        "marketCap": 38987520000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2023-08-11",
+        "marketCap": 39036800000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2023-08-10",
+        "marketCap": 39409920000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2023-08-09",
+        "marketCap": 39100160000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2023-08-08",
+        "marketCap": 38727040000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2023-08-07",
+        "marketCap": 39086080000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2023-08-04",
+        "marketCap": 38375040000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2023-08-03",
+        "marketCap": 38649600000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2023-08-02",
+        "marketCap": 38508800000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2023-08-01",
+        "marketCap": 39269120000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2023-07-31",
+        "marketCap": 39754880000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2023-07-28",
+        "marketCap": 39043840000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2023-07-27",
+        "marketCap": 38677760000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2023-07-26",
+        "marketCap": 37804800000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2023-07-25",
+        "marketCap": 37649920000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2023-07-24",
+        "marketCap": 36995200000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2023-07-21",
+        "marketCap": 37347200000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2023-07-20",
+        "marketCap": 37347200000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2023-07-19",
+        "marketCap": 37185280000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2023-07-18",
+        "marketCap": 37297920000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2023-07-17",
+        "marketCap": 36910720000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2023-07-14",
+        "marketCap": 37255680000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2023-07-13",
+        "marketCap": 38163840000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2023-07-12",
+        "marketCap": 38093440000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2023-07-11",
+        "marketCap": 37607680000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2023-07-10",
+        "marketCap": 37502080000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2023-07-07",
+        "marketCap": 37382400000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2023-07-06",
+        "marketCap": 37150080000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2023-07-05",
+        "marketCap": 37199360000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2023-07-03",
+        "marketCap": 37861120000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2023-06-30",
+        "marketCap": 37495040000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2023-06-29",
+        "marketCap": 37640680000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2023-06-28",
+        "marketCap": 37442720000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2023-06-27",
+        "marketCap": 37166990000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2023-06-26",
+        "marketCap": 36728650000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2023-06-23",
+        "marketCap": 36311520000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2023-06-22",
+        "marketCap": 36332730000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2023-06-21",
+        "marketCap": 36679160000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2023-06-20",
+        "marketCap": 36707440000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2023-06-16",
+        "marketCap": 37584120000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2023-06-15",
+        "marketCap": 37810360000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2023-06-14",
+        "marketCap": 37336670000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2023-06-13",
+        "marketCap": 37569980000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2023-06-12",
+        "marketCap": 36622600000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2023-06-09",
+        "marketCap": 36580180000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2023-06-08",
+        "marketCap": 37315460000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2023-06-07",
+        "marketCap": 38086090000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2023-06-06",
+        "marketCap": 37181130000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2023-06-05",
+        "marketCap": 36410500000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2023-06-02",
+        "marketCap": 36488270000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2023-06-01",
+        "marketCap": 34643000000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2023-05-31",
+        "marketCap": 34487460000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2023-05-30",
+        "marketCap": 34996500000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2023-05-26",
+        "marketCap": 35590380000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2023-05-25",
+        "marketCap": 35611590000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2023-05-24",
+        "marketCap": 36283240000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2023-05-23",
+        "marketCap": 36735720000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2023-05-22",
+        "marketCap": 36601390000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2023-05-19",
+        "marketCap": 36728650000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2023-05-18",
+        "marketCap": 36672090000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2023-05-17",
+        "marketCap": 36396360000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2023-05-16",
+        "marketCap": 36099420000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2023-05-15",
+        "marketCap": 36947820000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2023-05-12",
+        "marketCap": 36983170000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2023-05-11",
+        "marketCap": 37004380000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2023-05-10",
+        "marketCap": 37789150000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2023-05-09",
+        "marketCap": 37944690000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2023-05-08",
+        "marketCap": 38284050000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2023-05-05",
+        "marketCap": 38467870000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2023-05-04",
+        "marketCap": 37725520000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2023-05-03",
+        "marketCap": 37471000000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2023-05-02",
+        "marketCap": 38022460000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2023-05-01",
+        "marketCap": 38255770000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2023-04-28",
+        "marketCap": 38460800000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2023-04-27",
+        "marketCap": 37824500000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2023-04-26",
+        "marketCap": 37174060000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2023-04-25",
+        "marketCap": 37117500000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2023-04-24",
+        "marketCap": 39160730000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2023-04-21",
+        "marketCap": 38793090000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2023-04-20",
+        "marketCap": 39379900000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2023-04-19",
+        "marketCap": 39903080000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2023-04-18",
+        "marketCap": 40143460000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2023-04-17",
+        "marketCap": 40228300000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2023-04-14",
+        "marketCap": 39945500000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2023-04-13",
+        "marketCap": 40242440000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2023-04-12",
+        "marketCap": 40221230000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2023-04-11",
+        "marketCap": 39726330000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2023-04-10",
+        "marketCap": 39457670000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2023-04-06",
+        "marketCap": 38644620000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2023-04-05",
+        "marketCap": 38630480000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2023-04-04",
+        "marketCap": 38361820000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2023-04-03",
+        "marketCap": 39118310000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2023-03-31",
+        "marketCap": 38757740000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2023-03-30",
+        "marketCap": 38242800000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2023-03-29",
+        "marketCap": 37959520000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2023-03-28",
+        "marketCap": 37470862000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2023-03-27",
+        "marketCap": 36826400000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2023-03-24",
+        "marketCap": 36670596000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2023-03-23",
+        "marketCap": 36578530000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2023-03-22",
+        "marketCap": 36387316000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2023-03-21",
+        "marketCap": 36868892000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2023-03-20",
+        "marketCap": 36302332000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2023-03-17",
+        "marketCap": 35424164000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2023-03-16",
+        "marketCap": 36054462000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2023-03-15",
+        "marketCap": 35749936000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2023-03-14",
+        "marketCap": 37031778000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2023-03-13",
+        "marketCap": 37109680000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2023-03-10",
+        "marketCap": 38157816000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2023-03-09",
+        "marketCap": 39021820000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2023-03-08",
+        "marketCap": 39843332000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2023-03-07",
+        "marketCap": 39517560000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2023-03-06",
+        "marketCap": 40445302000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2023-03-03",
+        "marketCap": 41302224000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2023-03-02",
+        "marketCap": 41387208000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2023-03-01",
+        "marketCap": 41089764000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2023-02-28",
+        "marketCap": 40509040000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2023-02-27",
+        "marketCap": 40360318000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2023-02-24",
+        "marketCap": 40926878000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2023-02-23",
+        "marketCap": 40501958000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2023-02-22",
+        "marketCap": 40374482000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2023-02-21",
+        "marketCap": 40254088000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2023-02-17",
+        "marketCap": 41167666000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2023-02-16",
+        "marketCap": 41557176000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2023-02-15",
+        "marketCap": 42322032000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2023-02-14",
+        "marketCap": 42322032000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2023-02-13",
+        "marketCap": 42718624000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2023-02-10",
+        "marketCap": 42364524000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2023-02-09",
+        "marketCap": 41840456000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2023-02-08",
+        "marketCap": 42357442000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2023-02-07",
+        "marketCap": 42853182000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2023-02-06",
+        "marketCap": 42555738000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2023-02-03",
+        "marketCap": 42492000000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2023-02-02",
+        "marketCap": 42456590000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2023-02-01",
+        "marketCap": 42647804000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2023-01-31",
+        "marketCap": 42031670000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2023-01-30",
+        "marketCap": 41040190000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2023-01-27",
+        "marketCap": 41762554000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2023-01-26",
+        "marketCap": 41160584000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2023-01-25",
+        "marketCap": 40997698000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2023-01-24",
+        "marketCap": 41217240000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2023-01-23",
+        "marketCap": 41103928000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2023-01-20",
+        "marketCap": 40679008000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2023-01-19",
+        "marketCap": 40084120000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2023-01-18",
+        "marketCap": 40254088000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2023-01-17",
+        "marketCap": 40650680000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2023-01-13",
+        "marketCap": 41557176000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2023-01-12",
+        "marketCap": 41443864000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2023-01-11",
+        "marketCap": 40778156000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2023-01-10",
+        "marketCap": 39992054000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2023-01-09",
+        "marketCap": 39149296000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2023-01-06",
+        "marketCap": 38965164000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2023-01-05",
+        "marketCap": 37470862000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2023-01-04",
+        "marketCap": 37060106000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2023-01-03",
+        "marketCap": 36146528000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2022-12-30",
+        "marketCap": 35736588000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2022-12-29",
+        "marketCap": 35920980000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2022-12-28",
+        "marketCap": 35452908000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2022-12-27",
+        "marketCap": 36303948000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2022-12-23",
+        "marketCap": 36069912000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2022-12-22",
+        "marketCap": 35580564000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2022-12-21",
+        "marketCap": 35935164000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2022-12-20",
+        "marketCap": 35218872000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2022-12-19",
+        "marketCap": 34984836000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2022-12-16",
+        "marketCap": 35318160000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2022-12-15",
+        "marketCap": 35126676000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2022-12-14",
+        "marketCap": 36424512000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2022-12-13",
+        "marketCap": 36566352000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2022-12-12",
+        "marketCap": 36247212000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2022-12-09",
+        "marketCap": 35601840000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2022-12-08",
+        "marketCap": 35857152000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2022-12-07",
+        "marketCap": 35956440000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2022-12-06",
+        "marketCap": 36204660000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2022-12-05",
+        "marketCap": 36346500000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2022-12-02",
+        "marketCap": 36559260000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2022-12-01",
+        "marketCap": 36218844000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2022-11-30",
+        "marketCap": 36147924000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2022-11-29",
+        "marketCap": 35920980000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2022-11-28",
+        "marketCap": 35601840000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2022-11-25",
+        "marketCap": 36566352000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2022-11-23",
+        "marketCap": 36559260000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2022-11-22",
+        "marketCap": 36573444000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2022-11-21",
+        "marketCap": 35580564000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2022-11-18",
+        "marketCap": 35509644000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2022-11-17",
+        "marketCap": 35552196000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2022-11-16",
+        "marketCap": 35821692000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2022-11-15",
+        "marketCap": 36594720000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2022-11-14",
+        "marketCap": 36842940000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2022-11-11",
+        "marketCap": 37686888000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2022-11-10",
+        "marketCap": 35431632000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2022-11-09",
+        "marketCap": 33814656000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2022-11-08",
+        "marketCap": 35211780000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2022-11-07",
+        "marketCap": 35105400000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2022-11-04",
+        "marketCap": 34772076000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2022-11-03",
+        "marketCap": 32970708000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2022-11-02",
+        "marketCap": 33282756000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2022-11-01",
+        "marketCap": 33282756000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2022-10-31",
+        "marketCap": 33148008000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2022-10-28",
+        "marketCap": 33672815999
+    },
+    {
+        "symbol": "DOW",
+        "date": "2022-10-27",
+        "marketCap": 33772104000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2022-10-26",
+        "marketCap": 34034508000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2022-10-25",
+        "marketCap": 33935220000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2022-10-24",
+        "marketCap": 33360768000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2022-10-21",
+        "marketCap": 33240204000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2022-10-20",
+        "marketCap": 31864356000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2022-10-19",
+        "marketCap": 32006196000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2022-10-18",
+        "marketCap": 32892696000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2022-10-17",
+        "marketCap": 32098392000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2022-10-14",
+        "marketCap": 31999104000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2022-10-13",
+        "marketCap": 32566464000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2022-10-12",
+        "marketCap": 31070052000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2022-10-11",
+        "marketCap": 31169340000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2022-10-10",
+        "marketCap": 31828896000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2022-10-07",
+        "marketCap": 31495571999
+    },
+    {
+        "symbol": "DOW",
+        "date": "2022-10-06",
+        "marketCap": 32282784000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2022-10-05",
+        "marketCap": 32665752000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2022-10-04",
+        "marketCap": 33062904000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2022-10-03",
+        "marketCap": 32112576000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2022-09-30",
+        "marketCap": 31155156000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2022-09-29",
+        "marketCap": 31543487999
+    },
+    {
+        "symbol": "DOW",
+        "date": "2022-09-28",
+        "marketCap": 32179214999
+    },
+    {
+        "symbol": "DOW",
+        "date": "2022-09-27",
+        "marketCap": 31279197000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2022-09-26",
+        "marketCap": 30993477000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2022-09-23",
+        "marketCap": 31357770000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2022-09-22",
+        "marketCap": 31979211000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2022-09-21",
+        "marketCap": 32129213999
+    },
+    {
+        "symbol": "DOW",
+        "date": "2022-09-20",
+        "marketCap": 32922087000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2022-09-19",
+        "marketCap": 33386382000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2022-09-16",
+        "marketCap": 33157806000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2022-09-15",
+        "marketCap": 33507812999
+    },
+    {
+        "symbol": "DOW",
+        "date": "2022-09-14",
+        "marketCap": 33622101000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2022-09-13",
+        "marketCap": 34193541000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2022-09-12",
+        "marketCap": 36379299000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2022-09-09",
+        "marketCap": 36079293000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2022-09-08",
+        "marketCap": 35286420000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2022-09-07",
+        "marketCap": 34979271000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2022-09-06",
+        "marketCap": 34707837000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2022-09-02",
+        "marketCap": 35222133000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2022-09-01",
+        "marketCap": 35686428000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2022-08-31",
+        "marketCap": 36429300000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2022-08-30",
+        "marketCap": 36700734000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2022-08-29",
+        "marketCap": 38265051000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2022-08-26",
+        "marketCap": 38900778000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2022-08-25",
+        "marketCap": 39829368000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2022-08-24",
+        "marketCap": 38743632000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2022-08-23",
+        "marketCap": 39729366000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2022-08-22",
+        "marketCap": 38865063000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2022-08-19",
+        "marketCap": 39636507000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2022-08-18",
+        "marketCap": 40015086000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2022-08-17",
+        "marketCap": 39615078000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2022-08-16",
+        "marketCap": 40079373000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2022-08-15",
+        "marketCap": 39529362000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2022-08-12",
+        "marketCap": 39950799000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2022-08-11",
+        "marketCap": 39472218000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2022-08-10",
+        "marketCap": 38600772000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2022-08-09",
+        "marketCap": 37657896000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2022-08-08",
+        "marketCap": 37250745000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2022-08-05",
+        "marketCap": 36779307000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2022-08-04",
+        "marketCap": 36422157000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2022-08-03",
+        "marketCap": 36779307000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2022-08-02",
+        "marketCap": 36822165000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2022-08-01",
+        "marketCap": 37472178000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2022-07-29",
+        "marketCap": 38007903000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2022-07-28",
+        "marketCap": 37357890000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2022-07-27",
+        "marketCap": 37315032000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2022-07-26",
+        "marketCap": 36643590000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2022-07-25",
+        "marketCap": 36843594000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2022-07-22",
+        "marketCap": 36322155000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2022-07-21",
+        "marketCap": 36715020000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2022-07-20",
+        "marketCap": 37536465000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2022-07-19",
+        "marketCap": 37465035000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2022-07-18",
+        "marketCap": 36050721000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2022-07-15",
+        "marketCap": 35393565000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2022-07-14",
+        "marketCap": 34929270000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2022-07-13",
+        "marketCap": 35479281000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2022-07-12",
+        "marketCap": 36015006000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2022-07-11",
+        "marketCap": 36436443000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2022-07-08",
+        "marketCap": 36700734000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2022-07-07",
+        "marketCap": 37343604000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2022-07-06",
+        "marketCap": 36557874000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2022-07-05",
+        "marketCap": 36236439000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2022-07-01",
+        "marketCap": 36922167000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2022-06-30",
+        "marketCap": 36865023000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2022-06-29",
+        "marketCap": 37721886000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2022-06-28",
+        "marketCap": 38121021000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2022-06-27",
+        "marketCap": 37896054000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2022-06-24",
+        "marketCap": 38563698000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2022-06-23",
+        "marketCap": 37054242000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2022-06-22",
+        "marketCap": 37983138000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2022-06-21",
+        "marketCap": 39877215000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2022-06-17",
+        "marketCap": 39746589000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2022-06-16",
+        "marketCap": 40218294000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2022-06-15",
+        "marketCap": 41662437000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2022-06-14",
+        "marketCap": 42496992000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2022-06-13",
+        "marketCap": 42584076000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2022-06-10",
+        "marketCap": 44899059000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2022-06-09",
+        "marketCap": 47794602000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2022-06-08",
+        "marketCap": 48796068000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2022-06-07",
+        "marketCap": 48890409000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2022-06-06",
+        "marketCap": 48672698999
+    },
+    {
+        "symbol": "DOW",
+        "date": "2022-06-03",
+        "marketCap": 48643671000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2022-06-02",
+        "marketCap": 49420169999
+    },
+    {
+        "symbol": "DOW",
+        "date": "2022-06-01",
+        "marketCap": 49427427000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2022-05-31",
+        "marketCap": 49333086000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2022-05-27",
+        "marketCap": 50116842000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2022-05-26",
+        "marketCap": 49231488000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2022-05-25",
+        "marketCap": 48839610000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2022-05-24",
+        "marketCap": 48672698999
+    },
+    {
+        "symbol": "DOW",
+        "date": "2022-05-23",
+        "marketCap": 48977493000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2022-05-20",
+        "marketCap": 49427427000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2022-05-19",
+        "marketCap": 49899132000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2022-05-18",
+        "marketCap": 50007987000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2022-05-17",
+        "marketCap": 50777229000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2022-05-16",
+        "marketCap": 49333086000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2022-05-13",
+        "marketCap": 49028292000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2022-05-12",
+        "marketCap": 48650928000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2022-05-11",
+        "marketCap": 48469503000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2022-05-10",
+        "marketCap": 47758317000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2022-05-09",
+        "marketCap": 48353391000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2022-05-06",
+        "marketCap": 49296801000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2022-05-05",
+        "marketCap": 49688679000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2022-05-04",
+        "marketCap": 51241677000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2022-05-03",
+        "marketCap": 49456455000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2022-05-02",
+        "marketCap": 48665442000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2022-04-29",
+        "marketCap": 48259050000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2022-04-28",
+        "marketCap": 49209717000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2022-04-27",
+        "marketCap": 48948465000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2022-04-26",
+        "marketCap": 48890409000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2022-04-25",
+        "marketCap": 49398398999
+    },
+    {
+        "symbol": "DOW",
+        "date": "2022-04-22",
+        "marketCap": 49710450000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2022-04-21",
+        "marketCap": 50443407000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2022-04-20",
+        "marketCap": 49013778000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2022-04-19",
+        "marketCap": 48658185000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2022-04-18",
+        "marketCap": 47809116000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2022-04-14",
+        "marketCap": 47526093000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2022-04-13",
+        "marketCap": 46560912000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2022-04-12",
+        "marketCap": 45907782000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2022-04-11",
+        "marketCap": 44957115000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2022-04-08",
+        "marketCap": 44761176000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2022-04-07",
+        "marketCap": 44449125000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2022-04-06",
+        "marketCap": 44753919000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2022-04-05",
+        "marketCap": 46074693000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2022-04-04",
+        "marketCap": 46452057000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2022-04-01",
+        "marketCap": 46575426000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2022-03-31",
+        "marketCap": 46241604000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2022-03-30",
+        "marketCap": 47205396000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2022-03-29",
+        "marketCap": 47153974000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2022-03-28",
+        "marketCap": 47095206000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2022-03-25",
+        "marketCap": 47528620000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2022-03-24",
+        "marketCap": 47080514000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2022-03-23",
+        "marketCap": 46500180000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2022-03-22",
+        "marketCap": 46683830000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2022-03-21",
+        "marketCap": 46529564000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2022-03-18",
+        "marketCap": 45831694000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2022-03-17",
+        "marketCap": 46162264000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2022-03-16",
+        "marketCap": 43811544000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2022-03-15",
+        "marketCap": 43245902000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2022-03-14",
+        "marketCap": 44281688000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2022-03-11",
+        "marketCap": 44744486000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2022-03-10",
+        "marketCap": 44538798000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2022-03-09",
+        "marketCap": 43929080000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2022-03-08",
+        "marketCap": 42489264000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2022-03-07",
+        "marketCap": 42592108000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2022-03-04",
+        "marketCap": 43216518000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2022-03-03",
+        "marketCap": 43833582000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2022-03-02",
+        "marketCap": 43488320000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2022-03-01",
+        "marketCap": 41967698000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2022-02-28",
+        "marketCap": 43312016000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2022-02-25",
+        "marketCap": 43818890000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2022-02-24",
+        "marketCap": 43135712000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2022-02-23",
+        "marketCap": 44053962000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2022-02-22",
+        "marketCap": 44296380000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2022-02-18",
+        "marketCap": 44509414000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2022-02-17",
+        "marketCap": 44935482000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2022-02-16",
+        "marketCap": 45603968000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2022-02-15",
+        "marketCap": 45442356000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2022-02-14",
+        "marketCap": 44685718000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2022-02-11",
+        "marketCap": 44876714000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2022-02-10",
+        "marketCap": 44773870000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2022-02-09",
+        "marketCap": 45537854000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2022-02-08",
+        "marketCap": 44876714000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2022-02-07",
+        "marketCap": 44009886000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2022-02-04",
+        "marketCap": 44516760000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2022-02-03",
+        "marketCap": 44964866000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2022-02-02",
+        "marketCap": 45295436000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2022-02-01",
+        "marketCap": 45405626000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2022-01-31",
+        "marketCap": 43877658000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2022-01-28",
+        "marketCap": 44105384000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2022-01-27",
+        "marketCap": 44208228000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2022-01-26",
+        "marketCap": 42033812000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2022-01-25",
+        "marketCap": 42004428000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2022-01-24",
+        "marketCap": 41593052000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2022-01-21",
+        "marketCap": 41666512000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2022-01-20",
+        "marketCap": 42467226000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2022-01-19",
+        "marketCap": 43958464000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2022-01-18",
+        "marketCap": 44222920000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2022-01-14",
+        "marketCap": 44619604000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2022-01-13",
+        "marketCap": 44031924000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2022-01-12",
+        "marketCap": 43532396000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2022-01-11",
+        "marketCap": 43473628000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2022-01-10",
+        "marketCap": 42900640000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2022-01-07",
+        "marketCap": 43414860000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2022-01-06",
+        "marketCap": 42783104000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2022-01-05",
+        "marketCap": 42863910000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2022-01-04",
+        "marketCap": 42907986000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2022-01-03",
+        "marketCap": 41776702000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2021-12-31",
+        "marketCap": 41666512000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2021-12-30",
+        "marketCap": 41909318000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2021-12-29",
+        "marketCap": 42115986000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2021-12-28",
+        "marketCap": 41798603000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2021-12-27",
+        "marketCap": 41237647000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2021-12-23",
+        "marketCap": 40698834000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2021-12-22",
+        "marketCap": 40027163000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2021-12-21",
+        "marketCap": 40005020000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2021-12-20",
+        "marketCap": 39495731000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2021-12-17",
+        "marketCap": 39931210000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2021-12-16",
+        "marketCap": 40300260000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2021-12-15",
+        "marketCap": 39886924000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2021-12-14",
+        "marketCap": 39768828000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2021-12-13",
+        "marketCap": 39355492000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2021-12-10",
+        "marketCap": 40359308000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2021-12-09",
+        "marketCap": 40145259000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2021-12-08",
+        "marketCap": 40529071000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2021-12-07",
+        "marketCap": 40492166000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2021-12-06",
+        "marketCap": 39768828000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2021-12-03",
+        "marketCap": 39170967000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2021-12-02",
+        "marketCap": 39252158000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2021-12-01",
+        "marketCap": 38942156000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2021-11-30",
+        "marketCap": 40543833000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2021-11-29",
+        "marketCap": 41968366000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2021-11-26",
+        "marketCap": 42514560000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2021-11-24",
+        "marketCap": 43274803000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2021-11-23",
+        "marketCap": 43680758000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2021-11-22",
+        "marketCap": 43392899000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2021-11-19",
+        "marketCap": 42322654000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2021-11-18",
+        "marketCap": 42795038000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2021-11-17",
+        "marketCap": 43060754000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2021-11-16",
+        "marketCap": 43444566000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2021-11-15",
+        "marketCap": 44226952000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2021-11-12",
+        "marketCap": 44330286000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2021-11-11",
+        "marketCap": 44049808000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2021-11-10",
+        "marketCap": 43370756000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2021-11-09",
+        "marketCap": 43392899000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2021-11-08",
+        "marketCap": 43230517000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2021-11-05",
+        "marketCap": 43038611000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2021-11-04",
+        "marketCap": 42197177000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2021-11-03",
+        "marketCap": 43584805000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2021-11-02",
+        "marketCap": 43156707000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2021-11-01",
+        "marketCap": 42396464000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2021-10-29",
+        "marketCap": 41311457000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2021-10-28",
+        "marketCap": 41754317000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2021-10-27",
+        "marketCap": 41333600000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2021-10-26",
+        "marketCap": 43333851000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2021-10-25",
+        "marketCap": 43333851000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2021-10-22",
+        "marketCap": 43105040000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2021-10-21",
+        "marketCap": 43739806000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2021-10-20",
+        "marketCap": 44204809000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2021-10-19",
+        "marketCap": 43688139000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2021-10-18",
+        "marketCap": 43510995000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2021-10-15",
+        "marketCap": 43518376000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2021-10-14",
+        "marketCap": 43355994000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2021-10-13",
+        "marketCap": 42005271000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2021-10-12",
+        "marketCap": 42617894000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2021-10-11",
+        "marketCap": 42979563000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2021-10-08",
+        "marketCap": 43333851000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2021-10-07",
+        "marketCap": 43186231000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2021-10-06",
+        "marketCap": 42189796000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2021-10-05",
+        "marketCap": 43621710000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2021-10-04",
+        "marketCap": 42986944000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2021-10-01",
+        "marketCap": 43237898000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2021-09-30",
+        "marketCap": 42485036000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2021-09-29",
+        "marketCap": 43791490000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2021-09-28",
+        "marketCap": 44267970000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2021-09-27",
+        "marketCap": 44439205000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2021-09-24",
+        "marketCap": 42295045000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2021-09-23",
+        "marketCap": 42756635000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2021-09-22",
+        "marketCap": 41915350000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2021-09-21",
+        "marketCap": 41342085000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2021-09-20",
+        "marketCap": 41826010000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2021-09-17",
+        "marketCap": 42994875000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2021-09-16",
+        "marketCap": 44275415000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2021-09-15",
+        "marketCap": 44818900000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2021-09-14",
+        "marketCap": 44409425000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2021-09-13",
+        "marketCap": 45206040000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2021-09-10",
+        "marketCap": 44975245000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2021-09-09",
+        "marketCap": 44878460000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2021-09-08",
+        "marketCap": 45183705000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2021-09-07",
+        "marketCap": 46062215000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2021-09-03",
+        "marketCap": 46248340000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2021-09-02",
+        "marketCap": 46620590000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2021-09-01",
+        "marketCap": 46561030000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2021-08-31",
+        "marketCap": 46829050000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2021-08-30",
+        "marketCap": 47633110000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2021-08-27",
+        "marketCap": 48675410000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2021-08-26",
+        "marketCap": 47387425000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2021-08-25",
+        "marketCap": 47551215000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2021-08-24",
+        "marketCap": 47097070000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2021-08-23",
+        "marketCap": 46203670000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2021-08-20",
+        "marketCap": 45332605000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2021-08-19",
+        "marketCap": 45079475000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2021-08-18",
+        "marketCap": 46069660000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2021-08-17",
+        "marketCap": 46389795000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2021-08-16",
+        "marketCap": 47141740000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2021-08-13",
+        "marketCap": 47417205000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2021-08-12",
+        "marketCap": 47655445000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2021-08-11",
+        "marketCap": 47826680000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2021-08-10",
+        "marketCap": 46992840000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2021-08-09",
+        "marketCap": 46024990000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2021-08-06",
+        "marketCap": 46159000000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2021-08-05",
+        "marketCap": 45414500000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2021-08-04",
+        "marketCap": 45407055000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2021-08-03",
+        "marketCap": 46330235000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2021-08-02",
+        "marketCap": 45578290000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2021-07-30",
+        "marketCap": 46278120000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2021-07-29",
+        "marketCap": 46605700000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2021-07-28",
+        "marketCap": 46062215000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2021-07-27",
+        "marketCap": 46121775000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2021-07-26",
+        "marketCap": 46166445000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2021-07-23",
+        "marketCap": 44751895000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2021-07-22",
+        "marketCap": 45027360000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2021-07-21",
+        "marketCap": 44468985000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2021-07-20",
+        "marketCap": 43642590000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2021-07-19",
+        "marketCap": 43024655000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2021-07-16",
+        "marketCap": 44677445000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2021-07-15",
+        "marketCap": 46091995000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2021-07-14",
+        "marketCap": 46397240000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2021-07-13",
+        "marketCap": 46680150000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2021-07-12",
+        "marketCap": 47067290000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2021-07-09",
+        "marketCap": 46963060000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2021-07-08",
+        "marketCap": 45719745000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2021-07-07",
+        "marketCap": 46345125000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2021-07-06",
+        "marketCap": 46106885000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2021-07-02",
+        "marketCap": 47283195000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2021-07-01",
+        "marketCap": 47275750000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2021-06-30",
+        "marketCap": 47111960000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2021-06-29",
+        "marketCap": 47046060000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2021-06-28",
+        "marketCap": 46986300000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2021-06-25",
+        "marketCap": 47277630000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2021-06-24",
+        "marketCap": 47143170000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2021-06-23",
+        "marketCap": 47173050000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2021-06-22",
+        "marketCap": 47434500000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2021-06-21",
+        "marketCap": 47143170000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2021-06-18",
+        "marketCap": 46299060000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2021-06-17",
+        "marketCap": 47464380000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2021-06-16",
+        "marketCap": 48995730000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2021-06-15",
+        "marketCap": 50213340000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2021-06-14",
+        "marketCap": 50019119999
+    },
+    {
+        "symbol": "DOW",
+        "date": "2021-06-11",
+        "marketCap": 50796000000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2021-06-10",
+        "marketCap": 50788529999
+    },
+    {
+        "symbol": "DOW",
+        "date": "2021-06-09",
+        "marketCap": 51423480000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2021-06-08",
+        "marketCap": 51826860000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2021-06-07",
+        "marketCap": 51722279999
+    },
+    {
+        "symbol": "DOW",
+        "date": "2021-06-04",
+        "marketCap": 52566390000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2021-06-03",
+        "marketCap": 52745670000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2021-06-02",
+        "marketCap": 51505650000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2021-06-01",
+        "marketCap": 52596270000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2021-05-28",
+        "marketCap": 51109740000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2021-05-27",
+        "marketCap": 51289020000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2021-05-26",
+        "marketCap": 51968789999
+    },
+    {
+        "symbol": "DOW",
+        "date": "2021-05-25",
+        "marketCap": 51572880000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2021-05-24",
+        "marketCap": 51953850000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2021-05-21",
+        "marketCap": 51416010000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2021-05-20",
+        "marketCap": 50990220000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2021-05-19",
+        "marketCap": 51206850000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2021-05-18",
+        "marketCap": 51938910000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2021-05-17",
+        "marketCap": 52969770000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2021-05-14",
+        "marketCap": 52163010000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2021-05-13",
+        "marketCap": 50855760000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2021-05-12",
+        "marketCap": 50497199999
+    },
+    {
+        "symbol": "DOW",
+        "date": "2021-05-11",
+        "marketCap": 51221789999
+    },
+    {
+        "symbol": "DOW",
+        "date": "2021-05-10",
+        "marketCap": 51341310000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2021-05-07",
+        "marketCap": 51572880000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2021-05-06",
+        "marketCap": 51572880000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2021-05-05",
+        "marketCap": 50848289999
+    },
+    {
+        "symbol": "DOW",
+        "date": "2021-05-04",
+        "marketCap": 49466340000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2021-05-03",
+        "marketCap": 48218850000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2021-04-30",
+        "marketCap": 46687500000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2021-04-29",
+        "marketCap": 47852820000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2021-04-28",
+        "marketCap": 47292570000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2021-04-27",
+        "marketCap": 46799550000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2021-04-26",
+        "marketCap": 46463400000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2021-04-23",
+        "marketCap": 46396170000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2021-04-22",
+        "marketCap": 45514710000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2021-04-21",
+        "marketCap": 48420539999
+    },
+    {
+        "symbol": "DOW",
+        "date": "2021-04-20",
+        "marketCap": 46672560000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2021-04-19",
+        "marketCap": 48218850000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2021-04-16",
+        "marketCap": 48315960000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2021-04-15",
+        "marketCap": 48233789999
+    },
+    {
+        "symbol": "DOW",
+        "date": "2021-04-14",
+        "marketCap": 47987279999
+    },
+    {
+        "symbol": "DOW",
+        "date": "2021-04-13",
+        "marketCap": 47292570000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2021-04-12",
+        "marketCap": 47651130000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2021-04-09",
+        "marketCap": 47165580000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2021-04-08",
+        "marketCap": 47202930000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2021-04-07",
+        "marketCap": 47800530000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2021-04-06",
+        "marketCap": 48256199999
+    },
+    {
+        "symbol": "DOW",
+        "date": "2021-04-05",
+        "marketCap": 48248730000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2021-04-01",
+        "marketCap": 48256199999
+    },
+    {
+        "symbol": "DOW",
+        "date": "2021-03-31",
+        "marketCap": 47763180000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2021-03-30",
+        "marketCap": 48121528000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2021-03-29",
+        "marketCap": 47592720000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2021-03-26",
+        "marketCap": 47659752000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2021-03-25",
+        "marketCap": 47101152000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2021-03-24",
+        "marketCap": 46207392000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2021-03-23",
+        "marketCap": 45246600000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2021-03-22",
+        "marketCap": 47302248000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2021-03-19",
+        "marketCap": 47600168000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2021-03-18",
+        "marketCap": 48203456000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2021-03-17",
+        "marketCap": 49164248000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2021-03-16",
+        "marketCap": 47056464000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2021-03-15",
+        "marketCap": 46847920000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2021-03-12",
+        "marketCap": 47920432000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2021-03-11",
+        "marketCap": 47905535999
+    },
+    {
+        "symbol": "DOW",
+        "date": "2021-03-10",
+        "marketCap": 47734232000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2021-03-09",
+        "marketCap": 46371248000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2021-03-08",
+        "marketCap": 47250112000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2021-03-05",
+        "marketCap": 46855368000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2021-03-04",
+        "marketCap": 45581760000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2021-03-03",
+        "marketCap": 46363800000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2021-03-02",
+        "marketCap": 46721304000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2021-03-01",
+        "marketCap": 45834992000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2021-02-26",
+        "marketCap": 44174088000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2021-02-25",
+        "marketCap": 45693480000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2021-02-24",
+        "marketCap": 47436312000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2021-02-23",
+        "marketCap": 46266976000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2021-02-22",
+        "marketCap": 46535104000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2021-02-19",
+        "marketCap": 44978472000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2021-02-18",
+        "marketCap": 42870688000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2021-02-17",
+        "marketCap": 43600592000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2021-02-16",
+        "marketCap": 43757000000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2021-02-12",
+        "marketCap": 43310120000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2021-02-11",
+        "marketCap": 42952616000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2021-02-10",
+        "marketCap": 42952616000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2021-02-09",
+        "marketCap": 42155680000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2021-02-08",
+        "marketCap": 42714280000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2021-02-05",
+        "marketCap": 42632352000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2021-02-04",
+        "marketCap": 41962032000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2021-02-03",
+        "marketCap": 41224680000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2021-02-02",
+        "marketCap": 40673528000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2021-02-01",
+        "marketCap": 39288200000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2021-01-29",
+        "marketCap": 38655120000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2021-01-28",
+        "marketCap": 40502224000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2021-01-27",
+        "marketCap": 40509672000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2021-01-26",
+        "marketCap": 41515152000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2021-01-25",
+        "marketCap": 42624904000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2021-01-22",
+        "marketCap": 42826000000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2021-01-21",
+        "marketCap": 42870688000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2021-01-20",
+        "marketCap": 43622936000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2021-01-19",
+        "marketCap": 42863240000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2021-01-15",
+        "marketCap": 42684488000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2021-01-14",
+        "marketCap": 44427320000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2021-01-13",
+        "marketCap": 44710344000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2021-01-12",
+        "marketCap": 45462592000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2021-01-11",
+        "marketCap": 43838928000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2021-01-08",
+        "marketCap": 43354808000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2021-01-07",
+        "marketCap": 43578248000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2021-01-06",
+        "marketCap": 43518664000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2021-01-05",
+        "marketCap": 41559840000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2021-01-04",
+        "marketCap": 40248992000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2020-12-31",
+        "marketCap": 41336400000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2020-12-30",
+        "marketCap": 41164287000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2020-12-29",
+        "marketCap": 40318293000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2020-12-28",
+        "marketCap": 40288609000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2020-12-24",
+        "marketCap": 40659659000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2020-12-23",
+        "marketCap": 40629975000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2020-12-22",
+        "marketCap": 40570607000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2020-12-21",
+        "marketCap": 40874868000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2020-12-18",
+        "marketCap": 41305286000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2020-12-17",
+        "marketCap": 39947243000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2020-12-16",
+        "marketCap": 39947243000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2020-12-15",
+        "marketCap": 40169873000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2020-12-14",
+        "marketCap": 39375826000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2020-12-11",
+        "marketCap": 40073400000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2020-12-10",
+        "marketCap": 40392503000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2020-12-09",
+        "marketCap": 40563186000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2020-12-08",
+        "marketCap": 40481555000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2020-12-07",
+        "marketCap": 39487141000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2020-12-04",
+        "marketCap": 40852605000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2020-12-03",
+        "marketCap": 39776560000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2020-12-02",
+        "marketCap": 39479720000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2020-12-01",
+        "marketCap": 39724613000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2020-11-30",
+        "marketCap": 39338721000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2020-11-27",
+        "marketCap": 41112340000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2020-11-25",
+        "marketCap": 41876703000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2020-11-24",
+        "marketCap": 42841433000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2020-11-23",
+        "marketCap": 41513074000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2020-11-20",
+        "marketCap": 40615133000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2020-11-19",
+        "marketCap": 41067814000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2020-11-18",
+        "marketCap": 41038130000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2020-11-17",
+        "marketCap": 40429608000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2020-11-16",
+        "marketCap": 40021453000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2020-11-13",
+        "marketCap": 38566937000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2020-11-12",
+        "marketCap": 37876784000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2020-11-11",
+        "marketCap": 38745041000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2020-11-10",
+        "marketCap": 39672666000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2020-11-09",
+        "marketCap": 38678252000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2020-11-06",
+        "marketCap": 35791483000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2020-11-05",
+        "marketCap": 36340637000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2020-11-04",
+        "marketCap": 34470545000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2020-11-03",
+        "marketCap": 36162533000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2020-11-02",
+        "marketCap": 35487222000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2020-10-30",
+        "marketCap": 33758129000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2020-10-29",
+        "marketCap": 34322125000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2020-10-28",
+        "marketCap": 33528078000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2020-10-27",
+        "marketCap": 34559597000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2020-10-26",
+        "marketCap": 34990015000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2020-10-23",
+        "marketCap": 36014113000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2020-10-22",
+        "marketCap": 36229322000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2020-10-21",
+        "marketCap": 36028955000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2020-10-20",
+        "marketCap": 36615214000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2020-10-19",
+        "marketCap": 36244164000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2020-10-16",
+        "marketCap": 36585530000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2020-10-15",
+        "marketCap": 36370321000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2020-10-14",
+        "marketCap": 36236743000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2020-10-13",
+        "marketCap": 35531748000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2020-10-12",
+        "marketCap": 36051218000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2020-10-09",
+        "marketCap": 36630056000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2020-10-08",
+        "marketCap": 36644898000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2020-10-07",
+        "marketCap": 35843430000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2020-10-06",
+        "marketCap": 35531748000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2020-10-05",
+        "marketCap": 36051218000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2020-10-02",
+        "marketCap": 35108751000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2020-10-01",
+        "marketCap": 34218231000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2020-09-30",
+        "marketCap": 34915805000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2020-09-29",
+        "marketCap": 34485085000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2020-09-28",
+        "marketCap": 35158940000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2020-09-25",
+        "marketCap": 34092620000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2020-09-24",
+        "marketCap": 34366605000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2020-09-23",
+        "marketCap": 34610970000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2020-09-22",
+        "marketCap": 35395900000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2020-09-21",
+        "marketCap": 35477355000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2020-09-18",
+        "marketCap": 37298985000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2020-09-17",
+        "marketCap": 37743285000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2020-09-16",
+        "marketCap": 36802850000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2020-09-15",
+        "marketCap": 37817335000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2020-09-14",
+        "marketCap": 37091645000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2020-09-11",
+        "marketCap": 36913925000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2020-09-10",
+        "marketCap": 36062350000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2020-09-09",
+        "marketCap": 36454815000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2020-09-08",
+        "marketCap": 35492165000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2020-09-04",
+        "marketCap": 35988300000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2020-09-03",
+        "marketCap": 35832795000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2020-09-02",
+        "marketCap": 36447410000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2020-09-01",
+        "marketCap": 35003435000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2020-08-31",
+        "marketCap": 33411360000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2020-08-28",
+        "marketCap": 34100024999
+    },
+    {
+        "symbol": "DOW",
+        "date": "2020-08-27",
+        "marketCap": 34181479999
+    },
+    {
+        "symbol": "DOW",
+        "date": "2020-08-26",
+        "marketCap": 34314770000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2020-08-25",
+        "marketCap": 33759395000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2020-08-24",
+        "marketCap": 34151860000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2020-08-21",
+        "marketCap": 32278395000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2020-08-20",
+        "marketCap": 32352445000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2020-08-19",
+        "marketCap": 33055920000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2020-08-18",
+        "marketCap": 33107755000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2020-08-17",
+        "marketCap": 32922630000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2020-08-14",
+        "marketCap": 33226235000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2020-08-13",
+        "marketCap": 32900415000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2020-08-12",
+        "marketCap": 32789340000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2020-08-11",
+        "marketCap": 32952250000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2020-08-10",
+        "marketCap": 33174399999
+    },
+    {
+        "symbol": "DOW",
+        "date": "2020-08-07",
+        "marketCap": 31567515000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2020-08-06",
+        "marketCap": 31138024999
+    },
+    {
+        "symbol": "DOW",
+        "date": "2020-08-05",
+        "marketCap": 31093595000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2020-08-04",
+        "marketCap": 30597460000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2020-08-03",
+        "marketCap": 29686645000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2020-07-31",
+        "marketCap": 30404930000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2020-07-30",
+        "marketCap": 30901064999
+    },
+    {
+        "symbol": "DOW",
+        "date": "2020-07-29",
+        "marketCap": 32226560000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2020-07-28",
+        "marketCap": 31560110000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2020-07-27",
+        "marketCap": 32582000000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2020-07-24",
+        "marketCap": 31552705000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2020-07-23",
+        "marketCap": 31708210000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2020-07-22",
+        "marketCap": 32833770000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2020-07-21",
+        "marketCap": 31871120000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2020-07-20",
+        "marketCap": 31323149999
+    },
+    {
+        "symbol": "DOW",
+        "date": "2020-07-17",
+        "marketCap": 32337635000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2020-07-16",
+        "marketCap": 32456115000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2020-07-15",
+        "marketCap": 32085865000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2020-07-14",
+        "marketCap": 31426820000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2020-07-13",
+        "marketCap": 30538220000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2020-07-10",
+        "marketCap": 30182780000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2020-07-09",
+        "marketCap": 29205320000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2020-07-08",
+        "marketCap": 29879175000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2020-07-07",
+        "marketCap": 30871445000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2020-07-06",
+        "marketCap": 31434225000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2020-07-02",
+        "marketCap": 30797395000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2020-07-01",
+        "marketCap": 30175375000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2020-06-30",
+        "marketCap": 30182780000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2020-06-29",
+        "marketCap": 30007935462
+    },
+    {
+        "symbol": "DOW",
+        "date": "2020-06-26",
+        "marketCap": 29143870947
+    },
+    {
+        "symbol": "DOW",
+        "date": "2020-06-25",
+        "marketCap": 29275677398
+    },
+    {
+        "symbol": "DOW",
+        "date": "2020-06-24",
+        "marketCap": 28155322560
+    },
+    {
+        "symbol": "DOW",
+        "date": "2020-06-23",
+        "marketCap": 30278870946
+    },
+    {
+        "symbol": "DOW",
+        "date": "2020-06-22",
+        "marketCap": 30564451591
+    },
+    {
+        "symbol": "DOW",
+        "date": "2020-06-19",
+        "marketCap": 30498548365
+    },
+    {
+        "symbol": "DOW",
+        "date": "2020-06-18",
+        "marketCap": 30447290301
+    },
+    {
+        "symbol": "DOW",
+        "date": "2020-06-17",
+        "marketCap": 30147064494
+    },
+    {
+        "symbol": "DOW",
+        "date": "2020-06-16",
+        "marketCap": 30937903204
+    },
+    {
+        "symbol": "DOW",
+        "date": "2020-06-15",
+        "marketCap": 30740193526
+    },
+    {
+        "symbol": "DOW",
+        "date": "2020-06-12",
+        "marketCap": 30190999978
+    },
+    {
+        "symbol": "DOW",
+        "date": "2020-06-11",
+        "marketCap": 28748451592
+    },
+    {
+        "symbol": "DOW",
+        "date": "2020-06-10",
+        "marketCap": 31911806429
+    },
+    {
+        "symbol": "DOW",
+        "date": "2020-06-09",
+        "marketCap": 32519580622
+    },
+    {
+        "symbol": "DOW",
+        "date": "2020-06-08",
+        "marketCap": 33610645137
+    },
+    {
+        "symbol": "DOW",
+        "date": "2020-06-05",
+        "marketCap": 32197387074
+    },
+    {
+        "symbol": "DOW",
+        "date": "2020-06-04",
+        "marketCap": 31274741913
+    },
+    {
+        "symbol": "DOW",
+        "date": "2020-06-03",
+        "marketCap": 30483903204
+    },
+    {
+        "symbol": "DOW",
+        "date": "2020-06-02",
+        "marketCap": 29729677398
+    },
+    {
+        "symbol": "DOW",
+        "date": "2020-06-01",
+        "marketCap": 28272483851
+    },
+    {
+        "symbol": "DOW",
+        "date": "2020-05-29",
+        "marketCap": 28265161270
+    },
+    {
+        "symbol": "DOW",
+        "date": "2020-05-28",
+        "marketCap": 28345709657
+    },
+    {
+        "symbol": "DOW",
+        "date": "2020-05-27",
+        "marketCap": 29158516108
+    },
+    {
+        "symbol": "DOW",
+        "date": "2020-05-26",
+        "marketCap": 28404290302
+    },
+    {
+        "symbol": "DOW",
+        "date": "2020-05-22",
+        "marketCap": 26449161271
+    },
+    {
+        "symbol": "DOW",
+        "date": "2020-05-21",
+        "marketCap": 26229483852
+    },
+    {
+        "symbol": "DOW",
+        "date": "2020-05-20",
+        "marketCap": 26493096755
+    },
+    {
+        "symbol": "DOW",
+        "date": "2020-05-19",
+        "marketCap": 26097677400
+    },
+    {
+        "symbol": "DOW",
+        "date": "2020-05-18",
+        "marketCap": 26903161271
+    },
+    {
+        "symbol": "DOW",
+        "date": "2020-05-15",
+        "marketCap": 24574580627
+    },
+    {
+        "symbol": "DOW",
+        "date": "2020-05-14",
+        "marketCap": 24537967724
+    },
+    {
+        "symbol": "DOW",
+        "date": "2020-05-13",
+        "marketCap": 23688548370
+    },
+    {
+        "symbol": "DOW",
+        "date": "2020-05-12",
+        "marketCap": 24742999982
+    },
+    {
+        "symbol": "DOW",
+        "date": "2020-05-11",
+        "marketCap": 24823548369
+    },
+    {
+        "symbol": "DOW",
+        "date": "2020-05-08",
+        "marketCap": 25138419337
+    },
+    {
+        "symbol": "DOW",
+        "date": "2020-05-07",
+        "marketCap": 24054677402
+    },
+    {
+        "symbol": "DOW",
+        "date": "2020-05-06",
+        "marketCap": 23402967725
+    },
+    {
+        "symbol": "DOW",
+        "date": "2020-05-05",
+        "marketCap": 24435451595
+    },
+    {
+        "symbol": "DOW",
+        "date": "2020-05-04",
+        "marketCap": 24208451595
+    },
+    {
+        "symbol": "DOW",
+        "date": "2020-05-01",
+        "marketCap": 24845516111
+    },
+    {
+        "symbol": "DOW",
+        "date": "2020-04-30",
+        "marketCap": 26866548368
+    },
+    {
+        "symbol": "DOW",
+        "date": "2020-04-29",
+        "marketCap": 27437709658
+    },
+    {
+        "symbol": "DOW",
+        "date": "2020-04-28",
+        "marketCap": 26266096755
+    },
+    {
+        "symbol": "DOW",
+        "date": "2020-04-27",
+        "marketCap": 25218967724
+    },
+    {
+        "symbol": "DOW",
+        "date": "2020-04-24",
+        "marketCap": 24252387079
+    },
+    {
+        "symbol": "DOW",
+        "date": "2020-04-23",
+        "marketCap": 23842322563
+    },
+    {
+        "symbol": "DOW",
+        "date": "2020-04-22",
+        "marketCap": 23315096757
+    },
+    {
+        "symbol": "DOW",
+        "date": "2020-04-21",
+        "marketCap": 22612129016
+    },
+    {
+        "symbol": "DOW",
+        "date": "2020-04-20",
+        "marketCap": 23088096757
+    },
+    {
+        "symbol": "DOW",
+        "date": "2020-04-17",
+        "marketCap": 24472064498
+    },
+    {
+        "symbol": "DOW",
+        "date": "2020-04-16",
+        "marketCap": 23161322564
+    },
+    {
+        "symbol": "DOW",
+        "date": "2020-04-15",
+        "marketCap": 23600677402
+    },
+    {
+        "symbol": "DOW",
+        "date": "2020-04-14",
+        "marketCap": 25899967723
+    },
+    {
+        "symbol": "DOW",
+        "date": "2020-04-13",
+        "marketCap": 25797451594
+    },
+    {
+        "symbol": "DOW",
+        "date": "2020-04-09",
+        "marketCap": 26771354819
+    },
+    {
+        "symbol": "DOW",
+        "date": "2020-04-08",
+        "marketCap": 25475258046
+    },
+    {
+        "symbol": "DOW",
+        "date": "2020-04-07",
+        "marketCap": 23673903209
+    },
+    {
+        "symbol": "DOW",
+        "date": "2020-04-06",
+        "marketCap": 22363161274
+    },
+    {
+        "symbol": "DOW",
+        "date": "2020-04-03",
+        "marketCap": 20481258050
+    },
+    {
+        "symbol": "DOW",
+        "date": "2020-04-02",
+        "marketCap": 20525193533
+    },
+    {
+        "symbol": "DOW",
+        "date": "2020-04-01",
+        "marketCap": 19800258050
+    },
+    {
+        "symbol": "DOW",
+        "date": "2020-03-31",
+        "marketCap": 21411225791
+    },
+    {
+        "symbol": "DOW",
+        "date": "2020-03-30",
+        "marketCap": 21206730000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2020-03-27",
+        "marketCap": 21140112000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2020-03-26",
+        "marketCap": 21969136000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2020-03-25",
+        "marketCap": 22487276000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2020-03-24",
+        "marketCap": 21073494000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2020-03-23",
+        "marketCap": 19674516000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2020-03-20",
+        "marketCap": 20311088000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2020-03-19",
+        "marketCap": 20814424000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2020-03-18",
+        "marketCap": 19570888000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2020-03-17",
+        "marketCap": 19689320000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2020-03-16",
+        "marketCap": 16284400000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2020-03-13",
+        "marketCap": 19015738000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2020-03-12",
+        "marketCap": 17520534000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2020-03-11",
+        "marketCap": 20718198000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2020-03-10",
+        "marketCap": 23242280000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2020-03-09",
+        "marketCap": 22598306000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2020-03-06",
+        "marketCap": 28845594000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2020-03-05",
+        "marketCap": 29682020000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2020-03-04",
+        "marketCap": 31021781999
+    },
+    {
+        "symbol": "DOW",
+        "date": "2020-03-03",
+        "marketCap": 30022512000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2020-03-02",
+        "marketCap": 30659084000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2020-02-28",
+        "marketCap": 29911481999
+    },
+    {
+        "symbol": "DOW",
+        "date": "2020-02-27",
+        "marketCap": 29274909999
+    },
+    {
+        "symbol": "DOW",
+        "date": "2020-02-26",
+        "marketCap": 31865609999
+    },
+    {
+        "symbol": "DOW",
+        "date": "2020-02-25",
+        "marketCap": 32531790000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2020-02-24",
+        "marketCap": 34226848000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2020-02-21",
+        "marketCap": 35751660000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2020-02-20",
+        "marketCap": 36092152000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2020-02-19",
+        "marketCap": 35203912000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2020-02-18",
+        "marketCap": 35337148000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2020-02-14",
+        "marketCap": 35995926000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2020-02-13",
+        "marketCap": 35751660000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2020-02-12",
+        "marketCap": 36551076000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2020-02-11",
+        "marketCap": 36114358000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2020-02-10",
+        "marketCap": 35670238000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2020-02-07",
+        "marketCap": 35551806000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2020-02-06",
+        "marketCap": 36417840000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2020-02-05",
+        "marketCap": 36721322000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2020-02-04",
+        "marketCap": 35566610000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2020-02-03",
+        "marketCap": 34596948000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2020-01-31",
+        "marketCap": 34101014000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2020-01-30",
+        "marketCap": 35877494000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2020-01-29",
+        "marketCap": 36765734000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2020-01-28",
+        "marketCap": 34907832000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2020-01-27",
+        "marketCap": 34922636000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2020-01-24",
+        "marketCap": 35892298000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2020-01-23",
+        "marketCap": 37195050000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2020-01-22",
+        "marketCap": 37653974000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2020-01-21",
+        "marketCap": 38934520000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2020-01-17",
+        "marketCap": 39482268000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2020-01-16",
+        "marketCap": 38845696000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2020-01-15",
+        "marketCap": 38690254000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2020-01-14",
+        "marketCap": 38668048000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2020-01-13",
+        "marketCap": 38749470000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2020-01-10",
+        "marketCap": 38120300000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2020-01-09",
+        "marketCap": 38631038000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2020-01-08",
+        "marketCap": 39030746000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2020-01-07",
+        "marketCap": 38631038000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2020-01-06",
+        "marketCap": 38645842000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2020-01-03",
+        "marketCap": 38801284000
+    },
+    {
+        "symbol": "DOW",
+        "date": "2020-01-02",
+        "marketCap": 39785750000
+    }
+]

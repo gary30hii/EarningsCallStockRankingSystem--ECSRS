@@ -1,0 +1,548 @@
+[
+    {
+        "date": "2024-10-30",
+        "symbol": "PRU",
+        "actualEarningResult": 3.48,
+        "estimatedEarning": 3.47
+    },
+    {
+        "date": "2024-08-01",
+        "symbol": "PRU",
+        "actualEarningResult": 3.39,
+        "estimatedEarning": 3.45
+    },
+    {
+        "date": "2024-04-30",
+        "symbol": "PRU",
+        "actualEarningResult": 3.12,
+        "estimatedEarning": 3.13
+    },
+    {
+        "date": "2024-02-06",
+        "symbol": "PRU",
+        "actualEarningResult": 2.58,
+        "estimatedEarning": 2.61
+    },
+    {
+        "date": "2023-11-01",
+        "symbol": "PRU",
+        "actualEarningResult": 3.44,
+        "estimatedEarning": 3.16
+    },
+    {
+        "date": "2023-08-01",
+        "symbol": "PRU",
+        "actualEarningResult": 2.94,
+        "estimatedEarning": 3.04
+    },
+    {
+        "date": "2023-05-02",
+        "symbol": "PRU",
+        "actualEarningResult": 2.66,
+        "estimatedEarning": 3.02
+    },
+    {
+        "date": "2023-02-07",
+        "symbol": "PRU",
+        "actualEarningResult": 2.42,
+        "estimatedEarning": 2.57
+    },
+    {
+        "date": "2022-11-01",
+        "symbol": "PRU",
+        "actualEarningResult": 2.13,
+        "estimatedEarning": 2.21
+    },
+    {
+        "date": "2022-08-02",
+        "symbol": "PRU",
+        "actualEarningResult": 1.74,
+        "estimatedEarning": 2.62
+    },
+    {
+        "date": "2022-05-03",
+        "symbol": "PRU",
+        "actualEarningResult": 3.17,
+        "estimatedEarning": 2.67
+    },
+    {
+        "date": "2022-02-03",
+        "symbol": "PRU",
+        "actualEarningResult": 3.18,
+        "estimatedEarning": 2.36
+    },
+    {
+        "date": "2021-11-02",
+        "symbol": "PRU",
+        "actualEarningResult": 3.78,
+        "estimatedEarning": 2.74
+    },
+    {
+        "date": "2021-08-03",
+        "symbol": "PRU",
+        "actualEarningResult": 3.79,
+        "estimatedEarning": 3.04
+    },
+    {
+        "date": "2021-05-04",
+        "symbol": "PRU",
+        "actualEarningResult": 4.11,
+        "estimatedEarning": 2.68
+    },
+    {
+        "date": "2021-02-04",
+        "symbol": "PRU",
+        "actualEarningResult": 2.93,
+        "estimatedEarning": 2.5
+    },
+    {
+        "date": "2020-11-03",
+        "symbol": "PRU",
+        "actualEarningResult": 3.21,
+        "estimatedEarning": 2.72
+    },
+    {
+        "date": "2020-08-04",
+        "symbol": "PRU",
+        "actualEarningResult": 1.85,
+        "estimatedEarning": 1.72
+    },
+    {
+        "date": "2020-05-05",
+        "symbol": "PRU",
+        "actualEarningResult": 2.32,
+        "estimatedEarning": 2.84
+    },
+    {
+        "date": "2020-02-04",
+        "symbol": "PRU",
+        "actualEarningResult": 2.33,
+        "estimatedEarning": 2.02
+    },
+    {
+        "date": "2019-11-04",
+        "symbol": "PRU",
+        "actualEarningResult": 3.22,
+        "estimatedEarning": 3.07
+    },
+    {
+        "date": "2019-07-31",
+        "symbol": "PRU",
+        "actualEarningResult": 3.14,
+        "estimatedEarning": 3.22
+    },
+    {
+        "date": "2019-05-01",
+        "symbol": "PRU",
+        "actualEarningResult": 3,
+        "estimatedEarning": 3.14
+    },
+    {
+        "date": "2019-02-06",
+        "symbol": "PRU",
+        "actualEarningResult": 2.44,
+        "estimatedEarning": 2.78
+    },
+    {
+        "date": "2018-11-07",
+        "symbol": "PRU",
+        "actualEarningResult": 3.15,
+        "estimatedEarning": 3.16
+    },
+    {
+        "date": "2018-08-01",
+        "symbol": "PRU",
+        "actualEarningResult": 3.01,
+        "estimatedEarning": 3.08
+    },
+    {
+        "date": "2018-05-02",
+        "symbol": "PRU",
+        "actualEarningResult": 3.08,
+        "estimatedEarning": 2.98
+    },
+    {
+        "date": "2018-02-07",
+        "symbol": "PRU",
+        "actualEarningResult": 2.69,
+        "estimatedEarning": 2.6
+    },
+    {
+        "date": "2017-11-01",
+        "symbol": "PRU",
+        "actualEarningResult": 3.01,
+        "estimatedEarning": 2.71
+    },
+    {
+        "date": "2017-08-02",
+        "symbol": "PRU",
+        "actualEarningResult": 2.09,
+        "estimatedEarning": 2.7
+    },
+    {
+        "date": "2017-05-03",
+        "symbol": "PRU",
+        "actualEarningResult": 2.79,
+        "estimatedEarning": 2.64
+    },
+    {
+        "date": "2017-02-08",
+        "symbol": "PRU",
+        "actualEarningResult": 2.46,
+        "estimatedEarning": 2.31
+    },
+    {
+        "date": "2016-11-02",
+        "symbol": "PRU",
+        "actualEarningResult": 2.66,
+        "estimatedEarning": 2.5
+    },
+    {
+        "date": "2016-08-03",
+        "symbol": "PRU",
+        "actualEarningResult": 1.84,
+        "estimatedEarning": 2.5
+    },
+    {
+        "date": "2016-05-04",
+        "symbol": "PRU",
+        "actualEarningResult": 2.18,
+        "estimatedEarning": 2.37
+    },
+    {
+        "date": "2016-02-10",
+        "symbol": "PRU",
+        "actualEarningResult": 1.94,
+        "estimatedEarning": 2.3
+    },
+    {
+        "date": "2015-11-04",
+        "symbol": "PRU",
+        "actualEarningResult": 2.4,
+        "estimatedEarning": 2.42
+    },
+    {
+        "date": "2015-08-05",
+        "symbol": "PRU",
+        "actualEarningResult": 2.91,
+        "estimatedEarning": 2.47
+    },
+    {
+        "date": "2015-05-06",
+        "symbol": "PRU",
+        "actualEarningResult": 2.79,
+        "estimatedEarning": 2.38
+    },
+    {
+        "date": "2015-02-04",
+        "symbol": "PRU",
+        "actualEarningResult": 2.12,
+        "estimatedEarning": 2.38
+    },
+    {
+        "date": "2014-11-05",
+        "symbol": "PRU",
+        "actualEarningResult": 2.2,
+        "estimatedEarning": 2.41
+    },
+    {
+        "date": "2014-08-06",
+        "symbol": "PRU",
+        "actualEarningResult": 2.49,
+        "estimatedEarning": 2.34
+    },
+    {
+        "date": "2014-05-07",
+        "symbol": "PRU",
+        "actualEarningResult": 2.4,
+        "estimatedEarning": 2.26
+    },
+    {
+        "date": "2014-02-05",
+        "symbol": "PRU",
+        "actualEarningResult": 2.2,
+        "estimatedEarning": 2.23
+    },
+    {
+        "date": "2013-11-06",
+        "symbol": "PRU",
+        "actualEarningResult": 2.94,
+        "estimatedEarning": 2.1
+    },
+    {
+        "date": "2013-08-07",
+        "symbol": "PRU",
+        "actualEarningResult": 2.3,
+        "estimatedEarning": 1.99
+    },
+    {
+        "date": "2013-05-01",
+        "symbol": "PRU",
+        "actualEarningResult": 2.28,
+        "estimatedEarning": 1.88
+    },
+    {
+        "date": "2013-02-06",
+        "symbol": "PRU",
+        "actualEarningResult": 1.71,
+        "estimatedEarning": 1.74
+    },
+    {
+        "date": "2012-11-07",
+        "symbol": "PRU",
+        "actualEarningResult": 1.53,
+        "estimatedEarning": 1.68
+    },
+    {
+        "date": "2012-08-01",
+        "symbol": "PRU",
+        "actualEarningResult": 1.34,
+        "estimatedEarning": 1.55
+    },
+    {
+        "date": "2012-05-02",
+        "symbol": "PRU",
+        "actualEarningResult": -2.1,
+        "estimatedEarning": 1.71
+    },
+    {
+        "date": "2012-02-08",
+        "symbol": "PRU",
+        "actualEarningResult": 1.97,
+        "estimatedEarning": 1.76
+    },
+    {
+        "date": "2011-11-02",
+        "symbol": "PRU",
+        "actualEarningResult": 1.07,
+        "estimatedEarning": 1.54
+    },
+    {
+        "date": "2011-08-03",
+        "symbol": "PRU",
+        "actualEarningResult": 1.71,
+        "estimatedEarning": 1.55
+    },
+    {
+        "date": "2011-05-04",
+        "symbol": "PRU",
+        "actualEarningResult": 1.69,
+        "estimatedEarning": 1.48
+    },
+    {
+        "date": "2011-02-09",
+        "symbol": "PRU",
+        "actualEarningResult": 1.77,
+        "estimatedEarning": 1.48
+    },
+    {
+        "date": "2010-11-03",
+        "symbol": "PRU",
+        "actualEarningResult": 2.12,
+        "estimatedEarning": 1.43
+    },
+    {
+        "date": "2010-08-04",
+        "symbol": "PRU",
+        "actualEarningResult": 1.5,
+        "estimatedEarning": 1.32
+    },
+    {
+        "date": "2010-05-05",
+        "symbol": "PRU",
+        "actualEarningResult": 1.46,
+        "estimatedEarning": 1.31
+    },
+    {
+        "date": "2010-02-10",
+        "symbol": "PRU",
+        "actualEarningResult": 1.04,
+        "estimatedEarning": 1.11
+    },
+    {
+        "date": "2009-11-04",
+        "symbol": "PRU",
+        "actualEarningResult": 1.59,
+        "estimatedEarning": 1.33
+    },
+    {
+        "date": "2009-08-05",
+        "symbol": "PRU",
+        "actualEarningResult": 1.88,
+        "estimatedEarning": 1.2
+    },
+    {
+        "date": "2009-05-06",
+        "symbol": "PRU",
+        "actualEarningResult": 1.05,
+        "estimatedEarning": 0.83
+    },
+    {
+        "date": "2009-02-04",
+        "symbol": "PRU",
+        "actualEarningResult": -2.04,
+        "estimatedEarning": -1.19
+    },
+    {
+        "date": "2008-10-29",
+        "symbol": "PRU",
+        "actualEarningResult": 0.74,
+        "estimatedEarning": 0.94
+    },
+    {
+        "date": "2008-07-30",
+        "symbol": "PRU",
+        "actualEarningResult": 2.02,
+        "estimatedEarning": 1.85
+    },
+    {
+        "date": "2008-04-30",
+        "symbol": "PRU",
+        "actualEarningResult": 1.65,
+        "estimatedEarning": 1.82
+    },
+    {
+        "date": "2008-02-06",
+        "symbol": "PRU",
+        "actualEarningResult": 1.61,
+        "estimatedEarning": 1.88
+    },
+    {
+        "date": "2007-10-31",
+        "symbol": "PRU",
+        "actualEarningResult": 1.97,
+        "estimatedEarning": 1.73
+    },
+    {
+        "date": "2007-08-01",
+        "symbol": "PRU",
+        "actualEarningResult": 1.87,
+        "estimatedEarning": 1.72
+    },
+    {
+        "date": "2007-05-02",
+        "symbol": "PRU",
+        "actualEarningResult": 1.85,
+        "estimatedEarning": 1.65
+    },
+    {
+        "date": "2007-02-07",
+        "symbol": "PRU",
+        "actualEarningResult": 1.67,
+        "estimatedEarning": 1.52
+    },
+    {
+        "date": "2006-11-01",
+        "symbol": "PRU",
+        "actualEarningResult": 1.72,
+        "estimatedEarning": 1.48
+    },
+    {
+        "date": "2006-08-02",
+        "symbol": "PRU",
+        "actualEarningResult": 1.4,
+        "estimatedEarning": 1.44
+    },
+    {
+        "date": "2006-05-03",
+        "symbol": "PRU",
+        "actualEarningResult": 1.36,
+        "estimatedEarning": 1.33
+    },
+    {
+        "date": "2006-02-08",
+        "symbol": "PRU",
+        "actualEarningResult": 1.06,
+        "estimatedEarning": 1.22
+    },
+    {
+        "date": "2005-11-02",
+        "symbol": "PRU",
+        "actualEarningResult": 1.46,
+        "estimatedEarning": 1.16
+    },
+    {
+        "date": "2005-08-03",
+        "symbol": "PRU",
+        "actualEarningResult": 1.13,
+        "estimatedEarning": 1.08
+    },
+    {
+        "date": "2005-05-04",
+        "symbol": "PRU",
+        "actualEarningResult": 1.18,
+        "estimatedEarning": 1.02
+    },
+    {
+        "date": "2005-02-08",
+        "symbol": "PRU",
+        "actualEarningResult": 0.96,
+        "estimatedEarning": 0.8
+    },
+    {
+        "date": "2004-11-02",
+        "symbol": "PRU",
+        "actualEarningResult": 0.92,
+        "estimatedEarning": 0.77
+    },
+    {
+        "date": "2004-08-03",
+        "symbol": "PRU",
+        "actualEarningResult": 0.97,
+        "estimatedEarning": 0.78
+    },
+    {
+        "date": "2004-05-04",
+        "symbol": "PRU",
+        "actualEarningResult": 0.74,
+        "estimatedEarning": 0.73
+    },
+    {
+        "date": "2004-02-10",
+        "symbol": "PRU",
+        "actualEarningResult": 0.64,
+        "estimatedEarning": 0.61
+    },
+    {
+        "date": "2003-11-04",
+        "symbol": "PRU",
+        "actualEarningResult": 0.7,
+        "estimatedEarning": 0.56
+    },
+    {
+        "date": "2003-08-05",
+        "symbol": "PRU",
+        "actualEarningResult": 0.67,
+        "estimatedEarning": 0.61
+    },
+    {
+        "date": "2003-05-06",
+        "symbol": "PRU",
+        "actualEarningResult": 0.58,
+        "estimatedEarning": 0.56
+    },
+    {
+        "date": "2003-02-11",
+        "symbol": "PRU",
+        "actualEarningResult": 0.43,
+        "estimatedEarning": 0.46
+    },
+    {
+        "date": "2002-11-05",
+        "symbol": "PRU",
+        "actualEarningResult": 0.54,
+        "estimatedEarning": 0.49
+    },
+    {
+        "date": "2002-08-06",
+        "symbol": "PRU",
+        "actualEarningResult": 0.54,
+        "estimatedEarning": 0.52
+    },
+    {
+        "date": "2002-05-07",
+        "symbol": "PRU",
+        "actualEarningResult": 0.58,
+        "estimatedEarning": 0.47
+    }
+]

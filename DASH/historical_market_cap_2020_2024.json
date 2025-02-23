@@ -1,0 +1,5107 @@
+[
+    {
+        "symbol": "DASH",
+        "date": "2024-12-31",
+        "marketCap": 69298531500
+    },
+    {
+        "symbol": "DASH",
+        "date": "2024-12-30",
+        "marketCap": 70062777600
+    },
+    {
+        "symbol": "DASH",
+        "date": "2024-12-27",
+        "marketCap": 69955370040
+    },
+    {
+        "symbol": "DASH",
+        "date": "2024-12-26",
+        "marketCap": 70463490420
+    },
+    {
+        "symbol": "DASH",
+        "date": "2024-12-24",
+        "marketCap": 70975741860
+    },
+    {
+        "symbol": "DASH",
+        "date": "2024-12-23",
+        "marketCap": 70203233640
+    },
+    {
+        "symbol": "DASH",
+        "date": "2024-12-20",
+        "marketCap": 70641126000
+    },
+    {
+        "symbol": "DASH",
+        "date": "2024-12-19",
+        "marketCap": 69257220900
+    },
+    {
+        "symbol": "DASH",
+        "date": "2024-12-18",
+        "marketCap": 68323601339
+    },
+    {
+        "symbol": "DASH",
+        "date": "2024-12-17",
+        "marketCap": 73119762000
+    },
+    {
+        "symbol": "DASH",
+        "date": "2024-12-16",
+        "marketCap": 74152527000
+    },
+    {
+        "symbol": "DASH",
+        "date": "2024-12-13",
+        "marketCap": 72330729540
+    },
+    {
+        "symbol": "DASH",
+        "date": "2024-12-12",
+        "marketCap": 72714918120
+    },
+    {
+        "symbol": "DASH",
+        "date": "2024-12-11",
+        "marketCap": 72876029460
+    },
+    {
+        "symbol": "DASH",
+        "date": "2024-12-10",
+        "marketCap": 71839133400
+    },
+    {
+        "symbol": "DASH",
+        "date": "2024-12-09",
+        "marketCap": 72557937840
+    },
+    {
+        "symbol": "DASH",
+        "date": "2024-12-06",
+        "marketCap": 73731158880
+    },
+    {
+        "symbol": "DASH",
+        "date": "2024-12-05",
+        "marketCap": 72661214340
+    },
+    {
+        "symbol": "DASH",
+        "date": "2024-12-04",
+        "marketCap": 73070189280
+    },
+    {
+        "symbol": "DASH",
+        "date": "2024-12-03",
+        "marketCap": 72743835540
+    },
+    {
+        "symbol": "DASH",
+        "date": "2024-12-02",
+        "marketCap": 72859505220
+    },
+    {
+        "symbol": "DASH",
+        "date": "2024-11-29",
+        "marketCap": 74557370880
+    },
+    {
+        "symbol": "DASH",
+        "date": "2024-11-27",
+        "marketCap": 73714634640
+    },
+    {
+        "symbol": "DASH",
+        "date": "2024-11-26",
+        "marketCap": 73950105060
+    },
+    {
+        "symbol": "DASH",
+        "date": "2024-11-25",
+        "marketCap": 73987284600
+    },
+    {
+        "symbol": "DASH",
+        "date": "2024-11-22",
+        "marketCap": 73218907440
+    },
+    {
+        "symbol": "DASH",
+        "date": "2024-11-21",
+        "marketCap": 71537566020
+    },
+    {
+        "symbol": "DASH",
+        "date": "2024-11-20",
+        "marketCap": 71136853200
+    },
+    {
+        "symbol": "DASH",
+        "date": "2024-11-19",
+        "marketCap": 72781015080
+    },
+    {
+        "symbol": "DASH",
+        "date": "2024-11-18",
+        "marketCap": 71355799380
+    },
+    {
+        "symbol": "DASH",
+        "date": "2024-11-15",
+        "marketCap": 69992549580
+    },
+    {
+        "symbol": "DASH",
+        "date": "2024-11-14",
+        "marketCap": 71797822800
+    },
+    {
+        "symbol": "DASH",
+        "date": "2024-11-13",
+        "marketCap": 72607510560
+    },
+    {
+        "symbol": "DASH",
+        "date": "2024-11-12",
+        "marketCap": 72909077940
+    },
+    {
+        "symbol": "DASH",
+        "date": "2024-11-11",
+        "marketCap": 72272894700
+    },
+    {
+        "symbol": "DASH",
+        "date": "2024-11-08",
+        "marketCap": 70806368400
+    },
+    {
+        "symbol": "DASH",
+        "date": "2024-11-07",
+        "marketCap": 70471752540
+    },
+    {
+        "symbol": "DASH",
+        "date": "2024-11-06",
+        "marketCap": 70079301840
+    },
+    {
+        "symbol": "DASH",
+        "date": "2024-11-05",
+        "marketCap": 65873882760
+    },
+    {
+        "symbol": "DASH",
+        "date": "2024-11-04",
+        "marketCap": 64956787440
+    },
+    {
+        "symbol": "DASH",
+        "date": "2024-11-01",
+        "marketCap": 64304079960
+    },
+    {
+        "symbol": "DASH",
+        "date": "2024-10-31",
+        "marketCap": 64733710199
+    },
+    {
+        "symbol": "DASH",
+        "date": "2024-10-30",
+        "marketCap": 64134706500
+    },
+    {
+        "symbol": "DASH",
+        "date": "2024-10-29",
+        "marketCap": 64114051199
+    },
+    {
+        "symbol": "DASH",
+        "date": "2024-10-28",
+        "marketCap": 63358067220
+    },
+    {
+        "symbol": "DASH",
+        "date": "2024-10-25",
+        "marketCap": 63164970160
+    },
+    {
+        "symbol": "DASH",
+        "date": "2024-10-24",
+        "marketCap": 62881737580
+    },
+    {
+        "symbol": "DASH",
+        "date": "2024-10-23",
+        "marketCap": 61949943439
+    },
+    {
+        "symbol": "DASH",
+        "date": "2024-10-22",
+        "marketCap": 62614924280
+    },
+    {
+        "symbol": "DASH",
+        "date": "2024-10-21",
+        "marketCap": 62758592979
+    },
+    {
+        "symbol": "DASH",
+        "date": "2024-10-18",
+        "marketCap": 62385054359
+    },
+    {
+        "symbol": "DASH",
+        "date": "2024-10-17",
+        "marketCap": 62146974800
+    },
+    {
+        "symbol": "DASH",
+        "date": "2024-10-16",
+        "marketCap": 61514832520
+    },
+    {
+        "symbol": "DASH",
+        "date": "2024-10-15",
+        "marketCap": 61108455340
+    },
+    {
+        "symbol": "DASH",
+        "date": "2024-10-14",
+        "marketCap": 61580509640
+    },
+    {
+        "symbol": "DASH",
+        "date": "2024-10-11",
+        "marketCap": 61342430080
+    },
+    {
+        "symbol": "DASH",
+        "date": "2024-10-10",
+        "marketCap": 59310544180
+    },
+    {
+        "symbol": "DASH",
+        "date": "2024-10-09",
+        "marketCap": 58555257300
+    },
+    {
+        "symbol": "DASH",
+        "date": "2024-10-08",
+        "marketCap": 58822070600
+    },
+    {
+        "symbol": "DASH",
+        "date": "2024-10-07",
+        "marketCap": 58321282560
+    },
+    {
+        "symbol": "DASH",
+        "date": "2024-10-04",
+        "marketCap": 59462422520
+    },
+    {
+        "symbol": "DASH",
+        "date": "2024-10-03",
+        "marketCap": 58337701840
+    },
+    {
+        "symbol": "DASH",
+        "date": "2024-10-02",
+        "marketCap": 58937005560
+    },
+    {
+        "symbol": "DASH",
+        "date": "2024-10-01",
+        "marketCap": 58259710260
+    },
+    {
+        "symbol": "DASH",
+        "date": "2024-09-30",
+        "marketCap": 58588095859
+    },
+    {
+        "symbol": "DASH",
+        "date": "2024-09-27",
+        "marketCap": 58382854859
+    },
+    {
+        "symbol": "DASH",
+        "date": "2024-09-26",
+        "marketCap": 58707135640
+    },
+    {
+        "symbol": "DASH",
+        "date": "2024-09-25",
+        "marketCap": 59080674260
+    },
+    {
+        "symbol": "DASH",
+        "date": "2024-09-24",
+        "marketCap": 58157089760
+    },
+    {
+        "symbol": "DASH",
+        "date": "2024-09-23",
+        "marketCap": 57266343820
+    },
+    {
+        "symbol": "DASH",
+        "date": "2024-09-20",
+        "marketCap": 57352545040
+    },
+    {
+        "symbol": "DASH",
+        "date": "2024-09-19",
+        "marketCap": 56355073780
+    },
+    {
+        "symbol": "DASH",
+        "date": "2024-09-18",
+        "marketCap": 54380655359
+    },
+    {
+        "symbol": "DASH",
+        "date": "2024-09-17",
+        "marketCap": 53313402160
+    },
+    {
+        "symbol": "DASH",
+        "date": "2024-09-16",
+        "marketCap": 53719779340
+    },
+    {
+        "symbol": "DASH",
+        "date": "2024-09-13",
+        "marketCap": 53916810700
+    },
+    {
+        "symbol": "DASH",
+        "date": "2024-09-12",
+        "marketCap": 53440651580
+    },
+    {
+        "symbol": "DASH",
+        "date": "2024-09-11",
+        "marketCap": 53370869640
+    },
+    {
+        "symbol": "DASH",
+        "date": "2024-09-10",
+        "marketCap": 51642740420
+    },
+    {
+        "symbol": "DASH",
+        "date": "2024-09-09",
+        "marketCap": 51150162020
+    },
+    {
+        "symbol": "DASH",
+        "date": "2024-09-06",
+        "marketCap": 50719155920
+    },
+    {
+        "symbol": "DASH",
+        "date": "2024-09-05",
+        "marketCap": 51864400700
+    },
+    {
+        "symbol": "DASH",
+        "date": "2024-09-04",
+        "marketCap": 51482652440
+    },
+    {
+        "symbol": "DASH",
+        "date": "2024-09-03",
+        "marketCap": 51330774100
+    },
+    {
+        "symbol": "DASH",
+        "date": "2024-08-30",
+        "marketCap": 52833138220
+    },
+    {
+        "symbol": "DASH",
+        "date": "2024-08-29",
+        "marketCap": 51938287460
+    },
+    {
+        "symbol": "DASH",
+        "date": "2024-08-28",
+        "marketCap": 52196891120
+    },
+    {
+        "symbol": "DASH",
+        "date": "2024-08-27",
+        "marketCap": 52738727359
+    },
+    {
+        "symbol": "DASH",
+        "date": "2024-08-26",
+        "marketCap": 52796194840
+    },
+    {
+        "symbol": "DASH",
+        "date": "2024-08-23",
+        "marketCap": 52874186420
+    },
+    {
+        "symbol": "DASH",
+        "date": "2024-08-22",
+        "marketCap": 52870081600
+    },
+    {
+        "symbol": "DASH",
+        "date": "2024-08-21",
+        "marketCap": 53136894899
+    },
+    {
+        "symbol": "DASH",
+        "date": "2024-08-20",
+        "marketCap": 52352874280
+    },
+    {
+        "symbol": "DASH",
+        "date": "2024-08-19",
+        "marketCap": 53182047920
+    },
+    {
+        "symbol": "DASH",
+        "date": "2024-08-16",
+        "marketCap": 52964492460
+    },
+    {
+        "symbol": "DASH",
+        "date": "2024-08-15",
+        "marketCap": 53481699780
+    },
+    {
+        "symbol": "DASH",
+        "date": "2024-08-14",
+        "marketCap": 52102480260
+    },
+    {
+        "symbol": "DASH",
+        "date": "2024-08-13",
+        "marketCap": 52517067080
+    },
+    {
+        "symbol": "DASH",
+        "date": "2024-08-12",
+        "marketCap": 50916187280
+    },
+    {
+        "symbol": "DASH",
+        "date": "2024-08-09",
+        "marketCap": 50821776420
+    },
+    {
+        "symbol": "DASH",
+        "date": "2024-08-08",
+        "marketCap": 51211734320
+    },
+    {
+        "symbol": "DASH",
+        "date": "2024-08-07",
+        "marketCap": 49869458180
+    },
+    {
+        "symbol": "DASH",
+        "date": "2024-08-06",
+        "marketCap": 50341512480
+    },
+    {
+        "symbol": "DASH",
+        "date": "2024-08-05",
+        "marketCap": 49791466600
+    },
+    {
+        "symbol": "DASH",
+        "date": "2024-08-02",
+        "marketCap": 48120804860
+    },
+    {
+        "symbol": "DASH",
+        "date": "2024-08-01",
+        "marketCap": 44414152400
+    },
+    {
+        "symbol": "DASH",
+        "date": "2024-07-31",
+        "marketCap": 45448567040
+    },
+    {
+        "symbol": "DASH",
+        "date": "2024-07-30",
+        "marketCap": 44007775220
+    },
+    {
+        "symbol": "DASH",
+        "date": "2024-07-29",
+        "marketCap": 43506987180
+    },
+    {
+        "symbol": "DASH",
+        "date": "2024-07-26",
+        "marketCap": 42470184680
+    },
+    {
+        "symbol": "DASH",
+        "date": "2024-07-25",
+        "marketCap": 40864475960
+    },
+    {
+        "symbol": "DASH",
+        "date": "2024-07-24",
+        "marketCap": 41545685720
+    },
+    {
+        "symbol": "DASH",
+        "date": "2024-07-23",
+        "marketCap": 42883776320
+    },
+    {
+        "symbol": "DASH",
+        "date": "2024-07-22",
+        "marketCap": 42372869000
+    },
+    {
+        "symbol": "DASH",
+        "date": "2024-07-19",
+        "marketCap": 43021640200
+    },
+    {
+        "symbol": "DASH",
+        "date": "2024-07-18",
+        "marketCap": 40661734960
+    },
+    {
+        "symbol": "DASH",
+        "date": "2024-07-17",
+        "marketCap": 41829523120
+    },
+    {
+        "symbol": "DASH",
+        "date": "2024-07-16",
+        "marketCap": 44092112680
+    },
+    {
+        "symbol": "DASH",
+        "date": "2024-07-15",
+        "marketCap": 42839173300
+    },
+    {
+        "symbol": "DASH",
+        "date": "2024-07-12",
+        "marketCap": 42575610000
+    },
+    {
+        "symbol": "DASH",
+        "date": "2024-07-11",
+        "marketCap": 42745912440
+    },
+    {
+        "symbol": "DASH",
+        "date": "2024-07-10",
+        "marketCap": 42981092000
+    },
+    {
+        "symbol": "DASH",
+        "date": "2024-07-09",
+        "marketCap": 44177263900
+    },
+    {
+        "symbol": "DASH",
+        "date": "2024-07-08",
+        "marketCap": 44213757280
+    },
+    {
+        "symbol": "DASH",
+        "date": "2024-07-05",
+        "marketCap": 44992282720
+    },
+    {
+        "symbol": "DASH",
+        "date": "2024-07-03",
+        "marketCap": 43637972840
+    },
+    {
+        "symbol": "DASH",
+        "date": "2024-07-02",
+        "marketCap": 43569040900
+    },
+    {
+        "symbol": "DASH",
+        "date": "2024-07-01",
+        "marketCap": 43998851820
+    },
+    {
+        "symbol": "DASH",
+        "date": "2024-06-28",
+        "marketCap": 44108331960
+    },
+    {
+        "symbol": "DASH",
+        "date": "2024-06-27",
+        "marketCap": 44838199560
+    },
+    {
+        "symbol": "DASH",
+        "date": "2024-06-26",
+        "marketCap": 45040940560
+    },
+    {
+        "symbol": "DASH",
+        "date": "2024-06-25",
+        "marketCap": 45446422560
+    },
+    {
+        "symbol": "DASH",
+        "date": "2024-06-24",
+        "marketCap": 44886857400
+    },
+    {
+        "symbol": "DASH",
+        "date": "2024-06-21",
+        "marketCap": 46176290160
+    },
+    {
+        "symbol": "DASH",
+        "date": "2024-06-20",
+        "marketCap": 44688171220
+    },
+    {
+        "symbol": "DASH",
+        "date": "2024-06-18",
+        "marketCap": 45782972620
+    },
+    {
+        "symbol": "DASH",
+        "date": "2024-06-17",
+        "marketCap": 45693766580
+    },
+    {
+        "symbol": "DASH",
+        "date": "2024-06-14",
+        "marketCap": 45434258100
+    },
+    {
+        "symbol": "DASH",
+        "date": "2024-06-13",
+        "marketCap": 46131687140
+    },
+    {
+        "symbol": "DASH",
+        "date": "2024-06-12",
+        "marketCap": 46650704100
+    },
+    {
+        "symbol": "DASH",
+        "date": "2024-06-11",
+        "marketCap": 45819466000
+    },
+    {
+        "symbol": "DASH",
+        "date": "2024-06-10",
+        "marketCap": 45515354500
+    },
+    {
+        "symbol": "DASH",
+        "date": "2024-06-07",
+        "marketCap": 45928946140
+    },
+    {
+        "symbol": "DASH",
+        "date": "2024-06-06",
+        "marketCap": 46253331740
+    },
+    {
+        "symbol": "DASH",
+        "date": "2024-06-05",
+        "marketCap": 44838199560
+    },
+    {
+        "symbol": "DASH",
+        "date": "2024-06-04",
+        "marketCap": 45130146600
+    },
+    {
+        "symbol": "DASH",
+        "date": "2024-06-03",
+        "marketCap": 44935515240
+    },
+    {
+        "symbol": "DASH",
+        "date": "2024-05-31",
+        "marketCap": 44647623020
+    },
+    {
+        "symbol": "DASH",
+        "date": "2024-05-30",
+        "marketCap": 44821980280
+    },
+    {
+        "symbol": "DASH",
+        "date": "2024-05-29",
+        "marketCap": 45308558680
+    },
+    {
+        "symbol": "DASH",
+        "date": "2024-05-28",
+        "marketCap": 45592396080
+    },
+    {
+        "symbol": "DASH",
+        "date": "2024-05-24",
+        "marketCap": 45750534060
+    },
+    {
+        "symbol": "DASH",
+        "date": "2024-05-23",
+        "marketCap": 44761157980
+    },
+    {
+        "symbol": "DASH",
+        "date": "2024-05-22",
+        "marketCap": 45263955660
+    },
+    {
+        "symbol": "DASH",
+        "date": "2024-05-21",
+        "marketCap": 45746479240
+    },
+    {
+        "symbol": "DASH",
+        "date": "2024-05-20",
+        "marketCap": 46208728720
+    },
+    {
+        "symbol": "DASH",
+        "date": "2024-05-17",
+        "marketCap": 47615751260
+    },
+    {
+        "symbol": "DASH",
+        "date": "2024-05-16",
+        "marketCap": 47100789120
+    },
+    {
+        "symbol": "DASH",
+        "date": "2024-05-15",
+        "marketCap": 47149446960
+    },
+    {
+        "symbol": "DASH",
+        "date": "2024-05-14",
+        "marketCap": 46500675760
+    },
+    {
+        "symbol": "DASH",
+        "date": "2024-05-13",
+        "marketCap": 47242707820
+    },
+    {
+        "symbol": "DASH",
+        "date": "2024-05-10",
+        "marketCap": 46565552880
+    },
+    {
+        "symbol": "DASH",
+        "date": "2024-05-09",
+        "marketCap": 47104843940
+    },
+    {
+        "symbol": "DASH",
+        "date": "2024-05-08",
+        "marketCap": 45827575640
+    },
+    {
+        "symbol": "DASH",
+        "date": "2024-05-07",
+        "marketCap": 46857499920
+    },
+    {
+        "symbol": "DASH",
+        "date": "2024-05-06",
+        "marketCap": 47680628380
+    },
+    {
+        "symbol": "DASH",
+        "date": "2024-05-03",
+        "marketCap": 46147906420
+    },
+    {
+        "symbol": "DASH",
+        "date": "2024-05-02",
+        "marketCap": 46350647420
+    },
+    {
+        "symbol": "DASH",
+        "date": "2024-05-01",
+        "marketCap": 51682735720
+    },
+    {
+        "symbol": "DASH",
+        "date": "2024-04-30",
+        "marketCap": 52412603320
+    },
+    {
+        "symbol": "DASH",
+        "date": "2024-04-29",
+        "marketCap": 53572281840
+    },
+    {
+        "symbol": "DASH",
+        "date": "2024-04-26",
+        "marketCap": 53568227020
+    },
+    {
+        "symbol": "DASH",
+        "date": "2024-04-25",
+        "marketCap": 51946299020
+    },
+    {
+        "symbol": "DASH",
+        "date": "2024-04-24",
+        "marketCap": 51398898320
+    },
+    {
+        "symbol": "DASH",
+        "date": "2024-04-23",
+        "marketCap": 52453151520
+    },
+    {
+        "symbol": "DASH",
+        "date": "2024-04-22",
+        "marketCap": 51605694140
+    },
+    {
+        "symbol": "DASH",
+        "date": "2024-04-19",
+        "marketCap": 51569200760
+    },
+    {
+        "symbol": "DASH",
+        "date": "2024-04-18",
+        "marketCap": 52753208200
+    },
+    {
+        "symbol": "DASH",
+        "date": "2024-04-17",
+        "marketCap": 53077593800
+    },
+    {
+        "symbol": "DASH",
+        "date": "2024-04-16",
+        "marketCap": 54269710880
+    },
+    {
+        "symbol": "DASH",
+        "date": "2024-04-15",
+        "marketCap": 53888557800
+    },
+    {
+        "symbol": "DASH",
+        "date": "2024-04-12",
+        "marketCap": 56110599160
+    },
+    {
+        "symbol": "DASH",
+        "date": "2024-04-11",
+        "marketCap": 57152687899
+    },
+    {
+        "symbol": "DASH",
+        "date": "2024-04-10",
+        "marketCap": 55624020760
+    },
+    {
+        "symbol": "DASH",
+        "date": "2024-04-09",
+        "marketCap": 55457773140
+    },
+    {
+        "symbol": "DASH",
+        "date": "2024-04-08",
+        "marketCap": 55725391260
+    },
+    {
+        "symbol": "DASH",
+        "date": "2024-04-05",
+        "marketCap": 56589067920
+    },
+    {
+        "symbol": "DASH",
+        "date": "2024-04-04",
+        "marketCap": 54581932020
+    },
+    {
+        "symbol": "DASH",
+        "date": "2024-04-03",
+        "marketCap": 56272791960
+    },
+    {
+        "symbol": "DASH",
+        "date": "2024-04-02",
+        "marketCap": 55753775000
+    },
+    {
+        "symbol": "DASH",
+        "date": "2024-04-01",
+        "marketCap": 56057886500
+    },
+    {
+        "symbol": "DASH",
+        "date": "2024-03-28",
+        "marketCap": 55842981040
+    },
+    {
+        "symbol": "DASH",
+        "date": "2024-03-27",
+        "marketCap": 56313340160
+    },
+    {
+        "symbol": "DASH",
+        "date": "2024-03-26",
+        "marketCap": 56872905320
+    },
+    {
+        "symbol": "DASH",
+        "date": "2024-03-25",
+        "marketCap": 55883529240
+    },
+    {
+        "symbol": "DASH",
+        "date": "2024-03-22",
+        "marketCap": 55648349680
+    },
+    {
+        "symbol": "DASH",
+        "date": "2024-03-21",
+        "marketCap": 55453718320
+    },
+    {
+        "symbol": "DASH",
+        "date": "2024-03-20",
+        "marketCap": 55920022620
+    },
+    {
+        "symbol": "DASH",
+        "date": "2024-03-19",
+        "marketCap": 53049210060
+    },
+    {
+        "symbol": "DASH",
+        "date": "2024-03-18",
+        "marketCap": 52542357560
+    },
+    {
+        "symbol": "DASH",
+        "date": "2024-03-15",
+        "marketCap": 52935675100
+    },
+    {
+        "symbol": "DASH",
+        "date": "2024-03-14",
+        "marketCap": 53746639100
+    },
+    {
+        "symbol": "DASH",
+        "date": "2024-03-13",
+        "marketCap": 53693926439
+    },
+    {
+        "symbol": "DASH",
+        "date": "2024-03-12",
+        "marketCap": 52895126899
+    },
+    {
+        "symbol": "DASH",
+        "date": "2024-03-11",
+        "marketCap": 52213917140
+    },
+    {
+        "symbol": "DASH",
+        "date": "2024-03-08",
+        "marketCap": 53442527600
+    },
+    {
+        "symbol": "DASH",
+        "date": "2024-03-07",
+        "marketCap": 54010202399
+    },
+    {
+        "symbol": "DASH",
+        "date": "2024-03-06",
+        "marketCap": 53576336660
+    },
+    {
+        "symbol": "DASH",
+        "date": "2024-03-05",
+        "marketCap": 53077593800
+    },
+    {
+        "symbol": "DASH",
+        "date": "2024-03-04",
+        "marketCap": 53685816800
+    },
+    {
+        "symbol": "DASH",
+        "date": "2024-03-01",
+        "marketCap": 51670571260
+    },
+    {
+        "symbol": "DASH",
+        "date": "2024-02-29",
+        "marketCap": 50510892740
+    },
+    {
+        "symbol": "DASH",
+        "date": "2024-02-28",
+        "marketCap": 49647216080
+    },
+    {
+        "symbol": "DASH",
+        "date": "2024-02-27",
+        "marketCap": 50158123400
+    },
+    {
+        "symbol": "DASH",
+        "date": "2024-02-26",
+        "marketCap": 48613236980
+    },
+    {
+        "symbol": "DASH",
+        "date": "2024-02-23",
+        "marketCap": 49371488320
+    },
+    {
+        "symbol": "DASH",
+        "date": "2024-02-22",
+        "marketCap": 49229569620
+    },
+    {
+        "symbol": "DASH",
+        "date": "2024-02-21",
+        "marketCap": 46504730580
+    },
+    {
+        "symbol": "DASH",
+        "date": "2024-02-20",
+        "marketCap": 46825061360
+    },
+    {
+        "symbol": "DASH",
+        "date": "2024-02-16",
+        "marketCap": 47039966820
+    },
+    {
+        "symbol": "DASH",
+        "date": "2024-02-15",
+        "marketCap": 51200212140
+    },
+    {
+        "symbol": "DASH",
+        "date": "2024-02-14",
+        "marketCap": 48661894820
+    },
+    {
+        "symbol": "DASH",
+        "date": "2024-02-13",
+        "marketCap": 47194049980
+    },
+    {
+        "symbol": "DASH",
+        "date": "2024-02-12",
+        "marketCap": 48025288080
+    },
+    {
+        "symbol": "DASH",
+        "date": "2024-02-09",
+        "marketCap": 48378057420
+    },
+    {
+        "symbol": "DASH",
+        "date": "2024-02-08",
+        "marketCap": 47968520600
+    },
+    {
+        "symbol": "DASH",
+        "date": "2024-02-07",
+        "marketCap": 46358757060
+    },
+    {
+        "symbol": "DASH",
+        "date": "2024-02-06",
+        "marketCap": 45551847880
+    },
+    {
+        "symbol": "DASH",
+        "date": "2024-02-05",
+        "marketCap": 43840713840
+    },
+    {
+        "symbol": "DASH",
+        "date": "2024-02-02",
+        "marketCap": 44400279000
+    },
+    {
+        "symbol": "DASH",
+        "date": "2024-02-01",
+        "marketCap": 43508218600
+    },
+    {
+        "symbol": "DASH",
+        "date": "2024-01-31",
+        "marketCap": 42251224400
+    },
+    {
+        "symbol": "DASH",
+        "date": "2024-01-30",
+        "marketCap": 42766186540
+    },
+    {
+        "symbol": "DASH",
+        "date": "2024-01-29",
+        "marketCap": 44785486900
+    },
+    {
+        "symbol": "DASH",
+        "date": "2024-01-26",
+        "marketCap": 43889371680
+    },
+    {
+        "symbol": "DASH",
+        "date": "2024-01-25",
+        "marketCap": 43597424640
+    },
+    {
+        "symbol": "DASH",
+        "date": "2024-01-24",
+        "marketCap": 43435231840
+    },
+    {
+        "symbol": "DASH",
+        "date": "2024-01-23",
+        "marketCap": 42855392580
+    },
+    {
+        "symbol": "DASH",
+        "date": "2024-01-22",
+        "marketCap": 42437746120
+    },
+    {
+        "symbol": "DASH",
+        "date": "2024-01-19",
+        "marketCap": 43114901060
+    },
+    {
+        "symbol": "DASH",
+        "date": "2024-01-18",
+        "marketCap": 42559390720
+    },
+    {
+        "symbol": "DASH",
+        "date": "2024-01-17",
+        "marketCap": 41720042980
+    },
+    {
+        "symbol": "DASH",
+        "date": "2024-01-16",
+        "marketCap": 42178237640
+    },
+    {
+        "symbol": "DASH",
+        "date": "2024-01-12",
+        "marketCap": 42222840660
+    },
+    {
+        "symbol": "DASH",
+        "date": "2024-01-11",
+        "marketCap": 42162018360
+    },
+    {
+        "symbol": "DASH",
+        "date": "2024-01-10",
+        "marketCap": 42814844380
+    },
+    {
+        "symbol": "DASH",
+        "date": "2024-01-09",
+        "marketCap": 41784920100
+    },
+    {
+        "symbol": "DASH",
+        "date": "2024-01-08",
+        "marketCap": 39948086640
+    },
+    {
+        "symbol": "DASH",
+        "date": "2024-01-05",
+        "marketCap": 38443748420
+    },
+    {
+        "symbol": "DASH",
+        "date": "2024-01-04",
+        "marketCap": 38074759800
+    },
+    {
+        "symbol": "DASH",
+        "date": "2024-01-03",
+        "marketCap": 38022047140
+    },
+    {
+        "symbol": "DASH",
+        "date": "2024-01-02",
+        "marketCap": 39112793720
+    },
+    {
+        "symbol": "DASH",
+        "date": "2023-12-29",
+        "marketCap": 39490337040
+    },
+    {
+        "symbol": "DASH",
+        "date": "2023-12-28",
+        "marketCap": 40017460560
+    },
+    {
+        "symbol": "DASH",
+        "date": "2023-12-27",
+        "marketCap": 40209141840
+    },
+    {
+        "symbol": "DASH",
+        "date": "2023-12-26",
+        "marketCap": 39877692960
+    },
+    {
+        "symbol": "DASH",
+        "date": "2023-12-22",
+        "marketCap": 40145248080
+    },
+    {
+        "symbol": "DASH",
+        "date": "2023-12-21",
+        "marketCap": 40157228160
+    },
+    {
+        "symbol": "DASH",
+        "date": "2023-12-20",
+        "marketCap": 39422449920
+    },
+    {
+        "symbol": "DASH",
+        "date": "2023-12-19",
+        "marketCap": 40516630560
+    },
+    {
+        "symbol": "DASH",
+        "date": "2023-12-18",
+        "marketCap": 41015800560
+    },
+    {
+        "symbol": "DASH",
+        "date": "2023-12-15",
+        "marketCap": 40560557520
+    },
+    {
+        "symbol": "DASH",
+        "date": "2023-12-14",
+        "marketCap": 40636431360
+    },
+    {
+        "symbol": "DASH",
+        "date": "2023-12-13",
+        "marketCap": 40105314480
+    },
+    {
+        "symbol": "DASH",
+        "date": "2023-12-12",
+        "marketCap": 40332936000
+    },
+    {
+        "symbol": "DASH",
+        "date": "2023-12-11",
+        "marketCap": 40532604000
+    },
+    {
+        "symbol": "DASH",
+        "date": "2023-12-08",
+        "marketCap": 39933600000
+    },
+    {
+        "symbol": "DASH",
+        "date": "2023-12-07",
+        "marketCap": 39522283920
+    },
+    {
+        "symbol": "DASH",
+        "date": "2023-12-06",
+        "marketCap": 38675691600
+    },
+    {
+        "symbol": "DASH",
+        "date": "2023-12-05",
+        "marketCap": 38430099960
+    },
+    {
+        "symbol": "DASH",
+        "date": "2023-12-04",
+        "marketCap": 39278688960
+    },
+    {
+        "symbol": "DASH",
+        "date": "2023-12-01",
+        "marketCap": 38567870880
+    },
+    {
+        "symbol": "DASH",
+        "date": "2023-11-30",
+        "marketCap": 37529597280
+    },
+    {
+        "symbol": "DASH",
+        "date": "2023-11-29",
+        "marketCap": 37920946560
+    },
+    {
+        "symbol": "DASH",
+        "date": "2023-11-28",
+        "marketCap": 37713291840
+    },
+    {
+        "symbol": "DASH",
+        "date": "2023-11-27",
+        "marketCap": 37517617200
+    },
+    {
+        "symbol": "DASH",
+        "date": "2023-11-24",
+        "marketCap": 37461710160
+    },
+    {
+        "symbol": "DASH",
+        "date": "2023-11-22",
+        "marketCap": 38076687600
+    },
+    {
+        "symbol": "DASH",
+        "date": "2023-11-21",
+        "marketCap": 37777185600
+    },
+    {
+        "symbol": "DASH",
+        "date": "2023-11-20",
+        "marketCap": 38236422000
+    },
+    {
+        "symbol": "DASH",
+        "date": "2023-11-17",
+        "marketCap": 38028767280
+    },
+    {
+        "symbol": "DASH",
+        "date": "2023-11-16",
+        "marketCap": 37972860240
+    },
+    {
+        "symbol": "DASH",
+        "date": "2023-11-15",
+        "marketCap": 38000813760
+    },
+    {
+        "symbol": "DASH",
+        "date": "2023-11-14",
+        "marketCap": 37413789840
+    },
+    {
+        "symbol": "DASH",
+        "date": "2023-11-13",
+        "marketCap": 35848392720
+    },
+    {
+        "symbol": "DASH",
+        "date": "2023-11-10",
+        "marketCap": 34929919920
+    },
+    {
+        "symbol": "DASH",
+        "date": "2023-11-09",
+        "marketCap": 33755872080
+    },
+    {
+        "symbol": "DASH",
+        "date": "2023-11-08",
+        "marketCap": 34866026160
+    },
+    {
+        "symbol": "DASH",
+        "date": "2023-11-07",
+        "marketCap": 35504963760
+    },
+    {
+        "symbol": "DASH",
+        "date": "2023-11-06",
+        "marketCap": 35556877440
+    },
+    {
+        "symbol": "DASH",
+        "date": "2023-11-03",
+        "marketCap": 36934586640
+    },
+    {
+        "symbol": "DASH",
+        "date": "2023-11-02",
+        "marketCap": 35057707440
+    },
+    {
+        "symbol": "DASH",
+        "date": "2023-11-01",
+        "marketCap": 30309602400
+    },
+    {
+        "symbol": "DASH",
+        "date": "2023-10-31",
+        "marketCap": 29930233200
+    },
+    {
+        "symbol": "DASH",
+        "date": "2023-10-30",
+        "marketCap": 29235388559
+    },
+    {
+        "symbol": "DASH",
+        "date": "2023-10-27",
+        "marketCap": 28213088400
+    },
+    {
+        "symbol": "DASH",
+        "date": "2023-10-26",
+        "marketCap": 28364836080
+    },
+    {
+        "symbol": "DASH",
+        "date": "2023-10-25",
+        "marketCap": 28864006080
+    },
+    {
+        "symbol": "DASH",
+        "date": "2023-10-24",
+        "marketCap": 30493296960
+    },
+    {
+        "symbol": "DASH",
+        "date": "2023-10-23",
+        "marketCap": 29874326160
+    },
+    {
+        "symbol": "DASH",
+        "date": "2023-10-20",
+        "marketCap": 29179481519
+    },
+    {
+        "symbol": "DASH",
+        "date": "2023-10-19",
+        "marketCap": 29299282320
+    },
+    {
+        "symbol": "DASH",
+        "date": "2023-10-18",
+        "marketCap": 29750532000
+    },
+    {
+        "symbol": "DASH",
+        "date": "2023-10-17",
+        "marketCap": 30301615680
+    },
+    {
+        "symbol": "DASH",
+        "date": "2023-10-16",
+        "marketCap": 30517257120
+    },
+    {
+        "symbol": "DASH",
+        "date": "2023-10-13",
+        "marketCap": 30097954320
+    },
+    {
+        "symbol": "DASH",
+        "date": "2023-10-12",
+        "marketCap": 31986813599
+    },
+    {
+        "symbol": "DASH",
+        "date": "2023-10-11",
+        "marketCap": 32266348800
+    },
+    {
+        "symbol": "DASH",
+        "date": "2023-10-10",
+        "marketCap": 32517930480
+    },
+    {
+        "symbol": "DASH",
+        "date": "2023-10-09",
+        "marketCap": 30381482880
+    },
+    {
+        "symbol": "DASH",
+        "date": "2023-10-06",
+        "marketCap": 29754525360
+    },
+    {
+        "symbol": "DASH",
+        "date": "2023-10-05",
+        "marketCap": 29474990160
+    },
+    {
+        "symbol": "DASH",
+        "date": "2023-10-04",
+        "marketCap": 31120254480
+    },
+    {
+        "symbol": "DASH",
+        "date": "2023-10-03",
+        "marketCap": 30848706000
+    },
+    {
+        "symbol": "DASH",
+        "date": "2023-10-02",
+        "marketCap": 31723251840
+    },
+    {
+        "symbol": "DASH",
+        "date": "2023-09-29",
+        "marketCap": 31248954990
+    },
+    {
+        "symbol": "DASH",
+        "date": "2023-09-28",
+        "marketCap": 30592282600
+    },
+    {
+        "symbol": "DASH",
+        "date": "2023-09-27",
+        "marketCap": 30729908550
+    },
+    {
+        "symbol": "DASH",
+        "date": "2023-09-26",
+        "marketCap": 29326123860
+    },
+    {
+        "symbol": "DASH",
+        "date": "2023-09-25",
+        "marketCap": 29676086990
+    },
+    {
+        "symbol": "DASH",
+        "date": "2023-09-22",
+        "marketCap": 29955271060
+    },
+    {
+        "symbol": "DASH",
+        "date": "2023-09-21",
+        "marketCap": 29731137370
+    },
+    {
+        "symbol": "DASH",
+        "date": "2023-09-20",
+        "marketCap": 31044482150
+    },
+    {
+        "symbol": "DASH",
+        "date": "2023-09-19",
+        "marketCap": 31138854230
+    },
+    {
+        "symbol": "DASH",
+        "date": "2023-09-18",
+        "marketCap": 31819119640
+    },
+    {
+        "symbol": "DASH",
+        "date": "2023-09-15",
+        "marketCap": 31823051810
+    },
+    {
+        "symbol": "DASH",
+        "date": "2023-09-14",
+        "marketCap": 32629146660
+    },
+    {
+        "symbol": "DASH",
+        "date": "2023-09-13",
+        "marketCap": 32334233910
+    },
+    {
+        "symbol": "DASH",
+        "date": "2023-09-12",
+        "marketCap": 32585892790
+    },
+    {
+        "symbol": "DASH",
+        "date": "2023-09-11",
+        "marketCap": 32751043930
+    },
+    {
+        "symbol": "DASH",
+        "date": "2023-09-08",
+        "marketCap": 32310640890
+    },
+    {
+        "symbol": "DASH",
+        "date": "2023-09-07",
+        "marketCap": 32251658340
+    },
+    {
+        "symbol": "DASH",
+        "date": "2023-09-06",
+        "marketCap": 32475792030
+    },
+    {
+        "symbol": "DASH",
+        "date": "2023-09-05",
+        "marketCap": 32904398560
+    },
+    {
+        "symbol": "DASH",
+        "date": "2023-09-01",
+        "marketCap": 33045956680
+    },
+    {
+        "symbol": "DASH",
+        "date": "2023-08-31",
+        "marketCap": 33081346210
+    },
+    {
+        "symbol": "DASH",
+        "date": "2023-08-30",
+        "marketCap": 32530842410
+    },
+    {
+        "symbol": "DASH",
+        "date": "2023-08-29",
+        "marketCap": 32228065319
+    },
+    {
+        "symbol": "DASH",
+        "date": "2023-08-28",
+        "marketCap": 30867534500
+    },
+    {
+        "symbol": "DASH",
+        "date": "2023-08-25",
+        "marketCap": 30678790340
+    },
+    {
+        "symbol": "DASH",
+        "date": "2023-08-24",
+        "marketCap": 29935610210
+    },
+    {
+        "symbol": "DASH",
+        "date": "2023-08-23",
+        "marketCap": 30411402780
+    },
+    {
+        "symbol": "DASH",
+        "date": "2023-08-22",
+        "marketCap": 30608011280
+    },
+    {
+        "symbol": "DASH",
+        "date": "2023-08-21",
+        "marketCap": 30120422199
+    },
+    {
+        "symbol": "DASH",
+        "date": "2023-08-18",
+        "marketCap": 30600146939
+    },
+    {
+        "symbol": "DASH",
+        "date": "2023-08-17",
+        "marketCap": 30623739960
+    },
+    {
+        "symbol": "DASH",
+        "date": "2023-08-16",
+        "marketCap": 31374784430
+    },
+    {
+        "symbol": "DASH",
+        "date": "2023-08-15",
+        "marketCap": 30997296110
+    },
+    {
+        "symbol": "DASH",
+        "date": "2023-08-14",
+        "marketCap": 31414106130
+    },
+    {
+        "symbol": "DASH",
+        "date": "2023-08-11",
+        "marketCap": 31138854230
+    },
+    {
+        "symbol": "DASH",
+        "date": "2023-08-10",
+        "marketCap": 32397148630
+    },
+    {
+        "symbol": "DASH",
+        "date": "2023-08-09",
+        "marketCap": 32393216460
+    },
+    {
+        "symbol": "DASH",
+        "date": "2023-08-08",
+        "marketCap": 33277954710
+    },
+    {
+        "symbol": "DASH",
+        "date": "2023-08-07",
+        "marketCap": 33171786120
+    },
+    {
+        "symbol": "DASH",
+        "date": "2023-08-04",
+        "marketCap": 32872941199
+    },
+    {
+        "symbol": "DASH",
+        "date": "2023-08-03",
+        "marketCap": 33604324819
+    },
+    {
+        "symbol": "DASH",
+        "date": "2023-08-02",
+        "marketCap": 33808797660
+    },
+    {
+        "symbol": "DASH",
+        "date": "2023-08-01",
+        "marketCap": 34048660030
+    },
+    {
+        "symbol": "DASH",
+        "date": "2023-07-31",
+        "marketCap": 35700171430
+    },
+    {
+        "symbol": "DASH",
+        "date": "2023-07-28",
+        "marketCap": 35251904050
+    },
+    {
+        "symbol": "DASH",
+        "date": "2023-07-27",
+        "marketCap": 33832390680
+    },
+    {
+        "symbol": "DASH",
+        "date": "2023-07-26",
+        "marketCap": 33859915870
+    },
+    {
+        "symbol": "DASH",
+        "date": "2023-07-25",
+        "marketCap": 33580731800
+    },
+    {
+        "symbol": "DASH",
+        "date": "2023-07-24",
+        "marketCap": 33152125270
+    },
+    {
+        "symbol": "DASH",
+        "date": "2023-07-21",
+        "marketCap": 33226836500
+    },
+    {
+        "symbol": "DASH",
+        "date": "2023-07-20",
+        "marketCap": 32888669880
+    },
+    {
+        "symbol": "DASH",
+        "date": "2023-07-19",
+        "marketCap": 33462766699
+    },
+    {
+        "symbol": "DASH",
+        "date": "2023-07-18",
+        "marketCap": 33450970189
+    },
+    {
+        "symbol": "DASH",
+        "date": "2023-07-17",
+        "marketCap": 33557138780
+    },
+    {
+        "symbol": "DASH",
+        "date": "2023-07-14",
+        "marketCap": 33014499319
+    },
+    {
+        "symbol": "DASH",
+        "date": "2023-07-13",
+        "marketCap": 32751043930
+    },
+    {
+        "symbol": "DASH",
+        "date": "2023-07-12",
+        "marketCap": 31689358030
+    },
+    {
+        "symbol": "DASH",
+        "date": "2023-07-11",
+        "marketCap": 31398377449
+    },
+    {
+        "symbol": "DASH",
+        "date": "2023-07-10",
+        "marketCap": 30517571370
+    },
+    {
+        "symbol": "DASH",
+        "date": "2023-07-07",
+        "marketCap": 30651265150
+    },
+    {
+        "symbol": "DASH",
+        "date": "2023-07-06",
+        "marketCap": 30273776829
+    },
+    {
+        "symbol": "DASH",
+        "date": "2023-07-05",
+        "marketCap": 31091668189
+    },
+    {
+        "symbol": "DASH",
+        "date": "2023-07-03",
+        "marketCap": 30950110069
+    },
+    {
+        "symbol": "DASH",
+        "date": "2023-06-30",
+        "marketCap": 30049643140
+    },
+    {
+        "symbol": "DASH",
+        "date": "2023-06-29",
+        "marketCap": 29330206650
+    },
+    {
+        "symbol": "DASH",
+        "date": "2023-06-28",
+        "marketCap": 29734493129
+    },
+    {
+        "symbol": "DASH",
+        "date": "2023-06-27",
+        "marketCap": 29061978120
+    },
+    {
+        "symbol": "DASH",
+        "date": "2023-06-26",
+        "marketCap": 28603268460
+    },
+    {
+        "symbol": "DASH",
+        "date": "2023-06-23",
+        "marketCap": 28237855680
+    },
+    {
+        "symbol": "DASH",
+        "date": "2023-06-22",
+        "marketCap": 28288391490
+    },
+    {
+        "symbol": "DASH",
+        "date": "2023-06-21",
+        "marketCap": 28342814670
+    },
+    {
+        "symbol": "DASH",
+        "date": "2023-06-20",
+        "marketCap": 28377801000
+    },
+    {
+        "symbol": "DASH",
+        "date": "2023-06-16",
+        "marketCap": 28478872620
+    },
+    {
+        "symbol": "DASH",
+        "date": "2023-06-15",
+        "marketCap": 27895767120
+    },
+    {
+        "symbol": "DASH",
+        "date": "2023-06-14",
+        "marketCap": 27794695500
+    },
+    {
+        "symbol": "DASH",
+        "date": "2023-06-13",
+        "marketCap": 28439998920
+    },
+    {
+        "symbol": "DASH",
+        "date": "2023-06-12",
+        "marketCap": 28132896690
+    },
+    {
+        "symbol": "DASH",
+        "date": "2023-06-09",
+        "marketCap": 27903541860
+    },
+    {
+        "symbol": "DASH",
+        "date": "2023-06-08",
+        "marketCap": 27199927890
+    },
+    {
+        "symbol": "DASH",
+        "date": "2023-06-07",
+        "marketCap": 27269900550
+    },
+    {
+        "symbol": "DASH",
+        "date": "2023-06-06",
+        "marketCap": 27674187030
+    },
+    {
+        "symbol": "DASH",
+        "date": "2023-06-05",
+        "marketCap": 26958910949
+    },
+    {
+        "symbol": "DASH",
+        "date": "2023-06-02",
+        "marketCap": 26387467560
+    },
+    {
+        "symbol": "DASH",
+        "date": "2023-06-01",
+        "marketCap": 26266959089
+    },
+    {
+        "symbol": "DASH",
+        "date": "2023-05-31",
+        "marketCap": 25380638730
+    },
+    {
+        "symbol": "DASH",
+        "date": "2023-05-30",
+        "marketCap": 25244580780
+    },
+    {
+        "symbol": "DASH",
+        "date": "2023-05-26",
+        "marketCap": 26216423280
+    },
+    {
+        "symbol": "DASH",
+        "date": "2023-05-25",
+        "marketCap": 25851010500
+    },
+    {
+        "symbol": "DASH",
+        "date": "2023-05-24",
+        "marketCap": 25656642000
+    },
+    {
+        "symbol": "DASH",
+        "date": "2023-05-23",
+        "marketCap": 25668304110
+    },
+    {
+        "symbol": "DASH",
+        "date": "2023-05-22",
+        "marketCap": 25512809310
+    },
+    {
+        "symbol": "DASH",
+        "date": "2023-05-19",
+        "marketCap": 26037604260
+    },
+    {
+        "symbol": "DASH",
+        "date": "2023-05-18",
+        "marketCap": 26033716890
+    },
+    {
+        "symbol": "DASH",
+        "date": "2023-05-17",
+        "marketCap": 25353427140
+    },
+    {
+        "symbol": "DASH",
+        "date": "2023-05-16",
+        "marketCap": 24949140660
+    },
+    {
+        "symbol": "DASH",
+        "date": "2023-05-15",
+        "marketCap": 25734389400
+    },
+    {
+        "symbol": "DASH",
+        "date": "2023-05-12",
+        "marketCap": 25606106190
+    },
+    {
+        "symbol": "DASH",
+        "date": "2023-05-11",
+        "marketCap": 26130901140
+    },
+    {
+        "symbol": "DASH",
+        "date": "2023-05-10",
+        "marketCap": 26729556120
+    },
+    {
+        "symbol": "DASH",
+        "date": "2023-05-09",
+        "marketCap": 26162000100
+    },
+    {
+        "symbol": "DASH",
+        "date": "2023-05-08",
+        "marketCap": 25955969490
+    },
+    {
+        "symbol": "DASH",
+        "date": "2023-05-05",
+        "marketCap": 24451557300
+    },
+    {
+        "symbol": "DASH",
+        "date": "2023-05-04",
+        "marketCap": 24424345710
+    },
+    {
+        "symbol": "DASH",
+        "date": "2023-05-03",
+        "marketCap": 24241639320
+    },
+    {
+        "symbol": "DASH",
+        "date": "2023-05-02",
+        "marketCap": 23953973940
+    },
+    {
+        "symbol": "DASH",
+        "date": "2023-05-01",
+        "marketCap": 24179441400
+    },
+    {
+        "symbol": "DASH",
+        "date": "2023-04-28",
+        "marketCap": 23786817030
+    },
+    {
+        "symbol": "DASH",
+        "date": "2023-04-27",
+        "marketCap": 22710015540
+    },
+    {
+        "symbol": "DASH",
+        "date": "2023-04-26",
+        "marketCap": 22352377500
+    },
+    {
+        "symbol": "DASH",
+        "date": "2023-04-25",
+        "marketCap": 22088036340
+    },
+    {
+        "symbol": "DASH",
+        "date": "2023-04-24",
+        "marketCap": 23277571560
+    },
+    {
+        "symbol": "DASH",
+        "date": "2023-04-21",
+        "marketCap": 23825690730
+    },
+    {
+        "symbol": "DASH",
+        "date": "2023-04-20",
+        "marketCap": 23153175720
+    },
+    {
+        "symbol": "DASH",
+        "date": "2023-04-19",
+        "marketCap": 23996735010
+    },
+    {
+        "symbol": "DASH",
+        "date": "2023-04-18",
+        "marketCap": 24253301430
+    },
+    {
+        "symbol": "DASH",
+        "date": "2023-04-17",
+        "marketCap": 23565236940
+    },
+    {
+        "symbol": "DASH",
+        "date": "2023-04-14",
+        "marketCap": 23992847640
+    },
+    {
+        "symbol": "DASH",
+        "date": "2023-04-13",
+        "marketCap": 23887888650
+    },
+    {
+        "symbol": "DASH",
+        "date": "2023-04-12",
+        "marketCap": 23363093700
+    },
+    {
+        "symbol": "DASH",
+        "date": "2023-04-11",
+        "marketCap": 24459332040
+    },
+    {
+        "symbol": "DASH",
+        "date": "2023-04-10",
+        "marketCap": 23938424460
+    },
+    {
+        "symbol": "DASH",
+        "date": "2023-04-06",
+        "marketCap": 23588561160
+    },
+    {
+        "symbol": "DASH",
+        "date": "2023-04-05",
+        "marketCap": 23658533820
+    },
+    {
+        "symbol": "DASH",
+        "date": "2023-04-04",
+        "marketCap": 24622601580
+    },
+    {
+        "symbol": "DASH",
+        "date": "2023-04-03",
+        "marketCap": 24855843780
+    },
+    {
+        "symbol": "DASH",
+        "date": "2023-03-31",
+        "marketCap": 24708123720
+    },
+    {
+        "symbol": "DASH",
+        "date": "2023-03-30",
+        "marketCap": 24118726660
+    },
+    {
+        "symbol": "DASH",
+        "date": "2023-03-29",
+        "marketCap": 23369164420
+    },
+    {
+        "symbol": "DASH",
+        "date": "2023-03-28",
+        "marketCap": 23049038880
+    },
+    {
+        "symbol": "DASH",
+        "date": "2023-03-27",
+        "marketCap": 23384780300
+    },
+    {
+        "symbol": "DASH",
+        "date": "2023-03-24",
+        "marketCap": 23685385990
+    },
+    {
+        "symbol": "DASH",
+        "date": "2023-03-23",
+        "marketCap": 23544843070
+    },
+    {
+        "symbol": "DASH",
+        "date": "2023-03-22",
+        "marketCap": 23080270640
+    },
+    {
+        "symbol": "DASH",
+        "date": "2023-03-21",
+        "marketCap": 23568266890
+    },
+    {
+        "symbol": "DASH",
+        "date": "2023-03-20",
+        "marketCap": 23158350040
+    },
+    {
+        "symbol": "DASH",
+        "date": "2023-03-17",
+        "marketCap": 23283277080
+    },
+    {
+        "symbol": "DASH",
+        "date": "2023-03-16",
+        "marketCap": 23708809810
+    },
+    {
+        "symbol": "DASH",
+        "date": "2023-03-15",
+        "marketCap": 22826512590
+    },
+    {
+        "symbol": "DASH",
+        "date": "2023-03-14",
+        "marketCap": 22248725030
+    },
+    {
+        "symbol": "DASH",
+        "date": "2023-03-13",
+        "marketCap": 21003358600
+    },
+    {
+        "symbol": "DASH",
+        "date": "2023-03-10",
+        "marketCap": 20780832310
+    },
+    {
+        "symbol": "DASH",
+        "date": "2023-03-09",
+        "marketCap": 21581146160
+    },
+    {
+        "symbol": "DASH",
+        "date": "2023-03-08",
+        "marketCap": 22721105400
+    },
+    {
+        "symbol": "DASH",
+        "date": "2023-03-07",
+        "marketCap": 22705489520
+    },
+    {
+        "symbol": "DASH",
+        "date": "2023-03-06",
+        "marketCap": 21842712150
+    },
+    {
+        "symbol": "DASH",
+        "date": "2023-03-03",
+        "marketCap": 22385363980
+    },
+    {
+        "symbol": "DASH",
+        "date": "2023-03-02",
+        "marketCap": 21581146160
+    },
+    {
+        "symbol": "DASH",
+        "date": "2023-03-01",
+        "marketCap": 21050206240
+    },
+    {
+        "symbol": "DASH",
+        "date": "2023-02-28",
+        "marketCap": 21339100020
+    },
+    {
+        "symbol": "DASH",
+        "date": "2023-02-27",
+        "marketCap": 21155613430
+    },
+    {
+        "symbol": "DASH",
+        "date": "2023-02-24",
+        "marketCap": 21506970730
+    },
+    {
+        "symbol": "DASH",
+        "date": "2023-02-23",
+        "marketCap": 22084758290
+    },
+    {
+        "symbol": "DASH",
+        "date": "2023-02-22",
+        "marketCap": 22600082330
+    },
+    {
+        "symbol": "DASH",
+        "date": "2023-02-21",
+        "marketCap": 22666449820
+    },
+    {
+        "symbol": "DASH",
+        "date": "2023-02-17",
+        "marketCap": 24130438570
+    },
+    {
+        "symbol": "DASH",
+        "date": "2023-02-16",
+        "marketCap": 26113655330
+    },
+    {
+        "symbol": "DASH",
+        "date": "2023-02-15",
+        "marketCap": 26617267460
+    },
+    {
+        "symbol": "DASH",
+        "date": "2023-02-14",
+        "marketCap": 24052359170
+    },
+    {
+        "symbol": "DASH",
+        "date": "2023-02-13",
+        "marketCap": 23146638130
+    },
+    {
+        "symbol": "DASH",
+        "date": "2023-02-10",
+        "marketCap": 22533714840
+    },
+    {
+        "symbol": "DASH",
+        "date": "2023-02-09",
+        "marketCap": 24146054450
+    },
+    {
+        "symbol": "DASH",
+        "date": "2023-02-08",
+        "marketCap": 24352964860
+    },
+    {
+        "symbol": "DASH",
+        "date": "2023-02-07",
+        "marketCap": 23431627940
+    },
+    {
+        "symbol": "DASH",
+        "date": "2023-02-06",
+        "marketCap": 23298892960
+    },
+    {
+        "symbol": "DASH",
+        "date": "2023-02-03",
+        "marketCap": 23049038880
+    },
+    {
+        "symbol": "DASH",
+        "date": "2023-02-02",
+        "marketCap": 24911232570
+    },
+    {
+        "symbol": "DASH",
+        "date": "2023-02-01",
+        "marketCap": 22998287270
+    },
+    {
+        "symbol": "DASH",
+        "date": "2023-01-31",
+        "marketCap": 22611794240
+    },
+    {
+        "symbol": "DASH",
+        "date": "2023-01-30",
+        "marketCap": 22080854320
+    },
+    {
+        "symbol": "DASH",
+        "date": "2023-01-27",
+        "marketCap": 22888976110
+    },
+    {
+        "symbol": "DASH",
+        "date": "2023-01-26",
+        "marketCap": 22233109150
+    },
+    {
+        "symbol": "DASH",
+        "date": "2023-01-25",
+        "marketCap": 23240333410
+    },
+    {
+        "symbol": "DASH",
+        "date": "2023-01-24",
+        "marketCap": 23240333410
+    },
+    {
+        "symbol": "DASH",
+        "date": "2023-01-23",
+        "marketCap": 23654154230
+    },
+    {
+        "symbol": "DASH",
+        "date": "2023-01-20",
+        "marketCap": 22650833940
+    },
+    {
+        "symbol": "DASH",
+        "date": "2023-01-19",
+        "marketCap": 21335196050
+    },
+    {
+        "symbol": "DASH",
+        "date": "2023-01-18",
+        "marketCap": 21592858070
+    },
+    {
+        "symbol": "DASH",
+        "date": "2023-01-17",
+        "marketCap": 21264924590
+    },
+    {
+        "symbol": "DASH",
+        "date": "2023-01-13",
+        "marketCap": 20433378980
+    },
+    {
+        "symbol": "DASH",
+        "date": "2023-01-12",
+        "marketCap": 20312355910
+    },
+    {
+        "symbol": "DASH",
+        "date": "2023-01-11",
+        "marketCap": 20222564600
+    },
+    {
+        "symbol": "DASH",
+        "date": "2023-01-10",
+        "marketCap": 18754671880
+    },
+    {
+        "symbol": "DASH",
+        "date": "2023-01-09",
+        "marketCap": 18758575850
+    },
+    {
+        "symbol": "DASH",
+        "date": "2023-01-06",
+        "marketCap": 18739056000
+    },
+    {
+        "symbol": "DASH",
+        "date": "2023-01-05",
+        "marketCap": 18399410610
+    },
+    {
+        "symbol": "DASH",
+        "date": "2023-01-04",
+        "marketCap": 19102125210
+    },
+    {
+        "symbol": "DASH",
+        "date": "2023-01-03",
+        "marketCap": 18879598920
+    },
+    {
+        "symbol": "DASH",
+        "date": "2022-12-30",
+        "marketCap": 18901248840
+    },
+    {
+        "symbol": "DASH",
+        "date": "2022-12-29",
+        "marketCap": 19195491960
+    },
+    {
+        "symbol": "DASH",
+        "date": "2022-12-28",
+        "marketCap": 18138539700
+    },
+    {
+        "symbol": "DASH",
+        "date": "2022-12-27",
+        "marketCap": 18750255660
+    },
+    {
+        "symbol": "DASH",
+        "date": "2022-12-23",
+        "marketCap": 19625241780
+    },
+    {
+        "symbol": "DASH",
+        "date": "2022-12-22",
+        "marketCap": 19884640320
+    },
+    {
+        "symbol": "DASH",
+        "date": "2022-12-21",
+        "marketCap": 20488613040
+    },
+    {
+        "symbol": "DASH",
+        "date": "2022-12-20",
+        "marketCap": 19873025460
+    },
+    {
+        "symbol": "DASH",
+        "date": "2022-12-19",
+        "marketCap": 19915613280
+    },
+    {
+        "symbol": "DASH",
+        "date": "2022-12-16",
+        "marketCap": 20333748240
+    },
+    {
+        "symbol": "DASH",
+        "date": "2022-12-15",
+        "marketCap": 21390700500
+    },
+    {
+        "symbol": "DASH",
+        "date": "2022-12-14",
+        "marketCap": 22648977000
+    },
+    {
+        "symbol": "DASH",
+        "date": "2022-12-13",
+        "marketCap": 22548314880
+    },
+    {
+        "symbol": "DASH",
+        "date": "2022-12-12",
+        "marketCap": 22463139240
+    },
+    {
+        "symbol": "DASH",
+        "date": "2022-12-09",
+        "marketCap": 21398443740
+    },
+    {
+        "symbol": "DASH",
+        "date": "2022-12-08",
+        "marketCap": 20910619620
+    },
+    {
+        "symbol": "DASH",
+        "date": "2022-12-07",
+        "marketCap": 20759626440
+    },
+    {
+        "symbol": "DASH",
+        "date": "2022-12-06",
+        "marketCap": 20407309020
+    },
+    {
+        "symbol": "DASH",
+        "date": "2022-12-05",
+        "marketCap": 20608633260
+    },
+    {
+        "symbol": "DASH",
+        "date": "2022-12-02",
+        "marketCap": 21367470780
+    },
+    {
+        "symbol": "DASH",
+        "date": "2022-12-01",
+        "marketCap": 22114693440
+    },
+    {
+        "symbol": "DASH",
+        "date": "2022-11-30",
+        "marketCap": 22552186500
+    },
+    {
+        "symbol": "DASH",
+        "date": "2022-11-29",
+        "marketCap": 20651221080
+    },
+    {
+        "symbol": "DASH",
+        "date": "2022-11-28",
+        "marketCap": 21158403300
+    },
+    {
+        "symbol": "DASH",
+        "date": "2022-11-25",
+        "marketCap": 21475876140
+    },
+    {
+        "symbol": "DASH",
+        "date": "2022-11-23",
+        "marketCap": 21905625960
+    },
+    {
+        "symbol": "DASH",
+        "date": "2022-11-22",
+        "marketCap": 20887389900
+    },
+    {
+        "symbol": "DASH",
+        "date": "2022-11-21",
+        "marketCap": 21398443740
+    },
+    {
+        "symbol": "DASH",
+        "date": "2022-11-18",
+        "marketCap": 22567672980
+    },
+    {
+        "symbol": "DASH",
+        "date": "2022-11-17",
+        "marketCap": 22726409400
+    },
+    {
+        "symbol": "DASH",
+        "date": "2022-11-16",
+        "marketCap": 23531706360
+    },
+    {
+        "symbol": "DASH",
+        "date": "2022-11-15",
+        "marketCap": 24538327560
+    },
+    {
+        "symbol": "DASH",
+        "date": "2022-11-14",
+        "marketCap": 24011787240
+    },
+    {
+        "symbol": "DASH",
+        "date": "2022-11-11",
+        "marketCap": 24387334380
+    },
+    {
+        "symbol": "DASH",
+        "date": "2022-11-10",
+        "marketCap": 23020652520
+    },
+    {
+        "symbol": "DASH",
+        "date": "2022-11-09",
+        "marketCap": 20616376500
+    },
+    {
+        "symbol": "DASH",
+        "date": "2022-11-08",
+        "marketCap": 21111943860
+    },
+    {
+        "symbol": "DASH",
+        "date": "2022-11-07",
+        "marketCap": 20171140200
+    },
+    {
+        "symbol": "DASH",
+        "date": "2022-11-04",
+        "marketCap": 19965944340
+    },
+    {
+        "symbol": "DASH",
+        "date": "2022-11-03",
+        "marketCap": 18432782820
+    },
+    {
+        "symbol": "DASH",
+        "date": "2022-11-02",
+        "marketCap": 17468749440
+    },
+    {
+        "symbol": "DASH",
+        "date": "2022-11-01",
+        "marketCap": 17461006200
+    },
+    {
+        "symbol": "DASH",
+        "date": "2022-10-31",
+        "marketCap": 16853161860
+    },
+    {
+        "symbol": "DASH",
+        "date": "2022-10-28",
+        "marketCap": 18219843720
+    },
+    {
+        "symbol": "DASH",
+        "date": "2022-10-27",
+        "marketCap": 17941087080
+    },
+    {
+        "symbol": "DASH",
+        "date": "2022-10-26",
+        "marketCap": 18285661260
+    },
+    {
+        "symbol": "DASH",
+        "date": "2022-10-25",
+        "marketCap": 18374708520
+    },
+    {
+        "symbol": "DASH",
+        "date": "2022-10-24",
+        "marketCap": 17201607660
+    },
+    {
+        "symbol": "DASH",
+        "date": "2022-10-21",
+        "marketCap": 17511337260
+    },
+    {
+        "symbol": "DASH",
+        "date": "2022-10-20",
+        "marketCap": 17627485860
+    },
+    {
+        "symbol": "DASH",
+        "date": "2022-10-19",
+        "marketCap": 17724276360
+    },
+    {
+        "symbol": "DASH",
+        "date": "2022-10-18",
+        "marketCap": 18157897800
+    },
+    {
+        "symbol": "DASH",
+        "date": "2022-10-17",
+        "marketCap": 17697175020
+    },
+    {
+        "symbol": "DASH",
+        "date": "2022-10-14",
+        "marketCap": 16671195720
+    },
+    {
+        "symbol": "DASH",
+        "date": "2022-10-13",
+        "marketCap": 17774607420
+    },
+    {
+        "symbol": "DASH",
+        "date": "2022-10-12",
+        "marketCap": 18088208640
+    },
+    {
+        "symbol": "DASH",
+        "date": "2022-10-11",
+        "marketCap": 17364215700
+    },
+    {
+        "symbol": "DASH",
+        "date": "2022-10-10",
+        "marketCap": 18471499020
+    },
+    {
+        "symbol": "DASH",
+        "date": "2022-10-07",
+        "marketCap": 19121931180
+    },
+    {
+        "symbol": "DASH",
+        "date": "2022-10-06",
+        "marketCap": 20515714380
+    },
+    {
+        "symbol": "DASH",
+        "date": "2022-10-05",
+        "marketCap": 20515714380
+    },
+    {
+        "symbol": "DASH",
+        "date": "2022-10-04",
+        "marketCap": 20968693920
+    },
+    {
+        "symbol": "DASH",
+        "date": "2022-10-03",
+        "marketCap": 19559424240
+    },
+    {
+        "symbol": "DASH",
+        "date": "2022-09-30",
+        "marketCap": 19145160900
+    },
+    {
+        "symbol": "DASH",
+        "date": "2022-09-29",
+        "marketCap": 19176239040
+    },
+    {
+        "symbol": "DASH",
+        "date": "2022-09-28",
+        "marketCap": 20276641200
+    },
+    {
+        "symbol": "DASH",
+        "date": "2022-09-27",
+        "marketCap": 19680269400
+    },
+    {
+        "symbol": "DASH",
+        "date": "2022-09-26",
+        "marketCap": 19518671880
+    },
+    {
+        "symbol": "DASH",
+        "date": "2022-09-23",
+        "marketCap": 20011159560
+    },
+    {
+        "symbol": "DASH",
+        "date": "2022-09-22",
+        "marketCap": 20776824000
+    },
+    {
+        "symbol": "DASH",
+        "date": "2022-09-21",
+        "marketCap": 21996500520
+    },
+    {
+        "symbol": "DASH",
+        "date": "2022-09-20",
+        "marketCap": 22185030960
+    },
+    {
+        "symbol": "DASH",
+        "date": "2022-09-19",
+        "marketCap": 22654433280
+    },
+    {
+        "symbol": "DASH",
+        "date": "2022-09-16",
+        "marketCap": 22750622280
+    },
+    {
+        "symbol": "DASH",
+        "date": "2022-09-15",
+        "marketCap": 24782133960
+    },
+    {
+        "symbol": "DASH",
+        "date": "2022-09-14",
+        "marketCap": 24828304680
+    },
+    {
+        "symbol": "DASH",
+        "date": "2022-09-13",
+        "marketCap": 23881804920
+    },
+    {
+        "symbol": "DASH",
+        "date": "2022-09-12",
+        "marketCap": 25343877720
+    },
+    {
+        "symbol": "DASH",
+        "date": "2022-09-09",
+        "marketCap": 24743658360
+    },
+    {
+        "symbol": "DASH",
+        "date": "2022-09-08",
+        "marketCap": 22827573480
+    },
+    {
+        "symbol": "DASH",
+        "date": "2022-09-07",
+        "marketCap": 22746774720
+    },
+    {
+        "symbol": "DASH",
+        "date": "2022-09-06",
+        "marketCap": 22404341880
+    },
+    {
+        "symbol": "DASH",
+        "date": "2022-09-02",
+        "marketCap": 22404341880
+    },
+    {
+        "symbol": "DASH",
+        "date": "2022-09-01",
+        "marketCap": 22654433280
+    },
+    {
+        "symbol": "DASH",
+        "date": "2022-08-31",
+        "marketCap": 23046884400
+    },
+    {
+        "symbol": "DASH",
+        "date": "2022-08-30",
+        "marketCap": 23631713520
+    },
+    {
+        "symbol": "DASH",
+        "date": "2022-08-29",
+        "marketCap": 23300823360
+    },
+    {
+        "symbol": "DASH",
+        "date": "2022-08-26",
+        "marketCap": 23724054960
+    },
+    {
+        "symbol": "DASH",
+        "date": "2022-08-25",
+        "marketCap": 24989902200
+    },
+    {
+        "symbol": "DASH",
+        "date": "2022-08-24",
+        "marketCap": 24670554720
+    },
+    {
+        "symbol": "DASH",
+        "date": "2022-08-23",
+        "marketCap": 24478176720
+    },
+    {
+        "symbol": "DASH",
+        "date": "2022-08-22",
+        "marketCap": 24366597480
+    },
+    {
+        "symbol": "DASH",
+        "date": "2022-08-19",
+        "marketCap": 25005292439
+    },
+    {
+        "symbol": "DASH",
+        "date": "2022-08-18",
+        "marketCap": 25663225200
+    },
+    {
+        "symbol": "DASH",
+        "date": "2022-08-17",
+        "marketCap": 26232664080
+    },
+    {
+        "symbol": "DASH",
+        "date": "2022-08-16",
+        "marketCap": 28306498919
+    },
+    {
+        "symbol": "DASH",
+        "date": "2022-08-15",
+        "marketCap": 29918626560
+    },
+    {
+        "symbol": "DASH",
+        "date": "2022-08-12",
+        "marketCap": 29768571720
+    },
+    {
+        "symbol": "DASH",
+        "date": "2022-08-11",
+        "marketCap": 29968644840
+    },
+    {
+        "symbol": "DASH",
+        "date": "2022-08-10",
+        "marketCap": 31011333599
+    },
+    {
+        "symbol": "DASH",
+        "date": "2022-08-09",
+        "marketCap": 28098730680
+    },
+    {
+        "symbol": "DASH",
+        "date": "2022-08-08",
+        "marketCap": 29064468240
+    },
+    {
+        "symbol": "DASH",
+        "date": "2022-08-05",
+        "marketCap": 30892059240
+    },
+    {
+        "symbol": "DASH",
+        "date": "2022-08-04",
+        "marketCap": 31303748160
+    },
+    {
+        "symbol": "DASH",
+        "date": "2022-08-03",
+        "marketCap": 30588102000
+    },
+    {
+        "symbol": "DASH",
+        "date": "2022-08-02",
+        "marketCap": 29141419439
+    },
+    {
+        "symbol": "DASH",
+        "date": "2022-08-01",
+        "marketCap": 27713974680
+    },
+    {
+        "symbol": "DASH",
+        "date": "2022-07-29",
+        "marketCap": 26836731000
+    },
+    {
+        "symbol": "DASH",
+        "date": "2022-07-28",
+        "marketCap": 26959852919
+    },
+    {
+        "symbol": "DASH",
+        "date": "2022-07-27",
+        "marketCap": 27479273520
+    },
+    {
+        "symbol": "DASH",
+        "date": "2022-07-26",
+        "marketCap": 26432737200
+    },
+    {
+        "symbol": "DASH",
+        "date": "2022-07-25",
+        "marketCap": 27610090560
+    },
+    {
+        "symbol": "DASH",
+        "date": "2022-07-22",
+        "marketCap": 28260328200
+    },
+    {
+        "symbol": "DASH",
+        "date": "2022-07-21",
+        "marketCap": 29860913160
+    },
+    {
+        "symbol": "DASH",
+        "date": "2022-07-20",
+        "marketCap": 29691620520
+    },
+    {
+        "symbol": "DASH",
+        "date": "2022-07-19",
+        "marketCap": 28371907439
+    },
+    {
+        "symbol": "DASH",
+        "date": "2022-07-18",
+        "marketCap": 27871724640
+    },
+    {
+        "symbol": "DASH",
+        "date": "2022-07-15",
+        "marketCap": 26971395599
+    },
+    {
+        "symbol": "DASH",
+        "date": "2022-07-14",
+        "marketCap": 26675133480
+    },
+    {
+        "symbol": "DASH",
+        "date": "2022-07-13",
+        "marketCap": 27602395439
+    },
+    {
+        "symbol": "DASH",
+        "date": "2022-07-12",
+        "marketCap": 27367694280
+    },
+    {
+        "symbol": "DASH",
+        "date": "2022-07-11",
+        "marketCap": 27440797919
+    },
+    {
+        "symbol": "DASH",
+        "date": "2022-07-08",
+        "marketCap": 28841309759
+    },
+    {
+        "symbol": "DASH",
+        "date": "2022-07-07",
+        "marketCap": 29241456000
+    },
+    {
+        "symbol": "DASH",
+        "date": "2022-07-06",
+        "marketCap": 26686676160
+    },
+    {
+        "symbol": "DASH",
+        "date": "2022-07-05",
+        "marketCap": 28818224400
+    },
+    {
+        "symbol": "DASH",
+        "date": "2022-07-01",
+        "marketCap": 26144170200
+    },
+    {
+        "symbol": "DASH",
+        "date": "2022-06-30",
+        "marketCap": 24689792520
+    },
+    {
+        "symbol": "DASH",
+        "date": "2022-06-29",
+        "marketCap": 24538250620
+    },
+    {
+        "symbol": "DASH",
+        "date": "2022-06-28",
+        "marketCap": 24549169450
+    },
+    {
+        "symbol": "DASH",
+        "date": "2022-06-27",
+        "marketCap": 25914023200
+    },
+    {
+        "symbol": "DASH",
+        "date": "2022-06-24",
+        "marketCap": 26973149710
+    },
+    {
+        "symbol": "DASH",
+        "date": "2022-06-23",
+        "marketCap": 25575539470
+    },
+    {
+        "symbol": "DASH",
+        "date": "2022-06-22",
+        "marketCap": 23712059150
+    },
+    {
+        "symbol": "DASH",
+        "date": "2022-06-21",
+        "marketCap": 22955020270
+    },
+    {
+        "symbol": "DASH",
+        "date": "2022-06-17",
+        "marketCap": 22452754090
+    },
+    {
+        "symbol": "DASH",
+        "date": "2022-06-16",
+        "marketCap": 21248043180
+    },
+    {
+        "symbol": "DASH",
+        "date": "2022-06-15",
+        "marketCap": 23155198820
+    },
+    {
+        "symbol": "DASH",
+        "date": "2022-06-14",
+        "marketCap": 21277160060
+    },
+    {
+        "symbol": "DASH",
+        "date": "2022-06-13",
+        "marketCap": 21248043180
+    },
+    {
+        "symbol": "DASH",
+        "date": "2022-06-10",
+        "marketCap": 22631094980
+    },
+    {
+        "symbol": "DASH",
+        "date": "2022-06-09",
+        "marketCap": 24985922650
+    },
+    {
+        "symbol": "DASH",
+        "date": "2022-06-08",
+        "marketCap": 26856682190
+    },
+    {
+        "symbol": "DASH",
+        "date": "2022-06-07",
+        "marketCap": 25451792730
+    },
+    {
+        "symbol": "DASH",
+        "date": "2022-06-06",
+        "marketCap": 25459071950
+    },
+    {
+        "symbol": "DASH",
+        "date": "2022-06-03",
+        "marketCap": 24763906440
+    },
+    {
+        "symbol": "DASH",
+        "date": "2022-06-02",
+        "marketCap": 26558234170
+    },
+    {
+        "symbol": "DASH",
+        "date": "2022-06-01",
+        "marketCap": 26186993950
+    },
+    {
+        "symbol": "DASH",
+        "date": "2022-05-31",
+        "marketCap": 27992240510
+    },
+    {
+        "symbol": "DASH",
+        "date": "2022-05-27",
+        "marketCap": 28421714490
+    },
+    {
+        "symbol": "DASH",
+        "date": "2022-05-26",
+        "marketCap": 26820286090
+    },
+    {
+        "symbol": "DASH",
+        "date": "2022-05-25",
+        "marketCap": 24924049280
+    },
+    {
+        "symbol": "DASH",
+        "date": "2022-05-24",
+        "marketCap": 22805796260
+    },
+    {
+        "symbol": "DASH",
+        "date": "2022-05-23",
+        "marketCap": 24680195410
+    },
+    {
+        "symbol": "DASH",
+        "date": "2022-05-20",
+        "marketCap": 24105137030
+    },
+    {
+        "symbol": "DASH",
+        "date": "2022-05-19",
+        "marketCap": 24367188950
+    },
+    {
+        "symbol": "DASH",
+        "date": "2022-05-18",
+        "marketCap": 23158838430
+    },
+    {
+        "symbol": "DASH",
+        "date": "2022-05-17",
+        "marketCap": 25251614180
+    },
+    {
+        "symbol": "DASH",
+        "date": "2022-05-16",
+        "marketCap": 23944994190
+    },
+    {
+        "symbol": "DASH",
+        "date": "2022-05-13",
+        "marketCap": 26827565309
+    },
+    {
+        "symbol": "DASH",
+        "date": "2022-05-12",
+        "marketCap": 23872201990
+    },
+    {
+        "symbol": "DASH",
+        "date": "2022-05-11",
+        "marketCap": 21659319110
+    },
+    {
+        "symbol": "DASH",
+        "date": "2022-05-10",
+        "marketCap": 24942247330
+    },
+    {
+        "symbol": "DASH",
+        "date": "2022-05-09",
+        "marketCap": 23359016980
+    },
+    {
+        "symbol": "DASH",
+        "date": "2022-05-06",
+        "marketCap": 26245227710
+    },
+    {
+        "symbol": "DASH",
+        "date": "2022-05-05",
+        "marketCap": 26623747150
+    },
+    {
+        "symbol": "DASH",
+        "date": "2022-05-04",
+        "marketCap": 29713776040
+    },
+    {
+        "symbol": "DASH",
+        "date": "2022-05-03",
+        "marketCap": 28818431980
+    },
+    {
+        "symbol": "DASH",
+        "date": "2022-05-02",
+        "marketCap": 29939431860
+    },
+    {
+        "symbol": "DASH",
+        "date": "2022-04-29",
+        "marketCap": 29637344230
+    },
+    {
+        "symbol": "DASH",
+        "date": "2022-04-28",
+        "marketCap": 31806551790
+    },
+    {
+        "symbol": "DASH",
+        "date": "2022-04-27",
+        "marketCap": 29924873420
+    },
+    {
+        "symbol": "DASH",
+        "date": "2022-04-26",
+        "marketCap": 30667353860
+    },
+    {
+        "symbol": "DASH",
+        "date": "2022-04-25",
+        "marketCap": 33211441250
+    },
+    {
+        "symbol": "DASH",
+        "date": "2022-04-22",
+        "marketCap": 32392529000
+    },
+    {
+        "symbol": "DASH",
+        "date": "2022-04-21",
+        "marketCap": 33466213950
+    },
+    {
+        "symbol": "DASH",
+        "date": "2022-04-20",
+        "marketCap": 36447054540
+    },
+    {
+        "symbol": "DASH",
+        "date": "2022-04-19",
+        "marketCap": 38765486110
+    },
+    {
+        "symbol": "DASH",
+        "date": "2022-04-18",
+        "marketCap": 37524379100
+    },
+    {
+        "symbol": "DASH",
+        "date": "2022-04-14",
+        "marketCap": 39784576910
+    },
+    {
+        "symbol": "DASH",
+        "date": "2022-04-13",
+        "marketCap": 40312320360
+    },
+    {
+        "symbol": "DASH",
+        "date": "2022-04-12",
+        "marketCap": 38004807620
+    },
+    {
+        "symbol": "DASH",
+        "date": "2022-04-11",
+        "marketCap": 38113995920
+    },
+    {
+        "symbol": "DASH",
+        "date": "2022-04-08",
+        "marketCap": 38732729620
+    },
+    {
+        "symbol": "DASH",
+        "date": "2022-04-07",
+        "marketCap": 40366914510
+    },
+    {
+        "symbol": "DASH",
+        "date": "2022-04-06",
+        "marketCap": 41345969600
+    },
+    {
+        "symbol": "DASH",
+        "date": "2022-04-05",
+        "marketCap": 43020190200
+    },
+    {
+        "symbol": "DASH",
+        "date": "2022-04-04",
+        "marketCap": 46299478810
+    },
+    {
+        "symbol": "DASH",
+        "date": "2022-04-01",
+        "marketCap": 44002884900
+    },
+    {
+        "symbol": "DASH",
+        "date": "2022-03-31",
+        "marketCap": 42652589590
+    },
+    {
+        "symbol": "DASH",
+        "date": "2022-03-30",
+        "marketCap": 41288162370
+    },
+    {
+        "symbol": "DASH",
+        "date": "2022-03-29",
+        "marketCap": 43146007450
+    },
+    {
+        "symbol": "DASH",
+        "date": "2022-03-28",
+        "marketCap": 39961130170
+    },
+    {
+        "symbol": "DASH",
+        "date": "2022-03-25",
+        "marketCap": 36769268510
+    },
+    {
+        "symbol": "DASH",
+        "date": "2022-03-24",
+        "marketCap": 40118278720
+    },
+    {
+        "symbol": "DASH",
+        "date": "2022-03-23",
+        "marketCap": 39929700460
+    },
+    {
+        "symbol": "DASH",
+        "date": "2022-03-22",
+        "marketCap": 38850613750
+    },
+    {
+        "symbol": "DASH",
+        "date": "2022-03-21",
+        "marketCap": 37401354900
+    },
+    {
+        "symbol": "DASH",
+        "date": "2022-03-18",
+        "marketCap": 37467706510
+    },
+    {
+        "symbol": "DASH",
+        "date": "2022-03-17",
+        "marketCap": 33556453710
+    },
+    {
+        "symbol": "DASH",
+        "date": "2022-03-16",
+        "marketCap": 31604319500
+    },
+    {
+        "symbol": "DASH",
+        "date": "2022-03-15",
+        "marketCap": 27857199630
+    },
+    {
+        "symbol": "DASH",
+        "date": "2022-03-14",
+        "marketCap": 26561597140
+    },
+    {
+        "symbol": "DASH",
+        "date": "2022-03-11",
+        "marketCap": 30371576430
+    },
+    {
+        "symbol": "DASH",
+        "date": "2022-03-10",
+        "marketCap": 31307483350
+    },
+    {
+        "symbol": "DASH",
+        "date": "2022-03-09",
+        "marketCap": 32072272960
+    },
+    {
+        "symbol": "DASH",
+        "date": "2022-03-08",
+        "marketCap": 29687107190
+    },
+    {
+        "symbol": "DASH",
+        "date": "2022-03-07",
+        "marketCap": 27888629340
+    },
+    {
+        "symbol": "DASH",
+        "date": "2022-03-04",
+        "marketCap": 31380819340
+    },
+    {
+        "symbol": "DASH",
+        "date": "2022-03-03",
+        "marketCap": 35508587920
+    },
+    {
+        "symbol": "DASH",
+        "date": "2022-03-02",
+        "marketCap": 36186072780
+    },
+    {
+        "symbol": "DASH",
+        "date": "2022-03-01",
+        "marketCap": 35770502170
+    },
+    {
+        "symbol": "DASH",
+        "date": "2022-02-28",
+        "marketCap": 36650534050
+    },
+    {
+        "symbol": "DASH",
+        "date": "2022-02-25",
+        "marketCap": 35040634460
+    },
+    {
+        "symbol": "DASH",
+        "date": "2022-02-24",
+        "marketCap": 35068571980
+    },
+    {
+        "symbol": "DASH",
+        "date": "2022-02-23",
+        "marketCap": 31621780450
+    },
+    {
+        "symbol": "DASH",
+        "date": "2022-02-22",
+        "marketCap": 32536734230
+    },
+    {
+        "symbol": "DASH",
+        "date": "2022-02-18",
+        "marketCap": 33598359989
+    },
+    {
+        "symbol": "DASH",
+        "date": "2022-02-17",
+        "marketCap": 36678471570
+    },
+    {
+        "symbol": "DASH",
+        "date": "2022-02-16",
+        "marketCap": 33137390910
+    },
+    {
+        "symbol": "DASH",
+        "date": "2022-02-15",
+        "marketCap": 35553986390
+    },
+    {
+        "symbol": "DASH",
+        "date": "2022-02-14",
+        "marketCap": 33912657090
+    },
+    {
+        "symbol": "DASH",
+        "date": "2022-02-11",
+        "marketCap": 33179297190
+    },
+    {
+        "symbol": "DASH",
+        "date": "2022-02-10",
+        "marketCap": 34157110390
+    },
+    {
+        "symbol": "DASH",
+        "date": "2022-02-09",
+        "marketCap": 37761050470
+    },
+    {
+        "symbol": "DASH",
+        "date": "2022-02-08",
+        "marketCap": 35100001690
+    },
+    {
+        "symbol": "DASH",
+        "date": "2022-02-07",
+        "marketCap": 34192032290
+    },
+    {
+        "symbol": "DASH",
+        "date": "2022-02-04",
+        "marketCap": 34394579310
+    },
+    {
+        "symbol": "DASH",
+        "date": "2022-02-03",
+        "marketCap": 32229421510
+    },
+    {
+        "symbol": "DASH",
+        "date": "2022-02-02",
+        "marketCap": 36378143230
+    },
+    {
+        "symbol": "DASH",
+        "date": "2022-02-01",
+        "marketCap": 40027481780
+    },
+    {
+        "symbol": "DASH",
+        "date": "2022-01-31",
+        "marketCap": 39632864310
+    },
+    {
+        "symbol": "DASH",
+        "date": "2022-01-28",
+        "marketCap": 36203533730
+    },
+    {
+        "symbol": "DASH",
+        "date": "2022-01-27",
+        "marketCap": 33556453710
+    },
+    {
+        "symbol": "DASH",
+        "date": "2022-01-26",
+        "marketCap": 35435251930
+    },
+    {
+        "symbol": "DASH",
+        "date": "2022-01-25",
+        "marketCap": 38201066410
+    },
+    {
+        "symbol": "DASH",
+        "date": "2022-01-24",
+        "marketCap": 40980849650
+    },
+    {
+        "symbol": "DASH",
+        "date": "2022-01-21",
+        "marketCap": 40841162050
+    },
+    {
+        "symbol": "DASH",
+        "date": "2022-01-20",
+        "marketCap": 44273984820
+    },
+    {
+        "symbol": "DASH",
+        "date": "2022-01-19",
+        "marketCap": 46013095440
+    },
+    {
+        "symbol": "DASH",
+        "date": "2022-01-18",
+        "marketCap": 44902579020
+    },
+    {
+        "symbol": "DASH",
+        "date": "2022-01-14",
+        "marketCap": 45932775070
+    },
+    {
+        "symbol": "DASH",
+        "date": "2022-01-13",
+        "marketCap": 46020079820
+    },
+    {
+        "symbol": "DASH",
+        "date": "2022-01-12",
+        "marketCap": 49121144540
+    },
+    {
+        "symbol": "DASH",
+        "date": "2022-01-11",
+        "marketCap": 50161817159
+    },
+    {
+        "symbol": "DASH",
+        "date": "2022-01-10",
+        "marketCap": 46603275549
+    },
+    {
+        "symbol": "DASH",
+        "date": "2022-01-07",
+        "marketCap": 46191197130
+    },
+    {
+        "symbol": "DASH",
+        "date": "2022-01-06",
+        "marketCap": 47940784320
+    },
+    {
+        "symbol": "DASH",
+        "date": "2022-01-05",
+        "marketCap": 44689555430
+    },
+    {
+        "symbol": "DASH",
+        "date": "2022-01-04",
+        "marketCap": 47462354290
+    },
+    {
+        "symbol": "DASH",
+        "date": "2022-01-03",
+        "marketCap": 50755489460
+    },
+    {
+        "symbol": "DASH",
+        "date": "2021-12-31",
+        "marketCap": 51998709100
+    },
+    {
+        "symbol": "DASH",
+        "date": "2021-12-30",
+        "marketCap": 52490186220
+    },
+    {
+        "symbol": "DASH",
+        "date": "2021-12-29",
+        "marketCap": 51708241590
+    },
+    {
+        "symbol": "DASH",
+        "date": "2021-12-28",
+        "marketCap": 52896659640
+    },
+    {
+        "symbol": "DASH",
+        "date": "2021-12-27",
+        "marketCap": 53750942760
+    },
+    {
+        "symbol": "DASH",
+        "date": "2021-12-23",
+        "marketCap": 52937995920
+    },
+    {
+        "symbol": "DASH",
+        "date": "2021-12-22",
+        "marketCap": 51408553560
+    },
+    {
+        "symbol": "DASH",
+        "date": "2021-12-21",
+        "marketCap": 52224945090
+    },
+    {
+        "symbol": "DASH",
+        "date": "2021-12-20",
+        "marketCap": 51005524830
+    },
+    {
+        "symbol": "DASH",
+        "date": "2021-12-17",
+        "marketCap": 51260431890
+    },
+    {
+        "symbol": "DASH",
+        "date": "2021-12-16",
+        "marketCap": 49755102360
+    },
+    {
+        "symbol": "DASH",
+        "date": "2021-12-15",
+        "marketCap": 53819836560
+    },
+    {
+        "symbol": "DASH",
+        "date": "2021-12-14",
+        "marketCap": 53885285670
+    },
+    {
+        "symbol": "DASH",
+        "date": "2021-12-13",
+        "marketCap": 53478812250
+    },
+    {
+        "symbol": "DASH",
+        "date": "2021-12-10",
+        "marketCap": 54426102000
+    },
+    {
+        "symbol": "DASH",
+        "date": "2021-12-09",
+        "marketCap": 56789159340
+    },
+    {
+        "symbol": "DASH",
+        "date": "2021-12-08",
+        "marketCap": 58191148170
+    },
+    {
+        "symbol": "DASH",
+        "date": "2021-12-07",
+        "marketCap": 56306902740
+    },
+    {
+        "symbol": "DASH",
+        "date": "2021-12-06",
+        "marketCap": 55645522260
+    },
+    {
+        "symbol": "DASH",
+        "date": "2021-12-03",
+        "marketCap": 54326205990
+    },
+    {
+        "symbol": "DASH",
+        "date": "2021-12-02",
+        "marketCap": 57223190280
+    },
+    {
+        "symbol": "DASH",
+        "date": "2021-12-01",
+        "marketCap": 55673079780
+    },
+    {
+        "symbol": "DASH",
+        "date": "2021-11-30",
+        "marketCap": 61580723130
+    },
+    {
+        "symbol": "DASH",
+        "date": "2021-11-29",
+        "marketCap": 63041271690
+    },
+    {
+        "symbol": "DASH",
+        "date": "2021-11-26",
+        "marketCap": 64732614479
+    },
+    {
+        "symbol": "DASH",
+        "date": "2021-11-24",
+        "marketCap": 63702652170
+    },
+    {
+        "symbol": "DASH",
+        "date": "2021-11-23",
+        "marketCap": 63489081390
+    },
+    {
+        "symbol": "DASH",
+        "date": "2021-11-22",
+        "marketCap": 69396724740
+    },
+    {
+        "symbol": "DASH",
+        "date": "2021-11-19",
+        "marketCap": 74146952250
+    },
+    {
+        "symbol": "DASH",
+        "date": "2021-11-18",
+        "marketCap": 78817951890
+    },
+    {
+        "symbol": "DASH",
+        "date": "2021-11-17",
+        "marketCap": 79041856740
+    },
+    {
+        "symbol": "DASH",
+        "date": "2021-11-16",
+        "marketCap": 80829650850
+    },
+    {
+        "symbol": "DASH",
+        "date": "2021-11-15",
+        "marketCap": 83609515680
+    },
+    {
+        "symbol": "DASH",
+        "date": "2021-11-12",
+        "marketCap": 84729039930
+    },
+    {
+        "symbol": "DASH",
+        "date": "2021-11-11",
+        "marketCap": 78339139980
+    },
+    {
+        "symbol": "DASH",
+        "date": "2021-11-10",
+        "marketCap": 73799038560
+    },
+    {
+        "symbol": "DASH",
+        "date": "2021-11-09",
+        "marketCap": 66141492690
+    },
+    {
+        "symbol": "DASH",
+        "date": "2021-11-08",
+        "marketCap": 66534187350
+    },
+    {
+        "symbol": "DASH",
+        "date": "2021-11-05",
+        "marketCap": 68439100920
+    },
+    {
+        "symbol": "DASH",
+        "date": "2021-11-04",
+        "marketCap": 71456649360
+    },
+    {
+        "symbol": "DASH",
+        "date": "2021-11-03",
+        "marketCap": 70967503380
+    },
+    {
+        "symbol": "DASH",
+        "date": "2021-11-02",
+        "marketCap": 68614780110
+    },
+    {
+        "symbol": "DASH",
+        "date": "2021-11-01",
+        "marketCap": 68184193860
+    },
+    {
+        "symbol": "DASH",
+        "date": "2021-10-29",
+        "marketCap": 67102561200
+    },
+    {
+        "symbol": "DASH",
+        "date": "2021-10-28",
+        "marketCap": 67515924000
+    },
+    {
+        "symbol": "DASH",
+        "date": "2021-10-27",
+        "marketCap": 68532107549
+    },
+    {
+        "symbol": "DASH",
+        "date": "2021-10-26",
+        "marketCap": 73347784170
+    },
+    {
+        "symbol": "DASH",
+        "date": "2021-10-25",
+        "marketCap": 74518978770
+    },
+    {
+        "symbol": "DASH",
+        "date": "2021-10-22",
+        "marketCap": 73657806270
+    },
+    {
+        "symbol": "DASH",
+        "date": "2021-10-21",
+        "marketCap": 75376706580
+    },
+    {
+        "symbol": "DASH",
+        "date": "2021-10-20",
+        "marketCap": 74295073920
+    },
+    {
+        "symbol": "DASH",
+        "date": "2021-10-19",
+        "marketCap": 73485571770
+    },
+    {
+        "symbol": "DASH",
+        "date": "2021-10-18",
+        "marketCap": 74188288530
+    },
+    {
+        "symbol": "DASH",
+        "date": "2021-10-15",
+        "marketCap": 73740478830
+    },
+    {
+        "symbol": "DASH",
+        "date": "2021-10-14",
+        "marketCap": 73175549670
+    },
+    {
+        "symbol": "DASH",
+        "date": "2021-10-13",
+        "marketCap": 70760821980
+    },
+    {
+        "symbol": "DASH",
+        "date": "2021-10-12",
+        "marketCap": 68549331000
+    },
+    {
+        "symbol": "DASH",
+        "date": "2021-10-11",
+        "marketCap": 67274795700
+    },
+    {
+        "symbol": "DASH",
+        "date": "2021-10-08",
+        "marketCap": 70416352980
+    },
+    {
+        "symbol": "DASH",
+        "date": "2021-10-07",
+        "marketCap": 70588587480
+    },
+    {
+        "symbol": "DASH",
+        "date": "2021-10-06",
+        "marketCap": 70705706940
+    },
+    {
+        "symbol": "DASH",
+        "date": "2021-10-05",
+        "marketCap": 68721565500
+    },
+    {
+        "symbol": "DASH",
+        "date": "2021-10-04",
+        "marketCap": 68094631920
+    },
+    {
+        "symbol": "DASH",
+        "date": "2021-10-01",
+        "marketCap": 70268231310
+    },
+    {
+        "symbol": "DASH",
+        "date": "2021-09-30",
+        "marketCap": 70953724620
+    },
+    {
+        "symbol": "DASH",
+        "date": "2021-09-29",
+        "marketCap": 70016985270
+    },
+    {
+        "symbol": "DASH",
+        "date": "2021-09-28",
+        "marketCap": 70183668080
+    },
+    {
+        "symbol": "DASH",
+        "date": "2021-09-27",
+        "marketCap": 73724827370
+    },
+    {
+        "symbol": "DASH",
+        "date": "2021-09-24",
+        "marketCap": 75014067880
+    },
+    {
+        "symbol": "DASH",
+        "date": "2021-09-23",
+        "marketCap": 73816673000
+    },
+    {
+        "symbol": "DASH",
+        "date": "2021-09-22",
+        "marketCap": 74041184540
+    },
+    {
+        "symbol": "DASH",
+        "date": "2021-09-21",
+        "marketCap": 75299809840
+    },
+    {
+        "symbol": "DASH",
+        "date": "2021-09-20",
+        "marketCap": 74946034080
+    },
+    {
+        "symbol": "DASH",
+        "date": "2021-09-17",
+        "marketCap": 75827071790
+    },
+    {
+        "symbol": "DASH",
+        "date": "2021-09-16",
+        "marketCap": 75347433500
+    },
+    {
+        "symbol": "DASH",
+        "date": "2021-09-15",
+        "marketCap": 71384464650
+    },
+    {
+        "symbol": "DASH",
+        "date": "2021-09-14",
+        "marketCap": 69166562770
+    },
+    {
+        "symbol": "DASH",
+        "date": "2021-09-13",
+        "marketCap": 70972860160
+    },
+    {
+        "symbol": "DASH",
+        "date": "2021-09-10",
+        "marketCap": 71561352530
+    },
+    {
+        "symbol": "DASH",
+        "date": "2021-09-09",
+        "marketCap": 70666708060
+    },
+    {
+        "symbol": "DASH",
+        "date": "2021-09-08",
+        "marketCap": 68346755479
+    },
+    {
+        "symbol": "DASH",
+        "date": "2021-09-07",
+        "marketCap": 67054113280
+    },
+    {
+        "symbol": "DASH",
+        "date": "2021-09-03",
+        "marketCap": 65809094740
+    },
+    {
+        "symbol": "DASH",
+        "date": "2021-09-02",
+        "marketCap": 65217200680
+    },
+    {
+        "symbol": "DASH",
+        "date": "2021-09-01",
+        "marketCap": 65244414200
+    },
+    {
+        "symbol": "DASH",
+        "date": "2021-08-31",
+        "marketCap": 65108346600
+    },
+    {
+        "symbol": "DASH",
+        "date": "2021-08-30",
+        "marketCap": 65550566299
+    },
+    {
+        "symbol": "DASH",
+        "date": "2021-08-27",
+        "marketCap": 63931361860
+    },
+    {
+        "symbol": "DASH",
+        "date": "2021-08-26",
+        "marketCap": 64972279000
+    },
+    {
+        "symbol": "DASH",
+        "date": "2021-08-25",
+        "marketCap": 64036814250
+    },
+    {
+        "symbol": "DASH",
+        "date": "2021-08-24",
+        "marketCap": 63764679049
+    },
+    {
+        "symbol": "DASH",
+        "date": "2021-08-23",
+        "marketCap": 62278140520
+    },
+    {
+        "symbol": "DASH",
+        "date": "2021-08-20",
+        "marketCap": 62618309520
+    },
+    {
+        "symbol": "DASH",
+        "date": "2021-08-19",
+        "marketCap": 61931168140
+    },
+    {
+        "symbol": "DASH",
+        "date": "2021-08-18",
+        "marketCap": 65186585470
+    },
+    {
+        "symbol": "DASH",
+        "date": "2021-08-17",
+        "marketCap": 63230613720
+    },
+    {
+        "symbol": "DASH",
+        "date": "2021-08-16",
+        "marketCap": 63839516229
+    },
+    {
+        "symbol": "DASH",
+        "date": "2021-08-13",
+        "marketCap": 66261519510
+    },
+    {
+        "symbol": "DASH",
+        "date": "2021-08-12",
+        "marketCap": 64023207490
+    },
+    {
+        "symbol": "DASH",
+        "date": "2021-08-11",
+        "marketCap": 64822604640
+    },
+    {
+        "symbol": "DASH",
+        "date": "2021-08-10",
+        "marketCap": 64686537040
+    },
+    {
+        "symbol": "DASH",
+        "date": "2021-08-09",
+        "marketCap": 62301952350
+    },
+    {
+        "symbol": "DASH",
+        "date": "2021-08-06",
+        "marketCap": 61761083640
+    },
+    {
+        "symbol": "DASH",
+        "date": "2021-08-05",
+        "marketCap": 61682844770
+    },
+    {
+        "symbol": "DASH",
+        "date": "2021-08-04",
+        "marketCap": 60726969880
+    },
+    {
+        "symbol": "DASH",
+        "date": "2021-08-03",
+        "marketCap": 60254134970
+    },
+    {
+        "symbol": "DASH",
+        "date": "2021-08-02",
+        "marketCap": 60424219470
+    },
+    {
+        "symbol": "DASH",
+        "date": "2021-07-30",
+        "marketCap": 59288055010
+    },
+    {
+        "symbol": "DASH",
+        "date": "2021-07-29",
+        "marketCap": 60570492140
+    },
+    {
+        "symbol": "DASH",
+        "date": "2021-07-28",
+        "marketCap": 63560577650
+    },
+    {
+        "symbol": "DASH",
+        "date": "2021-07-27",
+        "marketCap": 61227018310
+    },
+    {
+        "symbol": "DASH",
+        "date": "2021-07-26",
+        "marketCap": 62621711210
+    },
+    {
+        "symbol": "DASH",
+        "date": "2021-07-23",
+        "marketCap": 64155873400
+    },
+    {
+        "symbol": "DASH",
+        "date": "2021-07-22",
+        "marketCap": 62176089820
+    },
+    {
+        "symbol": "DASH",
+        "date": "2021-07-21",
+        "marketCap": 60897054380
+    },
+    {
+        "symbol": "DASH",
+        "date": "2021-07-20",
+        "marketCap": 60400407640
+    },
+    {
+        "symbol": "DASH",
+        "date": "2021-07-19",
+        "marketCap": 59699659500
+    },
+    {
+        "symbol": "DASH",
+        "date": "2021-07-16",
+        "marketCap": 56930683840
+    },
+    {
+        "symbol": "DASH",
+        "date": "2021-07-15",
+        "marketCap": 56920478770
+    },
+    {
+        "symbol": "DASH",
+        "date": "2021-07-14",
+        "marketCap": 57600816770
+    },
+    {
+        "symbol": "DASH",
+        "date": "2021-07-13",
+        "marketCap": 60036426810
+    },
+    {
+        "symbol": "DASH",
+        "date": "2021-07-12",
+        "marketCap": 60271143420
+    },
+    {
+        "symbol": "DASH",
+        "date": "2021-07-09",
+        "marketCap": 61308658870
+    },
+    {
+        "symbol": "DASH",
+        "date": "2021-07-08",
+        "marketCap": 60740576640
+    },
+    {
+        "symbol": "DASH",
+        "date": "2021-07-07",
+        "marketCap": 62982290350
+    },
+    {
+        "symbol": "DASH",
+        "date": "2021-07-06",
+        "marketCap": 62172688130
+    },
+    {
+        "symbol": "DASH",
+        "date": "2021-07-02",
+        "marketCap": 62220311790
+    },
+    {
+        "symbol": "DASH",
+        "date": "2021-07-01",
+        "marketCap": 61431119710
+    },
+    {
+        "symbol": "DASH",
+        "date": "2021-06-30",
+        "marketCap": 60662337770
+    },
+    {
+        "symbol": "DASH",
+        "date": "2021-06-29",
+        "marketCap": 61555964370
+    },
+    {
+        "symbol": "DASH",
+        "date": "2021-06-28",
+        "marketCap": 58774549200
+    },
+    {
+        "symbol": "DASH",
+        "date": "2021-06-25",
+        "marketCap": 59149421040
+    },
+    {
+        "symbol": "DASH",
+        "date": "2021-06-24",
+        "marketCap": 58674137100
+    },
+    {
+        "symbol": "DASH",
+        "date": "2021-06-23",
+        "marketCap": 58249059210
+    },
+    {
+        "symbol": "DASH",
+        "date": "2021-06-22",
+        "marketCap": 59905858860
+    },
+    {
+        "symbol": "DASH",
+        "date": "2021-06-21",
+        "marketCap": 57974599470
+    },
+    {
+        "symbol": "DASH",
+        "date": "2021-06-18",
+        "marketCap": 56006522310
+    },
+    {
+        "symbol": "DASH",
+        "date": "2021-06-17",
+        "marketCap": 55065995640
+    },
+    {
+        "symbol": "DASH",
+        "date": "2021-06-16",
+        "marketCap": 54041792220
+    },
+    {
+        "symbol": "DASH",
+        "date": "2021-06-15",
+        "marketCap": 53101265550
+    },
+    {
+        "symbol": "DASH",
+        "date": "2021-06-14",
+        "marketCap": 53161512810
+    },
+    {
+        "symbol": "DASH",
+        "date": "2021-06-11",
+        "marketCap": 51598431120
+    },
+    {
+        "symbol": "DASH",
+        "date": "2021-06-10",
+        "marketCap": 48482308950
+    },
+    {
+        "symbol": "DASH",
+        "date": "2021-06-09",
+        "marketCap": 45848164860
+    },
+    {
+        "symbol": "DASH",
+        "date": "2021-06-08",
+        "marketCap": 45774529320
+    },
+    {
+        "symbol": "DASH",
+        "date": "2021-06-07",
+        "marketCap": 47695747500
+    },
+    {
+        "symbol": "DASH",
+        "date": "2021-06-04",
+        "marketCap": 48130866600
+    },
+    {
+        "symbol": "DASH",
+        "date": "2021-06-03",
+        "marketCap": 46561090770
+    },
+    {
+        "symbol": "DASH",
+        "date": "2021-06-02",
+        "marketCap": 50149149810
+    },
+    {
+        "symbol": "DASH",
+        "date": "2021-06-01",
+        "marketCap": 49961713890
+    },
+    {
+        "symbol": "DASH",
+        "date": "2021-05-28",
+        "marketCap": 50299767960
+    },
+    {
+        "symbol": "DASH",
+        "date": "2021-05-27",
+        "marketCap": 51149923740
+    },
+    {
+        "symbol": "DASH",
+        "date": "2021-05-26",
+        "marketCap": 47481535020
+    },
+    {
+        "symbol": "DASH",
+        "date": "2021-05-25",
+        "marketCap": 45610522890
+    },
+    {
+        "symbol": "DASH",
+        "date": "2021-05-24",
+        "marketCap": 47012945220
+    },
+    {
+        "symbol": "DASH",
+        "date": "2021-05-21",
+        "marketCap": 46045641990
+    },
+    {
+        "symbol": "DASH",
+        "date": "2021-05-20",
+        "marketCap": 45854859000
+    },
+    {
+        "symbol": "DASH",
+        "date": "2021-05-19",
+        "marketCap": 46925921400
+    },
+    {
+        "symbol": "DASH",
+        "date": "2021-05-18",
+        "marketCap": 46377001920
+    },
+    {
+        "symbol": "DASH",
+        "date": "2021-05-17",
+        "marketCap": 44780449530
+    },
+    {
+        "symbol": "DASH",
+        "date": "2021-05-14",
+        "marketCap": 47217116490
+    },
+    {
+        "symbol": "DASH",
+        "date": "2021-05-13",
+        "marketCap": 38655311430
+    },
+    {
+        "symbol": "DASH",
+        "date": "2021-05-12",
+        "marketCap": 37818543930
+    },
+    {
+        "symbol": "DASH",
+        "date": "2021-05-11",
+        "marketCap": 41684409780
+    },
+    {
+        "symbol": "DASH",
+        "date": "2021-05-10",
+        "marketCap": 40315458150
+    },
+    {
+        "symbol": "DASH",
+        "date": "2021-05-07",
+        "marketCap": 41801557230
+    },
+    {
+        "symbol": "DASH",
+        "date": "2021-05-06",
+        "marketCap": 41091978390
+    },
+    {
+        "symbol": "DASH",
+        "date": "2021-05-05",
+        "marketCap": 42973031729
+    },
+    {
+        "symbol": "DASH",
+        "date": "2021-05-04",
+        "marketCap": 45259080540
+    },
+    {
+        "symbol": "DASH",
+        "date": "2021-05-03",
+        "marketCap": 47016292290
+    },
+    {
+        "symbol": "DASH",
+        "date": "2021-04-30",
+        "marketCap": 47920001189
+    },
+    {
+        "symbol": "DASH",
+        "date": "2021-04-29",
+        "marketCap": 50242867770
+    },
+    {
+        "symbol": "DASH",
+        "date": "2021-04-28",
+        "marketCap": 54373152150
+    },
+    {
+        "symbol": "DASH",
+        "date": "2021-04-27",
+        "marketCap": 54266045910
+    },
+    {
+        "symbol": "DASH",
+        "date": "2021-04-26",
+        "marketCap": 51477936600
+    },
+    {
+        "symbol": "DASH",
+        "date": "2021-04-23",
+        "marketCap": 51126494250
+    },
+    {
+        "symbol": "DASH",
+        "date": "2021-04-22",
+        "marketCap": 48184419720
+    },
+    {
+        "symbol": "DASH",
+        "date": "2021-04-21",
+        "marketCap": 47970207240
+    },
+    {
+        "symbol": "DASH",
+        "date": "2021-04-20",
+        "marketCap": 48314955450
+    },
+    {
+        "symbol": "DASH",
+        "date": "2021-04-19",
+        "marketCap": 49091475689
+    },
+    {
+        "symbol": "DASH",
+        "date": "2021-04-16",
+        "marketCap": 50035349430
+    },
+    {
+        "symbol": "DASH",
+        "date": "2021-04-15",
+        "marketCap": 50708110500
+    },
+    {
+        "symbol": "DASH",
+        "date": "2021-04-14",
+        "marketCap": 48080660550
+    },
+    {
+        "symbol": "DASH",
+        "date": "2021-04-13",
+        "marketCap": 50025308220
+    },
+    {
+        "symbol": "DASH",
+        "date": "2021-04-12",
+        "marketCap": 49479735810
+    },
+    {
+        "symbol": "DASH",
+        "date": "2021-04-09",
+        "marketCap": 47026333500
+    },
+    {
+        "symbol": "DASH",
+        "date": "2021-04-08",
+        "marketCap": 42889354979
+    },
+    {
+        "symbol": "DASH",
+        "date": "2021-04-07",
+        "marketCap": 42675142500
+    },
+    {
+        "symbol": "DASH",
+        "date": "2021-04-06",
+        "marketCap": 43876740630
+    },
+    {
+        "symbol": "DASH",
+        "date": "2021-04-05",
+        "marketCap": 44700119850
+    },
+    {
+        "symbol": "DASH",
+        "date": "2021-04-01",
+        "marketCap": 44562889979
+    },
+    {
+        "symbol": "DASH",
+        "date": "2021-03-31",
+        "marketCap": 43890128910
+    },
+    {
+        "symbol": "DASH",
+        "date": "2021-03-30",
+        "marketCap": 42812639000
+    },
+    {
+        "symbol": "DASH",
+        "date": "2021-03-29",
+        "marketCap": 42609393700
+    },
+    {
+        "symbol": "DASH",
+        "date": "2021-03-26",
+        "marketCap": 43930488150
+    },
+    {
+        "symbol": "DASH",
+        "date": "2021-03-25",
+        "marketCap": 43189626250
+    },
+    {
+        "symbol": "DASH",
+        "date": "2021-03-24",
+        "marketCap": 41150616950
+    },
+    {
+        "symbol": "DASH",
+        "date": "2021-03-23",
+        "marketCap": 43192904400
+    },
+    {
+        "symbol": "DASH",
+        "date": "2021-03-22",
+        "marketCap": 44553336650
+    },
+    {
+        "symbol": "DASH",
+        "date": "2021-03-19",
+        "marketCap": 44264859450
+    },
+    {
+        "symbol": "DASH",
+        "date": "2021-03-18",
+        "marketCap": 42819195300
+    },
+    {
+        "symbol": "DASH",
+        "date": "2021-03-17",
+        "marketCap": 43861647000
+    },
+    {
+        "symbol": "DASH",
+        "date": "2021-03-16",
+        "marketCap": 43815752900
+    },
+    {
+        "symbol": "DASH",
+        "date": "2021-03-15",
+        "marketCap": 46120292350
+    },
+    {
+        "symbol": "DASH",
+        "date": "2021-03-12",
+        "marketCap": 46559564450
+    },
+    {
+        "symbol": "DASH",
+        "date": "2021-03-11",
+        "marketCap": 47523340550
+    },
+    {
+        "symbol": "DASH",
+        "date": "2021-03-10",
+        "marketCap": 44507442550
+    },
+    {
+        "symbol": "DASH",
+        "date": "2021-03-09",
+        "marketCap": 46379266200
+    },
+    {
+        "symbol": "DASH",
+        "date": "2021-03-08",
+        "marketCap": 43733799150
+    },
+    {
+        "symbol": "DASH",
+        "date": "2021-03-05",
+        "marketCap": 49657416200
+    },
+    {
+        "symbol": "DASH",
+        "date": "2021-03-04",
+        "marketCap": 49172250000
+    },
+    {
+        "symbol": "DASH",
+        "date": "2021-03-03",
+        "marketCap": 48598573750
+    },
+    {
+        "symbol": "DASH",
+        "date": "2021-03-02",
+        "marketCap": 52643810850
+    },
+    {
+        "symbol": "DASH",
+        "date": "2021-03-01",
+        "marketCap": 55364675349
+    },
+    {
+        "symbol": "DASH",
+        "date": "2021-02-26",
+        "marketCap": 55561364350
+    },
+    {
+        "symbol": "DASH",
+        "date": "2021-02-25",
+        "marketCap": 54702489050
+    },
+    {
+        "symbol": "DASH",
+        "date": "2021-02-24",
+        "marketCap": 57800340800
+    },
+    {
+        "symbol": "DASH",
+        "date": "2021-02-23",
+        "marketCap": 56875902500
+    },
+    {
+        "symbol": "DASH",
+        "date": "2021-02-22",
+        "marketCap": 58374017050
+    },
+    {
+        "symbol": "DASH",
+        "date": "2021-02-19",
+        "marketCap": 67520055550
+    },
+    {
+        "symbol": "DASH",
+        "date": "2021-02-18",
+        "marketCap": 65582668900
+    },
+    {
+        "symbol": "DASH",
+        "date": "2021-02-17",
+        "marketCap": 64864754050
+    },
+    {
+        "symbol": "DASH",
+        "date": "2021-02-16",
+        "marketCap": 69552508550
+    },
+    {
+        "symbol": "DASH",
+        "date": "2021-02-12",
+        "marketCap": 66536610550
+    },
+    {
+        "symbol": "DASH",
+        "date": "2021-02-11",
+        "marketCap": 69909826900
+    },
+    {
+        "symbol": "DASH",
+        "date": "2021-02-10",
+        "marketCap": 70532675400
+    },
+    {
+        "symbol": "DASH",
+        "date": "2021-02-09",
+        "marketCap": 61547266250
+    },
+    {
+        "symbol": "DASH",
+        "date": "2021-02-08",
+        "marketCap": 58164215450
+    },
+    {
+        "symbol": "DASH",
+        "date": "2021-02-05",
+        "marketCap": 59409912450
+    },
+    {
+        "symbol": "DASH",
+        "date": "2021-02-04",
+        "marketCap": 62065213950
+    },
+    {
+        "symbol": "DASH",
+        "date": "2021-02-03",
+        "marketCap": 59196832700
+    },
+    {
+        "symbol": "DASH",
+        "date": "2021-02-02",
+        "marketCap": 59836071950
+    },
+    {
+        "symbol": "DASH",
+        "date": "2021-02-01",
+        "marketCap": 62668393549
+    },
+    {
+        "symbol": "DASH",
+        "date": "2021-01-29",
+        "marketCap": 63356805050
+    },
+    {
+        "symbol": "DASH",
+        "date": "2021-01-28",
+        "marketCap": 60252397000
+    },
+    {
+        "symbol": "DASH",
+        "date": "2021-01-27",
+        "marketCap": 63291242050
+    },
+    {
+        "symbol": "DASH",
+        "date": "2021-01-26",
+        "marketCap": 64979489300
+    },
+    {
+        "symbol": "DASH",
+        "date": "2021-01-25",
+        "marketCap": 62878195150
+    },
+    {
+        "symbol": "DASH",
+        "date": "2021-01-22",
+        "marketCap": 62940480000
+    },
+    {
+        "symbol": "DASH",
+        "date": "2021-01-21",
+        "marketCap": 62576605349
+    },
+    {
+        "symbol": "DASH",
+        "date": "2021-01-20",
+        "marketCap": 62107829900
+    },
+    {
+        "symbol": "DASH",
+        "date": "2021-01-19",
+        "marketCap": 65153231250
+    },
+    {
+        "symbol": "DASH",
+        "date": "2021-01-15",
+        "marketCap": 61350577250
+    },
+    {
+        "symbol": "DASH",
+        "date": "2021-01-14",
+        "marketCap": 67936380600
+    },
+    {
+        "symbol": "DASH",
+        "date": "2021-01-13",
+        "marketCap": 64907370000
+    },
+    {
+        "symbol": "DASH",
+        "date": "2021-01-12",
+        "marketCap": 62937201850
+    },
+    {
+        "symbol": "DASH",
+        "date": "2021-01-11",
+        "marketCap": 54745105000
+    },
+    {
+        "symbol": "DASH",
+        "date": "2021-01-08",
+        "marketCap": 51168643350
+    },
+    {
+        "symbol": "DASH",
+        "date": "2021-01-07",
+        "marketCap": 50080297550
+    },
+    {
+        "symbol": "DASH",
+        "date": "2021-01-06",
+        "marketCap": 45897378150
+    },
+    {
+        "symbol": "DASH",
+        "date": "2021-01-05",
+        "marketCap": 47346320450
+    },
+    {
+        "symbol": "DASH",
+        "date": "2021-01-04",
+        "marketCap": 45628569850
+    },
+    {
+        "symbol": "DASH",
+        "date": "2020-12-31",
+        "marketCap": 46795591250
+    },
+    {
+        "symbol": "DASH",
+        "date": "2020-12-30",
+        "marketCap": 16391202599
+    },
+    {
+        "symbol": "DASH",
+        "date": "2020-12-29",
+        "marketCap": 16516299510
+    },
+    {
+        "symbol": "DASH",
+        "date": "2020-12-28",
+        "marketCap": 17290263570
+    },
+    {
+        "symbol": "DASH",
+        "date": "2020-12-24",
+        "marketCap": 18526033980
+    },
+    {
+        "symbol": "DASH",
+        "date": "2020-12-23",
+        "marketCap": 18497974860
+    },
+    {
+        "symbol": "DASH",
+        "date": "2020-12-22",
+        "marketCap": 18330789270
+    },
+    {
+        "symbol": "DASH",
+        "date": "2020-12-21",
+        "marketCap": 18732969990
+    },
+    {
+        "symbol": "DASH",
+        "date": "2020-12-18",
+        "marketCap": 19448477550
+    },
+    {
+        "symbol": "DASH",
+        "date": "2020-12-17",
+        "marketCap": 18029153730
+    },
+    {
+        "symbol": "DASH",
+        "date": "2020-12-16",
+        "marketCap": 18478099650
+    },
+    {
+        "symbol": "DASH",
+        "date": "2020-12-15",
+        "marketCap": 18576306570
+    },
+    {
+        "symbol": "DASH",
+        "date": "2020-12-14",
+        "marketCap": 18706080000
+    },
+    {
+        "symbol": "DASH",
+        "date": "2020-12-11",
+        "marketCap": 20459775000
+    },
+    {
+        "symbol": "DASH",
+        "date": "2020-12-10",
+        "marketCap": 21745818000
+    },
+    {
+        "symbol": "DASH",
+        "date": "2020-12-09",
+        "marketCap": 22156182630
+    }
+]

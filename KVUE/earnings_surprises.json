@@ -1,0 +1,44 @@
+[
+    {
+        "date": "2024-11-07",
+        "symbol": "KVUE",
+        "actualEarningResult": 0.28,
+        "estimatedEarning": 0.2723
+    },
+    {
+        "date": "2024-08-06",
+        "symbol": "KVUE",
+        "actualEarningResult": 0.32,
+        "estimatedEarning": 0.2757
+    },
+    {
+        "date": "2024-05-07",
+        "symbol": "KVUE",
+        "actualEarningResult": 0.28,
+        "estimatedEarning": 0.2541
+    },
+    {
+        "date": "2024-02-08",
+        "symbol": "KVUE",
+        "actualEarningResult": 0.31,
+        "estimatedEarning": 0.283
+    },
+    {
+        "date": "2023-10-26",
+        "symbol": "KVUE",
+        "actualEarningResult": 0.31,
+        "estimatedEarning": 0.3
+    },
+    {
+        "date": "2023-07-20",
+        "symbol": "KVUE",
+        "actualEarningResult": 0.32,
+        "estimatedEarning": 0.29
+    },
+    {
+        "date": "2023-06-02",
+        "symbol": "KVUE",
+        "actualEarningResult": 0.19,
+        "estimatedEarning": 0.32
+    }
+]

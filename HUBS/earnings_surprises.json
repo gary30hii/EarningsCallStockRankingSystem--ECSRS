@@ -1,0 +1,242 @@
+[
+    {
+        "date": "2024-11-06",
+        "symbol": "HUBS",
+        "actualEarningResult": 2.18,
+        "estimatedEarning": 1.91
+    },
+    {
+        "date": "2024-08-07",
+        "symbol": "HUBS",
+        "actualEarningResult": 1.94,
+        "estimatedEarning": 1.64
+    },
+    {
+        "date": "2024-05-08",
+        "symbol": "HUBS",
+        "actualEarningResult": 1.68,
+        "estimatedEarning": 1.5
+    },
+    {
+        "date": "2024-02-14",
+        "symbol": "HUBS",
+        "actualEarningResult": 1.76,
+        "estimatedEarning": 1.54
+    },
+    {
+        "date": "2023-11-08",
+        "symbol": "HUBS",
+        "actualEarningResult": 1.59,
+        "estimatedEarning": 1.23
+    },
+    {
+        "date": "2023-08-02",
+        "symbol": "HUBS",
+        "actualEarningResult": 1.34,
+        "estimatedEarning": 0.99
+    },
+    {
+        "date": "2023-05-03",
+        "symbol": "HUBS",
+        "actualEarningResult": 1.2,
+        "estimatedEarning": 0.83
+    },
+    {
+        "date": "2023-02-16",
+        "symbol": "HUBS",
+        "actualEarningResult": 1.11,
+        "estimatedEarning": 0.83
+    },
+    {
+        "date": "2022-11-02",
+        "symbol": "HUBS",
+        "actualEarningResult": 0.69,
+        "estimatedEarning": 0.51
+    },
+    {
+        "date": "2022-08-04",
+        "symbol": "HUBS",
+        "actualEarningResult": 0.44,
+        "estimatedEarning": 0.43
+    },
+    {
+        "date": "2022-05-05",
+        "symbol": "HUBS",
+        "actualEarningResult": 0.54,
+        "estimatedEarning": 0.47
+    },
+    {
+        "date": "2022-02-10",
+        "symbol": "HUBS",
+        "actualEarningResult": 0.58,
+        "estimatedEarning": 0.53
+    },
+    {
+        "date": "2021-11-03",
+        "symbol": "HUBS",
+        "actualEarningResult": 0.5,
+        "estimatedEarning": 0.44
+    },
+    {
+        "date": "2021-08-04",
+        "symbol": "HUBS",
+        "actualEarningResult": 0.43,
+        "estimatedEarning": 0.32
+    },
+    {
+        "date": "2021-05-05",
+        "symbol": "HUBS",
+        "actualEarningResult": 0.31,
+        "estimatedEarning": 0.29
+    },
+    {
+        "date": "2021-02-11",
+        "symbol": "HUBS",
+        "actualEarningResult": 0.4,
+        "estimatedEarning": 0.23
+    },
+    {
+        "date": "2020-11-05",
+        "symbol": "HUBS",
+        "actualEarningResult": 0.28,
+        "estimatedEarning": 0.13
+    },
+    {
+        "date": "2020-08-05",
+        "symbol": "HUBS",
+        "actualEarningResult": 0.34,
+        "estimatedEarning": 0.24
+    },
+    {
+        "date": "2020-05-06",
+        "symbol": "HUBS",
+        "actualEarningResult": 0.35,
+        "estimatedEarning": 0.23
+    },
+    {
+        "date": "2020-02-12",
+        "symbol": "HUBS",
+        "actualEarningResult": 0.45,
+        "estimatedEarning": 0.42
+    },
+    {
+        "date": "2019-11-05",
+        "symbol": "HUBS",
+        "actualEarningResult": 0.32,
+        "estimatedEarning": 0.24
+    },
+    {
+        "date": "2019-08-06",
+        "symbol": "HUBS",
+        "actualEarningResult": 0.37,
+        "estimatedEarning": 0.25
+    },
+    {
+        "date": "2019-05-07",
+        "symbol": "HUBS",
+        "actualEarningResult": 0.36,
+        "estimatedEarning": 0.25
+    },
+    {
+        "date": "2019-02-12",
+        "symbol": "HUBS",
+        "actualEarningResult": 0.37,
+        "estimatedEarning": 0.3
+    },
+    {
+        "date": "2018-11-07",
+        "symbol": "HUBS",
+        "actualEarningResult": 0.17,
+        "estimatedEarning": 0.05
+    },
+    {
+        "date": "2018-08-01",
+        "symbol": "HUBS",
+        "actualEarningResult": 0.18,
+        "estimatedEarning": 0.16
+    },
+    {
+        "date": "2018-05-10",
+        "symbol": "HUBS",
+        "actualEarningResult": 0.15,
+        "estimatedEarning": 0.11
+    },
+    {
+        "date": "2018-02-13",
+        "symbol": "HUBS",
+        "actualEarningResult": 0.12,
+        "estimatedEarning": 0.07
+    },
+    {
+        "date": "2017-11-01",
+        "symbol": "HUBS",
+        "actualEarningResult": 0.03,
+        "estimatedEarning": 0.01045
+    },
+    {
+        "date": "2017-08-02",
+        "symbol": "HUBS",
+        "actualEarningResult": 0.07,
+        "estimatedEarning": 0.00713
+    },
+    {
+        "date": "2017-05-02",
+        "symbol": "HUBS",
+        "actualEarningResult": 0.03,
+        "estimatedEarning": -0.08
+    },
+    {
+        "date": "2017-02-14",
+        "symbol": "HUBS",
+        "actualEarningResult": -0.13,
+        "estimatedEarning": -0.2
+    },
+    {
+        "date": "2016-11-02",
+        "symbol": "HUBS",
+        "actualEarningResult": -0.05,
+        "estimatedEarning": -0.13
+    },
+    {
+        "date": "2016-08-03",
+        "symbol": "HUBS",
+        "actualEarningResult": -0.07,
+        "estimatedEarning": -0.15
+    },
+    {
+        "date": "2016-05-04",
+        "symbol": "HUBS",
+        "actualEarningResult": -0.11,
+        "estimatedEarning": -0.18
+    },
+    {
+        "date": "2016-02-10",
+        "symbol": "HUBS",
+        "actualEarningResult": -0.12,
+        "estimatedEarning": -0.18
+    },
+    {
+        "date": "2015-11-04",
+        "symbol": "HUBS",
+        "actualEarningResult": -0.27,
+        "estimatedEarning": -0.33
+    },
+    {
+        "date": "2015-08-06",
+        "symbol": "HUBS",
+        "actualEarningResult": -0.17,
+        "estimatedEarning": -0.21
+    },
+    {
+        "date": "2015-05-06",
+        "symbol": "HUBS",
+        "actualEarningResult": -0.18,
+        "estimatedEarning": -0.24
+    },
+    {
+        "date": "2015-02-11",
+        "symbol": "HUBS",
+        "actualEarningResult": -0.25,
+        "estimatedEarning": -0.26
+    }
+]

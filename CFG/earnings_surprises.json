@@ -1,0 +1,248 @@
+[
+    {
+        "date": "2024-10-16",
+        "symbol": "CFG",
+        "actualEarningResult": 0.77,
+        "estimatedEarning": 0.79
+    },
+    {
+        "date": "2024-07-17",
+        "symbol": "CFG",
+        "actualEarningResult": 0.78,
+        "estimatedEarning": 0.79
+    },
+    {
+        "date": "2024-04-17",
+        "symbol": "CFG",
+        "actualEarningResult": 0.65,
+        "estimatedEarning": 0.74
+    },
+    {
+        "date": "2024-01-17",
+        "symbol": "CFG",
+        "actualEarningResult": 0.34,
+        "estimatedEarning": 0.71
+    },
+    {
+        "date": "2023-10-18",
+        "symbol": "CFG",
+        "actualEarningResult": 0.85,
+        "estimatedEarning": 0.91
+    },
+    {
+        "date": "2023-07-19",
+        "symbol": "CFG",
+        "actualEarningResult": 0.92,
+        "estimatedEarning": 1.01
+    },
+    {
+        "date": "2023-04-19",
+        "symbol": "CFG",
+        "actualEarningResult": 1,
+        "estimatedEarning": 1.13
+    },
+    {
+        "date": "2023-01-17",
+        "symbol": "CFG",
+        "actualEarningResult": 1.25,
+        "estimatedEarning": 1.31
+    },
+    {
+        "date": "2022-10-19",
+        "symbol": "CFG",
+        "actualEarningResult": 1.23,
+        "estimatedEarning": 1.22
+    },
+    {
+        "date": "2022-07-19",
+        "symbol": "CFG",
+        "actualEarningResult": 1.14,
+        "estimatedEarning": 1.02
+    },
+    {
+        "date": "2022-04-19",
+        "symbol": "CFG",
+        "actualEarningResult": 0.93,
+        "estimatedEarning": 0.92
+    },
+    {
+        "date": "2022-01-19",
+        "symbol": "CFG",
+        "actualEarningResult": 1.17,
+        "estimatedEarning": 1.13
+    },
+    {
+        "date": "2021-10-20",
+        "symbol": "CFG",
+        "actualEarningResult": 1.18,
+        "estimatedEarning": 1.16
+    },
+    {
+        "date": "2021-07-20",
+        "symbol": "CFG",
+        "actualEarningResult": 1.44,
+        "estimatedEarning": 1.11
+    },
+    {
+        "date": "2021-04-16",
+        "symbol": "CFG",
+        "actualEarningResult": 1.37,
+        "estimatedEarning": 0.97
+    },
+    {
+        "date": "2021-01-20",
+        "symbol": "CFG",
+        "actualEarningResult": 0.99,
+        "estimatedEarning": 0.91
+    },
+    {
+        "date": "2020-10-16",
+        "symbol": "CFG",
+        "actualEarningResult": 0.68,
+        "estimatedEarning": 0.74
+    },
+    {
+        "date": "2020-07-17",
+        "symbol": "CFG",
+        "actualEarningResult": 0.53,
+        "estimatedEarning": 0.08
+    },
+    {
+        "date": "2020-04-17",
+        "symbol": "CFG",
+        "actualEarningResult": 0.09,
+        "estimatedEarning": 0.2
+    },
+    {
+        "date": "2020-01-17",
+        "symbol": "CFG",
+        "actualEarningResult": 0.98,
+        "estimatedEarning": 0.95
+    },
+    {
+        "date": "2019-10-18",
+        "symbol": "CFG",
+        "actualEarningResult": 0.97,
+        "estimatedEarning": 0.96
+    },
+    {
+        "date": "2019-07-19",
+        "symbol": "CFG",
+        "actualEarningResult": 0.95,
+        "estimatedEarning": 0.94
+    },
+    {
+        "date": "2019-04-18",
+        "symbol": "CFG",
+        "actualEarningResult": 0.92,
+        "estimatedEarning": 0.89
+    },
+    {
+        "date": "2019-01-18",
+        "symbol": "CFG",
+        "actualEarningResult": 0.96,
+        "estimatedEarning": 0.94
+    },
+    {
+        "date": "2018-10-19",
+        "symbol": "CFG",
+        "actualEarningResult": 0.93,
+        "estimatedEarning": 0.9
+    },
+    {
+        "date": "2018-07-20",
+        "symbol": "CFG",
+        "actualEarningResult": 0.88,
+        "estimatedEarning": 0.85
+    },
+    {
+        "date": "2018-04-20",
+        "symbol": "CFG",
+        "actualEarningResult": 0.78,
+        "estimatedEarning": 0.76
+    },
+    {
+        "date": "2018-01-19",
+        "symbol": "CFG",
+        "actualEarningResult": 0.71,
+        "estimatedEarning": 0.67
+    },
+    {
+        "date": "2017-10-20",
+        "symbol": "CFG",
+        "actualEarningResult": 0.68,
+        "estimatedEarning": 0.64
+    },
+    {
+        "date": "2017-07-21",
+        "symbol": "CFG",
+        "actualEarningResult": 0.63,
+        "estimatedEarning": 0.59
+    },
+    {
+        "date": "2017-04-20",
+        "symbol": "CFG",
+        "actualEarningResult": 0.57,
+        "estimatedEarning": 0.51
+    },
+    {
+        "date": "2017-01-20",
+        "symbol": "CFG",
+        "actualEarningResult": 0.55,
+        "estimatedEarning": 0.52
+    },
+    {
+        "date": "2016-10-21",
+        "symbol": "CFG",
+        "actualEarningResult": 0.52,
+        "estimatedEarning": 0.48
+    },
+    {
+        "date": "2016-07-21",
+        "symbol": "CFG",
+        "actualEarningResult": 0.46,
+        "estimatedEarning": 0.44
+    },
+    {
+        "date": "2016-04-21",
+        "symbol": "CFG",
+        "actualEarningResult": 0.41,
+        "estimatedEarning": 0.39
+    },
+    {
+        "date": "2016-01-22",
+        "symbol": "CFG",
+        "actualEarningResult": 0.42,
+        "estimatedEarning": 0.42
+    },
+    {
+        "date": "2015-10-23",
+        "symbol": "CFG",
+        "actualEarningResult": 0.4,
+        "estimatedEarning": 0.4
+    },
+    {
+        "date": "2015-07-21",
+        "symbol": "CFG",
+        "actualEarningResult": 0.35,
+        "estimatedEarning": 0.36
+    },
+    {
+        "date": "2015-04-22",
+        "symbol": "CFG",
+        "actualEarningResult": 0.38,
+        "estimatedEarning": 0.34
+    },
+    {
+        "date": "2015-01-26",
+        "symbol": "CFG",
+        "actualEarningResult": 0.36,
+        "estimatedEarning": 0.34
+    },
+    {
+        "date": "2014-10-27",
+        "symbol": "CFG",
+        "actualEarningResult": 0.34,
+        "estimatedEarning": 0.35
+    }
+]

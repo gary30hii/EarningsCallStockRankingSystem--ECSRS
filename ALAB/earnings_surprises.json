@@ -1,0 +1,20 @@
+[
+    {
+        "date": "2024-11-04",
+        "symbol": "ALAB",
+        "actualEarningResult": 0.23,
+        "estimatedEarning": 0.1706
+    },
+    {
+        "date": "2024-08-06",
+        "symbol": "ALAB",
+        "actualEarningResult": 0.13,
+        "estimatedEarning": 0.11
+    },
+    {
+        "date": "2024-05-07",
+        "symbol": "ALAB",
+        "actualEarningResult": 0.1,
+        "estimatedEarning": 0.01481
+    }
+]

@@ -1,0 +1,626 @@
+[
+    {
+        "date": "2024-10-29",
+        "symbol": "AMT",
+        "actualEarningResult": 2.64,
+        "estimatedEarning": 2.54
+    },
+    {
+        "date": "2024-07-30",
+        "symbol": "AMT",
+        "actualEarningResult": 2.79,
+        "estimatedEarning": 2.53
+    },
+    {
+        "date": "2024-04-30",
+        "symbol": "AMT",
+        "actualEarningResult": 1.96,
+        "estimatedEarning": 1.78
+    },
+    {
+        "date": "2024-02-27",
+        "symbol": "AMT",
+        "actualEarningResult": 2.29,
+        "estimatedEarning": 2.18
+    },
+    {
+        "date": "2023-10-26",
+        "symbol": "AMT",
+        "actualEarningResult": 2.58,
+        "estimatedEarning": 2.35
+    },
+    {
+        "date": "2023-07-27",
+        "symbol": "AMT",
+        "actualEarningResult": 2.46,
+        "estimatedEarning": 2.36
+    },
+    {
+        "date": "2023-04-26",
+        "symbol": "AMT",
+        "actualEarningResult": 2.54,
+        "estimatedEarning": 2.38
+    },
+    {
+        "date": "2023-02-23",
+        "symbol": "AMT",
+        "actualEarningResult": 2.34,
+        "estimatedEarning": 2.23
+    },
+    {
+        "date": "2022-10-27",
+        "symbol": "AMT",
+        "actualEarningResult": 1.8,
+        "estimatedEarning": 1.13
+    },
+    {
+        "date": "2022-07-28",
+        "symbol": "AMT",
+        "actualEarningResult": 1.95,
+        "estimatedEarning": 0.96
+    },
+    {
+        "date": "2022-04-27",
+        "symbol": "AMT",
+        "actualEarningResult": 2.55,
+        "estimatedEarning": 2.54
+    },
+    {
+        "date": "2022-02-24",
+        "symbol": "AMT",
+        "actualEarningResult": 2.18,
+        "estimatedEarning": 2.17
+    },
+    {
+        "date": "2021-10-28",
+        "symbol": "AMT",
+        "actualEarningResult": 2.49,
+        "estimatedEarning": 2.33
+    },
+    {
+        "date": "2021-07-29",
+        "symbol": "AMT",
+        "actualEarningResult": 2.42,
+        "estimatedEarning": 2.34
+    },
+    {
+        "date": "2021-04-29",
+        "symbol": "AMT",
+        "actualEarningResult": 2.46,
+        "estimatedEarning": 2.32
+    },
+    {
+        "date": "2021-02-25",
+        "symbol": "AMT",
+        "actualEarningResult": 2.07,
+        "estimatedEarning": 2.08
+    },
+    {
+        "date": "2020-10-29",
+        "symbol": "AMT",
+        "actualEarningResult": 2.23,
+        "estimatedEarning": 2.08
+    },
+    {
+        "date": "2020-07-30",
+        "symbol": "AMT",
+        "actualEarningResult": 2.07,
+        "estimatedEarning": 2.05
+    },
+    {
+        "date": "2020-04-29",
+        "symbol": "AMT",
+        "actualEarningResult": 2.12,
+        "estimatedEarning": 2.04
+    },
+    {
+        "date": "2020-02-25",
+        "symbol": "AMT",
+        "actualEarningResult": 1.95,
+        "estimatedEarning": 1.9
+    },
+    {
+        "date": "2019-10-31",
+        "symbol": "AMT",
+        "actualEarningResult": 2,
+        "estimatedEarning": 1.96
+    },
+    {
+        "date": "2019-07-31",
+        "symbol": "AMT",
+        "actualEarningResult": 2.01,
+        "estimatedEarning": 1.93
+    },
+    {
+        "date": "2019-05-03",
+        "symbol": "AMT",
+        "actualEarningResult": 1.84,
+        "estimatedEarning": 1.86
+    },
+    {
+        "date": "2019-02-27",
+        "symbol": "AMT",
+        "actualEarningResult": 2.4,
+        "estimatedEarning": 2.3
+    },
+    {
+        "date": "2018-10-30",
+        "symbol": "AMT",
+        "actualEarningResult": 1.85,
+        "estimatedEarning": 1.82
+    },
+    {
+        "date": "2018-07-31",
+        "symbol": "AMT",
+        "actualEarningResult": 1.9,
+        "estimatedEarning": 1.78
+    },
+    {
+        "date": "2018-05-01",
+        "symbol": "AMT",
+        "actualEarningResult": 1.73,
+        "estimatedEarning": 1.76
+    },
+    {
+        "date": "2018-02-27",
+        "symbol": "AMT",
+        "actualEarningResult": 1.59,
+        "estimatedEarning": 1.68
+    },
+    {
+        "date": "2017-10-31",
+        "symbol": "AMT",
+        "actualEarningResult": 1.73,
+        "estimatedEarning": 1.67
+    },
+    {
+        "date": "2017-07-27",
+        "symbol": "AMT",
+        "actualEarningResult": 1.68,
+        "estimatedEarning": 1.61
+    },
+    {
+        "date": "2017-04-27",
+        "symbol": "AMT",
+        "actualEarningResult": 1.58,
+        "estimatedEarning": 1.56
+    },
+    {
+        "date": "2017-02-27",
+        "symbol": "AMT",
+        "actualEarningResult": 1.47,
+        "estimatedEarning": 1.38
+    },
+    {
+        "date": "2016-10-27",
+        "symbol": "AMT",
+        "actualEarningResult": 1.49,
+        "estimatedEarning": 1.44
+    },
+    {
+        "date": "2016-07-28",
+        "symbol": "AMT",
+        "actualEarningResult": 1.38,
+        "estimatedEarning": 1.39
+    },
+    {
+        "date": "2016-04-29",
+        "symbol": "AMT",
+        "actualEarningResult": 1.41,
+        "estimatedEarning": 1.3
+    },
+    {
+        "date": "2016-02-26",
+        "symbol": "AMT",
+        "actualEarningResult": 1.27,
+        "estimatedEarning": 1.15
+    },
+    {
+        "date": "2015-10-29",
+        "symbol": "AMT",
+        "actualEarningResult": 1.31,
+        "estimatedEarning": 1.22
+    },
+    {
+        "date": "2015-07-29",
+        "symbol": "AMT",
+        "actualEarningResult": 1.26,
+        "estimatedEarning": 0.49
+    },
+    {
+        "date": "2015-04-30",
+        "symbol": "AMT",
+        "actualEarningResult": 0.45,
+        "estimatedEarning": 0.53
+    },
+    {
+        "date": "2015-02-23",
+        "symbol": "AMT",
+        "actualEarningResult": 0.42,
+        "estimatedEarning": 0.51
+    },
+    {
+        "date": "2014-10-30",
+        "symbol": "AMT",
+        "actualEarningResult": 1.15,
+        "estimatedEarning": 0.56
+    },
+    {
+        "date": "2014-07-30",
+        "symbol": "AMT",
+        "actualEarningResult": 0.58,
+        "estimatedEarning": 0.54
+    },
+    {
+        "date": "2014-05-01",
+        "symbol": "AMT",
+        "actualEarningResult": 0.51,
+        "estimatedEarning": 0.5
+    },
+    {
+        "date": "2014-02-25",
+        "symbol": "AMT",
+        "actualEarningResult": 0.25,
+        "estimatedEarning": 0.47
+    },
+    {
+        "date": "2013-10-30",
+        "symbol": "AMT",
+        "actualEarningResult": 0.45,
+        "estimatedEarning": 0.53
+    },
+    {
+        "date": "2013-07-31",
+        "symbol": "AMT",
+        "actualEarningResult": 0.92,
+        "estimatedEarning": 0.53
+    },
+    {
+        "date": "2013-05-01",
+        "symbol": "AMT",
+        "actualEarningResult": 0.43,
+        "estimatedEarning": 0.48
+    },
+    {
+        "date": "2013-02-26",
+        "symbol": "AMT",
+        "actualEarningResult": 0.34,
+        "estimatedEarning": 0.42
+    },
+    {
+        "date": "2012-10-31",
+        "symbol": "AMT",
+        "actualEarningResult": 0.58,
+        "estimatedEarning": 0.38
+    },
+    {
+        "date": "2012-08-01",
+        "symbol": "AMT",
+        "actualEarningResult": 0.75,
+        "estimatedEarning": 0.4
+    },
+    {
+        "date": "2012-05-03",
+        "symbol": "AMT",
+        "actualEarningResult": 0.56,
+        "estimatedEarning": 0.4
+    },
+    {
+        "date": "2012-02-23",
+        "symbol": "AMT",
+        "actualEarningResult": 0.51,
+        "estimatedEarning": 0.3
+    },
+    {
+        "date": "2011-11-01",
+        "symbol": "AMT",
+        "actualEarningResult": -0.04,
+        "estimatedEarning": 0.25
+    },
+    {
+        "date": "2011-08-02",
+        "symbol": "AMT",
+        "actualEarningResult": 0.29,
+        "estimatedEarning": 0.23
+    },
+    {
+        "date": "2011-05-03",
+        "symbol": "AMT",
+        "actualEarningResult": 0.23,
+        "estimatedEarning": 0.23
+    },
+    {
+        "date": "2011-02-23",
+        "symbol": "AMT",
+        "actualEarningResult": 0.2,
+        "estimatedEarning": 0.22
+    },
+    {
+        "date": "2010-11-05",
+        "symbol": "AMT",
+        "actualEarningResult": 0.23,
+        "estimatedEarning": 0.2
+    },
+    {
+        "date": "2010-08-03",
+        "symbol": "AMT",
+        "actualEarningResult": 0.25,
+        "estimatedEarning": 0.2
+    },
+    {
+        "date": "2010-05-04",
+        "symbol": "AMT",
+        "actualEarningResult": 0.24,
+        "estimatedEarning": 0.18
+    },
+    {
+        "date": "2010-02-24",
+        "symbol": "AMT",
+        "actualEarningResult": 0.16,
+        "estimatedEarning": 0.18
+    },
+    {
+        "date": "2009-11-03",
+        "symbol": "AMT",
+        "actualEarningResult": 0.17,
+        "estimatedEarning": 0.17
+    },
+    {
+        "date": "2009-07-29",
+        "symbol": "AMT",
+        "actualEarningResult": 0.13,
+        "estimatedEarning": 0.16
+    },
+    {
+        "date": "2009-04-29",
+        "symbol": "AMT",
+        "actualEarningResult": 0.14,
+        "estimatedEarning": 0.14
+    },
+    {
+        "date": "2009-02-26",
+        "symbol": "AMT",
+        "actualEarningResult": 0.2,
+        "estimatedEarning": 0.14
+    },
+    {
+        "date": "2008-11-03",
+        "symbol": "AMT",
+        "actualEarningResult": 0.15,
+        "estimatedEarning": 0.14
+    },
+    {
+        "date": "2008-07-30",
+        "symbol": "AMT",
+        "actualEarningResult": 0.12,
+        "estimatedEarning": 0.12
+    },
+    {
+        "date": "2008-05-02",
+        "symbol": "AMT",
+        "actualEarningResult": 0.1,
+        "estimatedEarning": 0.09
+    },
+    {
+        "date": "2008-02-25",
+        "symbol": "AMT",
+        "actualEarningResult": -0.01316,
+        "estimatedEarning": 0.08
+    },
+    {
+        "date": "2007-11-07",
+        "symbol": "AMT",
+        "actualEarningResult": 0.14,
+        "estimatedEarning": 0.07
+    },
+    {
+        "date": "2007-08-02",
+        "symbol": "AMT",
+        "actualEarningResult": -0.05,
+        "estimatedEarning": 0.05
+    },
+    {
+        "date": "2007-05-07",
+        "symbol": "AMT",
+        "actualEarningResult": 0.05,
+        "estimatedEarning": 0.06
+    },
+    {
+        "date": "2007-02-20",
+        "symbol": "AMT",
+        "actualEarningResult": 0.04,
+        "estimatedEarning": 0.03929
+    },
+    {
+        "date": "2006-11-28",
+        "symbol": "AMT",
+        "actualEarningResult": 0.02,
+        "estimatedEarning": 0.02571
+    },
+    {
+        "date": "2006-04-26",
+        "symbol": "AMT",
+        "actualEarningResult": -0.00619,
+        "estimatedEarning": -0.00286
+    },
+    {
+        "date": "2006-02-24",
+        "symbol": "AMT",
+        "actualEarningResult": -0.13,
+        "estimatedEarning": -0.029
+    },
+    {
+        "date": "2005-11-03",
+        "symbol": "AMT",
+        "actualEarningResult": -0.06,
+        "estimatedEarning": -0.02571
+    },
+    {
+        "date": "2005-07-28",
+        "symbol": "AMT",
+        "actualEarningResult": -0.13,
+        "estimatedEarning": -0.08
+    },
+    {
+        "date": "2005-05-04",
+        "symbol": "AMT",
+        "actualEarningResult": -0.14,
+        "estimatedEarning": -0.13
+    },
+    {
+        "date": "2005-03-30",
+        "symbol": "AMT",
+        "actualEarningResult": -0.3,
+        "estimatedEarning": -0.17
+    },
+    {
+        "date": "2004-10-28",
+        "symbol": "AMT",
+        "actualEarningResult": -0.25,
+        "estimatedEarning": -0.15
+    },
+    {
+        "date": "2004-08-02",
+        "symbol": "AMT",
+        "actualEarningResult": -0.27,
+        "estimatedEarning": -0.16
+    },
+    {
+        "date": "2004-04-27",
+        "symbol": "AMT",
+        "actualEarningResult": -0.19,
+        "estimatedEarning": -0.16
+    },
+    {
+        "date": "2004-02-18",
+        "symbol": "AMT",
+        "actualEarningResult": -0.2,
+        "estimatedEarning": -0.16
+    },
+    {
+        "date": "2003-10-30",
+        "symbol": "AMT",
+        "actualEarningResult": -0.18,
+        "estimatedEarning": -0.2
+    },
+    {
+        "date": "2003-07-24",
+        "symbol": "AMT",
+        "actualEarningResult": -0.4,
+        "estimatedEarning": -0.39
+    },
+    {
+        "date": "2003-04-30",
+        "symbol": "AMT",
+        "actualEarningResult": -0.41,
+        "estimatedEarning": -0.29
+    },
+    {
+        "date": "2003-02-24",
+        "symbol": "AMT",
+        "actualEarningResult": -0.27,
+        "estimatedEarning": -0.29
+    },
+    {
+        "date": "2002-11-08",
+        "symbol": "AMT",
+        "actualEarningResult": -1.81,
+        "estimatedEarning": -0.37
+    },
+    {
+        "date": "2002-08-08",
+        "symbol": "AMT",
+        "actualEarningResult": -0.52,
+        "estimatedEarning": -0.39
+    },
+    {
+        "date": "2002-04-30",
+        "symbol": "AMT",
+        "actualEarningResult": -0.36,
+        "estimatedEarning": -0.4
+    },
+    {
+        "date": "2002-02-26",
+        "symbol": "AMT",
+        "actualEarningResult": -0.77,
+        "estimatedEarning": -0.63
+    },
+    {
+        "date": "2001-11-06",
+        "symbol": "AMT",
+        "actualEarningResult": -0.65,
+        "estimatedEarning": -0.49
+    },
+    {
+        "date": "2001-08-02",
+        "symbol": "AMT",
+        "actualEarningResult": -0.54,
+        "estimatedEarning": -0.54
+    },
+    {
+        "date": "2001-05-03",
+        "symbol": "AMT",
+        "actualEarningResult": -0.38,
+        "estimatedEarning": -0.39
+    },
+    {
+        "date": "2001-02-28",
+        "symbol": "AMT",
+        "actualEarningResult": -0.3,
+        "estimatedEarning": -0.34
+    },
+    {
+        "date": "2000-10-27",
+        "symbol": "AMT",
+        "actualEarningResult": -0.22,
+        "estimatedEarning": -0.25
+    },
+    {
+        "date": "2000-08-08",
+        "symbol": "AMT",
+        "actualEarningResult": -0.36,
+        "estimatedEarning": -0.31
+    },
+    {
+        "date": "2000-05-09",
+        "symbol": "AMT",
+        "actualEarningResult": -0.24,
+        "estimatedEarning": -0.27
+    },
+    {
+        "date": "2000-03-02",
+        "symbol": "AMT",
+        "actualEarningResult": -0.11,
+        "estimatedEarning": -0.13
+    },
+    {
+        "date": "1999-11-04",
+        "symbol": "AMT",
+        "actualEarningResult": -0.08,
+        "estimatedEarning": -0.11
+    },
+    {
+        "date": "1999-08-16",
+        "symbol": "AMT",
+        "actualEarningResult": -0.06,
+        "estimatedEarning": -0.09
+    },
+    {
+        "date": "1999-05-10",
+        "symbol": "AMT",
+        "actualEarningResult": -0.07,
+        "estimatedEarning": -0.11
+    },
+    {
+        "date": "1999-03-04",
+        "symbol": "AMT",
+        "actualEarningResult": -0.11,
+        "estimatedEarning": -0.07
+    },
+    {
+        "date": "1998-11-16",
+        "symbol": "AMT",
+        "actualEarningResult": -0.06,
+        "estimatedEarning": -0.08
+    }
+]

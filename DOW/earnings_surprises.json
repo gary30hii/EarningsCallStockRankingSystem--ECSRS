@@ -1,0 +1,140 @@
+[
+    {
+        "date": "2024-10-24",
+        "symbol": "DOW",
+        "actualEarningResult": 0.47,
+        "estimatedEarning": 0.4574
+    },
+    {
+        "date": "2024-07-25",
+        "symbol": "DOW",
+        "actualEarningResult": 0.68,
+        "estimatedEarning": 0.72
+    },
+    {
+        "date": "2024-04-25",
+        "symbol": "DOW",
+        "actualEarningResult": 0.56,
+        "estimatedEarning": 0.45
+    },
+    {
+        "date": "2024-01-25",
+        "symbol": "DOW",
+        "actualEarningResult": 0.43,
+        "estimatedEarning": 0.4
+    },
+    {
+        "date": "2023-10-24",
+        "symbol": "DOW",
+        "actualEarningResult": 0.48,
+        "estimatedEarning": 0.44
+    },
+    {
+        "date": "2023-07-25",
+        "symbol": "DOW",
+        "actualEarningResult": 0.75,
+        "estimatedEarning": 0.7
+    },
+    {
+        "date": "2023-04-25",
+        "symbol": "DOW",
+        "actualEarningResult": 0.58,
+        "estimatedEarning": 0.37
+    },
+    {
+        "date": "2023-01-26",
+        "symbol": "DOW",
+        "actualEarningResult": 0.46,
+        "estimatedEarning": 0.57
+    },
+    {
+        "date": "2022-10-20",
+        "symbol": "DOW",
+        "actualEarningResult": 1.11,
+        "estimatedEarning": 1.08
+    },
+    {
+        "date": "2022-07-21",
+        "symbol": "DOW",
+        "actualEarningResult": 2.31,
+        "estimatedEarning": 2.14
+    },
+    {
+        "date": "2022-04-21",
+        "symbol": "DOW",
+        "actualEarningResult": 2.34,
+        "estimatedEarning": 2.06
+    },
+    {
+        "date": "2022-01-27",
+        "symbol": "DOW",
+        "actualEarningResult": 2.15,
+        "estimatedEarning": 2.04
+    },
+    {
+        "date": "2021-10-21",
+        "symbol": "DOW",
+        "actualEarningResult": 2.75,
+        "estimatedEarning": 2.56
+    },
+    {
+        "date": "2021-07-22",
+        "symbol": "DOW",
+        "actualEarningResult": 2.72,
+        "estimatedEarning": 2.45
+    },
+    {
+        "date": "2021-04-22",
+        "symbol": "DOW",
+        "actualEarningResult": 1.36,
+        "estimatedEarning": 1.17
+    },
+    {
+        "date": "2021-01-28",
+        "symbol": "DOW",
+        "actualEarningResult": 0.81,
+        "estimatedEarning": 0.69
+    },
+    {
+        "date": "2020-10-22",
+        "symbol": "DOW",
+        "actualEarningResult": 0.5,
+        "estimatedEarning": 0.33
+    },
+    {
+        "date": "2020-07-23",
+        "symbol": "DOW",
+        "actualEarningResult": -0.26,
+        "estimatedEarning": -0.3
+    },
+    {
+        "date": "2020-04-30",
+        "symbol": "DOW",
+        "actualEarningResult": 0.59,
+        "estimatedEarning": 0.58
+    },
+    {
+        "date": "2020-01-29",
+        "symbol": "DOW",
+        "actualEarningResult": 0.78,
+        "estimatedEarning": 0.74
+    },
+    {
+        "date": "2019-10-24",
+        "symbol": "DOW",
+        "actualEarningResult": 0.91,
+        "estimatedEarning": 0.72
+    },
+    {
+        "date": "2019-07-25",
+        "symbol": "DOW",
+        "actualEarningResult": 0.86,
+        "estimatedEarning": 0.84
+    },
+    {
+        "date": "2019-05-02",
+        "symbol": "DOW",
+        "actualEarningResult": 0.72,
+        "estimatedEarning": 0.91
+    }
+]

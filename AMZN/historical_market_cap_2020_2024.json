@@ -1,0 +1,6292 @@
+[
+    {
+        "symbol": "AMZN",
+        "date": "2024-12-31",
+        "marketCap": 2303814390000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2024-12-30",
+        "marketCap": 2323871300000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2024-12-27",
+        "marketCap": 2349598750000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2024-12-26",
+        "marketCap": 2384252050000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2024-12-24",
+        "marketCap": 2405254050000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2024-12-23",
+        "marketCap": 2363355060000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2024-12-20",
+        "marketCap": 2361884920000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2024-12-19",
+        "marketCap": 2344768290000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2024-12-18",
+        "marketCap": 2315680520000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2024-12-17",
+        "marketCap": 2427306150000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2024-12-16",
+        "marketCap": 2445997930000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2024-12-13",
+        "marketCap": 2388557460000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2024-12-12",
+        "marketCap": 2404413970000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2024-12-11",
+        "marketCap": 2417960260000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2024-12-10",
+        "marketCap": 2363145040000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2024-12-09",
+        "marketCap": 2374171090000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2024-12-06",
+        "marketCap": 2384042030000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2024-12-05",
+        "marketCap": 2315995550000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2024-12-04",
+        "marketCap": 2290898160000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2024-12-03",
+        "marketCap": 2241333440000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2024-12-02",
+        "marketCap": 2212665710000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2024-11-29",
+        "marketCap": 2183052889999
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2024-11-27",
+        "marketCap": 2160475740000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2024-11-26",
+        "marketCap": 2182737860000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2024-11-25",
+        "marketCap": 2115426450000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2024-11-22",
+        "marketCap": 2069957120000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2024-11-21",
+        "marketCap": 2083188380000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2024-11-20",
+        "marketCap": 2130442880000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2024-11-19",
+        "marketCap": 2148609610000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2024-11-18",
+        "marketCap": 2118051700000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2024-11-15",
+        "marketCap": 2127607610000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2024-11-14",
+        "marketCap": 2220751480000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2024-11-13",
+        "marketCap": 2248264100000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2024-11-12",
+        "marketCap": 2193763910000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2024-11-11",
+        "marketCap": 2172026840000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2024-11-08",
+        "marketCap": 2186098180000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2024-11-07",
+        "marketCap": 2205735050000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2024-11-06",
+        "marketCap": 2174652090000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2024-11-05",
+        "marketCap": 2094949500000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2024-11-04",
+        "marketCap": 2055885780000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2024-11-01",
+        "marketCap": 2078462930000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2024-10-31",
+        "marketCap": 1957386400000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2024-10-30",
+        "marketCap": 2023857730000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2024-10-29",
+        "marketCap": 2003905830000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2024-10-28",
+        "marketCap": 1978283389999
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2024-10-25",
+        "marketCap": 1972402830000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2024-10-24",
+        "marketCap": 1957176380000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2024-10-23",
+        "marketCap": 1939639710000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2024-10-22",
+        "marketCap": 1992039700000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2024-10-21",
+        "marketCap": 1985424070000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2024-10-18",
+        "marketCap": 1984583990000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2024-10-17",
+        "marketCap": 1969252530000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2024-10-16",
+        "marketCap": 1962531889999
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2024-10-15",
+        "marketCap": 1970932690000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2024-10-14",
+        "marketCap": 1969357540000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2024-10-11",
+        "marketCap": 1982798820000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2024-10-10",
+        "marketCap": 1960011650000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2024-10-09",
+        "marketCap": 1944470169999
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2024-10-08",
+        "marketCap": 1918742720000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2024-10-07",
+        "marketCap": 1898580800000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2024-10-04",
+        "marketCap": 1958541510000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2024-10-03",
+        "marketCap": 1910761960000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2024-10-02",
+        "marketCap": 1940164760000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2024-10-01",
+        "marketCap": 1944050130000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2024-09-30",
+        "marketCap": 1956651330000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2024-09-27",
+        "marketCap": 1973872970000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2024-09-26",
+        "marketCap": 2007371160000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2024-09-25",
+        "marketCap": 2021757530000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2024-09-24",
+        "marketCap": 2036773960000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2024-09-23",
+        "marketCap": 2035933880000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2024-09-20",
+        "marketCap": 2011991600000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2024-09-19",
+        "marketCap": 1993824870000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2024-09-18",
+        "marketCap": 1957701430000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2024-09-17",
+        "marketCap": 1962426880000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2024-09-16",
+        "marketCap": 1941529889999
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2024-09-13",
+        "marketCap": 1958331490000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2024-09-12",
+        "marketCap": 1963687000000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2024-09-11",
+        "marketCap": 1937644520000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2024-09-10",
+        "marketCap": 1885454550000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2024-09-09",
+        "marketCap": 1841875400000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2024-09-06",
+        "marketCap": 1799766389999
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2024-09-05",
+        "marketCap": 1868022889999
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2024-09-04",
+        "marketCap": 1820138330000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2024-09-03",
+        "marketCap": 1850801250000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2024-08-30",
+        "marketCap": 1874428500000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2024-08-29",
+        "marketCap": 1807432120000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2024-08-28",
+        "marketCap": 1793570800000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2024-08-27",
+        "marketCap": 1817933120000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2024-08-26",
+        "marketCap": 1842925500000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2024-08-23",
+        "marketCap": 1859097040000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2024-08-22",
+        "marketCap": 1849541130000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2024-08-21",
+        "marketCap": 1891335110000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2024-08-20",
+        "marketCap": 1878418880000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2024-08-19",
+        "marketCap": 1871488220000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2024-08-16",
+        "marketCap": 1859307060000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2024-08-15",
+        "marketCap": 1864872590000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2024-08-14",
+        "marketCap": 1786220100000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2024-08-13",
+        "marketCap": 1787585230000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2024-08-12",
+        "marketCap": 1751566800000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2024-08-09",
+        "marketCap": 1753036940000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2024-08-08",
+        "marketCap": 1741065800000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2024-08-07",
+        "marketCap": 1709247770000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2024-08-06",
+        "marketCap": 1700426930000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2024-08-05",
+        "marketCap": 1690871020000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2024-08-02",
+        "marketCap": 1763117900000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2024-08-01",
+        "marketCap": 1932919070000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2024-07-31",
+        "marketCap": 1963476980000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2024-07-30",
+        "marketCap": 1908136710000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2024-07-29",
+        "marketCap": 1923783200000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2024-07-26",
+        "marketCap": 1916432500000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2024-07-25",
+        "marketCap": 1888604850000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2024-07-24",
+        "marketCap": 1898895830000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2024-07-23",
+        "marketCap": 1957491410000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2024-07-22",
+        "marketCap": 1916957550000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2024-07-19",
+        "marketCap": 1923048130000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2024-07-18",
+        "marketCap": 1929558750000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2024-07-17",
+        "marketCap": 1973452930000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2024-07-16",
+        "marketCap": 2026903020000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2024-07-15",
+        "marketCap": 2023752720000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2024-07-12",
+        "marketCap": 2042339490000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2024-07-11",
+        "marketCap": 2048220050000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2024-07-10",
+        "marketCap": 2097994790000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2024-07-09",
+        "marketCap": 2093269340000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2024-07-08",
+        "marketCap": 2092744290000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2024-07-05",
+        "marketCap": 2100200000000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2024-07-03",
+        "marketCap": 2074892590000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2024-07-02",
+        "marketCap": 2100200000000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2024-07-01",
+        "marketCap": 2070797200000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2024-06-28",
+        "marketCap": 2018882750000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2024-06-27",
+        "marketCap": 2066938950000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2024-06-26",
+        "marketCap": 2022643670000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2024-06-25",
+        "marketCap": 1946693980000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2024-06-24",
+        "marketCap": 1938649790000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2024-06-21",
+        "marketCap": 1975318760000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2024-06-20",
+        "marketCap": 1944186700000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2024-06-18",
+        "marketCap": 1909816070000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2024-06-17",
+        "marketCap": 1922874820000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2024-06-14",
+        "marketCap": 1918696020000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2024-06-13",
+        "marketCap": 1920472010000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2024-06-12",
+        "marketCap": 1952439829999
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2024-06-11",
+        "marketCap": 1955991810000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2024-06-10",
+        "marketCap": 1954215820000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2024-06-07",
+        "marketCap": 1925382100000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2024-06-06",
+        "marketCap": 1932695000000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2024-06-05",
+        "marketCap": 1893832160000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2024-06-04",
+        "marketCap": 1873564980000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2024-06-03",
+        "marketCap": 1863117980000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2024-05-31",
+        "marketCap": 1843268680000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2024-05-30",
+        "marketCap": 1873356040000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2024-05-29",
+        "marketCap": 1901562940000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2024-05-28",
+        "marketCap": 1902921050000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2024-05-24",
+        "marketCap": 1888295250000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2024-05-23",
+        "marketCap": 1891429350000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2024-05-22",
+        "marketCap": 1913159110000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2024-05-21",
+        "marketCap": 1913368050000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2024-05-20",
+        "marketCap": 1917442380000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2024-05-17",
+        "marketCap": 1929560900000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2024-05-16",
+        "marketCap": 1918382610000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2024-05-15",
+        "marketCap": 1943037530000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2024-05-14",
+        "marketCap": 1954320290000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2024-05-13",
+        "marketCap": 1949096790000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2024-05-10",
+        "marketCap": 1958603560000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2024-05-09",
+        "marketCap": 1979706500000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2024-05-08",
+        "marketCap": 1964036000000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2024-05-07",
+        "marketCap": 1971975720000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2024-05-06",
+        "marketCap": 1971348900000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2024-05-03",
+        "marketCap": 1945335870000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2024-05-02",
+        "marketCap": 1929769840000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2024-05-01",
+        "marketCap": 1870013000000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2024-04-30",
+        "marketCap": 1828225000000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2024-04-29",
+        "marketCap": 1890489120000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2024-04-26",
+        "marketCap": 1876490140000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2024-04-25",
+        "marketCap": 1814330489999
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2024-04-24",
+        "marketCap": 1844835730000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2024-04-23",
+        "marketCap": 1875654380000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2024-04-22",
+        "marketCap": 1851521810000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2024-04-19",
+        "marketCap": 1824359610000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2024-04-18",
+        "marketCap": 1872311340000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2024-04-17",
+        "marketCap": 1893832160000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2024-04-16",
+        "marketCap": 1915144040000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2024-04-15",
+        "marketCap": 1918278140000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2024-04-12",
+        "marketCap": 1944500110000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2024-04-11",
+        "marketCap": 1975005350000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2024-04-10",
+        "marketCap": 1942619650000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2024-04-09",
+        "marketCap": 1939694489999
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2024-04-08",
+        "marketCap": 1934679930000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2024-04-05",
+        "marketCap": 1933426290000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2024-04-04",
+        "marketCap": 1880460000000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2024-04-03",
+        "marketCap": 1905637270000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2024-04-02",
+        "marketCap": 1887668430000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2024-04-01",
+        "marketCap": 1890593590000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2024-03-28",
+        "marketCap": 1874689340000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2024-03-27",
+        "marketCap": 1868973190000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2024-03-26",
+        "marketCap": 1853071900000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2024-03-25",
+        "marketCap": 1867726030000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2024-03-22",
+        "marketCap": 1858995910000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2024-03-21",
+        "marketCap": 1851512950000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2024-03-20",
+        "marketCap": 1851512950000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2024-03-19",
+        "marketCap": 1828128700000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2024-03-18",
+        "marketCap": 1813370640000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2024-03-15",
+        "marketCap": 1812747059999
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2024-03-14",
+        "marketCap": 1857748750000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2024-03-13",
+        "marketCap": 1834988080000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2024-03-12",
+        "marketCap": 1822828269999
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2024-03-11",
+        "marketCap": 1787180280000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2024-03-08",
+        "marketCap": 1822412550000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2024-03-07",
+        "marketCap": 1837690260000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2024-03-06",
+        "marketCap": 1803289430000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2024-03-05",
+        "marketCap": 1809629160000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2024-03-04",
+        "marketCap": 1845588940000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2024-03-01",
+        "marketCap": 1852240460000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2024-02-29",
+        "marketCap": 1837066680000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2024-02-28",
+        "marketCap": 1799651880000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2024-02-27",
+        "marketCap": 1803601220000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2024-02-26",
+        "marketCap": 1815968890000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2024-02-23",
+        "marketCap": 1818671070000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2024-02-22",
+        "marketCap": 1814409940000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2024-02-21",
+        "marketCap": 1752155870000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2024-02-20",
+        "marketCap": 1736462440000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2024-02-16",
+        "marketCap": 1761717430000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2024-02-15",
+        "marketCap": 1764731400000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2024-02-14",
+        "marketCap": 1776995140000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2024-02-13",
+        "marketCap": 1752675519999
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2024-02-12",
+        "marketCap": 1791129620000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2024-02-09",
+        "marketCap": 1813058850000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2024-02-08",
+        "marketCap": 1765147120000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2024-02-07",
+        "marketCap": 1772318290000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2024-02-06",
+        "marketCap": 1757975950000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2024-02-05",
+        "marketCap": 1770031830000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2024-02-02",
+        "marketCap": 1785621330000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2024-02-01",
+        "marketCap": 1655397040000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2024-01-31",
+        "marketCap": 1612993600000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2024-01-30",
+        "marketCap": 1652487000000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2024-01-29",
+        "marketCap": 1675975180000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2024-01-26",
+        "marketCap": 1653734160000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2024-01-25",
+        "marketCap": 1639495750000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2024-01-24",
+        "marketCap": 1630349910000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2024-01-23",
+        "marketCap": 1621515860000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2024-01-22",
+        "marketCap": 1608628540000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2024-01-19",
+        "marketCap": 1614448620000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2024-01-18",
+        "marketCap": 1595325500000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2024-01-17",
+        "marketCap": 1576722030000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2024-01-16",
+        "marketCap": 1591791880000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2024-01-12",
+        "marketCap": 1606965660000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2024-01-11",
+        "marketCap": 1612785740000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2024-01-10",
+        "marketCap": 1597715890000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2024-01-09",
+        "marketCap": 1573188410000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2024-01-08",
+        "marketCap": 1549596300000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2024-01-05",
+        "marketCap": 1509479320000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2024-01-04",
+        "marketCap": 1502516010000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2024-01-03",
+        "marketCap": 1543048710000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2024-01-02",
+        "marketCap": 1558222490000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2023-12-29",
+        "marketCap": 1573490640000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2023-12-28",
+        "marketCap": 1588403280000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2023-12-27",
+        "marketCap": 1587989040000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2023-12-26",
+        "marketCap": 1588713960000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2023-12-22",
+        "marketCap": 1588817519999
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2023-12-21",
+        "marketCap": 1593167040000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2023-12-20",
+        "marketCap": 1575354720000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2023-12-19",
+        "marketCap": 1592649240000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2023-12-18",
+        "marketCap": 1595548920000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2023-12-15",
+        "marketCap": 1553089320000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2023-12-14",
+        "marketCap": 1526681519999
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2023-12-13",
+        "marketCap": 1541387040000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2023-12-12",
+        "marketCap": 1527302880000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2023-12-11",
+        "marketCap": 1510836839999
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2023-12-08",
+        "marketCap": 1526681519999
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2023-12-07",
+        "marketCap": 1521089280000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2023-12-06",
+        "marketCap": 1496649120000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2023-12-05",
+        "marketCap": 1521089280000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2023-12-04",
+        "marketCap": 1499963040000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2023-12-01",
+        "marketCap": 1522642680000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2023-11-30",
+        "marketCap": 1512908040000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2023-11-29",
+        "marketCap": 1515289920000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2023-11-28",
+        "marketCap": 1522642680000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2023-11-27",
+        "marketCap": 1529891880000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2023-11-24",
+        "marketCap": 1519639440000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2023-11-22",
+        "marketCap": 1519328760000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2023-11-21",
+        "marketCap": 1490228400000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2023-11-20",
+        "marketCap": 1513322280000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2023-11-17",
+        "marketCap": 1503484080000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2023-11-16",
+        "marketCap": 1479147480000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2023-11-15",
+        "marketCap": 1482979200000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2023-11-14",
+        "marketCap": 1509904800000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2023-11-13",
+        "marketCap": 1476662040000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2023-11-10",
+        "marketCap": 1486707360000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2023-11-09",
+        "marketCap": 1456053600000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2023-11-08",
+        "marketCap": 1471380480000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2023-11-07",
+        "marketCap": 1477904760000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2023-11-06",
+        "marketCap": 1447147440000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2023-11-03",
+        "marketCap": 1435341600000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2023-11-02",
+        "marketCap": 1429852920000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2023-11-01",
+        "marketCap": 1418772000000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2023-10-31",
+        "marketCap": 1378280040000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2023-10-30",
+        "marketCap": 1374344760000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2023-10-27",
+        "marketCap": 1322875440000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2023-10-26",
+        "marketCap": 1238266920000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2023-10-25",
+        "marketCap": 1257114840000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2023-10-24",
+        "marketCap": 1331367360000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2023-10-23",
+        "marketCap": 1310655360000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2023-10-20",
+        "marketCap": 1296260520000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2023-10-19",
+        "marketCap": 1329710400000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2023-10-18",
+        "marketCap": 1326914280000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2023-10-17",
+        "marketCap": 1361503320000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2023-10-16",
+        "marketCap": 1372687800000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2023-10-13",
+        "marketCap": 1344105240000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2023-10-12",
+        "marketCap": 1370409480000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2023-10-11",
+        "marketCap": 1365231480000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2023-10-10",
+        "marketCap": 1340894880000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2023-10-09",
+        "marketCap": 1328260560000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2023-10-06",
+        "marketCap": 1325153760000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2023-10-05",
+        "marketCap": 1304441760000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2023-10-04",
+        "marketCap": 1315212000000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2023-10-03",
+        "marketCap": 1291600320000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2023-10-02",
+        "marketCap": 1340687760000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2023-09-29",
+        "marketCap": 1312132640000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2023-09-28",
+        "marketCap": 1300365560000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2023-09-27",
+        "marketCap": 1300365560000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2023-09-26",
+        "marketCap": 1300365560000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2023-09-25",
+        "marketCap": 1354968940000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2023-09-22",
+        "marketCap": 1332776640000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2023-09-21",
+        "marketCap": 1334944260000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2023-09-20",
+        "marketCap": 1396463380000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2023-09-19",
+        "marketCap": 1420616860000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2023-09-18",
+        "marketCap": 1444873560000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2023-09-15",
+        "marketCap": 1449105579999
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2023-09-14",
+        "marketCap": 1493799840000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2023-09-13",
+        "marketCap": 1495141700000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2023-09-12",
+        "marketCap": 1457776060000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2023-09-11",
+        "marketCap": 1477078200000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2023-09-08",
+        "marketCap": 1426810060000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2023-09-07",
+        "marketCap": 1422887700000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2023-09-06",
+        "marketCap": 1397185920000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2023-09-05",
+        "marketCap": 1416900940000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2023-09-01",
+        "marketCap": 1425674640000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2023-08-31",
+        "marketCap": 1424539220000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2023-08-30",
+        "marketCap": 1394192540000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2023-08-29",
+        "marketCap": 1392541020000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2023-08-28",
+        "marketCap": 1374271079999
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2023-08-25",
+        "marketCap": 1375509720000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2023-08-24",
+        "marketCap": 1360852480000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2023-08-23",
+        "marketCap": 1398837440000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2023-08-22",
+        "marketCap": 1385728500000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2023-08-21",
+        "marketCap": 1390166960000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2023-08-18",
+        "marketCap": 1375096840000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2023-08-17",
+        "marketCap": 1382941560000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2023-08-16",
+        "marketCap": 1394192540000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2023-08-15",
+        "marketCap": 1421029739999
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2023-08-14",
+        "marketCap": 1450963540000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2023-08-11",
+        "marketCap": 1428668020000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2023-08-10",
+        "marketCap": 1430216320000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2023-08-09",
+        "marketCap": 1422887700000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2023-08-08",
+        "marketCap": 1444460680000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2023-08-07",
+        "marketCap": 1467994840000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2023-08-04",
+        "marketCap": 1440641540000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2023-08-03",
+        "marketCap": 1330609020000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2023-08-02",
+        "marketCap": 1323383620000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2023-08-01",
+        "marketCap": 1359304180000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2023-07-31",
+        "marketCap": 1379844960000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2023-07-28",
+        "marketCap": 1364671620000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2023-07-27",
+        "marketCap": 1323796500000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2023-07-26",
+        "marketCap": 1322764300000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2023-07-25",
+        "marketCap": 1332879860000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2023-07-24",
+        "marketCap": 1329473600000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2023-07-21",
+        "marketCap": 1341860000000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2023-07-20",
+        "marketCap": 1341447120000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2023-07-19",
+        "marketCap": 1397185920000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2023-07-18",
+        "marketCap": 1371071260000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2023-07-17",
+        "marketCap": 1378606320000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2023-07-14",
+        "marketCap": 1390166960000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2023-07-13",
+        "marketCap": 1386244600000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2023-07-12",
+        "marketCap": 1350117600000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2023-07-11",
+        "marketCap": 1329267160000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2023-07-10",
+        "marketCap": 1312235860000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2023-07-07",
+        "marketCap": 1339589160000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2023-07-06",
+        "marketCap": 1324931920000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2023-07-05",
+        "marketCap": 1345782360000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2023-07-03",
+        "marketCap": 1344130840000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2023-06-30",
+        "marketCap": 1345575920000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2023-06-29",
+        "marketCap": 1315451500000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2023-06-28",
+        "marketCap": 1327176400000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2023-06-27",
+        "marketCap": 1328616300000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2023-06-26",
+        "marketCap": 1309589050000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2023-06-23",
+        "marketCap": 1330159050000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2023-06-22",
+        "marketCap": 1338592750000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2023-06-21",
+        "marketCap": 1283876550000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2023-06-20",
+        "marketCap": 1293647300000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2023-06-16",
+        "marketCap": 1290664650000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2023-06-15",
+        "marketCap": 1307326350000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2023-06-14",
+        "marketCap": 1300229700000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2023-06-13",
+        "marketCap": 1302698100000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2023-06-12",
+        "marketCap": 1301772450000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2023-06-09",
+        "marketCap": 1269477550000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2023-06-08",
+        "marketCap": 1277911250000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2023-06-07",
+        "marketCap": 1246850550000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2023-06-06",
+        "marketCap": 1302183850000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2023-06-05",
+        "marketCap": 1288710500000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2023-06-02",
+        "marketCap": 1277911250000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2023-06-01",
+        "marketCap": 1262689450000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2023-05-31",
+        "marketCap": 1240165300000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2023-05-30",
+        "marketCap": 1251273100000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2023-05-26",
+        "marketCap": 1235331350000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2023-05-25",
+        "marketCap": 1182775000000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2023-05-24",
+        "marketCap": 1200773750000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2023-05-23",
+        "marketCap": 1182672150000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2023-05-22",
+        "marketCap": 1182877850000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2023-05-19",
+        "marketCap": 1195631250000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2023-05-18",
+        "marketCap": 1215172750000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2023-05-17",
+        "marketCap": 1187917500000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2023-05-16",
+        "marketCap": 1166319000000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2023-05-15",
+        "marketCap": 1143692000000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2023-05-12",
+        "marketCap": 1134024100000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2023-05-11",
+        "marketCap": 1153771300000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2023-05-10",
+        "marketCap": 1133304150000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2023-05-09",
+        "marketCap": 1096586700000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2023-05-08",
+        "marketCap": 1088461550000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2023-05-05",
+        "marketCap": 1086713100000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2023-05-04",
+        "marketCap": 1069640000000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2023-05-03",
+        "marketCap": 1066040250000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2023-05-02",
+        "marketCap": 1065834550000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2023-05-01",
+        "marketCap": 1049584250000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2023-04-28",
+        "marketCap": 1084553250000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2023-04-27",
+        "marketCap": 1129498700000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2023-04-26",
+        "marketCap": 1079719300000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2023-04-25",
+        "marketCap": 1054932449999
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2023-04-24",
+        "marketCap": 1092369849999
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2023-04-21",
+        "marketCap": 1100083600000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2023-04-20",
+        "marketCap": 1067685850000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2023-04-19",
+        "marketCap": 1072725500000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2023-04-18",
+        "marketCap": 1052155500000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2023-04-17",
+        "marketCap": 1056680900000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2023-04-14",
+        "marketCap": 1054315350000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2023-04-13",
+        "marketCap": 1053184000000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2023-04-12",
+        "marketCap": 1006181550000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2023-04-11",
+        "marketCap": 1027677200000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2023-04-10",
+        "marketCap": 1050818450000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2023-04-06",
+        "marketCap": 1049687100000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2023-04-05",
+        "marketCap": 1039813500000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2023-04-04",
+        "marketCap": 1069125750000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2023-04-03",
+        "marketCap": 1053286850000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2023-03-31",
+        "marketCap": 1062337650000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2023-03-30",
+        "marketCap": 1045500000000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2023-03-29",
+        "marketCap": 1027562500000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2023-03-28",
+        "marketCap": 996710000000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2023-03-27",
+        "marketCap": 1004910000000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2023-03-24",
+        "marketCap": 1005832500000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2023-03-23",
+        "marketCap": 1011777499999
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2023-03-22",
+        "marketCap": 1011675000000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2023-03-21",
+        "marketCap": 1031252500000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2023-03-20",
+        "marketCap": 1001527499999
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2023-03-17",
+        "marketCap": 1014237500000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2023-03-16",
+        "marketCap": 1025410000000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2023-03-15",
+        "marketCap": 986050000000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2023-03-14",
+        "marketCap": 972520000000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2023-03-13",
+        "marketCap": 947407500000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2023-03-10",
+        "marketCap": 929982500000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2023-03-09",
+        "marketCap": 945562500000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2023-03-08",
+        "marketCap": 962680000000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2023-03-07",
+        "marketCap": 958887500000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2023-03-06",
+        "marketCap": 960937500000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2023-03-03",
+        "marketCap": 972725000000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2023-03-02",
+        "marketCap": 944332500000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2023-03-01",
+        "marketCap": 944742500000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2023-02-28",
+        "marketCap": 965857500000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2023-02-27",
+        "marketCap": 961040000000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2023-02-24",
+        "marketCap": 958375000000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2023-02-23",
+        "marketCap": 982154999999
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2023-02-22",
+        "marketCap": 981847500000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2023-02-21",
+        "marketCap": 969445000000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2023-02-17",
+        "marketCap": 996300000000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2023-02-16",
+        "marketCap": 1006037500000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2023-02-15",
+        "marketCap": 1036890000000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2023-02-14",
+        "marketCap": 1021925000000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2023-02-13",
+        "marketCap": 1020285000000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2023-02-10",
+        "marketCap": 1000502500000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2023-02-09",
+        "marketCap": 1006960000000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2023-02-08",
+        "marketCap": 1025512500000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2023-02-07",
+        "marketCap": 1046627500000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2023-02-06",
+        "marketCap": 1047345000000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2023-02-03",
+        "marketCap": 1059747500000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2023-02-02",
+        "marketCap": 1157327500000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2023-02-01",
+        "marketCap": 1077787500000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2023-01-31",
+        "marketCap": 1057082500000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2023-01-30",
+        "marketCap": 1030637500000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2023-01-27",
+        "marketCap": 1047960000000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2023-01-26",
+        "marketCap": 1017005000000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2023-01-25",
+        "marketCap": 996095000000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2023-01-24",
+        "marketCap": 987279999999
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2023-01-23",
+        "marketCap": 999580000000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2023-01-20",
+        "marketCap": 996812500000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2023-01-19",
+        "marketCap": 960220000000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2023-01-18",
+        "marketCap": 978464999999
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2023-01-17",
+        "marketCap": 984512500000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2023-01-13",
+        "marketCap": 1005730000000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2023-01-12",
+        "marketCap": 976517500000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2023-01-11",
+        "marketCap": 974672500000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2023-01-10",
+        "marketCap": 921167500000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2023-01-09",
+        "marketCap": 895440000000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2023-01-06",
+        "marketCap": 882320000000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2023-01-05",
+        "marketCap": 851980000000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2023-01-04",
+        "marketCap": 872685000000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2023-01-03",
+        "marketCap": 879654999999
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2022-12-30",
+        "marketCap": 858480000000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2022-12-29",
+        "marketCap": 860319600000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2022-12-28",
+        "marketCap": 836200399999
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2022-12-27",
+        "marketCap": 848668800000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2022-12-23",
+        "marketCap": 871255000000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2022-12-22",
+        "marketCap": 856333800000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2022-12-21",
+        "marketCap": 886789400000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2022-12-20",
+        "marketCap": 870641800000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2022-12-19",
+        "marketCap": 867882400000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2022-12-16",
+        "marketCap": 897929200000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2022-12-15",
+        "marketCap": 903959000000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2022-12-14",
+        "marketCap": 935947600000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2022-12-13",
+        "marketCap": 945247800000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2022-12-12",
+        "marketCap": 925421000000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2022-12-09",
+        "marketCap": 910499800000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2022-12-08",
+        "marketCap": 923377000000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2022-12-07",
+        "marketCap": 904061199999
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2022-12-06",
+        "marketCap": 901915000000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2022-12-05",
+        "marketCap": 930122200000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2022-12-02",
+        "marketCap": 962008600000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2022-12-01",
+        "marketCap": 976010000000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2022-11-30",
+        "marketCap": 986638800000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2022-11-29",
+        "marketCap": 944532400000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2022-11-28",
+        "marketCap": 960169000000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2022-11-25",
+        "marketCap": 954650200000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2022-11-23",
+        "marketCap": 962008600000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2022-11-22",
+        "marketCap": 952504000000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2022-11-21",
+        "marketCap": 944941199999
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2022-11-18",
+        "marketCap": 962110800000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2022-11-17",
+        "marketCap": 969367000000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2022-11-16",
+        "marketCap": 992566400000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2022-11-15",
+        "marketCap": 1011166800000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2022-11-14",
+        "marketCap": 1006567800000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2022-11-11",
+        "marketCap": 1030073800000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2022-11-10",
+        "marketCap": 987558600000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2022-11-09",
+        "marketCap": 880350800000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2022-11-08",
+        "marketCap": 919595600000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2022-11-07",
+        "marketCap": 925216600000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2022-11-04",
+        "marketCap": 929815600000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2022-11-03",
+        "marketCap": 912646000000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2022-11-02",
+        "marketCap": 941466400000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2022-11-01",
+        "marketCap": 989193800000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2022-10-31",
+        "marketCap": 1046936800000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2022-10-28",
+        "marketCap": 1056850200000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2022-10-27",
+        "marketCap": 1134011200000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2022-10-26",
+        "marketCap": 1182045200000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2022-10-25",
+        "marketCap": 1232532000000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2022-10-24",
+        "marketCap": 1224560400000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2022-10-21",
+        "marketCap": 1219450400000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2022-10-20",
+        "marketCap": 1177855000000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2022-10-19",
+        "marketCap": 1176015400000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2022-10-18",
+        "marketCap": 1189199200000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2022-10-17",
+        "marketCap": 1162933800000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2022-10-14",
+        "marketCap": 1092518000000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2022-10-13",
+        "marketCap": 1150056600000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2022-10-12",
+        "marketCap": 1153838000000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2022-10-11",
+        "marketCap": 1146786200000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2022-10-10",
+        "marketCap": 1161707400000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2022-10-07",
+        "marketCap": 1170803200000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2022-10-06",
+        "marketCap": 1229466000000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2022-10-05",
+        "marketCap": 1236109000000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2022-10-04",
+        "marketCap": 1237539800000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2022-10-03",
+        "marketCap": 1184293600000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2022-09-30",
+        "marketCap": 1154860000000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2022-09-29",
+        "marketCap": 1169926800000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2022-09-28",
+        "marketCap": 1202639910000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2022-09-27",
+        "marketCap": 1165952310000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2022-09-26",
+        "marketCap": 1173493650000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2022-09-23",
+        "marketCap": 1159531980000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2022-09-22",
+        "marketCap": 1195506210000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2022-09-21",
+        "marketCap": 1208041140000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2022-09-20",
+        "marketCap": 1245238290000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2022-09-19",
+        "marketCap": 1270410060000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2022-09-16",
+        "marketCap": 1258894230000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2022-09-15",
+        "marketCap": 1286919480000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2022-09-14",
+        "marketCap": 1310053050000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2022-09-13",
+        "marketCap": 1292422620000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2022-09-12",
+        "marketCap": 1390561950000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2022-09-09",
+        "marketCap": 1358154570000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2022-09-08",
+        "marketCap": 1322995620000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2022-09-07",
+        "marketCap": 1319530680000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2022-09-06",
+        "marketCap": 1285187010000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2022-09-02",
+        "marketCap": 1299454410000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2022-09-01",
+        "marketCap": 1302613620000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2022-08-31",
+        "marketCap": 1291913070000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2022-08-30",
+        "marketCap": 1311887430000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2022-08-29",
+        "marketCap": 1322689890000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2022-08-26",
+        "marketCap": 1332473250000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2022-08-25",
+        "marketCap": 1399020480000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2022-08-24",
+        "marketCap": 1363555800000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2022-08-23",
+        "marketCap": 1361721420000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2022-08-22",
+        "marketCap": 1357645020000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2022-08-19",
+        "marketCap": 1408701930000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2022-08-18",
+        "marketCap": 1450179300000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2022-08-17",
+        "marketCap": 1448141100000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2022-08-16",
+        "marketCap": 1475452980000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2022-08-15",
+        "marketCap": 1459147380000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2022-08-12",
+        "marketCap": 1462918050000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2022-08-11",
+        "marketCap": 1433262239999
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2022-08-10",
+        "marketCap": 1454153790000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2022-08-09",
+        "marketCap": 1404625530000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2022-08-08",
+        "marketCap": 1420727310000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2022-08-05",
+        "marketCap": 1434892800000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2022-08-04",
+        "marketCap": 1452930870000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2022-08-03",
+        "marketCap": 1421848320000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2022-08-02",
+        "marketCap": 1367224560000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2022-08-01",
+        "marketCap": 1379759489999
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2022-07-29",
+        "marketCap": 1375275450000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2022-07-28",
+        "marketCap": 1246155480000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2022-07-27",
+        "marketCap": 1232805270000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2022-07-26",
+        "marketCap": 1170028710000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2022-07-25",
+        "marketCap": 1234537740000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2022-07-22",
+        "marketCap": 1247582220000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2022-07-21",
+        "marketCap": 1270104330000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2022-07-20",
+        "marketCap": 1251149070000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2022-07-19",
+        "marketCap": 1204678110000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2022-07-18",
+        "marketCap": 1159328160000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2022-07-15",
+        "marketCap": 1157188050000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2022-07-14",
+        "marketCap": 1127430330000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2022-07-13",
+        "marketCap": 1125086400000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2022-07-12",
+        "marketCap": 1113061020000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2022-07-11",
+        "marketCap": 1138844250000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2022-07-08",
+        "marketCap": 1177468140000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2022-07-07",
+        "marketCap": 1185519030000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2022-07-06",
+        "marketCap": 1165137030000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2022-07-05",
+        "marketCap": 1156678500000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2022-07-01",
+        "marketCap": 1116525960000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2022-06-30",
+        "marketCap": 1082386109999
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2022-06-29",
+        "marketCap": 1108261000000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2022-06-28",
+        "marketCap": 1092795000000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2022-06-27",
+        "marketCap": 1152013500000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2022-06-24",
+        "marketCap": 1184980500000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2022-06-23",
+        "marketCap": 1144077000000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2022-06-22",
+        "marketCap": 1108566250000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2022-06-21",
+        "marketCap": 1105819000000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2022-06-17",
+        "marketCap": 1080788500000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2022-06-16",
+        "marketCap": 1054740500000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2022-06-15",
+        "marketCap": 1095542250000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2022-06-14",
+        "marketCap": 1041004250000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2022-06-13",
+        "marketCap": 1054842250000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2022-06-10",
+        "marketCap": 1115688750000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2022-06-09",
+        "marketCap": 1181826250000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2022-06-08",
+        "marketCap": 1233006500000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2022-06-07",
+        "marketCap": 1251525000000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2022-06-06",
+        "marketCap": 1269738250000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2022-06-03",
+        "marketCap": 1244911250000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2022-06-02",
+        "marketCap": 1277064250000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2022-06-01",
+        "marketCap": 1238094000000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2022-05-31",
+        "marketCap": 1223136750000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2022-05-27",
+        "marketCap": 1171651250000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2022-05-26",
+        "marketCap": 1130239000000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2022-05-25",
+        "marketCap": 1086486500000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2022-05-24",
+        "marketCap": 1059217500000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2022-05-23",
+        "marketCap": 1094423000000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2022-05-20",
+        "marketCap": 1094728250000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2022-05-19",
+        "marketCap": 1091980999999
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2022-05-18",
+        "marketCap": 1089844250000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2022-05-17",
+        "marketCap": 1173889750000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2022-05-16",
+        "marketCap": 1127491750000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2022-05-13",
+        "marketCap": 1150385500000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2022-05-12",
+        "marketCap": 1088012750000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2022-05-11",
+        "marketCap": 1072139750000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2022-05-10",
+        "marketCap": 1107650500000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2022-05-09",
+        "marketCap": 1106938250000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2022-05-06",
+        "marketCap": 1167784750000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2022-05-05",
+        "marketCap": 1184471750000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2022-05-04",
+        "marketCap": 1281337750000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2022-05-03",
+        "marketCap": 1264243750000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2022-05-02",
+        "marketCap": 1266787500000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2022-04-29",
+        "marketCap": 1264549000000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2022-04-28",
+        "marketCap": 1471305000000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2022-04-27",
+        "marketCap": 1405879749999
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2022-04-26",
+        "marketCap": 1418293249999
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2022-04-25",
+        "marketCap": 1486262250000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2022-04-22",
+        "marketCap": 1468761250000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2022-04-21",
+        "marketCap": 1508952500000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2022-04-20",
+        "marketCap": 1566950000000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2022-04-19",
+        "marketCap": 1608871000000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2022-04-18",
+        "marketCap": 1554638250000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2022-04-14",
+        "marketCap": 1543649250000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2022-04-13",
+        "marketCap": 1582619500000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2022-04-12",
+        "marketCap": 1534288250000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2022-04-11",
+        "marketCap": 1537646000000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2022-04-08",
+        "marketCap": 1571630500000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2022-04-07",
+        "marketCap": 1605411500000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2022-04-06",
+        "marketCap": 1615383000000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2022-04-05",
+        "marketCap": 1669208750000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2022-04-04",
+        "marketCap": 1712961250000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2022-04-01",
+        "marketCap": 1664223000000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2022-03-31",
+        "marketCap": 1658525000000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2022-03-30",
+        "marketCap": 1692934000000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2022-03-29",
+        "marketCap": 1723677600000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2022-03-28",
+        "marketCap": 1720318200000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2022-03-25",
+        "marketCap": 1677358600000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2022-03-24",
+        "marketCap": 1665957000000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2022-03-23",
+        "marketCap": 1663513800000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2022-03-22",
+        "marketCap": 1678580199999
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2022-03-21",
+        "marketCap": 1643968200000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2022-03-18",
+        "marketCap": 1641525000000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2022-03-17",
+        "marketCap": 1600703200000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2022-03-16",
+        "marketCap": 1558558000000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2022-03-15",
+        "marketCap": 1500226600000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2022-03-14",
+        "marketCap": 1444033000000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2022-03-11",
+        "marketCap": 1481393600000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2022-03-10",
+        "marketCap": 1494627600000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2022-03-09",
+        "marketCap": 1417870400000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2022-03-08",
+        "marketCap": 1384581800000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2022-03-07",
+        "marketCap": 1399241000000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2022-03-04",
+        "marketCap": 1482615199999
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2022-03-03",
+        "marketCap": 1505622000000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2022-03-02",
+        "marketCap": 1547869000000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2022-03-01",
+        "marketCap": 1538605199999
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2022-02-28",
+        "marketCap": 1563240800000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2022-02-25",
+        "marketCap": 1565582200000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2022-02-24",
+        "marketCap": 1540844800000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2022-02-23",
+        "marketCap": 1474369400000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2022-02-22",
+        "marketCap": 1529036000000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2022-02-18",
+        "marketCap": 1553468000000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2022-02-17",
+        "marketCap": 1574337000000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2022-02-16",
+        "marketCap": 1609458000000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2022-02-15",
+        "marketCap": 1593271800000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2022-02-14",
+        "marketCap": 1579630599999
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2022-02-11",
+        "marketCap": 1560492200000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2022-02-10",
+        "marketCap": 1618620000000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2022-02-09",
+        "marketCap": 1640914200000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2022-02-08",
+        "marketCap": 1643153800000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2022-02-07",
+        "marketCap": 1607829200000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2022-02-04",
+        "marketCap": 1604775199999
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2022-02-03",
+        "marketCap": 1413493000000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2022-02-02",
+        "marketCap": 1533209800000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2022-02-01",
+        "marketCap": 1539114200000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2022-01-31",
+        "marketCap": 1522622600000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2022-01-28",
+        "marketCap": 1465716400000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2022-01-27",
+        "marketCap": 1421535199999
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2022-01-26",
+        "marketCap": 1413696600000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2022-01-25",
+        "marketCap": 1425098200000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2022-01-24",
+        "marketCap": 1471417200000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2022-01-21",
+        "marketCap": 1452075199999
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2022-01-20",
+        "marketCap": 1544000599999
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2022-01-19",
+        "marketCap": 1591134000000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2022-01-18",
+        "marketCap": 1617805599999
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2022-01-14",
+        "marketCap": 1650585199999
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2022-01-13",
+        "marketCap": 1641117800000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2022-01-12",
+        "marketCap": 1681837800000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2022-01-11",
+        "marketCap": 1683364800000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2022-01-10",
+        "marketCap": 1643968200000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2022-01-07",
+        "marketCap": 1654759000000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2022-01-06",
+        "marketCap": 1661885000000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2022-01-05",
+        "marketCap": 1673184800000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2022-01-04",
+        "marketCap": 1705353600000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2022-01-03",
+        "marketCap": 1734672000000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2021-12-31",
+        "marketCap": 1697209600000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2021-12-30",
+        "marketCap": 1713382399999
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2021-12-29",
+        "marketCap": 1719072000000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2021-12-28",
+        "marketCap": 1733905600000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2021-12-27",
+        "marketCap": 1723847199999
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2021-12-23",
+        "marketCap": 1738071200000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2021-12-22",
+        "marketCap": 1737766400000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2021-12-21",
+        "marketCap": 1731467199999
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2021-12-20",
+        "marketCap": 1697532800000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2021-12-17",
+        "marketCap": 1727403200000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2021-12-16",
+        "marketCap": 1715719200000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2021-12-15",
+        "marketCap": 1760931200000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2021-12-14",
+        "marketCap": 1717954400000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2021-12-13",
+        "marketCap": 1722831200000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2021-12-10",
+        "marketCap": 1749653600000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2021-12-09",
+        "marketCap": 1769567199999
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2021-12-08",
+        "marketCap": 1789785600000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2021-12-07",
+        "marketCap": 1789785600000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2021-12-06",
+        "marketCap": 1741119200000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2021-12-03",
+        "marketCap": 1722018400000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2021-12-02",
+        "marketCap": 1746199200000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2021-12-01",
+        "marketCap": 1749450400000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2021-11-30",
+        "marketCap": 1781556000000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2021-11-29",
+        "marketCap": 1809292800000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2021-11-26",
+        "marketCap": 1780336800000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2021-11-24",
+        "marketCap": 1818843200000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2021-11-23",
+        "marketCap": 1818640000000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2021-11-22",
+        "marketCap": 1814880800000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2021-11-19",
+        "marketCap": 1867712800000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2021-11-18",
+        "marketCap": 1877568000000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2021-11-17",
+        "marketCap": 1802892000000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2021-11-16",
+        "marketCap": 1798726400000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2021-11-15",
+        "marketCap": 1801164800000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2021-11-12",
+        "marketCap": 1790801600000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2021-11-11",
+        "marketCap": 1764080800000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2021-11-10",
+        "marketCap": 1768856000000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2021-11-09",
+        "marketCap": 1816709600000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2021-11-08",
+        "marketCap": 1772412000000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2021-11-05",
+        "marketCap": 1787652000000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2021-11-04",
+        "marketCap": 1766316000000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2021-11-03",
+        "marketCap": 1719072000000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2021-11-02",
+        "marketCap": 1682902399999
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2021-11-01",
+        "marketCap": 1685645600000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2021-10-29",
+        "marketCap": 1713179200000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2021-10-28",
+        "marketCap": 1750872800000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2021-10-27",
+        "marketCap": 1723339200000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2021-10-26",
+        "marketCap": 1715008000000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2021-10-25",
+        "marketCap": 1686763200000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2021-10-22",
+        "marketCap": 1694484800000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2021-10-21",
+        "marketCap": 1744980000000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2021-10-20",
+        "marketCap": 1734820000000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2021-10-19",
+        "marketCap": 1749653600000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2021-10-18",
+        "marketCap": 1750974400000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2021-10-15",
+        "marketCap": 1731772000000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2021-10-14",
+        "marketCap": 1676298400000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2021-10-13",
+        "marketCap": 1668373600000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2021-10-12",
+        "marketCap": 1649679200000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2021-10-11",
+        "marketCap": 1649171200000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2021-10-08",
+        "marketCap": 1670608800000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2021-10-07",
+        "marketCap": 1677619200000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2021-10-06",
+        "marketCap": 1657096000000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2021-10-05",
+        "marketCap": 1636268000000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2021-10-04",
+        "marketCap": 1620418400000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2021-10-01",
+        "marketCap": 1667865600000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2021-09-30",
+        "marketCap": 1668780000000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2021-09-29",
+        "marketCap": 1673708400000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2021-09-28",
+        "marketCap": 1681212000000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2021-09-27",
+        "marketCap": 1726740600000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2021-09-24",
+        "marketCap": 1736779200000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2021-09-23",
+        "marketCap": 1731912000000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2021-09-22",
+        "marketCap": 1713660000000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2021-09-21",
+        "marketCap": 1695205200000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2021-09-20",
+        "marketCap": 1701390600000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2021-09-17",
+        "marketCap": 1755538200000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2021-09-16",
+        "marketCap": 1768517400000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2021-09-15",
+        "marketCap": 1762230600000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2021-09-14",
+        "marketCap": 1749150000000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2021-09-13",
+        "marketCap": 1752800400000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2021-09-10",
+        "marketCap": 1758884400000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2021-09-09",
+        "marketCap": 1766489400000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2021-09-08",
+        "marketCap": 1787377800000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2021-09-07",
+        "marketCap": 1779164400000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2021-09-03",
+        "marketCap": 1763346000000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2021-09-02",
+        "marketCap": 1755842400000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2021-09-01",
+        "marketCap": 1763853000000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2021-08-31",
+        "marketCap": 1759695600000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2021-08-30",
+        "marketCap": 1734751200000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2021-08-27",
+        "marketCap": 1698247200000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2021-08-26",
+        "marketCap": 1681212000000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2021-08-25",
+        "marketCap": 1672694400000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2021-08-24",
+        "marketCap": 1676040600000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2021-08-23",
+        "marketCap": 1655760600000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2021-08-20",
+        "marketCap": 1622400000000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2021-08-19",
+        "marketCap": 1616214599999
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2021-08-18",
+        "marketCap": 1623008400000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2021-08-17",
+        "marketCap": 1643694000000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2021-08-16",
+        "marketCap": 1672593000000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2021-08-13",
+        "marketCap": 1670058000000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2021-08-12",
+        "marketCap": 1674925200000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2021-08-11",
+        "marketCap": 1669145400000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2021-08-10",
+        "marketCap": 1683544200000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2021-08-09",
+        "marketCap": 1694292600000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2021-08-06",
+        "marketCap": 1695915000000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2021-08-05",
+        "marketCap": 1711632000000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2021-08-04",
+        "marketCap": 1700883600000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2021-08-03",
+        "marketCap": 1706663400000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2021-08-02",
+        "marketCap": 1689019800000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2021-07-30",
+        "marketCap": 1687093200000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2021-07-29",
+        "marketCap": 1825200000000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2021-07-28",
+        "marketCap": 1840612800000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2021-07-27",
+        "marketCap": 1838584800000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2021-07-26",
+        "marketCap": 1875798600000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2021-07-23",
+        "marketCap": 1853896200000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2021-07-22",
+        "marketCap": 1844466000000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2021-07-21",
+        "marketCap": 1817696400000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2021-07-20",
+        "marketCap": 1811612400000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2021-07-19",
+        "marketCap": 1799647200000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2021-07-16",
+        "marketCap": 1811815200000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2021-07-15",
+        "marketCap": 1841018400000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2021-07-14",
+        "marketCap": 1866571200000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2021-07-13",
+        "marketCap": 1864441800000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2021-07-12",
+        "marketCap": 1885330200000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2021-07-09",
+        "marketCap": 1885735800000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2021-07-08",
+        "marketCap": 1891819800000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2021-07-07",
+        "marketCap": 1874176200000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2021-07-06",
+        "marketCap": 1863630600000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2021-07-02",
+        "marketCap": 1780077000000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2021-07-01",
+        "marketCap": 1740531000000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2021-06-30",
+        "marketCap": 1744181400000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2021-06-29",
+        "marketCap": 1741341000000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2021-06-28",
+        "marketCap": 1739119000000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2021-06-25",
+        "marketCap": 1717707000000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2021-06-24",
+        "marketCap": 1741745000000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2021-06-23",
+        "marketCap": 1769419000000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2021-06-22",
+        "marketCap": 1770227000000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2021-06-21",
+        "marketCap": 1744270000000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2021-06-18",
+        "marketCap": 1760935000000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2021-06-17",
+        "marketCap": 1762046000000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2021-06-16",
+        "marketCap": 1724676000000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2021-06-15",
+        "marketCap": 1708516000000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2021-06-14",
+        "marketCap": 1708819000000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2021-06-11",
+        "marketCap": 1690134000000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2021-06-10",
+        "marketCap": 1691548000000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2021-06-09",
+        "marketCap": 1657006000000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2021-06-08",
+        "marketCap": 1648421000000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2021-06-07",
+        "marketCap": 1614990000000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2021-06-04",
+        "marketCap": 1619131000000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2021-06-03",
+        "marketCap": 1609435000000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2021-06-02",
+        "marketCap": 1633170000000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2021-06-01",
+        "marketCap": 1625393000000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2021-05-28",
+        "marketCap": 1627615000000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2021-05-27",
+        "marketCap": 1631251000000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2021-05-26",
+        "marketCap": 1648926000000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2021-05-25",
+        "marketCap": 1645795000000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2021-05-24",
+        "marketCap": 1638725000000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2021-05-21",
+        "marketCap": 1617515000000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2021-05-20",
+        "marketCap": 1640038000000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2021-05-19",
+        "marketCap": 1632059000000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2021-05-18",
+        "marketCap": 1632261000000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2021-05-17",
+        "marketCap": 1651552000000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2021-05-14",
+        "marketCap": 1627615000000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2021-05-13",
+        "marketCap": 1596507000000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2021-05-12",
+        "marketCap": 1591760000000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2021-05-11",
+        "marketCap": 1628120000000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2021-05-10",
+        "marketCap": 1611152000000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2021-05-07",
+        "marketCap": 1662258000000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2021-05-06",
+        "marketCap": 1669732000000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2021-05-05",
+        "marketCap": 1651653000000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2021-05-04",
+        "marketCap": 1672459000000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2021-05-03",
+        "marketCap": 1710132000000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2021-04-30",
+        "marketCap": 1751037000000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2021-04-29",
+        "marketCap": 1753057000000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2021-04-28",
+        "marketCap": 1746593000000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2021-04-27",
+        "marketCap": 1725787000000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2021-04-26",
+        "marketCap": 1721545000000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2021-04-23",
+        "marketCap": 1687104000000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2021-04-22",
+        "marketCap": 1671045000000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2021-04-21",
+        "marketCap": 1697810000000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2021-04-20",
+        "marketCap": 1683973000000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2021-04-19",
+        "marketCap": 1702860000000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2021-04-16",
+        "marketCap": 1716697000000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2021-04-15",
+        "marketCap": 1706395000000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2021-04-14",
+        "marketCap": 1683165000000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2021-04-13",
+        "marketCap": 1717000000000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2021-04-12",
+        "marketCap": 1706597000000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2021-04-09",
+        "marketCap": 1702961000000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2021-04-08",
+        "marketCap": 1666096000000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2021-04-07",
+        "marketCap": 1656097000000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2021-04-06",
+        "marketCap": 1628019000000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2021-04-05",
+        "marketCap": 1629534000000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2021-04-01",
+        "marketCap": 1596305000000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2021-03-31",
+        "marketCap": 1562470000000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2021-03-30",
+        "marketCap": 1539820800000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2021-03-29",
+        "marketCap": 1550203200000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2021-03-26",
+        "marketCap": 1538208000000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2021-03-25",
+        "marketCap": 1535284800000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2021-03-24",
+        "marketCap": 1555848000000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2021-03-23",
+        "marketCap": 1581350400000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2021-03-22",
+        "marketCap": 1567843200000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2021-03-19",
+        "marketCap": 1549800000000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2021-03-18",
+        "marketCap": 1526112000000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2021-03-17",
+        "marketCap": 1580443200000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2021-03-16",
+        "marketCap": 1558267200000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2021-03-15",
+        "marketCap": 1553126400000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2021-03-12",
+        "marketCap": 1557057600000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2021-03-11",
+        "marketCap": 1569254400000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2021-03-10",
+        "marketCap": 1541030400000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2021-03-09",
+        "marketCap": 1543651199999
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2021-03-08",
+        "marketCap": 1487808000000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2021-03-05",
+        "marketCap": 1512201600000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2021-03-04",
+        "marketCap": 1500710400000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2021-03-03",
+        "marketCap": 1514520000000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2021-03-02",
+        "marketCap": 1559678400000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2021-03-01",
+        "marketCap": 1585684800000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2021-02-26",
+        "marketCap": 1558872000000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2021-02-25",
+        "marketCap": 1540828800000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2021-02-24",
+        "marketCap": 1592438400000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2021-02-23",
+        "marketCap": 1610078400000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2021-02-22",
+        "marketCap": 1603123200000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2021-02-19",
+        "marketCap": 1637899200000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2021-02-18",
+        "marketCap": 1677412800000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2021-02-17",
+        "marketCap": 1667534400000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2021-02-16",
+        "marketCap": 1647576000000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2021-02-12",
+        "marketCap": 1652011199999
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2021-02-11",
+        "marketCap": 1644148800000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2021-02-10",
+        "marketCap": 1656446400000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2021-02-09",
+        "marketCap": 1665720000000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2021-02-08",
+        "marketCap": 1674792000000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2021-02-05",
+        "marketCap": 1689508800000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2021-02-04",
+        "marketCap": 1678824000000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2021-02-03",
+        "marketCap": 1669550400000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2021-02-02",
+        "marketCap": 1703520000000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2021-02-01",
+        "marketCap": 1684771199999
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2021-01-29",
+        "marketCap": 1615924800000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2021-01-28",
+        "marketCap": 1631750400000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2021-01-27",
+        "marketCap": 1629230400000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2021-01-26",
+        "marketCap": 1676404800000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2021-01-25",
+        "marketCap": 1660176000000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2021-01-22",
+        "marketCap": 1659268800000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2021-01-21",
+        "marketCap": 1666728000000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2021-01-20",
+        "marketCap": 1644753599999
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2021-01-19",
+        "marketCap": 1572883200000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2021-01-15",
+        "marketCap": 1564516800000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2021-01-14",
+        "marketCap": 1576209600000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2021-01-13",
+        "marketCap": 1595563200000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2021-01-12",
+        "marketCap": 1572883200000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2021-01-11",
+        "marketCap": 1569556800000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2021-01-08",
+        "marketCap": 1604030400000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2021-01-07",
+        "marketCap": 1593748800000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2021-01-06",
+        "marketCap": 1581753599999
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2021-01-05",
+        "marketCap": 1622174400000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2021-01-04",
+        "marketCap": 1606046400000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2020-12-31",
+        "marketCap": 1641528000000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2020-12-30",
+        "marketCap": 1649471600000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2020-12-29",
+        "marketCap": 1667644000000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2020-12-28",
+        "marketCap": 1648568000000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2020-12-24",
+        "marketCap": 1592645200000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2020-12-23",
+        "marketCap": 1598970400000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2020-12-22",
+        "marketCap": 1609713200000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2020-12-21",
+        "marketCap": 1609512400000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2020-12-18",
+        "marketCap": 1607203200000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2020-12-17",
+        "marketCap": 1624472000000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2020-12-16",
+        "marketCap": 1626982000000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2020-12-15",
+        "marketCap": 1588930400000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2020-12-14",
+        "marketCap": 1584814000000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2020-12-11",
+        "marketCap": 1564432800000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2020-12-10",
+        "marketCap": 1556902800000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2020-12-09",
+        "marketCap": 1558308400000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2020-12-08",
+        "marketCap": 1594954400000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2020-12-07",
+        "marketCap": 1585316000000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2020-12-04",
+        "marketCap": 1587625200000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2020-12-03",
+        "marketCap": 1599773600000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2020-12-02",
+        "marketCap": 1608207200000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2020-12-01",
+        "marketCap": 1616440000000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2020-11-30",
+        "marketCap": 1590336000000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2020-11-27",
+        "marketCap": 1604090800000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2020-11-25",
+        "marketCap": 1598870000000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2020-11-24",
+        "marketCap": 1565236000000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2020-11-23",
+        "marketCap": 1555396799999
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2020-11-20",
+        "marketCap": 1555898800000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2020-11-19",
+        "marketCap": 1564734000000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2020-11-18",
+        "marketCap": 1558910800000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2020-11-17",
+        "marketCap": 1574071200000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2020-11-16",
+        "marketCap": 1571762000000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2020-11-13",
+        "marketCap": 1570657600000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2020-11-12",
+        "marketCap": 1561320400000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2020-11-11",
+        "marketCap": 1574974800000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2020-11-10",
+        "marketCap": 1523570000000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2020-11-09",
+        "marketCap": 1578187600000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2020-11-06",
+        "marketCap": 1662322800000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2020-11-05",
+        "marketCap": 1667644000000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2020-11-04",
+        "marketCap": 1627082400000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2020-11-03",
+        "marketCap": 1530296799999
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2020-11-02",
+        "marketCap": 1508208800000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2020-10-30",
+        "marketCap": 1524172400000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2020-10-29",
+        "marketCap": 1611922000000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2020-10-28",
+        "marketCap": 1587725599999
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2020-10-27",
+        "marketCap": 1649772800000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2020-10-26",
+        "marketCap": 1609914000000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2020-10-23",
+        "marketCap": 1608608800000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2020-10-22",
+        "marketCap": 1594552800000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2020-10-21",
+        "marketCap": 1598870000000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2020-10-20",
+        "marketCap": 1614934000000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2020-10-19",
+        "marketCap": 1610014400000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2020-10-16",
+        "marketCap": 1642945599999
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2020-10-15",
+        "marketCap": 1675977200000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2020-10-14",
+        "marketCap": 1688627600000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2020-10-13",
+        "marketCap": 1728687200000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2020-10-12",
+        "marketCap": 1728386000000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2020-10-09",
+        "marketCap": 1649873200000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2020-10-08",
+        "marketCap": 1601681200000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2020-10-07",
+        "marketCap": 1604191200000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2020-10-06",
+        "marketCap": 1556200000000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2020-10-05",
+        "marketCap": 1605998400000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2020-10-02",
+        "marketCap": 1568750000000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2020-10-01",
+        "marketCap": 1617042400000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2020-09-30",
+        "marketCap": 1580697600000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2020-09-29",
+        "marketCap": 1575544800000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2020-09-28",
+        "marketCap": 1590174000000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2020-09-25",
+        "marketCap": 1550695200000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2020-09-24",
+        "marketCap": 1512919800000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2020-09-23",
+        "marketCap": 1502899800000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2020-09-22",
+        "marketCap": 1567629000000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2020-09-21",
+        "marketCap": 1483160400000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2020-09-18",
+        "marketCap": 1480455000000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2020-09-17",
+        "marketCap": 1507408800000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2020-09-16",
+        "marketCap": 1542078000000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2020-09-15",
+        "marketCap": 1581256200000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2020-09-14",
+        "marketCap": 1554603000000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2020-09-11",
+        "marketCap": 1561216200000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2020-09-10",
+        "marketCap": 1590775200000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2020-09-09",
+        "marketCap": 1637568600000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2020-09-08",
+        "marketCap": 1578049800000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2020-09-04",
+        "marketCap": 1650594600000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2020-09-03",
+        "marketCap": 1687368000000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2020-09-02",
+        "marketCap": 1769231400000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2020-09-01",
+        "marketCap": 1753099200000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2020-08-31",
+        "marketCap": 1728951000000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2020-08-28",
+        "marketCap": 1704301800000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2020-08-27",
+        "marketCap": 1703400000000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2020-08-26",
+        "marketCap": 1724341800000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2020-08-25",
+        "marketCap": 1676546400000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2020-08-24",
+        "marketCap": 1657007400000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2020-08-21",
+        "marketCap": 1645684800000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2020-08-20",
+        "marketCap": 1651997400000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2020-08-19",
+        "marketCap": 1633460400000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2020-08-18",
+        "marketCap": 1659512400000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2020-08-17",
+        "marketCap": 1594382400000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2020-08-14",
+        "marketCap": 1577148000000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2020-08-13",
+        "marketCap": 1583661000000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2020-08-12",
+        "marketCap": 1584262200000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2020-08-11",
+        "marketCap": 1543380600000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2020-08-10",
+        "marketCap": 1577248200000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2020-08-07",
+        "marketCap": 1586867400000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2020-08-06",
+        "marketCap": 1615725000000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2020-08-05",
+        "marketCap": 1605705000000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2020-08-04",
+        "marketCap": 1572538800000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2020-08-03",
+        "marketCap": 1559011800000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2020-07-31",
+        "marketCap": 1585464600000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2020-07-30",
+        "marketCap": 1528951800000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2020-07-29",
+        "marketCap": 1519833600000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2020-07-28",
+        "marketCap": 1503200400000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2020-07-27",
+        "marketCap": 1530655200000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2020-07-24",
+        "marketCap": 1507509000000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2020-07-23",
+        "marketCap": 1496286600000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2020-07-22",
+        "marketCap": 1553100000000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2020-07-21",
+        "marketCap": 1572238200000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2020-07-20",
+        "marketCap": 1601596800000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2020-07-17",
+        "marketCap": 1483962000000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2020-07-16",
+        "marketCap": 1502899800000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2020-07-15",
+        "marketCap": 1507408800000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2020-07-14",
+        "marketCap": 1545084000000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2020-07-13",
+        "marketCap": 1555104000000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2020-07-10",
+        "marketCap": 1603200000000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2020-07-09",
+        "marketCap": 1594482600000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2020-07-08",
+        "marketCap": 1543681200000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2020-07-07",
+        "marketCap": 1503100200000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2020-07-06",
+        "marketCap": 1531557000000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2020-07-02",
+        "marketCap": 1447990200000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2020-07-01",
+        "marketCap": 1442178600000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2020-06-30",
+        "marketCap": 1382158800000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2020-06-29",
+        "marketCap": 1340200000000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2020-06-26",
+        "marketCap": 1346399999999
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2020-06-25",
+        "marketCap": 1377300000000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2020-06-24",
+        "marketCap": 1367200000000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2020-06-23",
+        "marketCap": 1382200000000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2020-06-22",
+        "marketCap": 1356900000000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2020-06-19",
+        "marketCap": 1337500000000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2020-06-18",
+        "marketCap": 1327000000000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2020-06-17",
+        "marketCap": 1320500000000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2020-06-16",
+        "marketCap": 1307600000000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2020-06-15",
+        "marketCap": 1286300000000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2020-06-12",
+        "marketCap": 1272500000000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2020-06-11",
+        "marketCap": 1279000000000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2020-06-10",
+        "marketCap": 1323700000000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2020-06-09",
+        "marketCap": 1300400000000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2020-06-08",
+        "marketCap": 1262000000000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2020-06-05",
+        "marketCap": 1241500000000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2020-06-04",
+        "marketCap": 1230300000000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2020-06-03",
+        "marketCap": 1239200000000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2020-06-02",
+        "marketCap": 1236200000000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2020-06-01",
+        "marketCap": 1235500000000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2020-05-29",
+        "marketCap": 1221200000000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2020-05-28",
+        "marketCap": 1200600000000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2020-05-27",
+        "marketCap": 1205200000000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2020-05-26",
+        "marketCap": 1210900000000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2020-05-22",
+        "marketCap": 1218400000000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2020-05-21",
+        "marketCap": 1223400000000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2020-05-20",
+        "marketCap": 1249000000000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2020-05-19",
+        "marketCap": 1224700000000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2020-05-18",
+        "marketCap": 1213100000000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2020-05-15",
+        "marketCap": 1204900000000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2020-05-14",
+        "marketCap": 1194400000000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2020-05-13",
+        "marketCap": 1184000000000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2020-05-12",
+        "marketCap": 1178500000000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2020-05-11",
+        "marketCap": 1204500000000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2020-05-08",
+        "marketCap": 1189800000000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2020-05-07",
+        "marketCap": 1183800000000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2020-05-06",
+        "marketCap": 1175600000000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2020-05-05",
+        "marketCap": 1158900000000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2020-05-04",
+        "marketCap": 1158000000000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2020-05-01",
+        "marketCap": 1143000000000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2020-04-30",
+        "marketCap": 1237000000000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2020-04-29",
+        "marketCap": 1186400000000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2020-04-28",
+        "marketCap": 1157000000000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2020-04-27",
+        "marketCap": 1188000000000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2020-04-24",
+        "marketCap": 1205100000000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2020-04-23",
+        "marketCap": 1199700000000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2020-04-22",
+        "marketCap": 1181700000000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2020-04-21",
+        "marketCap": 1164100000000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2020-04-20",
+        "marketCap": 1196800000000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2020-04-17",
+        "marketCap": 1187500000000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2020-04-16",
+        "marketCap": 1204100000000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2020-04-15",
+        "marketCap": 1153800000000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2020-04-14",
+        "marketCap": 1141700000000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2020-04-13",
+        "marketCap": 1084400000000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2020-04-09",
+        "marketCap": 1021400000000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2020-04-08",
+        "marketCap": 1021500000000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2020-04-07",
+        "marketCap": 1005800000000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2020-04-06",
+        "marketCap": 998800000000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2020-04-03",
+        "marketCap": 953300000000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2020-04-02",
+        "marketCap": 959400000000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2020-04-01",
+        "marketCap": 953900000000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2020-03-31",
+        "marketCap": 974900000000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2020-03-30",
+        "marketCap": 978072000000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2020-03-27",
+        "marketCap": 946200000000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2020-03-26",
+        "marketCap": 973789200000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2020-03-25",
+        "marketCap": 939128400000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2020-03-24",
+        "marketCap": 966120000000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2020-03-23",
+        "marketCap": 947594400000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2020-03-20",
+        "marketCap": 919308000000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2020-03-19",
+        "marketCap": 936738000000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2020-03-18",
+        "marketCap": 911340000000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2020-03-17",
+        "marketCap": 900284400000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2020-03-16",
+        "marketCap": 841221599999
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2020-03-13",
+        "marketCap": 888930000000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2020-03-12",
+        "marketCap": 834946800000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2020-03-11",
+        "marketCap": 906758400000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2020-03-10",
+        "marketCap": 942116400000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2020-03-09",
+        "marketCap": 896698800000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2020-03-06",
+        "marketCap": 946698000000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2020-03-05",
+        "marketCap": 958152000000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2020-03-04",
+        "marketCap": 983948400000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2020-03-03",
+        "marketCap": 950682000000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2020-03-02",
+        "marketCap": 973092000000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2020-02-28",
+        "marketCap": 938132400000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2020-02-27",
+        "marketCap": 938331599999
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2020-02-26",
+        "marketCap": 985840800000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2020-02-25",
+        "marketCap": 982454400000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2020-02-24",
+        "marketCap": 1000581599999
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2020-02-21",
+        "marketCap": 1043808000000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2020-02-20",
+        "marketCap": 1072194000000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2020-02-19",
+        "marketCap": 1080759600000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2020-02-18",
+        "marketCap": 1073488800000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2020-02-14",
+        "marketCap": 1063130400000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2020-02-13",
+        "marketCap": 1070600400000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2020-02-12",
+        "marketCap": 1075680000000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2020-02-11",
+        "marketCap": 1071098400000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2020-02-10",
+        "marketCap": 1062732000000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2020-02-07",
+        "marketCap": 1035441599999
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2020-02-06",
+        "marketCap": 1020999600000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2020-02-05",
+        "marketCap": 1015820400000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2020-02-04",
+        "marketCap": 1020700800000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2020-02-03",
+        "marketCap": 998091599999
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2020-01-31",
+        "marketCap": 1000382400000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2020-01-30",
+        "marketCap": 931558800000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2020-01-29",
+        "marketCap": 925284000000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2020-01-28",
+        "marketCap": 922893600000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2020-01-27",
+        "marketCap": 910543200000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2020-01-24",
+        "marketCap": 927076800000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2020-01-23",
+        "marketCap": 938530800000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2020-01-22",
+        "marketCap": 939925200000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2020-01-21",
+        "marketCap": 942216000000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2020-01-17",
+        "marketCap": 928670400000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2020-01-16",
+        "marketCap": 935244000000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2020-01-15",
+        "marketCap": 927276000000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2020-01-14",
+        "marketCap": 930961200000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2020-01-13",
+        "marketCap": 941917199999
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2020-01-10",
+        "marketCap": 937833600000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2020-01-09",
+        "marketCap": 946698000000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2020-01-08",
+        "marketCap": 942216000000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2020-01-07",
+        "marketCap": 949586400000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2020-01-06",
+        "marketCap": 947594400000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2020-01-03",
+        "marketCap": 933750000000
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2020-01-02",
+        "marketCap": 945204000000
+    }
+]

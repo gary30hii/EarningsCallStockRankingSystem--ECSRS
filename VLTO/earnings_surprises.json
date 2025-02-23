@@ -1,0 +1,32 @@
+[
+    {
+        "date": "2024-10-23",
+        "symbol": "VLTO",
+        "actualEarningResult": 0.89,
+        "estimatedEarning": 0.85
+    },
+    {
+        "date": "2024-07-25",
+        "symbol": "VLTO",
+        "actualEarningResult": 0.85,
+        "estimatedEarning": 0.8
+    },
+    {
+        "date": "2024-04-23",
+        "symbol": "VLTO",
+        "actualEarningResult": 0.84,
+        "estimatedEarning": 0.76
+    },
+    {
+        "date": "2024-02-06",
+        "symbol": "VLTO",
+        "actualEarningResult": 0.87,
+        "estimatedEarning": 0.81
+    },
+    {
+        "date": "2023-10-25",
+        "symbol": "VLTO",
+        "actualEarningResult": 0.75,
+        "estimatedEarning": 0.7
+    }
+]

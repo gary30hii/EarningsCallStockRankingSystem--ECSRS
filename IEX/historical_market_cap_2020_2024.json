@@ -1,0 +1,6292 @@
+[
+    {
+        "symbol": "IEX",
+        "date": "2024-12-31",
+        "marketCap": 15843253000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2024-12-30",
+        "marketCap": 15808431000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2024-12-27",
+        "marketCap": 15981027000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2024-12-26",
+        "marketCap": 16122586000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2024-12-24",
+        "marketCap": 16069596000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2024-12-23",
+        "marketCap": 15954532000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2024-12-20",
+        "marketCap": 16077166000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2024-12-19",
+        "marketCap": 15916682000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2024-12-18",
+        "marketCap": 16021905000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2024-12-17",
+        "marketCap": 16819783000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2024-12-16",
+        "marketCap": 16962856000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2024-12-13",
+        "marketCap": 16881100000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2024-12-12",
+        "marketCap": 17030986000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2024-12-11",
+        "marketCap": 17272469000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2024-12-10",
+        "marketCap": 17255815000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2024-12-09",
+        "marketCap": 17384505000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2024-12-06",
+        "marketCap": 17389047000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2024-12-05",
+        "marketCap": 17293665000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2024-12-04",
+        "marketCap": 17249759000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2024-12-03",
+        "marketCap": 17448850000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2024-12-02",
+        "marketCap": 17548017000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2024-11-29",
+        "marketCap": 17458691000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2024-11-27",
+        "marketCap": 17494270000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2024-11-26",
+        "marketCap": 17563914000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2024-11-25",
+        "marketCap": 17869742000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2024-11-22",
+        "marketCap": 17600250000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2024-11-21",
+        "marketCap": 17217965000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2024-11-20",
+        "marketCap": 16889427000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2024-11-19",
+        "marketCap": 16927277000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2024-11-18",
+        "marketCap": 17158162000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2024-11-15",
+        "marketCap": 17246731000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2024-11-14",
+        "marketCap": 17364823000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2024-11-13",
+        "marketCap": 17486700000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2024-11-12",
+        "marketCap": 17257329000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2024-11-11",
+        "marketCap": 17361038000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2024-11-08",
+        "marketCap": 17298207000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2024-11-07",
+        "marketCap": 17327730000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2024-11-06",
+        "marketCap": 17781930000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2024-11-05",
+        "marketCap": 17010547000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2024-11-04",
+        "marketCap": 16578300000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2024-11-01",
+        "marketCap": 16354985000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2024-10-31",
+        "marketCap": 16248247999
+    },
+    {
+        "symbol": "IEX",
+        "date": "2024-10-30",
+        "marketCap": 16551047999
+    },
+    {
+        "symbol": "IEX",
+        "date": "2024-10-29",
+        "marketCap": 15433716000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2024-10-28",
+        "marketCap": 15506388000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2024-10-25",
+        "marketCap": 15353474000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2024-10-24",
+        "marketCap": 15403436000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2024-10-23",
+        "marketCap": 15507902000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2024-10-22",
+        "marketCap": 15737272999
+    },
+    {
+        "symbol": "IEX",
+        "date": "2024-10-21",
+        "marketCap": 15843253000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2024-10-18",
+        "marketCap": 15937121000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2024-10-17",
+        "marketCap": 15887916000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2024-10-16",
+        "marketCap": 15942420000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2024-10-15",
+        "marketCap": 16027204000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2024-10-14",
+        "marketCap": 16147567000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2024-10-11",
+        "marketCap": 16009793000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2024-10-10",
+        "marketCap": 15779665000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2024-10-09",
+        "marketCap": 15725918000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2024-10-08",
+        "marketCap": 15776637000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2024-10-07",
+        "marketCap": 15789506000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2024-10-04",
+        "marketCap": 15980270000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2024-10-03",
+        "marketCap": 15961345000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2024-10-02",
+        "marketCap": 15996924000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2024-10-01",
+        "marketCap": 16088521000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2024-09-30",
+        "marketCap": 16237650000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2024-09-27",
+        "marketCap": 16273986000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2024-09-26",
+        "marketCap": 16155137000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2024-09-25",
+        "marketCap": 15824328000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2024-09-24",
+        "marketCap": 16084736000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2024-09-23",
+        "marketCap": 15897000000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2024-09-20",
+        "marketCap": 15800861000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2024-09-19",
+        "marketCap": 15934850000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2024-09-18",
+        "marketCap": 15563920000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2024-09-17",
+        "marketCap": 15495033000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2024-09-16",
+        "marketCap": 15342876000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2024-09-13",
+        "marketCap": 15123346000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2024-09-12",
+        "marketCap": 14996927000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2024-09-11",
+        "marketCap": 14922741000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2024-09-10",
+        "marketCap": 14954535000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2024-09-09",
+        "marketCap": 14925769000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2024-09-06",
+        "marketCap": 14772097999
+    },
+    {
+        "symbol": "IEX",
+        "date": "2024-09-05",
+        "marketCap": 14895489000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2024-09-04",
+        "marketCap": 15169522999
+    },
+    {
+        "symbol": "IEX",
+        "date": "2024-09-03",
+        "marketCap": 15358772999
+    },
+    {
+        "symbol": "IEX",
+        "date": "2024-08-30",
+        "marketCap": 15630536000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2024-08-29",
+        "marketCap": 15532126000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2024-08-28",
+        "marketCap": 15380726000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2024-08-27",
+        "marketCap": 15411763000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2024-08-26",
+        "marketCap": 15439772000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2024-08-23",
+        "marketCap": 15435230000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2024-08-22",
+        "marketCap": 15099879000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2024-08-21",
+        "marketCap": 15248251000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2024-08-20",
+        "marketCap": 15065814000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2024-08-19",
+        "marketCap": 15077926000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2024-08-16",
+        "marketCap": 14881106000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2024-08-15",
+        "marketCap": 14779668000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2024-08-14",
+        "marketCap": 14633567000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2024-08-13",
+        "marketCap": 14728949000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2024-08-12",
+        "marketCap": 14481410000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2024-08-09",
+        "marketCap": 14711538000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2024-08-08",
+        "marketCap": 14750902000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2024-08-07",
+        "marketCap": 14425392000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2024-08-06",
+        "marketCap": 14543484000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2024-08-05",
+        "marketCap": 14550297000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2024-08-02",
+        "marketCap": 14694884000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2024-08-01",
+        "marketCap": 14859153000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2024-07-31",
+        "marketCap": 15781936000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2024-07-30",
+        "marketCap": 15750899000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2024-07-29",
+        "marketCap": 15610854000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2024-07-26",
+        "marketCap": 15629022000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2024-07-25",
+        "marketCap": 15373156000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2024-07-24",
+        "marketCap": 15042347000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2024-07-23",
+        "marketCap": 15435230000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2024-07-22",
+        "marketCap": 15535154000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2024-07-19",
+        "marketCap": 15364829000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2024-07-18",
+        "marketCap": 15609340000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2024-07-17",
+        "marketCap": 15934850000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2024-07-16",
+        "marketCap": 15958317000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2024-07-15",
+        "marketCap": 15646433000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2024-07-12",
+        "marketCap": 15477622000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2024-07-11",
+        "marketCap": 15403436000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2024-07-10",
+        "marketCap": 15021908000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2024-07-09",
+        "marketCap": 14779668000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2024-07-08",
+        "marketCap": 14809947999
+    },
+    {
+        "symbol": "IEX",
+        "date": "2024-07-05",
+        "marketCap": 14738033000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2024-07-03",
+        "marketCap": 14772097999
+    },
+    {
+        "symbol": "IEX",
+        "date": "2024-07-02",
+        "marketCap": 14868237000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2024-07-01",
+        "marketCap": 14828872999
+    },
+    {
+        "symbol": "IEX",
+        "date": "2024-06-28",
+        "marketCap": 15230840000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2024-06-27",
+        "marketCap": 15151355000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2024-06-26",
+        "marketCap": 15073384000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2024-06-25",
+        "marketCap": 15139243000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2024-06-24",
+        "marketCap": 15480650000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2024-06-21",
+        "marketCap": 15344390000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2024-06-20",
+        "marketCap": 15379969000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2024-06-18",
+        "marketCap": 15317895000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2024-06-17",
+        "marketCap": 15161953000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2024-06-14",
+        "marketCap": 15006011000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2024-06-13",
+        "marketCap": 15361044000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2024-06-12",
+        "marketCap": 15578303000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2024-06-11",
+        "marketCap": 15432959000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2024-06-10",
+        "marketCap": 15360287000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2024-06-07",
+        "marketCap": 15275503000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2024-06-06",
+        "marketCap": 15397380000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2024-06-05",
+        "marketCap": 15710778000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2024-06-04",
+        "marketCap": 15601770000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2024-06-03",
+        "marketCap": 15602527000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2024-05-31",
+        "marketCap": 15794047999
+    },
+    {
+        "symbol": "IEX",
+        "date": "2024-05-30",
+        "marketCap": 15533640000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2024-05-29",
+        "marketCap": 15693367000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2024-05-28",
+        "marketCap": 15990868000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2024-05-24",
+        "marketCap": 16286855000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2024-05-23",
+        "marketCap": 16316378000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2024-05-22",
+        "marketCap": 16501843000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2024-05-21",
+        "marketCap": 16435984000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2024-05-20",
+        "marketCap": 16638103000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2024-05-17",
+        "marketCap": 16830381000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2024-05-16",
+        "marketCap": 16823568000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2024-05-15",
+        "marketCap": 16971940000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2024-05-14",
+        "marketCap": 17006762000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2024-05-13",
+        "marketCap": 17064294000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2024-05-10",
+        "marketCap": 17120312000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2024-05-09",
+        "marketCap": 16861418000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2024-05-08",
+        "marketCap": 16810699000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2024-05-07",
+        "marketCap": 16786475000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2024-05-06",
+        "marketCap": 16816755000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2024-05-03",
+        "marketCap": 16685794000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2024-05-02",
+        "marketCap": 16701691000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2024-05-01",
+        "marketCap": 16758466000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2024-04-30",
+        "marketCap": 16688822000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2024-04-29",
+        "marketCap": 16947716000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2024-04-26",
+        "marketCap": 16703962000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2024-04-25",
+        "marketCap": 16902296000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2024-04-24",
+        "marketCap": 17005247999
+    },
+    {
+        "symbol": "IEX",
+        "date": "2024-04-23",
+        "marketCap": 17582839000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2024-04-22",
+        "marketCap": 17402673000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2024-04-19",
+        "marketCap": 17186928000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2024-04-18",
+        "marketCap": 17115770000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2024-04-17",
+        "marketCap": 17171031000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2024-04-16",
+        "marketCap": 17354225000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2024-04-15",
+        "marketCap": 17448093000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2024-04-12",
+        "marketCap": 17613119000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2024-04-11",
+        "marketCap": 17884125000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2024-04-10",
+        "marketCap": 17894723000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2024-04-09",
+        "marketCap": 18287606000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2024-04-08",
+        "marketCap": 18083973000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2024-04-05",
+        "marketCap": 18121066000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2024-04-04",
+        "marketCap": 17925003000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2024-04-03",
+        "marketCap": 18114253000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2024-04-02",
+        "marketCap": 18136206000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2024-04-01",
+        "marketCap": 18233859000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2024-03-28",
+        "marketCap": 18472314000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2024-03-27",
+        "marketCap": 18553313000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2024-03-26",
+        "marketCap": 18326213000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2024-03-25",
+        "marketCap": 18317129000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2024-03-22",
+        "marketCap": 18460959000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2024-03-21",
+        "marketCap": 18612359000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2024-03-20",
+        "marketCap": 18235373000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2024-03-19",
+        "marketCap": 18170271000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2024-03-18",
+        "marketCap": 18210392000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2024-03-15",
+        "marketCap": 18165729000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2024-03-14",
+        "marketCap": 18270195000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2024-03-13",
+        "marketCap": 18229317000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2024-03-12",
+        "marketCap": 18225532000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2024-03-11",
+        "marketCap": 18096842000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2024-03-08",
+        "marketCap": 18061263000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2024-03-07",
+        "marketCap": 18071861000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2024-03-06",
+        "marketCap": 17947713000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2024-03-05",
+        "marketCap": 17815238000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2024-03-04",
+        "marketCap": 17987834000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2024-03-01",
+        "marketCap": 18127879000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2024-02-29",
+        "marketCap": 17857630000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2024-02-28",
+        "marketCap": 17916676000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2024-02-27",
+        "marketCap": 17868985000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2024-02-26",
+        "marketCap": 17869742000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2024-02-23",
+        "marketCap": 17944685000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2024-02-22",
+        "marketCap": 17799341000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2024-02-21",
+        "marketCap": 17670651000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2024-02-20",
+        "marketCap": 17437495000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2024-02-16",
+        "marketCap": 17219479000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2024-02-15",
+        "marketCap": 17235376000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2024-02-14",
+        "marketCap": 17185414000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2024-02-13",
+        "marketCap": 16977239000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2024-02-12",
+        "marketCap": 17181629000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2024-02-09",
+        "marketCap": 17274740000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2024-02-08",
+        "marketCap": 17095331000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2024-02-07",
+        "marketCap": 16837194000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2024-02-06",
+        "marketCap": 16569972999
+    },
+    {
+        "symbol": "IEX",
+        "date": "2024-02-05",
+        "marketCap": 16519254000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2024-02-02",
+        "marketCap": 16708504000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2024-02-01",
+        "marketCap": 16667626000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2024-01-31",
+        "marketCap": 16010550000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2024-01-30",
+        "marketCap": 16174819000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2024-01-29",
+        "marketCap": 16059755000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2024-01-26",
+        "marketCap": 15832655000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2024-01-25",
+        "marketCap": 15728946000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2024-01-24",
+        "marketCap": 15570733000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2024-01-23",
+        "marketCap": 15837954000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2024-01-22",
+        "marketCap": 15703208000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2024-01-19",
+        "marketCap": 15672928000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2024-01-18",
+        "marketCap": 15543481000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2024-01-17",
+        "marketCap": 15521528000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2024-01-16",
+        "marketCap": 15576789000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2024-01-12",
+        "marketCap": 15663087000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2024-01-11",
+        "marketCap": 15789506000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2024-01-10",
+        "marketCap": 15868234000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2024-01-09",
+        "marketCap": 15895486000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2024-01-08",
+        "marketCap": 15959074000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2024-01-05",
+        "marketCap": 15986326000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2024-01-04",
+        "marketCap": 15986326000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2024-01-03",
+        "marketCap": 16069596000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2024-01-02",
+        "marketCap": 16279285000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2023-12-29",
+        "marketCap": 16413516000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2023-12-28",
+        "marketCap": 16409736000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2023-12-27",
+        "marketCap": 16313724000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2023-12-26",
+        "marketCap": 16237368000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2023-12-22",
+        "marketCap": 16207128000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2023-12-21",
+        "marketCap": 16186716000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2023-12-20",
+        "marketCap": 16039296000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2023-12-19",
+        "marketCap": 16136064000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2023-12-18",
+        "marketCap": 16021908000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2023-12-15",
+        "marketCap": 15978060000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2023-12-14",
+        "marketCap": 16248708000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2023-12-13",
+        "marketCap": 15788304000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2023-12-12",
+        "marketCap": 15691536000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2023-12-11",
+        "marketCap": 15715728000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2023-12-08",
+        "marketCap": 15485904000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2023-12-07",
+        "marketCap": 15543360000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2023-12-06",
+        "marketCap": 15467004000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2023-12-05",
+        "marketCap": 15240204000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2023-12-04",
+        "marketCap": 15437520000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2023-12-01",
+        "marketCap": 15349824000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2023-11-30",
+        "marketCap": 15247008000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2023-11-29",
+        "marketCap": 14991480000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2023-11-28",
+        "marketCap": 14863716000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2023-11-27",
+        "marketCap": 15014160000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2023-11-24",
+        "marketCap": 15060276000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2023-11-22",
+        "marketCap": 14912100000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2023-11-21",
+        "marketCap": 15013404000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2023-11-20",
+        "marketCap": 14796432000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2023-11-17",
+        "marketCap": 14969556000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2023-11-16",
+        "marketCap": 14937804000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2023-11-15",
+        "marketCap": 15050448000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2023-11-14",
+        "marketCap": 14974092000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2023-11-13",
+        "marketCap": 14537124000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2023-11-10",
+        "marketCap": 14494032000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2023-11-09",
+        "marketCap": 14382900000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2023-11-08",
+        "marketCap": 14540148000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2023-11-07",
+        "marketCap": 14483448000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2023-11-06",
+        "marketCap": 14627844000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2023-11-03",
+        "marketCap": 14754852000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2023-11-02",
+        "marketCap": 14635404000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2023-11-01",
+        "marketCap": 14240016000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2023-10-31",
+        "marketCap": 14470596000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2023-10-30",
+        "marketCap": 14404068000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2023-10-27",
+        "marketCap": 14433552000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2023-10-26",
+        "marketCap": 14606676000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2023-10-25",
+        "marketCap": 14137200000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2023-10-24",
+        "marketCap": 14571144000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2023-10-23",
+        "marketCap": 14577948000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2023-10-20",
+        "marketCap": 14570388000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2023-10-19",
+        "marketCap": 14787360000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2023-10-18",
+        "marketCap": 14887908000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2023-10-17",
+        "marketCap": 15361164000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2023-10-16",
+        "marketCap": 15320340000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2023-10-13",
+        "marketCap": 15168383999
+    },
+    {
+        "symbol": "IEX",
+        "date": "2023-10-12",
+        "marketCap": 15544872000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2023-10-11",
+        "marketCap": 15802668000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2023-10-10",
+        "marketCap": 15746724000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2023-10-09",
+        "marketCap": 15736140000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2023-10-06",
+        "marketCap": 15572088000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2023-10-05",
+        "marketCap": 15508583999
+    },
+    {
+        "symbol": "IEX",
+        "date": "2023-10-04",
+        "marketCap": 15758064000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2023-10-03",
+        "marketCap": 15644664000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2023-10-02",
+        "marketCap": 15632568000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2023-09-29",
+        "marketCap": 15726312000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2023-09-28",
+        "marketCap": 15804936000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2023-09-27",
+        "marketCap": 15682464000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2023-09-26",
+        "marketCap": 15408036000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2023-09-25",
+        "marketCap": 15705144000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2023-09-22",
+        "marketCap": 15659028000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2023-09-21",
+        "marketCap": 15633324000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2023-09-20",
+        "marketCap": 15871464000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2023-09-19",
+        "marketCap": 15944796000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2023-09-18",
+        "marketCap": 16054416000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2023-09-15",
+        "marketCap": 16196544000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2023-09-14",
+        "marketCap": 16352280000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2023-09-13",
+        "marketCap": 16270632000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2023-09-12",
+        "marketCap": 16170840000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2023-09-11",
+        "marketCap": 16254000000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2023-09-08",
+        "marketCap": 16336404000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2023-09-07",
+        "marketCap": 16518600000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2023-09-06",
+        "marketCap": 16846704000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2023-09-05",
+        "marketCap": 16842168000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2023-09-01",
+        "marketCap": 17257968000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2023-08-31",
+        "marketCap": 17115840000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2023-08-30",
+        "marketCap": 17291988000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2023-08-29",
+        "marketCap": 17216388000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2023-08-28",
+        "marketCap": 17156664000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2023-08-25",
+        "marketCap": 17096183999
+    },
+    {
+        "symbol": "IEX",
+        "date": "2023-08-24",
+        "marketCap": 16835364000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2023-08-23",
+        "marketCap": 16910208000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2023-08-22",
+        "marketCap": 16754472000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2023-08-21",
+        "marketCap": 16724232000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2023-08-18",
+        "marketCap": 16588152000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2023-08-17",
+        "marketCap": 16548840000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2023-08-16",
+        "marketCap": 16588152000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2023-08-15",
+        "marketCap": 16676604000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2023-08-14",
+        "marketCap": 16839144000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2023-08-11",
+        "marketCap": 16889796000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2023-08-10",
+        "marketCap": 16743888000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2023-08-09",
+        "marketCap": 16845948000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2023-08-08",
+        "marketCap": 16926840000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2023-08-07",
+        "marketCap": 16922304000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2023-08-04",
+        "marketCap": 16699283999
+    },
+    {
+        "symbol": "IEX",
+        "date": "2023-08-03",
+        "marketCap": 16787736000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2023-08-02",
+        "marketCap": 16587396000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2023-08-01",
+        "marketCap": 16772616000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2023-07-31",
+        "marketCap": 17071236000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2023-07-28",
+        "marketCap": 16801344000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2023-07-27",
+        "marketCap": 16542792000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2023-07-26",
+        "marketCap": 16025688000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2023-07-25",
+        "marketCap": 15912288000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2023-07-24",
+        "marketCap": 16242660000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2023-07-21",
+        "marketCap": 16075583999
+    },
+    {
+        "symbol": "IEX",
+        "date": "2023-07-20",
+        "marketCap": 16005276000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2023-07-19",
+        "marketCap": 15965208000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2023-07-18",
+        "marketCap": 15864660000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2023-07-17",
+        "marketCap": 15921360000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2023-07-14",
+        "marketCap": 15845004000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2023-07-13",
+        "marketCap": 16074072000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2023-07-12",
+        "marketCap": 16296336000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2023-07-11",
+        "marketCap": 16364376000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2023-07-10",
+        "marketCap": 16402932000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2023-07-07",
+        "marketCap": 15874488000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2023-07-06",
+        "marketCap": 15885072000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2023-07-05",
+        "marketCap": 15941772000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2023-07-03",
+        "marketCap": 16089948000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2023-06-30",
+        "marketCap": 16273656000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2023-06-29",
+        "marketCap": 16142868000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2023-06-28",
+        "marketCap": 15874488000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2023-06-27",
+        "marketCap": 15932700000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2023-06-26",
+        "marketCap": 15568308000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2023-06-23",
+        "marketCap": 15349824000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2023-06-22",
+        "marketCap": 15393672000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2023-06-21",
+        "marketCap": 15624252000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2023-06-20",
+        "marketCap": 15508583999
+    },
+    {
+        "symbol": "IEX",
+        "date": "2023-06-16",
+        "marketCap": 15857100000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2023-06-15",
+        "marketCap": 15906240000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2023-06-14",
+        "marketCap": 15714216000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2023-06-13",
+        "marketCap": 15787548000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2023-06-12",
+        "marketCap": 15649200000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2023-06-09",
+        "marketCap": 15638616000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2023-06-08",
+        "marketCap": 15682464000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2023-06-07",
+        "marketCap": 15739164000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2023-06-06",
+        "marketCap": 15538824000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2023-06-05",
+        "marketCap": 15527483999
+    },
+    {
+        "symbol": "IEX",
+        "date": "2023-06-02",
+        "marketCap": 15807960000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2023-06-01",
+        "marketCap": 15219792000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2023-05-31",
+        "marketCap": 15056496000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2023-05-30",
+        "marketCap": 15330924000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2023-05-26",
+        "marketCap": 15383088000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2023-05-25",
+        "marketCap": 15255324000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2023-05-24",
+        "marketCap": 15132096000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2023-05-23",
+        "marketCap": 15466248000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2023-05-22",
+        "marketCap": 15776208000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2023-05-19",
+        "marketCap": 15497244000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2023-05-18",
+        "marketCap": 15519924000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2023-05-17",
+        "marketCap": 15482124000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2023-05-16",
+        "marketCap": 15324120000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2023-05-15",
+        "marketCap": 15716483999
+    },
+    {
+        "symbol": "IEX",
+        "date": "2023-05-12",
+        "marketCap": 15760332000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2023-05-11",
+        "marketCap": 15721020000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2023-05-10",
+        "marketCap": 15702120000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2023-05-09",
+        "marketCap": 15736896000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2023-05-08",
+        "marketCap": 15924383999
+    },
+    {
+        "symbol": "IEX",
+        "date": "2023-05-05",
+        "marketCap": 15946308000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2023-05-04",
+        "marketCap": 15686244000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2023-05-03",
+        "marketCap": 15883560000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2023-05-02",
+        "marketCap": 15628788000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2023-05-01",
+        "marketCap": 15637104000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2023-04-28",
+        "marketCap": 15597792000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2023-04-27",
+        "marketCap": 15711948000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2023-04-26",
+        "marketCap": 15859368000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2023-04-25",
+        "marketCap": 16281972000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2023-04-24",
+        "marketCap": 16499700000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2023-04-21",
+        "marketCap": 16462656000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2023-04-20",
+        "marketCap": 16422588000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2023-04-19",
+        "marketCap": 16468704000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2023-04-18",
+        "marketCap": 16673580000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2023-04-17",
+        "marketCap": 16697772000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2023-04-14",
+        "marketCap": 16596468000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2023-04-13",
+        "marketCap": 16740864000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2023-04-12",
+        "marketCap": 16772616000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2023-04-11",
+        "marketCap": 16662996000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2023-04-10",
+        "marketCap": 16590420000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2023-04-06",
+        "marketCap": 16387812000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2023-04-05",
+        "marketCap": 16468704000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2023-04-04",
+        "marketCap": 16800588000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2023-04-03",
+        "marketCap": 17329788000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2023-03-31",
+        "marketCap": 17465868000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2023-03-30",
+        "marketCap": 17158176000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2023-03-29",
+        "marketCap": 17090892000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2023-03-28",
+        "marketCap": 16851996000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2023-03-27",
+        "marketCap": 16762788000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2023-03-24",
+        "marketCap": 16589664000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2023-03-23",
+        "marketCap": 16480800000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2023-03-22",
+        "marketCap": 16545060000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2023-03-21",
+        "marketCap": 16821756000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2023-03-20",
+        "marketCap": 16638804000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2023-03-17",
+        "marketCap": 16309944000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2023-03-16",
+        "marketCap": 16565472000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2023-03-15",
+        "marketCap": 16314480000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2023-03-14",
+        "marketCap": 16931376000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2023-03-13",
+        "marketCap": 16557912000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2023-03-10",
+        "marketCap": 16626708000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2023-03-09",
+        "marketCap": 16868628000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2023-03-08",
+        "marketCap": 16892064000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2023-03-07",
+        "marketCap": 16938936000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2023-03-06",
+        "marketCap": 17181612000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2023-03-03",
+        "marketCap": 17254944000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2023-03-02",
+        "marketCap": 16966908000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2023-03-01",
+        "marketCap": 16895088000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2023-02-28",
+        "marketCap": 17008488000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2023-02-27",
+        "marketCap": 17026632000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2023-02-24",
+        "marketCap": 16997904000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2023-02-23",
+        "marketCap": 17062164000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2023-02-22",
+        "marketCap": 16998660000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2023-02-21",
+        "marketCap": 17000928000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2023-02-17",
+        "marketCap": 17463600000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2023-02-16",
+        "marketCap": 17016804000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2023-02-15",
+        "marketCap": 17192952000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2023-02-14",
+        "marketCap": 17036460000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2023-02-13",
+        "marketCap": 17136252000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2023-02-10",
+        "marketCap": 17079552000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2023-02-09",
+        "marketCap": 16910208000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2023-02-08",
+        "marketCap": 16976736000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2023-02-07",
+        "marketCap": 16999416000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2023-02-06",
+        "marketCap": 17030412000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2023-02-03",
+        "marketCap": 17375904000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2023-02-02",
+        "marketCap": 17054604000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2023-02-01",
+        "marketCap": 17216388000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2023-01-31",
+        "marketCap": 18119808000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2023-01-30",
+        "marketCap": 17614044000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2023-01-27",
+        "marketCap": 18047988000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2023-01-26",
+        "marketCap": 17701740000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2023-01-25",
+        "marketCap": 17599680000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2023-01-24",
+        "marketCap": 17565660000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2023-01-23",
+        "marketCap": 17453016000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2023-01-20",
+        "marketCap": 17478720000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2023-01-19",
+        "marketCap": 17121132000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2023-01-18",
+        "marketCap": 17688132000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2023-01-17",
+        "marketCap": 17894520000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2023-01-13",
+        "marketCap": 18060840000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2023-01-12",
+        "marketCap": 17860500000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2023-01-11",
+        "marketCap": 17802288000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2023-01-10",
+        "marketCap": 17750880000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2023-01-09",
+        "marketCap": 17679816000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2023-01-06",
+        "marketCap": 17549784000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2023-01-05",
+        "marketCap": 17065944000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2023-01-04",
+        "marketCap": 17332812000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2023-01-03",
+        "marketCap": 17349444000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2022-12-30",
+        "marketCap": 17238915000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2022-12-29",
+        "marketCap": 17402750000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2022-12-28",
+        "marketCap": 17150580000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2022-12-27",
+        "marketCap": 17369530000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2022-12-23",
+        "marketCap": 17314415000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2022-12-22",
+        "marketCap": 17338575000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2022-12-21",
+        "marketCap": 17516000000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2022-12-20",
+        "marketCap": 17223060000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2022-12-19",
+        "marketCap": 17083385000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2022-12-16",
+        "marketCap": 17213245000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2022-12-15",
+        "marketCap": 17333290000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2022-12-14",
+        "marketCap": 18009770000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2022-12-13",
+        "marketCap": 18274775000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2022-12-12",
+        "marketCap": 18120755000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2022-12-09",
+        "marketCap": 17758355000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2022-12-08",
+        "marketCap": 17677570000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2022-12-07",
+        "marketCap": 17746275000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2022-12-06",
+        "marketCap": 17650390000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2022-12-05",
+        "marketCap": 17883685000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2022-12-02",
+        "marketCap": 18258920000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2022-12-01",
+        "marketCap": 18175870000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2022-11-30",
+        "marketCap": 17930495000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2022-11-29",
+        "marketCap": 17445030000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2022-11-28",
+        "marketCap": 17503165000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2022-11-25",
+        "marketCap": 17867830000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2022-11-23",
+        "marketCap": 17772700000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2022-11-22",
+        "marketCap": 17728910000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2022-11-21",
+        "marketCap": 17612640000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2022-11-18",
+        "marketCap": 17633025000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2022-11-17",
+        "marketCap": 17475985000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2022-11-16",
+        "marketCap": 17571870000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2022-11-15",
+        "marketCap": 17487310000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2022-11-14",
+        "marketCap": 17221550000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2022-11-11",
+        "marketCap": 17371040000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2022-11-10",
+        "marketCap": 17588480000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2022-11-09",
+        "marketCap": 16745145000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2022-11-08",
+        "marketCap": 16979194999
+    },
+    {
+        "symbol": "IEX",
+        "date": "2022-11-07",
+        "marketCap": 17044125000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2022-11-04",
+        "marketCap": 16805545000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2022-11-03",
+        "marketCap": 16665870000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2022-11-02",
+        "marketCap": 16490710000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2022-11-01",
+        "marketCap": 16864435000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2022-10-31",
+        "marketCap": 16784405000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2022-10-28",
+        "marketCap": 16830460000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2022-10-27",
+        "marketCap": 16424270000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2022-10-26",
+        "marketCap": 16597165000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2022-10-25",
+        "marketCap": 16031670000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2022-10-24",
+        "marketCap": 15636050000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2022-10-21",
+        "marketCap": 15398225000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2022-10-20",
+        "marketCap": 15046395000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2022-10-19",
+        "marketCap": 15406530000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2022-10-18",
+        "marketCap": 15561305000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2022-10-17",
+        "marketCap": 15370290000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2022-10-14",
+        "marketCap": 14881805000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2022-10-13",
+        "marketCap": 15387655000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2022-10-12",
+        "marketCap": 15130200000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2022-10-11",
+        "marketCap": 15519780000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2022-10-10",
+        "marketCap": 15378595000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2022-10-07",
+        "marketCap": 15253265000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2022-10-06",
+        "marketCap": 15657944999
+    },
+    {
+        "symbol": "IEX",
+        "date": "2022-10-05",
+        "marketCap": 15768930000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2022-10-04",
+        "marketCap": 15903319999
+    },
+    {
+        "symbol": "IEX",
+        "date": "2022-10-03",
+        "marketCap": 15484295000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2022-09-30",
+        "marketCap": 15088675000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2022-09-29",
+        "marketCap": 15098850000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2022-09-28",
+        "marketCap": 15301676000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2022-09-27",
+        "marketCap": 14969162000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2022-09-26",
+        "marketCap": 15051348000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2022-09-23",
+        "marketCap": 15027974000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2022-09-22",
+        "marketCap": 15212704000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2022-09-21",
+        "marketCap": 15405728000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2022-09-20",
+        "marketCap": 15548988000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2022-09-19",
+        "marketCap": 15788005999
+    },
+    {
+        "symbol": "IEX",
+        "date": "2022-09-16",
+        "marketCap": 15451722000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2022-09-15",
+        "marketCap": 15520336000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2022-09-14",
+        "marketCap": 15686216000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2022-09-13",
+        "marketCap": 15680938000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2022-09-12",
+        "marketCap": 15922218000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2022-09-09",
+        "marketCap": 15837016000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2022-09-08",
+        "marketCap": 15727686000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2022-09-07",
+        "marketCap": 15625896000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2022-09-06",
+        "marketCap": 15150122000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2022-09-02",
+        "marketCap": 15081508000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2022-09-01",
+        "marketCap": 15276794000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2022-08-31",
+        "marketCap": 15171234000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2022-08-30",
+        "marketCap": 15275286000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2022-08-29",
+        "marketCap": 15441920000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2022-08-26",
+        "marketCap": 15491684000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2022-08-25",
+        "marketCap": 16094884000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2022-08-24",
+        "marketCap": 15941822000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2022-08-23",
+        "marketCap": 15941822000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2022-08-22",
+        "marketCap": 15910154000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2022-08-19",
+        "marketCap": 16251716000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2022-08-18",
+        "marketCap": 16409302000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2022-08-17",
+        "marketCap": 16278860000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2022-08-16",
+        "marketCap": 16392714000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2022-08-15",
+        "marketCap": 16295448000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2022-08-12",
+        "marketCap": 16226080000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2022-08-11",
+        "marketCap": 16137108000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2022-08-10",
+        "marketCap": 16114488000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2022-08-09",
+        "marketCap": 15793284000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2022-08-08",
+        "marketCap": 15919202000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2022-08-05",
+        "marketCap": 15979522000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2022-08-04",
+        "marketCap": 15904122000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2022-08-03",
+        "marketCap": 15822690000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2022-08-02",
+        "marketCap": 15579148000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2022-08-01",
+        "marketCap": 15705820000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2022-07-29",
+        "marketCap": 15739750000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2022-07-28",
+        "marketCap": 15538432000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2022-07-27",
+        "marketCap": 15058888000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2022-07-26",
+        "marketCap": 14673594000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2022-07-25",
+        "marketCap": 14542398000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2022-07-22",
+        "marketCap": 14534858000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2022-07-21",
+        "marketCap": 14525055999
+    },
+    {
+        "symbol": "IEX",
+        "date": "2022-07-20",
+        "marketCap": 14273220000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2022-07-19",
+        "marketCap": 14280005999
+    },
+    {
+        "symbol": "IEX",
+        "date": "2022-07-18",
+        "marketCap": 13780104000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2022-07-15",
+        "marketCap": 14044004000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2022-07-14",
+        "marketCap": 13674544000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2022-07-13",
+        "marketCap": 13679068000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2022-07-12",
+        "marketCap": 13743158000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2022-07-11",
+        "marketCap": 14045512000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2022-07-08",
+        "marketCap": 14001026000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2022-07-07",
+        "marketCap": 14126944000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2022-07-06",
+        "marketCap": 13970112000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2022-07-05",
+        "marketCap": 13906776000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2022-07-01",
+        "marketCap": 13847964000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2022-06-30",
+        "marketCap": 13694902000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2022-06-29",
+        "marketCap": 13725864000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2022-06-28",
+        "marketCap": 13707672000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2022-06-27",
+        "marketCap": 13961602000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2022-06-24",
+        "marketCap": 14065448000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2022-06-23",
+        "marketCap": 13613680000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2022-06-22",
+        "marketCap": 13415842000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2022-06-21",
+        "marketCap": 13359750000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2022-06-17",
+        "marketCap": 13117948000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2022-06-16",
+        "marketCap": 13144478000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2022-06-15",
+        "marketCap": 13618228000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2022-06-14",
+        "marketCap": 13599278000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2022-06-13",
+        "marketCap": 13653096000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2022-06-10",
+        "marketCap": 14044224000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2022-06-09",
+        "marketCap": 14489170000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2022-06-08",
+        "marketCap": 14737794000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2022-06-07",
+        "marketCap": 14918956000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2022-06-06",
+        "marketCap": 14781758000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2022-06-03",
+        "marketCap": 14793128000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2022-06-02",
+        "marketCap": 14870444000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2022-06-01",
+        "marketCap": 14508120000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2022-05-31",
+        "marketCap": 14519490000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2022-05-27",
+        "marketCap": 14564211999
+    },
+    {
+        "symbol": "IEX",
+        "date": "2022-05-26",
+        "marketCap": 14334538000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2022-05-25",
+        "marketCap": 14041192000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2022-05-24",
+        "marketCap": 14210226000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2022-05-23",
+        "marketCap": 14060900000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2022-05-20",
+        "marketCap": 14060142000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2022-05-19",
+        "marketCap": 13885802000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2022-05-18",
+        "marketCap": 13759974000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2022-05-17",
+        "marketCap": 14336054000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2022-05-16",
+        "marketCap": 14058626000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2022-05-13",
+        "marketCap": 14111686000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2022-05-12",
+        "marketCap": 13983584000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2022-05-11",
+        "marketCap": 13836532000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2022-05-10",
+        "marketCap": 14007082000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2022-05-09",
+        "marketCap": 14326200000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2022-05-06",
+        "marketCap": 14254948000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2022-05-05",
+        "marketCap": 14383808000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2022-05-04",
+        "marketCap": 14969742000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2022-05-03",
+        "marketCap": 14488411999
+    },
+    {
+        "symbol": "IEX",
+        "date": "2022-05-02",
+        "marketCap": 14408064000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2022-04-29",
+        "marketCap": 14388356000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2022-04-28",
+        "marketCap": 14852252000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2022-04-27",
+        "marketCap": 14564970000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2022-04-26",
+        "marketCap": 14163230000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2022-04-25",
+        "marketCap": 14531618000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2022-04-22",
+        "marketCap": 14509636000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2022-04-21",
+        "marketCap": 14859074000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2022-04-20",
+        "marketCap": 14945486000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2022-04-19",
+        "marketCap": 14675638000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2022-04-18",
+        "marketCap": 14329990000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2022-04-14",
+        "marketCap": 14444448000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2022-04-13",
+        "marketCap": 14788580000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2022-04-12",
+        "marketCap": 14687008000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2022-04-11",
+        "marketCap": 14790854000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2022-04-08",
+        "marketCap": 14920472000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2022-04-07",
+        "marketCap": 15062976000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2022-04-06",
+        "marketCap": 14749922000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2022-04-05",
+        "marketCap": 14563454000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2022-04-04",
+        "marketCap": 14665784000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2022-04-01",
+        "marketCap": 14565728000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2022-03-31",
+        "marketCap": 14533134000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2022-03-30",
+        "marketCap": 14867657000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2022-03-29",
+        "marketCap": 15102045000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2022-03-28",
+        "marketCap": 14817431000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2022-03-25",
+        "marketCap": 14852437000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2022-03-24",
+        "marketCap": 14779381000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2022-03-23",
+        "marketCap": 14717740000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2022-03-22",
+        "marketCap": 15010725000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2022-03-21",
+        "marketCap": 15103567000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2022-03-18",
+        "marketCap": 15143139000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2022-03-17",
+        "marketCap": 15065517000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2022-03-16",
+        "marketCap": 14925493000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2022-03-15",
+        "marketCap": 14662948000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2022-03-14",
+        "marketCap": 14389749000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2022-03-11",
+        "marketCap": 14431603999
+    },
+    {
+        "symbol": "IEX",
+        "date": "2022-03-10",
+        "marketCap": 14370724000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2022-03-09",
+        "marketCap": 14606634000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2022-03-08",
+        "marketCap": 13948369000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2022-03-07",
+        "marketCap": 14335718000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2022-03-04",
+        "marketCap": 14623376000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2022-03-03",
+        "marketCap": 14804494000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2022-03-02",
+        "marketCap": 14694149000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2022-03-01",
+        "marketCap": 14361592000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2022-02-28",
+        "marketCap": 14603590000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2022-02-25",
+        "marketCap": 14648489000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2022-02-24",
+        "marketCap": 14382139000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2022-02-23",
+        "marketCap": 14115028000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2022-02-22",
+        "marketCap": 14358548000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2022-02-18",
+        "marketCap": 14408774000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2022-02-17",
+        "marketCap": 14360831000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2022-02-16",
+        "marketCap": 14457478000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2022-02-15",
+        "marketCap": 14555647000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2022-02-14",
+        "marketCap": 14586848000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2022-02-11",
+        "marketCap": 14446824000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2022-02-10",
+        "marketCap": 14812865000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2022-02-09",
+        "marketCap": 15132485000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2022-02-08",
+        "marketCap": 15048014000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2022-02-07",
+        "marketCap": 15066278000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2022-02-04",
+        "marketCap": 15028228000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2022-02-03",
+        "marketCap": 15419382000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2022-02-02",
+        "marketCap": 15714650000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2022-02-01",
+        "marketCap": 16455103000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2022-01-31",
+        "marketCap": 16394984000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2022-01-28",
+        "marketCap": 16079169000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2022-01-27",
+        "marketCap": 15879787000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2022-01-26",
+        "marketCap": 16108848000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2022-01-25",
+        "marketCap": 16398028000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2022-01-24",
+        "marketCap": 16787660000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2022-01-21",
+        "marketCap": 16677315000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2022-01-20",
+        "marketCap": 16445210000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2022-01-19",
+        "marketCap": 16445210000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2022-01-18",
+        "marketCap": 16560121000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2022-01-14",
+        "marketCap": 16765591000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2022-01-13",
+        "marketCap": 17214581000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2022-01-12",
+        "marketCap": 17269373000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2022-01-11",
+        "marketCap": 17210776000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2022-01-10",
+        "marketCap": 17110324000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2022-01-07",
+        "marketCap": 17318077000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2022-01-06",
+        "marketCap": 17553987000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2022-01-05",
+        "marketCap": 17605735000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2022-01-04",
+        "marketCap": 17923072000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2022-01-03",
+        "marketCap": 17555509000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2021-12-31",
+        "marketCap": 17983952000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2021-12-30",
+        "marketCap": 17916223000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2021-12-29",
+        "marketCap": 17946663000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2021-12-28",
+        "marketCap": 17881217000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2021-12-27",
+        "marketCap": 17778482000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2021-12-23",
+        "marketCap": 17551704000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2021-12-22",
+        "marketCap": 17430705000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2021-12-21",
+        "marketCap": 17385806000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2021-12-20",
+        "marketCap": 17007589000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2021-12-17",
+        "marketCap": 17406353000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2021-12-16",
+        "marketCap": 18225950000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2021-12-15",
+        "marketCap": 18097341000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2021-12-14",
+        "marketCap": 17818054000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2021-12-13",
+        "marketCap": 17999933000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2021-12-10",
+        "marketCap": 17981669000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2021-12-09",
+        "marketCap": 17910135000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2021-12-08",
+        "marketCap": 18042549000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2021-12-07",
+        "marketCap": 17894154000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2021-12-06",
+        "marketCap": 17859909000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2021-12-03",
+        "marketCap": 17372869000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2021-12-02",
+        "marketCap": 17366781000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2021-12-01",
+        "marketCap": 16829515000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2021-11-30",
+        "marketCap": 17091299000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2021-11-29",
+        "marketCap": 17839362000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2021-11-26",
+        "marketCap": 17574534000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2021-11-24",
+        "marketCap": 17964927000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2021-11-23",
+        "marketCap": 17987757000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2021-11-22",
+        "marketCap": 17907852000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2021-11-19",
+        "marketCap": 17839362000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2021-11-18",
+        "marketCap": 17947424000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2021-11-17",
+        "marketCap": 17971776000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2021-11-16",
+        "marketCap": 17997650000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2021-11-15",
+        "marketCap": 17853821000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2021-11-12",
+        "marketCap": 17887305000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2021-11-11",
+        "marketCap": 17775438000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2021-11-10",
+        "marketCap": 17924594000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2021-11-09",
+        "marketCap": 17948946000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2021-11-08",
+        "marketCap": 17918506000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2021-11-05",
+        "marketCap": 17846211000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2021-11-04",
+        "marketCap": 17760218000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2021-11-03",
+        "marketCap": 17527352000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2021-11-02",
+        "marketCap": 17647590000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2021-11-01",
+        "marketCap": 17038790000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2021-10-29",
+        "marketCap": 16937577000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2021-10-28",
+        "marketCap": 16967256000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2021-10-27",
+        "marketCap": 16910942000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2021-10-26",
+        "marketCap": 16738956000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2021-10-25",
+        "marketCap": 16832559000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2021-10-22",
+        "marketCap": 16823427000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2021-10-21",
+        "marketCap": 16761025000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2021-10-20",
+        "marketCap": 16596649000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2021-10-19",
+        "marketCap": 16456625000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2021-10-18",
+        "marketCap": 16238218000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2021-10-15",
+        "marketCap": 16243545000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2021-10-14",
+        "marketCap": 16230608000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2021-10-13",
+        "marketCap": 15681927000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2021-10-12",
+        "marketCap": 15659858000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2021-10-11",
+        "marketCap": 15764876000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2021-10-08",
+        "marketCap": 16119502000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2021-10-07",
+        "marketCap": 16272463000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2021-10-06",
+        "marketCap": 16113414000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2021-10-05",
+        "marketCap": 16060144000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2021-10-04",
+        "marketCap": 15862284000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2021-10-01",
+        "marketCap": 15992415000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2021-09-30",
+        "marketCap": 15748895000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2021-09-29",
+        "marketCap": 16188000000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2021-09-28",
+        "marketCap": 16080080000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2021-09-27",
+        "marketCap": 16370400000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2021-09-24",
+        "marketCap": 16467680000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2021-09-23",
+        "marketCap": 16509480000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2021-09-22",
+        "marketCap": 16355200000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2021-09-21",
+        "marketCap": 16219160000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2021-09-20",
+        "marketCap": 16317960000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2021-09-17",
+        "marketCap": 16397000000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2021-09-16",
+        "marketCap": 16596120000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2021-09-15",
+        "marketCap": 16653880000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2021-09-14",
+        "marketCap": 16409920000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2021-09-13",
+        "marketCap": 16299720000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2021-09-10",
+        "marketCap": 16504160000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2021-09-09",
+        "marketCap": 16548240000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2021-09-08",
+        "marketCap": 16651600000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2021-09-07",
+        "marketCap": 16504920000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2021-09-03",
+        "marketCap": 16915320000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2021-09-02",
+        "marketCap": 17040720000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2021-09-01",
+        "marketCap": 16767880000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2021-08-31",
+        "marketCap": 17024000000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2021-08-30",
+        "marketCap": 17172200000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2021-08-27",
+        "marketCap": 17122800000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2021-08-26",
+        "marketCap": 17164600000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2021-08-25",
+        "marketCap": 17208680000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2021-08-24",
+        "marketCap": 17071880000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2021-08-23",
+        "marketCap": 16850720000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2021-08-20",
+        "marketCap": 16818040000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2021-08-19",
+        "marketCap": 16770920000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2021-08-18",
+        "marketCap": 16685800000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2021-08-17",
+        "marketCap": 17003480000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2021-08-16",
+        "marketCap": 17279360000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2021-08-13",
+        "marketCap": 17023240000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2021-08-12",
+        "marketCap": 17214000000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2021-08-11",
+        "marketCap": 17326480000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2021-08-10",
+        "marketCap": 17252000000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2021-08-09",
+        "marketCap": 17198800000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2021-08-06",
+        "marketCap": 17302920000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2021-08-05",
+        "marketCap": 17260360000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2021-08-04",
+        "marketCap": 17235280000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2021-08-03",
+        "marketCap": 17386520000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2021-08-02",
+        "marketCap": 17171440000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2021-07-30",
+        "marketCap": 17228440000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2021-07-29",
+        "marketCap": 16951800000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2021-07-28",
+        "marketCap": 16691120000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2021-07-27",
+        "marketCap": 17195000000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2021-07-26",
+        "marketCap": 17185880000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2021-07-23",
+        "marketCap": 17312800000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2021-07-22",
+        "marketCap": 17191960000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2021-07-21",
+        "marketCap": 17286960000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2021-07-20",
+        "marketCap": 17350040000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2021-07-19",
+        "marketCap": 16898600000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2021-07-16",
+        "marketCap": 17226920000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2021-07-15",
+        "marketCap": 17076440000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2021-07-14",
+        "marketCap": 17017920000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2021-07-13",
+        "marketCap": 16980680000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2021-07-12",
+        "marketCap": 17062000000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2021-07-09",
+        "marketCap": 17044520000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2021-07-08",
+        "marketCap": 16771680000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2021-07-07",
+        "marketCap": 16982200000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2021-07-06",
+        "marketCap": 16672120000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2021-07-02",
+        "marketCap": 16797520000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2021-07-01",
+        "marketCap": 16710120000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2021-06-30",
+        "marketCap": 16723800000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2021-06-29",
+        "marketCap": 16763320000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2021-06-28",
+        "marketCap": 16713920000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2021-06-25",
+        "marketCap": 16706320000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2021-06-24",
+        "marketCap": 16628800000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2021-06-23",
+        "marketCap": 16540639999
+    },
+    {
+        "symbol": "IEX",
+        "date": "2021-06-22",
+        "marketCap": 16526960000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2021-06-21",
+        "marketCap": 16500360000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2021-06-18",
+        "marketCap": 16095280000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2021-06-17",
+        "marketCap": 16314160000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2021-06-16",
+        "marketCap": 16548240000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2021-06-15",
+        "marketCap": 16906960000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2021-06-14",
+        "marketCap": 16783080000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2021-06-11",
+        "marketCap": 16739000000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2021-06-10",
+        "marketCap": 16720760000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2021-06-09",
+        "marketCap": 16796760000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2021-06-08",
+        "marketCap": 16961680000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2021-06-07",
+        "marketCap": 16929000000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2021-06-04",
+        "marketCap": 17129639999
+    },
+    {
+        "symbol": "IEX",
+        "date": "2021-06-03",
+        "marketCap": 16963200000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2021-06-02",
+        "marketCap": 16979160000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2021-06-01",
+        "marketCap": 17014120000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2021-05-28",
+        "marketCap": 16922160000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2021-05-27",
+        "marketCap": 16862120000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2021-05-26",
+        "marketCap": 16821840000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2021-05-25",
+        "marketCap": 16835520000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2021-05-24",
+        "marketCap": 16777760000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2021-05-21",
+        "marketCap": 16716960000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2021-05-20",
+        "marketCap": 16722280000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2021-05-19",
+        "marketCap": 16523920000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2021-05-18",
+        "marketCap": 16824880000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2021-05-17",
+        "marketCap": 17011840000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2021-05-14",
+        "marketCap": 17051360000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2021-05-13",
+        "marketCap": 16968520000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2021-05-12",
+        "marketCap": 16583960000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2021-05-11",
+        "marketCap": 17081000000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2021-05-10",
+        "marketCap": 17241360000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2021-05-07",
+        "marketCap": 17176000000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2021-05-06",
+        "marketCap": 17201840000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2021-05-05",
+        "marketCap": 17152440000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2021-05-04",
+        "marketCap": 17277840000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2021-05-03",
+        "marketCap": 16986000000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2021-04-30",
+        "marketCap": 17039200000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2021-04-29",
+        "marketCap": 17339400000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2021-04-28",
+        "marketCap": 17100000000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2021-04-27",
+        "marketCap": 17190440000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2021-04-26",
+        "marketCap": 17133440000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2021-04-23",
+        "marketCap": 17114440000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2021-04-22",
+        "marketCap": 17092400000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2021-04-21",
+        "marketCap": 17071880000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2021-04-20",
+        "marketCap": 16907720000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2021-04-19",
+        "marketCap": 16708600000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2021-04-16",
+        "marketCap": 16763320000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2021-04-15",
+        "marketCap": 16571800000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2021-04-14",
+        "marketCap": 16375720000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2021-04-13",
+        "marketCap": 16457040000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2021-04-12",
+        "marketCap": 16586240000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2021-04-09",
+        "marketCap": 16523920000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2021-04-08",
+        "marketCap": 16364320000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2021-04-07",
+        "marketCap": 16286040000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2021-04-06",
+        "marketCap": 16340760000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2021-04-05",
+        "marketCap": 16314160000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2021-04-01",
+        "marketCap": 16131000000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2021-03-31",
+        "marketCap": 15908320000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2021-03-30",
+        "marketCap": 15973914000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2021-03-29",
+        "marketCap": 15797825999
+    },
+    {
+        "symbol": "IEX",
+        "date": "2021-03-26",
+        "marketCap": 15677145000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2021-03-25",
+        "marketCap": 15303717000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2021-03-24",
+        "marketCap": 15281706000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2021-03-23",
+        "marketCap": 15019092000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2021-03-22",
+        "marketCap": 15040344000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2021-03-19",
+        "marketCap": 15114725999
+    },
+    {
+        "symbol": "IEX",
+        "date": "2021-03-18",
+        "marketCap": 15211878000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2021-03-17",
+        "marketCap": 14968998000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2021-03-16",
+        "marketCap": 15084366000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2021-03-15",
+        "marketCap": 15442614000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2021-03-12",
+        "marketCap": 15130665000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2021-03-11",
+        "marketCap": 15106377000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2021-03-10",
+        "marketCap": 15198216000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2021-03-09",
+        "marketCap": 15000875999
+    },
+    {
+        "symbol": "IEX",
+        "date": "2021-03-08",
+        "marketCap": 15084366000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2021-03-05",
+        "marketCap": 15025164000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2021-03-04",
+        "marketCap": 14810367000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2021-03-03",
+        "marketCap": 15117762000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2021-03-02",
+        "marketCap": 15162543000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2021-03-01",
+        "marketCap": 15173169000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2021-02-26",
+        "marketCap": 14813403000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2021-02-25",
+        "marketCap": 14960649000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2021-02-24",
+        "marketCap": 15022887000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2021-02-23",
+        "marketCap": 14937879000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2021-02-22",
+        "marketCap": 14975070000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2021-02-19",
+        "marketCap": 14933325000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2021-02-18",
+        "marketCap": 14695758000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2021-02-17",
+        "marketCap": 14686650000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2021-02-16",
+        "marketCap": 14974311000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2021-02-12",
+        "marketCap": 15170133000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2021-02-11",
+        "marketCap": 15028200000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2021-02-10",
+        "marketCap": 15131424000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2021-02-09",
+        "marketCap": 14994804000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2021-02-08",
+        "marketCap": 15060837000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2021-02-05",
+        "marketCap": 14599365000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2021-02-04",
+        "marketCap": 14392158000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2021-02-03",
+        "marketCap": 14784561000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2021-02-02",
+        "marketCap": 14709420000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2021-02-01",
+        "marketCap": 14376978000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2021-01-29",
+        "marketCap": 14131821000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2021-01-28",
+        "marketCap": 14328402000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2021-01-27",
+        "marketCap": 14294247000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2021-01-26",
+        "marketCap": 14681337000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2021-01-25",
+        "marketCap": 14734467000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2021-01-22",
+        "marketCap": 14917386000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2021-01-21",
+        "marketCap": 14840727000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2021-01-20",
+        "marketCap": 15049452000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2021-01-19",
+        "marketCap": 14681337000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2021-01-15",
+        "marketCap": 14727636000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2021-01-14",
+        "marketCap": 15125352000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2021-01-13",
+        "marketCap": 15401628000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2021-01-12",
+        "marketCap": 15813765000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2021-01-11",
+        "marketCap": 15830463000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2021-01-08",
+        "marketCap": 15705228000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2021-01-07",
+        "marketCap": 15805416000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2021-01-06",
+        "marketCap": 15345462000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2021-01-05",
+        "marketCap": 14795187000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2021-01-04",
+        "marketCap": 14824029000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2020-12-31",
+        "marketCap": 15119280000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2020-12-30",
+        "marketCap": 14907896710
+    },
+    {
+        "symbol": "IEX",
+        "date": "2020-12-29",
+        "marketCap": 14801752910
+    },
+    {
+        "symbol": "IEX",
+        "date": "2020-12-28",
+        "marketCap": 14853308470
+    },
+    {
+        "symbol": "IEX",
+        "date": "2020-12-24",
+        "marketCap": 14902589520
+    },
+    {
+        "symbol": "IEX",
+        "date": "2020-12-23",
+        "marketCap": 14769909770
+    },
+    {
+        "symbol": "IEX",
+        "date": "2020-12-22",
+        "marketCap": 14889700629
+    },
+    {
+        "symbol": "IEX",
+        "date": "2020-12-21",
+        "marketCap": 15036785610
+    },
+    {
+        "symbol": "IEX",
+        "date": "2020-12-18",
+        "marketCap": 15053465350
+    },
+    {
+        "symbol": "IEX",
+        "date": "2020-12-17",
+        "marketCap": 15002667960
+    },
+    {
+        "symbol": "IEX",
+        "date": "2020-12-16",
+        "marketCap": 14813883629
+    },
+    {
+        "symbol": "IEX",
+        "date": "2020-12-15",
+        "marketCap": 14890458800
+    },
+    {
+        "symbol": "IEX",
+        "date": "2020-12-14",
+        "marketCap": 14607661390
+    },
+    {
+        "symbol": "IEX",
+        "date": "2020-12-11",
+        "marketCap": 14627373810
+    },
+    {
+        "symbol": "IEX",
+        "date": "2020-12-10",
+        "marketCap": 14547007790
+    },
+    {
+        "symbol": "IEX",
+        "date": "2020-12-09",
+        "marketCap": 14743373820
+    },
+    {
+        "symbol": "IEX",
+        "date": "2020-12-08",
+        "marketCap": 14714563360
+    },
+    {
+        "symbol": "IEX",
+        "date": "2020-12-07",
+        "marketCap": 14474981640
+    },
+    {
+        "symbol": "IEX",
+        "date": "2020-12-04",
+        "marketCap": 14616001260
+    },
+    {
+        "symbol": "IEX",
+        "date": "2020-12-03",
+        "marketCap": 14424942420
+    },
+    {
+        "symbol": "IEX",
+        "date": "2020-12-02",
+        "marketCap": 14396131960
+    },
+    {
+        "symbol": "IEX",
+        "date": "2020-12-01",
+        "marketCap": 14794929379
+    },
+    {
+        "symbol": "IEX",
+        "date": "2020-11-30",
+        "marketCap": 14644053550
+    },
+    {
+        "symbol": "IEX",
+        "date": "2020-11-27",
+        "marketCap": 14584158120
+    },
+    {
+        "symbol": "IEX",
+        "date": "2020-11-25",
+        "marketCap": 14531844390
+    },
+    {
+        "symbol": "IEX",
+        "date": "2020-11-24",
+        "marketCap": 14745648330
+    },
+    {
+        "symbol": "IEX",
+        "date": "2020-11-23",
+        "marketCap": 14661491460
+    },
+    {
+        "symbol": "IEX",
+        "date": "2020-11-20",
+        "marketCap": 14706223490
+    },
+    {
+        "symbol": "IEX",
+        "date": "2020-11-19",
+        "marketCap": 14865439190
+    },
+    {
+        "symbol": "IEX",
+        "date": "2020-11-18",
+        "marketCap": 14970824820
+    },
+    {
+        "symbol": "IEX",
+        "date": "2020-11-17",
+        "marketCap": 14950354230
+    },
+    {
+        "symbol": "IEX",
+        "date": "2020-11-16",
+        "marketCap": 14955661420
+    },
+    {
+        "symbol": "IEX",
+        "date": "2020-11-13",
+        "marketCap": 14645569890
+    },
+    {
+        "symbol": "IEX",
+        "date": "2020-11-12",
+        "marketCap": 14332445680
+    },
+    {
+        "symbol": "IEX",
+        "date": "2020-11-11",
+        "marketCap": 14514406480
+    },
+    {
+        "symbol": "IEX",
+        "date": "2020-11-10",
+        "marketCap": 14857099320
+    },
+    {
+        "symbol": "IEX",
+        "date": "2020-11-09",
+        "marketCap": 14239190770
+    },
+    {
+        "symbol": "IEX",
+        "date": "2020-11-06",
+        "marketCap": 13876027340
+    },
+    {
+        "symbol": "IEX",
+        "date": "2020-11-05",
+        "marketCap": 13477988090
+    },
+    {
+        "symbol": "IEX",
+        "date": "2020-11-04",
+        "marketCap": 13412027300
+    },
+    {
+        "symbol": "IEX",
+        "date": "2020-11-03",
+        "marketCap": 13678903140
+    },
+    {
+        "symbol": "IEX",
+        "date": "2020-11-02",
+        "marketCap": 13553046920
+    },
+    {
+        "symbol": "IEX",
+        "date": "2020-10-30",
+        "marketCap": 12918458629
+    },
+    {
+        "symbol": "IEX",
+        "date": "2020-10-29",
+        "marketCap": 12792602410
+    },
+    {
+        "symbol": "IEX",
+        "date": "2020-10-28",
+        "marketCap": 13083739690
+    },
+    {
+        "symbol": "IEX",
+        "date": "2020-10-27",
+        "marketCap": 14101962000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2020-10-26",
+        "marketCap": 14411295360
+    },
+    {
+        "symbol": "IEX",
+        "date": "2020-10-23",
+        "marketCap": 14528811710
+    },
+    {
+        "symbol": "IEX",
+        "date": "2020-10-22",
+        "marketCap": 14334720190
+    },
+    {
+        "symbol": "IEX",
+        "date": "2020-10-21",
+        "marketCap": 14439347650
+    },
+    {
+        "symbol": "IEX",
+        "date": "2020-10-20",
+        "marketCap": 14476497980
+    },
+    {
+        "symbol": "IEX",
+        "date": "2020-10-19",
+        "marketCap": 14385517580
+    },
+    {
+        "symbol": "IEX",
+        "date": "2020-10-16",
+        "marketCap": 14612210410
+    },
+    {
+        "symbol": "IEX",
+        "date": "2020-10-15",
+        "marketCap": 14376419540
+    },
+    {
+        "symbol": "IEX",
+        "date": "2020-10-14",
+        "marketCap": 14264968550
+    },
+    {
+        "symbol": "IEX",
+        "date": "2020-10-13",
+        "marketCap": 14117125400
+    },
+    {
+        "symbol": "IEX",
+        "date": "2020-10-12",
+        "marketCap": 14343060060
+    },
+    {
+        "symbol": "IEX",
+        "date": "2020-10-09",
+        "marketCap": 14436314970
+    },
+    {
+        "symbol": "IEX",
+        "date": "2020-10-08",
+        "marketCap": 14405230000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2020-10-07",
+        "marketCap": 14343060060
+    },
+    {
+        "symbol": "IEX",
+        "date": "2020-10-06",
+        "marketCap": 13935164600
+    },
+    {
+        "symbol": "IEX",
+        "date": "2020-10-05",
+        "marketCap": 13867687470
+    },
+    {
+        "symbol": "IEX",
+        "date": "2020-10-02",
+        "marketCap": 13640994640
+    },
+    {
+        "symbol": "IEX",
+        "date": "2020-10-01",
+        "marketCap": 13504524040
+    },
+    {
+        "symbol": "IEX",
+        "date": "2020-09-30",
+        "marketCap": 13829778970
+    },
+    {
+        "symbol": "IEX",
+        "date": "2020-09-29",
+        "marketCap": 13695226000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2020-09-28",
+        "marketCap": 13662824640
+    },
+    {
+        "symbol": "IEX",
+        "date": "2020-09-25",
+        "marketCap": 13490268560
+    },
+    {
+        "symbol": "IEX",
+        "date": "2020-09-24",
+        "marketCap": 13394571520
+    },
+    {
+        "symbol": "IEX",
+        "date": "2020-09-23",
+        "marketCap": 13300381520
+    },
+    {
+        "symbol": "IEX",
+        "date": "2020-09-22",
+        "marketCap": 13588979680
+    },
+    {
+        "symbol": "IEX",
+        "date": "2020-09-21",
+        "marketCap": 13431494000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2020-09-18",
+        "marketCap": 14018486080
+    },
+    {
+        "symbol": "IEX",
+        "date": "2020-09-17",
+        "marketCap": 14054655040
+    },
+    {
+        "symbol": "IEX",
+        "date": "2020-09-16",
+        "marketCap": 14050133920
+    },
+    {
+        "symbol": "IEX",
+        "date": "2020-09-15",
+        "marketCap": 14031295920
+    },
+    {
+        "symbol": "IEX",
+        "date": "2020-09-14",
+        "marketCap": 13872303200
+    },
+    {
+        "symbol": "IEX",
+        "date": "2020-09-11",
+        "marketCap": 13647754240
+    },
+    {
+        "symbol": "IEX",
+        "date": "2020-09-10",
+        "marketCap": 13367444800
+    },
+    {
+        "symbol": "IEX",
+        "date": "2020-09-09",
+        "marketCap": 13540000880
+    },
+    {
+        "symbol": "IEX",
+        "date": "2020-09-08",
+        "marketCap": 13262705520
+    },
+    {
+        "symbol": "IEX",
+        "date": "2020-09-04",
+        "marketCap": 13384022240
+    },
+    {
+        "symbol": "IEX",
+        "date": "2020-09-03",
+        "marketCap": 13574662800
+    },
+    {
+        "symbol": "IEX",
+        "date": "2020-09-02",
+        "marketCap": 13877577840
+    },
+    {
+        "symbol": "IEX",
+        "date": "2020-09-01",
+        "marketCap": 13720092160
+    },
+    {
+        "symbol": "IEX",
+        "date": "2020-08-31",
+        "marketCap": 13580690960
+    },
+    {
+        "symbol": "IEX",
+        "date": "2020-08-28",
+        "marketCap": 13630423279
+    },
+    {
+        "symbol": "IEX",
+        "date": "2020-08-27",
+        "marketCap": 13468416480
+    },
+    {
+        "symbol": "IEX",
+        "date": "2020-08-26",
+        "marketCap": 13563360000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2020-08-25",
+        "marketCap": 13540754400
+    },
+    {
+        "symbol": "IEX",
+        "date": "2020-08-24",
+        "marketCap": 13607817680
+    },
+    {
+        "symbol": "IEX",
+        "date": "2020-08-21",
+        "marketCap": 13476705200
+    },
+    {
+        "symbol": "IEX",
+        "date": "2020-08-20",
+        "marketCap": 13283050560
+    },
+    {
+        "symbol": "IEX",
+        "date": "2020-08-19",
+        "marketCap": 13246128080
+    },
+    {
+        "symbol": "IEX",
+        "date": "2020-08-18",
+        "marketCap": 13304149120
+    },
+    {
+        "symbol": "IEX",
+        "date": "2020-08-17",
+        "marketCap": 13176050720
+    },
+    {
+        "symbol": "IEX",
+        "date": "2020-08-14",
+        "marketCap": 13314698400
+    },
+    {
+        "symbol": "IEX",
+        "date": "2020-08-13",
+        "marketCap": 13176050720
+    },
+    {
+        "symbol": "IEX",
+        "date": "2020-08-12",
+        "marketCap": 13335796960
+    },
+    {
+        "symbol": "IEX",
+        "date": "2020-08-11",
+        "marketCap": 13112755040
+    },
+    {
+        "symbol": "IEX",
+        "date": "2020-08-10",
+        "marketCap": 12901015920
+    },
+    {
+        "symbol": "IEX",
+        "date": "2020-08-07",
+        "marketCap": 12624474080
+    },
+    {
+        "symbol": "IEX",
+        "date": "2020-08-06",
+        "marketCap": 12547615040
+    },
+    {
+        "symbol": "IEX",
+        "date": "2020-08-05",
+        "marketCap": 12519734800
+    },
+    {
+        "symbol": "IEX",
+        "date": "2020-08-04",
+        "marketCap": 12436847600
+    },
+    {
+        "symbol": "IEX",
+        "date": "2020-08-03",
+        "marketCap": 12530284080
+    },
+    {
+        "symbol": "IEX",
+        "date": "2020-07-31",
+        "marketCap": 12419516640
+    },
+    {
+        "symbol": "IEX",
+        "date": "2020-07-30",
+        "marketCap": 12402939200
+    },
+    {
+        "symbol": "IEX",
+        "date": "2020-07-29",
+        "marketCap": 12553643200
+    },
+    {
+        "symbol": "IEX",
+        "date": "2020-07-28",
+        "marketCap": 12461713760
+    },
+    {
+        "symbol": "IEX",
+        "date": "2020-07-27",
+        "marketCap": 12776685120
+    },
+    {
+        "symbol": "IEX",
+        "date": "2020-07-24",
+        "marketCap": 12634269840
+    },
+    {
+        "symbol": "IEX",
+        "date": "2020-07-23",
+        "marketCap": 12878410320
+    },
+    {
+        "symbol": "IEX",
+        "date": "2020-07-22",
+        "marketCap": 12760107680
+    },
+    {
+        "symbol": "IEX",
+        "date": "2020-07-21",
+        "marketCap": 12821142800
+    },
+    {
+        "symbol": "IEX",
+        "date": "2020-07-20",
+        "marketCap": 12732980960
+    },
+    {
+        "symbol": "IEX",
+        "date": "2020-07-17",
+        "marketCap": 12777438640
+    },
+    {
+        "symbol": "IEX",
+        "date": "2020-07-16",
+        "marketCap": 12693797920
+    },
+    {
+        "symbol": "IEX",
+        "date": "2020-07-15",
+        "marketCap": 12668178240
+    },
+    {
+        "symbol": "IEX",
+        "date": "2020-07-14",
+        "marketCap": 12266552080
+    },
+    {
+        "symbol": "IEX",
+        "date": "2020-07-13",
+        "marketCap": 12014122880
+    },
+    {
+        "symbol": "IEX",
+        "date": "2020-07-10",
+        "marketCap": 11825742880
+    },
+    {
+        "symbol": "IEX",
+        "date": "2020-07-09",
+        "marketCap": 11844580880
+    },
+    {
+        "symbol": "IEX",
+        "date": "2020-07-08",
+        "marketCap": 11891299120
+    },
+    {
+        "symbol": "IEX",
+        "date": "2020-07-07",
+        "marketCap": 11930482160
+    },
+    {
+        "symbol": "IEX",
+        "date": "2020-07-06",
+        "marketCap": 12058580560
+    },
+    {
+        "symbol": "IEX",
+        "date": "2020-07-02",
+        "marketCap": 11897327279
+    },
+    {
+        "symbol": "IEX",
+        "date": "2020-07-01",
+        "marketCap": 11742855680
+    },
+    {
+        "symbol": "IEX",
+        "date": "2020-06-30",
+        "marketCap": 11908630080
+    },
+    {
+        "symbol": "IEX",
+        "date": "2020-06-29",
+        "marketCap": 11605650689
+    },
+    {
+        "symbol": "IEX",
+        "date": "2020-06-26",
+        "marketCap": 11633463960
+    },
+    {
+        "symbol": "IEX",
+        "date": "2020-06-25",
+        "marketCap": 11440274490
+    },
+    {
+        "symbol": "IEX",
+        "date": "2020-06-24",
+        "marketCap": 11182437960
+    },
+    {
+        "symbol": "IEX",
+        "date": "2020-06-23",
+        "marketCap": 11598885300
+    },
+    {
+        "symbol": "IEX",
+        "date": "2020-06-22",
+        "marketCap": 11534238240
+    },
+    {
+        "symbol": "IEX",
+        "date": "2020-06-19",
+        "marketCap": 11519204040
+    },
+    {
+        "symbol": "IEX",
+        "date": "2020-06-18",
+        "marketCap": 11509431810
+    },
+    {
+        "symbol": "IEX",
+        "date": "2020-06-17",
+        "marketCap": 11627450280
+    },
+    {
+        "symbol": "IEX",
+        "date": "2020-06-16",
+        "marketCap": 11650753290
+    },
+    {
+        "symbol": "IEX",
+        "date": "2020-06-15",
+        "marketCap": 11480115120
+    },
+    {
+        "symbol": "IEX",
+        "date": "2020-06-12",
+        "marketCap": 11470342890
+    },
+    {
+        "symbol": "IEX",
+        "date": "2020-06-11",
+        "marketCap": 11359841520
+    },
+    {
+        "symbol": "IEX",
+        "date": "2020-06-10",
+        "marketCap": 12040890780
+    },
+    {
+        "symbol": "IEX",
+        "date": "2020-06-09",
+        "marketCap": 12185970810
+    },
+    {
+        "symbol": "IEX",
+        "date": "2020-06-08",
+        "marketCap": 12543033060
+    },
+    {
+        "symbol": "IEX",
+        "date": "2020-06-05",
+        "marketCap": 12575356590
+    },
+    {
+        "symbol": "IEX",
+        "date": "2020-06-04",
+        "marketCap": 12325037160
+    },
+    {
+        "symbol": "IEX",
+        "date": "2020-06-03",
+        "marketCap": 12467862060
+    },
+    {
+        "symbol": "IEX",
+        "date": "2020-06-02",
+        "marketCap": 12019842900
+    },
+    {
+        "symbol": "IEX",
+        "date": "2020-06-01",
+        "marketCap": 11886038520
+    },
+    {
+        "symbol": "IEX",
+        "date": "2020-05-29",
+        "marketCap": 11980002270
+    },
+    {
+        "symbol": "IEX",
+        "date": "2020-05-28",
+        "marketCap": 11837177370
+    },
+    {
+        "symbol": "IEX",
+        "date": "2020-05-27",
+        "marketCap": 11967974910
+    },
+    {
+        "symbol": "IEX",
+        "date": "2020-05-26",
+        "marketCap": 11658270390
+    },
+    {
+        "symbol": "IEX",
+        "date": "2020-05-22",
+        "marketCap": 11309476950
+    },
+    {
+        "symbol": "IEX",
+        "date": "2020-05-21",
+        "marketCap": 11392916760
+    },
+    {
+        "symbol": "IEX",
+        "date": "2020-05-20",
+        "marketCap": 11453805270
+    },
+    {
+        "symbol": "IEX",
+        "date": "2020-05-19",
+        "marketCap": 11362096650
+    },
+    {
+        "symbol": "IEX",
+        "date": "2020-05-18",
+        "marketCap": 11623691730
+    },
+    {
+        "symbol": "IEX",
+        "date": "2020-05-15",
+        "marketCap": 11156879820
+    },
+    {
+        "symbol": "IEX",
+        "date": "2020-05-14",
+        "marketCap": 11202734130
+    },
+    {
+        "symbol": "IEX",
+        "date": "2020-05-13",
+        "marketCap": 11035102800
+    },
+    {
+        "symbol": "IEX",
+        "date": "2020-05-12",
+        "marketCap": 11130569970
+    },
+    {
+        "symbol": "IEX",
+        "date": "2020-05-11",
+        "marketCap": 11543258760
+    },
+    {
+        "symbol": "IEX",
+        "date": "2020-05-08",
+        "marketCap": 11628953700
+    },
+    {
+        "symbol": "IEX",
+        "date": "2020-05-07",
+        "marketCap": 11531231400
+    },
+    {
+        "symbol": "IEX",
+        "date": "2020-05-06",
+        "marketCap": 11403440700
+    },
+    {
+        "symbol": "IEX",
+        "date": "2020-05-05",
+        "marketCap": 11409454380
+    },
+    {
+        "symbol": "IEX",
+        "date": "2020-05-04",
+        "marketCap": 11323007730
+    },
+    {
+        "symbol": "IEX",
+        "date": "2020-05-01",
+        "marketCap": 11372620590
+    },
+    {
+        "symbol": "IEX",
+        "date": "2020-04-30",
+        "marketCap": 11548520730
+    },
+    {
+        "symbol": "IEX",
+        "date": "2020-04-29",
+        "marketCap": 11867997480
+    },
+    {
+        "symbol": "IEX",
+        "date": "2020-04-28",
+        "marketCap": 11860480380
+    },
+    {
+        "symbol": "IEX",
+        "date": "2020-04-27",
+        "marketCap": 11748475590
+    },
+    {
+        "symbol": "IEX",
+        "date": "2020-04-24",
+        "marketCap": 11480115120
+    },
+    {
+        "symbol": "IEX",
+        "date": "2020-04-23",
+        "marketCap": 11453053560
+    },
+    {
+        "symbol": "IEX",
+        "date": "2020-04-22",
+        "marketCap": 11400433860
+    },
+    {
+        "symbol": "IEX",
+        "date": "2020-04-21",
+        "marketCap": 11172665730
+    },
+    {
+        "symbol": "IEX",
+        "date": "2020-04-20",
+        "marketCap": 11394420180
+    },
+    {
+        "symbol": "IEX",
+        "date": "2020-04-17",
+        "marketCap": 11480866830
+    },
+    {
+        "symbol": "IEX",
+        "date": "2020-04-16",
+        "marketCap": 11037357930
+    },
+    {
+        "symbol": "IEX",
+        "date": "2020-04-15",
+        "marketCap": 10929863400
+    },
+    {
+        "symbol": "IEX",
+        "date": "2020-04-14",
+        "marketCap": 11292187620
+    },
+    {
+        "symbol": "IEX",
+        "date": "2020-04-13",
+        "marketCap": 11022323730
+    },
+    {
+        "symbol": "IEX",
+        "date": "2020-04-09",
+        "marketCap": 11389909920
+    },
+    {
+        "symbol": "IEX",
+        "date": "2020-04-08",
+        "marketCap": 11350821000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2020-04-07",
+        "marketCap": 10981731390
+    },
+    {
+        "symbol": "IEX",
+        "date": "2020-04-06",
+        "marketCap": 10821617160
+    },
+    {
+        "symbol": "IEX",
+        "date": "2020-04-03",
+        "marketCap": 10411935210
+    },
+    {
+        "symbol": "IEX",
+        "date": "2020-04-02",
+        "marketCap": 10251820980
+    },
+    {
+        "symbol": "IEX",
+        "date": "2020-04-01",
+        "marketCap": 10012777200
+    },
+    {
+        "symbol": "IEX",
+        "date": "2020-03-31",
+        "marketCap": 10381866810
+    },
+    {
+        "symbol": "IEX",
+        "date": "2020-03-30",
+        "marketCap": 10367291200
+    },
+    {
+        "symbol": "IEX",
+        "date": "2020-03-27",
+        "marketCap": 9935573200
+    },
+    {
+        "symbol": "IEX",
+        "date": "2020-03-26",
+        "marketCap": 9528849400
+    },
+    {
+        "symbol": "IEX",
+        "date": "2020-03-25",
+        "marketCap": 9040326400
+    },
+    {
+        "symbol": "IEX",
+        "date": "2020-03-24",
+        "marketCap": 9088042600
+    },
+    {
+        "symbol": "IEX",
+        "date": "2020-03-23",
+        "marketCap": 8683591000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2020-03-20",
+        "marketCap": 8822195200
+    },
+    {
+        "symbol": "IEX",
+        "date": "2020-03-19",
+        "marketCap": 9343286400
+    },
+    {
+        "symbol": "IEX",
+        "date": "2020-03-18",
+        "marketCap": 8634360000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2020-03-17",
+        "marketCap": 9540210400
+    },
+    {
+        "symbol": "IEX",
+        "date": "2020-03-16",
+        "marketCap": 8763118000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2020-03-13",
+        "marketCap": 9910579000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2020-03-12",
+        "marketCap": 9326623600
+    },
+    {
+        "symbol": "IEX",
+        "date": "2020-03-11",
+        "marketCap": 10215053800
+    },
+    {
+        "symbol": "IEX",
+        "date": "2020-03-10",
+        "marketCap": 10940643000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2020-03-09",
+        "marketCap": 10277160600
+    },
+    {
+        "symbol": "IEX",
+        "date": "2020-03-06",
+        "marketCap": 11076217600
+    },
+    {
+        "symbol": "IEX",
+        "date": "2020-03-05",
+        "marketCap": 11225425400
+    },
+    {
+        "symbol": "IEX",
+        "date": "2020-03-04",
+        "marketCap": 11656386000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2020-03-03",
+        "marketCap": 11317070800
+    },
+    {
+        "symbol": "IEX",
+        "date": "2020-03-02",
+        "marketCap": 11591249600
+    },
+    {
+        "symbol": "IEX",
+        "date": "2020-02-28",
+        "marketCap": 11209520000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2020-02-27",
+        "marketCap": 11523841000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2020-02-26",
+        "marketCap": 12066139400
+    },
+    {
+        "symbol": "IEX",
+        "date": "2020-02-25",
+        "marketCap": 12333501600
+    },
+    {
+        "symbol": "IEX",
+        "date": "2020-02-24",
+        "marketCap": 12833385600
+    },
+    {
+        "symbol": "IEX",
+        "date": "2020-02-21",
+        "marketCap": 13129529000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2020-02-20",
+        "marketCap": 13146949200
+    },
+    {
+        "symbol": "IEX",
+        "date": "2020-02-19",
+        "marketCap": 13143919600
+    },
+    {
+        "symbol": "IEX",
+        "date": "2020-02-18",
+        "marketCap": 13250713000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2020-02-14",
+        "marketCap": 13238594600
+    },
+    {
+        "symbol": "IEX",
+        "date": "2020-02-13",
+        "marketCap": 13231020600
+    },
+    {
+        "symbol": "IEX",
+        "date": "2020-02-12",
+        "marketCap": 13391589400
+    },
+    {
+        "symbol": "IEX",
+        "date": "2020-02-11",
+        "marketCap": 13334027000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2020-02-10",
+        "marketCap": 13214357800
+    },
+    {
+        "symbol": "IEX",
+        "date": "2020-02-07",
+        "marketCap": 12978049000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2020-02-06",
+        "marketCap": 12965930600
+    },
+    {
+        "symbol": "IEX",
+        "date": "2020-02-05",
+        "marketCap": 12907610800
+    },
+    {
+        "symbol": "IEX",
+        "date": "2020-02-04",
+        "marketCap": 12806876600
+    },
+    {
+        "symbol": "IEX",
+        "date": "2020-02-03",
+        "marketCap": 12501644400
+    },
+    {
+        "symbol": "IEX",
+        "date": "2020-01-31",
+        "marketCap": 12409999000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2020-01-30",
+        "marketCap": 12566780800
+    },
+    {
+        "symbol": "IEX",
+        "date": "2020-01-29",
+        "marketCap": 13037883599
+    },
+    {
+        "symbol": "IEX",
+        "date": "2020-01-28",
+        "marketCap": 12972747200
+    },
+    {
+        "symbol": "IEX",
+        "date": "2020-01-27",
+        "marketCap": 12859137200
+    },
+    {
+        "symbol": "IEX",
+        "date": "2020-01-24",
+        "marketCap": 13037883599
+    },
+    {
+        "symbol": "IEX",
+        "date": "2020-01-23",
+        "marketCap": 13159067600
+    },
+    {
+        "symbol": "IEX",
+        "date": "2020-01-22",
+        "marketCap": 13103020000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2020-01-21",
+        "marketCap": 13243896400
+    },
+    {
+        "symbol": "IEX",
+        "date": "2020-01-17",
+        "marketCap": 13318879000
+    },
+    {
+        "symbol": "IEX",
+        "date": "2020-01-16",
+        "marketCap": 13305245800
+    },
+    {
+        "symbol": "IEX",
+        "date": "2020-01-15",
+        "marketCap": 13112108800
+    },
+    {
+        "symbol": "IEX",
+        "date": "2020-01-14",
+        "marketCap": 13062120400
+    },
+    {
+        "symbol": "IEX",
+        "date": "2020-01-13",
+        "marketCap": 13128771600
+    },
+    {
+        "symbol": "IEX",
+        "date": "2020-01-10",
+        "marketCap": 13032581800
+    },
+    {
+        "symbol": "IEX",
+        "date": "2020-01-09",
+        "marketCap": 13170428599
+    },
+    {
+        "symbol": "IEX",
+        "date": "2020-01-08",
+        "marketCap": 13040913200
+    },
+    {
+        "symbol": "IEX",
+        "date": "2020-01-07",
+        "marketCap": 12937149400
+    },
+    {
+        "symbol": "IEX",
+        "date": "2020-01-06",
+        "marketCap": 13098475600
+    },
+    {
+        "symbol": "IEX",
+        "date": "2020-01-03",
+        "marketCap": 13084842400
+    },
+    {
+        "symbol": "IEX",
+        "date": "2020-01-02",
+        "marketCap": 13125742000
+    }
+]

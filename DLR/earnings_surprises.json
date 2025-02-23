@@ -1,0 +1,440 @@
+[
+    {
+        "date": "2024-10-24",
+        "symbol": "DLR",
+        "actualEarningResult": 1.67,
+        "estimatedEarning": 1.67
+    },
+    {
+        "date": "2024-07-25",
+        "symbol": "DLR",
+        "actualEarningResult": 1.65,
+        "estimatedEarning": 1.63
+    },
+    {
+        "date": "2024-05-02",
+        "symbol": "DLR",
+        "actualEarningResult": 1.67,
+        "estimatedEarning": 1.63
+    },
+    {
+        "date": "2024-02-15",
+        "symbol": "DLR",
+        "actualEarningResult": 1.63,
+        "estimatedEarning": 1.64
+    },
+    {
+        "date": "2023-10-26",
+        "symbol": "DLR",
+        "actualEarningResult": 1.62,
+        "estimatedEarning": 1.62
+    },
+    {
+        "date": "2023-07-27",
+        "symbol": "DLR",
+        "actualEarningResult": 1.68,
+        "estimatedEarning": 1.65
+    },
+    {
+        "date": "2023-04-27",
+        "symbol": "DLR",
+        "actualEarningResult": 1.66,
+        "estimatedEarning": 1.65
+    },
+    {
+        "date": "2023-02-16",
+        "symbol": "DLR",
+        "actualEarningResult": 1.65,
+        "estimatedEarning": 1.68
+    },
+    {
+        "date": "2022-10-26",
+        "symbol": "DLR",
+        "actualEarningResult": 1.67,
+        "estimatedEarning": 1.67
+    },
+    {
+        "date": "2022-07-28",
+        "symbol": "DLR",
+        "actualEarningResult": 1.55,
+        "estimatedEarning": 1.64
+    },
+    {
+        "date": "2022-04-28",
+        "symbol": "DLR",
+        "actualEarningResult": 1.67,
+        "estimatedEarning": 1.67
+    },
+    {
+        "date": "2022-02-17",
+        "symbol": "DLR",
+        "actualEarningResult": 1.67,
+        "estimatedEarning": 1.68
+    },
+    {
+        "date": "2021-10-26",
+        "symbol": "DLR",
+        "actualEarningResult": 1.65,
+        "estimatedEarning": 1.62
+    },
+    {
+        "date": "2021-07-29",
+        "symbol": "DLR",
+        "actualEarningResult": 1.54,
+        "estimatedEarning": 1.58
+    },
+    {
+        "date": "2021-04-29",
+        "symbol": "DLR",
+        "actualEarningResult": 1.32,
+        "estimatedEarning": 0.29
+    },
+    {
+        "date": "2021-02-11",
+        "symbol": "DLR",
+        "actualEarningResult": 1.61,
+        "estimatedEarning": 1.52
+    },
+    {
+        "date": "2020-10-29",
+        "symbol": "DLR",
+        "actualEarningResult": 1.54,
+        "estimatedEarning": 1.48
+    },
+    {
+        "date": "2020-07-30",
+        "symbol": "DLR",
+        "actualEarningResult": 1.54,
+        "estimatedEarning": 1.48
+    },
+    {
+        "date": "2020-05-07",
+        "symbol": "DLR",
+        "actualEarningResult": 1.53,
+        "estimatedEarning": 1.54
+    },
+    {
+        "date": "2020-02-13",
+        "symbol": "DLR",
+        "actualEarningResult": 1.5,
+        "estimatedEarning": 0.73
+    },
+    {
+        "date": "2019-10-29",
+        "symbol": "DLR",
+        "actualEarningResult": 1.67,
+        "estimatedEarning": 1.64
+    },
+    {
+        "date": "2019-07-30",
+        "symbol": "DLR",
+        "actualEarningResult": 1.64,
+        "estimatedEarning": 1.63
+    },
+    {
+        "date": "2019-04-25",
+        "symbol": "DLR",
+        "actualEarningResult": 1.73,
+        "estimatedEarning": 1.65
+    },
+    {
+        "date": "2019-02-05",
+        "symbol": "DLR",
+        "actualEarningResult": 1.68,
+        "estimatedEarning": 1.67
+    },
+    {
+        "date": "2018-10-25",
+        "symbol": "DLR",
+        "actualEarningResult": 1.63,
+        "estimatedEarning": 1.62
+    },
+    {
+        "date": "2018-07-26",
+        "symbol": "DLR",
+        "actualEarningResult": 1.66,
+        "estimatedEarning": 1.61
+    },
+    {
+        "date": "2018-04-26",
+        "symbol": "DLR",
+        "actualEarningResult": 1.61,
+        "estimatedEarning": 1.58
+    },
+    {
+        "date": "2018-02-15",
+        "symbol": "DLR",
+        "actualEarningResult": 1.55,
+        "estimatedEarning": 1.52
+    },
+    {
+        "date": "2017-10-25",
+        "symbol": "DLR",
+        "actualEarningResult": 1.51,
+        "estimatedEarning": 1.49
+    },
+    {
+        "date": "2017-07-27",
+        "symbol": "DLR",
+        "actualEarningResult": 1.54,
+        "estimatedEarning": 1.49
+    },
+    {
+        "date": "2017-04-27",
+        "symbol": "DLR",
+        "actualEarningResult": 1.5,
+        "estimatedEarning": 1.47
+    },
+    {
+        "date": "2017-02-16",
+        "symbol": "DLR",
+        "actualEarningResult": 1.43,
+        "estimatedEarning": 1.43
+    },
+    {
+        "date": "2016-10-27",
+        "symbol": "DLR",
+        "actualEarningResult": 1.44,
+        "estimatedEarning": 1.45
+    },
+    {
+        "date": "2016-07-28",
+        "symbol": "DLR",
+        "actualEarningResult": 1.42,
+        "estimatedEarning": 1.36
+    },
+    {
+        "date": "2016-04-28",
+        "symbol": "DLR",
+        "actualEarningResult": 1.42,
+        "estimatedEarning": 1.34
+    },
+    {
+        "date": "2016-02-25",
+        "symbol": "DLR",
+        "actualEarningResult": 1.38,
+        "estimatedEarning": 1.28
+    },
+    {
+        "date": "2015-10-29",
+        "symbol": "DLR",
+        "actualEarningResult": 1.28,
+        "estimatedEarning": 1.28
+    },
+    {
+        "date": "2015-07-30",
+        "symbol": "DLR",
+        "actualEarningResult": 1.26,
+        "estimatedEarning": 1.25
+    },
+    {
+        "date": "2015-05-05",
+        "symbol": "DLR",
+        "actualEarningResult": 1.27,
+        "estimatedEarning": 1.24
+    },
+    {
+        "date": "2015-02-12",
+        "symbol": "DLR",
+        "actualEarningResult": 1.26,
+        "estimatedEarning": 1.24
+    },
+    {
+        "date": "2014-10-28",
+        "symbol": "DLR",
+        "actualEarningResult": 0.9,
+        "estimatedEarning": 0.28
+    },
+    {
+        "date": "2014-07-29",
+        "symbol": "DLR",
+        "actualEarningResult": 1.2,
+        "estimatedEarning": 1.2
+    },
+    {
+        "date": "2014-05-06",
+        "symbol": "DLR",
+        "actualEarningResult": 1.22,
+        "estimatedEarning": 1.18
+    },
+    {
+        "date": "2014-02-24",
+        "symbol": "DLR",
+        "actualEarningResult": 1.26,
+        "estimatedEarning": 1.14
+    },
+    {
+        "date": "2013-10-29",
+        "symbol": "DLR",
+        "actualEarningResult": 1.16,
+        "estimatedEarning": 1.2
+    },
+    {
+        "date": "2013-07-26",
+        "symbol": "DLR",
+        "actualEarningResult": 1.22,
+        "estimatedEarning": 1.17
+    },
+    {
+        "date": "2013-04-26",
+        "symbol": "DLR",
+        "actualEarningResult": 1.16,
+        "estimatedEarning": 1.18
+    },
+    {
+        "date": "2013-02-15",
+        "symbol": "DLR",
+        "actualEarningResult": 1.16,
+        "estimatedEarning": 1.16
+    },
+    {
+        "date": "2012-10-26",
+        "symbol": "DLR",
+        "actualEarningResult": 1.13,
+        "estimatedEarning": 0.98
+    },
+    {
+        "date": "2012-07-25",
+        "symbol": "DLR",
+        "actualEarningResult": 1.09,
+        "estimatedEarning": 0.37
+    },
+    {
+        "date": "2012-04-26",
+        "symbol": "DLR",
+        "actualEarningResult": 1.06,
+        "estimatedEarning": 0.36
+    },
+    {
+        "date": "2012-02-17",
+        "symbol": "DLR",
+        "actualEarningResult": 1.02,
+        "estimatedEarning": 0.3
+    },
+    {
+        "date": "2011-10-27",
+        "symbol": "DLR",
+        "actualEarningResult": 1.01,
+        "estimatedEarning": 0.31
+    },
+    {
+        "date": "2011-07-28",
+        "symbol": "DLR",
+        "actualEarningResult": 1.02,
+        "estimatedEarning": 0.29
+    },
+    {
+        "date": "2011-04-28",
+        "symbol": "DLR",
+        "actualEarningResult": 1.02,
+        "estimatedEarning": 0.21
+    },
+    {
+        "date": "2011-02-18",
+        "symbol": "DLR",
+        "actualEarningResult": 0.98,
+        "estimatedEarning": 0.22
+    },
+    {
+        "date": "2010-11-04",
+        "symbol": "DLR",
+        "actualEarningResult": 0.81,
+        "estimatedEarning": 0.15
+    },
+    {
+        "date": "2010-07-23",
+        "symbol": "DLR",
+        "actualEarningResult": 0.76,
+        "estimatedEarning": 0.25
+    },
+    {
+        "date": "2010-04-29",
+        "symbol": "DLR",
+        "actualEarningResult": 0.81,
+        "estimatedEarning": 0.21
+    },
+    {
+        "date": "2010-02-25",
+        "symbol": "DLR",
+        "actualEarningResult": 0.79,
+        "estimatedEarning": 0.23
+    },
+    {
+        "date": "2009-10-29",
+        "symbol": "DLR",
+        "actualEarningResult": 0.74,
+        "estimatedEarning": 0.13
+    },
+    {
+        "date": "2009-07-30",
+        "symbol": "DLR",
+        "actualEarningResult": 0.71,
+        "estimatedEarning": 0.11
+    },
+    {
+        "date": "2009-04-28",
+        "symbol": "DLR",
+        "actualEarningResult": 0.14,
+        "estimatedEarning": 0.1
+    },
+    {
+        "date": "2009-02-26",
+        "symbol": "DLR",
+        "actualEarningResult": 0.2,
+        "estimatedEarning": 0.14
+    },
+    {
+        "date": "2008-11-05",
+        "symbol": "DLR",
+        "actualEarningResult": 0.11,
+        "estimatedEarning": 0.1
+    },
+    {
+        "date": "2008-08-06",
+        "symbol": "DLR",
+        "actualEarningResult": 0.05,
+        "estimatedEarning": 0.06
+    },
+    {
+        "date": "2008-05-08",
+        "symbol": "DLR",
+        "actualEarningResult": 0.04,
+        "estimatedEarning": 0.04
+    },
+    {
+        "date": "2008-02-26",
+        "symbol": "DLR",
+        "actualEarningResult": 0.08578,
+        "estimatedEarning": null
+    },
+    {
+        "date": "2007-11-06",
+        "symbol": "DLR",
+        "actualEarningResult": 0.08457,
+        "estimatedEarning": 0.06
+    },
+    {
+        "date": "2007-08-07",
+        "symbol": "DLR",
+        "actualEarningResult": 0.04,
+        "estimatedEarning": 0.09
+    },
+    {
+        "date": "2007-05-08",
+        "symbol": "DLR",
+        "actualEarningResult": 0.32,
+        "estimatedEarning": 0.1
+    },
+    {
+        "date": "2007-02-27",
+        "symbol": "DLR",
+        "actualEarningResult": 0.06,
+        "estimatedEarning": -0.06
+    },
+    {
+        "date": "2006-11-06",
+        "symbol": "DLR",
+        "actualEarningResult": 0.3,
+        "estimatedEarning": 0.07
+    }
+]

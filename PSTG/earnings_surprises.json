@@ -1,0 +1,224 @@
+[
+    {
+        "date": "2024-12-03",
+        "symbol": "PSTG",
+        "actualEarningResult": 0.5,
+        "estimatedEarning": 0.42
+    },
+    {
+        "date": "2024-08-28",
+        "symbol": "PSTG",
+        "actualEarningResult": 0.44,
+        "estimatedEarning": 0.3687
+    },
+    {
+        "date": "2024-05-29",
+        "symbol": "PSTG",
+        "actualEarningResult": 0.32,
+        "estimatedEarning": 0.2104
+    },
+    {
+        "date": "2024-02-28",
+        "symbol": "PSTG",
+        "actualEarningResult": 0.5,
+        "estimatedEarning": 0.4361
+    },
+    {
+        "date": "2023-11-29",
+        "symbol": "PSTG",
+        "actualEarningResult": 0.5,
+        "estimatedEarning": 0.41
+    },
+    {
+        "date": "2023-08-30",
+        "symbol": "PSTG",
+        "actualEarningResult": 0.34,
+        "estimatedEarning": 0.28
+    },
+    {
+        "date": "2023-05-31",
+        "symbol": "PSTG",
+        "actualEarningResult": 0.08,
+        "estimatedEarning": 0.03728
+    },
+    {
+        "date": "2023-03-01",
+        "symbol": "PSTG",
+        "actualEarningResult": 0.53,
+        "estimatedEarning": 0.39
+    },
+    {
+        "date": "2022-11-30",
+        "symbol": "PSTG",
+        "actualEarningResult": 0.31,
+        "estimatedEarning": 0.26
+    },
+    {
+        "date": "2022-08-31",
+        "symbol": "PSTG",
+        "actualEarningResult": 0.32,
+        "estimatedEarning": 0.22
+    },
+    {
+        "date": "2022-06-01",
+        "symbol": "PSTG",
+        "actualEarningResult": 0.25,
+        "estimatedEarning": 0.04311
+    },
+    {
+        "date": "2022-03-02",
+        "symbol": "PSTG",
+        "actualEarningResult": 0.36,
+        "estimatedEarning": 0.27
+    },
+    {
+        "date": "2021-11-23",
+        "symbol": "PSTG",
+        "actualEarningResult": 0.22,
+        "estimatedEarning": 0.12
+    },
+    {
+        "date": "2021-08-25",
+        "symbol": "PSTG",
+        "actualEarningResult": 0.14,
+        "estimatedEarning": 0.05
+    },
+    {
+        "date": "2021-05-26",
+        "symbol": "PSTG",
+        "actualEarningResult": -0.30038,
+        "estimatedEarning": -0.07
+    },
+    {
+        "date": "2021-02-24",
+        "symbol": "PSTG",
+        "actualEarningResult": 0.13,
+        "estimatedEarning": 0.09
+    },
+    {
+        "date": "2020-11-24",
+        "symbol": "PSTG",
+        "actualEarningResult": 0.01,
+        "estimatedEarning": 0.00203
+    },
+    {
+        "date": "2020-08-25",
+        "symbol": "PSTG",
+        "actualEarningResult": 0.06,
+        "estimatedEarning": 0.0049
+    },
+    {
+        "date": "2020-05-28",
+        "symbol": "PSTG",
+        "actualEarningResult": -0.02,
+        "estimatedEarning": -0.16
+    },
+    {
+        "date": "2020-02-27",
+        "symbol": "PSTG",
+        "actualEarningResult": 0.23,
+        "estimatedEarning": 0.22
+    },
+    {
+        "date": "2019-11-21",
+        "symbol": "PSTG",
+        "actualEarningResult": 0.13,
+        "estimatedEarning": 0.09
+    },
+    {
+        "date": "2019-08-21",
+        "symbol": "PSTG",
+        "actualEarningResult": 0.01,
+        "estimatedEarning": 0.00445
+    },
+    {
+        "date": "2019-05-21",
+        "symbol": "PSTG",
+        "actualEarningResult": -0.11,
+        "estimatedEarning": -0.08
+    },
+    {
+        "date": "2019-02-28",
+        "symbol": "PSTG",
+        "actualEarningResult": 0.14,
+        "estimatedEarning": 0.18
+    },
+    {
+        "date": "2018-11-19",
+        "symbol": "PSTG",
+        "actualEarningResult": 0.13,
+        "estimatedEarning": 0.09
+    },
+    {
+        "date": "2018-08-21",
+        "symbol": "PSTG",
+        "actualEarningResult": 0.01,
+        "estimatedEarning": -0.05
+    },
+    {
+        "date": "2018-05-21",
+        "symbol": "PSTG",
+        "actualEarningResult": -0.07,
+        "estimatedEarning": -0.12
+    },
+    {
+        "date": "2018-03-01",
+        "symbol": "PSTG",
+        "actualEarningResult": 0.13,
+        "estimatedEarning": 0.07
+    },
+    {
+        "date": "2017-11-28",
+        "symbol": "PSTG",
+        "actualEarningResult": -0.01,
+        "estimatedEarning": -0.00596
+    },
+    {
+        "date": "2017-08-24",
+        "symbol": "PSTG",
+        "actualEarningResult": -0.11,
+        "estimatedEarning": -0.14
+    },
+    {
+        "date": "2017-05-24",
+        "symbol": "PSTG",
+        "actualEarningResult": -0.14,
+        "estimatedEarning": -0.23
+    },
+    {
+        "date": "2017-03-01",
+        "symbol": "PSTG",
+        "actualEarningResult": -0.02,
+        "estimatedEarning": -0.07
+    },
+    {
+        "date": "2016-11-30",
+        "symbol": "PSTG",
+        "actualEarningResult": -0.1,
+        "estimatedEarning": -0.15
+    },
+    {
+        "date": "2016-08-25",
+        "symbol": "PSTG",
+        "actualEarningResult": -0.16,
+        "estimatedEarning": -0.23
+    },
+    {
+        "date": "2016-05-25",
+        "symbol": "PSTG",
+        "actualEarningResult": -0.22,
+        "estimatedEarning": -0.23
+    },
+    {
+        "date": "2016-03-02",
+        "symbol": "PSTG",
+        "actualEarningResult": -0.12,
+        "estimatedEarning": -0.16
+    },
+    {
+        "date": "2015-12-02",
+        "symbol": "PSTG",
+        "actualEarningResult": -0.18,
+        "estimatedEarning": -0.31
+    }
+]

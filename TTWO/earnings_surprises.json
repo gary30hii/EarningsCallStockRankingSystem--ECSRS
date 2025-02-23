@@ -1,0 +1,560 @@
+[
+    {
+        "date": "2024-11-06",
+        "symbol": "TTWO",
+        "actualEarningResult": 0.66,
+        "estimatedEarning": 0.4151
+    },
+    {
+        "date": "2024-08-08",
+        "symbol": "TTWO",
+        "actualEarningResult": 0.05,
+        "estimatedEarning": 0.01205
+    },
+    {
+        "date": "2024-05-16",
+        "symbol": "TTWO",
+        "actualEarningResult": 0.31,
+        "estimatedEarning": 0.08541
+    },
+    {
+        "date": "2024-02-08",
+        "symbol": "TTWO",
+        "actualEarningResult": 0.71,
+        "estimatedEarning": 0.72
+    },
+    {
+        "date": "2023-11-08",
+        "symbol": "TTWO",
+        "actualEarningResult": 1.23,
+        "estimatedEarning": 1.02
+    },
+    {
+        "date": "2023-08-08",
+        "symbol": "TTWO",
+        "actualEarningResult": 0.36,
+        "estimatedEarning": 0.37
+    },
+    {
+        "date": "2023-05-17",
+        "symbol": "TTWO",
+        "actualEarningResult": 0.85,
+        "estimatedEarning": 0.68
+    },
+    {
+        "date": "2023-02-06",
+        "symbol": "TTWO",
+        "actualEarningResult": 0.93,
+        "estimatedEarning": 0.88
+    },
+    {
+        "date": "2022-11-07",
+        "symbol": "TTWO",
+        "actualEarningResult": 1.25,
+        "estimatedEarning": 1.37
+    },
+    {
+        "date": "2022-08-08",
+        "symbol": "TTWO",
+        "actualEarningResult": 0.61,
+        "estimatedEarning": 0.84
+    },
+    {
+        "date": "2022-05-16",
+        "symbol": "TTWO",
+        "actualEarningResult": 1.09,
+        "estimatedEarning": 1.04
+    },
+    {
+        "date": "2022-02-07",
+        "symbol": "TTWO",
+        "actualEarningResult": 1.32,
+        "estimatedEarning": 1.22
+    },
+    {
+        "date": "2021-11-03",
+        "symbol": "TTWO",
+        "actualEarningResult": 1.58,
+        "estimatedEarning": 1.35
+    },
+    {
+        "date": "2021-08-02",
+        "symbol": "TTWO",
+        "actualEarningResult": 1.01,
+        "estimatedEarning": 0.89
+    },
+    {
+        "date": "2021-05-18",
+        "symbol": "TTWO",
+        "actualEarningResult": 1.44,
+        "estimatedEarning": 0.68
+    },
+    {
+        "date": "2021-02-08",
+        "symbol": "TTWO",
+        "actualEarningResult": 1.25,
+        "estimatedEarning": 0.96
+    },
+    {
+        "date": "2020-11-05",
+        "symbol": "TTWO",
+        "actualEarningResult": 2.04,
+        "estimatedEarning": 1.45
+    },
+    {
+        "date": "2020-08-03",
+        "symbol": "TTWO",
+        "actualEarningResult": 2.68,
+        "estimatedEarning": 1.58
+    },
+    {
+        "date": "2020-05-20",
+        "symbol": "TTWO",
+        "actualEarningResult": 1.66,
+        "estimatedEarning": 0.88
+    },
+    {
+        "date": "2020-02-06",
+        "symbol": "TTWO",
+        "actualEarningResult": 1.63,
+        "estimatedEarning": 1.75
+    },
+    {
+        "date": "2019-11-07",
+        "symbol": "TTWO",
+        "actualEarningResult": 1.89,
+        "estimatedEarning": 1.67
+    },
+    {
+        "date": "2019-08-05",
+        "symbol": "TTWO",
+        "actualEarningResult": 0.24,
+        "estimatedEarning": 0.02253
+    },
+    {
+        "date": "2019-05-13",
+        "symbol": "TTWO",
+        "actualEarningResult": 0.86,
+        "estimatedEarning": 0.77
+    },
+    {
+        "date": "2019-02-06",
+        "symbol": "TTWO",
+        "actualEarningResult": 4.05,
+        "estimatedEarning": 2.75
+    },
+    {
+        "date": "2018-11-07",
+        "symbol": "TTWO",
+        "actualEarningResult": 1.05,
+        "estimatedEarning": 0.91
+    },
+    {
+        "date": "2018-08-02",
+        "symbol": "TTWO",
+        "actualEarningResult": 0.19,
+        "estimatedEarning": 0.15
+    },
+    {
+        "date": "2018-05-16",
+        "symbol": "TTWO",
+        "actualEarningResult": 0.87,
+        "estimatedEarning": 0.63
+    },
+    {
+        "date": "2018-02-07",
+        "symbol": "TTWO",
+        "actualEarningResult": 1.26,
+        "estimatedEarning": 1
+    },
+    {
+        "date": "2017-11-07",
+        "symbol": "TTWO",
+        "actualEarningResult": 1.09,
+        "estimatedEarning": 0.74
+    },
+    {
+        "date": "2017-08-02",
+        "symbol": "TTWO",
+        "actualEarningResult": 0.6,
+        "estimatedEarning": 0.2
+    },
+    {
+        "date": "2017-05-23",
+        "symbol": "TTWO",
+        "actualEarningResult": 0.68,
+        "estimatedEarning": 0.57
+    },
+    {
+        "date": "2017-02-07",
+        "symbol": "TTWO",
+        "actualEarningResult": 0.86,
+        "estimatedEarning": 0.37
+    },
+    {
+        "date": "2016-11-02",
+        "symbol": "TTWO",
+        "actualEarningResult": 0.45,
+        "estimatedEarning": 0.29
+    },
+    {
+        "date": "2016-08-04",
+        "symbol": "TTWO",
+        "actualEarningResult": -0.21,
+        "estimatedEarning": -0.3
+    },
+    {
+        "date": "2016-05-18",
+        "symbol": "TTWO",
+        "actualEarningResult": 0.46,
+        "estimatedEarning": 0.26
+    },
+    {
+        "date": "2016-02-03",
+        "symbol": "TTWO",
+        "actualEarningResult": 0.89,
+        "estimatedEarning": 0.49
+    },
+    {
+        "date": "2015-11-05",
+        "symbol": "TTWO",
+        "actualEarningResult": 0.3,
+        "estimatedEarning": 0.15
+    },
+    {
+        "date": "2015-08-10",
+        "symbol": "TTWO",
+        "actualEarningResult": 0.31,
+        "estimatedEarning": 0.37
+    },
+    {
+        "date": "2015-05-18",
+        "symbol": "TTWO",
+        "actualEarningResult": 0.49,
+        "estimatedEarning": 0.26
+    },
+    {
+        "date": "2015-02-03",
+        "symbol": "TTWO",
+        "actualEarningResult": 1.87,
+        "estimatedEarning": 1.52
+    },
+    {
+        "date": "2014-10-29",
+        "symbol": "TTWO",
+        "actualEarningResult": -0.44,
+        "estimatedEarning": -0.48
+    },
+    {
+        "date": "2014-08-05",
+        "symbol": "TTWO",
+        "actualEarningResult": -0.14,
+        "estimatedEarning": -0.26
+    },
+    {
+        "date": "2014-05-13",
+        "symbol": "TTWO",
+        "actualEarningResult": 0.21,
+        "estimatedEarning": 0.11
+    },
+    {
+        "date": "2014-02-03",
+        "symbol": "TTWO",
+        "actualEarningResult": 1.7,
+        "estimatedEarning": 1.41
+    },
+    {
+        "date": "2013-10-29",
+        "symbol": "TTWO",
+        "actualEarningResult": 2.49,
+        "estimatedEarning": 1.65
+    },
+    {
+        "date": "2013-07-30",
+        "symbol": "TTWO",
+        "actualEarningResult": -0.54,
+        "estimatedEarning": -0.58
+    },
+    {
+        "date": "2013-05-13",
+        "symbol": "TTWO",
+        "actualEarningResult": 0.38,
+        "estimatedEarning": 0.25
+    },
+    {
+        "date": "2013-02-05",
+        "symbol": "TTWO",
+        "actualEarningResult": 0.67,
+        "estimatedEarning": 0.54
+    },
+    {
+        "date": "2012-10-31",
+        "symbol": "TTWO",
+        "actualEarningResult": 0.11,
+        "estimatedEarning": -0.17
+    },
+    {
+        "date": "2012-07-31",
+        "symbol": "TTWO",
+        "actualEarningResult": -1.16,
+        "estimatedEarning": -0.65
+    },
+    {
+        "date": "2012-05-22",
+        "symbol": "TTWO",
+        "actualEarningResult": -0.6,
+        "estimatedEarning": -0.55
+    },
+    {
+        "date": "2012-02-02",
+        "symbol": "TTWO",
+        "actualEarningResult": 0.27,
+        "estimatedEarning": 0.23
+    },
+    {
+        "date": "2011-11-08",
+        "symbol": "TTWO",
+        "actualEarningResult": -0.47,
+        "estimatedEarning": -0.57
+    },
+    {
+        "date": "2011-08-08",
+        "symbol": "TTWO",
+        "actualEarningResult": 0.02,
+        "estimatedEarning": 0.09
+    },
+    {
+        "date": "2011-05-24",
+        "symbol": "TTWO",
+        "actualEarningResult": -0.18,
+        "estimatedEarning": -0.39
+    },
+    {
+        "date": "2011-02-08",
+        "symbol": "TTWO",
+        "actualEarningResult": 0.52,
+        "estimatedEarning": 0.34
+    },
+    {
+        "date": "2010-12-16",
+        "symbol": "TTWO",
+        "actualEarningResult": 0.67,
+        "estimatedEarning": 0.31
+    },
+    {
+        "date": "2010-09-02",
+        "symbol": "TTWO",
+        "actualEarningResult": 0.28,
+        "estimatedEarning": -0.06
+    },
+    {
+        "date": "2010-06-08",
+        "symbol": "TTWO",
+        "actualEarningResult": 0.34,
+        "estimatedEarning": 0.26
+    },
+    {
+        "date": "2009-12-17",
+        "symbol": "TTWO",
+        "actualEarningResult": 0.09,
+        "estimatedEarning": -0.51
+    },
+    {
+        "date": "2009-09-01",
+        "symbol": "TTWO",
+        "actualEarningResult": -0.66,
+        "estimatedEarning": -0.68
+    },
+    {
+        "date": "2009-05-26",
+        "symbol": "TTWO",
+        "actualEarningResult": -0.04,
+        "estimatedEarning": -0.13
+    },
+    {
+        "date": "2009-03-10",
+        "symbol": "TTWO",
+        "actualEarningResult": -0.52,
+        "estimatedEarning": -0.72
+    },
+    {
+        "date": "2008-09-04",
+        "symbol": "TTWO",
+        "actualEarningResult": 0.93,
+        "estimatedEarning": 0.54
+    },
+    {
+        "date": "2008-06-05",
+        "symbol": "TTWO",
+        "actualEarningResult": 1.52,
+        "estimatedEarning": 1.13
+    },
+    {
+        "date": "2008-03-11",
+        "symbol": "TTWO",
+        "actualEarningResult": -0.41,
+        "estimatedEarning": -0.51
+    },
+    {
+        "date": "2007-09-10",
+        "symbol": "TTWO",
+        "actualEarningResult": -0.64,
+        "estimatedEarning": -0.8
+    },
+    {
+        "date": "2007-06-11",
+        "symbol": "TTWO",
+        "actualEarningResult": -0.41,
+        "estimatedEarning": -0.58
+    },
+    {
+        "date": "2007-03-12",
+        "symbol": "TTWO",
+        "actualEarningResult": -0.13,
+        "estimatedEarning": -0.33
+    },
+    {
+        "date": "2006-06-08",
+        "symbol": "TTWO",
+        "actualEarningResult": -0.71,
+        "estimatedEarning": -0.11
+    },
+    {
+        "date": "2006-03-07",
+        "symbol": "TTWO",
+        "actualEarningResult": -0.41,
+        "estimatedEarning": -0.11
+    },
+    {
+        "date": "2005-09-07",
+        "symbol": "TTWO",
+        "actualEarningResult": -0.41,
+        "estimatedEarning": -0.38
+    },
+    {
+        "date": "2005-06-02",
+        "symbol": "TTWO",
+        "actualEarningResult": -0.12,
+        "estimatedEarning": -0.13
+    },
+    {
+        "date": "2005-03-03",
+        "symbol": "TTWO",
+        "actualEarningResult": 0.79,
+        "estimatedEarning": 0.72
+    },
+    {
+        "date": "2004-12-16",
+        "symbol": "TTWO",
+        "actualEarningResult": 0.91,
+        "estimatedEarning": 1.03
+    },
+    {
+        "date": "2004-09-09",
+        "symbol": "TTWO",
+        "actualEarningResult": -0.21,
+        "estimatedEarning": -0.2
+    },
+    {
+        "date": "2004-06-08",
+        "symbol": "TTWO",
+        "actualEarningResult": -0.22,
+        "estimatedEarning": -0.1
+    },
+    {
+        "date": "2004-03-04",
+        "symbol": "TTWO",
+        "actualEarningResult": 0.47,
+        "estimatedEarning": 0.47
+    },
+    {
+        "date": "2003-09-03",
+        "symbol": "TTWO",
+        "actualEarningResult": 0.12,
+        "estimatedEarning": 0.11
+    },
+    {
+        "date": "2003-05-29",
+        "symbol": "TTWO",
+        "actualEarningResult": 0.24,
+        "estimatedEarning": 0.23
+    },
+    {
+        "date": "2003-02-27",
+        "symbol": "TTWO",
+        "actualEarningResult": 0.8,
+        "estimatedEarning": 0.77
+    },
+    {
+        "date": "2002-09-05",
+        "symbol": "TTWO",
+        "actualEarningResult": 0.08,
+        "estimatedEarning": 0.05
+    },
+    {
+        "date": "2002-06-06",
+        "symbol": "TTWO",
+        "actualEarningResult": 0.18,
+        "estimatedEarning": 0.17
+    },
+    {
+        "date": "2002-03-14",
+        "symbol": "TTWO",
+        "actualEarningResult": 0.61,
+        "estimatedEarning": 0.6
+    },
+    {
+        "date": "2001-08-29",
+        "symbol": "TTWO",
+        "actualEarningResult": 0.03,
+        "estimatedEarning": 0.03204
+    },
+    {
+        "date": "2001-05-24",
+        "symbol": "TTWO",
+        "actualEarningResult": 0.08,
+        "estimatedEarning": 0.08
+    },
+    {
+        "date": "2001-02-26",
+        "symbol": "TTWO",
+        "actualEarningResult": 0.16,
+        "estimatedEarning": 0.19
+    },
+    {
+        "date": "2000-12-14",
+        "symbol": "TTWO",
+        "actualEarningResult": 0.28,
+        "estimatedEarning": 0.27
+    },
+    {
+        "date": "2000-08-24",
+        "symbol": "TTWO",
+        "actualEarningResult": 0.09,
+        "estimatedEarning": 0.07
+    },
+    {
+        "date": "2000-06-01",
+        "symbol": "TTWO",
+        "actualEarningResult": 0.09,
+        "estimatedEarning": 0.08
+    },
+    {
+        "date": "2000-02-24",
+        "symbol": "TTWO",
+        "actualEarningResult": 0.13,
+        "estimatedEarning": 0.12
+    },
+    {
+        "date": "1999-12-16",
+        "symbol": "TTWO",
+        "actualEarningResult": 0.26,
+        "estimatedEarning": 0.23
+    },
+    {
+        "date": "1999-08-25",
+        "symbol": "TTWO",
+        "actualEarningResult": 0.07,
+        "estimatedEarning": 0.06
+    }
+]

@@ -1,0 +1,698 @@
+[
+    {
+        "date": "2024-11-20",
+        "symbol": "WSM",
+        "actualEarningResult": 1.96,
+        "estimatedEarning": 1.76
+    },
+    {
+        "date": "2024-08-22",
+        "symbol": "WSM",
+        "actualEarningResult": 1.74,
+        "estimatedEarning": 1.6
+    },
+    {
+        "date": "2024-05-22",
+        "symbol": "WSM",
+        "actualEarningResult": 2.04,
+        "estimatedEarning": 2.74
+    },
+    {
+        "date": "2024-03-13",
+        "symbol": "WSM",
+        "actualEarningResult": 2.72,
+        "estimatedEarning": 2.53
+    },
+    {
+        "date": "2023-11-16",
+        "symbol": "WSM",
+        "actualEarningResult": 1.83,
+        "estimatedEarning": 1.67
+    },
+    {
+        "date": "2023-08-23",
+        "symbol": "WSM",
+        "actualEarningResult": 1.56,
+        "estimatedEarning": 1.36
+    },
+    {
+        "date": "2023-05-23",
+        "symbol": "WSM",
+        "actualEarningResult": 1.32,
+        "estimatedEarning": 1.21
+    },
+    {
+        "date": "2023-03-16",
+        "symbol": "WSM",
+        "actualEarningResult": 2.75,
+        "estimatedEarning": 2.71
+    },
+    {
+        "date": "2022-11-17",
+        "symbol": "WSM",
+        "actualEarningResult": 1.86,
+        "estimatedEarning": 1.89
+    },
+    {
+        "date": "2022-08-24",
+        "symbol": "WSM",
+        "actualEarningResult": 1.94,
+        "estimatedEarning": 1.77
+    },
+    {
+        "date": "2022-05-25",
+        "symbol": "WSM",
+        "actualEarningResult": 1.75,
+        "estimatedEarning": 1.5
+    },
+    {
+        "date": "2022-03-16",
+        "symbol": "WSM",
+        "actualEarningResult": 2.71,
+        "estimatedEarning": 2.39
+    },
+    {
+        "date": "2021-11-18",
+        "symbol": "WSM",
+        "actualEarningResult": 1.66,
+        "estimatedEarning": 1.56
+    },
+    {
+        "date": "2021-08-25",
+        "symbol": "WSM",
+        "actualEarningResult": 1.62,
+        "estimatedEarning": 1.28
+    },
+    {
+        "date": "2021-05-26",
+        "symbol": "WSM",
+        "actualEarningResult": 1.47,
+        "estimatedEarning": 0.93
+    },
+    {
+        "date": "2021-03-17",
+        "symbol": "WSM",
+        "actualEarningResult": 1.98,
+        "estimatedEarning": 1.7
+    },
+    {
+        "date": "2020-11-19",
+        "symbol": "WSM",
+        "actualEarningResult": 1.28,
+        "estimatedEarning": 0.76
+    },
+    {
+        "date": "2020-08-26",
+        "symbol": "WSM",
+        "actualEarningResult": 0.9,
+        "estimatedEarning": 0.5
+    },
+    {
+        "date": "2020-05-28",
+        "symbol": "WSM",
+        "actualEarningResult": 0.37,
+        "estimatedEarning": 0.05
+    },
+    {
+        "date": "2020-03-18",
+        "symbol": "WSM",
+        "actualEarningResult": 1.07,
+        "estimatedEarning": 1.03
+    },
+    {
+        "date": "2019-11-21",
+        "symbol": "WSM",
+        "actualEarningResult": 0.51,
+        "estimatedEarning": 0.5
+    },
+    {
+        "date": "2019-08-28",
+        "symbol": "WSM",
+        "actualEarningResult": 0.44,
+        "estimatedEarning": 0.42
+    },
+    {
+        "date": "2019-05-30",
+        "symbol": "WSM",
+        "actualEarningResult": 0.41,
+        "estimatedEarning": 0.34
+    },
+    {
+        "date": "2019-03-20",
+        "symbol": "WSM",
+        "actualEarningResult": 1.05,
+        "estimatedEarning": 0.99
+    },
+    {
+        "date": "2018-11-15",
+        "symbol": "WSM",
+        "actualEarningResult": 0.48,
+        "estimatedEarning": 0.47
+    },
+    {
+        "date": "2018-08-22",
+        "symbol": "WSM",
+        "actualEarningResult": 0.39,
+        "estimatedEarning": 0.34
+    },
+    {
+        "date": "2018-05-23",
+        "symbol": "WSM",
+        "actualEarningResult": 0.34,
+        "estimatedEarning": 0.29
+    },
+    {
+        "date": "2018-03-14",
+        "symbol": "WSM",
+        "actualEarningResult": 0.84,
+        "estimatedEarning": 0.82
+    },
+    {
+        "date": "2017-11-16",
+        "symbol": "WSM",
+        "actualEarningResult": 0.42,
+        "estimatedEarning": 0.42
+    },
+    {
+        "date": "2017-08-23",
+        "symbol": "WSM",
+        "actualEarningResult": 0.31,
+        "estimatedEarning": 0.3
+    },
+    {
+        "date": "2017-05-24",
+        "symbol": "WSM",
+        "actualEarningResult": 0.26,
+        "estimatedEarning": 0.24
+    },
+    {
+        "date": "2017-03-15",
+        "symbol": "WSM",
+        "actualEarningResult": 0.78,
+        "estimatedEarning": 0.75
+    },
+    {
+        "date": "2016-11-17",
+        "symbol": "WSM",
+        "actualEarningResult": 0.4,
+        "estimatedEarning": 0.39
+    },
+    {
+        "date": "2016-08-24",
+        "symbol": "WSM",
+        "actualEarningResult": 0.29,
+        "estimatedEarning": 0.29
+    },
+    {
+        "date": "2016-05-25",
+        "symbol": "WSM",
+        "actualEarningResult": 0.27,
+        "estimatedEarning": 0.25
+    },
+    {
+        "date": "2016-03-16",
+        "symbol": "WSM",
+        "actualEarningResult": 0.78,
+        "estimatedEarning": 0.8
+    },
+    {
+        "date": "2015-11-19",
+        "symbol": "WSM",
+        "actualEarningResult": 0.39,
+        "estimatedEarning": 0.36
+    },
+    {
+        "date": "2015-08-26",
+        "symbol": "WSM",
+        "actualEarningResult": 0.29,
+        "estimatedEarning": 0.29
+    },
+    {
+        "date": "2015-05-20",
+        "symbol": "WSM",
+        "actualEarningResult": 0.24,
+        "estimatedEarning": 0.22
+    },
+    {
+        "date": "2015-03-18",
+        "symbol": "WSM",
+        "actualEarningResult": 0.76,
+        "estimatedEarning": 0.76
+    },
+    {
+        "date": "2014-11-19",
+        "symbol": "WSM",
+        "actualEarningResult": 0.34,
+        "estimatedEarning": 0.32
+    },
+    {
+        "date": "2014-08-27",
+        "symbol": "WSM",
+        "actualEarningResult": 0.27,
+        "estimatedEarning": 0.27
+    },
+    {
+        "date": "2014-05-21",
+        "symbol": "WSM",
+        "actualEarningResult": 0.24,
+        "estimatedEarning": 0.22
+    },
+    {
+        "date": "2014-03-12",
+        "symbol": "WSM",
+        "actualEarningResult": 0.69,
+        "estimatedEarning": 0.68
+    },
+    {
+        "date": "2013-11-20",
+        "symbol": "WSM",
+        "actualEarningResult": 0.29,
+        "estimatedEarning": 0.27
+    },
+    {
+        "date": "2013-08-28",
+        "symbol": "WSM",
+        "actualEarningResult": 0.25,
+        "estimatedEarning": 0.24
+    },
+    {
+        "date": "2013-05-23",
+        "symbol": "WSM",
+        "actualEarningResult": 0.2,
+        "estimatedEarning": 0.18
+    },
+    {
+        "date": "2013-03-19",
+        "symbol": "WSM",
+        "actualEarningResult": 0.67,
+        "estimatedEarning": 0.65
+    },
+    {
+        "date": "2012-11-14",
+        "symbol": "WSM",
+        "actualEarningResult": 0.25,
+        "estimatedEarning": 0.23
+    },
+    {
+        "date": "2012-08-21",
+        "symbol": "WSM",
+        "actualEarningResult": 0.22,
+        "estimatedEarning": 0.41
+    },
+    {
+        "date": "2012-05-22",
+        "symbol": "WSM",
+        "actualEarningResult": 0.34,
+        "estimatedEarning": 0.32
+    },
+    {
+        "date": "2012-03-08",
+        "symbol": "WSM",
+        "actualEarningResult": 1.17,
+        "estimatedEarning": 1.13
+    },
+    {
+        "date": "2011-11-17",
+        "symbol": "WSM",
+        "actualEarningResult": 0.41,
+        "estimatedEarning": 0.38
+    },
+    {
+        "date": "2011-08-23",
+        "symbol": "WSM",
+        "actualEarningResult": 0.37,
+        "estimatedEarning": 0.36
+    },
+    {
+        "date": "2011-05-19",
+        "symbol": "WSM",
+        "actualEarningResult": 0.3,
+        "estimatedEarning": 0.28
+    },
+    {
+        "date": "2011-03-15",
+        "symbol": "WSM",
+        "actualEarningResult": 1.08,
+        "estimatedEarning": 0.98
+    },
+    {
+        "date": "2010-11-18",
+        "symbol": "WSM",
+        "actualEarningResult": 0.35,
+        "estimatedEarning": 0.31
+    },
+    {
+        "date": "2010-08-19",
+        "symbol": "WSM",
+        "actualEarningResult": 0.31,
+        "estimatedEarning": 0.22
+    },
+    {
+        "date": "2010-05-20",
+        "symbol": "WSM",
+        "actualEarningResult": 0.23,
+        "estimatedEarning": 0.12
+    },
+    {
+        "date": "2010-03-22",
+        "symbol": "WSM",
+        "actualEarningResult": 0.86,
+        "estimatedEarning": 0.74
+    },
+    {
+        "date": "2009-11-19",
+        "symbol": "WSM",
+        "actualEarningResult": 0.16,
+        "estimatedEarning": 0.05
+    },
+    {
+        "date": "2009-08-26",
+        "symbol": "WSM",
+        "actualEarningResult": 0.05,
+        "estimatedEarning": -0.09
+    },
+    {
+        "date": "2009-06-03",
+        "symbol": "WSM",
+        "actualEarningResult": -0.14,
+        "estimatedEarning": -0.21
+    },
+    {
+        "date": "2009-03-24",
+        "symbol": "WSM",
+        "actualEarningResult": 0.31,
+        "estimatedEarning": 0.16
+    },
+    {
+        "date": "2008-12-04",
+        "symbol": "WSM",
+        "actualEarningResult": -0.1,
+        "estimatedEarning": -0.12
+    },
+    {
+        "date": "2008-08-28",
+        "symbol": "WSM",
+        "actualEarningResult": 0.08,
+        "estimatedEarning": 0.07
+    },
+    {
+        "date": "2008-06-04",
+        "symbol": "WSM",
+        "actualEarningResult": 0.05,
+        "estimatedEarning": 0.01304
+    },
+    {
+        "date": "2008-03-27",
+        "symbol": "WSM",
+        "actualEarningResult": 1.15,
+        "estimatedEarning": 1.12
+    },
+    {
+        "date": "2007-11-15",
+        "symbol": "WSM",
+        "actualEarningResult": 0.25,
+        "estimatedEarning": 0.24
+    },
+    {
+        "date": "2007-08-29",
+        "symbol": "WSM",
+        "actualEarningResult": 0.23,
+        "estimatedEarning": 0.16
+    },
+    {
+        "date": "2007-05-30",
+        "symbol": "WSM",
+        "actualEarningResult": 0.16,
+        "estimatedEarning": 0.13
+    },
+    {
+        "date": "2007-03-22",
+        "symbol": "WSM",
+        "actualEarningResult": 1.06,
+        "estimatedEarning": 1.03
+    },
+    {
+        "date": "2006-11-16",
+        "symbol": "WSM",
+        "actualEarningResult": 0.25,
+        "estimatedEarning": 0.24
+    },
+    {
+        "date": "2006-08-24",
+        "symbol": "WSM",
+        "actualEarningResult": 0.25,
+        "estimatedEarning": 0.23
+    },
+    {
+        "date": "2006-05-24",
+        "symbol": "WSM",
+        "actualEarningResult": 0.21,
+        "estimatedEarning": 0.17
+    },
+    {
+        "date": "2006-03-20",
+        "symbol": "WSM",
+        "actualEarningResult": 1.09,
+        "estimatedEarning": 1.09
+    },
+    {
+        "date": "2005-11-17",
+        "symbol": "WSM",
+        "actualEarningResult": 0.31,
+        "estimatedEarning": 0.3
+    },
+    {
+        "date": "2005-08-23",
+        "symbol": "WSM",
+        "actualEarningResult": 0.26,
+        "estimatedEarning": 0.25
+    },
+    {
+        "date": "2005-05-24",
+        "symbol": "WSM",
+        "actualEarningResult": 0.22,
+        "estimatedEarning": 0.19
+    },
+    {
+        "date": "2005-03-22",
+        "symbol": "WSM",
+        "actualEarningResult": 0.95,
+        "estimatedEarning": 0.95
+    },
+    {
+        "date": "2004-11-18",
+        "symbol": "WSM",
+        "actualEarningResult": 0.24,
+        "estimatedEarning": 0.23
+    },
+    {
+        "date": "2004-08-25",
+        "symbol": "WSM",
+        "actualEarningResult": 0.23,
+        "estimatedEarning": 0.19
+    },
+    {
+        "date": "2004-05-25",
+        "symbol": "WSM",
+        "actualEarningResult": 0.18,
+        "estimatedEarning": 0.16
+    },
+    {
+        "date": "2004-03-18",
+        "symbol": "WSM",
+        "actualEarningResult": 0.85,
+        "estimatedEarning": 0.84
+    },
+    {
+        "date": "2003-11-20",
+        "symbol": "WSM",
+        "actualEarningResult": 0.2,
+        "estimatedEarning": 0.19
+    },
+    {
+        "date": "2003-08-21",
+        "symbol": "WSM",
+        "actualEarningResult": 0.15,
+        "estimatedEarning": 0.14
+    },
+    {
+        "date": "2003-05-22",
+        "symbol": "WSM",
+        "actualEarningResult": 0.11,
+        "estimatedEarning": 0.08
+    },
+    {
+        "date": "2003-03-18",
+        "symbol": "WSM",
+        "actualEarningResult": 0.67,
+        "estimatedEarning": 0.66
+    },
+    {
+        "date": "2002-11-19",
+        "symbol": "WSM",
+        "actualEarningResult": 0.13,
+        "estimatedEarning": 0.1
+    },
+    {
+        "date": "2002-08-22",
+        "symbol": "WSM",
+        "actualEarningResult": 0.12,
+        "estimatedEarning": 0.08
+    },
+    {
+        "date": "2002-05-23",
+        "symbol": "WSM",
+        "actualEarningResult": 0.13,
+        "estimatedEarning": 0.09
+    },
+    {
+        "date": "2002-03-11",
+        "symbol": "WSM",
+        "actualEarningResult": 0.6,
+        "estimatedEarning": 0.6
+    },
+    {
+        "date": "2001-11-13",
+        "symbol": "WSM",
+        "actualEarningResult": 0.04,
+        "estimatedEarning": 0.02965
+    },
+    {
+        "date": "2001-05-15",
+        "symbol": "WSM",
+        "actualEarningResult": 0.00215,
+        "estimatedEarning": 0.00081
+    },
+    {
+        "date": "2001-03-14",
+        "symbol": "WSM",
+        "actualEarningResult": 0.4,
+        "estimatedEarning": 0.39
+    },
+    {
+        "date": "2000-11-14",
+        "symbol": "WSM",
+        "actualEarningResult": 0.02,
+        "estimatedEarning": 0.02295
+    },
+    {
+        "date": "2000-08-15",
+        "symbol": "WSM",
+        "actualEarningResult": 0.05,
+        "estimatedEarning": 0.04444
+    },
+    {
+        "date": "2000-05-16",
+        "symbol": "WSM",
+        "actualEarningResult": 0.04,
+        "estimatedEarning": 0.03059
+    },
+    {
+        "date": "2000-03-15",
+        "symbol": "WSM",
+        "actualEarningResult": 0.41,
+        "estimatedEarning": 0.41
+    },
+    {
+        "date": "1999-11-16",
+        "symbol": "WSM",
+        "actualEarningResult": 0.08,
+        "estimatedEarning": 0.07
+    },
+    {
+        "date": "1999-08-17",
+        "symbol": "WSM",
+        "actualEarningResult": 0.04,
+        "estimatedEarning": 0.03833
+    },
+    {
+        "date": "1999-05-18",
+        "symbol": "WSM",
+        "actualEarningResult": 0.03,
+        "estimatedEarning": 0.02857
+    },
+    {
+        "date": "1999-03-17",
+        "symbol": "WSM",
+        "actualEarningResult": 0.4,
+        "estimatedEarning": 0.38
+    },
+    {
+        "date": "1998-11-17",
+        "symbol": "WSM",
+        "actualEarningResult": 0.05,
+        "estimatedEarning": 0.05
+    },
+    {
+        "date": "1998-08-18",
+        "symbol": "WSM",
+        "actualEarningResult": 0.04,
+        "estimatedEarning": 0.035
+    },
+    {
+        "date": "1998-05-19",
+        "symbol": "WSM",
+        "actualEarningResult": 0.02,
+        "estimatedEarning": 0.0175
+    },
+    {
+        "date": "1998-03-12",
+        "symbol": "WSM",
+        "actualEarningResult": 0.3,
+        "estimatedEarning": 0.28
+    },
+    {
+        "date": "1997-11-18",
+        "symbol": "WSM",
+        "actualEarningResult": 0.03,
+        "estimatedEarning": 0.02417
+    },
+    {
+        "date": "1997-08-19",
+        "symbol": "WSM",
+        "actualEarningResult": 0.02,
+        "estimatedEarning": 0.01333
+    },
+    {
+        "date": "1997-03-13",
+        "symbol": "WSM",
+        "actualEarningResult": 0.24,
+        "estimatedEarning": 0.22
+    },
+    {
+        "date": "1996-05-14",
+        "symbol": "WSM",
+        "actualEarningResult": -0.02,
+        "estimatedEarning": -0.01945
+    },
+    {
+        "date": "1996-03-19",
+        "symbol": "WSM",
+        "actualEarningResult": 0.07,
+        "estimatedEarning": 0.12
+    },
+    {
+        "date": "1995-04-13",
+        "symbol": "WSM",
+        "actualEarningResult": 0.13,
+        "estimatedEarning": 0.14
+    },
+    {
+        "date": "1994-11-16",
+        "symbol": "WSM",
+        "actualEarningResult": 0.02,
+        "estimatedEarning": 0.02009
+    },
+    {
+        "date": "1994-03-29",
+        "symbol": "WSM",
+        "actualEarningResult": 0.11,
+        "estimatedEarning": 0.11
+    },
+    {
+        "date": "1993-03-30",
+        "symbol": "WSM",
+        "actualEarningResult": 0.08,
+        "estimatedEarning": 0.07
+    }
+]

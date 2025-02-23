@@ -1,0 +1,236 @@
+[
+    {
+        "date": "2024-10-30",
+        "symbol": "GDDY",
+        "actualEarningResult": 1.32,
+        "estimatedEarning": 1.23
+    },
+    {
+        "date": "2024-08-01",
+        "symbol": "GDDY",
+        "actualEarningResult": 1.01,
+        "estimatedEarning": 1.07
+    },
+    {
+        "date": "2024-05-02",
+        "symbol": "GDDY",
+        "actualEarningResult": 1.08,
+        "estimatedEarning": 0.951
+    },
+    {
+        "date": "2024-02-13",
+        "symbol": "GDDY",
+        "actualEarningResult": 1.08,
+        "estimatedEarning": 1.03
+    },
+    {
+        "date": "2023-11-02",
+        "symbol": "GDDY",
+        "actualEarningResult": 0.9,
+        "estimatedEarning": 0.72
+    },
+    {
+        "date": "2023-08-03",
+        "symbol": "GDDY",
+        "actualEarningResult": 0.54,
+        "estimatedEarning": 0.57
+    },
+    {
+        "date": "2023-05-04",
+        "symbol": "GDDY",
+        "actualEarningResult": 0.3,
+        "estimatedEarning": 0.5
+    },
+    {
+        "date": "2023-02-14",
+        "symbol": "GDDY",
+        "actualEarningResult": 0.62,
+        "estimatedEarning": 0.62
+    },
+    {
+        "date": "2022-11-03",
+        "symbol": "GDDY",
+        "actualEarningResult": 0.63,
+        "estimatedEarning": 0.58
+    },
+    {
+        "date": "2022-08-03",
+        "symbol": "GDDY",
+        "actualEarningResult": 0.56,
+        "estimatedEarning": 0.49
+    },
+    {
+        "date": "2022-05-04",
+        "symbol": "GDDY",
+        "actualEarningResult": 0.41,
+        "estimatedEarning": 0.42
+    },
+    {
+        "date": "2022-02-10",
+        "symbol": "GDDY",
+        "actualEarningResult": 0.52,
+        "estimatedEarning": 0.41
+    },
+    {
+        "date": "2021-11-03",
+        "symbol": "GDDY",
+        "actualEarningResult": 0.58,
+        "estimatedEarning": 0.4
+    },
+    {
+        "date": "2021-08-04",
+        "symbol": "GDDY",
+        "actualEarningResult": 0.27,
+        "estimatedEarning": 0.32
+    },
+    {
+        "date": "2021-05-05",
+        "symbol": "GDDY",
+        "actualEarningResult": 0.06,
+        "estimatedEarning": 0.32
+    },
+    {
+        "date": "2021-02-11",
+        "symbol": "GDDY",
+        "actualEarningResult": 0.41,
+        "estimatedEarning": 0.36
+    },
+    {
+        "date": "2020-11-04",
+        "symbol": "GDDY",
+        "actualEarningResult": 0.38,
+        "estimatedEarning": 0.33
+    },
+    {
+        "date": "2020-08-05",
+        "symbol": "GDDY",
+        "actualEarningResult": 0.2,
+        "estimatedEarning": 0.17
+    },
+    {
+        "date": "2020-05-06",
+        "symbol": "GDDY",
+        "actualEarningResult": 0.24,
+        "estimatedEarning": 0.17
+    },
+    {
+        "date": "2020-02-13",
+        "symbol": "GDDY",
+        "actualEarningResult": 0.34,
+        "estimatedEarning": 0.31
+    },
+    {
+        "date": "2019-11-06",
+        "symbol": "GDDY",
+        "actualEarningResult": 0.31,
+        "estimatedEarning": 0.21
+    },
+    {
+        "date": "2019-08-01",
+        "symbol": "GDDY",
+        "actualEarningResult": 0.13,
+        "estimatedEarning": 0.17
+    },
+    {
+        "date": "2019-05-02",
+        "symbol": "GDDY",
+        "actualEarningResult": 0.07,
+        "estimatedEarning": 0.1
+    },
+    {
+        "date": "2019-02-20",
+        "symbol": "GDDY",
+        "actualEarningResult": 0.24,
+        "estimatedEarning": 0.13
+    },
+    {
+        "date": "2018-11-06",
+        "symbol": "GDDY",
+        "actualEarningResult": 0.08,
+        "estimatedEarning": 0.17
+    },
+    {
+        "date": "2018-08-02",
+        "symbol": "GDDY",
+        "actualEarningResult": 0.11,
+        "estimatedEarning": 0.08
+    },
+    {
+        "date": "2018-05-08",
+        "symbol": "GDDY",
+        "actualEarningResult": 0.02,
+        "estimatedEarning": 0.01385
+    },
+    {
+        "date": "2018-02-22",
+        "symbol": "GDDY",
+        "actualEarningResult": 0.11,
+        "estimatedEarning": 0.09
+    },
+    {
+        "date": "2017-11-06",
+        "symbol": "GDDY",
+        "actualEarningResult": 0.07,
+        "estimatedEarning": 0.07
+    },
+    {
+        "date": "2017-08-08",
+        "symbol": "GDDY",
+        "actualEarningResult": 0.13,
+        "estimatedEarning": 0.01462
+    },
+    {
+        "date": "2017-05-02",
+        "symbol": "GDDY",
+        "actualEarningResult": 0.01,
+        "estimatedEarning": 0.00462
+    },
+    {
+        "date": "2017-02-15",
+        "symbol": "GDDY",
+        "actualEarningResult": 0.1,
+        "estimatedEarning": 0.08
+    },
+    {
+        "date": "2016-11-02",
+        "symbol": "GDDY",
+        "actualEarningResult": 0.05,
+        "estimatedEarning": 0.03273
+    },
+    {
+        "date": "2016-08-03",
+        "symbol": "GDDY",
+        "actualEarningResult": -0.11,
+        "estimatedEarning": -0.1
+    },
+    {
+        "date": "2016-05-04",
+        "symbol": "GDDY",
+        "actualEarningResult": -0.15,
+        "estimatedEarning": -0.18
+    },
+    {
+        "date": "2016-02-17",
+        "symbol": "GDDY",
+        "actualEarningResult": 0.00151,
+        "estimatedEarning": 0.00075
+    },
+    {
+        "date": "2015-11-04",
+        "symbol": "GDDY",
+        "actualEarningResult": -0.04,
+        "estimatedEarning": -0.09
+    },
+    {
+        "date": "2015-08-05",
+        "symbol": "GDDY",
+        "actualEarningResult": -0.24,
+        "estimatedEarning": -0.17
+    },
+    {
+        "date": "2015-05-12",
+        "symbol": "GDDY",
+        "actualEarningResult": -0.34,
+        "estimatedEarning": 0.22
+    }
+]

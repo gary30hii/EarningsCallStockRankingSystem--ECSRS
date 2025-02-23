@@ -1,0 +1,6292 @@
+[
+    {
+        "symbol": "GOOG",
+        "date": "2024-12-31",
+        "marketCap": 2326497000000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2024-12-30",
+        "marketCap": 2350339600000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2024-12-27",
+        "marketCap": 2369020400000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2024-12-26",
+        "marketCap": 2403924000000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2024-12-24",
+        "marketCap": 2410191900000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2024-12-23",
+        "marketCap": 2392002700000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2024-12-20",
+        "marketCap": 2352428900000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2024-12-19",
+        "marketCap": 2316787900000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2024-12-18",
+        "marketCap": 2315436000000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2024-12-17",
+        "marketCap": 2401711800000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2024-12-16",
+        "marketCap": 2416951400000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2024-12-13",
+        "marketCap": 2332887800000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2024-12-12",
+        "marketCap": 2359188400000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2024-12-11",
+        "marketCap": 2401466000000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2024-12-10",
+        "marketCap": 2275739300000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2024-12-09",
+        "marketCap": 2155297300000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2024-12-06",
+        "marketCap": 2147185900000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2024-12-05",
+        "marketCap": 2121745599999
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2024-12-04",
+        "marketCap": 2143007300000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2024-12-03",
+        "marketCap": 2105768600000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2024-12-02",
+        "marketCap": 2107612100000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2024-11-29",
+        "marketCap": 2076395499999
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2024-11-27",
+        "marketCap": 2079836699999
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2024-11-26",
+        "marketCap": 2078484800000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2024-11-25",
+        "marketCap": 2060418500000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2024-11-22",
+        "marketCap": 2024900400000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2024-11-21",
+        "marketCap": 2060172700000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2024-11-20",
+        "marketCap": 2162794199999
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2024-11-19",
+        "marketCap": 2189094800000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2024-11-18",
+        "marketCap": 2154437000000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2024-11-15",
+        "marketCap": 2119902100000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2024-11-14",
+        "marketCap": 2157878200000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2024-11-13",
+        "marketCap": 2198435200000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2024-11-12",
+        "marketCap": 2232109800000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2024-11-11",
+        "marketCap": 2216501500000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2024-11-08",
+        "marketCap": 2191921500000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2024-11-07",
+        "marketCap": 2221417500000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2024-11-06",
+        "marketCap": 2169307900000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2024-11-05",
+        "marketCap": 2086104600000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2024-11-04",
+        "marketCap": 2079959600000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2024-11-01",
+        "marketCap": 2105154100000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2024-10-31",
+        "marketCap": 2102941900000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2024-10-30",
+        "marketCap": 2144113400000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2024-10-29",
+        "marketCap": 2085367200000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2024-10-28",
+        "marketCap": 2048988800000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2024-10-25",
+        "marketCap": 2039927610000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2024-10-24",
+        "marketCap": 2008452960000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2024-10-23",
+        "marketCap": 2009193540000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2024-10-22",
+        "marketCap": 2038323019999
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2024-10-21",
+        "marketCap": 2025116010000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2024-10-18",
+        "marketCap": 2017093059999
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2024-10-17",
+        "marketCap": 2011044990000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2024-10-16",
+        "marketCap": 2038569880000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2024-10-15",
+        "marketCap": 2042272780000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2024-10-14",
+        "marketCap": 2036101280000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2024-10-11",
+        "marketCap": 2014871320000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2024-10-10",
+        "marketCap": 2000553440000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2024-10-09",
+        "marketCap": 1997837980000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2024-10-08",
+        "marketCap": 2028942340000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2024-10-07",
+        "marketCap": 2011662139999
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2024-10-04",
+        "marketCap": 2062021580000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2024-10-03",
+        "marketCap": 2047209980000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2024-10-02",
+        "marketCap": 2047209980000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2024-10-01",
+        "marketCap": 2061157570000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2024-09-30",
+        "marketCap": 2047086550000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2024-09-27",
+        "marketCap": 2023634849999
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2024-09-26",
+        "marketCap": 2008576389999
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2024-09-25",
+        "marketCap": 1993271070000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2024-09-24",
+        "marketCap": 2003145470000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2024-09-23",
+        "marketCap": 1997714550000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2024-09-20",
+        "marketCap": 2019191370000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2024-09-19",
+        "marketCap": 2001294019999
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2024-09-18",
+        "marketCap": 1972534830000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2024-09-17",
+        "marketCap": 1966486760000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2024-09-16",
+        "marketCap": 1950934580000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2024-09-13",
+        "marketCap": 1943528780000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2024-09-12",
+        "marketCap": 1909338670000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2024-09-11",
+        "marketCap": 1865767880000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2024-09-10",
+        "marketCap": 1834910380000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2024-09-09",
+        "marketCap": 1835527530000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2024-09-06",
+        "marketCap": 1862805559999
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2024-09-05",
+        "marketCap": 1940813320000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2024-09-04",
+        "marketCap": 1931062349999
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2024-09-03",
+        "marketCap": 1942294480000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2024-08-30",
+        "marketCap": 2016599340000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2024-08-29",
+        "marketCap": 1996850540000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2024-08-28",
+        "marketCap": 2010057550000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2024-08-27",
+        "marketCap": 2032645240000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2024-08-26",
+        "marketCap": 2050912880000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2024-08-23",
+        "marketCap": 2044247660000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2024-08-22",
+        "marketCap": 2021783400000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2024-08-21",
+        "marketCap": 2047086550000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2024-08-20",
+        "marketCap": 2063502740000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2024-08-19",
+        "marketCap": 2057207809999
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2024-08-16",
+        "marketCap": 2011415280000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2024-08-15",
+        "marketCap": 1990925900000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2024-08-14",
+        "marketCap": 1979446910000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2024-08-13",
+        "marketCap": 2026226880000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2024-08-12",
+        "marketCap": 2003145470000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2024-08-09",
+        "marketCap": 2020178809999
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2024-08-08",
+        "marketCap": 1999936290000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2024-08-07",
+        "marketCap": 1961796420000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2024-08-06",
+        "marketCap": 1953773470000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2024-08-05",
+        "marketCap": 1965622750000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2024-08-02",
+        "marketCap": 2057084380000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2024-08-01",
+        "marketCap": 2107690680000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2024-07-31",
+        "marketCap": 2117318220000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2024-07-30",
+        "marketCap": 2101889470000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2024-07-29",
+        "marketCap": 2092508790000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2024-07-26",
+        "marketCap": 2061281000000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2024-07-25",
+        "marketCap": 2064737040000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2024-07-24",
+        "marketCap": 2130772090000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2024-07-23",
+        "marketCap": 2243833970000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2024-07-22",
+        "marketCap": 2242352810000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2024-07-19",
+        "marketCap": 2192857380000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2024-07-18",
+        "marketCap": 2193227670000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2024-07-17",
+        "marketCap": 2234329860000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2024-07-16",
+        "marketCap": 2270124560000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2024-07-15",
+        "marketCap": 2302339790000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2024-07-12",
+        "marketCap": 2284319010000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2024-07-11",
+        "marketCap": 2290490510000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2024-07-10",
+        "marketCap": 2359734740000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2024-07-09",
+        "marketCap": 2332580140000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2024-07-08",
+        "marketCap": 2333197290000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2024-07-05",
+        "marketCap": 2352575800000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2024-07-03",
+        "marketCap": 2293576260000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2024-07-02",
+        "marketCap": 2286417320000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2024-07-01",
+        "marketCap": 2258645570000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2024-06-28",
+        "marketCap": 2248277450000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2024-06-27",
+        "marketCap": 2288515630000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2024-06-26",
+        "marketCap": 2269630840000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2024-06-25",
+        "marketCap": 2271482290000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2024-06-24",
+        "marketCap": 2212112460000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2024-06-21",
+        "marketCap": 2217173090000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2024-06-20",
+        "marketCap": 2176070900000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2024-06-18",
+        "marketCap": 2161135870000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2024-06-17",
+        "marketCap": 2187673320000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2024-06-14",
+        "marketCap": 2182118970000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2024-06-13",
+        "marketCap": 2161999880000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2024-06-12",
+        "marketCap": 2194461970000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2024-06-11",
+        "marketCap": 2180020660000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2024-06-10",
+        "marketCap": 2160148430000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2024-06-07",
+        "marketCap": 2153359780000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2024-06-06",
+        "marketCap": 2181378389999
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2024-06-05",
+        "marketCap": 2165085630000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2024-06-04",
+        "marketCap": 2145089970000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2024-06-03",
+        "marketCap": 2137437309999
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2024-05-31",
+        "marketCap": 2129167500000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2024-05-30",
+        "marketCap": 2124353730000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2024-05-29",
+        "marketCap": 2171133700000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2024-05-28",
+        "marketCap": 2177305200000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2024-05-24",
+        "marketCap": 2159901570000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2024-05-23",
+        "marketCap": 2142127650000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2024-05-22",
+        "marketCap": 2177058340000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2024-05-21",
+        "marketCap": 2195202550000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2024-05-20",
+        "marketCap": 2183723559999
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2024-05-17",
+        "marketCap": 2173108580000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2024-05-16",
+        "marketCap": 2149903740000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2024-05-15",
+        "marketCap": 2129290930000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2024-05-14",
+        "marketCap": 2102506620000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2024-05-13",
+        "marketCap": 2087695019999
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2024-05-10",
+        "marketCap": 2081646950000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2024-05-09",
+        "marketCap": 2097816280000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2024-05-08",
+        "marketCap": 2090657340000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2024-05-07",
+        "marketCap": 2113738750000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2024-05-06",
+        "marketCap": 2074858300000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2024-05-03",
+        "marketCap": 2064243320000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2024-05-02",
+        "marketCap": 2056590660000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2024-05-01",
+        "marketCap": 2022523980000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2024-04-30",
+        "marketCap": 2009193540000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2024-04-29",
+        "marketCap": 2050789450000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2024-04-26",
+        "marketCap": 2122378849999
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2024-04-25",
+        "marketCap": 1925508000000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2024-04-24",
+        "marketCap": 1964141590000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2024-04-23",
+        "marketCap": 1953403180000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2024-04-22",
+        "marketCap": 1928964040000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2024-04-19",
+        "marketCap": 1901932870000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2024-04-18",
+        "marketCap": 1925631430000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2024-04-17",
+        "marketCap": 1918966210000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2024-04-16",
+        "marketCap": 1905759200000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2024-04-15",
+        "marketCap": 1911436980000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2024-04-12",
+        "marketCap": 1946861389999
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2024-04-11",
+        "marketCap": 1967597630000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2024-04-10",
+        "marketCap": 1927236019999
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2024-04-09",
+        "marketCap": 1932913800000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2024-04-08",
+        "marketCap": 1911313550000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2024-04-05",
+        "marketCap": 1882307500000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2024-04-04",
+        "marketCap": 1857991790000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2024-04-03",
+        "marketCap": 1912177559999
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2024-04-02",
+        "marketCap": 1907734080000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2024-04-01",
+        "marketCap": 1919213070000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2024-03-28",
+        "marketCap": 1873795950000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2024-03-27",
+        "marketCap": 1873051050000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2024-03-26",
+        "marketCap": 1870568049999
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2024-03-25",
+        "marketCap": 1863119050000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2024-03-22",
+        "marketCap": 1871809550000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2024-03-21",
+        "marketCap": 1832454000000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2024-03-20",
+        "marketCap": 1846607100000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2024-03-19",
+        "marketCap": 1825377450000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2024-03-18",
+        "marketCap": 1833447200000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2024-03-15",
+        "marketCap": 1752749700000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2024-03-14",
+        "marketCap": 1776586500000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2024-03-13",
+        "marketCap": 1735492850000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2024-03-12",
+        "marketCap": 1719477500000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2024-03-11",
+        "marketCap": 1709173049999
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2024-03-08",
+        "marketCap": 1681115150000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2024-03-07",
+        "marketCap": 1668327700000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2024-03-06",
+        "marketCap": 1631331000000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2024-03-05",
+        "marketCap": 1647098049999
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2024-03-04",
+        "marketCap": 1655540250000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2024-03-01",
+        "marketCap": 1702593099999
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2024-02-29",
+        "marketCap": 1718980900000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2024-02-28",
+        "marketCap": 1693157700000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2024-02-27",
+        "marketCap": 1724195200000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2024-02-26",
+        "marketCap": 1707931550000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2024-02-23",
+        "marketCap": 1787263400000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2024-02-22",
+        "marketCap": 1788877350000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2024-02-21",
+        "marketCap": 1769758250000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2024-02-20",
+        "marketCap": 1752004800000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2024-02-16",
+        "marketCap": 1744555800000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2024-02-15",
+        "marketCap": 1772489550000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2024-02-14",
+        "marketCap": 1811845100000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2024-02-13",
+        "marketCap": 1801913099999
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2024-02-12",
+        "marketCap": 1831584950000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2024-02-09",
+        "marketCap": 1849835000000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2024-02-08",
+        "marketCap": 1811472650000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2024-02-07",
+        "marketCap": 1806879100000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2024-02-06",
+        "marketCap": 1789001500000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2024-02-05",
+        "marketCap": 1783787200000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2024-02-02",
+        "marketCap": 1767647700000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2024-02-01",
+        "marketCap": 1752501400000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2024-01-31",
+        "marketCap": 1739341500000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2024-01-30",
+        "marketCap": 1880375900000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2024-01-29",
+        "marketCap": 1905826650000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2024-01-26",
+        "marketCap": 1889438850000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2024-01-25",
+        "marketCap": 1885466050000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2024-01-24",
+        "marketCap": 1846110499999
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2024-01-23",
+        "marketCap": 1825501600000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2024-01-22",
+        "marketCap": 1812465850000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2024-01-19",
+        "marketCap": 1817307700000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2024-01-18",
+        "marketCap": 1781304199999
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2024-01-17",
+        "marketCap": 1756350050000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2024-01-16",
+        "marketCap": 1769013350000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2024-01-12",
+        "marketCap": 1770999750000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2024-01-11",
+        "marketCap": 1763923200000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2024-01-10",
+        "marketCap": 1766406200000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2024-01-09",
+        "marketCap": 1749894249999
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2024-01-08",
+        "marketCap": 1723698600000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2024-01-05",
+        "marketCap": 1685087949999
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2024-01-04",
+        "marketCap": 1693281849999
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2024-01-03",
+        "marketCap": 1724691799999
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2024-01-02",
+        "marketCap": 1715380549999
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2023-12-29",
+        "marketCap": 1744448720000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2023-12-28",
+        "marketCap": 1751192239999
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2023-12-27",
+        "marketCap": 1752940560000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2023-12-26",
+        "marketCap": 1767301760000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2023-12-22",
+        "marketCap": 1766927120000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2023-12-21",
+        "marketCap": 1753564959999
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2023-12-20",
+        "marketCap": 1727589920000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2023-12-19",
+        "marketCap": 1706485200000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2023-12-18",
+        "marketCap": 1695870400000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2023-12-15",
+        "marketCap": 1655908800000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2023-12-14",
+        "marketCap": 1647666720000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2023-12-13",
+        "marketCap": 1655534160000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2023-12-12",
+        "marketCap": 1654909760000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2023-12-11",
+        "marketCap": 1664525520000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2023-12-08",
+        "marketCap": 1685755120000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2023-12-07",
+        "marketCap": 1709981840000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2023-12-06",
+        "marketCap": 1623689760000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2023-12-05",
+        "marketCap": 1635803120000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2023-12-04",
+        "marketCap": 1614323760000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2023-12-01",
+        "marketCap": 1646667680000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2023-11-30",
+        "marketCap": 1655034640000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2023-11-29",
+        "marketCap": 1685755120000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2023-11-28",
+        "marketCap": 1713353599999
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2023-11-27",
+        "marketCap": 1703488080000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2023-11-24",
+        "marketCap": 1706984720000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2023-11-22",
+        "marketCap": 1729463120000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2023-11-21",
+        "marketCap": 1710481360000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2023-11-20",
+        "marketCap": 1701490000000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2023-11-17",
+        "marketCap": 1689751280000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2023-11-16",
+        "marketCap": 1709981840000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2023-11-15",
+        "marketCap": 1681134560000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2023-11-14",
+        "marketCap": 1668646560000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2023-11-13",
+        "marketCap": 1649539920000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2023-11-10",
+        "marketCap": 1655783920000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2023-11-09",
+        "marketCap": 1626437120000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2023-11-08",
+        "marketCap": 1646417920000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2023-11-07",
+        "marketCap": 1635553360000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2023-11-06",
+        "marketCap": 1626562000000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2023-11-03",
+        "marketCap": 1612200800000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2023-11-02",
+        "marketCap": 1592095120000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2023-11-01",
+        "marketCap": 1579107600000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2023-10-31",
+        "marketCap": 1549511040000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2023-10-30",
+        "marketCap": 1554256480000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2023-10-27",
+        "marketCap": 1525658960000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2023-10-26",
+        "marketCap": 1527032640000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2023-10-25",
+        "marketCap": 1568617680000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2023-10-24",
+        "marketCap": 1733459280000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2023-10-23",
+        "marketCap": 1704612000000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2023-10-20",
+        "marketCap": 1693372800000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2023-10-19",
+        "marketCap": 1720222000000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2023-10-18",
+        "marketCap": 1722844480000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2023-10-17",
+        "marketCap": 1744823360000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2023-10-16",
+        "marketCap": 1737080800000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2023-10-13",
+        "marketCap": 1715351680000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2023-10-12",
+        "marketCap": 1735457360000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2023-10-11",
+        "marketCap": 1755188400000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2023-10-10",
+        "marketCap": 1724093280000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2023-10-09",
+        "marketCap": 1728588959999
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2023-10-06",
+        "marketCap": 1718099040000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2023-10-05",
+        "marketCap": 1686754160000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2023-10-04",
+        "marketCap": 1688877120000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2023-10-03",
+        "marketCap": 1653785840000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2023-10-02",
+        "marketCap": 1675514959999
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2023-09-29",
+        "marketCap": 1646349660000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2023-09-28",
+        "marketCap": 1664592110000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2023-09-27",
+        "marketCap": 1642323740000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2023-09-26",
+        "marketCap": 1617539170000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2023-09-25",
+        "marketCap": 1649494910000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2023-09-22",
+        "marketCap": 1638675250000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2023-09-21",
+        "marketCap": 1641065640000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2023-09-20",
+        "marketCap": 1682582940000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2023-09-19",
+        "marketCap": 1736681240000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2023-09-18",
+        "marketCap": 1738820010000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2023-09-15",
+        "marketCap": 1728629400000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2023-09-14",
+        "marketCap": 1737436100000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2023-09-13",
+        "marketCap": 1719948510000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2023-09-12",
+        "marketCap": 1702712540000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2023-09-11",
+        "marketCap": 1722590519999
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2023-09-08",
+        "marketCap": 1715796780000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2023-09-07",
+        "marketCap": 1701706060000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2023-09-06",
+        "marketCap": 1691641260000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2023-09-05",
+        "marketCap": 1708122370000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2023-09-01",
+        "marketCap": 1706738460000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2023-08-31",
+        "marketCap": 1713154769999
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2023-08-30",
+        "marketCap": 1709506280000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2023-08-29",
+        "marketCap": 1693025170000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2023-08-28",
+        "marketCap": 1648236810000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2023-08-25",
+        "marketCap": 1634020280000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2023-08-24",
+        "marketCap": 1632762180000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2023-08-23",
+        "marketCap": 1665346970000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2023-08-22",
+        "marketCap": 1623955480000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2023-08-21",
+        "marketCap": 1615022970000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2023-08-18",
+        "marketCap": 1603574260000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2023-08-17",
+        "marketCap": 1634523519999
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2023-08-16",
+        "marketCap": 1619174699999
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2023-08-15",
+        "marketCap": 1632762180000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2023-08-14",
+        "marketCap": 1652262730000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2023-08-11",
+        "marketCap": 1629994360000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2023-08-10",
+        "marketCap": 1631629890000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2023-08-09",
+        "marketCap": 1631252460000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2023-08-08",
+        "marketCap": 1653143400000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2023-08-07",
+        "marketCap": 1654778930000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2023-08-04",
+        "marketCap": 1611751910000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2023-08-03",
+        "marketCap": 1616029449999
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2023-08-02",
+        "marketCap": 1615148780000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2023-08-01",
+        "marketCap": 1655030550000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2023-07-31",
+        "marketCap": 1669750320000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2023-07-28",
+        "marketCap": 1667988980000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2023-07-27",
+        "marketCap": 1627981400000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2023-07-26",
+        "marketCap": 1626345870000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2023-07-25",
+        "marketCap": 1537524010000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2023-07-24",
+        "marketCap": 1528968930000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2023-07-21",
+        "marketCap": 1509971620000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2023-07-20",
+        "marketCap": 1499655200000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2023-07-19",
+        "marketCap": 1535259430000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2023-07-18",
+        "marketCap": 1557024560000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2023-07-17",
+        "marketCap": 1568221650000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2023-07-14",
+        "marketCap": 1577909020000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2023-07-13",
+        "marketCap": 1566837740000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2023-07-12",
+        "marketCap": 1496258330000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2023-07-11",
+        "marketCap": 1473738340000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2023-07-10",
+        "marketCap": 1465057450000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2023-07-07",
+        "marketCap": 1503177880000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2023-07-06",
+        "marketCap": 1511103910000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2023-07-05",
+        "marketCap": 1531736750000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2023-07-03",
+        "marketCap": 1508461900000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2023-06-30",
+        "marketCap": 1505945700000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2023-06-29",
+        "marketCap": 1508758800000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2023-06-28",
+        "marketCap": 1522440240000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2023-06-27",
+        "marketCap": 1499004440000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2023-06-26",
+        "marketCap": 1499131120000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2023-06-23",
+        "marketCap": 1549803120000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2023-06-22",
+        "marketCap": 1560064200000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2023-06-21",
+        "marketCap": 1527127400000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2023-06-20",
+        "marketCap": 1559430800000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2023-06-16",
+        "marketCap": 1564878040000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2023-06-15",
+        "marketCap": 1584640120000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2023-06-14",
+        "marketCap": 1566651560000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2023-06-13",
+        "marketCap": 1568678440000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2023-06-12",
+        "marketCap": 1566271520000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2023-06-09",
+        "marketCap": 1548409640000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2023-06-08",
+        "marketCap": 1547269520000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2023-06-07",
+        "marketCap": 1551830000000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2023-06-06",
+        "marketCap": 1612763080000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2023-06-05",
+        "marketCap": 1596294680000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2023-06-02",
+        "marketCap": 1579319560000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2023-06-01",
+        "marketCap": 1567284960000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2023-05-31",
+        "marketCap": 1556517160000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2023-05-30",
+        "marketCap": 1566651560000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2023-05-26",
+        "marketCap": 1578559480000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2023-05-25",
+        "marketCap": 1564244640000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2023-05-24",
+        "marketCap": 1531561200000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2023-05-23",
+        "marketCap": 1552590080000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2023-05-22",
+        "marketCap": 1584133400000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2023-05-19",
+        "marketCap": 1555123680000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2023-05-18",
+        "marketCap": 1556010440000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2023-05-17",
+        "marketCap": 1530801120000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2023-05-16",
+        "marketCap": 1513952680000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2023-05-15",
+        "marketCap": 1475948680000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2023-05-12",
+        "marketCap": 1488616680000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2023-05-11",
+        "marketCap": 1476708760000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2023-05-10",
+        "marketCap": 1415649000000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2023-05-09",
+        "marketCap": 1359909800000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2023-05-08",
+        "marketCap": 1365230360000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2023-05-05",
+        "marketCap": 1337360760000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2023-05-04",
+        "marketCap": 1326212920000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2023-05-03",
+        "marketCap": 1335333880000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2023-05-02",
+        "marketCap": 1334193760000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2023-05-01",
+        "marketCap": 1358009600000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2023-04-28",
+        "marketCap": 1359783120000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2023-04-27",
+        "marketCap": 1362950120000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2023-04-26",
+        "marketCap": 1313798280000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2023-04-25",
+        "marketCap": 1315571800000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2023-04-24",
+        "marketCap": 1342427960000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2023-04-21",
+        "marketCap": 1335333880000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2023-04-20",
+        "marketCap": 1333813720000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2023-04-19",
+        "marketCap": 1319752240000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2023-04-18",
+        "marketCap": 1323806000000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2023-04-17",
+        "marketCap": 1342427960000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2023-04-14",
+        "marketCap": 1379165160000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2023-04-13",
+        "marketCap": 1360923240000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2023-04-12",
+        "marketCap": 1325579520000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2023-04-11",
+        "marketCap": 1334573800000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2023-04-10",
+        "marketCap": 1348381920000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2023-04-06",
+        "marketCap": 1373464560000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2023-04-05",
+        "marketCap": 1323425960000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2023-04-04",
+        "marketCap": 1326592960000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2023-04-03",
+        "marketCap": 1322032480000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2023-03-31",
+        "marketCap": 1314051640000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2023-03-30",
+        "marketCap": 1289475090000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2023-03-29",
+        "marketCap": 1295865590000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2023-03-28",
+        "marketCap": 1291264430000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2023-03-27",
+        "marketCap": 1309541260000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2023-03-24",
+        "marketCap": 1347628640000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2023-03-23",
+        "marketCap": 1349673600000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2023-03-22",
+        "marketCap": 1321171970000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2023-03-21",
+        "marketCap": 1340982520000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2023-03-20",
+        "marketCap": 1293692820000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2023-03-17",
+        "marketCap": 1298805220000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2023-03-16",
+        "marketCap": 1282189920000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2023-03-15",
+        "marketCap": 1228381910000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2023-03-14",
+        "marketCap": 1201030570000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2023-03-13",
+        "marketCap": 1164476910000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2023-03-10",
+        "marketCap": 1158342030000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2023-03-09",
+        "marketCap": 1179941920000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2023-03-08",
+        "marketCap": 1204609250000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2023-03-07",
+        "marketCap": 1199624660000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2023-03-06",
+        "marketCap": 1215856530000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2023-03-03",
+        "marketCap": 1196940650000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2023-03-02",
+        "marketCap": 1175852000000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2023-03-01",
+        "marketCap": 1154891160000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2023-02-28",
+        "marketCap": 1151056860000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2023-02-27",
+        "marketCap": 1148628470000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2023-02-24",
+        "marketCap": 1139170530000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2023-02-23",
+        "marketCap": 1161665090000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2023-02-22",
+        "marketCap": 1171378650000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2023-02-21",
+        "marketCap": 1173167990000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2023-02-17",
+        "marketCap": 1205887350000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2023-02-16",
+        "marketCap": 1220713310000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2023-02-15",
+        "marketCap": 1238990140000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2023-02-14",
+        "marketCap": 1210105080000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2023-02-13",
+        "marketCap": 1209210410000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2023-02-10",
+        "marketCap": 1208699170000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2023-02-09",
+        "marketCap": 1214322810000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2023-02-08",
+        "marketCap": 1270047970000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2023-02-07",
+        "marketCap": 1375746840000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2023-02-06",
+        "marketCap": 1315164900000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2023-02-03",
+        "marketCap": 1339193180000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2023-02-02",
+        "marketCap": 1377024940000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2023-02-01",
+        "marketCap": 1283595830000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2023-01-31",
+        "marketCap": 1263274040000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2023-01-30",
+        "marketCap": 1238990140000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2023-01-27",
+        "marketCap": 1270047970000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2023-01-26",
+        "marketCap": 1246403120000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2023-01-25",
+        "marketCap": 1217006820000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2023-01-24",
+        "marketCap": 1248703700000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2023-01-23",
+        "marketCap": 1275415990000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2023-01-20",
+        "marketCap": 1252793620000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2023-01-19",
+        "marketCap": 1189272050000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2023-01-18",
+        "marketCap": 1164604720000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2023-01-17",
+        "marketCap": 1166777490000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2023-01-13",
+        "marketCap": 1177385720000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2023-01-12",
+        "marketCap": 1164732530000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2023-01-11",
+        "marketCap": 1169717120000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2023-01-10",
+        "marketCap": 1130096020000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2023-01-09",
+        "marketCap": 1124983620000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2023-01-06",
+        "marketCap": 1116292540000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2023-01-05",
+        "marketCap": 1101722200000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2023-01-04",
+        "marketCap": 1125750480000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2023-01-03",
+        "marketCap": 1139042720000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2022-12-30",
+        "marketCap": 1137902310000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2022-12-29",
+        "marketCap": 1140739650000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2022-12-28",
+        "marketCap": 1109399940000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2022-12-27",
+        "marketCap": 1127068830000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2022-12-23",
+        "marketCap": 1150799310000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2022-12-22",
+        "marketCap": 1131840720000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2022-12-21",
+        "marketCap": 1155313260000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2022-12-20",
+        "marketCap": 1148090940000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2022-12-19",
+        "marketCap": 1140610680000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2022-12-16",
+        "marketCap": 1164083220000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2022-12-15",
+        "marketCap": 1171821420000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2022-12-14",
+        "marketCap": 1226117790000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2022-12-13",
+        "marketCap": 1233340110000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2022-12-12",
+        "marketCap": 1203419070000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2022-12-09",
+        "marketCap": 1197228510000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2022-12-08",
+        "marketCap": 1208577870000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2022-12-07",
+        "marketCap": 1224441180000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2022-12-06",
+        "marketCap": 1250751060000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2022-12-05",
+        "marketCap": 1282993560000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2022-12-02",
+        "marketCap": 1295374680000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2022-12-01",
+        "marketCap": 1302468030000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2022-11-30",
+        "marketCap": 1302468030000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2022-11-29",
+        "marketCap": 1227665430000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2022-11-28",
+        "marketCap": 1238756850000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2022-11-25",
+        "marketCap": 1256941620000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2022-11-23",
+        "marketCap": 1269838620000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2022-11-22",
+        "marketCap": 1251653850000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2022-11-21",
+        "marketCap": 1232953200000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2022-11-18",
+        "marketCap": 1256554710000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2022-11-17",
+        "marketCap": 1268548920000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2022-11-16",
+        "marketCap": 1274868450000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2022-11-15",
+        "marketCap": 1269580680000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2022-11-14",
+        "marketCap": 1234242900000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2022-11-11",
+        "marketCap": 1243399770000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2022-11-10",
+        "marketCap": 1211544180000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2022-11-09",
+        "marketCap": 1126166040000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2022-11-08",
+        "marketCap": 1146543300000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2022-11-07",
+        "marketCap": 1141255530000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2022-11-04",
+        "marketCap": 1116622260000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2022-11-03",
+        "marketCap": 1075996710000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2022-11-02",
+        "marketCap": 1121652090000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2022-11-01",
+        "marketCap": 1166791590000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2022-10-31",
+        "marketCap": 1218895470000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2022-10-28",
+        "marketCap": 1241852130000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2022-10-27",
+        "marketCap": 1189361340000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2022-10-26",
+        "marketCap": 1224312210000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2022-10-25",
+        "marketCap": 1347478560000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2022-10-24",
+        "marketCap": 1322200440000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2022-10-21",
+        "marketCap": 1304273610000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2022-10-20",
+        "marketCap": 1289313090000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2022-10-19",
+        "marketCap": 1284928110000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2022-10-18",
+        "marketCap": 1299630690000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2022-10-17",
+        "marketCap": 1289313090000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2022-10-14",
+        "marketCap": 1245334320000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2022-10-13",
+        "marketCap": 1277576820000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2022-10-12",
+        "marketCap": 1258231320000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2022-10-11",
+        "marketCap": 1253330460000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2022-10-10",
+        "marketCap": 1262100420000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2022-10-07",
+        "marketCap": 1272675960000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2022-10-06",
+        "marketCap": 1308013740000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2022-10-05",
+        "marketCap": 1308142710000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2022-10-04",
+        "marketCap": 1310851080000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2022-10-03",
+        "marketCap": 1272160080000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2022-09-30",
+        "marketCap": 1233598050000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2022-09-29",
+        "marketCap": 1266460000000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2022-09-28",
+        "marketCap": 1300650000000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2022-09-27",
+        "marketCap": 1267500000000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2022-09-26",
+        "marketCap": 1276210000000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2022-09-23",
+        "marketCap": 1283620000000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2022-09-22",
+        "marketCap": 1301820000000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2022-09-21",
+        "marketCap": 1290640000000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2022-09-20",
+        "marketCap": 1314820000000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2022-09-19",
+        "marketCap": 1339910000000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2022-09-16",
+        "marketCap": 1336400000000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2022-09-15",
+        "marketCap": 1337830000000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2022-09-14",
+        "marketCap": 1365000000000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2022-09-13",
+        "marketCap": 1356160000000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2022-09-12",
+        "marketCap": 1441180000000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2022-09-09",
+        "marketCap": 1438450000000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2022-09-08",
+        "marketCap": 1408940000000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2022-09-07",
+        "marketCap": 1422850000000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2022-09-06",
+        "marketCap": 1388530000000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2022-09-02",
+        "marketCap": 1402050000000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2022-09-01",
+        "marketCap": 1426620000000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2022-08-31",
+        "marketCap": 1406860000000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2022-08-30",
+        "marketCap": 1416220000000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2022-08-29",
+        "marketCap": 1422460000000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2022-08-26",
+        "marketCap": 1434420000000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2022-08-25",
+        "marketCap": 1516450000000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2022-08-24",
+        "marketCap": 1477970000000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2022-08-23",
+        "marketCap": 1480180000000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2022-08-22",
+        "marketCap": 1485120000000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2022-08-19",
+        "marketCap": 1523730000000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2022-08-18",
+        "marketCap": 1562210000000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2022-08-17",
+        "marketCap": 1554150000000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2022-08-16",
+        "marketCap": 1582100000000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2022-08-15",
+        "marketCap": 1587040000000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2022-08-12",
+        "marketCap": 1581840000000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2022-08-11",
+        "marketCap": 1544920000000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2022-08-10",
+        "marketCap": 1556100000000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2022-08-09",
+        "marketCap": 1516190000000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2022-08-08",
+        "marketCap": 1524900000000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2022-08-05",
+        "marketCap": 1527110000000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2022-08-04",
+        "marketCap": 1536470000000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2022-08-03",
+        "marketCap": 1535040000000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2022-08-02",
+        "marketCap": 1496690000000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2022-08-01",
+        "marketCap": 1493180000000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2022-07-29",
+        "marketCap": 1512160000000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2022-07-28",
+        "marketCap": 1484860000000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2022-07-27",
+        "marketCap": 1469780000000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2022-07-26",
+        "marketCap": 1365260000000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2022-07-25",
+        "marketCap": 1397630000000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2022-07-22",
+        "marketCap": 1402700000000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2022-07-21",
+        "marketCap": 1486420000000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2022-07-20",
+        "marketCap": 1480700000000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2022-07-19",
+        "marketCap": 1479530000000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2022-07-18",
+        "marketCap": 1417390000000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2022-07-15",
+        "marketCap": 1453140000000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2022-07-14",
+        "marketCap": 1434810000000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2022-07-13",
+        "marketCap": 1447550000000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2022-07-12",
+        "marketCap": 1482260000000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2022-07-11",
+        "marketCap": 1503840000000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2022-07-08",
+        "marketCap": 1551550000000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2022-07-07",
+        "marketCap": 1544140000000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2022-07-06",
+        "marketCap": 1489410000000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2022-07-05",
+        "marketCap": 1472380000000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2022-07-01",
+        "marketCap": 1413620000000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2022-06-30",
+        "marketCap": 1416480000000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2022-06-29",
+        "marketCap": 1470865600000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2022-06-28",
+        "marketCap": 1474947680000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2022-06-27",
+        "marketCap": 1525249440000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2022-06-24",
+        "marketCap": 1553560640000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2022-06-23",
+        "marketCap": 1477976320000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2022-06-22",
+        "marketCap": 1468100320000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2022-06-21",
+        "marketCap": 1468758720000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2022-06-17",
+        "marketCap": 1410819520000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2022-06-16",
+        "marketCap": 1396203040000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2022-06-15",
+        "marketCap": 1445319680000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2022-06-14",
+        "marketCap": 1405288960000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2022-06-13",
+        "marketCap": 1400943520000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2022-06-10",
+        "marketCap": 1463754880000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2022-06-09",
+        "marketCap": 1512213120000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2022-06-08",
+        "marketCap": 1543157920000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2022-06-07",
+        "marketCap": 1542631200000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2022-06-06",
+        "marketCap": 1538285760000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2022-06-03",
+        "marketCap": 1508262720000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2022-06-02",
+        "marketCap": 1548820160000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2022-06-01",
+        "marketCap": 1499703520000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2022-05-31",
+        "marketCap": 1497991680000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2022-05-27",
+        "marketCap": 1479029760000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2022-05-26",
+        "marketCap": 1419378720000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2022-05-25",
+        "marketCap": 1393306080000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2022-05-24",
+        "marketCap": 1395412960000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2022-05-23",
+        "marketCap": 1468100320000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2022-05-20",
+        "marketCap": 1434126880000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2022-05-19",
+        "marketCap": 1453483840000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2022-05-18",
+        "marketCap": 1473499200000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2022-05-17",
+        "marketCap": 1533676960000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2022-05-16",
+        "marketCap": 1507077600000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2022-05-13",
+        "marketCap": 1528146400000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2022-05-12",
+        "marketCap": 1485877120000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2022-05-11",
+        "marketCap": 1495884800000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2022-05-10",
+        "marketCap": 1506419200000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2022-05-09",
+        "marketCap": 1481531680000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2022-05-06",
+        "marketCap": 1524196000000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2022-05-05",
+        "marketCap": 1534203680000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2022-05-04",
+        "marketCap": 1609919680000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2022-05-03",
+        "marketCap": 1545001440000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2022-05-02",
+        "marketCap": 1535125440000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2022-04-29",
+        "marketCap": 1502600480000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2022-04-28",
+        "marketCap": 1560671360000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2022-04-27",
+        "marketCap": 1504970720000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2022-04-26",
+        "marketCap": 1562383200000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2022-04-25",
+        "marketCap": 1620585760000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2022-04-22",
+        "marketCap": 1575419520000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2022-04-21",
+        "marketCap": 1643498080000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2022-04-20",
+        "marketCap": 1686030720000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2022-04-19",
+        "marketCap": 1711971680000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2022-04-18",
+        "marketCap": 1681290240000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2022-04-14",
+        "marketCap": 1668780640000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2022-04-13",
+        "marketCap": 1710391519999
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2022-04-12",
+        "marketCap": 1681685280000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2022-04-11",
+        "marketCap": 1696301760000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2022-04-08",
+        "marketCap": 1755162720000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2022-04-07",
+        "marketCap": 1789399519999
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2022-04-06",
+        "marketCap": 1798090400000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2022-04-05",
+        "marketCap": 1851289120000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2022-04-04",
+        "marketCap": 1882628960000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2022-04-01",
+        "marketCap": 1845495200000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2022-03-31",
+        "marketCap": 1831273760000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2022-03-30",
+        "marketCap": 1874033820000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2022-03-29",
+        "marketCap": 1881559530000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2022-03-28",
+        "marketCap": 1867696380000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2022-03-25",
+        "marketCap": 1870469009999
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2022-03-24",
+        "marketCap": 1869148710000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2022-03-23",
+        "marketCap": 1825710840000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2022-03-22",
+        "marketCap": 1846703610000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2022-03-21",
+        "marketCap": 1796928300000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2022-03-18",
+        "marketCap": 1797324390000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2022-03-17",
+        "marketCap": 1767089520000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2022-03-16",
+        "marketCap": 1759695840000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2022-03-15",
+        "marketCap": 1705827599999
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2022-03-14",
+        "marketCap": 1662917850000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2022-03-11",
+        "marketCap": 1714673610000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2022-03-10",
+        "marketCap": 1748473290000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2022-03-09",
+        "marketCap": 1761544259999
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2022-03-08",
+        "marketCap": 1678101300000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2022-03-07",
+        "marketCap": 1668595140000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2022-03-04",
+        "marketCap": 1741607730000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2022-03-03",
+        "marketCap": 1767881700000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2022-03-02",
+        "marketCap": 1776727710000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2022-03-01",
+        "marketCap": 1769994180000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2022-02-28",
+        "marketCap": 1783197180000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2022-02-25",
+        "marketCap": 1775275380000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2022-02-24",
+        "marketCap": 1751906070000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2022-02-23",
+        "marketCap": 1684570770000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2022-02-22",
+        "marketCap": 1713881430000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2022-02-18",
+        "marketCap": 1721671200000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2022-02-17",
+        "marketCap": 1749925620000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2022-02-16",
+        "marketCap": 1818581220000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2022-02-15",
+        "marketCap": 1803661830000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2022-02-14",
+        "marketCap": 1789402590000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2022-02-11",
+        "marketCap": 1772898840000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2022-02-10",
+        "marketCap": 1830199860000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2022-02-09",
+        "marketCap": 1869412770000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2022-02-08",
+        "marketCap": 1840498200000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2022-02-07",
+        "marketCap": 1837857599999
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2022-02-04",
+        "marketCap": 1891857870000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2022-02-03",
+        "marketCap": 1889217270000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2022-02-02",
+        "marketCap": 1954044000000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2022-02-01",
+        "marketCap": 1817260919999
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2022-01-31",
+        "marketCap": 1786365900000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2022-01-28",
+        "marketCap": 1760620050000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2022-01-27",
+        "marketCap": 1703319030000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2022-01-26",
+        "marketCap": 1706223689999
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2022-01-25",
+        "marketCap": 1675988820000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2022-01-24",
+        "marketCap": 1726952400000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2022-01-21",
+        "marketCap": 1721011050000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2022-01-20",
+        "marketCap": 1760091930000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2022-01-19",
+        "marketCap": 1783989360000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2022-01-18",
+        "marketCap": 1795608000000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2022-01-14",
+        "marketCap": 1841554439999
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2022-01-13",
+        "marketCap": 1829803770000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2022-01-12",
+        "marketCap": 1867300290000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2022-01-11",
+        "marketCap": 1844987220000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2022-01-10",
+        "marketCap": 1830860009999
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2022-01-07",
+        "marketCap": 1809075060000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2022-01-06",
+        "marketCap": 1818713250000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2022-01-05",
+        "marketCap": 1819109340000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2022-01-04",
+        "marketCap": 1906513200000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2022-01-03",
+        "marketCap": 1914302970000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2021-12-31",
+        "marketCap": 1912454550000
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2021-12-30",
+        "marketCap": 1937625740063
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2021-12-29",
+        "marketCap": 1943722236919
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2021-12-28",
+        "marketCap": 1944119834540
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2021-12-27",
+        "marketCap": 1960288804464
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2021-12-23",
+        "marketCap": 1947168082969
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2021-12-22",
+        "marketCap": 1940541455951
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2021-12-21",
+        "marketCap": 1901444356544
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2021-12-20",
+        "marketCap": 1876793304037
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2021-12-17",
+        "marketCap": 1878383694522
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2021-12-16",
+        "marketCap": 1914432545500
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2021-12-15",
+        "marketCap": 1940806521031
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2021-12-14",
+        "marketCap": 1907275788320
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2021-12-13",
+        "marketCap": 1932722036069
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2021-12-10",
+        "marketCap": 1961481597328
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2021-12-09",
+        "marketCap": 1956710425875
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2021-12-08",
+        "marketCap": 1963999715594
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2021-12-07",
+        "marketCap": 1951806721881
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2021-12-06",
+        "marketCap": 1897335847793
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2021-12-03",
+        "marketCap": 1881962073112
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2021-12-02",
+        "marketCap": 1894817729526
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2021-12-01",
+        "marketCap": 1869371481777
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2021-11-30",
+        "marketCap": 1880636747708
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2021-11-29",
+        "marketCap": 1928746059859
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2021-11-26",
+        "marketCap": 1884347658838
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2021-11-24",
+        "marketCap": 1936565479740
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2021-11-23",
+        "marketCap": 1932059373368
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2021-11-22",
+        "marketCap": 1938951065466
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2021-11-19",
+        "marketCap": 1973807123581
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2021-11-18",
+        "marketCap": 1985867584754
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2021-11-17",
+        "marketCap": 1962144260029
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2021-11-16",
+        "marketCap": 1959891206843
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2021-11-15",
+        "marketCap": 1967445561644
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2021-11-12",
+        "marketCap": 1970493810072
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2021-11-11",
+        "marketCap": 1931926840827
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2021-11-10",
+        "marketCap": 1933517231312
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2021-11-09",
+        "marketCap": 1973674591041
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2021-11-08",
+        "marketCap": 1975132448985
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2021-11-05",
+        "marketCap": 1972746863258
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2021-11-04",
+        "marketCap": 1965059975917
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2021-11-03",
+        "marketCap": 1942927041677
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2021-11-02",
+        "marketCap": 1927420734455
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2021-11-01",
+        "marketCap": 1901841954166
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2021-10-29",
+        "marketCap": 1962144260029
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2021-10-28",
+        "marketCap": 1932987101150
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2021-10-27",
+        "marketCap": 1937890805143
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2021-10-26",
+        "marketCap": 1846310819755
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2021-10-25",
+        "marketCap": 1821659767248
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2021-10-22",
+        "marketCap": 1823250157732
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2021-10-21",
+        "marketCap": 1880504215168
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2021-10-20",
+        "marketCap": 1878913824683
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2021-10-19",
+        "marketCap": 1898396108116
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2021-10-18",
+        "marketCap": 1892299611260
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2021-10-15",
+        "marketCap": 1873612523069
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2021-10-14",
+        "marketCap": 1870696807181
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2021-10-13",
+        "marketCap": 1823382690272
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2021-10-12",
+        "marketCap": 1808406513212
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2021-10-11",
+        "marketCap": 1841009518140
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2021-10-08",
+        "marketCap": 1852672381692
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2021-10-07",
+        "marketCap": 1845250559432
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2021-10-06",
+        "marketCap": 1823250157732
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2021-10-05",
+        "marketCap": 1802707613976
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2021-10-04",
+        "marketCap": 1771429934451
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2021-10-01",
+        "marketCap": 1809599306075
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2021-09-30",
+        "marketCap": 1771694999532
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2021-09-29",
+        "marketCap": 1788890940974
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2021-09-28",
+        "marketCap": 1808597368906
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2021-09-27",
+        "marketCap": 1878368775908
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2021-09-24",
+        "marketCap": 1893681203017
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2021-09-23",
+        "marketCap": 1880366049009
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2021-09-22",
+        "marketCap": 1867849804242
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2021-09-21",
+        "marketCap": 1851205861732
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2021-09-20",
+        "marketCap": 1847078163989
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2021-09-17",
+        "marketCap": 1874773684326
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2021-09-16",
+        "marketCap": 1912189267088
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2021-09-15",
+        "marketCap": 1923107693375
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2021-09-14",
+        "marketCap": 1897942052300
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2021-09-13",
+        "marketCap": 1895145869958
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2021-09-10",
+        "marketCap": 1875838896647
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2021-09-09",
+        "marketCap": 1911257206308
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2021-09-08",
+        "marketCap": 1913254479409
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2021-09-07",
+        "marketCap": 1921110420274
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2021-09-03",
+        "marketCap": 1913920237109
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2021-09-02",
+        "marketCap": 1907928417806
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2021-09-01",
+        "marketCap": 1933626665041
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2021-08-31",
+        "marketCap": 1926702784957
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2021-08-30",
+        "marketCap": 1925238118016
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2021-08-27",
+        "marketCap": 1917382177152
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2021-08-26",
+        "marketCap": 1883295382891
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2021-08-25",
+        "marketCap": 1891817081456
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2021-08-24",
+        "marketCap": 1880898655170
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2021-08-23",
+        "marketCap": 1864654167280
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2021-08-20",
+        "marketCap": 1829901615319
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2021-08-19",
+        "marketCap": 1806600095805
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2021-08-18",
+        "marketCap": 1803537610383
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2021-08-17",
+        "marketCap": 1819648946733
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2021-08-16",
+        "marketCap": 1841618950846
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2021-08-13",
+        "marketCap": 1833896161521
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2021-08-12",
+        "marketCap": 1826705978357
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2021-08-11",
+        "marketCap": 1814589188210
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2021-08-10",
+        "marketCap": 1821646219834
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2021-08-09",
+        "marketCap": 1822977735235
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2021-08-06",
+        "marketCap": 1807399005045
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2021-08-05",
+        "marketCap": 1814189733590
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2021-08-04",
+        "marketCap": 1799276761101
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2021-08-03",
+        "marketCap": 1805934338105
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2021-08-02",
+        "marketCap": 1795548517978
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2021-07-30",
+        "marketCap": 1793950699497
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2021-07-29",
+        "marketCap": 1807931611206
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2021-07-28",
+        "marketCap": 1812059308948
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2021-07-27",
+        "marketCap": 1756268813655
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2021-07-26",
+        "marketCap": 1784763243232
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2021-07-23",
+        "marketCap": 1771048634604
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2021-07-22",
+        "marketCap": 1709932077707
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2021-07-21",
+        "marketCap": 1698347893720
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2021-07-20",
+        "marketCap": 1680505587349
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2021-07-19",
+        "marketCap": 1658801886316
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2021-07-16",
+        "marketCap": 1690625104395
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2021-07-15",
+        "marketCap": 1691157710556
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2021-07-14",
+        "marketCap": 1707535349985
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2021-07-13",
+        "marketCap": 1695551711378
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2021-07-12",
+        "marketCap": 1690758255935
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2021-07-09",
+        "marketCap": 1671318131084
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2021-07-08",
+        "marketCap": 1664926857160
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2021-07-07",
+        "marketCap": 1683967527391
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2021-07-06",
+        "marketCap": 1680239284269
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2021-07-02",
+        "marketCap": 1667856191042
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2021-07-01",
+        "marketCap": 1630307456739
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2021-06-30",
+        "marketCap": 1625647152836
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2021-06-29",
+        "marketCap": 1635869157012
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2021-06-28",
+        "marketCap": 1639481528586
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2021-06-25",
+        "marketCap": 1639080153967
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2021-06-24",
+        "marketCap": 1638946362427
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2021-06-23",
+        "marketCap": 1633996075455
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2021-06-22",
+        "marketCap": 1636671906251
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2021-06-21",
+        "marketCap": 1629714746181
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2021-06-18",
+        "marketCap": 1606970184417
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2021-06-17",
+        "marketCap": 1628778205403
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2021-06-16",
+        "marketCap": 1615800426043
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2021-06-15",
+        "marketCap": 1624496876130
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2021-06-14",
+        "marketCap": 1638277404728
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2021-06-11",
+        "marketCap": 1625700999988
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2021-06-10",
+        "marketCap": 1629045788483
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2021-06-09",
+        "marketCap": 1610850139071
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2021-06-08",
+        "marketCap": 1604428145161
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2021-06-07",
+        "marketCap": 1607103975957
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2021-06-04",
+        "marketCap": 1601217148206
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2021-06-03",
+        "marketCap": 1570445094055
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2021-06-02",
+        "marketCap": 1585831121130
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2021-06-01",
+        "marketCap": 1592922072739
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2021-05-28",
+        "marketCap": 1576599504885
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2021-05-27",
+        "marketCap": 1580479459539
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2021-05-26",
+        "marketCap": 1592386906580
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2021-05-25",
+        "marketCap": 1580613251079
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2021-05-24",
+        "marketCap": 1579409127220
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2021-05-21",
+        "marketCap": 1534722752931
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2021-05-20",
+        "marketCap": 1543285411477
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2021-05-19",
+        "marketCap": 1519604308934
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2021-05-18",
+        "marketCap": 1513449898104
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2021-05-17",
+        "marketCap": 1531244172896
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2021-05-14",
+        "marketCap": 1524153221287
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2021-05-13",
+        "marketCap": 1491106710959
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2021-05-12",
+        "marketCap": 1471840729229
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2021-05-11",
+        "marketCap": 1518533976616
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2021-05-10",
+        "marketCap": 1533117254453
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2021-05-07",
+        "marketCap": 1573388507930
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2021-05-06",
+        "marketCap": 1563621725525
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2021-05-05",
+        "marketCap": 1548503281529
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2021-05-04",
+        "marketCap": 1543151619937
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2021-05-03",
+        "marketCap": 1567367888639
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2021-04-30",
+        "marketCap": 1574458840248
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2021-04-29",
+        "marketCap": 1600681982047
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2021-04-28",
+        "marketCap": 1578071211823
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2021-04-27",
+        "marketCap": 1532582088294
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2021-04-26",
+        "marketCap": 1545292284574
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2021-04-23",
+        "marketCap": 1538602707585
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2021-04-22",
+        "marketCap": 1506894112654
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2021-04-21",
+        "marketCap": 1524153221287
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2021-04-20",
+        "marketCap": 1524554595907
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2021-04-19",
+        "marketCap": 1531779339055
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2021-04-16",
+        "marketCap": 1527096635163
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2021-04-15",
+        "marketCap": 1528702133640
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2021-04-14",
+        "marketCap": 1499803161045
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2021-04-13",
+        "marketCap": 1508098236512
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2021-04-12",
+        "marketCap": 1501542451063
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2021-04-09",
+        "marketCap": 1518935351235
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2021-04-08",
+        "marketCap": 1505422405717
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2021-04-07",
+        "marketCap": 1497796287949
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2021-04-06",
+        "marketCap": 1477861348520
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2021-04-05",
+        "marketCap": 1484417133970
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2021-04-01",
+        "marketCap": 1424746107223
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2021-03-31",
+        "marketCap": 1379792149854
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2021-03-30",
+        "marketCap": 1377676788043
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2021-03-29",
+        "marketCap": 1377272856224
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2021-03-26",
+        "marketCap": 1363135242586
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2021-03-25",
+        "marketCap": 1368251712284
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2021-03-24",
+        "marketCap": 1368386356223
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2021-03-23",
+        "marketCap": 1374310689557
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2021-03-22",
+        "marketCap": 1367039916829
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2021-03-19",
+        "marketCap": 1364616325920
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2021-03-18",
+        "marketCap": 1360846295616
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2021-03-17",
+        "marketCap": 1401778053197
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2021-03-16",
+        "marketCap": 1402855204712
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2021-03-15",
+        "marketCap": 1383062545619
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2021-03-12",
+        "marketCap": 1380100378952
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2021-03-11",
+        "marketCap": 1414165295623
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2021-03-10",
+        "marketCap": 1370809947133
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2021-03-09",
+        "marketCap": 1373637469860
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2021-03-08",
+        "marketCap": 1351555863797
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2021-03-05",
+        "marketCap": 1411741704713
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2021-03-04",
+        "marketCap": 1369328863799
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2021-03-03",
+        "marketCap": 1354114098646
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2021-03-02",
+        "marketCap": 1389794742590
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2021-03-01",
+        "marketCap": 1393295485014
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2021-02-26",
+        "marketCap": 1361250227435
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2021-02-25",
+        "marketCap": 1357210909252
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2021-02-24",
+        "marketCap": 1402855204712
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2021-02-23",
+        "marketCap": 1386967219862
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2021-02-22",
+        "marketCap": 1382927901680
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2021-02-19",
+        "marketCap": 1406221303198
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2021-02-18",
+        "marketCap": 1417666038047
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2021-02-17",
+        "marketCap": 1426283250170
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2021-02-16",
+        "marketCap": 1421032136533
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2021-02-12",
+        "marketCap": 1410395265319
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2021-02-11",
+        "marketCap": 1406221303198
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2021-02-10",
+        "marketCap": 1404605575925
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2021-02-09",
+        "marketCap": 1397200159257
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2021-02-08",
+        "marketCap": 1403393780470
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2021-02-05",
+        "marketCap": 1406221303198
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2021-02-04",
+        "marketCap": 1382523969861
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2021-02-03",
+        "marketCap": 1386024712286
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2021-02-02",
+        "marketCap": 1292043242578
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2021-02-01",
+        "marketCap": 1274404886515
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2021-01-29",
+        "marketCap": 1230241674389
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2021-01-28",
+        "marketCap": 1247610742573
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2021-01-27",
+        "marketCap": 1224586628933
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2021-01-26",
+        "marketCap": 1284503181971
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2021-01-25",
+        "marketCap": 1275212750152
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2021-01-22",
+        "marketCap": 1274135598636
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2021-01-21",
+        "marketCap": 1268480553181
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2021-01-20",
+        "marketCap": 1265653030454
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2021-01-19",
+        "marketCap": 1201293227416
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2021-01-15",
+        "marketCap": 1163054348623
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2021-01-14",
+        "marketCap": 1165343295593
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2021-01-13",
+        "marketCap": 1176249454685
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2021-01-12",
+        "marketCap": 1169651901654
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2021-01-11",
+        "marketCap": 1182308431959
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2021-01-08",
+        "marketCap": 1210314371356
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2021-01-07",
+        "marketCap": 1194561030445
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2021-01-06",
+        "marketCap": 1159822894077
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2021-01-05",
+        "marketCap": 1171402272867
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2021-01-04",
+        "marketCap": 1162111841047
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2020-12-31",
+        "marketCap": 1179884841049
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2020-12-30",
+        "marketCap": 1172944940508
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2020-12-29",
+        "marketCap": 1187537505140
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2020-12-28",
+        "marketCap": 1198481928615
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2020-12-24",
+        "marketCap": 1171593777116
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2020-12-23",
+        "marketCap": 1167540286940
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2020-12-22",
+        "marketCap": 1162135633373
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2020-12-21",
+        "marketCap": 1171864009794
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2020-12-18",
+        "marketCap": 1166189123548
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2020-12-17",
+        "marketCap": 1175917499970
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2020-12-16",
+        "marketCap": 1187132156123
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2020-12-15",
+        "marketCap": 1189699366567
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2020-12-14",
+        "marketCap": 1183754247643
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2020-12-11",
+        "marketCap": 1199022393972
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2020-12-10",
+        "marketCap": 1194158205761
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2020-12-09",
+        "marketCap": 1201049139059
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2020-12-08",
+        "marketCap": 1223748684043
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2020-12-07",
+        "marketCap": 1227531941541
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2020-12-04",
+        "marketCap": 1232125897073
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2020-12-03",
+        "marketCap": 1230774733681
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2020-12-02",
+        "marketCap": 1232936595108
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2020-12-01",
+        "marketCap": 1212939376908
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2020-11-30",
+        "marketCap": 1185240527374
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2020-11-27",
+        "marketCap": 1207264490662
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2020-11-25",
+        "marketCap": 1191861227994
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2020-11-24",
+        "marketCap": 1191726111655
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2020-11-23",
+        "marketCap": 1167134937923
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2020-11-20",
+        "marketCap": 1173080056847
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2020-11-19",
+        "marketCap": 1188077970497
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2020-11-18",
+        "marketCap": 1175917499970
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2020-11-17",
+        "marketCap": 1190104715585
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2020-11-16",
+        "marketCap": 1198481928615
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2020-11-13",
+        "marketCap": 1197265881562
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2020-11-12",
+        "marketCap": 1177403779701
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2020-11-11",
+        "marketCap": 1180376339163
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2020-11-10",
+        "marketCap": 1174025871221
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2020-11-09",
+        "marketCap": 1189969599246
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2020-11-06",
+        "marketCap": 1188888668532
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2020-11-05",
+        "marketCap": 1190780297281
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2020-11-04",
+        "marketCap": 1179430524789
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2020-11-03",
+        "marketCap": 1111737238855
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2020-11-02",
+        "marketCap": 1097414906901
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2020-10-30",
+        "marketCap": 1091875136994
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2020-10-29",
+        "marketCap": 1051745584254
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2020-10-28",
+        "marketCap": 1020668826241
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2020-10-27",
+        "marketCap": 1080120015484
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2020-10-26",
+        "marketCap": 1070256522723
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2020-10-23",
+        "marketCap": 1103224909486
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2020-10-22",
+        "marketCap": 1085389552713
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2020-10-21",
+        "marketCap": 1071472569776
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2020-10-20",
+        "marketCap": 1047827210418
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2020-10-19",
+        "marketCap": 1033639994803
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2020-10-16",
+        "marketCap": 1059176982910
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2020-10-15",
+        "marketCap": 1050799769880
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2020-10-14",
+        "marketCap": 1056204423448
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2020-10-13",
+        "marketCap": 1058636517553
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2020-10-12",
+        "marketCap": 1057015121483
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2020-10-09",
+        "marketCap": 1020398593562
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2020-10-08",
+        "marketCap": 1002157887772
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2020-10-07",
+        "marketCap": 985808810730
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2020-10-06",
+        "marketCap": 980269040823
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2020-10-05",
+        "marketCap": 1001752538754
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2020-10-02",
+        "marketCap": 983376716624
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2020-10-01",
+        "marketCap": 1005265563573
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2020-09-30",
+        "marketCap": 990132533584
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2020-09-29",
+        "marketCap": 996071835541
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2020-09-28",
+        "marketCap": 991043914952
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2020-09-25",
+        "marketCap": 977726719879
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2020-09-24",
+        "marketCap": 966719650482
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2020-09-23",
+        "marketCap": 957615037525
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2020-09-22",
+        "marketCap": 991859253426
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2020-09-21",
+        "marketCap": 971747571071
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2020-09-18",
+        "marketCap": 985880104618
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2020-09-17",
+        "marketCap": 1010340258833
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2020-09-16",
+        "marketCap": 1027326477038
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2020-09-15",
+        "marketCap": 1043089687532
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2020-09-14",
+        "marketCap": 1025152241108
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2020-09-11",
+        "marketCap": 1029908382205
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2020-09-10",
+        "marketCap": 1036838759233
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2020-09-09",
+        "marketCap": 1051243072271
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2020-09-08",
+        "marketCap": 1035208082285
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2020-09-04",
+        "marketCap": 1074344329029
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2020-09-03",
+        "marketCap": 1107229647474
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2020-09-02",
+        "marketCap": 1166885245810
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2020-09-01",
+        "marketCap": 1124487645171
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2020-08-31",
+        "marketCap": 1107229647474
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2020-08-28",
+        "marketCap": 1113888245011
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2020-08-27",
+        "marketCap": 1106550198746
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2020-08-26",
+        "marketCap": 1117149598906
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2020-08-25",
+        "marketCap": 1091058767743
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2020-08-24",
+        "marketCap": 1077062123942
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2020-08-21",
+        "marketCap": 1070539416151
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2020-08-20",
+        "marketCap": 1070947085388
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2020-08-19",
+        "marketCap": 1049476505577
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2020-08-18",
+        "marketCap": 1057086331333
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2020-08-17",
+        "marketCap": 1030180161696
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2020-08-14",
+        "marketCap": 1022298556449
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2020-08-13",
+        "marketCap": 1030451941188
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2020-08-12",
+        "marketCap": 1024065123143
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2020-08-11",
+        "marketCap": 1005991786972
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2020-08-10",
+        "marketCap": 1016998856369
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2020-08-07",
+        "marketCap": 1018085974334
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2020-08-06",
+        "marketCap": 1022570335941
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2020-08-05",
+        "marketCap": 1004904669007
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2020-08-04",
+        "marketCap": 1001099756129
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2020-08-03",
+        "marketCap": 1007486574174
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2020-07-31",
+        "marketCap": 1011019707561
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2020-07-30",
+        "marketCap": 1045263923462
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2020-07-29",
+        "marketCap": 1035208082285
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2020-07-28",
+        "marketCap": 1021619107721
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2020-07-27",
+        "marketCap": 1039148884909
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2020-07-24",
+        "marketCap": 1024744571871
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2020-07-23",
+        "marketCap": 1030587830933
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2020-07-22",
+        "marketCap": 1063201369887
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2020-07-21",
+        "marketCap": 1057222221079
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2020-07-20",
+        "marketCap": 1062521921159
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2020-07-17",
+        "marketCap": 1030587830933
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2020-07-16",
+        "marketCap": 1029364823223
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2020-07-15",
+        "marketCap": 1030587830933
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2020-07-14",
+        "marketCap": 1033305625846
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2020-07-13",
+        "marketCap": 1027462366784
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2020-07-10",
+        "marketCap": 1045671592699
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2020-07-09",
+        "marketCap": 1031810838644
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2020-07-08",
+        "marketCap": 1021619107721
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2020-07-07",
+        "marketCap": 1012378605018
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2020-07-06",
+        "marketCap": 1018901312808
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2020-07-02",
+        "marketCap": 998789630454
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2020-07-01",
+        "marketCap": 979765066064
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2020-06-30",
+        "marketCap": 963458296587
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2020-06-29",
+        "marketCap": 952565868513
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2020-06-26",
+        "marketCap": 928976705150
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2020-06-25",
+        "marketCap": 982563648512
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2020-06-24",
+        "marketCap": 976836799603
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2020-06-23",
+        "marketCap": 998107952694
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2020-06-22",
+        "marketCap": 988972265148
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2020-06-19",
+        "marketCap": 971246304240
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2020-06-18",
+        "marketCap": 977791274421
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2020-06-17",
+        "marketCap": 990335800603
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2020-06-16",
+        "marketCap": 986108840694
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2020-06-15",
+        "marketCap": 968655586876
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2020-06-12",
+        "marketCap": 963337798604
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2020-06-11",
+        "marketCap": 955838353604
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2020-06-10",
+        "marketCap": 998653366875
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2020-06-09",
+        "marketCap": 989926739966
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2020-06-08",
+        "marketCap": 987199669058
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2020-06-05",
+        "marketCap": 981745527240
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2020-06-04",
+        "marketCap": 964292273422
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2020-06-03",
+        "marketCap": 981200113058
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2020-06-02",
+        "marketCap": 983381769785
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2020-06-01",
+        "marketCap": 978200335058
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2020-05-29",
+        "marketCap": 977382213785
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2020-05-28",
+        "marketCap": 966882990785
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2020-05-27",
+        "marketCap": 968246526240
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2020-05-26",
+        "marketCap": 969064647513
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2020-05-22",
+        "marketCap": 963474152149
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2020-05-21",
+        "marketCap": 959110838695
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2020-05-20",
+        "marketCap": 960747081240
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2020-05-19",
+        "marketCap": 937021564332
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2020-05-18",
+        "marketCap": 944384655786
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2020-05-15",
+        "marketCap": 936067089514
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2020-05-14",
+        "marketCap": 925022452332
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2020-05-13",
+        "marketCap": 919295603423
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2020-05-12",
+        "marketCap": 937566978514
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2020-05-11",
+        "marketCap": 956929181968
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2020-05-08",
+        "marketCap": 943839241604
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2020-05-07",
+        "marketCap": 933476372150
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2020-05-06",
+        "marketCap": 917250300242
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2020-05-05",
+        "marketCap": 919704664060
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2020-05-04",
+        "marketCap": 901978703151
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2020-05-01",
+        "marketCap": 898160803879
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2020-04-30",
+        "marketCap": 918068421514
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2020-04-29",
+        "marketCap": 915068643514
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2020-04-28",
+        "marketCap": 840346900608
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2020-04-27",
+        "marketCap": 866390427789
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2020-04-24",
+        "marketCap": 870344680607
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2020-04-23",
+        "marketCap": 866663134880
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2020-04-22",
+        "marketCap": 857936507971
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2020-04-21",
+        "marketCap": 826438838972
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2020-04-20",
+        "marketCap": 859845457607
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2020-04-17",
+        "marketCap": 871980923152
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2020-04-16",
+        "marketCap": 857254740244
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2020-04-15",
+        "marketCap": 857254740244
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2020-04-14",
+        "marketCap": 862572528516
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2020-04-13",
+        "marketCap": 825211657063
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2020-04-09",
+        "marketCap": 822620939699
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2020-04-08",
+        "marketCap": 822893646790
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2020-04-07",
+        "marketCap": 806258514245
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2020-04-06",
+        "marketCap": 806667574882
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2020-04-03",
+        "marketCap": 745035772338
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2020-04-02",
+        "marketCap": 761534551338
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2020-04-01",
+        "marketCap": 751444388974
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2020-03-31",
+        "marketCap": 792214099064
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2020-03-30",
+        "marketCap": 786963161198
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2020-03-27",
+        "marketCap": 762113138139
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2020-03-26",
+        "marketCap": 798358475640
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2020-03-25",
+        "marketCap": 756209541500
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2020-03-24",
+        "marketCap": 775705139702
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2020-03-23",
+        "marketCap": 723671113516
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2020-03-20",
+        "marketCap": 733281619672
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2020-03-19",
+        "marketCap": 763074188754
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2020-03-18",
+        "marketCap": 749070308356
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2020-03-17",
+        "marketCap": 767467562997
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2020-03-16",
+        "marketCap": 736576650354
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2020-03-13",
+        "marketCap": 833505469580
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2020-03-12",
+        "marketCap": 763074188754
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2020-03-11",
+        "marketCap": 831308782459
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2020-03-10",
+        "marketCap": 875379817830
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2020-03-09",
+        "marketCap": 834603813141
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2020-03-06",
+        "marketCap": 889520991173
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2020-03-05",
+        "marketCap": 902563820955
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2020-03-04",
+        "marketCap": 948419664612
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2020-03-03",
+        "marketCap": 918352509640
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2020-03-02",
+        "marketCap": 951714695294
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2020-02-28",
+        "marketCap": 919313560255
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2020-02-27",
+        "marketCap": 902701113901
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2020-02-26",
+        "marketCap": 954460554196
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2020-02-25",
+        "marketCap": 951714695294
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2020-02-24",
+        "marketCap": 974642617122
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2020-02-21",
+        "marketCap": 1018301773658
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2020-02-20",
+        "marketCap": 1041366988431
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2020-02-19",
+        "marketCap": 1046721413289
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2020-02-18",
+        "marketCap": 1043014503772
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2020-02-14",
+        "marketCap": 1042602624937
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2020-02-13",
+        "marketCap": 1038895715420
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2020-02-12",
+        "marketCap": 1042465331992
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2020-02-11",
+        "marketCap": 1036561735354
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2020-02-10",
+        "marketCap": 1035600684738
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2020-02-07",
+        "marketCap": 1015418621811
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2020-02-06",
+        "marketCap": 1013221934690
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2020-02-05",
+        "marketCap": 992627992928
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2020-02-04",
+        "marketCap": 992216114093
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2020-02-03",
+        "marketCap": 1017752601878
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2020-01-31",
+        "marketCap": 983566658553
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2020-01-30",
+        "marketCap": 998257003676
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2020-01-29",
+        "marketCap": 999904519017
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2020-01-28",
+        "marketCap": 995785730665
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2020-01-27",
+        "marketCap": 982880193827
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2020-01-24",
+        "marketCap": 1006494580381
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2020-01-23",
+        "marketCap": 1019125531328
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2020-01-22",
+        "marketCap": 1018850945438
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2020-01-21",
+        "marketCap": 1017478015987
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2020-01-17",
+        "marketCap": 1015693207701
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2020-01-16",
+        "marketCap": 995511144775
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2020-01-15",
+        "marketCap": 987960032795
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2020-01-14",
+        "marketCap": 982056436157
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2020-01-13",
+        "marketCap": 988509204576
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2020-01-10",
+        "marketCap": 980958092596
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2020-01-09",
+        "marketCap": 974642617122
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2020-01-08",
+        "marketCap": 964482939187
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2020-01-07",
+        "marketCap": 957755584878
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2020-01-06",
+        "marketCap": 959540393164
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2020-01-03",
+        "marketCap": 934690370104
+    },
+    {
+        "symbol": "GOOG",
+        "date": "2020-01-02",
+        "marketCap": 939495623182
+    }
+]

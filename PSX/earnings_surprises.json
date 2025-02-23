@@ -1,0 +1,308 @@
+[
+    {
+        "date": "2024-10-29",
+        "symbol": "PSX",
+        "actualEarningResult": 2.04,
+        "estimatedEarning": 1.71
+    },
+    {
+        "date": "2024-07-30",
+        "symbol": "PSX",
+        "actualEarningResult": 2.31,
+        "estimatedEarning": 1.98
+    },
+    {
+        "date": "2024-04-26",
+        "symbol": "PSX",
+        "actualEarningResult": 1.9,
+        "estimatedEarning": 2.17
+    },
+    {
+        "date": "2024-01-31",
+        "symbol": "PSX",
+        "actualEarningResult": 3.09,
+        "estimatedEarning": 2.35
+    },
+    {
+        "date": "2023-10-27",
+        "symbol": "PSX",
+        "actualEarningResult": 4.63,
+        "estimatedEarning": 4.76
+    },
+    {
+        "date": "2023-08-02",
+        "symbol": "PSX",
+        "actualEarningResult": 3.87,
+        "estimatedEarning": 3.56
+    },
+    {
+        "date": "2023-05-03",
+        "symbol": "PSX",
+        "actualEarningResult": 4.21,
+        "estimatedEarning": 3.56
+    },
+    {
+        "date": "2023-01-31",
+        "symbol": "PSX",
+        "actualEarningResult": 4,
+        "estimatedEarning": 4.35
+    },
+    {
+        "date": "2022-11-01",
+        "symbol": "PSX",
+        "actualEarningResult": 6.46,
+        "estimatedEarning": 4.98
+    },
+    {
+        "date": "2022-07-29",
+        "symbol": "PSX",
+        "actualEarningResult": 6.77,
+        "estimatedEarning": 5.97
+    },
+    {
+        "date": "2022-04-29",
+        "symbol": "PSX",
+        "actualEarningResult": 1.32,
+        "estimatedEarning": 1.28
+    },
+    {
+        "date": "2022-01-28",
+        "symbol": "PSX",
+        "actualEarningResult": 2.94,
+        "estimatedEarning": 1.95
+    },
+    {
+        "date": "2021-10-29",
+        "symbol": "PSX",
+        "actualEarningResult": 3.18,
+        "estimatedEarning": 1.95
+    },
+    {
+        "date": "2021-08-03",
+        "symbol": "PSX",
+        "actualEarningResult": 0.74,
+        "estimatedEarning": 0.6
+    },
+    {
+        "date": "2021-04-30",
+        "symbol": "PSX",
+        "actualEarningResult": -1.16,
+        "estimatedEarning": -1.41
+    },
+    {
+        "date": "2021-01-29",
+        "symbol": "PSX",
+        "actualEarningResult": -1.16,
+        "estimatedEarning": -1.09
+    },
+    {
+        "date": "2020-10-30",
+        "symbol": "PSX",
+        "actualEarningResult": -0.01,
+        "estimatedEarning": -0.8
+    },
+    {
+        "date": "2020-07-31",
+        "symbol": "PSX",
+        "actualEarningResult": -0.74,
+        "estimatedEarning": -0.99
+    },
+    {
+        "date": "2020-05-01",
+        "symbol": "PSX",
+        "actualEarningResult": 1.02,
+        "estimatedEarning": 0.63
+    },
+    {
+        "date": "2020-01-31",
+        "symbol": "PSX",
+        "actualEarningResult": 1.54,
+        "estimatedEarning": 1.56
+    },
+    {
+        "date": "2019-10-25",
+        "symbol": "PSX",
+        "actualEarningResult": 3.11,
+        "estimatedEarning": 2.6
+    },
+    {
+        "date": "2019-07-26",
+        "symbol": "PSX",
+        "actualEarningResult": 3.02,
+        "estimatedEarning": 2.74
+    },
+    {
+        "date": "2019-04-30",
+        "symbol": "PSX",
+        "actualEarningResult": 0.4,
+        "estimatedEarning": 0.34
+    },
+    {
+        "date": "2019-02-08",
+        "symbol": "PSX",
+        "actualEarningResult": 4.87,
+        "estimatedEarning": 3.01
+    },
+    {
+        "date": "2018-10-26",
+        "symbol": "PSX",
+        "actualEarningResult": 3.1,
+        "estimatedEarning": 2.48
+    },
+    {
+        "date": "2018-07-27",
+        "symbol": "PSX",
+        "actualEarningResult": 2.8,
+        "estimatedEarning": 2.19
+    },
+    {
+        "date": "2018-04-27",
+        "symbol": "PSX",
+        "actualEarningResult": 1.04,
+        "estimatedEarning": 0.89
+    },
+    {
+        "date": "2018-02-02",
+        "symbol": "PSX",
+        "actualEarningResult": 1.07,
+        "estimatedEarning": 0.86
+    },
+    {
+        "date": "2017-10-27",
+        "symbol": "PSX",
+        "actualEarningResult": 1.66,
+        "estimatedEarning": 1.57
+    },
+    {
+        "date": "2017-08-01",
+        "symbol": "PSX",
+        "actualEarningResult": 1.09,
+        "estimatedEarning": 1.01
+    },
+    {
+        "date": "2017-04-28",
+        "symbol": "PSX",
+        "actualEarningResult": 0.56,
+        "estimatedEarning": 0.05118
+    },
+    {
+        "date": "2017-02-03",
+        "symbol": "PSX",
+        "actualEarningResult": 0.16,
+        "estimatedEarning": 0.39
+    },
+    {
+        "date": "2016-10-28",
+        "symbol": "PSX",
+        "actualEarningResult": 1.05,
+        "estimatedEarning": 0.88
+    },
+    {
+        "date": "2016-07-29",
+        "symbol": "PSX",
+        "actualEarningResult": 0.94,
+        "estimatedEarning": 0.93
+    },
+    {
+        "date": "2016-04-29",
+        "symbol": "PSX",
+        "actualEarningResult": 0.67,
+        "estimatedEarning": 0.87
+    },
+    {
+        "date": "2016-01-29",
+        "symbol": "PSX",
+        "actualEarningResult": 1.31,
+        "estimatedEarning": 1.25
+    },
+    {
+        "date": "2015-10-30",
+        "symbol": "PSX",
+        "actualEarningResult": 3.02,
+        "estimatedEarning": 2.24
+    },
+    {
+        "date": "2015-07-31",
+        "symbol": "PSX",
+        "actualEarningResult": 1.83,
+        "estimatedEarning": 1.81
+    },
+    {
+        "date": "2015-04-30",
+        "symbol": "PSX",
+        "actualEarningResult": 1.51,
+        "estimatedEarning": 1.43
+    },
+    {
+        "date": "2015-01-29",
+        "symbol": "PSX",
+        "actualEarningResult": 1.63,
+        "estimatedEarning": 1.37
+    },
+    {
+        "date": "2014-10-29",
+        "symbol": "PSX",
+        "actualEarningResult": 2.02,
+        "estimatedEarning": 1.75
+    },
+    {
+        "date": "2014-07-30",
+        "symbol": "PSX",
+        "actualEarningResult": 1.51,
+        "estimatedEarning": 1.7
+    },
+    {
+        "date": "2014-04-30",
+        "symbol": "PSX",
+        "actualEarningResult": 1.47,
+        "estimatedEarning": 1.34
+    },
+    {
+        "date": "2014-01-29",
+        "symbol": "PSX",
+        "actualEarningResult": 1.34,
+        "estimatedEarning": 1.1
+    },
+    {
+        "date": "2013-10-30",
+        "symbol": "PSX",
+        "actualEarningResult": 0.87,
+        "estimatedEarning": 0.94
+    },
+    {
+        "date": "2013-07-31",
+        "symbol": "PSX",
+        "actualEarningResult": 1.5,
+        "estimatedEarning": 1.83
+    },
+    {
+        "date": "2013-05-01",
+        "symbol": "PSX",
+        "actualEarningResult": 2.19,
+        "estimatedEarning": 1.89
+    },
+    {
+        "date": "2013-01-30",
+        "symbol": "PSX",
+        "actualEarningResult": 2.06,
+        "estimatedEarning": 1.69
+    },
+    {
+        "date": "2012-10-31",
+        "symbol": "PSX",
+        "actualEarningResult": 2.97,
+        "estimatedEarning": 2.35
+    },
+    {
+        "date": "2012-08-01",
+        "symbol": "PSX",
+        "actualEarningResult": 2.23,
+        "estimatedEarning": 1.78
+    },
+    {
+        "date": "2012-05-16",
+        "symbol": "PSX",
+        "actualEarningResult": 1.04,
+        "estimatedEarning": 1.02
+    }
+]

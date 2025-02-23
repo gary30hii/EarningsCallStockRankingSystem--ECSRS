@@ -1,0 +1,98 @@
+[
+    {
+        "date": "2024-11-07",
+        "symbol": "AFRM",
+        "actualEarningResult": -0.31,
+        "estimatedEarning": -0.34
+    },
+    {
+        "date": "2024-08-28",
+        "symbol": "AFRM",
+        "actualEarningResult": -0.14,
+        "estimatedEarning": -0.45
+    },
+    {
+        "date": "2024-05-08",
+        "symbol": "AFRM",
+        "actualEarningResult": -0.43,
+        "estimatedEarning": -0.6984
+    },
+    {
+        "date": "2024-02-08",
+        "symbol": "AFRM",
+        "actualEarningResult": 0.04,
+        "estimatedEarning": 0.08
+    },
+    {
+        "date": "2023-11-08",
+        "symbol": "AFRM",
+        "actualEarningResult": -0.57,
+        "estimatedEarning": 0.08
+    },
+    {
+        "date": "2023-08-24",
+        "symbol": "AFRM",
+        "actualEarningResult": -0.69,
+        "estimatedEarning": -0.86
+    },
+    {
+        "date": "2023-05-09",
+        "symbol": "AFRM",
+        "actualEarningResult": -0.69,
+        "estimatedEarning": -0.91
+    },
+    {
+        "date": "2023-02-08",
+        "symbol": "AFRM",
+        "actualEarningResult": -1.1,
+        "estimatedEarning": -1.01
+    },
+    {
+        "date": "2022-11-08",
+        "symbol": "AFRM",
+        "actualEarningResult": -0.86,
+        "estimatedEarning": -0.82
+    },
+    {
+        "date": "2022-08-25",
+        "symbol": "AFRM",
+        "actualEarningResult": -0.65,
+        "estimatedEarning": -0.45
+    },
+    {
+        "date": "2022-05-12",
+        "symbol": "AFRM",
+        "actualEarningResult": -0.19,
+        "estimatedEarning": -0.45
+    },
+    {
+        "date": "2022-02-10",
+        "symbol": "AFRM",
+        "actualEarningResult": -0.57,
+        "estimatedEarning": -0.44
+    },
+    {
+        "date": "2021-11-10",
+        "symbol": "AFRM",
+        "actualEarningResult": -0.4,
+        "estimatedEarning": -0.3
+    },
+    {
+        "date": "2021-09-09",
+        "symbol": "AFRM",
+        "actualEarningResult": -0.48,
+        "estimatedEarning": -0.27
+    },
+    {
+        "date": "2021-05-10",
+        "symbol": "AFRM",
+        "actualEarningResult": -0.72,
+        "estimatedEarning": -0.29
+    },
+    {
+        "date": "2021-02-11",
+        "symbol": "AFRM",
+        "actualEarningResult": -0.45,
+        "estimatedEarning": -0.94
+    }
+]

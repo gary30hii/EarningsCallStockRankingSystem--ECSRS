@@ -1,0 +1,362 @@
+[
+    {
+        "date": "2024-11-07",
+        "symbol": "FTNT",
+        "actualEarningResult": 0.63,
+        "estimatedEarning": 0.52
+    },
+    {
+        "date": "2024-08-06",
+        "symbol": "FTNT",
+        "actualEarningResult": 0.57,
+        "estimatedEarning": 0.41
+    },
+    {
+        "date": "2024-05-02",
+        "symbol": "FTNT",
+        "actualEarningResult": 0.43,
+        "estimatedEarning": 0.38
+    },
+    {
+        "date": "2024-02-06",
+        "symbol": "FTNT",
+        "actualEarningResult": 0.51,
+        "estimatedEarning": 0.43
+    },
+    {
+        "date": "2023-11-02",
+        "symbol": "FTNT",
+        "actualEarningResult": 0.41,
+        "estimatedEarning": 0.36
+    },
+    {
+        "date": "2023-08-03",
+        "symbol": "FTNT",
+        "actualEarningResult": 0.38,
+        "estimatedEarning": 0.34
+    },
+    {
+        "date": "2023-05-04",
+        "symbol": "FTNT",
+        "actualEarningResult": 0.34,
+        "estimatedEarning": 0.29
+    },
+    {
+        "date": "2023-02-07",
+        "symbol": "FTNT",
+        "actualEarningResult": 0.44,
+        "estimatedEarning": 0.39
+    },
+    {
+        "date": "2022-11-02",
+        "symbol": "FTNT",
+        "actualEarningResult": 0.33,
+        "estimatedEarning": 0.27
+    },
+    {
+        "date": "2022-08-03",
+        "symbol": "FTNT",
+        "actualEarningResult": 0.24,
+        "estimatedEarning": 0.22
+    },
+    {
+        "date": "2022-05-04",
+        "symbol": "FTNT",
+        "actualEarningResult": 0.19,
+        "estimatedEarning": 0.16
+    },
+    {
+        "date": "2022-02-03",
+        "symbol": "FTNT",
+        "actualEarningResult": 0.25,
+        "estimatedEarning": 0.23
+    },
+    {
+        "date": "2021-11-04",
+        "symbol": "FTNT",
+        "actualEarningResult": 0.2,
+        "estimatedEarning": 0.19
+    },
+    {
+        "date": "2021-07-29",
+        "symbol": "FTNT",
+        "actualEarningResult": 0.19,
+        "estimatedEarning": 0.18
+    },
+    {
+        "date": "2021-04-29",
+        "symbol": "FTNT",
+        "actualEarningResult": 0.16,
+        "estimatedEarning": 0.15
+    },
+    {
+        "date": "2021-02-04",
+        "symbol": "FTNT",
+        "actualEarningResult": 0.21,
+        "estimatedEarning": 0.19
+    },
+    {
+        "date": "2020-10-29",
+        "symbol": "FTNT",
+        "actualEarningResult": 0.18,
+        "estimatedEarning": 0.16
+    },
+    {
+        "date": "2020-08-06",
+        "symbol": "FTNT",
+        "actualEarningResult": 0.16,
+        "estimatedEarning": 0.13
+    },
+    {
+        "date": "2020-05-06",
+        "symbol": "FTNT",
+        "actualEarningResult": 0.12,
+        "estimatedEarning": 0.1
+    },
+    {
+        "date": "2020-02-06",
+        "symbol": "FTNT",
+        "actualEarningResult": 0.15,
+        "estimatedEarning": 0.14
+    },
+    {
+        "date": "2019-10-31",
+        "symbol": "FTNT",
+        "actualEarningResult": 0.13,
+        "estimatedEarning": 0.11
+    },
+    {
+        "date": "2019-08-01",
+        "symbol": "FTNT",
+        "actualEarningResult": 0.12,
+        "estimatedEarning": 0.1
+    },
+    {
+        "date": "2019-05-02",
+        "symbol": "FTNT",
+        "actualEarningResult": 0.09,
+        "estimatedEarning": 0.08
+    },
+    {
+        "date": "2019-02-06",
+        "symbol": "FTNT",
+        "actualEarningResult": 0.12,
+        "estimatedEarning": 0.1
+    },
+    {
+        "date": "2018-11-01",
+        "symbol": "FTNT",
+        "actualEarningResult": 0.09,
+        "estimatedEarning": 0.08
+    },
+    {
+        "date": "2018-08-01",
+        "symbol": "FTNT",
+        "actualEarningResult": 0.08,
+        "estimatedEarning": 0.07
+    },
+    {
+        "date": "2018-05-03",
+        "symbol": "FTNT",
+        "actualEarningResult": 0.07,
+        "estimatedEarning": 0.05
+    },
+    {
+        "date": "2018-02-05",
+        "symbol": "FTNT",
+        "actualEarningResult": 0.06,
+        "estimatedEarning": 0.06
+    },
+    {
+        "date": "2017-10-26",
+        "symbol": "FTNT",
+        "actualEarningResult": 0.06,
+        "estimatedEarning": 0.05
+    },
+    {
+        "date": "2017-07-26",
+        "symbol": "FTNT",
+        "actualEarningResult": 0.05,
+        "estimatedEarning": 0.03675
+    },
+    {
+        "date": "2017-04-27",
+        "symbol": "FTNT",
+        "actualEarningResult": 0.03,
+        "estimatedEarning": 0.02722
+    },
+    {
+        "date": "2017-02-02",
+        "symbol": "FTNT",
+        "actualEarningResult": 0.06,
+        "estimatedEarning": 0.04107
+    },
+    {
+        "date": "2016-10-27",
+        "symbol": "FTNT",
+        "actualEarningResult": 0.04,
+        "estimatedEarning": 0.03414
+    },
+    {
+        "date": "2016-07-28",
+        "symbol": "FTNT",
+        "actualEarningResult": 0.03,
+        "estimatedEarning": 0.03015
+    },
+    {
+        "date": "2016-04-26",
+        "symbol": "FTNT",
+        "actualEarningResult": 0.02,
+        "estimatedEarning": 0.015
+    },
+    {
+        "date": "2016-01-28",
+        "symbol": "FTNT",
+        "actualEarningResult": 0.04,
+        "estimatedEarning": 0.041
+    },
+    {
+        "date": "2015-10-22",
+        "symbol": "FTNT",
+        "actualEarningResult": 0.03,
+        "estimatedEarning": 0.02586
+    },
+    {
+        "date": "2015-07-22",
+        "symbol": "FTNT",
+        "actualEarningResult": 0.02,
+        "estimatedEarning": 0.0166
+    },
+    {
+        "date": "2015-04-20",
+        "symbol": "FTNT",
+        "actualEarningResult": 0.02,
+        "estimatedEarning": 0.01563
+    },
+    {
+        "date": "2015-01-28",
+        "symbol": "FTNT",
+        "actualEarningResult": 0.03,
+        "estimatedEarning": 0.02953
+    },
+    {
+        "date": "2014-10-22",
+        "symbol": "FTNT",
+        "actualEarningResult": 0.02,
+        "estimatedEarning": 0.01853
+    },
+    {
+        "date": "2014-07-23",
+        "symbol": "FTNT",
+        "actualEarningResult": 0.02,
+        "estimatedEarning": 0.01876
+    },
+    {
+        "date": "2014-04-23",
+        "symbol": "FTNT",
+        "actualEarningResult": 0.02,
+        "estimatedEarning": 0.01542
+    },
+    {
+        "date": "2014-01-29",
+        "symbol": "FTNT",
+        "actualEarningResult": 0.03,
+        "estimatedEarning": 0.0272
+    },
+    {
+        "date": "2013-10-23",
+        "symbol": "FTNT",
+        "actualEarningResult": 0.02,
+        "estimatedEarning": 0.01833
+    },
+    {
+        "date": "2013-07-30",
+        "symbol": "FTNT",
+        "actualEarningResult": 0.02,
+        "estimatedEarning": 0.01912
+    },
+    {
+        "date": "2013-04-30",
+        "symbol": "FTNT",
+        "actualEarningResult": 0.02,
+        "estimatedEarning": 0.02043
+    },
+    {
+        "date": "2013-01-30",
+        "symbol": "FTNT",
+        "actualEarningResult": 0.03,
+        "estimatedEarning": 0.0264
+    },
+    {
+        "date": "2012-10-16",
+        "symbol": "FTNT",
+        "actualEarningResult": 0.03,
+        "estimatedEarning": 0.02973
+    },
+    {
+        "date": "2012-07-25",
+        "symbol": "FTNT",
+        "actualEarningResult": 0.02,
+        "estimatedEarning": 0.02015
+    },
+    {
+        "date": "2012-04-24",
+        "symbol": "FTNT",
+        "actualEarningResult": 0.02,
+        "estimatedEarning": 0.02024
+    },
+    {
+        "date": "2012-01-31",
+        "symbol": "FTNT",
+        "actualEarningResult": 0.03,
+        "estimatedEarning": 0.0261
+    },
+    {
+        "date": "2011-10-24",
+        "symbol": "FTNT",
+        "actualEarningResult": 0.03,
+        "estimatedEarning": 0.02147
+    },
+    {
+        "date": "2011-07-19",
+        "symbol": "FTNT",
+        "actualEarningResult": 0.02,
+        "estimatedEarning": 0.01848
+    },
+    {
+        "date": "2011-04-27",
+        "symbol": "FTNT",
+        "actualEarningResult": 0.02,
+        "estimatedEarning": 0.01606
+    },
+    {
+        "date": "2011-01-25",
+        "symbol": "FTNT",
+        "actualEarningResult": 0.02,
+        "estimatedEarning": 0.01279
+    },
+    {
+        "date": "2010-10-21",
+        "symbol": "FTNT",
+        "actualEarningResult": 0.02,
+        "estimatedEarning": 0.01249
+    },
+    {
+        "date": "2010-07-22",
+        "symbol": "FTNT",
+        "actualEarningResult": 0.00908,
+        "estimatedEarning": 0.00707
+    },
+    {
+        "date": "2010-04-28",
+        "symbol": "FTNT",
+        "actualEarningResult": 0.00563,
+        "estimatedEarning": 0.00399
+    },
+    {
+        "date": "2010-01-27",
+        "symbol": "FTNT",
+        "actualEarningResult": 0.01,
+        "estimatedEarning": 0.00538
+    }
+]

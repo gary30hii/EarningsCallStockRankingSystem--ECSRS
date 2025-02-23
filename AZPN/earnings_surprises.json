@@ -1,0 +1,674 @@
+[
+    {
+        "date": "2024-11-04",
+        "symbol": "AZPN",
+        "actualEarningResult": 0.85,
+        "estimatedEarning": 1.53
+    },
+    {
+        "date": "2024-08-06",
+        "symbol": "AZPN",
+        "actualEarningResult": 2.37,
+        "estimatedEarning": 2.07
+    },
+    {
+        "date": "2024-05-07",
+        "symbol": "AZPN",
+        "actualEarningResult": 1.7,
+        "estimatedEarning": 1.46
+    },
+    {
+        "date": "2024-02-06",
+        "symbol": "AZPN",
+        "actualEarningResult": 1.37,
+        "estimatedEarning": 1.49
+    },
+    {
+        "date": "2023-11-06",
+        "symbol": "AZPN",
+        "actualEarningResult": 1.16,
+        "estimatedEarning": 1.41
+    },
+    {
+        "date": "2023-08-01",
+        "symbol": "AZPN",
+        "actualEarningResult": 2.13,
+        "estimatedEarning": 2.19
+    },
+    {
+        "date": "2023-04-26",
+        "symbol": "AZPN",
+        "actualEarningResult": 1.06,
+        "estimatedEarning": 1.66
+    },
+    {
+        "date": "2023-01-25",
+        "symbol": "AZPN",
+        "actualEarningResult": 0.35,
+        "estimatedEarning": 1.27
+    },
+    {
+        "date": "2022-10-26",
+        "symbol": "AZPN",
+        "actualEarningResult": 2.2,
+        "estimatedEarning": 1.23
+    },
+    {
+        "date": "2022-08-08",
+        "symbol": "AZPN",
+        "actualEarningResult": 2.43,
+        "estimatedEarning": 2.15
+    },
+    {
+        "date": "2022-04-27",
+        "symbol": "AZPN",
+        "actualEarningResult": 1.38,
+        "estimatedEarning": 1.37
+    },
+    {
+        "date": "2022-01-26",
+        "symbol": "AZPN",
+        "actualEarningResult": 1.2,
+        "estimatedEarning": 1.43
+    },
+    {
+        "date": "2021-10-27",
+        "symbol": "AZPN",
+        "actualEarningResult": 0.77,
+        "estimatedEarning": 0.61
+    },
+    {
+        "date": "2021-08-11",
+        "symbol": "AZPN",
+        "actualEarningResult": 1.53,
+        "estimatedEarning": 1.47
+    },
+    {
+        "date": "2021-04-28",
+        "symbol": "AZPN",
+        "actualEarningResult": 1.05,
+        "estimatedEarning": 1.11
+    },
+    {
+        "date": "2021-01-27",
+        "symbol": "AZPN",
+        "actualEarningResult": 2.04,
+        "estimatedEarning": 1.24
+    },
+    {
+        "date": "2020-11-05",
+        "symbol": "AZPN",
+        "actualEarningResult": 0.4789,
+        "estimatedEarning": 0.92
+    },
+    {
+        "date": "2020-08-12",
+        "symbol": "AZPN",
+        "actualEarningResult": 1.54,
+        "estimatedEarning": 1.17
+    },
+    {
+        "date": "2020-05-06",
+        "symbol": "AZPN",
+        "actualEarningResult": 0.74,
+        "estimatedEarning": 0.86
+    },
+    {
+        "date": "2020-01-29",
+        "symbol": "AZPN",
+        "actualEarningResult": 0.66,
+        "estimatedEarning": 0.8
+    },
+    {
+        "date": "2019-10-30",
+        "symbol": "AZPN",
+        "actualEarningResult": 0.79,
+        "estimatedEarning": 0.64
+    },
+    {
+        "date": "2019-08-07",
+        "symbol": "AZPN",
+        "actualEarningResult": 1.59,
+        "estimatedEarning": 1.09
+    },
+    {
+        "date": "2019-04-24",
+        "symbol": "AZPN",
+        "actualEarningResult": 0.96,
+        "estimatedEarning": 0.83
+    },
+    {
+        "date": "2019-01-23",
+        "symbol": "AZPN",
+        "actualEarningResult": 0.92,
+        "estimatedEarning": 0.62
+    },
+    {
+        "date": "2018-10-24",
+        "symbol": "AZPN",
+        "actualEarningResult": 0.64,
+        "estimatedEarning": 0.52
+    },
+    {
+        "date": "2018-08-08",
+        "symbol": "AZPN",
+        "actualEarningResult": 0.59,
+        "estimatedEarning": 0.56
+    },
+    {
+        "date": "2018-04-25",
+        "symbol": "AZPN",
+        "actualEarningResult": 0.58,
+        "estimatedEarning": 0.52
+    },
+    {
+        "date": "2018-01-24",
+        "symbol": "AZPN",
+        "actualEarningResult": 0.59,
+        "estimatedEarning": 0.5
+    },
+    {
+        "date": "2017-10-26",
+        "symbol": "AZPN",
+        "actualEarningResult": 0.53,
+        "estimatedEarning": 0.48
+    },
+    {
+        "date": "2017-08-10",
+        "symbol": "AZPN",
+        "actualEarningResult": 0.79,
+        "estimatedEarning": 0.44
+    },
+    {
+        "date": "2017-05-02",
+        "symbol": "AZPN",
+        "actualEarningResult": 0.52,
+        "estimatedEarning": 0.43
+    },
+    {
+        "date": "2017-01-26",
+        "symbol": "AZPN",
+        "actualEarningResult": 0.52,
+        "estimatedEarning": 0.46
+    },
+    {
+        "date": "2016-10-27",
+        "symbol": "AZPN",
+        "actualEarningResult": 0.49,
+        "estimatedEarning": 0.43
+    },
+    {
+        "date": "2016-08-11",
+        "symbol": "AZPN",
+        "actualEarningResult": 0.44,
+        "estimatedEarning": 0.39
+    },
+    {
+        "date": "2016-04-28",
+        "symbol": "AZPN",
+        "actualEarningResult": 0.49,
+        "estimatedEarning": 0.41
+    },
+    {
+        "date": "2016-01-28",
+        "symbol": "AZPN",
+        "actualEarningResult": 0.47,
+        "estimatedEarning": 0.39
+    },
+    {
+        "date": "2015-10-29",
+        "symbol": "AZPN",
+        "actualEarningResult": 0.47,
+        "estimatedEarning": 0.42
+    },
+    {
+        "date": "2015-08-13",
+        "symbol": "AZPN",
+        "actualEarningResult": 0.39,
+        "estimatedEarning": 0.34
+    },
+    {
+        "date": "2015-04-28",
+        "symbol": "AZPN",
+        "actualEarningResult": 0.37,
+        "estimatedEarning": 0.31
+    },
+    {
+        "date": "2015-01-28",
+        "symbol": "AZPN",
+        "actualEarningResult": 0.36,
+        "estimatedEarning": 0.3
+    },
+    {
+        "date": "2014-10-28",
+        "symbol": "AZPN",
+        "actualEarningResult": 0.35,
+        "estimatedEarning": 0.27
+    },
+    {
+        "date": "2014-08-13",
+        "symbol": "AZPN",
+        "actualEarningResult": 0.31,
+        "estimatedEarning": 0.21
+    },
+    {
+        "date": "2014-04-29",
+        "symbol": "AZPN",
+        "actualEarningResult": 0.28,
+        "estimatedEarning": 0.19
+    },
+    {
+        "date": "2014-01-30",
+        "symbol": "AZPN",
+        "actualEarningResult": 0.27,
+        "estimatedEarning": 0.17
+    },
+    {
+        "date": "2013-10-29",
+        "symbol": "AZPN",
+        "actualEarningResult": 0.19,
+        "estimatedEarning": 0.15
+    },
+    {
+        "date": "2013-08-15",
+        "symbol": "AZPN",
+        "actualEarningResult": 0.24,
+        "estimatedEarning": 0.08
+    },
+    {
+        "date": "2013-04-30",
+        "symbol": "AZPN",
+        "actualEarningResult": 0.14,
+        "estimatedEarning": 0.05
+    },
+    {
+        "date": "2013-01-29",
+        "symbol": "AZPN",
+        "actualEarningResult": 0.13,
+        "estimatedEarning": 0.05
+    },
+    {
+        "date": "2012-11-01",
+        "symbol": "AZPN",
+        "actualEarningResult": 0.08,
+        "estimatedEarning": 0.015
+    },
+    {
+        "date": "2012-08-21",
+        "symbol": "AZPN",
+        "actualEarningResult": -0.06,
+        "estimatedEarning": -0.05526
+    },
+    {
+        "date": "2012-05-01",
+        "symbol": "AZPN",
+        "actualEarningResult": 0.01,
+        "estimatedEarning": -0.05
+    },
+    {
+        "date": "2012-01-31",
+        "symbol": "AZPN",
+        "actualEarningResult": 0.06,
+        "estimatedEarning": -0.05
+    },
+    {
+        "date": "2011-11-01",
+        "symbol": "AZPN",
+        "actualEarningResult": -0.09,
+        "estimatedEarning": -0.08
+    },
+    {
+        "date": "2011-08-23",
+        "symbol": "AZPN",
+        "actualEarningResult": -0.2,
+        "estimatedEarning": -0.22
+    },
+    {
+        "date": "2011-05-03",
+        "symbol": "AZPN",
+        "actualEarningResult": -0.04,
+        "estimatedEarning": -0.2
+    },
+    {
+        "date": "2011-02-08",
+        "symbol": "AZPN",
+        "actualEarningResult": -0.09,
+        "estimatedEarning": -0.2
+    },
+    {
+        "date": "2010-11-02",
+        "symbol": "AZPN",
+        "actualEarningResult": -0.14,
+        "estimatedEarning": -0.22
+    },
+    {
+        "date": "2010-09-02",
+        "symbol": "AZPN",
+        "actualEarningResult": -0.37,
+        "estimatedEarning": -0.22
+    },
+    {
+        "date": "2010-05-06",
+        "symbol": "AZPN",
+        "actualEarningResult": -0.24,
+        "estimatedEarning": -0.25
+    },
+    {
+        "date": "2009-12-21",
+        "symbol": "AZPN",
+        "actualEarningResult": -0.23,
+        "estimatedEarning": -0.24
+    },
+    {
+        "date": "2009-11-09",
+        "symbol": "AZPN",
+        "actualEarningResult": 0.1,
+        "estimatedEarning": 0.22
+    },
+    {
+        "date": "2009-06-30",
+        "symbol": "AZPN",
+        "actualEarningResult": 0.2,
+        "estimatedEarning": 0.18
+    },
+    {
+        "date": "2009-02-19",
+        "symbol": "AZPN",
+        "actualEarningResult": 0.11,
+        "estimatedEarning": 0.28
+    },
+    {
+        "date": "2008-04-14",
+        "symbol": "AZPN",
+        "actualEarningResult": 0.02,
+        "estimatedEarning": 0.12
+    },
+    {
+        "date": "2007-05-09",
+        "symbol": "AZPN",
+        "actualEarningResult": 0.17,
+        "estimatedEarning": 0.14
+    },
+    {
+        "date": "2007-03-15",
+        "symbol": "AZPN",
+        "actualEarningResult": 0.3,
+        "estimatedEarning": 0.28
+    },
+    {
+        "date": "2006-11-07",
+        "symbol": "AZPN",
+        "actualEarningResult": 0.07,
+        "estimatedEarning": 0.05
+    },
+    {
+        "date": "2006-09-28",
+        "symbol": "AZPN",
+        "actualEarningResult": 0.13,
+        "estimatedEarning": 0.12
+    },
+    {
+        "date": "2006-05-09",
+        "symbol": "AZPN",
+        "actualEarningResult": 0.12,
+        "estimatedEarning": 0.08
+    },
+    {
+        "date": "2006-02-07",
+        "symbol": "AZPN",
+        "actualEarningResult": 0.14,
+        "estimatedEarning": 0.08
+    },
+    {
+        "date": "2005-09-13",
+        "symbol": "AZPN",
+        "actualEarningResult": -0.60404,
+        "estimatedEarning": -0.30202
+    },
+    {
+        "date": "2005-05-05",
+        "symbol": "AZPN",
+        "actualEarningResult": -0.05,
+        "estimatedEarning": -0.01857
+    },
+    {
+        "date": "2005-03-15",
+        "symbol": "AZPN",
+        "actualEarningResult": -0.04,
+        "estimatedEarning": -0.03143
+    },
+    {
+        "date": "2004-08-04",
+        "symbol": "AZPN",
+        "actualEarningResult": 0.08,
+        "estimatedEarning": 0.06
+    },
+    {
+        "date": "2004-04-29",
+        "symbol": "AZPN",
+        "actualEarningResult": 0.06,
+        "estimatedEarning": 0.05
+    },
+    {
+        "date": "2004-01-22",
+        "symbol": "AZPN",
+        "actualEarningResult": 0.05,
+        "estimatedEarning": 0.03789
+    },
+    {
+        "date": "2003-10-29",
+        "symbol": "AZPN",
+        "actualEarningResult": 0.00759,
+        "estimatedEarning": 0.00223
+    },
+    {
+        "date": "2003-08-07",
+        "symbol": "AZPN",
+        "actualEarningResult": 0.07,
+        "estimatedEarning": 0.06
+    },
+    {
+        "date": "2003-04-29",
+        "symbol": "AZPN",
+        "actualEarningResult": 0.06,
+        "estimatedEarning": 0.04143
+    },
+    {
+        "date": "2003-01-30",
+        "symbol": "AZPN",
+        "actualEarningResult": 0.02,
+        "estimatedEarning": -0.05
+    },
+    {
+        "date": "2002-10-24",
+        "symbol": "AZPN",
+        "actualEarningResult": -0.28,
+        "estimatedEarning": -0.24
+    },
+    {
+        "date": "2002-08-15",
+        "symbol": "AZPN",
+        "actualEarningResult": -0.34,
+        "estimatedEarning": -0.11
+    },
+    {
+        "date": "2002-04-25",
+        "symbol": "AZPN",
+        "actualEarningResult": -0.18,
+        "estimatedEarning": -0.11
+    },
+    {
+        "date": "2002-01-23",
+        "symbol": "AZPN",
+        "actualEarningResult": -0.00321,
+        "estimatedEarning": -0.00161
+    },
+    {
+        "date": "2001-10-25",
+        "symbol": "AZPN",
+        "actualEarningResult": -0.39,
+        "estimatedEarning": -0.37
+    },
+    {
+        "date": "2001-08-07",
+        "symbol": "AZPN",
+        "actualEarningResult": -0.06,
+        "estimatedEarning": -0.06
+    },
+    {
+        "date": "2001-04-24",
+        "symbol": "AZPN",
+        "actualEarningResult": -0.16,
+        "estimatedEarning": -0.16
+    },
+    {
+        "date": "2001-01-24",
+        "symbol": "AZPN",
+        "actualEarningResult": 0.13,
+        "estimatedEarning": 0.07
+    },
+    {
+        "date": "2000-10-24",
+        "symbol": "AZPN",
+        "actualEarningResult": 0.02,
+        "estimatedEarning": 0.01
+    },
+    {
+        "date": "2000-08-08",
+        "symbol": "AZPN",
+        "actualEarningResult": 0.18,
+        "estimatedEarning": 0.13
+    },
+    {
+        "date": "2000-04-24",
+        "symbol": "AZPN",
+        "actualEarningResult": 0.1,
+        "estimatedEarning": 0.07
+    },
+    {
+        "date": "2000-01-25",
+        "symbol": "AZPN",
+        "actualEarningResult": 0.06,
+        "estimatedEarning": 0.004
+    },
+    {
+        "date": "1999-10-26",
+        "symbol": "AZPN",
+        "actualEarningResult": -0.11,
+        "estimatedEarning": -0.15
+    },
+    {
+        "date": "1999-08-05",
+        "symbol": "AZPN",
+        "actualEarningResult": -0.14,
+        "estimatedEarning": -0.16
+    },
+    {
+        "date": "1999-04-27",
+        "symbol": "AZPN",
+        "actualEarningResult": -0.23,
+        "estimatedEarning": -0.02683
+    },
+    {
+        "date": "1999-01-26",
+        "symbol": "AZPN",
+        "actualEarningResult": 0.02,
+        "estimatedEarning": 0.005
+    },
+    {
+        "date": "1998-10-28",
+        "symbol": "AZPN",
+        "actualEarningResult": -0.26,
+        "estimatedEarning": -0.26
+    },
+    {
+        "date": "1998-08-11",
+        "symbol": "AZPN",
+        "actualEarningResult": 0.19,
+        "estimatedEarning": 0.3
+    },
+    {
+        "date": "1998-04-28",
+        "symbol": "AZPN",
+        "actualEarningResult": 0.4,
+        "estimatedEarning": 0.38
+    },
+    {
+        "date": "1998-01-27",
+        "symbol": "AZPN",
+        "actualEarningResult": 0.31,
+        "estimatedEarning": 0.29
+    },
+    {
+        "date": "1997-10-28",
+        "symbol": "AZPN",
+        "actualEarningResult": 0.1,
+        "estimatedEarning": 0.09
+    },
+    {
+        "date": "1997-08-13",
+        "symbol": "AZPN",
+        "actualEarningResult": 0.38,
+        "estimatedEarning": 0.37
+    },
+    {
+        "date": "1997-04-29",
+        "symbol": "AZPN",
+        "actualEarningResult": 0.27,
+        "estimatedEarning": 0.25
+    },
+    {
+        "date": "1997-01-28",
+        "symbol": "AZPN",
+        "actualEarningResult": 0.24,
+        "estimatedEarning": 0.23
+    },
+    {
+        "date": "1996-10-24",
+        "symbol": "AZPN",
+        "actualEarningResult": 0.07,
+        "estimatedEarning": 0.06
+    },
+    {
+        "date": "1996-08-13",
+        "symbol": "AZPN",
+        "actualEarningResult": 0.24,
+        "estimatedEarning": 0.24
+    },
+    {
+        "date": "1996-04-30",
+        "symbol": "AZPN",
+        "actualEarningResult": 0.13,
+        "estimatedEarning": 0.11
+    },
+    {
+        "date": "1996-01-23",
+        "symbol": "AZPN",
+        "actualEarningResult": 0.13,
+        "estimatedEarning": 0.12
+    },
+    {
+        "date": "1995-10-24",
+        "symbol": "AZPN",
+        "actualEarningResult": 0.03,
+        "estimatedEarning": 0.025
+    },
+    {
+        "date": "1995-08-08",
+        "symbol": "AZPN",
+        "actualEarningResult": 0.18,
+        "estimatedEarning": 0.13
+    },
+    {
+        "date": "1995-04-25",
+        "symbol": "AZPN",
+        "actualEarningResult": 0.1,
+        "estimatedEarning": 0.1
+    },
+    {
+        "date": "1995-01-23",
+        "symbol": "AZPN",
+        "actualEarningResult": 0.09,
+        "estimatedEarning": 0.08
+    }
+]

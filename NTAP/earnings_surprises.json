@@ -1,0 +1,674 @@
+[
+    {
+        "date": "2024-11-21",
+        "symbol": "NTAP",
+        "actualEarningResult": 1.87,
+        "estimatedEarning": 1.78
+    },
+    {
+        "date": "2024-08-28",
+        "symbol": "NTAP",
+        "actualEarningResult": 1.56,
+        "estimatedEarning": 1.45
+    },
+    {
+        "date": "2024-05-30",
+        "symbol": "NTAP",
+        "actualEarningResult": 1.8,
+        "estimatedEarning": 1.79
+    },
+    {
+        "date": "2024-02-29",
+        "symbol": "NTAP",
+        "actualEarningResult": 1.94,
+        "estimatedEarning": 1.69
+    },
+    {
+        "date": "2023-11-28",
+        "symbol": "NTAP",
+        "actualEarningResult": 1.58,
+        "estimatedEarning": 1.4
+    },
+    {
+        "date": "2023-08-23",
+        "symbol": "NTAP",
+        "actualEarningResult": 1.15,
+        "estimatedEarning": 1.07
+    },
+    {
+        "date": "2023-05-31",
+        "symbol": "NTAP",
+        "actualEarningResult": 1.54,
+        "estimatedEarning": 1.35
+    },
+    {
+        "date": "2023-02-22",
+        "symbol": "NTAP",
+        "actualEarningResult": 1.37,
+        "estimatedEarning": 1.31
+    },
+    {
+        "date": "2022-11-29",
+        "symbol": "NTAP",
+        "actualEarningResult": 1.48,
+        "estimatedEarning": 1.34
+    },
+    {
+        "date": "2022-08-24",
+        "symbol": "NTAP",
+        "actualEarningResult": 1.2,
+        "estimatedEarning": 1.1
+    },
+    {
+        "date": "2022-06-01",
+        "symbol": "NTAP",
+        "actualEarningResult": 1.42,
+        "estimatedEarning": 1.28
+    },
+    {
+        "date": "2022-02-23",
+        "symbol": "NTAP",
+        "actualEarningResult": 1.44,
+        "estimatedEarning": 1.28
+    },
+    {
+        "date": "2021-11-30",
+        "symbol": "NTAP",
+        "actualEarningResult": 1.28,
+        "estimatedEarning": 1.21
+    },
+    {
+        "date": "2021-08-25",
+        "symbol": "NTAP",
+        "actualEarningResult": 1.15,
+        "estimatedEarning": 0.95
+    },
+    {
+        "date": "2021-06-02",
+        "symbol": "NTAP",
+        "actualEarningResult": 1.17,
+        "estimatedEarning": 1.12
+    },
+    {
+        "date": "2021-02-24",
+        "symbol": "NTAP",
+        "actualEarningResult": 1.1,
+        "estimatedEarning": 1.01
+    },
+    {
+        "date": "2020-12-01",
+        "symbol": "NTAP",
+        "actualEarningResult": 1.05,
+        "estimatedEarning": 0.72
+    },
+    {
+        "date": "2020-08-26",
+        "symbol": "NTAP",
+        "actualEarningResult": 0.73,
+        "estimatedEarning": 0.4
+    },
+    {
+        "date": "2020-05-27",
+        "symbol": "NTAP",
+        "actualEarningResult": 1.19,
+        "estimatedEarning": 1.04
+    },
+    {
+        "date": "2020-02-12",
+        "symbol": "NTAP",
+        "actualEarningResult": 1.16,
+        "estimatedEarning": 1.18
+    },
+    {
+        "date": "2019-11-13",
+        "symbol": "NTAP",
+        "actualEarningResult": 1.09,
+        "estimatedEarning": 0.94
+    },
+    {
+        "date": "2019-08-14",
+        "symbol": "NTAP",
+        "actualEarningResult": 0.65,
+        "estimatedEarning": 0.57
+    },
+    {
+        "date": "2019-05-22",
+        "symbol": "NTAP",
+        "actualEarningResult": 1.22,
+        "estimatedEarning": 1.26
+    },
+    {
+        "date": "2019-02-13",
+        "symbol": "NTAP",
+        "actualEarningResult": 1.2,
+        "estimatedEarning": 1.15
+    },
+    {
+        "date": "2018-11-14",
+        "symbol": "NTAP",
+        "actualEarningResult": 1.06,
+        "estimatedEarning": 0.99
+    },
+    {
+        "date": "2018-08-15",
+        "symbol": "NTAP",
+        "actualEarningResult": 1.04,
+        "estimatedEarning": 0.8
+    },
+    {
+        "date": "2018-05-23",
+        "symbol": "NTAP",
+        "actualEarningResult": 1.05,
+        "estimatedEarning": 1.01
+    },
+    {
+        "date": "2018-02-14",
+        "symbol": "NTAP",
+        "actualEarningResult": 0.99,
+        "estimatedEarning": 0.9
+    },
+    {
+        "date": "2017-11-15",
+        "symbol": "NTAP",
+        "actualEarningResult": 0.81,
+        "estimatedEarning": 0.69
+    },
+    {
+        "date": "2017-08-16",
+        "symbol": "NTAP",
+        "actualEarningResult": 0.62,
+        "estimatedEarning": 0.55
+    },
+    {
+        "date": "2017-05-24",
+        "symbol": "NTAP",
+        "actualEarningResult": 0.86,
+        "estimatedEarning": 0.82
+    },
+    {
+        "date": "2017-02-15",
+        "symbol": "NTAP",
+        "actualEarningResult": 0.82,
+        "estimatedEarning": 0.74
+    },
+    {
+        "date": "2016-11-16",
+        "symbol": "NTAP",
+        "actualEarningResult": 0.6,
+        "estimatedEarning": 0.54
+    },
+    {
+        "date": "2016-08-17",
+        "symbol": "NTAP",
+        "actualEarningResult": 0.46,
+        "estimatedEarning": 0.36
+    },
+    {
+        "date": "2016-05-25",
+        "symbol": "NTAP",
+        "actualEarningResult": 0.55,
+        "estimatedEarning": 0.57
+    },
+    {
+        "date": "2016-02-17",
+        "symbol": "NTAP",
+        "actualEarningResult": 0.7,
+        "estimatedEarning": 0.68
+    },
+    {
+        "date": "2015-11-18",
+        "symbol": "NTAP",
+        "actualEarningResult": 0.61,
+        "estimatedEarning": 0.56
+    },
+    {
+        "date": "2015-08-19",
+        "symbol": "NTAP",
+        "actualEarningResult": 0.29,
+        "estimatedEarning": 0.23
+    },
+    {
+        "date": "2015-05-20",
+        "symbol": "NTAP",
+        "actualEarningResult": 0.65,
+        "estimatedEarning": 0.73
+    },
+    {
+        "date": "2015-02-11",
+        "symbol": "NTAP",
+        "actualEarningResult": 0.75,
+        "estimatedEarning": 0.77
+    },
+    {
+        "date": "2014-11-12",
+        "symbol": "NTAP",
+        "actualEarningResult": 0.7,
+        "estimatedEarning": 0.69
+    },
+    {
+        "date": "2014-08-13",
+        "symbol": "NTAP",
+        "actualEarningResult": 0.6,
+        "estimatedEarning": 0.57
+    },
+    {
+        "date": "2014-05-21",
+        "symbol": "NTAP",
+        "actualEarningResult": 0.84,
+        "estimatedEarning": 0.79
+    },
+    {
+        "date": "2014-02-12",
+        "symbol": "NTAP",
+        "actualEarningResult": 0.75,
+        "estimatedEarning": 0.71
+    },
+    {
+        "date": "2013-11-13",
+        "symbol": "NTAP",
+        "actualEarningResult": 0.66,
+        "estimatedEarning": 0.63
+    },
+    {
+        "date": "2013-08-14",
+        "symbol": "NTAP",
+        "actualEarningResult": 0.53,
+        "estimatedEarning": 0.49
+    },
+    {
+        "date": "2013-05-21",
+        "symbol": "NTAP",
+        "actualEarningResult": 0.69,
+        "estimatedEarning": 0.68
+    },
+    {
+        "date": "2013-02-13",
+        "symbol": "NTAP",
+        "actualEarningResult": 0.66,
+        "estimatedEarning": 0.56
+    },
+    {
+        "date": "2012-11-14",
+        "symbol": "NTAP",
+        "actualEarningResult": 0.51,
+        "estimatedEarning": 0.47
+    },
+    {
+        "date": "2012-08-15",
+        "symbol": "NTAP",
+        "actualEarningResult": 0.42,
+        "estimatedEarning": 0.38
+    },
+    {
+        "date": "2012-05-23",
+        "symbol": "NTAP",
+        "actualEarningResult": 0.66,
+        "estimatedEarning": 0.63
+    },
+    {
+        "date": "2012-02-15",
+        "symbol": "NTAP",
+        "actualEarningResult": 0.58,
+        "estimatedEarning": 0.58
+    },
+    {
+        "date": "2011-11-16",
+        "symbol": "NTAP",
+        "actualEarningResult": 0.63,
+        "estimatedEarning": 0.59
+    },
+    {
+        "date": "2011-08-17",
+        "symbol": "NTAP",
+        "actualEarningResult": 0.55,
+        "estimatedEarning": 0.55
+    },
+    {
+        "date": "2011-05-25",
+        "symbol": "NTAP",
+        "actualEarningResult": 0.59,
+        "estimatedEarning": 0.53
+    },
+    {
+        "date": "2011-02-16",
+        "symbol": "NTAP",
+        "actualEarningResult": 0.52,
+        "estimatedEarning": 0.5
+    },
+    {
+        "date": "2010-11-17",
+        "symbol": "NTAP",
+        "actualEarningResult": 0.52,
+        "estimatedEarning": 0.49
+    },
+    {
+        "date": "2010-08-18",
+        "symbol": "NTAP",
+        "actualEarningResult": 0.49,
+        "estimatedEarning": 0.46
+    },
+    {
+        "date": "2010-05-26",
+        "symbol": "NTAP",
+        "actualEarningResult": 0.5,
+        "estimatedEarning": 0.44
+    },
+    {
+        "date": "2010-02-17",
+        "symbol": "NTAP",
+        "actualEarningResult": 0.4,
+        "estimatedEarning": 0.38
+    },
+    {
+        "date": "2009-11-18",
+        "symbol": "NTAP",
+        "actualEarningResult": 0.37,
+        "estimatedEarning": 0.3
+    },
+    {
+        "date": "2009-08-19",
+        "symbol": "NTAP",
+        "actualEarningResult": 0.22,
+        "estimatedEarning": 0.2
+    },
+    {
+        "date": "2009-05-20",
+        "symbol": "NTAP",
+        "actualEarningResult": 0.31,
+        "estimatedEarning": 0.23
+    },
+    {
+        "date": "2009-02-11",
+        "symbol": "NTAP",
+        "actualEarningResult": 0.28,
+        "estimatedEarning": 0.28
+    },
+    {
+        "date": "2008-11-12",
+        "symbol": "NTAP",
+        "actualEarningResult": 0.28,
+        "estimatedEarning": 0.27
+    },
+    {
+        "date": "2008-08-13",
+        "symbol": "NTAP",
+        "actualEarningResult": 0.22,
+        "estimatedEarning": 0.22
+    },
+    {
+        "date": "2008-05-21",
+        "symbol": "NTAP",
+        "actualEarningResult": 0.38,
+        "estimatedEarning": 0.36
+    },
+    {
+        "date": "2008-02-13",
+        "symbol": "NTAP",
+        "actualEarningResult": 0.37,
+        "estimatedEarning": 0.34
+    },
+    {
+        "date": "2007-11-14",
+        "symbol": "NTAP",
+        "actualEarningResult": 0.32,
+        "estimatedEarning": 0.26
+    },
+    {
+        "date": "2007-08-15",
+        "symbol": "NTAP",
+        "actualEarningResult": 0.2,
+        "estimatedEarning": 0.19
+    },
+    {
+        "date": "2007-05-23",
+        "symbol": "NTAP",
+        "actualEarningResult": 0.3,
+        "estimatedEarning": 0.3
+    },
+    {
+        "date": "2007-02-14",
+        "symbol": "NTAP",
+        "actualEarningResult": 0.29,
+        "estimatedEarning": 0.28
+    },
+    {
+        "date": "2006-11-15",
+        "symbol": "NTAP",
+        "actualEarningResult": 0.28,
+        "estimatedEarning": 0.25
+    },
+    {
+        "date": "2006-08-16",
+        "symbol": "NTAP",
+        "actualEarningResult": 0.25,
+        "estimatedEarning": 0.23
+    },
+    {
+        "date": "2006-05-24",
+        "symbol": "NTAP",
+        "actualEarningResult": 0.23,
+        "estimatedEarning": 0.23
+    },
+    {
+        "date": "2006-02-15",
+        "symbol": "NTAP",
+        "actualEarningResult": 0.22,
+        "estimatedEarning": 0.21
+    },
+    {
+        "date": "2005-11-16",
+        "symbol": "NTAP",
+        "actualEarningResult": 0.21,
+        "estimatedEarning": 0.18
+    },
+    {
+        "date": "2005-08-17",
+        "symbol": "NTAP",
+        "actualEarningResult": 0.16,
+        "estimatedEarning": 0.16
+    },
+    {
+        "date": "2005-05-24",
+        "symbol": "NTAP",
+        "actualEarningResult": 0.17,
+        "estimatedEarning": 0.17
+    },
+    {
+        "date": "2005-02-15",
+        "symbol": "NTAP",
+        "actualEarningResult": 0.16,
+        "estimatedEarning": 0.16
+    },
+    {
+        "date": "2004-11-16",
+        "symbol": "NTAP",
+        "actualEarningResult": 0.16,
+        "estimatedEarning": 0.14
+    },
+    {
+        "date": "2004-08-17",
+        "symbol": "NTAP",
+        "actualEarningResult": 0.13,
+        "estimatedEarning": 0.12
+    },
+    {
+        "date": "2004-05-18",
+        "symbol": "NTAP",
+        "actualEarningResult": 0.12,
+        "estimatedEarning": 0.12
+    },
+    {
+        "date": "2004-02-17",
+        "symbol": "NTAP",
+        "actualEarningResult": 0.11,
+        "estimatedEarning": 0.1
+    },
+    {
+        "date": "2003-11-18",
+        "symbol": "NTAP",
+        "actualEarningResult": 0.09,
+        "estimatedEarning": 0.09
+    },
+    {
+        "date": "2003-08-19",
+        "symbol": "NTAP",
+        "actualEarningResult": 0.08,
+        "estimatedEarning": 0.07
+    },
+    {
+        "date": "2003-05-13",
+        "symbol": "NTAP",
+        "actualEarningResult": 0.07,
+        "estimatedEarning": 0.07
+    },
+    {
+        "date": "2003-02-11",
+        "symbol": "NTAP",
+        "actualEarningResult": 0.06,
+        "estimatedEarning": 0.06
+    },
+    {
+        "date": "2002-11-12",
+        "symbol": "NTAP",
+        "actualEarningResult": 0.05,
+        "estimatedEarning": 0.05
+    },
+    {
+        "date": "2002-08-13",
+        "symbol": "NTAP",
+        "actualEarningResult": 0.05,
+        "estimatedEarning": 0.04259
+    },
+    {
+        "date": "2002-06-28",
+        "symbol": "NTAP",
+        "actualEarningResult": 0.04,
+        "estimatedEarning": 0.03933
+    },
+    {
+        "date": "2002-02-12",
+        "symbol": "NTAP",
+        "actualEarningResult": 0.04,
+        "estimatedEarning": 0.02036
+    },
+    {
+        "date": "2001-11-13",
+        "symbol": "NTAP",
+        "actualEarningResult": 0.02,
+        "estimatedEarning": 0.00536
+    },
+    {
+        "date": "2001-08-14",
+        "symbol": "NTAP",
+        "actualEarningResult": -0.00156,
+        "estimatedEarning": -0.00122
+    },
+    {
+        "date": "2001-05-15",
+        "symbol": "NTAP",
+        "actualEarningResult": 0.02,
+        "estimatedEarning": 0.01609
+    },
+    {
+        "date": "2001-02-15",
+        "symbol": "NTAP",
+        "actualEarningResult": 0.11,
+        "estimatedEarning": 0.1
+    },
+    {
+        "date": "2000-11-14",
+        "symbol": "NTAP",
+        "actualEarningResult": 0.1,
+        "estimatedEarning": 0.09
+    },
+    {
+        "date": "2000-08-14",
+        "symbol": "NTAP",
+        "actualEarningResult": 0.09,
+        "estimatedEarning": 0.08
+    },
+    {
+        "date": "2000-05-18",
+        "symbol": "NTAP",
+        "actualEarningResult": 0.07,
+        "estimatedEarning": 0.06
+    },
+    {
+        "date": "2000-02-15",
+        "symbol": "NTAP",
+        "actualEarningResult": 0.06,
+        "estimatedEarning": 0.05
+    },
+    {
+        "date": "1999-11-16",
+        "symbol": "NTAP",
+        "actualEarningResult": 0.05,
+        "estimatedEarning": 0.04452
+    },
+    {
+        "date": "1999-08-18",
+        "symbol": "NTAP",
+        "actualEarningResult": 0.04,
+        "estimatedEarning": 0.03523
+    },
+    {
+        "date": "1999-05-18",
+        "symbol": "NTAP",
+        "actualEarningResult": 0.03,
+        "estimatedEarning": 0.02948
+    },
+    {
+        "date": "1999-02-17",
+        "symbol": "NTAP",
+        "actualEarningResult": 0.03,
+        "estimatedEarning": 0.02889
+    },
+    {
+        "date": "1998-11-17",
+        "symbol": "NTAP",
+        "actualEarningResult": 0.03,
+        "estimatedEarning": 0.02727
+    },
+    {
+        "date": "1998-08-18",
+        "symbol": "NTAP",
+        "actualEarningResult": 0.02,
+        "estimatedEarning": 0.01864
+    },
+    {
+        "date": "1998-05-12",
+        "symbol": "NTAP",
+        "actualEarningResult": 0.02,
+        "estimatedEarning": 0.01989
+    },
+    {
+        "date": "1998-02-10",
+        "symbol": "NTAP",
+        "actualEarningResult": 0.02,
+        "estimatedEarning": 0.02
+    },
+    {
+        "date": "1997-11-11",
+        "symbol": "NTAP",
+        "actualEarningResult": 0.02,
+        "estimatedEarning": 0.02
+    },
+    {
+        "date": "1997-08-12",
+        "symbol": "NTAP",
+        "actualEarningResult": 0.02,
+        "estimatedEarning": 0.01937
+    },
+    {
+        "date": "1997-05-07",
+        "symbol": "NTAP",
+        "actualEarningResult": -0.01928,
+        "estimatedEarning": -0.01841
+    },
+    {
+        "date": "1997-02-12",
+        "symbol": "NTAP",
+        "actualEarningResult": 0.01206,
+        "estimatedEarning": 0.01174
+    }
+]

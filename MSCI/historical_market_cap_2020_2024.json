@@ -1,0 +1,6292 @@
+[
+    {
+        "symbol": "MSCI",
+        "date": "2024-12-31",
+        "marketCap": 47100184990
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2024-12-30",
+        "marketCap": 47071925350
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2024-12-27",
+        "marketCap": 47852205410
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2024-12-26",
+        "marketCap": 47960534030
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2024-12-24",
+        "marketCap": 47720327090
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2024-12-23",
+        "marketCap": 47524864580
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2024-12-20",
+        "marketCap": 47476195200
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2024-12-19",
+        "marketCap": 47144929420
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2024-12-18",
+        "marketCap": 46934552100
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2024-12-17",
+        "marketCap": 48002138500
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2024-12-16",
+        "marketCap": 48542211620
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2024-12-13",
+        "marketCap": 49069724900
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2024-12-12",
+        "marketCap": 49924579010
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2024-12-11",
+        "marketCap": 49423755390
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2024-12-10",
+        "marketCap": 49376655990
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2024-12-09",
+        "marketCap": 48551631500
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2024-12-06",
+        "marketCap": 48448012819
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2024-12-05",
+        "marketCap": 47877325090
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2024-12-04",
+        "marketCap": 48349889069
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2024-12-03",
+        "marketCap": 47735241900
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2024-12-02",
+        "marketCap": 47803536030
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2024-11-29",
+        "marketCap": 47855345370
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2024-11-27",
+        "marketCap": 47488755040
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2024-11-26",
+        "marketCap": 47253258040
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2024-11-25",
+        "marketCap": 46528712270
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2024-11-22",
+        "marketCap": 46280655430
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2024-11-21",
+        "marketCap": 45634608660
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2024-11-20",
+        "marketCap": 45686418000
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2024-11-19",
+        "marketCap": 46874107870
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2024-11-18",
+        "marketCap": 46559326880
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2024-11-15",
+        "marketCap": 46617416140
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2024-11-14",
+        "marketCap": 47581383860
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2024-11-13",
+        "marketCap": 47925994470
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2024-11-12",
+        "marketCap": 47306637360
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2024-11-11",
+        "marketCap": 46883527750
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2024-11-08",
+        "marketCap": 46976490000
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2024-11-07",
+        "marketCap": 45526071100
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2024-11-06",
+        "marketCap": 45459639700
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2024-11-05",
+        "marketCap": 46527287200
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2024-11-04",
+        "marketCap": 46607953900
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2024-11-01",
+        "marketCap": 45707175750
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2024-10-31",
+        "marketCap": 45173352000
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2024-10-30",
+        "marketCap": 45006482650
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2024-10-29",
+        "marketCap": 45784679049
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2024-10-28",
+        "marketCap": 47076927950
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2024-10-25",
+        "marketCap": 46558921200
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2024-10-24",
+        "marketCap": 46679921250
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2024-10-23",
+        "marketCap": 47164712300
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2024-10-22",
+        "marketCap": 47773666800
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2024-10-21",
+        "marketCap": 47752313849
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2024-10-18",
+        "marketCap": 48085261700
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2024-10-17",
+        "marketCap": 47910483849
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2024-10-16",
+        "marketCap": 48044928350
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2024-10-15",
+        "marketCap": 48502830500
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2024-10-14",
+        "marketCap": 48033065600
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2024-10-11",
+        "marketCap": 47893085150
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2024-10-10",
+        "marketCap": 47405921549
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2024-10-09",
+        "marketCap": 47801346549
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2024-10-08",
+        "marketCap": 47200300550
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2024-10-07",
+        "marketCap": 46224391650
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2024-10-04",
+        "marketCap": 46638006200
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2024-10-03",
+        "marketCap": 46526496349
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2024-10-02",
+        "marketCap": 46689411450
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2024-10-01",
+        "marketCap": 45533188750
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2024-09-30",
+        "marketCap": 46101019049
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2024-09-27",
+        "marketCap": 45564822750
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2024-09-26",
+        "marketCap": 44862547950
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2024-09-25",
+        "marketCap": 44475031450
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2024-09-24",
+        "marketCap": 44346913750
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2024-09-23",
+        "marketCap": 44300253600
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2024-09-20",
+        "marketCap": 43608259850
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2024-09-19",
+        "marketCap": 43916691349
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2024-09-18",
+        "marketCap": 43620913450
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2024-09-17",
+        "marketCap": 44001312300
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2024-09-16",
+        "marketCap": 44814306100
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2024-09-13",
+        "marketCap": 44440234049
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2024-09-12",
+        "marketCap": 44267828750
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2024-09-11",
+        "marketCap": 44445770000
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2024-09-10",
+        "marketCap": 44473449750
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2024-09-09",
+        "marketCap": 44156318900
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2024-09-06",
+        "marketCap": 44275737250
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2024-09-05",
+        "marketCap": 45130646100
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2024-09-04",
+        "marketCap": 45310959900
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2024-09-03",
+        "marketCap": 45352874950
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2024-08-30",
+        "marketCap": 45915960150
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2024-08-29",
+        "marketCap": 46034587650
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2024-08-28",
+        "marketCap": 45881162750
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2024-08-27",
+        "marketCap": 46257607350
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2024-08-26",
+        "marketCap": 45523698550
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2024-08-23",
+        "marketCap": 45172561150
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2024-08-22",
+        "marketCap": 44661672050
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2024-08-21",
+        "marketCap": 44417299400
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2024-08-20",
+        "marketCap": 44524855000
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2024-08-19",
+        "marketCap": 44329515050
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2024-08-16",
+        "marketCap": 44418881100
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2024-08-15",
+        "marketCap": 44535926900
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2024-08-14",
+        "marketCap": 43839188050
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2024-08-13",
+        "marketCap": 43215998250
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2024-08-12",
+        "marketCap": 42105644850
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2024-08-09",
+        "marketCap": 42217945550
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2024-08-08",
+        "marketCap": 41973572900
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2024-08-07",
+        "marketCap": 41471383150
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2024-08-06",
+        "marketCap": 41607409350
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2024-08-05",
+        "marketCap": 40920951549
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2024-08-02",
+        "marketCap": 42694037250
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2024-08-01",
+        "marketCap": 43330671500
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2024-07-31",
+        "marketCap": 42766004600
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2024-07-30",
+        "marketCap": 43200972100
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2024-07-29",
+        "marketCap": 42913893550
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2024-07-26",
+        "marketCap": 42749396750
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2024-07-25",
+        "marketCap": 42564337850
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2024-07-24",
+        "marketCap": 42247207000
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2024-07-23",
+        "marketCap": 43181200850
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2024-07-22",
+        "marketCap": 40018591700
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2024-07-19",
+        "marketCap": 39272008550
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2024-07-18",
+        "marketCap": 39482667250
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2024-07-17",
+        "marketCap": 39914280000
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2024-07-16",
+        "marketCap": 40231060000
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2024-07-15",
+        "marketCap": 39716292500
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2024-07-12",
+        "marketCap": 39755890000
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2024-07-11",
+        "marketCap": 39094611750
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2024-07-10",
+        "marketCap": 38726355000
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2024-07-09",
+        "marketCap": 38731898650
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2024-07-08",
+        "marketCap": 38984530700
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2024-07-05",
+        "marketCap": 39220531800
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2024-07-03",
+        "marketCap": 38885536950
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2024-07-02",
+        "marketCap": 38918006900
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2024-07-01",
+        "marketCap": 37958955450
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2024-06-28",
+        "marketCap": 38152191250
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2024-06-27",
+        "marketCap": 38552917950
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2024-06-26",
+        "marketCap": 38560837450
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2024-06-25",
+        "marketCap": 38709724050
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2024-06-24",
+        "marketCap": 38739026200
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2024-06-21",
+        "marketCap": 38514112400
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2024-06-20",
+        "marketCap": 38234554050
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2024-06-18",
+        "marketCap": 37738001400
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2024-06-17",
+        "marketCap": 38392152100
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2024-06-14",
+        "marketCap": 38055573350
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2024-06-13",
+        "marketCap": 38352554600
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2024-06-12",
+        "marketCap": 38642408300
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2024-06-11",
+        "marketCap": 38368393600
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2024-06-10",
+        "marketCap": 38331171950
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2024-06-07",
+        "marketCap": 38939389550
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2024-06-06",
+        "marketCap": 39050262550
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2024-06-05",
+        "marketCap": 39463660450
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2024-06-04",
+        "marketCap": 39058182050
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2024-06-03",
+        "marketCap": 38845147500
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2024-05-31",
+        "marketCap": 39215780100
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2024-05-30",
+        "marketCap": 38767536400
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2024-05-29",
+        "marketCap": 38784959300
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2024-05-28",
+        "marketCap": 39256961500
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2024-05-24",
+        "marketCap": 39043135000
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2024-05-23",
+        "marketCap": 38837228000
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2024-05-22",
+        "marketCap": 39900816850
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2024-05-21",
+        "marketCap": 40035448350
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2024-05-20",
+        "marketCap": 40568430700
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2024-05-17",
+        "marketCap": 40019609350
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2024-05-16",
+        "marketCap": 39400304450
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2024-05-15",
+        "marketCap": 38810301700
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2024-05-14",
+        "marketCap": 38655871450
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2024-05-13",
+        "marketCap": 38454716150
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2024-05-10",
+        "marketCap": 38422246200
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2024-05-09",
+        "marketCap": 38211587500
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2024-05-08",
+        "marketCap": 37281046250
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2024-05-07",
+        "marketCap": 37332523000
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2024-05-06",
+        "marketCap": 37656430550
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2024-05-03",
+        "marketCap": 36987232800
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2024-05-02",
+        "marketCap": 37039501500
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2024-05-01",
+        "marketCap": 37224025850
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2024-04-30",
+        "marketCap": 36888239050
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2024-04-29",
+        "marketCap": 37774431100
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2024-04-26",
+        "marketCap": 37837787100
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2024-04-25",
+        "marketCap": 36785285550
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2024-04-24",
+        "marketCap": 36797956750
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2024-04-23",
+        "marketCap": 35320970000
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2024-04-22",
+        "marketCap": 40798888150
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2024-04-19",
+        "marketCap": 40394993650
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2024-04-18",
+        "marketCap": 40053663200
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2024-04-17",
+        "marketCap": 40534376850
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2024-04-16",
+        "marketCap": 40661088849
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2024-04-15",
+        "marketCap": 40631786699
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2024-04-12",
+        "marketCap": 41705670900
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2024-04-11",
+        "marketCap": 42328935550
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2024-04-10",
+        "marketCap": 42214894750
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2024-04-09",
+        "marketCap": 43931050400
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2024-04-08",
+        "marketCap": 43482806699
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2024-04-05",
+        "marketCap": 42954576050
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2024-04-04",
+        "marketCap": 42256868100
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2024-04-03",
+        "marketCap": 42765300000
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2024-04-02",
+        "marketCap": 42946656550
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2024-04-01",
+        "marketCap": 43939761850
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2024-03-28",
+        "marketCap": 44384837750
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2024-03-27",
+        "marketCap": 44111615000
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2024-03-26",
+        "marketCap": 43690297599
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2024-03-25",
+        "marketCap": 43663371300
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2024-03-22",
+        "marketCap": 43803546450
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2024-03-21",
+        "marketCap": 44648557100
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2024-03-20",
+        "marketCap": 44281092300
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2024-03-19",
+        "marketCap": 44692114350
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2024-03-18",
+        "marketCap": 43588136050
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2024-03-15",
+        "marketCap": 43140684300
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2024-03-14",
+        "marketCap": 43800378650
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2024-03-13",
+        "marketCap": 44152796400
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2024-03-12",
+        "marketCap": 44808531000
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2024-03-11",
+        "marketCap": 44689738500
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2024-03-08",
+        "marketCap": 43676042500
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2024-03-07",
+        "marketCap": 43570713150
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2024-03-06",
+        "marketCap": 43520028350
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2024-03-05",
+        "marketCap": 43584968250
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2024-03-04",
+        "marketCap": 44220112150
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2024-03-01",
+        "marketCap": 44783188600
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2024-02-29",
+        "marketCap": 44426019150
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2024-02-28",
+        "marketCap": 44975632450
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2024-02-27",
+        "marketCap": 44178138800
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2024-02-26",
+        "marketCap": 44977216349
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2024-02-23",
+        "marketCap": 45059579150
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2024-02-22",
+        "marketCap": 44782396650
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2024-02-21",
+        "marketCap": 44004701750
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2024-02-20",
+        "marketCap": 44076769199
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2024-02-16",
+        "marketCap": 45042156250
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2024-02-15",
+        "marketCap": 45594145400
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2024-02-14",
+        "marketCap": 45362896000
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2024-02-13",
+        "marketCap": 45585433950
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2024-02-12",
+        "marketCap": 46740097050
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2024-02-09",
+        "marketCap": 46916701900
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2024-02-08",
+        "marketCap": 46368672500
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2024-02-07",
+        "marketCap": 46774942850
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2024-02-06",
+        "marketCap": 46091490000
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2024-02-05",
+        "marketCap": 46201571050
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2024-02-02",
+        "marketCap": 46967386699
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2024-02-01",
+        "marketCap": 47857538500
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2024-01-31",
+        "marketCap": 47407710900
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2024-01-30",
+        "marketCap": 47694396800
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2024-01-29",
+        "marketCap": 43632485250
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2024-01-26",
+        "marketCap": 43501021550
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2024-01-25",
+        "marketCap": 43935010150
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2024-01-24",
+        "marketCap": 44227239700
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2024-01-23",
+        "marketCap": 44650141000
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2024-01-22",
+        "marketCap": 44841792900
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2024-01-19",
+        "marketCap": 43868486349
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2024-01-18",
+        "marketCap": 43276899700
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2024-01-17",
+        "marketCap": 42619581200
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2024-01-16",
+        "marketCap": 42960911650
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2024-01-12",
+        "marketCap": 43197704700
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2024-01-11",
+        "marketCap": 43579424600
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2024-01-10",
+        "marketCap": 43292738700
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2024-01-09",
+        "marketCap": 42745501250
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2024-01-08",
+        "marketCap": 43014764250
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2024-01-05",
+        "marketCap": 42610869750
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2024-01-04",
+        "marketCap": 44327025400
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2024-01-03",
+        "marketCap": 43546954650
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2024-01-02",
+        "marketCap": 44016581000
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2023-12-29",
+        "marketCap": 44751399750
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2023-12-28",
+        "marketCap": 45143019000
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2023-12-27",
+        "marketCap": 44749026300
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2023-12-26",
+        "marketCap": 44404876050
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2023-12-22",
+        "marketCap": 44484782200
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2023-12-21",
+        "marketCap": 43752177300
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2023-12-20",
+        "marketCap": 42736340699
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2023-12-19",
+        "marketCap": 42922260950
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2023-12-18",
+        "marketCap": 42157218900
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2023-12-15",
+        "marketCap": 42055951700
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2023-12-14",
+        "marketCap": 42889032650
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2023-12-13",
+        "marketCap": 43226062550
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2023-12-12",
+        "marketCap": 41616072300
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2023-12-11",
+        "marketCap": 40871600150
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2023-12-08",
+        "marketCap": 40085988200
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2023-12-07",
+        "marketCap": 40225230600
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2023-12-06",
+        "marketCap": 40752927650
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2023-12-05",
+        "marketCap": 41411164449
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2023-12-04",
+        "marketCap": 41574141350
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2023-12-01",
+        "marketCap": 41748985500
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2023-11-30",
+        "marketCap": 41207047750
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2023-11-29",
+        "marketCap": 41659585550
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2023-11-28",
+        "marketCap": 41443601600
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2023-11-27",
+        "marketCap": 41563065250
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2023-11-24",
+        "marketCap": 41800410250
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2023-11-22",
+        "marketCap": 41453886550
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2023-11-21",
+        "marketCap": 41526672350
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2023-11-20",
+        "marketCap": 41314644150
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2023-11-17",
+        "marketCap": 41252143300
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2023-11-16",
+        "marketCap": 41477621050
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2023-11-15",
+        "marketCap": 41278251250
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2023-11-14",
+        "marketCap": 40985525750
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2023-11-13",
+        "marketCap": 39857345850
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2023-11-10",
+        "marketCap": 40685679900
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2023-11-09",
+        "marketCap": 40049595300
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2023-11-08",
+        "marketCap": 39951492700
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2023-11-07",
+        "marketCap": 39343889500
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2023-11-06",
+        "marketCap": 39285344400
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2023-11-03",
+        "marketCap": 39380282400
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2023-11-02",
+        "marketCap": 38530587300
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2023-11-01",
+        "marketCap": 37330412750
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2023-10-31",
+        "marketCap": 37306678250
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2023-10-30",
+        "marketCap": 38132638850
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2023-10-27",
+        "marketCap": 37673771850
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2023-10-26",
+        "marketCap": 38097828250
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2023-10-25",
+        "marketCap": 37945927450
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2023-10-24",
+        "marketCap": 38612075750
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2023-10-23",
+        "marketCap": 38575682850
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2023-10-20",
+        "marketCap": 38745780100
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2023-10-19",
+        "marketCap": 39341516050
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2023-10-18",
+        "marketCap": 40031398850
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2023-10-17",
+        "marketCap": 40807517000
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2023-10-16",
+        "marketCap": 40780617900
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2023-10-13",
+        "marketCap": 40392954400
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2023-10-12",
+        "marketCap": 41146920350
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2023-10-11",
+        "marketCap": 41390594550
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2023-10-10",
+        "marketCap": 41201509700
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2023-10-09",
+        "marketCap": 40773497550
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2023-10-06",
+        "marketCap": 40612894100
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2023-10-05",
+        "marketCap": 39409554950
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2023-10-04",
+        "marketCap": 39683292850
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2023-10-03",
+        "marketCap": 39198317900
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2023-10-02",
+        "marketCap": 40110513850
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2023-09-29",
+        "marketCap": 40592837280
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2023-09-28",
+        "marketCap": 41258994000
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2023-09-27",
+        "marketCap": 40502645040
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2023-09-26",
+        "marketCap": 40844426160
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2023-09-25",
+        "marketCap": 40895060400
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2023-09-22",
+        "marketCap": 40599166560
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2023-09-21",
+        "marketCap": 40777968720
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2023-09-20",
+        "marketCap": 42330224640
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2023-09-19",
+        "marketCap": 42568363800
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2023-09-18",
+        "marketCap": 42175948440
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2023-09-15",
+        "marketCap": 41937809280
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2023-09-14",
+        "marketCap": 42618998040
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2023-09-13",
+        "marketCap": 42346839000
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2023-09-12",
+        "marketCap": 41612642520
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2023-09-11",
+        "marketCap": 42418834560
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2023-09-08",
+        "marketCap": 42231329640
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2023-09-07",
+        "marketCap": 43236102840
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2023-09-06",
+        "marketCap": 42868213440
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2023-09-05",
+        "marketCap": 42814414560
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2023-09-01",
+        "marketCap": 42832611240
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2023-08-31",
+        "marketCap": 43009039920
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2023-08-30",
+        "marketCap": 43049389080
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2023-08-29",
+        "marketCap": 42612668760
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2023-08-28",
+        "marketCap": 42101579400
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2023-08-25",
+        "marketCap": 42022463400
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2023-08-24",
+        "marketCap": 42126105360
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2023-08-23",
+        "marketCap": 42394308600
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2023-08-22",
+        "marketCap": 41766127560
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2023-08-21",
+        "marketCap": 41515329840
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2023-08-18",
+        "marketCap": 41153769720
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2023-08-17",
+        "marketCap": 41199657000
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2023-08-16",
+        "marketCap": 41902207080
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2023-08-15",
+        "marketCap": 42233703120
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2023-08-14",
+        "marketCap": 43298604480
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2023-08-11",
+        "marketCap": 43433892840
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2023-08-10",
+        "marketCap": 43265375760
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2023-08-09",
+        "marketCap": 43213159200
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2023-08-08",
+        "marketCap": 43361106120
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2023-08-07",
+        "marketCap": 43632474000
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2023-08-04",
+        "marketCap": 42901442160
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2023-08-03",
+        "marketCap": 43021698480
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2023-08-02",
+        "marketCap": 43137999000
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2023-08-01",
+        "marketCap": 43192589040
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2023-07-31",
+        "marketCap": 43361897280
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2023-07-28",
+        "marketCap": 43535952480
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2023-07-27",
+        "marketCap": 43798617600
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2023-07-26",
+        "marketCap": 44087391000
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2023-07-25",
+        "marketCap": 43371391200
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2023-07-24",
+        "marketCap": 39775569000
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2023-07-21",
+        "marketCap": 40461504720
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2023-07-20",
+        "marketCap": 40322260560
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2023-07-19",
+        "marketCap": 40186181040
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2023-07-18",
+        "marketCap": 39781898280
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2023-07-17",
+        "marketCap": 39498663000
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2023-07-14",
+        "marketCap": 39334892880
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2023-07-13",
+        "marketCap": 39382362480
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2023-07-12",
+        "marketCap": 39379989000
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2023-07-11",
+        "marketCap": 38501801400
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2023-07-10",
+        "marketCap": 38025523080
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2023-07-07",
+        "marketCap": 37322973000
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2023-07-06",
+        "marketCap": 37141797360
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2023-07-05",
+        "marketCap": 37447185120
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2023-07-03",
+        "marketCap": 37407627120
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2023-06-30",
+        "marketCap": 37128347640
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2023-06-29",
+        "marketCap": 36777075440
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2023-06-28",
+        "marketCap": 36876565440
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2023-06-27",
+        "marketCap": 37016647360
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2023-06-26",
+        "marketCap": 36870994000
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2023-06-23",
+        "marketCap": 37022218800
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2023-06-22",
+        "marketCap": 37185382400
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2023-06-21",
+        "marketCap": 37778342800
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2023-06-20",
+        "marketCap": 37709097760
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2023-06-16",
+        "marketCap": 38023486160
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2023-06-15",
+        "marketCap": 38805079600
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2023-06-14",
+        "marketCap": 38697630400
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2023-06-13",
+        "marketCap": 38203364080
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2023-06-12",
+        "marketCap": 37740934560
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2023-06-09",
+        "marketCap": 37714669200
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2023-06-08",
+        "marketCap": 38273405040
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2023-06-07",
+        "marketCap": 37606424080
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2023-06-06",
+        "marketCap": 37984486080
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2023-06-05",
+        "marketCap": 38268629520
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2023-06-02",
+        "marketCap": 38105465920
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2023-06-01",
+        "marketCap": 37167076240
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2023-05-31",
+        "marketCap": 37450423760
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2023-05-30",
+        "marketCap": 37520464720
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2023-05-26",
+        "marketCap": 37872261360
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2023-05-25",
+        "marketCap": 37130463920
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2023-05-24",
+        "marketCap": 36388666480
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2023-05-23",
+        "marketCap": 36620279200
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2023-05-22",
+        "marketCap": 37600852640
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2023-05-19",
+        "marketCap": 37395505280
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2023-05-18",
+        "marketCap": 37587322000
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2023-05-17",
+        "marketCap": 36713401840
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2023-05-16",
+        "marketCap": 36371952160
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2023-05-15",
+        "marketCap": 36895667520
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2023-05-12",
+        "marketCap": 37378790960
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2023-05-11",
+        "marketCap": 37440076800
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2023-05-10",
+        "marketCap": 37891363440
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2023-05-09",
+        "marketCap": 37636669040
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2023-05-08",
+        "marketCap": 37637464960
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2023-05-05",
+        "marketCap": 37698750800
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2023-05-04",
+        "marketCap": 36735687600
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2023-05-03",
+        "marketCap": 37071565840
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2023-05-02",
+        "marketCap": 37288056080
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2023-05-01",
+        "marketCap": 38445323760
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2023-04-28",
+        "marketCap": 38399160400
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2023-04-27",
+        "marketCap": 36953769680
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2023-04-26",
+        "marketCap": 36470646240
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2023-04-25",
+        "marketCap": 37499770800
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2023-04-24",
+        "marketCap": 43346599120
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2023-04-21",
+        "marketCap": 43345803200
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2023-04-20",
+        "marketCap": 43503395360
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2023-04-19",
+        "marketCap": 43415844160
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2023-04-18",
+        "marketCap": 43334660320
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2023-04-17",
+        "marketCap": 42786271440
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2023-04-14",
+        "marketCap": 42982067760
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2023-04-13",
+        "marketCap": 43187415120
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2023-04-12",
+        "marketCap": 42249821360
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2023-04-11",
+        "marketCap": 42157494640
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2023-04-10",
+        "marketCap": 42059596480
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2023-04-06",
+        "marketCap": 42474270800
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2023-04-05",
+        "marketCap": 42849945040
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2023-04-04",
+        "marketCap": 43805844960
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2023-04-03",
+        "marketCap": 44362193040
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2023-03-31",
+        "marketCap": 44546846480
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2023-03-30",
+        "marketCap": 43920097520
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2023-03-29",
+        "marketCap": 44096988129
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2023-03-28",
+        "marketCap": 43454258900
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2023-03-27",
+        "marketCap": 43250154350
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2023-03-24",
+        "marketCap": 43470267100
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2023-03-23",
+        "marketCap": 43779225360
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2023-03-22",
+        "marketCap": 43796834379
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2023-03-21",
+        "marketCap": 44369127530
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2023-03-20",
+        "marketCap": 43568717530
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2023-03-17",
+        "marketCap": 42989220690
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2023-03-16",
+        "marketCap": 43748009370
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2023-03-15",
+        "marketCap": 42963607570
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2023-03-14",
+        "marketCap": 43882478250
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2023-03-13",
+        "marketCap": 42284059480
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2023-03-10",
+        "marketCap": 41803013070
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2023-03-09",
+        "marketCap": 42825136640
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2023-03-08",
+        "marketCap": 42889969850
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2023-03-07",
+        "marketCap": 42740293180
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2023-03-06",
+        "marketCap": 43455059310
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2023-03-03",
+        "marketCap": 42955603470
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2023-03-02",
+        "marketCap": 41404408890
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2023-03-01",
+        "marketCap": 41257133450
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2023-02-28",
+        "marketCap": 41793408150
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2023-02-27",
+        "marketCap": 42084757390
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2023-02-24",
+        "marketCap": 41474044560
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2023-02-23",
+        "marketCap": 42244038980
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2023-02-22",
+        "marketCap": 41945486050
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2023-02-21",
+        "marketCap": 42007117620
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2023-02-17",
+        "marketCap": 43608738030
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2023-02-16",
+        "marketCap": 44261872590
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2023-02-15",
+        "marketCap": 45388049459
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2023-02-14",
+        "marketCap": 44968634620
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2023-02-13",
+        "marketCap": 44991046100
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2023-02-10",
+        "marketCap": 43968922530
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2023-02-09",
+        "marketCap": 44469979190
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2023-02-08",
+        "marketCap": 44574832900
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2023-02-07",
+        "marketCap": 44854976400
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2023-02-06",
+        "marketCap": 44294689400
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2023-02-03",
+        "marketCap": 45417664629
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2023-02-02",
+        "marketCap": 45498506040
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2023-02-01",
+        "marketCap": 44384335320
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2023-01-31",
+        "marketCap": 42546593959
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2023-01-30",
+        "marketCap": 40545568960
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2023-01-27",
+        "marketCap": 41614916720
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2023-01-26",
+        "marketCap": 41237923610
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2023-01-25",
+        "marketCap": 40712054240
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2023-01-24",
+        "marketCap": 41608513440
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2023-01-23",
+        "marketCap": 41219514180
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2023-01-20",
+        "marketCap": 40961782160
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2023-01-19",
+        "marketCap": 39683527390
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2023-01-18",
+        "marketCap": 40527959940
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2023-01-17",
+        "marketCap": 40843321480
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2023-01-13",
+        "marketCap": 40439914840
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2023-01-12",
+        "marketCap": 40344666050
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2023-01-11",
+        "marketCap": 40350268920
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2023-01-10",
+        "marketCap": 39066411280
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2023-01-09",
+        "marketCap": 38462902140
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2023-01-06",
+        "marketCap": 37540029410
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2023-01-05",
+        "marketCap": 36748423920
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2023-01-04",
+        "marketCap": 37949038920
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2023-01-03",
+        "marketCap": 36911707560
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2022-12-30",
+        "marketCap": 37208483130
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2022-12-29",
+        "marketCap": 37748408880
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2022-12-28",
+        "marketCap": 36350201160
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2022-12-27",
+        "marketCap": 36829335270
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2022-12-23",
+        "marketCap": 37100497980
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2022-12-22",
+        "marketCap": 36980514480
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2022-12-21",
+        "marketCap": 37783604040
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2022-12-20",
+        "marketCap": 36634962000
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2022-12-19",
+        "marketCap": 36950118660
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2022-12-16",
+        "marketCap": 37722012510
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2022-12-15",
+        "marketCap": 38129156520
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2022-12-14",
+        "marketCap": 39872916720
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2022-12-13",
+        "marketCap": 40955967780
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2022-12-12",
+        "marketCap": 39776130030
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2022-12-09",
+        "marketCap": 39398581950
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2022-12-08",
+        "marketCap": 39992900220
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2022-12-07",
+        "marketCap": 40026495600
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2022-12-06",
+        "marketCap": 39986501100
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2022-12-05",
+        "marketCap": 40353650610
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2022-12-02",
+        "marketCap": 41500692870
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2022-12-01",
+        "marketCap": 41705464710
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2022-11-30",
+        "marketCap": 40620813870
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2022-11-29",
+        "marketCap": 38900250480
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2022-11-28",
+        "marketCap": 39671344440
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2022-11-25",
+        "marketCap": 40975165140
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2022-11-23",
+        "marketCap": 40694403750
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2022-11-22",
+        "marketCap": 40208070630
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2022-11-21",
+        "marketCap": 39464172930
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2022-11-18",
+        "marketCap": 39219406590
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2022-11-17",
+        "marketCap": 39281798010
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2022-11-16",
+        "marketCap": 40571220690
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2022-11-15",
+        "marketCap": 40236066780
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2022-11-14",
+        "marketCap": 39373785360
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2022-11-11",
+        "marketCap": 40983963930
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2022-11-10",
+        "marketCap": 40770393300
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2022-11-09",
+        "marketCap": 37205283570
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2022-11-08",
+        "marketCap": 37426853100
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2022-11-07",
+        "marketCap": 36970115910
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2022-11-04",
+        "marketCap": 36867729990
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2022-11-03",
+        "marketCap": 36087037350
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2022-11-02",
+        "marketCap": 36294208860
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2022-11-01",
+        "marketCap": 37601229120
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2022-10-31",
+        "marketCap": 37503642540
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2022-10-28",
+        "marketCap": 37936383030
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2022-10-27",
+        "marketCap": 36412592580
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2022-10-26",
+        "marketCap": 36123032400
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2022-10-25",
+        "marketCap": 35868667380
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2022-10-24",
+        "marketCap": 32967466350
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2022-10-21",
+        "marketCap": 32113983720
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2022-10-20",
+        "marketCap": 31488469740
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2022-10-19",
+        "marketCap": 31898813310
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2022-10-18",
+        "marketCap": 32680305840
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2022-10-17",
+        "marketCap": 32232367440
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2022-10-14",
+        "marketCap": 31093324080
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2022-10-13",
+        "marketCap": 32481933120
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2022-10-12",
+        "marketCap": 32127581850
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2022-10-11",
+        "marketCap": 31943607150
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2022-10-10",
+        "marketCap": 32549123880
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2022-10-07",
+        "marketCap": 33582581759
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2022-10-06",
+        "marketCap": 34927196850
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2022-10-05",
+        "marketCap": 35793477720
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2022-10-04",
+        "marketCap": 36063840540
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2022-10-03",
+        "marketCap": 34521652620
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2022-09-30",
+        "marketCap": 33738560310
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2022-09-29",
+        "marketCap": 34069210000
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2022-09-28",
+        "marketCap": 34545770000
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2022-09-27",
+        "marketCap": 33560450000
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2022-09-26",
+        "marketCap": 33871180000
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2022-09-23",
+        "marketCap": 33997565000
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2022-09-22",
+        "marketCap": 34380745000
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2022-09-21",
+        "marketCap": 35385385000
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2022-09-20",
+        "marketCap": 36045485000
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2022-09-19",
+        "marketCap": 36336090000
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2022-09-16",
+        "marketCap": 36762740000
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2022-09-15",
+        "marketCap": 36723295000
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2022-09-14",
+        "marketCap": 37763355000
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2022-09-13",
+        "marketCap": 37977485000
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2022-09-12",
+        "marketCap": 39973885000
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2022-09-09",
+        "marketCap": 39546430000
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2022-09-08",
+        "marketCap": 38873450000
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2022-09-07",
+        "marketCap": 38181150000
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2022-09-06",
+        "marketCap": 36843240000
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2022-09-02",
+        "marketCap": 36381975000
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2022-09-01",
+        "marketCap": 36781255000
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2022-08-31",
+        "marketCap": 36163820000
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2022-08-30",
+        "marketCap": 36469720000
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2022-08-29",
+        "marketCap": 36708000000
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2022-08-26",
+        "marketCap": 36741810000
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2022-08-25",
+        "marketCap": 38300290000
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2022-08-24",
+        "marketCap": 37665145000
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2022-08-23",
+        "marketCap": 37633750000
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2022-08-22",
+        "marketCap": 38066840000
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2022-08-19",
+        "marketCap": 38518445000
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2022-08-18",
+        "marketCap": 40248390000
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2022-08-17",
+        "marketCap": 40450445000
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2022-08-16",
+        "marketCap": 40541410000
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2022-08-15",
+        "marketCap": 40944715000
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2022-08-12",
+        "marketCap": 40790155000
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2022-08-11",
+        "marketCap": 40340160000
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2022-08-10",
+        "marketCap": 41225660000
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2022-08-09",
+        "marketCap": 39841865000
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2022-08-08",
+        "marketCap": 40316010000
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2022-08-05",
+        "marketCap": 39942490000
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2022-08-04",
+        "marketCap": 39989180000
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2022-08-03",
+        "marketCap": 39954565000
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2022-08-02",
+        "marketCap": 38454045000
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2022-08-01",
+        "marketCap": 38387230000
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2022-07-29",
+        "marketCap": 38747870000
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2022-07-28",
+        "marketCap": 38180345000
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2022-07-27",
+        "marketCap": 36464085000
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2022-07-26",
+        "marketCap": 35652645000
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2022-07-25",
+        "marketCap": 35296835000
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2022-07-22",
+        "marketCap": 35411950000
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2022-07-21",
+        "marketCap": 36021335000
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2022-07-20",
+        "marketCap": 34962760000
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2022-07-19",
+        "marketCap": 34301050000
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2022-07-18",
+        "marketCap": 33166805000
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2022-07-15",
+        "marketCap": 33719035000
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2022-07-14",
+        "marketCap": 33013855000
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2022-07-13",
+        "marketCap": 33304460000
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2022-07-12",
+        "marketCap": 33835760000
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2022-07-11",
+        "marketCap": 34763925000
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2022-07-08",
+        "marketCap": 34932975000
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2022-07-07",
+        "marketCap": 35056945000
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2022-07-06",
+        "marketCap": 34312320000
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2022-07-05",
+        "marketCap": 33971805000
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2022-07-01",
+        "marketCap": 33626460000
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2022-06-30",
+        "marketCap": 33178075000
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2022-06-29",
+        "marketCap": 33604084980
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2022-06-28",
+        "marketCap": 33430909760
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2022-06-27",
+        "marketCap": 34779086940
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2022-06-24",
+        "marketCap": 34963591380
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2022-06-23",
+        "marketCap": 33721423330
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2022-06-22",
+        "marketCap": 32439603010
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2022-06-21",
+        "marketCap": 32389430750
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2022-06-17",
+        "marketCap": 31293733330
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2022-06-16",
+        "marketCap": 31216856480
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2022-06-15",
+        "marketCap": 32157990970
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2022-06-14",
+        "marketCap": 31640893000
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2022-06-13",
+        "marketCap": 31802739000
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2022-06-10",
+        "marketCap": 33182476150
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2022-06-09",
+        "marketCap": 34560594840
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2022-06-08",
+        "marketCap": 35244394190
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2022-06-07",
+        "marketCap": 36115125670
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2022-06-06",
+        "marketCap": 35497683180
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2022-06-03",
+        "marketCap": 35480689350
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2022-06-02",
+        "marketCap": 36546445260
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2022-06-01",
+        "marketCap": 34914228350
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2022-05-31",
+        "marketCap": 35796289050
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2022-05-27",
+        "marketCap": 36267260910
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2022-05-26",
+        "marketCap": 35021855940
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2022-05-25",
+        "marketCap": 33728706400
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2022-05-24",
+        "marketCap": 33551485030
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2022-05-23",
+        "marketCap": 33799918640
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2022-05-20",
+        "marketCap": 33748127920
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2022-05-19",
+        "marketCap": 33180048460
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2022-05-18",
+        "marketCap": 32328738500
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2022-05-17",
+        "marketCap": 32996353250
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2022-05-16",
+        "marketCap": 32369200000
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2022-05-13",
+        "marketCap": 33027913220
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2022-05-12",
+        "marketCap": 31396505540
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2022-05-11",
+        "marketCap": 31349570200
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2022-05-10",
+        "marketCap": 31470145470
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2022-05-09",
+        "marketCap": 30676290840
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2022-05-06",
+        "marketCap": 32823178030
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2022-05-05",
+        "marketCap": 33668014150
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2022-05-04",
+        "marketCap": 35018619020
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2022-05-03",
+        "marketCap": 34951452930
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2022-05-02",
+        "marketCap": 34291121250
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2022-04-29",
+        "marketCap": 34088813750
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2022-04-28",
+        "marketCap": 35070409740
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2022-04-27",
+        "marketCap": 33808010939
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2022-04-26",
+        "marketCap": 34781514630
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2022-04-25",
+        "marketCap": 37410702900
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2022-04-22",
+        "marketCap": 36904124920
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2022-04-21",
+        "marketCap": 38420621940
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2022-04-20",
+        "marketCap": 39938737420
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2022-04-19",
+        "marketCap": 39694349960
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2022-04-18",
+        "marketCap": 38682003230
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2022-04-14",
+        "marketCap": 39061532100
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2022-04-13",
+        "marketCap": 39916888210
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2022-04-12",
+        "marketCap": 38868126130
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2022-04-11",
+        "marketCap": 39335861070
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2022-04-08",
+        "marketCap": 40986690270
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2022-04-07",
+        "marketCap": 41270730000
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2022-04-06",
+        "marketCap": 40999637950
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2022-04-05",
+        "marketCap": 41532111290
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2022-04-04",
+        "marketCap": 42040307730
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2022-04-01",
+        "marketCap": 41756268000
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2022-03-31",
+        "marketCap": 40694558240
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2022-03-30",
+        "marketCap": 41634255480
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2022-03-29",
+        "marketCap": 42163781070
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2022-03-28",
+        "marketCap": 41432725710
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2022-03-25",
+        "marketCap": 40004883210
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2022-03-24",
+        "marketCap": 40447106430
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2022-03-23",
+        "marketCap": 40081578750
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2022-03-22",
+        "marketCap": 41591828160
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2022-03-21",
+        "marketCap": 41366637000
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2022-03-18",
+        "marketCap": 42455060940
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2022-03-17",
+        "marketCap": 40668218040
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2022-03-16",
+        "marketCap": 40221099360
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2022-03-15",
+        "marketCap": 38424465540
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2022-03-14",
+        "marketCap": 37314012030
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2022-03-11",
+        "marketCap": 37256898330
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2022-03-10",
+        "marketCap": 37961028660
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2022-03-09",
+        "marketCap": 39827014830
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2022-03-08",
+        "marketCap": 38021406000
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2022-03-07",
+        "marketCap": 38135633400
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2022-03-04",
+        "marketCap": 40614367980
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2022-03-03",
+        "marketCap": 41375612010
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2022-03-02",
+        "marketCap": 41700344190
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2022-03-01",
+        "marketCap": 40826504580
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2022-02-28",
+        "marketCap": 40933388790
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2022-02-25",
+        "marketCap": 41873317110
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2022-02-24",
+        "marketCap": 41486575770
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2022-02-23",
+        "marketCap": 41562455400
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2022-02-22",
+        "marketCap": 42534204209
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2022-02-18",
+        "marketCap": 42998457000
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2022-02-17",
+        "marketCap": 43363984680
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2022-02-16",
+        "marketCap": 44352867600
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2022-02-15",
+        "marketCap": 44579690580
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2022-02-14",
+        "marketCap": 43485555270
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2022-02-11",
+        "marketCap": 43590807660
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2022-02-10",
+        "marketCap": 44476070010
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2022-02-09",
+        "marketCap": 45810898770
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2022-02-08",
+        "marketCap": 44560108740
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2022-02-07",
+        "marketCap": 44911765950
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2022-02-04",
+        "marketCap": 45259343610
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2022-02-03",
+        "marketCap": 44084433209
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2022-02-02",
+        "marketCap": 44861179530
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2022-02-01",
+        "marketCap": 44499731400
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2022-01-31",
+        "marketCap": 43742566920
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2022-01-28",
+        "marketCap": 41458834830
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2022-01-27",
+        "marketCap": 40125637890
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2022-01-26",
+        "marketCap": 40153378830
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2022-01-25",
+        "marketCap": 40217835720
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2022-01-24",
+        "marketCap": 41372348370
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2022-01-21",
+        "marketCap": 40862404620
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2022-01-20",
+        "marketCap": 42088717350
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2022-01-19",
+        "marketCap": 41888819400
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2022-01-18",
+        "marketCap": 42157253790
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2022-01-14",
+        "marketCap": 42977243340
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2022-01-13",
+        "marketCap": 43521455310
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2022-01-12",
+        "marketCap": 45615896280
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2022-01-11",
+        "marketCap": 45145932120
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2022-01-10",
+        "marketCap": 44210899260
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2022-01-07",
+        "marketCap": 45038232000
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2022-01-06",
+        "marketCap": 45934101180
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2022-01-05",
+        "marketCap": 46190296920
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2022-01-04",
+        "marketCap": 48230887830
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2022-01-03",
+        "marketCap": 48593967780
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2021-12-31",
+        "marketCap": 49989989790
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2021-12-30",
+        "marketCap": 50518011420
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2021-12-29",
+        "marketCap": 50703575670
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2021-12-28",
+        "marketCap": 50719245540
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2021-12-27",
+        "marketCap": 51031818210
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2021-12-23",
+        "marketCap": 50413270710
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2021-12-22",
+        "marketCap": 49828537139
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2021-12-21",
+        "marketCap": 49043394180
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2021-12-20",
+        "marketCap": 47776608900
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2021-12-17",
+        "marketCap": 48677214060
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2021-12-16",
+        "marketCap": 49081331760
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2021-12-15",
+        "marketCap": 49683384660
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2021-12-14",
+        "marketCap": 48747316110
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2021-12-13",
+        "marketCap": 51278412480
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2021-12-10",
+        "marketCap": 51804590220
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2021-12-09",
+        "marketCap": 51128311620
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2021-12-08",
+        "marketCap": 53284980570
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2021-12-07",
+        "marketCap": 52541074110
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2021-12-06",
+        "marketCap": 50155954950
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2021-12-03",
+        "marketCap": 49768331850
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2021-12-02",
+        "marketCap": 51923351340
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2021-12-01",
+        "marketCap": 50832233550
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2021-11-30",
+        "marketCap": 51912629850
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2021-11-29",
+        "marketCap": 53235496770
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2021-11-26",
+        "marketCap": 51219031920
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2021-11-24",
+        "marketCap": 53000448720
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2021-11-23",
+        "marketCap": 52150976820
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2021-11-22",
+        "marketCap": 52527053700
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2021-11-19",
+        "marketCap": 54174864240
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2021-11-18",
+        "marketCap": 54880008389
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2021-11-17",
+        "marketCap": 54961656660
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2021-11-16",
+        "marketCap": 55681645950
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2021-11-15",
+        "marketCap": 54510529350
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2021-11-12",
+        "marketCap": 53819405610
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2021-11-11",
+        "marketCap": 52889110170
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2021-11-10",
+        "marketCap": 52947666000
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2021-11-09",
+        "marketCap": 53840023860
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2021-11-08",
+        "marketCap": 53921672129
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2021-11-05",
+        "marketCap": 53882909820
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2021-11-04",
+        "marketCap": 54569909910
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2021-11-03",
+        "marketCap": 53249517180
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2021-11-02",
+        "marketCap": 53964558090
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2021-11-01",
+        "marketCap": 54193833030
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2021-10-29",
+        "marketCap": 54834648240
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2021-10-28",
+        "marketCap": 54047031090
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2021-10-27",
+        "marketCap": 52535301000
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2021-10-26",
+        "marketCap": 53040035760
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2021-10-25",
+        "marketCap": 53774870190
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2021-10-22",
+        "marketCap": 53532399570
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2021-10-21",
+        "marketCap": 52488291389
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2021-10-20",
+        "marketCap": 51410369280
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2021-10-19",
+        "marketCap": 52037164080
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2021-10-18",
+        "marketCap": 51118414860
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2021-10-15",
+        "marketCap": 50809965840
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2021-10-14",
+        "marketCap": 50527083450
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2021-10-13",
+        "marketCap": 49343595900
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2021-10-12",
+        "marketCap": 49092053250
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2021-10-11",
+        "marketCap": 49253700330
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2021-10-08",
+        "marketCap": 49493696760
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2021-10-07",
+        "marketCap": 50184820500
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2021-10-06",
+        "marketCap": 49478851620
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2021-10-05",
+        "marketCap": 49658642760
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2021-10-04",
+        "marketCap": 48436392900
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2021-10-01",
+        "marketCap": 50366261100
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2021-09-30",
+        "marketCap": 50171624820
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2021-09-29",
+        "marketCap": 50364429000
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2021-09-28",
+        "marketCap": 49300566000
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2021-09-27",
+        "marketCap": 52671939599
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2021-09-24",
+        "marketCap": 54543183900
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2021-09-23",
+        "marketCap": 53900742600
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2021-09-22",
+        "marketCap": 53205520500
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2021-09-21",
+        "marketCap": 52838529000
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2021-09-20",
+        "marketCap": 52334637300
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2021-09-17",
+        "marketCap": 52917700200
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2021-09-16",
+        "marketCap": 53782810500
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2021-09-15",
+        "marketCap": 53387779200
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2021-09-14",
+        "marketCap": 53875176900
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2021-09-13",
+        "marketCap": 53048827500
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2021-09-10",
+        "marketCap": 53677248900
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2021-09-09",
+        "marketCap": 53841364200
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2021-09-08",
+        "marketCap": 54362574599
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2021-09-07",
+        "marketCap": 54085475400
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2021-09-03",
+        "marketCap": 53667352500
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2021-09-02",
+        "marketCap": 53557667400
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2021-09-01",
+        "marketCap": 53540348700
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2021-08-31",
+        "marketCap": 52333812600
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2021-08-30",
+        "marketCap": 52651322099
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2021-08-27",
+        "marketCap": 51922287300
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2021-08-26",
+        "marketCap": 51453857700
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2021-08-25",
+        "marketCap": 51783737700
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2021-08-24",
+        "marketCap": 50996973900
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2021-08-23",
+        "marketCap": 51229539300
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2021-08-20",
+        "marketCap": 51037384200
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2021-08-19",
+        "marketCap": 50306700000
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2021-08-18",
+        "marketCap": 50324018700
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2021-08-17",
+        "marketCap": 51913215600
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2021-08-16",
+        "marketCap": 51973418700
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2021-08-13",
+        "marketCap": 51957749400
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2021-08-12",
+        "marketCap": 51556945200
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2021-08-11",
+        "marketCap": 51538801800
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2021-08-10",
+        "marketCap": 51550347600
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2021-08-09",
+        "marketCap": 51764769599
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2021-08-06",
+        "marketCap": 51865383000
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2021-08-05",
+        "marketCap": 51740028600
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2021-08-04",
+        "marketCap": 51479423400
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2021-08-03",
+        "marketCap": 51054702900
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2021-08-02",
+        "marketCap": 50382572400
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2021-07-30",
+        "marketCap": 49148821200
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2021-07-29",
+        "marketCap": 49049857200
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2021-07-28",
+        "marketCap": 48809044800
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2021-07-27",
+        "marketCap": 48179798700
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2021-07-26",
+        "marketCap": 47494473000
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2021-07-23",
+        "marketCap": 47746006500
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2021-07-22",
+        "marketCap": 47185210500
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2021-07-21",
+        "marketCap": 46584004200
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2021-07-20",
+        "marketCap": 46477617900
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2021-07-19",
+        "marketCap": 45922594800
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2021-07-16",
+        "marketCap": 46581530100
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2021-07-15",
+        "marketCap": 46170829500
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2021-07-14",
+        "marketCap": 45786519300
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2021-07-13",
+        "marketCap": 45982797900
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2021-07-12",
+        "marketCap": 46179076500
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2021-07-09",
+        "marketCap": 46202168100
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2021-07-08",
+        "marketCap": 45650443800
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2021-07-07",
+        "marketCap": 45834351900
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2021-07-06",
+        "marketCap": 45360149400
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2021-07-02",
+        "marketCap": 44691317700
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2021-07-01",
+        "marketCap": 44041454100
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2021-06-30",
+        "marketCap": 43963107600
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2021-06-29",
+        "marketCap": 44704085180
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2021-06-28",
+        "marketCap": 44069189380
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2021-06-25",
+        "marketCap": 43844914500
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2021-06-24",
+        "marketCap": 43954578320
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2021-06-23",
+        "marketCap": 43194352440
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2021-06-22",
+        "marketCap": 43056654260
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2021-06-21",
+        "marketCap": 42512457860
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2021-06-18",
+        "marketCap": 41466116600
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2021-06-17",
+        "marketCap": 41683795160
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2021-06-16",
+        "marketCap": 40888938600
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2021-06-15",
+        "marketCap": 40814730000
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2021-06-14",
+        "marketCap": 40465125040
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2021-06-11",
+        "marketCap": 39537517540
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2021-06-10",
+        "marketCap": 39286032840
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2021-06-09",
+        "marketCap": 38409546820
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2021-06-08",
+        "marketCap": 38206709980
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2021-06-07",
+        "marketCap": 38289163980
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2021-06-04",
+        "marketCap": 38453247440
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2021-06-03",
+        "marketCap": 38092098920
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2021-06-02",
+        "marketCap": 38660206980
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2021-06-01",
+        "marketCap": 38091274380
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2021-05-28",
+        "marketCap": 38599191020
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2021-05-27",
+        "marketCap": 38289163980
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2021-05-26",
+        "marketCap": 38349355400
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2021-05-25",
+        "marketCap": 38308952940
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2021-05-24",
+        "marketCap": 38163833900
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2021-05-21",
+        "marketCap": 37671583520
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2021-05-20",
+        "marketCap": 37700442420
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2021-05-19",
+        "marketCap": 36905585860
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2021-05-18",
+        "marketCap": 37441536860
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2021-05-17",
+        "marketCap": 37580884120
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2021-05-14",
+        "marketCap": 38214130840
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2021-05-13",
+        "marketCap": 38018714860
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2021-05-12",
+        "marketCap": 37943681720
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2021-05-11",
+        "marketCap": 38973532180
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2021-05-10",
+        "marketCap": 39321488060
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2021-05-07",
+        "marketCap": 39768388740
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2021-05-06",
+        "marketCap": 39240683140
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2021-05-05",
+        "marketCap": 39427853720
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2021-05-04",
+        "marketCap": 39784055000
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2021-05-03",
+        "marketCap": 40089134800
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2021-04-30",
+        "marketCap": 40053679580
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2021-04-29",
+        "marketCap": 40800712820
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2021-04-28",
+        "marketCap": 39910209620
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2021-04-27",
+        "marketCap": 40205394940
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2021-04-26",
+        "marketCap": 40155098000
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2021-04-23",
+        "marketCap": 40113871000
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2021-04-22",
+        "marketCap": 38897674500
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2021-04-21",
+        "marketCap": 38804501480
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2021-04-20",
+        "marketCap": 38590945620
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2021-04-19",
+        "marketCap": 38610734580
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2021-04-16",
+        "marketCap": 39043618080
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2021-04-15",
+        "marketCap": 38724521100
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2021-04-14",
+        "marketCap": 37715284140
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2021-04-13",
+        "marketCap": 37928840000
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2021-04-12",
+        "marketCap": 37363205560
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2021-04-09",
+        "marketCap": 36980619000
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2021-04-08",
+        "marketCap": 36715941660
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2021-04-07",
+        "marketCap": 36069502300
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2021-04-06",
+        "marketCap": 36288005400
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2021-04-05",
+        "marketCap": 36330056940
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2021-04-01",
+        "marketCap": 35335661700
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2021-03-31",
+        "marketCap": 34571313120
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2021-03-30",
+        "marketCap": 34503026400
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2021-03-29",
+        "marketCap": 35235216800
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2021-03-26",
+        "marketCap": 35111256800
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2021-03-25",
+        "marketCap": 34051812000
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2021-03-24",
+        "marketCap": 35041839200
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2021-03-23",
+        "marketCap": 34771606400
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2021-03-22",
+        "marketCap": 34655910400
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2021-03-19",
+        "marketCap": 33912150400
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2021-03-18",
+        "marketCap": 33520436800
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2021-03-17",
+        "marketCap": 34144368800
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2021-03-16",
+        "marketCap": 34426171200
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2021-03-15",
+        "marketCap": 34671612000
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2021-03-12",
+        "marketCap": 34422039200
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2021-03-11",
+        "marketCap": 33887358400
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2021-03-10",
+        "marketCap": 33867524800
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2021-03-09",
+        "marketCap": 34255932800
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2021-03-08",
+        "marketCap": 33273343200
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2021-03-05",
+        "marketCap": 34272460800
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2021-03-04",
+        "marketCap": 33799760000
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2021-03-03",
+        "marketCap": 33859260800
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2021-03-02",
+        "marketCap": 34610458400
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2021-03-01",
+        "marketCap": 34711279200
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2021-02-26",
+        "marketCap": 34255932800
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2021-02-25",
+        "marketCap": 33576632000
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2021-02-24",
+        "marketCap": 34479887200
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2021-02-23",
+        "marketCap": 34307996000
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2021-02-22",
+        "marketCap": 34179904000
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2021-02-19",
+        "marketCap": 35780640800
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2021-02-18",
+        "marketCap": 36159132000
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2021-02-17",
+        "marketCap": 36305404800
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2021-02-16",
+        "marketCap": 36437628800
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2021-02-12",
+        "marketCap": 35929392800
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2021-02-11",
+        "marketCap": 35275710400
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2021-02-10",
+        "marketCap": 34680702400
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2021-02-09",
+        "marketCap": 34541040800
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2021-02-08",
+        "marketCap": 34934407200
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2021-02-05",
+        "marketCap": 35519498400
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2021-02-04",
+        "marketCap": 35550901600
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2021-02-03",
+        "marketCap": 34450136800
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2021-02-02",
+        "marketCap": 35132743200
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2021-02-01",
+        "marketCap": 34398900000
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2021-01-29",
+        "marketCap": 32667592000
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2021-01-28",
+        "marketCap": 32661807200
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2021-01-27",
+        "marketCap": 32505617599
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2021-01-26",
+        "marketCap": 33436970400
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2021-01-25",
+        "marketCap": 33344413600
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2021-01-22",
+        "marketCap": 34037763200
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2021-01-21",
+        "marketCap": 34241884000
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2021-01-20",
+        "marketCap": 34586492800
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2021-01-19",
+        "marketCap": 34004707200
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2021-01-15",
+        "marketCap": 34320392000
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2021-01-14",
+        "marketCap": 33842732800
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2021-01-13",
+        "marketCap": 36229376000
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2021-01-12",
+        "marketCap": 37451621600
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2021-01-11",
+        "marketCap": 37335925600
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2021-01-08",
+        "marketCap": 37409475200
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2021-01-07",
+        "marketCap": 36662409600
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2021-01-06",
+        "marketCap": 35962448800
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2021-01-05",
+        "marketCap": 35648416800
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2021-01-04",
+        "marketCap": 36166569600
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2020-12-31",
+        "marketCap": 36901239200
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2020-12-30",
+        "marketCap": 36155241630
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2020-12-29",
+        "marketCap": 35955018090
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2020-12-28",
+        "marketCap": 36103944690
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2020-12-24",
+        "marketCap": 35780443020
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2020-12-23",
+        "marketCap": 35463560310
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2020-12-22",
+        "marketCap": 36204056460
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2020-12-21",
+        "marketCap": 35993904480
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2020-12-18",
+        "marketCap": 36657455220
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2020-12-17",
+        "marketCap": 36137866860
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2020-12-16",
+        "marketCap": 35563672080
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2020-12-15",
+        "marketCap": 35080488000
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2020-12-14",
+        "marketCap": 35072214300
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2020-12-11",
+        "marketCap": 34705689390
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2020-12-10",
+        "marketCap": 34964656200
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2020-12-09",
+        "marketCap": 34304414940
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2020-12-08",
+        "marketCap": 35279056800
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2020-12-07",
+        "marketCap": 34982858340
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2020-12-04",
+        "marketCap": 34891020270
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2020-12-03",
+        "marketCap": 34691624100
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2020-12-02",
+        "marketCap": 34431829920
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2020-12-01",
+        "marketCap": 34294486500
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2020-11-30",
+        "marketCap": 33874182540
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2020-11-27",
+        "marketCap": 33280958250
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2020-11-25",
+        "marketCap": 33421611150
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2020-11-24",
+        "marketCap": 33065014680
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2020-11-23",
+        "marketCap": 33257791890
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2020-11-20",
+        "marketCap": 33119621100
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2020-11-19",
+        "marketCap": 33160162230
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2020-11-18",
+        "marketCap": 33090663150
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2020-11-17",
+        "marketCap": 33395962680
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2020-11-16",
+        "marketCap": 32896231200
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2020-11-13",
+        "marketCap": 32136705540
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2020-11-12",
+        "marketCap": 32224406760
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2020-11-11",
+        "marketCap": 32848243740
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2020-11-10",
+        "marketCap": 31425167340
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2020-11-09",
+        "marketCap": 32305489020
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2020-11-06",
+        "marketCap": 34844687550
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2020-11-05",
+        "marketCap": 34561727010
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2020-11-04",
+        "marketCap": 32947528140
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2020-11-03",
+        "marketCap": 30568839390
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2020-11-02",
+        "marketCap": 29524698450
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2020-10-30",
+        "marketCap": 28944712079
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2020-10-29",
+        "marketCap": 28584806130
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2020-10-28",
+        "marketCap": 28186841160
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2020-10-27",
+        "marketCap": 29528835300
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2020-10-26",
+        "marketCap": 28921545720
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2020-10-23",
+        "marketCap": 29003455350
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2020-10-22",
+        "marketCap": 28761863310
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2020-10-21",
+        "marketCap": 28958777370
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2020-10-20",
+        "marketCap": 29667006090
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2020-10-19",
+        "marketCap": 30006227790
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2020-10-16",
+        "marketCap": 30249474570
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2020-10-15",
+        "marketCap": 29919353940
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2020-10-14",
+        "marketCap": 29705892480
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2020-10-13",
+        "marketCap": 29782837890
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2020-10-12",
+        "marketCap": 29176375680
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2020-10-09",
+        "marketCap": 29150727210
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2020-10-08",
+        "marketCap": 28660096800
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2020-10-07",
+        "marketCap": 28363070970
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2020-10-06",
+        "marketCap": 28785857040
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2020-10-05",
+        "marketCap": 29066335470
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2020-10-02",
+        "marketCap": 28805713920
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2020-10-01",
+        "marketCap": 29747260980
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2020-09-30",
+        "marketCap": 29518906859
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2020-09-29",
+        "marketCap": 29764820416
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2020-09-28",
+        "marketCap": 29634401294
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2020-09-25",
+        "marketCap": 29508162272
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2020-09-24",
+        "marketCap": 28936324586
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2020-09-23",
+        "marketCap": 28881147265
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2020-09-22",
+        "marketCap": 29364366831
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2020-09-21",
+        "marketCap": 29405331811
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2020-09-18",
+        "marketCap": 28839346264
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2020-09-17",
+        "marketCap": 28454777060
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2020-09-16",
+        "marketCap": 28798381284
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2020-09-15",
+        "marketCap": 28926292346
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2020-09-14",
+        "marketCap": 28622817082
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2020-09-11",
+        "marketCap": 28361978839
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2020-09-10",
+        "marketCap": 28636193402
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2020-09-09",
+        "marketCap": 29151181728
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2020-09-08",
+        "marketCap": 28394583619
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2020-09-04",
+        "marketCap": 29108544708
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2020-09-03",
+        "marketCap": 30135177280
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2020-09-02",
+        "marketCap": 31650881558
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2020-09-01",
+        "marketCap": 31564771497
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2020-08-31",
+        "marketCap": 31206118913
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2020-08-28",
+        "marketCap": 31240395733
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2020-08-27",
+        "marketCap": 30923544149
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2020-08-26",
+        "marketCap": 31066503571
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2020-08-25",
+        "marketCap": 30559039425
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2020-08-24",
+        "marketCap": 30430292343
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2020-08-21",
+        "marketCap": 30405211743
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2020-08-20",
+        "marketCap": 30827401848
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2020-08-19",
+        "marketCap": 31049783171
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2020-08-18",
+        "marketCap": 30615052766
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2020-08-17",
+        "marketCap": 30235499681
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2020-08-14",
+        "marketCap": 29796589176
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2020-08-13",
+        "marketCap": 30085852099
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2020-08-12",
+        "marketCap": 29659481894
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2020-08-11",
+        "marketCap": 29305009410
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2020-08-10",
+        "marketCap": 29621024974
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2020-08-07",
+        "marketCap": 30294857102
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2020-08-06",
+        "marketCap": 31160137812
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2020-08-05",
+        "marketCap": 30479617524
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2020-08-04",
+        "marketCap": 30460389064
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2020-08-03",
+        "marketCap": 31092420191
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2020-07-31",
+        "marketCap": 31432680335
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2020-07-30",
+        "marketCap": 31312293454
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2020-07-29",
+        "marketCap": 32021238423
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2020-07-28",
+        "marketCap": 31455252876
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2020-07-27",
+        "marketCap": 32939188394
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2020-07-24",
+        "marketCap": 32241111685
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2020-07-23",
+        "marketCap": 32185098344
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2020-07-22",
+        "marketCap": 32614812630
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2020-07-21",
+        "marketCap": 32525358489
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2020-07-20",
+        "marketCap": 32522850429
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2020-07-17",
+        "marketCap": 31736991619
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2020-07-16",
+        "marketCap": 30946116690
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2020-07-15",
+        "marketCap": 31455252876
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2020-07-14",
+        "marketCap": 30855826529
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2020-07-13",
+        "marketCap": 30420260103
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2020-07-10",
+        "marketCap": 31012162270
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2020-07-09",
+        "marketCap": 31362454655
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2020-07-08",
+        "marketCap": 30992097790
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2020-07-07",
+        "marketCap": 29478901572
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2020-07-06",
+        "marketCap": 29361858771
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2020-07-02",
+        "marketCap": 28602752602
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2020-07-01",
+        "marketCap": 28502430200
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2020-06-30",
+        "marketCap": 27908019973
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2020-06-29",
+        "marketCap": 27254199825
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2020-06-26",
+        "marketCap": 27793845532
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2020-06-25",
+        "marketCap": 28627995562
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2020-06-24",
+        "marketCap": 27472568088
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2020-06-23",
+        "marketCap": 28013050454
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2020-06-22",
+        "marketCap": 28241458637
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2020-06-19",
+        "marketCap": 27899264693
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2020-06-18",
+        "marketCap": 27615636950
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2020-06-17",
+        "marketCap": 27266749725
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2020-06-16",
+        "marketCap": 27015751722
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2020-06-15",
+        "marketCap": 26950492242
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2020-06-12",
+        "marketCap": 26852603020
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2020-06-11",
+        "marketCap": 25094780339
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2020-06-10",
+        "marketCap": 27716036151
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2020-06-09",
+        "marketCap": 27372168887
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2020-06-08",
+        "marketCap": 27700976271
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2020-06-05",
+        "marketCap": 27683406410
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2020-06-04",
+        "marketCap": 26068652591
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2020-06-03",
+        "marketCap": 26654314598
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2020-06-02",
+        "marketCap": 27184757044
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2020-06-01",
+        "marketCap": 28059066755
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2020-05-29",
+        "marketCap": 27513564428
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2020-05-28",
+        "marketCap": 26997345202
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2020-05-27",
+        "marketCap": 26369013535
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2020-05-26",
+        "marketCap": 27289339546
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2020-05-22",
+        "marketCap": 28276598357
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2020-05-21",
+        "marketCap": 27890061433
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2020-05-20",
+        "marketCap": 28572776001
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2020-05-19",
+        "marketCap": 28239785317
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2020-05-18",
+        "marketCap": 29011185846
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2020-05-15",
+        "marketCap": 28548512861
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2020-05-14",
+        "marketCap": 28617955642
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2020-05-13",
+        "marketCap": 28079983255
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2020-05-12",
+        "marketCap": 29042142267
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2020-05-11",
+        "marketCap": 29053018847
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2020-05-08",
+        "marketCap": 27909304613
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2020-05-07",
+        "marketCap": 27952810934
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2020-05-06",
+        "marketCap": 27630696830
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2020-05-05",
+        "marketCap": 28223888777
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2020-05-04",
+        "marketCap": 26895272681
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2020-05-01",
+        "marketCap": 26768100359
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2020-04-30",
+        "marketCap": 27358782327
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2020-04-29",
+        "marketCap": 28003010534
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2020-04-28",
+        "marketCap": 26702840879
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2020-04-27",
+        "marketCap": 27744482591
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2020-04-24",
+        "marketCap": 27182247064
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2020-04-23",
+        "marketCap": 26558935357
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2020-04-22",
+        "marketCap": 26824993240
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2020-04-21",
+        "marketCap": 26046899431
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2020-04-20",
+        "marketCap": 26936269021
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2020-04-17",
+        "marketCap": 26537182197
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2020-04-16",
+        "marketCap": 25886260709
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2020-04-15",
+        "marketCap": 25904667229
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2020-04-14",
+        "marketCap": 26221761373
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2020-04-13",
+        "marketCap": 25896300629
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2020-04-09",
+        "marketCap": 25994189850
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2020-04-08",
+        "marketCap": 24863862177
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2020-04-07",
+        "marketCap": 23935169566
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2020-04-06",
+        "marketCap": 25308128642
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2020-04-03",
+        "marketCap": 22640856530
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2020-04-02",
+        "marketCap": 24011305626
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2020-04-01",
+        "marketCap": 22696912751
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2020-03-31",
+        "marketCap": 24176127648
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2020-03-30",
+        "marketCap": 24928016693
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2020-03-27",
+        "marketCap": 23402054075
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2020-03-26",
+        "marketCap": 24770158491
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2020-03-25",
+        "marketCap": 22386160163
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2020-03-24",
+        "marketCap": 23195819973
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2020-03-23",
+        "marketCap": 19651648731
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2020-03-20",
+        "marketCap": 20629351143
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2020-03-19",
+        "marketCap": 20143894737
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2020-03-18",
+        "marketCap": 19066045724
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2020-03-17",
+        "marketCap": 21862512257
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2020-03-16",
+        "marketCap": 20911968246
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2020-03-13",
+        "marketCap": 24052158283
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2020-03-12",
+        "marketCap": 21785280556
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2020-03-11",
+        "marketCap": 22285164862
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2020-03-10",
+        "marketCap": 23297663974
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2020-03-09",
+        "marketCap": 21883729757
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2020-03-06",
+        "marketCap": 24259241085
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2020-03-05",
+        "marketCap": 25536534600
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2020-03-04",
+        "marketCap": 27028549218
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2020-03-03",
+        "marketCap": 26195125808
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2020-03-02",
+        "marketCap": 26779031415
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2020-02-28",
+        "marketCap": 25073993095
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2020-02-27",
+        "marketCap": 25236943497
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2020-02-26",
+        "marketCap": 25937121005
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2020-02-25",
+        "marketCap": 25487310000
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2020-02-24",
+        "marketCap": 25760591403
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2020-02-21",
+        "marketCap": 26231619909
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2020-02-20",
+        "marketCap": 27303528021
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2020-02-19",
+        "marketCap": 28186176032
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2020-02-18",
+        "marketCap": 27760128627
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2020-02-14",
+        "marketCap": 27375667522
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2020-02-13",
+        "marketCap": 26598258313
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2020-02-12",
+        "marketCap": 26155236908
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2020-02-11",
+        "marketCap": 25763986203
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2020-02-10",
+        "marketCap": 25585759201
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2020-02-07",
+        "marketCap": 25276832397
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2020-02-06",
+        "marketCap": 25197903296
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2020-02-05",
+        "marketCap": 25051926895
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2020-02-04",
+        "marketCap": 25558600801
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2020-02-03",
+        "marketCap": 24837205792
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2020-01-31",
+        "marketCap": 24255846285
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2020-01-30",
+        "marketCap": 24847390192
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2020-01-29",
+        "marketCap": 23957103882
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2020-01-28",
+        "marketCap": 23608288178
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2020-01-27",
+        "marketCap": 23249288073
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2020-01-24",
+        "marketCap": 23433455976
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2020-01-23",
+        "marketCap": 23691460779
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2020-01-22",
+        "marketCap": 23698250379
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2020-01-21",
+        "marketCap": 23596406378
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2020-01-17",
+        "marketCap": 23684671179
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2020-01-16",
+        "marketCap": 23533602577
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2020-01-15",
+        "marketCap": 22892834069
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2020-01-14",
+        "marketCap": 22632283166
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2020-01-13",
+        "marketCap": 23083791571
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2020-01-10",
+        "marketCap": 22551656665
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2020-01-09",
+        "marketCap": 22730732367
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2020-01-08",
+        "marketCap": 22622947466
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2020-01-07",
+        "marketCap": 22270736962
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2020-01-06",
+        "marketCap": 22240183762
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2020-01-03",
+        "marketCap": 22129852760
+    },
+    {
+        "symbol": "MSCI",
+        "date": "2020-01-02",
+        "marketCap": 22579663766
+    }
+]

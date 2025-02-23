@@ -1,0 +1,320 @@
+[
+    {
+        "date": "2024-10-31",
+        "symbol": "XYL",
+        "actualEarningResult": 1.11,
+        "estimatedEarning": 1.11
+    },
+    {
+        "date": "2024-07-30",
+        "symbol": "XYL",
+        "actualEarningResult": 1.09,
+        "estimatedEarning": 1.05
+    },
+    {
+        "date": "2024-05-02",
+        "symbol": "XYL",
+        "actualEarningResult": 0.9,
+        "estimatedEarning": 0.839
+    },
+    {
+        "date": "2024-02-06",
+        "symbol": "XYL",
+        "actualEarningResult": 0.99,
+        "estimatedEarning": 0.96
+    },
+    {
+        "date": "2023-10-31",
+        "symbol": "XYL",
+        "actualEarningResult": 0.99,
+        "estimatedEarning": 0.89
+    },
+    {
+        "date": "2023-08-02",
+        "symbol": "XYL",
+        "actualEarningResult": 0.98,
+        "estimatedEarning": 0.85
+    },
+    {
+        "date": "2023-05-04",
+        "symbol": "XYL",
+        "actualEarningResult": 0.72,
+        "estimatedEarning": 0.62
+    },
+    {
+        "date": "2023-02-07",
+        "symbol": "XYL",
+        "actualEarningResult": 0.92,
+        "estimatedEarning": 0.79
+    },
+    {
+        "date": "2022-11-01",
+        "symbol": "XYL",
+        "actualEarningResult": 0.79,
+        "estimatedEarning": 0.66
+    },
+    {
+        "date": "2022-08-02",
+        "symbol": "XYL",
+        "actualEarningResult": 0.66,
+        "estimatedEarning": 0.54
+    },
+    {
+        "date": "2022-05-04",
+        "symbol": "XYL",
+        "actualEarningResult": 0.47,
+        "estimatedEarning": 0.41
+    },
+    {
+        "date": "2022-02-03",
+        "symbol": "XYL",
+        "actualEarningResult": 0.63,
+        "estimatedEarning": 0.61
+    },
+    {
+        "date": "2021-11-02",
+        "symbol": "XYL",
+        "actualEarningResult": 0.63,
+        "estimatedEarning": 0.59
+    },
+    {
+        "date": "2021-08-03",
+        "symbol": "XYL",
+        "actualEarningResult": 0.66,
+        "estimatedEarning": 0.62
+    },
+    {
+        "date": "2021-05-04",
+        "symbol": "XYL",
+        "actualEarningResult": 0.56,
+        "estimatedEarning": 0.38
+    },
+    {
+        "date": "2021-02-04",
+        "symbol": "XYL",
+        "actualEarningResult": 0.81,
+        "estimatedEarning": 0.68
+    },
+    {
+        "date": "2020-10-29",
+        "symbol": "XYL",
+        "actualEarningResult": 0.62,
+        "estimatedEarning": 0.52
+    },
+    {
+        "date": "2020-07-30",
+        "symbol": "XYL",
+        "actualEarningResult": 0.4,
+        "estimatedEarning": 0.39
+    },
+    {
+        "date": "2020-05-05",
+        "symbol": "XYL",
+        "actualEarningResult": 0.23,
+        "estimatedEarning": 0.37
+    },
+    {
+        "date": "2020-02-06",
+        "symbol": "XYL",
+        "actualEarningResult": 0.89,
+        "estimatedEarning": 0.89
+    },
+    {
+        "date": "2019-10-31",
+        "symbol": "XYL",
+        "actualEarningResult": 0.82,
+        "estimatedEarning": 0.82
+    },
+    {
+        "date": "2019-08-01",
+        "symbol": "XYL",
+        "actualEarningResult": 0.79,
+        "estimatedEarning": 0.79
+    },
+    {
+        "date": "2019-05-02",
+        "symbol": "XYL",
+        "actualEarningResult": 0.52,
+        "estimatedEarning": 0.56
+    },
+    {
+        "date": "2019-01-31",
+        "symbol": "XYL",
+        "actualEarningResult": 0.88,
+        "estimatedEarning": 0.88
+    },
+    {
+        "date": "2018-10-30",
+        "symbol": "XYL",
+        "actualEarningResult": 0.77,
+        "estimatedEarning": 0.77
+    },
+    {
+        "date": "2018-07-31",
+        "symbol": "XYL",
+        "actualEarningResult": 0.73,
+        "estimatedEarning": 0.71
+    },
+    {
+        "date": "2018-05-01",
+        "symbol": "XYL",
+        "actualEarningResult": 0.51,
+        "estimatedEarning": 0.51
+    },
+    {
+        "date": "2018-02-01",
+        "symbol": "XYL",
+        "actualEarningResult": 0.76,
+        "estimatedEarning": 0.76
+    },
+    {
+        "date": "2017-10-31",
+        "symbol": "XYL",
+        "actualEarningResult": 0.65,
+        "estimatedEarning": 0.64
+    },
+    {
+        "date": "2017-08-01",
+        "symbol": "XYL",
+        "actualEarningResult": 0.59,
+        "estimatedEarning": 0.57
+    },
+    {
+        "date": "2017-05-02",
+        "symbol": "XYL",
+        "actualEarningResult": 0.39,
+        "estimatedEarning": 0.38
+    },
+    {
+        "date": "2017-02-02",
+        "symbol": "XYL",
+        "actualEarningResult": 0.66,
+        "estimatedEarning": 0.65
+    },
+    {
+        "date": "2016-11-01",
+        "symbol": "XYL",
+        "actualEarningResult": 0.54,
+        "estimatedEarning": 0.53
+    },
+    {
+        "date": "2016-08-02",
+        "symbol": "XYL",
+        "actualEarningResult": 0.48,
+        "estimatedEarning": 0.47
+    },
+    {
+        "date": "2016-05-03",
+        "symbol": "XYL",
+        "actualEarningResult": 0.35,
+        "estimatedEarning": 0.34
+    },
+    {
+        "date": "2016-02-04",
+        "symbol": "XYL",
+        "actualEarningResult": 0.6,
+        "estimatedEarning": 0.6
+    },
+    {
+        "date": "2015-10-29",
+        "symbol": "XYL",
+        "actualEarningResult": 0.49,
+        "estimatedEarning": 0.48
+    },
+    {
+        "date": "2015-07-30",
+        "symbol": "XYL",
+        "actualEarningResult": 0.43,
+        "estimatedEarning": 0.43
+    },
+    {
+        "date": "2015-04-30",
+        "symbol": "XYL",
+        "actualEarningResult": 0.33,
+        "estimatedEarning": 0.31
+    },
+    {
+        "date": "2015-02-05",
+        "symbol": "XYL",
+        "actualEarningResult": 0.62,
+        "estimatedEarning": 0.6
+    },
+    {
+        "date": "2014-10-28",
+        "symbol": "XYL",
+        "actualEarningResult": 0.53,
+        "estimatedEarning": 0.52
+    },
+    {
+        "date": "2014-07-29",
+        "symbol": "XYL",
+        "actualEarningResult": 0.48,
+        "estimatedEarning": 0.44
+    },
+    {
+        "date": "2014-04-29",
+        "symbol": "XYL",
+        "actualEarningResult": 0.34,
+        "estimatedEarning": 0.32
+    },
+    {
+        "date": "2014-02-04",
+        "symbol": "XYL",
+        "actualEarningResult": 0.56,
+        "estimatedEarning": 0.52
+    },
+    {
+        "date": "2013-10-29",
+        "symbol": "XYL",
+        "actualEarningResult": 0.49,
+        "estimatedEarning": 0.35
+    },
+    {
+        "date": "2013-07-30",
+        "symbol": "XYL",
+        "actualEarningResult": 0.36,
+        "estimatedEarning": 0.44
+    },
+    {
+        "date": "2013-04-30",
+        "symbol": "XYL",
+        "actualEarningResult": 0.27,
+        "estimatedEarning": 0.27
+    },
+    {
+        "date": "2013-02-07",
+        "symbol": "XYL",
+        "actualEarningResult": 0.47,
+        "estimatedEarning": 0.46
+    },
+    {
+        "date": "2012-11-01",
+        "symbol": "XYL",
+        "actualEarningResult": 0.44,
+        "estimatedEarning": 0.43
+    },
+    {
+        "date": "2012-08-02",
+        "symbol": "XYL",
+        "actualEarningResult": 0.49,
+        "estimatedEarning": 0.48
+    },
+    {
+        "date": "2012-05-03",
+        "symbol": "XYL",
+        "actualEarningResult": 0.36,
+        "estimatedEarning": 0.36
+    },
+    {
+        "date": "2012-02-28",
+        "symbol": "XYL",
+        "actualEarningResult": 0.4,
+        "estimatedEarning": 0.46
+    },
+    {
+        "date": "2011-11-21",
+        "symbol": "XYL",
+        "actualEarningResult": 0.55,
+        "estimatedEarning": 0.42
+    }
+]

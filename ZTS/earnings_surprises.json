@@ -1,0 +1,284 @@
+[
+    {
+        "date": "2024-11-04",
+        "symbol": "ZTS",
+        "actualEarningResult": 1.58,
+        "estimatedEarning": 1.46
+    },
+    {
+        "date": "2024-08-06",
+        "symbol": "ZTS",
+        "actualEarningResult": 1.56,
+        "estimatedEarning": 1.49
+    },
+    {
+        "date": "2024-05-02",
+        "symbol": "ZTS",
+        "actualEarningResult": 1.38,
+        "estimatedEarning": 1.34
+    },
+    {
+        "date": "2024-02-13",
+        "symbol": "ZTS",
+        "actualEarningResult": 1.24,
+        "estimatedEarning": 1.32
+    },
+    {
+        "date": "2023-11-02",
+        "symbol": "ZTS",
+        "actualEarningResult": 1.36,
+        "estimatedEarning": 1.36
+    },
+    {
+        "date": "2023-08-08",
+        "symbol": "ZTS",
+        "actualEarningResult": 1.41,
+        "estimatedEarning": 1.32
+    },
+    {
+        "date": "2023-05-04",
+        "symbol": "ZTS",
+        "actualEarningResult": 1.31,
+        "estimatedEarning": 1.26
+    },
+    {
+        "date": "2023-02-14",
+        "symbol": "ZTS",
+        "actualEarningResult": 1.15,
+        "estimatedEarning": 1.05
+    },
+    {
+        "date": "2022-11-03",
+        "symbol": "ZTS",
+        "actualEarningResult": 1.21,
+        "estimatedEarning": 1.24
+    },
+    {
+        "date": "2022-08-04",
+        "symbol": "ZTS",
+        "actualEarningResult": 1.2,
+        "estimatedEarning": 1.22
+    },
+    {
+        "date": "2022-05-05",
+        "symbol": "ZTS",
+        "actualEarningResult": 1.32,
+        "estimatedEarning": 1.23
+    },
+    {
+        "date": "2022-02-15",
+        "symbol": "ZTS",
+        "actualEarningResult": 1,
+        "estimatedEarning": 0.96
+    },
+    {
+        "date": "2021-11-04",
+        "symbol": "ZTS",
+        "actualEarningResult": 1.25,
+        "estimatedEarning": 1.1
+    },
+    {
+        "date": "2021-08-05",
+        "symbol": "ZTS",
+        "actualEarningResult": 1.19,
+        "estimatedEarning": 1.08
+    },
+    {
+        "date": "2021-05-06",
+        "symbol": "ZTS",
+        "actualEarningResult": 1.26,
+        "estimatedEarning": 1.03
+    },
+    {
+        "date": "2021-02-16",
+        "symbol": "ZTS",
+        "actualEarningResult": 0.91,
+        "estimatedEarning": 0.87
+    },
+    {
+        "date": "2020-11-05",
+        "symbol": "ZTS",
+        "actualEarningResult": 1.1,
+        "estimatedEarning": 0.92
+    },
+    {
+        "date": "2020-08-06",
+        "symbol": "ZTS",
+        "actualEarningResult": 0.89,
+        "estimatedEarning": 0.64
+    },
+    {
+        "date": "2020-05-06",
+        "symbol": "ZTS",
+        "actualEarningResult": 0.95,
+        "estimatedEarning": 0.86
+    },
+    {
+        "date": "2020-02-13",
+        "symbol": "ZTS",
+        "actualEarningResult": 0.92,
+        "estimatedEarning": 0.88
+    },
+    {
+        "date": "2019-11-07",
+        "symbol": "ZTS",
+        "actualEarningResult": 0.94,
+        "estimatedEarning": 0.88
+    },
+    {
+        "date": "2019-08-06",
+        "symbol": "ZTS",
+        "actualEarningResult": 0.9,
+        "estimatedEarning": 0.82
+    },
+    {
+        "date": "2019-05-02",
+        "symbol": "ZTS",
+        "actualEarningResult": 0.88,
+        "estimatedEarning": 0.79
+    },
+    {
+        "date": "2019-02-14",
+        "symbol": "ZTS",
+        "actualEarningResult": 0.79,
+        "estimatedEarning": 0.77
+    },
+    {
+        "date": "2018-11-01",
+        "symbol": "ZTS",
+        "actualEarningResult": 0.83,
+        "estimatedEarning": 0.77
+    },
+    {
+        "date": "2018-08-02",
+        "symbol": "ZTS",
+        "actualEarningResult": 0.77,
+        "estimatedEarning": 0.7
+    },
+    {
+        "date": "2018-05-02",
+        "symbol": "ZTS",
+        "actualEarningResult": 0.75,
+        "estimatedEarning": 0.69
+    },
+    {
+        "date": "2018-02-15",
+        "symbol": "ZTS",
+        "actualEarningResult": 0.69,
+        "estimatedEarning": 0.66
+    },
+    {
+        "date": "2017-11-02",
+        "symbol": "ZTS",
+        "actualEarningResult": 0.65,
+        "estimatedEarning": 0.62
+    },
+    {
+        "date": "2017-08-08",
+        "symbol": "ZTS",
+        "actualEarningResult": 0.53,
+        "estimatedEarning": 0.53
+    },
+    {
+        "date": "2017-05-04",
+        "symbol": "ZTS",
+        "actualEarningResult": 0.53,
+        "estimatedEarning": 0.48
+    },
+    {
+        "date": "2017-02-16",
+        "symbol": "ZTS",
+        "actualEarningResult": 0.47,
+        "estimatedEarning": 0.45
+    },
+    {
+        "date": "2016-11-02",
+        "symbol": "ZTS",
+        "actualEarningResult": 0.52,
+        "estimatedEarning": 0.46
+    },
+    {
+        "date": "2016-08-03",
+        "symbol": "ZTS",
+        "actualEarningResult": 0.49,
+        "estimatedEarning": 0.44
+    },
+    {
+        "date": "2016-05-04",
+        "symbol": "ZTS",
+        "actualEarningResult": 0.48,
+        "estimatedEarning": 0.41
+    },
+    {
+        "date": "2016-02-16",
+        "symbol": "ZTS",
+        "actualEarningResult": 0.43,
+        "estimatedEarning": 0.39
+    },
+    {
+        "date": "2015-11-03",
+        "symbol": "ZTS",
+        "actualEarningResult": 0.5,
+        "estimatedEarning": 0.4
+    },
+    {
+        "date": "2015-08-04",
+        "symbol": "ZTS",
+        "actualEarningResult": 0.43,
+        "estimatedEarning": 0.38
+    },
+    {
+        "date": "2015-05-05",
+        "symbol": "ZTS",
+        "actualEarningResult": 0.41,
+        "estimatedEarning": 0.37
+    },
+    {
+        "date": "2015-02-11",
+        "symbol": "ZTS",
+        "actualEarningResult": 0.4,
+        "estimatedEarning": 0.36
+    },
+    {
+        "date": "2014-11-04",
+        "symbol": "ZTS",
+        "actualEarningResult": 0.41,
+        "estimatedEarning": 0.37
+    },
+    {
+        "date": "2014-08-05",
+        "symbol": "ZTS",
+        "actualEarningResult": 0.38,
+        "estimatedEarning": 0.39
+    },
+    {
+        "date": "2014-05-06",
+        "symbol": "ZTS",
+        "actualEarningResult": 0.38,
+        "estimatedEarning": 0.37
+    },
+    {
+        "date": "2014-02-11",
+        "symbol": "ZTS",
+        "actualEarningResult": 0.36,
+        "estimatedEarning": 0.35
+    },
+    {
+        "date": "2013-11-05",
+        "symbol": "ZTS",
+        "actualEarningResult": 0.34,
+        "estimatedEarning": 0.35
+    },
+    {
+        "date": "2013-08-06",
+        "symbol": "ZTS",
+        "actualEarningResult": 0.36,
+        "estimatedEarning": 0.36
+    },
+    {
+        "date": "2013-04-30",
+        "symbol": "ZTS",
+        "actualEarningResult": 0.36,
+        "estimatedEarning": 0.33
+    }
+]

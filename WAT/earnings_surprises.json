@@ -1,0 +1,698 @@
+[
+    {
+        "date": "2024-11-01",
+        "symbol": "WAT",
+        "actualEarningResult": 2.93,
+        "estimatedEarning": 2.68
+    },
+    {
+        "date": "2024-07-31",
+        "symbol": "WAT",
+        "actualEarningResult": 2.63,
+        "estimatedEarning": 2.56
+    },
+    {
+        "date": "2024-05-07",
+        "symbol": "WAT",
+        "actualEarningResult": 2.21,
+        "estimatedEarning": 2.1
+    },
+    {
+        "date": "2024-02-06",
+        "symbol": "WAT",
+        "actualEarningResult": 3.62,
+        "estimatedEarning": 3.55
+    },
+    {
+        "date": "2023-11-07",
+        "symbol": "WAT",
+        "actualEarningResult": 2.84,
+        "estimatedEarning": 2.56
+    },
+    {
+        "date": "2023-08-02",
+        "symbol": "WAT",
+        "actualEarningResult": 2.8,
+        "estimatedEarning": 2.59
+    },
+    {
+        "date": "2023-05-09",
+        "symbol": "WAT",
+        "actualEarningResult": 2.49,
+        "estimatedEarning": 2.61
+    },
+    {
+        "date": "2023-02-15",
+        "symbol": "WAT",
+        "actualEarningResult": 3.84,
+        "estimatedEarning": 3.73
+    },
+    {
+        "date": "2022-11-01",
+        "symbol": "WAT",
+        "actualEarningResult": 2.64,
+        "estimatedEarning": 2.57
+    },
+    {
+        "date": "2022-08-02",
+        "symbol": "WAT",
+        "actualEarningResult": 2.75,
+        "estimatedEarning": 2.66
+    },
+    {
+        "date": "2022-05-03",
+        "symbol": "WAT",
+        "actualEarningResult": 2.8,
+        "estimatedEarning": 2.32
+    },
+    {
+        "date": "2022-02-01",
+        "symbol": "WAT",
+        "actualEarningResult": 3.67,
+        "estimatedEarning": 3.47
+    },
+    {
+        "date": "2021-11-02",
+        "symbol": "WAT",
+        "actualEarningResult": 2.66,
+        "estimatedEarning": 2.35
+    },
+    {
+        "date": "2021-08-03",
+        "symbol": "WAT",
+        "actualEarningResult": 2.6,
+        "estimatedEarning": 2.25
+    },
+    {
+        "date": "2021-05-05",
+        "symbol": "WAT",
+        "actualEarningResult": 2.29,
+        "estimatedEarning": 1.57
+    },
+    {
+        "date": "2021-02-02",
+        "symbol": "WAT",
+        "actualEarningResult": 3.65,
+        "estimatedEarning": 2.89
+    },
+    {
+        "date": "2020-10-27",
+        "symbol": "WAT",
+        "actualEarningResult": 2.16,
+        "estimatedEarning": 1.93
+    },
+    {
+        "date": "2020-07-28",
+        "symbol": "WAT",
+        "actualEarningResult": 2.1,
+        "estimatedEarning": 1.54
+    },
+    {
+        "date": "2020-04-28",
+        "symbol": "WAT",
+        "actualEarningResult": 1.15,
+        "estimatedEarning": 1.42
+    },
+    {
+        "date": "2020-02-04",
+        "symbol": "WAT",
+        "actualEarningResult": 3.2,
+        "estimatedEarning": 3.01
+    },
+    {
+        "date": "2019-10-29",
+        "symbol": "WAT",
+        "actualEarningResult": 2.13,
+        "estimatedEarning": 2.13
+    },
+    {
+        "date": "2019-07-30",
+        "symbol": "WAT",
+        "actualEarningResult": 2.14,
+        "estimatedEarning": 2.11
+    },
+    {
+        "date": "2019-04-23",
+        "symbol": "WAT",
+        "actualEarningResult": 1.6,
+        "estimatedEarning": 1.72
+    },
+    {
+        "date": "2019-01-23",
+        "symbol": "WAT",
+        "actualEarningResult": 2.87,
+        "estimatedEarning": 2.64
+    },
+    {
+        "date": "2018-10-23",
+        "symbol": "WAT",
+        "actualEarningResult": 1.92,
+        "estimatedEarning": 1.9
+    },
+    {
+        "date": "2018-07-24",
+        "symbol": "WAT",
+        "actualEarningResult": 1.95,
+        "estimatedEarning": 1.92
+    },
+    {
+        "date": "2018-04-24",
+        "symbol": "WAT",
+        "actualEarningResult": 1.59,
+        "estimatedEarning": 1.55
+    },
+    {
+        "date": "2018-01-23",
+        "symbol": "WAT",
+        "actualEarningResult": 2.51,
+        "estimatedEarning": 2.44
+    },
+    {
+        "date": "2017-10-24",
+        "symbol": "WAT",
+        "actualEarningResult": 1.77,
+        "estimatedEarning": 1.74
+    },
+    {
+        "date": "2017-07-25",
+        "symbol": "WAT",
+        "actualEarningResult": 1.76,
+        "estimatedEarning": 1.71
+    },
+    {
+        "date": "2017-04-25",
+        "symbol": "WAT",
+        "actualEarningResult": 1.46,
+        "estimatedEarning": 1.33
+    },
+    {
+        "date": "2017-01-24",
+        "symbol": "WAT",
+        "actualEarningResult": 2.21,
+        "estimatedEarning": 2.13
+    },
+    {
+        "date": "2016-10-25",
+        "symbol": "WAT",
+        "actualEarningResult": 1.57,
+        "estimatedEarning": 1.57
+    },
+    {
+        "date": "2016-07-26",
+        "symbol": "WAT",
+        "actualEarningResult": 1.58,
+        "estimatedEarning": 1.45
+    },
+    {
+        "date": "2016-04-26",
+        "symbol": "WAT",
+        "actualEarningResult": 1.26,
+        "estimatedEarning": 1.23
+    },
+    {
+        "date": "2016-01-26",
+        "symbol": "WAT",
+        "actualEarningResult": 1.96,
+        "estimatedEarning": 1.95
+    },
+    {
+        "date": "2015-10-27",
+        "symbol": "WAT",
+        "actualEarningResult": 1.42,
+        "estimatedEarning": 1.4
+    },
+    {
+        "date": "2015-07-28",
+        "symbol": "WAT",
+        "actualEarningResult": 1.32,
+        "estimatedEarning": 1.27
+    },
+    {
+        "date": "2015-04-28",
+        "symbol": "WAT",
+        "actualEarningResult": 1.21,
+        "estimatedEarning": 1.02
+    },
+    {
+        "date": "2015-01-26",
+        "symbol": "WAT",
+        "actualEarningResult": 1.99,
+        "estimatedEarning": 1.89
+    },
+    {
+        "date": "2014-10-21",
+        "symbol": "WAT",
+        "actualEarningResult": 1.38,
+        "estimatedEarning": 1.28
+    },
+    {
+        "date": "2014-07-22",
+        "symbol": "WAT",
+        "actualEarningResult": 1.22,
+        "estimatedEarning": 1.21
+    },
+    {
+        "date": "2014-04-29",
+        "symbol": "WAT",
+        "actualEarningResult": 0.92,
+        "estimatedEarning": 1.12
+    },
+    {
+        "date": "2014-01-28",
+        "symbol": "WAT",
+        "actualEarningResult": 1.7,
+        "estimatedEarning": 1.61
+    },
+    {
+        "date": "2013-10-22",
+        "symbol": "WAT",
+        "actualEarningResult": 1.19,
+        "estimatedEarning": 1.22
+    },
+    {
+        "date": "2013-07-23",
+        "symbol": "WAT",
+        "actualEarningResult": 1.08,
+        "estimatedEarning": 1.21
+    },
+    {
+        "date": "2013-04-23",
+        "symbol": "WAT",
+        "actualEarningResult": 1.07,
+        "estimatedEarning": 1.09
+    },
+    {
+        "date": "2013-01-22",
+        "symbol": "WAT",
+        "actualEarningResult": 1.59,
+        "estimatedEarning": 1.58
+    },
+    {
+        "date": "2012-10-23",
+        "symbol": "WAT",
+        "actualEarningResult": 1.18,
+        "estimatedEarning": 1.18
+    },
+    {
+        "date": "2012-07-24",
+        "symbol": "WAT",
+        "actualEarningResult": 1.17,
+        "estimatedEarning": 1.16
+    },
+    {
+        "date": "2012-04-24",
+        "symbol": "WAT",
+        "actualEarningResult": 1,
+        "estimatedEarning": 1.09
+    },
+    {
+        "date": "2012-01-24",
+        "symbol": "WAT",
+        "actualEarningResult": 1.56,
+        "estimatedEarning": 1.5
+    },
+    {
+        "date": "2011-10-25",
+        "symbol": "WAT",
+        "actualEarningResult": 1.14,
+        "estimatedEarning": 1.13
+    },
+    {
+        "date": "2011-07-26",
+        "symbol": "WAT",
+        "actualEarningResult": 1.08,
+        "estimatedEarning": 1.14
+    },
+    {
+        "date": "2011-04-26",
+        "symbol": "WAT",
+        "actualEarningResult": 1.04,
+        "estimatedEarning": 0.95
+    },
+    {
+        "date": "2011-01-25",
+        "symbol": "WAT",
+        "actualEarningResult": 1.38,
+        "estimatedEarning": 1.31
+    },
+    {
+        "date": "2010-10-26",
+        "symbol": "WAT",
+        "actualEarningResult": 0.98,
+        "estimatedEarning": 0.97
+    },
+    {
+        "date": "2010-07-28",
+        "symbol": "WAT",
+        "actualEarningResult": 0.93,
+        "estimatedEarning": 0.9
+    },
+    {
+        "date": "2010-04-27",
+        "symbol": "WAT",
+        "actualEarningResult": 0.81,
+        "estimatedEarning": 0.78
+    },
+    {
+        "date": "2010-01-26",
+        "symbol": "WAT",
+        "actualEarningResult": 1.12,
+        "estimatedEarning": 1.09
+    },
+    {
+        "date": "2009-10-27",
+        "symbol": "WAT",
+        "actualEarningResult": 0.81,
+        "estimatedEarning": 0.77
+    },
+    {
+        "date": "2009-07-28",
+        "symbol": "WAT",
+        "actualEarningResult": 0.78,
+        "estimatedEarning": 0.79
+    },
+    {
+        "date": "2009-04-28",
+        "symbol": "WAT",
+        "actualEarningResult": 0.74,
+        "estimatedEarning": 0.57
+    },
+    {
+        "date": "2009-01-27",
+        "symbol": "WAT",
+        "actualEarningResult": 1.07,
+        "estimatedEarning": 0.96
+    },
+    {
+        "date": "2008-10-21",
+        "symbol": "WAT",
+        "actualEarningResult": 0.79,
+        "estimatedEarning": 0.74
+    },
+    {
+        "date": "2008-07-22",
+        "symbol": "WAT",
+        "actualEarningResult": 0.76,
+        "estimatedEarning": 0.71
+    },
+    {
+        "date": "2008-04-22",
+        "symbol": "WAT",
+        "actualEarningResult": 0.69,
+        "estimatedEarning": 0.64
+    },
+    {
+        "date": "2008-01-22",
+        "symbol": "WAT",
+        "actualEarningResult": 0.98,
+        "estimatedEarning": 1.06
+    },
+    {
+        "date": "2007-10-23",
+        "symbol": "WAT",
+        "actualEarningResult": 0.62,
+        "estimatedEarning": 0.6
+    },
+    {
+        "date": "2007-07-24",
+        "symbol": "WAT",
+        "actualEarningResult": 0.6,
+        "estimatedEarning": 0.58
+    },
+    {
+        "date": "2007-04-24",
+        "symbol": "WAT",
+        "actualEarningResult": 0.56,
+        "estimatedEarning": 0.53
+    },
+    {
+        "date": "2007-01-24",
+        "symbol": "WAT",
+        "actualEarningResult": 0.83,
+        "estimatedEarning": 0.79
+    },
+    {
+        "date": "2006-10-24",
+        "symbol": "WAT",
+        "actualEarningResult": 0.49,
+        "estimatedEarning": 0.46
+    },
+    {
+        "date": "2006-07-25",
+        "symbol": "WAT",
+        "actualEarningResult": 0.48,
+        "estimatedEarning": 0.47
+    },
+    {
+        "date": "2006-04-26",
+        "symbol": "WAT",
+        "actualEarningResult": 0.45,
+        "estimatedEarning": 0.42
+    },
+    {
+        "date": "2006-01-24",
+        "symbol": "WAT",
+        "actualEarningResult": 0.73,
+        "estimatedEarning": 0.64
+    },
+    {
+        "date": "2005-10-25",
+        "symbol": "WAT",
+        "actualEarningResult": 0.43,
+        "estimatedEarning": 0.43
+    },
+    {
+        "date": "2005-07-26",
+        "symbol": "WAT",
+        "actualEarningResult": 0.46,
+        "estimatedEarning": 0.43
+    },
+    {
+        "date": "2005-04-26",
+        "symbol": "WAT",
+        "actualEarningResult": 0.38,
+        "estimatedEarning": 0.36
+    },
+    {
+        "date": "2005-01-27",
+        "symbol": "WAT",
+        "actualEarningResult": 0.62,
+        "estimatedEarning": 0.59
+    },
+    {
+        "date": "2004-10-26",
+        "symbol": "WAT",
+        "actualEarningResult": 0.42,
+        "estimatedEarning": 0.42
+    },
+    {
+        "date": "2004-07-27",
+        "symbol": "WAT",
+        "actualEarningResult": 0.4,
+        "estimatedEarning": 0.41
+    },
+    {
+        "date": "2004-04-28",
+        "symbol": "WAT",
+        "actualEarningResult": 0.37,
+        "estimatedEarning": 0.35
+    },
+    {
+        "date": "2004-01-29",
+        "symbol": "WAT",
+        "actualEarningResult": 0.48,
+        "estimatedEarning": 0.47
+    },
+    {
+        "date": "2003-10-22",
+        "symbol": "WAT",
+        "actualEarningResult": 0.33,
+        "estimatedEarning": 0.33
+    },
+    {
+        "date": "2003-07-22",
+        "symbol": "WAT",
+        "actualEarningResult": 0.33,
+        "estimatedEarning": 0.32
+    },
+    {
+        "date": "2003-04-22",
+        "symbol": "WAT",
+        "actualEarningResult": 0.3,
+        "estimatedEarning": 0.3
+    },
+    {
+        "date": "2003-01-28",
+        "symbol": "WAT",
+        "actualEarningResult": 0.41,
+        "estimatedEarning": 0.39
+    },
+    {
+        "date": "2002-10-22",
+        "symbol": "WAT",
+        "actualEarningResult": 0.29,
+        "estimatedEarning": 0.3
+    },
+    {
+        "date": "2002-07-23",
+        "symbol": "WAT",
+        "actualEarningResult": 0.28,
+        "estimatedEarning": 0.29
+    },
+    {
+        "date": "2002-04-23",
+        "symbol": "WAT",
+        "actualEarningResult": 0.27,
+        "estimatedEarning": 0.28
+    },
+    {
+        "date": "2002-01-24",
+        "symbol": "WAT",
+        "actualEarningResult": 0.43,
+        "estimatedEarning": 0.42
+    },
+    {
+        "date": "2001-10-23",
+        "symbol": "WAT",
+        "actualEarningResult": 0.28,
+        "estimatedEarning": 0.28
+    },
+    {
+        "date": "2001-07-24",
+        "symbol": "WAT",
+        "actualEarningResult": 0.29,
+        "estimatedEarning": 0.29
+    },
+    {
+        "date": "2001-04-27",
+        "symbol": "WAT",
+        "actualEarningResult": 0.28,
+        "estimatedEarning": 0.26
+    },
+    {
+        "date": "2001-01-30",
+        "symbol": "WAT",
+        "actualEarningResult": 0.37,
+        "estimatedEarning": 0.35
+    },
+    {
+        "date": "2000-10-19",
+        "symbol": "WAT",
+        "actualEarningResult": 0.28,
+        "estimatedEarning": 0.27
+    },
+    {
+        "date": "2000-07-31",
+        "symbol": "WAT",
+        "actualEarningResult": 0.28,
+        "estimatedEarning": 0.26
+    },
+    {
+        "date": "2000-04-27",
+        "symbol": "WAT",
+        "actualEarningResult": 0.23,
+        "estimatedEarning": 0.22
+    },
+    {
+        "date": "2000-01-24",
+        "symbol": "WAT",
+        "actualEarningResult": 0.32,
+        "estimatedEarning": 0.29
+    },
+    {
+        "date": "1999-10-25",
+        "symbol": "WAT",
+        "actualEarningResult": 0.22,
+        "estimatedEarning": 0.21
+    },
+    {
+        "date": "1999-07-26",
+        "symbol": "WAT",
+        "actualEarningResult": 0.22,
+        "estimatedEarning": 0.19
+    },
+    {
+        "date": "1999-04-26",
+        "symbol": "WAT",
+        "actualEarningResult": 0.19,
+        "estimatedEarning": 0.16
+    },
+    {
+        "date": "1999-01-25",
+        "symbol": "WAT",
+        "actualEarningResult": 0.25,
+        "estimatedEarning": 0.24
+    },
+    {
+        "date": "1998-10-26",
+        "symbol": "WAT",
+        "actualEarningResult": 0.17,
+        "estimatedEarning": 0.14
+    },
+    {
+        "date": "1998-07-27",
+        "symbol": "WAT",
+        "actualEarningResult": 0.17,
+        "estimatedEarning": 0.14
+    },
+    {
+        "date": "1998-04-27",
+        "symbol": "WAT",
+        "actualEarningResult": 0.13,
+        "estimatedEarning": 0.11
+    },
+    {
+        "date": "1998-01-26",
+        "symbol": "WAT",
+        "actualEarningResult": 0.17,
+        "estimatedEarning": 0.16
+    },
+    {
+        "date": "1997-10-20",
+        "symbol": "WAT",
+        "actualEarningResult": 0.11,
+        "estimatedEarning": 0.1
+    },
+    {
+        "date": "1997-07-21",
+        "symbol": "WAT",
+        "actualEarningResult": 0.12,
+        "estimatedEarning": 0.11
+    },
+    {
+        "date": "1997-04-21",
+        "symbol": "WAT",
+        "actualEarningResult": 0.1,
+        "estimatedEarning": 0.09
+    },
+    {
+        "date": "1997-01-23",
+        "symbol": "WAT",
+        "actualEarningResult": 0.12,
+        "estimatedEarning": 0.11
+    },
+    {
+        "date": "1996-10-24",
+        "symbol": "WAT",
+        "actualEarningResult": 0.08,
+        "estimatedEarning": 0.07
+    },
+    {
+        "date": "1996-07-25",
+        "symbol": "WAT",
+        "actualEarningResult": 0.09,
+        "estimatedEarning": 0.09
+    },
+    {
+        "date": "1996-04-25",
+        "symbol": "WAT",
+        "actualEarningResult": 0.07,
+        "estimatedEarning": 0.06
+    },
+    {
+        "date": "1996-01-25",
+        "symbol": "WAT",
+        "actualEarningResult": 0.09,
+        "estimatedEarning": 0.07
+    }
+]

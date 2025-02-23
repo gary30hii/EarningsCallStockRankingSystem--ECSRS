@@ -1,0 +1,680 @@
+[
+    {
+        "date": "2024-11-06",
+        "symbol": "ANSS",
+        "actualEarningResult": 2.58,
+        "estimatedEarning": 1.76
+    },
+    {
+        "date": "2024-07-31",
+        "symbol": "ANSS",
+        "actualEarningResult": 2.5,
+        "estimatedEarning": 1.92
+    },
+    {
+        "date": "2024-05-01",
+        "symbol": "ANSS",
+        "actualEarningResult": 1.39,
+        "estimatedEarning": 1.92
+    },
+    {
+        "date": "2024-02-21",
+        "symbol": "ANSS",
+        "actualEarningResult": 3.94,
+        "estimatedEarning": 3.71
+    },
+    {
+        "date": "2023-11-01",
+        "symbol": "ANSS",
+        "actualEarningResult": 1.41,
+        "estimatedEarning": 1.26
+    },
+    {
+        "date": "2023-08-02",
+        "symbol": "ANSS",
+        "actualEarningResult": 1.6,
+        "estimatedEarning": 1.49
+    },
+    {
+        "date": "2023-05-03",
+        "symbol": "ANSS",
+        "actualEarningResult": 1.85,
+        "estimatedEarning": 1.59
+    },
+    {
+        "date": "2023-02-22",
+        "symbol": "ANSS",
+        "actualEarningResult": 3.09,
+        "estimatedEarning": 2.8
+    },
+    {
+        "date": "2022-11-02",
+        "symbol": "ANSS",
+        "actualEarningResult": 1.77,
+        "estimatedEarning": 1.62
+    },
+    {
+        "date": "2022-08-03",
+        "symbol": "ANSS",
+        "actualEarningResult": 1.77,
+        "estimatedEarning": 1.61
+    },
+    {
+        "date": "2022-05-04",
+        "symbol": "ANSS",
+        "actualEarningResult": 1.36,
+        "estimatedEarning": 1.14
+    },
+    {
+        "date": "2022-02-23",
+        "symbol": "ANSS",
+        "actualEarningResult": 2.81,
+        "estimatedEarning": 2.71
+    },
+    {
+        "date": "2021-11-03",
+        "symbol": "ANSS",
+        "actualEarningResult": 1.59,
+        "estimatedEarning": 1.34
+    },
+    {
+        "date": "2021-08-04",
+        "symbol": "ANSS",
+        "actualEarningResult": 1.85,
+        "estimatedEarning": 1.51
+    },
+    {
+        "date": "2021-05-05",
+        "symbol": "ANSS",
+        "actualEarningResult": 1.12,
+        "estimatedEarning": 0.85
+    },
+    {
+        "date": "2021-02-24",
+        "symbol": "ANSS",
+        "actualEarningResult": 2.96,
+        "estimatedEarning": 2.54
+    },
+    {
+        "date": "2020-11-04",
+        "symbol": "ANSS",
+        "actualEarningResult": 1.36,
+        "estimatedEarning": 1.26
+    },
+    {
+        "date": "2020-08-05",
+        "symbol": "ANSS",
+        "actualEarningResult": 1.55,
+        "estimatedEarning": 1.16
+    },
+    {
+        "date": "2020-05-06",
+        "symbol": "ANSS",
+        "actualEarningResult": 0.83,
+        "estimatedEarning": 0.78
+    },
+    {
+        "date": "2020-02-26",
+        "symbol": "ANSS",
+        "actualEarningResult": 2.24,
+        "estimatedEarning": 1.98
+    },
+    {
+        "date": "2019-11-06",
+        "symbol": "ANSS",
+        "actualEarningResult": 1.42,
+        "estimatedEarning": 1.25
+    },
+    {
+        "date": "2019-08-05",
+        "symbol": "ANSS",
+        "actualEarningResult": 1.61,
+        "estimatedEarning": 1.28
+    },
+    {
+        "date": "2019-05-01",
+        "symbol": "ANSS",
+        "actualEarningResult": 1.29,
+        "estimatedEarning": 1.1
+    },
+    {
+        "date": "2019-02-27",
+        "symbol": "ANSS",
+        "actualEarningResult": 2.13,
+        "estimatedEarning": 1.49
+    },
+    {
+        "date": "2018-11-07",
+        "symbol": "ANSS",
+        "actualEarningResult": 1.31,
+        "estimatedEarning": 1.09
+    },
+    {
+        "date": "2018-08-06",
+        "symbol": "ANSS",
+        "actualEarningResult": 1.35,
+        "estimatedEarning": 1.1
+    },
+    {
+        "date": "2018-05-02",
+        "symbol": "ANSS",
+        "actualEarningResult": 1.2,
+        "estimatedEarning": 1.04
+    },
+    {
+        "date": "2018-02-21",
+        "symbol": "ANSS",
+        "actualEarningResult": 1.07,
+        "estimatedEarning": 1.04
+    },
+    {
+        "date": "2017-11-01",
+        "symbol": "ANSS",
+        "actualEarningResult": 1.05,
+        "estimatedEarning": 0.97
+    },
+    {
+        "date": "2017-08-02",
+        "symbol": "ANSS",
+        "actualEarningResult": 0.99,
+        "estimatedEarning": 0.92
+    },
+    {
+        "date": "2017-05-03",
+        "symbol": "ANSS",
+        "actualEarningResult": 0.89,
+        "estimatedEarning": 0.84
+    },
+    {
+        "date": "2017-02-22",
+        "symbol": "ANSS",
+        "actualEarningResult": 0.98,
+        "estimatedEarning": 0.96
+    },
+    {
+        "date": "2016-11-03",
+        "symbol": "ANSS",
+        "actualEarningResult": 0.95,
+        "estimatedEarning": 0.92
+    },
+    {
+        "date": "2016-08-04",
+        "symbol": "ANSS",
+        "actualEarningResult": 0.93,
+        "estimatedEarning": 0.88
+    },
+    {
+        "date": "2016-05-05",
+        "symbol": "ANSS",
+        "actualEarningResult": 0.77,
+        "estimatedEarning": 0.76
+    },
+    {
+        "date": "2016-02-25",
+        "symbol": "ANSS",
+        "actualEarningResult": 0.91,
+        "estimatedEarning": 0.87
+    },
+    {
+        "date": "2015-11-05",
+        "symbol": "ANSS",
+        "actualEarningResult": 0.9,
+        "estimatedEarning": 0.87
+    },
+    {
+        "date": "2015-08-05",
+        "symbol": "ANSS",
+        "actualEarningResult": 0.85,
+        "estimatedEarning": 0.82
+    },
+    {
+        "date": "2015-05-06",
+        "symbol": "ANSS",
+        "actualEarningResult": 0.77,
+        "estimatedEarning": 0.77
+    },
+    {
+        "date": "2015-02-26",
+        "symbol": "ANSS",
+        "actualEarningResult": 0.92,
+        "estimatedEarning": 0.81
+    },
+    {
+        "date": "2014-11-05",
+        "symbol": "ANSS",
+        "actualEarningResult": 0.89,
+        "estimatedEarning": 0.82
+    },
+    {
+        "date": "2014-08-05",
+        "symbol": "ANSS",
+        "actualEarningResult": 0.86,
+        "estimatedEarning": 0.8
+    },
+    {
+        "date": "2014-05-01",
+        "symbol": "ANSS",
+        "actualEarningResult": 0.76,
+        "estimatedEarning": 0.76
+    },
+    {
+        "date": "2014-02-27",
+        "symbol": "ANSS",
+        "actualEarningResult": 0.96,
+        "estimatedEarning": 0.86
+    },
+    {
+        "date": "2013-11-07",
+        "symbol": "ANSS",
+        "actualEarningResult": 0.78,
+        "estimatedEarning": 0.75
+    },
+    {
+        "date": "2013-08-01",
+        "symbol": "ANSS",
+        "actualEarningResult": 0.77,
+        "estimatedEarning": 0.71
+    },
+    {
+        "date": "2013-05-02",
+        "symbol": "ANSS",
+        "actualEarningResult": 0.71,
+        "estimatedEarning": 0.69
+    },
+    {
+        "date": "2013-02-28",
+        "symbol": "ANSS",
+        "actualEarningResult": 0.79,
+        "estimatedEarning": 0.74
+    },
+    {
+        "date": "2012-11-01",
+        "symbol": "ANSS",
+        "actualEarningResult": 0.74,
+        "estimatedEarning": 0.69
+    },
+    {
+        "date": "2012-08-02",
+        "symbol": "ANSS",
+        "actualEarningResult": 0.72,
+        "estimatedEarning": 0.66
+    },
+    {
+        "date": "2012-05-03",
+        "symbol": "ANSS",
+        "actualEarningResult": 0.66,
+        "estimatedEarning": 0.66
+    },
+    {
+        "date": "2012-02-23",
+        "symbol": "ANSS",
+        "actualEarningResult": 0.73,
+        "estimatedEarning": 0.7
+    },
+    {
+        "date": "2011-11-03",
+        "symbol": "ANSS",
+        "actualEarningResult": 0.66,
+        "estimatedEarning": 0.62
+    },
+    {
+        "date": "2011-08-04",
+        "symbol": "ANSS",
+        "actualEarningResult": 0.62,
+        "estimatedEarning": 0.56
+    },
+    {
+        "date": "2011-05-05",
+        "symbol": "ANSS",
+        "actualEarningResult": 0.57,
+        "estimatedEarning": 0.55
+    },
+    {
+        "date": "2011-02-24",
+        "symbol": "ANSS",
+        "actualEarningResult": 0.65,
+        "estimatedEarning": 0.59
+    },
+    {
+        "date": "2010-11-04",
+        "symbol": "ANSS",
+        "actualEarningResult": 0.51,
+        "estimatedEarning": 0.48
+    },
+    {
+        "date": "2010-08-05",
+        "symbol": "ANSS",
+        "actualEarningResult": 0.5,
+        "estimatedEarning": 0.47
+    },
+    {
+        "date": "2010-05-06",
+        "symbol": "ANSS",
+        "actualEarningResult": 0.47,
+        "estimatedEarning": 0.43
+    },
+    {
+        "date": "2010-02-25",
+        "symbol": "ANSS",
+        "actualEarningResult": 0.53,
+        "estimatedEarning": 0.49
+    },
+    {
+        "date": "2009-11-05",
+        "symbol": "ANSS",
+        "actualEarningResult": 0.45,
+        "estimatedEarning": 0.41
+    },
+    {
+        "date": "2009-08-06",
+        "symbol": "ANSS",
+        "actualEarningResult": 0.43,
+        "estimatedEarning": 0.36
+    },
+    {
+        "date": "2009-05-07",
+        "symbol": "ANSS",
+        "actualEarningResult": 0.37,
+        "estimatedEarning": 0.36
+    },
+    {
+        "date": "2009-02-26",
+        "symbol": "ANSS",
+        "actualEarningResult": 0.5,
+        "estimatedEarning": 0.44
+    },
+    {
+        "date": "2008-11-06",
+        "symbol": "ANSS",
+        "actualEarningResult": 0.43,
+        "estimatedEarning": 0.37
+    },
+    {
+        "date": "2008-08-07",
+        "symbol": "ANSS",
+        "actualEarningResult": 0.42,
+        "estimatedEarning": 0.38
+    },
+    {
+        "date": "2008-05-01",
+        "symbol": "ANSS",
+        "actualEarningResult": 0.4,
+        "estimatedEarning": 0.33
+    },
+    {
+        "date": "2008-02-21",
+        "symbol": "ANSS",
+        "actualEarningResult": 0.37,
+        "estimatedEarning": 0.31
+    },
+    {
+        "date": "2007-11-01",
+        "symbol": "ANSS",
+        "actualEarningResult": 0.29,
+        "estimatedEarning": 0.25
+    },
+    {
+        "date": "2007-08-02",
+        "symbol": "ANSS",
+        "actualEarningResult": 0.29,
+        "estimatedEarning": 0.24
+    },
+    {
+        "date": "2007-05-03",
+        "symbol": "ANSS",
+        "actualEarningResult": 0.27,
+        "estimatedEarning": 0.23
+    },
+    {
+        "date": "2007-02-20",
+        "symbol": "ANSS",
+        "actualEarningResult": 0.25,
+        "estimatedEarning": 0.22
+    },
+    {
+        "date": "2006-11-02",
+        "symbol": "ANSS",
+        "actualEarningResult": 0.21,
+        "estimatedEarning": 0.18
+    },
+    {
+        "date": "2006-08-03",
+        "symbol": "ANSS",
+        "actualEarningResult": 0.2,
+        "estimatedEarning": 0.18
+    },
+    {
+        "date": "2006-04-27",
+        "symbol": "ANSS",
+        "actualEarningResult": 0.21,
+        "estimatedEarning": 0.18
+    },
+    {
+        "date": "2006-02-16",
+        "symbol": "ANSS",
+        "actualEarningResult": 0.21,
+        "estimatedEarning": 0.18
+    },
+    {
+        "date": "2005-11-03",
+        "symbol": "ANSS",
+        "actualEarningResult": 0.18,
+        "estimatedEarning": 0.15
+    },
+    {
+        "date": "2005-08-03",
+        "symbol": "ANSS",
+        "actualEarningResult": 0.16,
+        "estimatedEarning": 0.14
+    },
+    {
+        "date": "2005-05-03",
+        "symbol": "ANSS",
+        "actualEarningResult": 0.16,
+        "estimatedEarning": 0.14
+    },
+    {
+        "date": "2005-02-15",
+        "symbol": "ANSS",
+        "actualEarningResult": 0.18,
+        "estimatedEarning": 0.14
+    },
+    {
+        "date": "2004-11-04",
+        "symbol": "ANSS",
+        "actualEarningResult": 0.13,
+        "estimatedEarning": 0.11
+    },
+    {
+        "date": "2004-07-29",
+        "symbol": "ANSS",
+        "actualEarningResult": 0.13,
+        "estimatedEarning": 0.1
+    },
+    {
+        "date": "2004-05-04",
+        "symbol": "ANSS",
+        "actualEarningResult": 0.12,
+        "estimatedEarning": 0.09
+    },
+    {
+        "date": "2004-02-12",
+        "symbol": "ANSS",
+        "actualEarningResult": 0.13,
+        "estimatedEarning": 0.11
+    },
+    {
+        "date": "2003-11-05",
+        "symbol": "ANSS",
+        "actualEarningResult": 0.1,
+        "estimatedEarning": 0.08
+    },
+    {
+        "date": "2003-07-31",
+        "symbol": "ANSS",
+        "actualEarningResult": 0.09,
+        "estimatedEarning": 0.08
+    },
+    {
+        "date": "2003-04-30",
+        "symbol": "ANSS",
+        "actualEarningResult": 0.08,
+        "estimatedEarning": 0.07
+    },
+    {
+        "date": "2003-02-04",
+        "symbol": "ANSS",
+        "actualEarningResult": 0.11,
+        "estimatedEarning": 0.1
+    },
+    {
+        "date": "2002-10-24",
+        "symbol": "ANSS",
+        "actualEarningResult": 0.07,
+        "estimatedEarning": 0.07
+    },
+    {
+        "date": "2002-07-23",
+        "symbol": "ANSS",
+        "actualEarningResult": 0.08,
+        "estimatedEarning": 0.07
+    },
+    {
+        "date": "2002-04-24",
+        "symbol": "ANSS",
+        "actualEarningResult": 0.06,
+        "estimatedEarning": 0.06
+    },
+    {
+        "date": "2002-02-05",
+        "symbol": "ANSS",
+        "actualEarningResult": 0.1,
+        "estimatedEarning": 0.09
+    },
+    {
+        "date": "2001-10-25",
+        "symbol": "ANSS",
+        "actualEarningResult": 0.08,
+        "estimatedEarning": 0.05
+    },
+    {
+        "date": "2001-07-19",
+        "symbol": "ANSS",
+        "actualEarningResult": 0.07,
+        "estimatedEarning": 0.06
+    },
+    {
+        "date": "2001-04-18",
+        "symbol": "ANSS",
+        "actualEarningResult": 0.05,
+        "estimatedEarning": 0.07
+    },
+    {
+        "date": "2001-02-06",
+        "symbol": "ANSS",
+        "actualEarningResult": 0.08,
+        "estimatedEarning": 0.07
+    },
+    {
+        "date": "2000-10-25",
+        "symbol": "ANSS",
+        "actualEarningResult": 0.06,
+        "estimatedEarning": 0.06
+    },
+    {
+        "date": "2000-07-18",
+        "symbol": "ANSS",
+        "actualEarningResult": 0.06,
+        "estimatedEarning": 0.06
+    },
+    {
+        "date": "2000-04-19",
+        "symbol": "ANSS",
+        "actualEarningResult": 0.07,
+        "estimatedEarning": 0.06
+    },
+    {
+        "date": "2000-02-08",
+        "symbol": "ANSS",
+        "actualEarningResult": 0.06,
+        "estimatedEarning": 0.06
+    },
+    {
+        "date": "1999-10-19",
+        "symbol": "ANSS",
+        "actualEarningResult": 0.05,
+        "estimatedEarning": 0.05
+    },
+    {
+        "date": "1999-07-20",
+        "symbol": "ANSS",
+        "actualEarningResult": 0.05,
+        "estimatedEarning": 0.05
+    },
+    {
+        "date": "1999-04-22",
+        "symbol": "ANSS",
+        "actualEarningResult": 0.06,
+        "estimatedEarning": 0.04435
+    },
+    {
+        "date": "1999-02-03",
+        "symbol": "ANSS",
+        "actualEarningResult": 0.05,
+        "estimatedEarning": 0.05
+    },
+    {
+        "date": "1998-10-20",
+        "symbol": "ANSS",
+        "actualEarningResult": 0.04,
+        "estimatedEarning": 0.03875
+    },
+    {
+        "date": "1998-07-16",
+        "symbol": "ANSS",
+        "actualEarningResult": 0.04,
+        "estimatedEarning": 0.03412
+    },
+    {
+        "date": "1998-04-21",
+        "symbol": "ANSS",
+        "actualEarningResult": 0.04,
+        "estimatedEarning": 0.03294
+    },
+    {
+        "date": "1998-02-03",
+        "symbol": "ANSS",
+        "actualEarningResult": 0.04,
+        "estimatedEarning": 0.03341
+    },
+    {
+        "date": "1997-10-21",
+        "symbol": "ANSS",
+        "actualEarningResult": 0.03,
+        "estimatedEarning": 0.03
+    },
+    {
+        "date": "1997-07-21",
+        "symbol": "ANSS",
+        "actualEarningResult": 0.04,
+        "estimatedEarning": 0.03929
+    },
+    {
+        "date": "1997-04-21",
+        "symbol": "ANSS",
+        "actualEarningResult": 0.03,
+        "estimatedEarning": 0.02769
+    },
+    {
+        "date": "1997-02-12",
+        "symbol": "ANSS",
+        "actualEarningResult": 0.04,
+        "estimatedEarning": 0.03555
+    },
+    {
+        "date": "1996-10-21",
+        "symbol": "ANSS",
+        "actualEarningResult": 0.04,
+        "estimatedEarning": 0.035
+    }
+]

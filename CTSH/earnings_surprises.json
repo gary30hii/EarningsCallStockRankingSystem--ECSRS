@@ -1,0 +1,626 @@
+[
+    {
+        "date": "2024-10-30",
+        "symbol": "CTSH",
+        "actualEarningResult": 1.25,
+        "estimatedEarning": 1.15
+    },
+    {
+        "date": "2024-07-31",
+        "symbol": "CTSH",
+        "actualEarningResult": 1.17,
+        "estimatedEarning": 1.12
+    },
+    {
+        "date": "2024-05-01",
+        "symbol": "CTSH",
+        "actualEarningResult": 1.12,
+        "estimatedEarning": 1.11
+    },
+    {
+        "date": "2024-02-06",
+        "symbol": "CTSH",
+        "actualEarningResult": 1.18,
+        "estimatedEarning": 1.04
+    },
+    {
+        "date": "2023-11-01",
+        "symbol": "CTSH",
+        "actualEarningResult": 1.16,
+        "estimatedEarning": 1.09
+    },
+    {
+        "date": "2023-08-02",
+        "symbol": "CTSH",
+        "actualEarningResult": 1.1,
+        "estimatedEarning": 0.99
+    },
+    {
+        "date": "2023-05-03",
+        "symbol": "CTSH",
+        "actualEarningResult": 1.11,
+        "estimatedEarning": 1.04
+    },
+    {
+        "date": "2023-02-02",
+        "symbol": "CTSH",
+        "actualEarningResult": 1.01,
+        "estimatedEarning": 1.02
+    },
+    {
+        "date": "2022-11-02",
+        "symbol": "CTSH",
+        "actualEarningResult": 1.17,
+        "estimatedEarning": 1.16
+    },
+    {
+        "date": "2022-07-27",
+        "symbol": "CTSH",
+        "actualEarningResult": 1.14,
+        "estimatedEarning": 1.08
+    },
+    {
+        "date": "2022-05-04",
+        "symbol": "CTSH",
+        "actualEarningResult": 1.08,
+        "estimatedEarning": 1.04
+    },
+    {
+        "date": "2022-02-02",
+        "symbol": "CTSH",
+        "actualEarningResult": 1.1,
+        "estimatedEarning": 1.04
+    },
+    {
+        "date": "2021-10-27",
+        "symbol": "CTSH",
+        "actualEarningResult": 1.06,
+        "estimatedEarning": 1.05
+    },
+    {
+        "date": "2021-07-28",
+        "symbol": "CTSH",
+        "actualEarningResult": 0.99,
+        "estimatedEarning": 0.96
+    },
+    {
+        "date": "2021-05-05",
+        "symbol": "CTSH",
+        "actualEarningResult": 0.97,
+        "estimatedEarning": 0.94
+    },
+    {
+        "date": "2021-02-03",
+        "symbol": "CTSH",
+        "actualEarningResult": 0.67,
+        "estimatedEarning": 0.9
+    },
+    {
+        "date": "2020-10-28",
+        "symbol": "CTSH",
+        "actualEarningResult": 0.97,
+        "estimatedEarning": 0.9
+    },
+    {
+        "date": "2020-07-29",
+        "symbol": "CTSH",
+        "actualEarningResult": 0.82,
+        "estimatedEarning": 0.69
+    },
+    {
+        "date": "2020-05-07",
+        "symbol": "CTSH",
+        "actualEarningResult": 0.96,
+        "estimatedEarning": 0.92
+    },
+    {
+        "date": "2020-02-05",
+        "symbol": "CTSH",
+        "actualEarningResult": 1.07,
+        "estimatedEarning": 1.04
+    },
+    {
+        "date": "2019-10-30",
+        "symbol": "CTSH",
+        "actualEarningResult": 1.08,
+        "estimatedEarning": 1.05
+    },
+    {
+        "date": "2019-07-31",
+        "symbol": "CTSH",
+        "actualEarningResult": 0.94,
+        "estimatedEarning": 0.92
+    },
+    {
+        "date": "2019-05-02",
+        "symbol": "CTSH",
+        "actualEarningResult": 0.91,
+        "estimatedEarning": 1.04
+    },
+    {
+        "date": "2019-02-06",
+        "symbol": "CTSH",
+        "actualEarningResult": 1.13,
+        "estimatedEarning": 1.07
+    },
+    {
+        "date": "2018-10-30",
+        "symbol": "CTSH",
+        "actualEarningResult": 1.19,
+        "estimatedEarning": 1.13
+    },
+    {
+        "date": "2018-08-02",
+        "symbol": "CTSH",
+        "actualEarningResult": 1.19,
+        "estimatedEarning": 1.1
+    },
+    {
+        "date": "2018-05-07",
+        "symbol": "CTSH",
+        "actualEarningResult": 1.06,
+        "estimatedEarning": 1.06
+    },
+    {
+        "date": "2018-02-07",
+        "symbol": "CTSH",
+        "actualEarningResult": 1.03,
+        "estimatedEarning": 0.97
+    },
+    {
+        "date": "2017-11-01",
+        "symbol": "CTSH",
+        "actualEarningResult": 0.98,
+        "estimatedEarning": 0.95
+    },
+    {
+        "date": "2017-08-03",
+        "symbol": "CTSH",
+        "actualEarningResult": 0.93,
+        "estimatedEarning": 0.9
+    },
+    {
+        "date": "2017-05-05",
+        "symbol": "CTSH",
+        "actualEarningResult": 0.84,
+        "estimatedEarning": 0.83
+    },
+    {
+        "date": "2017-02-08",
+        "symbol": "CTSH",
+        "actualEarningResult": 0.87,
+        "estimatedEarning": 0.86
+    },
+    {
+        "date": "2016-11-07",
+        "symbol": "CTSH",
+        "actualEarningResult": 0.86,
+        "estimatedEarning": 0.84
+    },
+    {
+        "date": "2016-08-05",
+        "symbol": "CTSH",
+        "actualEarningResult": 0.87,
+        "estimatedEarning": 0.82
+    },
+    {
+        "date": "2016-05-06",
+        "symbol": "CTSH",
+        "actualEarningResult": 0.8,
+        "estimatedEarning": 0.79
+    },
+    {
+        "date": "2016-02-08",
+        "symbol": "CTSH",
+        "actualEarningResult": 0.8,
+        "estimatedEarning": 0.78
+    },
+    {
+        "date": "2015-11-04",
+        "symbol": "CTSH",
+        "actualEarningResult": 0.76,
+        "estimatedEarning": 0.76
+    },
+    {
+        "date": "2015-08-05",
+        "symbol": "CTSH",
+        "actualEarningResult": 0.79,
+        "estimatedEarning": 0.73
+    },
+    {
+        "date": "2015-05-04",
+        "symbol": "CTSH",
+        "actualEarningResult": 0.71,
+        "estimatedEarning": 0.7
+    },
+    {
+        "date": "2015-02-04",
+        "symbol": "CTSH",
+        "actualEarningResult": 0.67,
+        "estimatedEarning": 0.65
+    },
+    {
+        "date": "2014-11-05",
+        "symbol": "CTSH",
+        "actualEarningResult": 0.58,
+        "estimatedEarning": 0.59
+    },
+    {
+        "date": "2014-08-06",
+        "symbol": "CTSH",
+        "actualEarningResult": 0.61,
+        "estimatedEarning": 0.58
+    },
+    {
+        "date": "2014-05-07",
+        "symbol": "CTSH",
+        "actualEarningResult": 0.57,
+        "estimatedEarning": 0.55
+    },
+    {
+        "date": "2014-02-05",
+        "symbol": "CTSH",
+        "actualEarningResult": 0.53,
+        "estimatedEarning": 0.53
+    },
+    {
+        "date": "2013-11-05",
+        "symbol": "CTSH",
+        "actualEarningResult": 0.53,
+        "estimatedEarning": 0.5
+    },
+    {
+        "date": "2013-08-06",
+        "symbol": "CTSH",
+        "actualEarningResult": 0.5,
+        "estimatedEarning": 0.49
+    },
+    {
+        "date": "2013-05-08",
+        "symbol": "CTSH",
+        "actualEarningResult": 0.47,
+        "estimatedEarning": 0.46
+    },
+    {
+        "date": "2013-02-07",
+        "symbol": "CTSH",
+        "actualEarningResult": 0.46,
+        "estimatedEarning": 0.46
+    },
+    {
+        "date": "2012-11-07",
+        "symbol": "CTSH",
+        "actualEarningResult": 0.46,
+        "estimatedEarning": 0.43
+    },
+    {
+        "date": "2012-08-06",
+        "symbol": "CTSH",
+        "actualEarningResult": 0.41,
+        "estimatedEarning": 0.4
+    },
+    {
+        "date": "2012-05-07",
+        "symbol": "CTSH",
+        "actualEarningResult": 0.41,
+        "estimatedEarning": 0.4
+    },
+    {
+        "date": "2012-02-08",
+        "symbol": "CTSH",
+        "actualEarningResult": 0.39,
+        "estimatedEarning": 0.38
+    },
+    {
+        "date": "2011-11-02",
+        "symbol": "CTSH",
+        "actualEarningResult": 0.37,
+        "estimatedEarning": 0.36
+    },
+    {
+        "date": "2011-08-02",
+        "symbol": "CTSH",
+        "actualEarningResult": 0.34,
+        "estimatedEarning": 0.33
+    },
+    {
+        "date": "2011-05-03",
+        "symbol": "CTSH",
+        "actualEarningResult": 0.34,
+        "estimatedEarning": 0.32
+    },
+    {
+        "date": "2011-02-07",
+        "symbol": "CTSH",
+        "actualEarningResult": 0.33,
+        "estimatedEarning": 0.33
+    },
+    {
+        "date": "2010-11-01",
+        "symbol": "CTSH",
+        "actualEarningResult": 0.33,
+        "estimatedEarning": 0.3
+    },
+    {
+        "date": "2010-08-03",
+        "symbol": "CTSH",
+        "actualEarningResult": 0.28,
+        "estimatedEarning": 0.26
+    },
+    {
+        "date": "2010-05-04",
+        "symbol": "CTSH",
+        "actualEarningResult": 0.25,
+        "estimatedEarning": 0.24
+    },
+    {
+        "date": "2010-02-09",
+        "symbol": "CTSH",
+        "actualEarningResult": 0.24,
+        "estimatedEarning": 0.23
+    },
+    {
+        "date": "2009-11-03",
+        "symbol": "CTSH",
+        "actualEarningResult": 0.23,
+        "estimatedEarning": 0.21
+    },
+    {
+        "date": "2009-08-04",
+        "symbol": "CTSH",
+        "actualEarningResult": 0.24,
+        "estimatedEarning": 0.19
+    },
+    {
+        "date": "2009-05-05",
+        "symbol": "CTSH",
+        "actualEarningResult": 0.19,
+        "estimatedEarning": 0.19
+    },
+    {
+        "date": "2009-02-13",
+        "symbol": "CTSH",
+        "actualEarningResult": 0.19,
+        "estimatedEarning": 0.19
+    },
+    {
+        "date": "2008-11-05",
+        "symbol": "CTSH",
+        "actualEarningResult": 0.19,
+        "estimatedEarning": 0.19
+    },
+    {
+        "date": "2008-07-31",
+        "symbol": "CTSH",
+        "actualEarningResult": 0.18,
+        "estimatedEarning": 0.17
+    },
+    {
+        "date": "2008-05-07",
+        "symbol": "CTSH",
+        "actualEarningResult": 0.17,
+        "estimatedEarning": 0.16
+    },
+    {
+        "date": "2008-02-07",
+        "symbol": "CTSH",
+        "actualEarningResult": 0.16,
+        "estimatedEarning": 0.16
+    },
+    {
+        "date": "2007-11-06",
+        "symbol": "CTSH",
+        "actualEarningResult": 0.16,
+        "estimatedEarning": 0.14
+    },
+    {
+        "date": "2007-08-01",
+        "symbol": "CTSH",
+        "actualEarningResult": 0.14,
+        "estimatedEarning": 0.13
+    },
+    {
+        "date": "2007-05-02",
+        "symbol": "CTSH",
+        "actualEarningResult": 0.13,
+        "estimatedEarning": 0.12
+    },
+    {
+        "date": "2007-02-05",
+        "symbol": "CTSH",
+        "actualEarningResult": 0.12,
+        "estimatedEarning": 0.11
+    },
+    {
+        "date": "2006-11-02",
+        "symbol": "CTSH",
+        "actualEarningResult": 0.1,
+        "estimatedEarning": 0.1
+    },
+    {
+        "date": "2006-08-02",
+        "symbol": "CTSH",
+        "actualEarningResult": 0.09,
+        "estimatedEarning": 0.08
+    },
+    {
+        "date": "2006-05-03",
+        "symbol": "CTSH",
+        "actualEarningResult": 0.08,
+        "estimatedEarning": 0.07
+    },
+    {
+        "date": "2006-02-09",
+        "symbol": "CTSH",
+        "actualEarningResult": 0.08,
+        "estimatedEarning": 0.07
+    },
+    {
+        "date": "2005-10-31",
+        "symbol": "CTSH",
+        "actualEarningResult": 0.07,
+        "estimatedEarning": 0.07
+    },
+    {
+        "date": "2005-07-28",
+        "symbol": "CTSH",
+        "actualEarningResult": 0.06,
+        "estimatedEarning": 0.06
+    },
+    {
+        "date": "2005-04-27",
+        "symbol": "CTSH",
+        "actualEarningResult": 0.06,
+        "estimatedEarning": 0.05
+    },
+    {
+        "date": "2005-02-10",
+        "symbol": "CTSH",
+        "actualEarningResult": 0.05,
+        "estimatedEarning": 0.05
+    },
+    {
+        "date": "2004-10-26",
+        "symbol": "CTSH",
+        "actualEarningResult": 0.05,
+        "estimatedEarning": 0.04943
+    },
+    {
+        "date": "2004-07-26",
+        "symbol": "CTSH",
+        "actualEarningResult": 0.04,
+        "estimatedEarning": 0.03479
+    },
+    {
+        "date": "2004-04-20",
+        "symbol": "CTSH",
+        "actualEarningResult": 0.04,
+        "estimatedEarning": 0.03791
+    },
+    {
+        "date": "2004-02-10",
+        "symbol": "CTSH",
+        "actualEarningResult": 0.03,
+        "estimatedEarning": 0.02923
+    },
+    {
+        "date": "2003-10-21",
+        "symbol": "CTSH",
+        "actualEarningResult": 0.03,
+        "estimatedEarning": 0.0286
+    },
+    {
+        "date": "2003-07-22",
+        "symbol": "CTSH",
+        "actualEarningResult": 0.03,
+        "estimatedEarning": 0.02766
+    },
+    {
+        "date": "2003-04-21",
+        "symbol": "CTSH",
+        "actualEarningResult": 0.02,
+        "estimatedEarning": 0.01861
+    },
+    {
+        "date": "2003-02-12",
+        "symbol": "CTSH",
+        "actualEarningResult": 0.02,
+        "estimatedEarning": 0.01921
+    },
+    {
+        "date": "2002-10-16",
+        "symbol": "CTSH",
+        "actualEarningResult": 0.02,
+        "estimatedEarning": 0.01847
+    },
+    {
+        "date": "2002-07-15",
+        "symbol": "CTSH",
+        "actualEarningResult": 0.02,
+        "estimatedEarning": 0.01781
+    },
+    {
+        "date": "2002-04-16",
+        "symbol": "CTSH",
+        "actualEarningResult": 0.0144,
+        "estimatedEarning": 0.01156
+    },
+    {
+        "date": "2002-02-05",
+        "symbol": "CTSH",
+        "actualEarningResult": 0.00998,
+        "estimatedEarning": 0.00993
+    },
+    {
+        "date": "2001-10-16",
+        "symbol": "CTSH",
+        "actualEarningResult": 0.01241,
+        "estimatedEarning": 0.01219
+    },
+    {
+        "date": "2001-07-16",
+        "symbol": "CTSH",
+        "actualEarningResult": 0.01191,
+        "estimatedEarning": 0.01179
+    },
+    {
+        "date": "2001-04-17",
+        "symbol": "CTSH",
+        "actualEarningResult": 0.01146,
+        "estimatedEarning": 0.01135
+    },
+    {
+        "date": "2001-02-06",
+        "symbol": "CTSH",
+        "actualEarningResult": 0.01208,
+        "estimatedEarning": 0.01118
+    },
+    {
+        "date": "2000-10-17",
+        "symbol": "CTSH",
+        "actualEarningResult": 0.00991,
+        "estimatedEarning": 0.00892
+    },
+    {
+        "date": "2000-04-18",
+        "symbol": "CTSH",
+        "actualEarningResult": 0.00714,
+        "estimatedEarning": 0.00673
+    },
+    {
+        "date": "2000-02-08",
+        "symbol": "CTSH",
+        "actualEarningResult": 0.00676,
+        "estimatedEarning": 0.00654
+    },
+    {
+        "date": "1999-10-19",
+        "symbol": "CTSH",
+        "actualEarningResult": 0.00624,
+        "estimatedEarning": 0.00548
+    },
+    {
+        "date": "1999-07-20",
+        "symbol": "CTSH",
+        "actualEarningResult": 0.00583,
+        "estimatedEarning": 0.0055
+    },
+    {
+        "date": "1999-04-20",
+        "symbol": "CTSH",
+        "actualEarningResult": 0.00606,
+        "estimatedEarning": 0.00485
+    },
+    {
+        "date": "1999-02-10",
+        "symbol": "CTSH",
+        "actualEarningResult": 0.00558,
+        "estimatedEarning": 0.00378
+    },
+    {
+        "date": "1998-10-20",
+        "symbol": "CTSH",
+        "actualEarningResult": 0.00375,
+        "estimatedEarning": 0.0024
+    }
+]

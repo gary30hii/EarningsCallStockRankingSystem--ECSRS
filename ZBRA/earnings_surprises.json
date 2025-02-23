@@ -1,0 +1,758 @@
+[
+    {
+        "date": "2024-10-29",
+        "symbol": "ZBRA",
+        "actualEarningResult": 3.49,
+        "estimatedEarning": 3.24
+    },
+    {
+        "date": "2024-07-30",
+        "symbol": "ZBRA",
+        "actualEarningResult": 3.18,
+        "estimatedEarning": 2.81
+    },
+    {
+        "date": "2024-04-30",
+        "symbol": "ZBRA",
+        "actualEarningResult": 2.84,
+        "estimatedEarning": 2.45
+    },
+    {
+        "date": "2024-02-15",
+        "symbol": "ZBRA",
+        "actualEarningResult": 1.71,
+        "estimatedEarning": 1.63
+    },
+    {
+        "date": "2023-10-31",
+        "symbol": "ZBRA",
+        "actualEarningResult": 0.87,
+        "estimatedEarning": 0.76
+    },
+    {
+        "date": "2023-08-01",
+        "symbol": "ZBRA",
+        "actualEarningResult": 3.29,
+        "estimatedEarning": 3.28
+    },
+    {
+        "date": "2023-05-02",
+        "symbol": "ZBRA",
+        "actualEarningResult": 3.94,
+        "estimatedEarning": 3.92
+    },
+    {
+        "date": "2023-02-16",
+        "symbol": "ZBRA",
+        "actualEarningResult": 4.75,
+        "estimatedEarning": 4.54
+    },
+    {
+        "date": "2022-11-01",
+        "symbol": "ZBRA",
+        "actualEarningResult": 4.12,
+        "estimatedEarning": 4.54
+    },
+    {
+        "date": "2022-08-02",
+        "symbol": "ZBRA",
+        "actualEarningResult": 4.61,
+        "estimatedEarning": 4.19
+    },
+    {
+        "date": "2022-05-03",
+        "symbol": "ZBRA",
+        "actualEarningResult": 4.01,
+        "estimatedEarning": 3.87
+    },
+    {
+        "date": "2022-02-10",
+        "symbol": "ZBRA",
+        "actualEarningResult": 4.54,
+        "estimatedEarning": 4.4
+    },
+    {
+        "date": "2021-11-02",
+        "symbol": "ZBRA",
+        "actualEarningResult": 4.55,
+        "estimatedEarning": 4.06
+    },
+    {
+        "date": "2021-08-03",
+        "symbol": "ZBRA",
+        "actualEarningResult": 4.57,
+        "estimatedEarning": 4.1
+    },
+    {
+        "date": "2021-05-04",
+        "symbol": "ZBRA",
+        "actualEarningResult": 4.79,
+        "estimatedEarning": 4.34
+    },
+    {
+        "date": "2021-02-11",
+        "symbol": "ZBRA",
+        "actualEarningResult": 4.46,
+        "estimatedEarning": 3.8
+    },
+    {
+        "date": "2020-11-03",
+        "symbol": "ZBRA",
+        "actualEarningResult": 3.27,
+        "estimatedEarning": 2.82
+    },
+    {
+        "date": "2020-07-28",
+        "symbol": "ZBRA",
+        "actualEarningResult": 2.41,
+        "estimatedEarning": 2.28
+    },
+    {
+        "date": "2020-04-28",
+        "symbol": "ZBRA",
+        "actualEarningResult": 2.67,
+        "estimatedEarning": 2.67
+    },
+    {
+        "date": "2020-02-13",
+        "symbol": "ZBRA",
+        "actualEarningResult": 3.56,
+        "estimatedEarning": 3.65
+    },
+    {
+        "date": "2019-10-29",
+        "symbol": "ZBRA",
+        "actualEarningResult": 3.43,
+        "estimatedEarning": 3.29
+    },
+    {
+        "date": "2019-07-30",
+        "symbol": "ZBRA",
+        "actualEarningResult": 3.02,
+        "estimatedEarning": 2.9
+    },
+    {
+        "date": "2019-04-30",
+        "symbol": "ZBRA",
+        "actualEarningResult": 2.92,
+        "estimatedEarning": 2.87
+    },
+    {
+        "date": "2019-02-14",
+        "symbol": "ZBRA",
+        "actualEarningResult": 3.1,
+        "estimatedEarning": 2.93
+    },
+    {
+        "date": "2018-11-06",
+        "symbol": "ZBRA",
+        "actualEarningResult": 2.88,
+        "estimatedEarning": 2.6
+    },
+    {
+        "date": "2018-08-07",
+        "symbol": "ZBRA",
+        "actualEarningResult": 2.48,
+        "estimatedEarning": 2.25
+    },
+    {
+        "date": "2018-05-08",
+        "symbol": "ZBRA",
+        "actualEarningResult": 2.56,
+        "estimatedEarning": 2.05
+    },
+    {
+        "date": "2018-02-22",
+        "symbol": "ZBRA",
+        "actualEarningResult": 2.33,
+        "estimatedEarning": 2.12
+    },
+    {
+        "date": "2017-11-07",
+        "symbol": "ZBRA",
+        "actualEarningResult": 1.87,
+        "estimatedEarning": 1.72
+    },
+    {
+        "date": "2017-08-08",
+        "symbol": "ZBRA",
+        "actualEarningResult": 1.51,
+        "estimatedEarning": 1.45
+    },
+    {
+        "date": "2017-05-09",
+        "symbol": "ZBRA",
+        "actualEarningResult": 1.37,
+        "estimatedEarning": 1.29
+    },
+    {
+        "date": "2017-02-23",
+        "symbol": "ZBRA",
+        "actualEarningResult": 1.93,
+        "estimatedEarning": 1.73
+    },
+    {
+        "date": "2016-11-15",
+        "symbol": "ZBRA",
+        "actualEarningResult": 1.43,
+        "estimatedEarning": 1.41
+    },
+    {
+        "date": "2016-08-09",
+        "symbol": "ZBRA",
+        "actualEarningResult": 1.34,
+        "estimatedEarning": 1.05
+    },
+    {
+        "date": "2016-05-10",
+        "symbol": "ZBRA",
+        "actualEarningResult": 1.01,
+        "estimatedEarning": 1.23
+    },
+    {
+        "date": "2016-02-25",
+        "symbol": "ZBRA",
+        "actualEarningResult": 1.51,
+        "estimatedEarning": 1.47
+    },
+    {
+        "date": "2015-11-10",
+        "symbol": "ZBRA",
+        "actualEarningResult": 1.39,
+        "estimatedEarning": 1.22
+    },
+    {
+        "date": "2015-08-11",
+        "symbol": "ZBRA",
+        "actualEarningResult": 1.05,
+        "estimatedEarning": 1.17
+    },
+    {
+        "date": "2015-05-13",
+        "symbol": "ZBRA",
+        "actualEarningResult": 1.39,
+        "estimatedEarning": 1.12
+    },
+    {
+        "date": "2015-03-17",
+        "symbol": "ZBRA",
+        "actualEarningResult": 1.15,
+        "estimatedEarning": 0.95
+    },
+    {
+        "date": "2014-11-04",
+        "symbol": "ZBRA",
+        "actualEarningResult": 0.93,
+        "estimatedEarning": 0.85
+    },
+    {
+        "date": "2014-08-05",
+        "symbol": "ZBRA",
+        "actualEarningResult": 0.84,
+        "estimatedEarning": 0.81
+    },
+    {
+        "date": "2014-05-06",
+        "symbol": "ZBRA",
+        "actualEarningResult": 0.91,
+        "estimatedEarning": 0.9
+    },
+    {
+        "date": "2014-02-19",
+        "symbol": "ZBRA",
+        "actualEarningResult": 0.82,
+        "estimatedEarning": 0.77
+    },
+    {
+        "date": "2013-11-05",
+        "symbol": "ZBRA",
+        "actualEarningResult": 0.76,
+        "estimatedEarning": 0.66
+    },
+    {
+        "date": "2013-08-06",
+        "symbol": "ZBRA",
+        "actualEarningResult": 0.6,
+        "estimatedEarning": 0.64
+    },
+    {
+        "date": "2013-05-02",
+        "symbol": "ZBRA",
+        "actualEarningResult": 0.46,
+        "estimatedEarning": 0.63
+    },
+    {
+        "date": "2013-02-12",
+        "symbol": "ZBRA",
+        "actualEarningResult": 0.68,
+        "estimatedEarning": 0.67
+    },
+    {
+        "date": "2012-11-06",
+        "symbol": "ZBRA",
+        "actualEarningResult": 0.69,
+        "estimatedEarning": 0.63
+    },
+    {
+        "date": "2012-07-31",
+        "symbol": "ZBRA",
+        "actualEarningResult": 0.58,
+        "estimatedEarning": 0.61
+    },
+    {
+        "date": "2012-04-27",
+        "symbol": "ZBRA",
+        "actualEarningResult": 0.58,
+        "estimatedEarning": 0.57
+    },
+    {
+        "date": "2012-02-14",
+        "symbol": "ZBRA",
+        "actualEarningResult": 0.63,
+        "estimatedEarning": 0.61
+    },
+    {
+        "date": "2011-11-08",
+        "symbol": "ZBRA",
+        "actualEarningResult": 0.64,
+        "estimatedEarning": 0.6
+    },
+    {
+        "date": "2011-08-04",
+        "symbol": "ZBRA",
+        "actualEarningResult": 0.61,
+        "estimatedEarning": 0.59
+    },
+    {
+        "date": "2011-05-04",
+        "symbol": "ZBRA",
+        "actualEarningResult": 0.56,
+        "estimatedEarning": 0.47
+    },
+    {
+        "date": "2011-02-15",
+        "symbol": "ZBRA",
+        "actualEarningResult": 0.51,
+        "estimatedEarning": 0.49
+    },
+    {
+        "date": "2010-11-04",
+        "symbol": "ZBRA",
+        "actualEarningResult": 0.46,
+        "estimatedEarning": 0.41
+    },
+    {
+        "date": "2010-08-05",
+        "symbol": "ZBRA",
+        "actualEarningResult": 0.4,
+        "estimatedEarning": 0.35
+    },
+    {
+        "date": "2010-05-04",
+        "symbol": "ZBRA",
+        "actualEarningResult": 0.44,
+        "estimatedEarning": 0.31
+    },
+    {
+        "date": "2010-02-09",
+        "symbol": "ZBRA",
+        "actualEarningResult": 0.33,
+        "estimatedEarning": 0.25
+    },
+    {
+        "date": "2009-11-04",
+        "symbol": "ZBRA",
+        "actualEarningResult": 0.23,
+        "estimatedEarning": 0.21
+    },
+    {
+        "date": "2009-08-04",
+        "symbol": "ZBRA",
+        "actualEarningResult": 0.19,
+        "estimatedEarning": 0.2
+    },
+    {
+        "date": "2009-05-05",
+        "symbol": "ZBRA",
+        "actualEarningResult": 0.18,
+        "estimatedEarning": 0.16
+    },
+    {
+        "date": "2009-02-17",
+        "symbol": "ZBRA",
+        "actualEarningResult": 0.4,
+        "estimatedEarning": 0.31
+    },
+    {
+        "date": "2008-10-29",
+        "symbol": "ZBRA",
+        "actualEarningResult": 0.41,
+        "estimatedEarning": 0.4
+    },
+    {
+        "date": "2008-07-24",
+        "symbol": "ZBRA",
+        "actualEarningResult": 0.44,
+        "estimatedEarning": 0.45
+    },
+    {
+        "date": "2008-04-23",
+        "symbol": "ZBRA",
+        "actualEarningResult": 0.45,
+        "estimatedEarning": 0.45
+    },
+    {
+        "date": "2008-02-25",
+        "symbol": "ZBRA",
+        "actualEarningResult": 0.45,
+        "estimatedEarning": 0.43
+    },
+    {
+        "date": "2007-10-22",
+        "symbol": "ZBRA",
+        "actualEarningResult": 0.43,
+        "estimatedEarning": 0.38
+    },
+    {
+        "date": "2007-07-25",
+        "symbol": "ZBRA",
+        "actualEarningResult": 0.37,
+        "estimatedEarning": 0.39
+    },
+    {
+        "date": "2007-04-30",
+        "symbol": "ZBRA",
+        "actualEarningResult": 0.4,
+        "estimatedEarning": 0.36
+    },
+    {
+        "date": "2007-02-14",
+        "symbol": "ZBRA",
+        "actualEarningResult": 0.42,
+        "estimatedEarning": 0.41
+    },
+    {
+        "date": "2006-11-01",
+        "symbol": "ZBRA",
+        "actualEarningResult": 0.4,
+        "estimatedEarning": 0.34
+    },
+    {
+        "date": "2006-07-26",
+        "symbol": "ZBRA",
+        "actualEarningResult": 0.39,
+        "estimatedEarning": 0.37
+    },
+    {
+        "date": "2006-04-26",
+        "symbol": "ZBRA",
+        "actualEarningResult": 0.35,
+        "estimatedEarning": 0.39
+    },
+    {
+        "date": "2006-02-08",
+        "symbol": "ZBRA",
+        "actualEarningResult": 0.4,
+        "estimatedEarning": 0.39
+    },
+    {
+        "date": "2005-11-01",
+        "symbol": "ZBRA",
+        "actualEarningResult": 0.41,
+        "estimatedEarning": 0.37
+    },
+    {
+        "date": "2005-07-27",
+        "symbol": "ZBRA",
+        "actualEarningResult": 0.37,
+        "estimatedEarning": 0.45
+    },
+    {
+        "date": "2005-05-04",
+        "symbol": "ZBRA",
+        "actualEarningResult": 0.37,
+        "estimatedEarning": 0.44
+    },
+    {
+        "date": "2005-02-09",
+        "symbol": "ZBRA",
+        "actualEarningResult": 0.44,
+        "estimatedEarning": 0.44
+    },
+    {
+        "date": "2004-10-27",
+        "symbol": "ZBRA",
+        "actualEarningResult": 0.43,
+        "estimatedEarning": 0.42
+    },
+    {
+        "date": "2004-07-28",
+        "symbol": "ZBRA",
+        "actualEarningResult": 0.41,
+        "estimatedEarning": 0.39
+    },
+    {
+        "date": "2004-04-28",
+        "symbol": "ZBRA",
+        "actualEarningResult": 0.39,
+        "estimatedEarning": 0.34
+    },
+    {
+        "date": "2004-02-11",
+        "symbol": "ZBRA",
+        "actualEarningResult": 0.34,
+        "estimatedEarning": 0.33
+    },
+    {
+        "date": "2003-10-23",
+        "symbol": "ZBRA",
+        "actualEarningResult": 0.32,
+        "estimatedEarning": 0.32
+    },
+    {
+        "date": "2003-07-28",
+        "symbol": "ZBRA",
+        "actualEarningResult": 0.31,
+        "estimatedEarning": 0.3
+    },
+    {
+        "date": "2003-04-17",
+        "symbol": "ZBRA",
+        "actualEarningResult": 0.31,
+        "estimatedEarning": 0.28
+    },
+    {
+        "date": "2003-02-12",
+        "symbol": "ZBRA",
+        "actualEarningResult": 0.29,
+        "estimatedEarning": 0.29
+    },
+    {
+        "date": "2002-10-18",
+        "symbol": "ZBRA",
+        "actualEarningResult": 0.28,
+        "estimatedEarning": 0.26
+    },
+    {
+        "date": "2002-07-19",
+        "symbol": "ZBRA",
+        "actualEarningResult": 0.24,
+        "estimatedEarning": 0.23
+    },
+    {
+        "date": "2002-04-19",
+        "symbol": "ZBRA",
+        "actualEarningResult": 0.23,
+        "estimatedEarning": 0.23
+    },
+    {
+        "date": "2002-02-04",
+        "symbol": "ZBRA",
+        "actualEarningResult": 0.22,
+        "estimatedEarning": 0.23
+    },
+    {
+        "date": "2001-10-24",
+        "symbol": "ZBRA",
+        "actualEarningResult": 0.24,
+        "estimatedEarning": 0.22
+    },
+    {
+        "date": "2001-07-20",
+        "symbol": "ZBRA",
+        "actualEarningResult": 0.21,
+        "estimatedEarning": 0.26
+    },
+    {
+        "date": "2001-04-24",
+        "symbol": "ZBRA",
+        "actualEarningResult": 0.24,
+        "estimatedEarning": 0.23
+    },
+    {
+        "date": "2001-02-08",
+        "symbol": "ZBRA",
+        "actualEarningResult": 0.25,
+        "estimatedEarning": 0.36
+    },
+    {
+        "date": "2000-10-19",
+        "symbol": "ZBRA",
+        "actualEarningResult": 0.34,
+        "estimatedEarning": 0.3
+    },
+    {
+        "date": "2000-07-20",
+        "symbol": "ZBRA",
+        "actualEarningResult": 0.31,
+        "estimatedEarning": 0.3
+    },
+    {
+        "date": "2000-04-20",
+        "symbol": "ZBRA",
+        "actualEarningResult": 0.22,
+        "estimatedEarning": 0.23
+    },
+    {
+        "date": "2000-02-16",
+        "symbol": "ZBRA",
+        "actualEarningResult": 0.29,
+        "estimatedEarning": 0.29
+    },
+    {
+        "date": "1999-10-27",
+        "symbol": "ZBRA",
+        "actualEarningResult": 0.28,
+        "estimatedEarning": 0.25
+    },
+    {
+        "date": "1999-07-21",
+        "symbol": "ZBRA",
+        "actualEarningResult": 0.24,
+        "estimatedEarning": 0.23
+    },
+    {
+        "date": "1999-04-26",
+        "symbol": "ZBRA",
+        "actualEarningResult": 0.2,
+        "estimatedEarning": 0.19
+    },
+    {
+        "date": "1999-02-25",
+        "symbol": "ZBRA",
+        "actualEarningResult": 0.13,
+        "estimatedEarning": 0.2
+    },
+    {
+        "date": "1998-10-21",
+        "symbol": "ZBRA",
+        "actualEarningResult": 0.2,
+        "estimatedEarning": 0.22
+    },
+    {
+        "date": "1998-07-22",
+        "symbol": "ZBRA",
+        "actualEarningResult": 0.2,
+        "estimatedEarning": 0.2
+    },
+    {
+        "date": "1998-04-22",
+        "symbol": "ZBRA",
+        "actualEarningResult": 0.19,
+        "estimatedEarning": 0.18
+    },
+    {
+        "date": "1998-03-04",
+        "symbol": "ZBRA",
+        "actualEarningResult": 0.21,
+        "estimatedEarning": 0.2
+    },
+    {
+        "date": "1997-10-15",
+        "symbol": "ZBRA",
+        "actualEarningResult": 0.18,
+        "estimatedEarning": 0.18
+    },
+    {
+        "date": "1997-07-15",
+        "symbol": "ZBRA",
+        "actualEarningResult": 0.18,
+        "estimatedEarning": 0.16
+    },
+    {
+        "date": "1997-04-23",
+        "symbol": "ZBRA",
+        "actualEarningResult": 0.2,
+        "estimatedEarning": 0.14
+    },
+    {
+        "date": "1997-02-11",
+        "symbol": "ZBRA",
+        "actualEarningResult": 0.16,
+        "estimatedEarning": 0.17
+    },
+    {
+        "date": "1996-07-11",
+        "symbol": "ZBRA",
+        "actualEarningResult": 0.12,
+        "estimatedEarning": 0.13
+    },
+    {
+        "date": "1996-04-24",
+        "symbol": "ZBRA",
+        "actualEarningResult": 0.11,
+        "estimatedEarning": 0.11
+    },
+    {
+        "date": "1996-02-13",
+        "symbol": "ZBRA",
+        "actualEarningResult": 0.15,
+        "estimatedEarning": 0.14
+    },
+    {
+        "date": "1995-10-18",
+        "symbol": "ZBRA",
+        "actualEarningResult": 0.13,
+        "estimatedEarning": 0.12
+    },
+    {
+        "date": "1995-07-24",
+        "symbol": "ZBRA",
+        "actualEarningResult": 0.13,
+        "estimatedEarning": 0.12
+    },
+    {
+        "date": "1995-04-18",
+        "symbol": "ZBRA",
+        "actualEarningResult": 0.12,
+        "estimatedEarning": 0.11
+    },
+    {
+        "date": "1995-02-22",
+        "symbol": "ZBRA",
+        "actualEarningResult": 0.11,
+        "estimatedEarning": 0.11
+    },
+    {
+        "date": "1994-10-28",
+        "symbol": "ZBRA",
+        "actualEarningResult": 0.1,
+        "estimatedEarning": 0.1
+    },
+    {
+        "date": "1994-07-25",
+        "symbol": "ZBRA",
+        "actualEarningResult": 0.09,
+        "estimatedEarning": 0.09
+    },
+    {
+        "date": "1994-04-21",
+        "symbol": "ZBRA",
+        "actualEarningResult": 0.08,
+        "estimatedEarning": 0.09
+    },
+    {
+        "date": "1994-02-14",
+        "symbol": "ZBRA",
+        "actualEarningResult": 0.1,
+        "estimatedEarning": 0.09
+    },
+    {
+        "date": "1993-10-20",
+        "symbol": "ZBRA",
+        "actualEarningResult": 0.1,
+        "estimatedEarning": 0.08
+    },
+    {
+        "date": "1993-07-22",
+        "symbol": "ZBRA",
+        "actualEarningResult": 0.08,
+        "estimatedEarning": 0.07
+    },
+    {
+        "date": "1993-04-14",
+        "symbol": "ZBRA",
+        "actualEarningResult": 0.07,
+        "estimatedEarning": 0.06
+    }
+]

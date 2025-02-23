@@ -1,0 +1,770 @@
+[
+    {
+        "date": "2024-10-22",
+        "symbol": "NSC",
+        "actualEarningResult": 3.25,
+        "estimatedEarning": 3.11
+    },
+    {
+        "date": "2024-07-25",
+        "symbol": "NSC",
+        "actualEarningResult": 3.06,
+        "estimatedEarning": 2.86
+    },
+    {
+        "date": "2024-04-24",
+        "symbol": "NSC",
+        "actualEarningResult": 2.49,
+        "estimatedEarning": 2.53
+    },
+    {
+        "date": "2024-01-26",
+        "symbol": "NSC",
+        "actualEarningResult": 2.83,
+        "estimatedEarning": 2.87
+    },
+    {
+        "date": "2023-10-25",
+        "symbol": "NSC",
+        "actualEarningResult": 2.65,
+        "estimatedEarning": 2.69
+    },
+    {
+        "date": "2023-07-27",
+        "symbol": "NSC",
+        "actualEarningResult": 2.95,
+        "estimatedEarning": 3.15
+    },
+    {
+        "date": "2023-04-26",
+        "symbol": "NSC",
+        "actualEarningResult": 3.32,
+        "estimatedEarning": 3.15
+    },
+    {
+        "date": "2023-01-25",
+        "symbol": "NSC",
+        "actualEarningResult": 3.42,
+        "estimatedEarning": 3.44
+    },
+    {
+        "date": "2022-10-26",
+        "symbol": "NSC",
+        "actualEarningResult": 4.1,
+        "estimatedEarning": 3.64
+    },
+    {
+        "date": "2022-07-27",
+        "symbol": "NSC",
+        "actualEarningResult": 3.45,
+        "estimatedEarning": 3.47
+    },
+    {
+        "date": "2022-04-27",
+        "symbol": "NSC",
+        "actualEarningResult": 2.93,
+        "estimatedEarning": 2.92
+    },
+    {
+        "date": "2022-01-26",
+        "symbol": "NSC",
+        "actualEarningResult": 3.12,
+        "estimatedEarning": 3.04
+    },
+    {
+        "date": "2021-10-27",
+        "symbol": "NSC",
+        "actualEarningResult": 3.06,
+        "estimatedEarning": 2.91
+    },
+    {
+        "date": "2021-07-28",
+        "symbol": "NSC",
+        "actualEarningResult": 3.28,
+        "estimatedEarning": 2.96
+    },
+    {
+        "date": "2021-04-28",
+        "symbol": "NSC",
+        "actualEarningResult": 2.66,
+        "estimatedEarning": 2.54
+    },
+    {
+        "date": "2021-01-27",
+        "symbol": "NSC",
+        "actualEarningResult": 2.63,
+        "estimatedEarning": 2.48
+    },
+    {
+        "date": "2020-10-28",
+        "symbol": "NSC",
+        "actualEarningResult": 2.51,
+        "estimatedEarning": 2.38
+    },
+    {
+        "date": "2020-07-29",
+        "symbol": "NSC",
+        "actualEarningResult": 1.53,
+        "estimatedEarning": 1.33
+    },
+    {
+        "date": "2020-04-29",
+        "symbol": "NSC",
+        "actualEarningResult": 2.58,
+        "estimatedEarning": 2.19
+    },
+    {
+        "date": "2020-01-29",
+        "symbol": "NSC",
+        "actualEarningResult": 2.55,
+        "estimatedEarning": 2.28
+    },
+    {
+        "date": "2019-10-23",
+        "symbol": "NSC",
+        "actualEarningResult": 2.49,
+        "estimatedEarning": 2.59
+    },
+    {
+        "date": "2019-07-24",
+        "symbol": "NSC",
+        "actualEarningResult": 2.7,
+        "estimatedEarning": 2.79
+    },
+    {
+        "date": "2019-04-24",
+        "symbol": "NSC",
+        "actualEarningResult": 2.51,
+        "estimatedEarning": 2.18
+    },
+    {
+        "date": "2019-01-24",
+        "symbol": "NSC",
+        "actualEarningResult": 2.57,
+        "estimatedEarning": 2.29
+    },
+    {
+        "date": "2018-10-24",
+        "symbol": "NSC",
+        "actualEarningResult": 2.52,
+        "estimatedEarning": 2.44
+    },
+    {
+        "date": "2018-07-25",
+        "symbol": "NSC",
+        "actualEarningResult": 2.5,
+        "estimatedEarning": 2.33
+    },
+    {
+        "date": "2018-04-25",
+        "symbol": "NSC",
+        "actualEarningResult": 1.93,
+        "estimatedEarning": 1.77
+    },
+    {
+        "date": "2018-01-24",
+        "symbol": "NSC",
+        "actualEarningResult": 1.69,
+        "estimatedEarning": 1.56
+    },
+    {
+        "date": "2017-10-25",
+        "symbol": "NSC",
+        "actualEarningResult": 1.75,
+        "estimatedEarning": 1.64
+    },
+    {
+        "date": "2017-07-26",
+        "symbol": "NSC",
+        "actualEarningResult": 1.71,
+        "estimatedEarning": 1.65
+    },
+    {
+        "date": "2017-04-26",
+        "symbol": "NSC",
+        "actualEarningResult": 1.48,
+        "estimatedEarning": 1.36
+    },
+    {
+        "date": "2017-01-25",
+        "symbol": "NSC",
+        "actualEarningResult": 1.42,
+        "estimatedEarning": 1.36
+    },
+    {
+        "date": "2016-10-26",
+        "symbol": "NSC",
+        "actualEarningResult": 1.55,
+        "estimatedEarning": 1.45
+    },
+    {
+        "date": "2016-07-27",
+        "symbol": "NSC",
+        "actualEarningResult": 1.36,
+        "estimatedEarning": 1.35
+    },
+    {
+        "date": "2016-04-21",
+        "symbol": "NSC",
+        "actualEarningResult": 1.29,
+        "estimatedEarning": 0.97
+    },
+    {
+        "date": "2016-01-27",
+        "symbol": "NSC",
+        "actualEarningResult": 1.2,
+        "estimatedEarning": 1.23
+    },
+    {
+        "date": "2015-10-28",
+        "symbol": "NSC",
+        "actualEarningResult": 1.57,
+        "estimatedEarning": 1.41
+    },
+    {
+        "date": "2015-07-27",
+        "symbol": "NSC",
+        "actualEarningResult": 1.41,
+        "estimatedEarning": 1.42
+    },
+    {
+        "date": "2015-04-29",
+        "symbol": "NSC",
+        "actualEarningResult": 1,
+        "estimatedEarning": 1
+    },
+    {
+        "date": "2015-01-26",
+        "symbol": "NSC",
+        "actualEarningResult": 1.64,
+        "estimatedEarning": 1.63
+    },
+    {
+        "date": "2014-10-22",
+        "symbol": "NSC",
+        "actualEarningResult": 1.79,
+        "estimatedEarning": 1.83
+    },
+    {
+        "date": "2014-07-23",
+        "symbol": "NSC",
+        "actualEarningResult": 1.79,
+        "estimatedEarning": 1.74
+    },
+    {
+        "date": "2014-04-23",
+        "symbol": "NSC",
+        "actualEarningResult": 1.17,
+        "estimatedEarning": 1.15
+    },
+    {
+        "date": "2014-01-22",
+        "symbol": "NSC",
+        "actualEarningResult": 1.64,
+        "estimatedEarning": 1.5
+    },
+    {
+        "date": "2013-10-23",
+        "symbol": "NSC",
+        "actualEarningResult": 1.53,
+        "estimatedEarning": 1.39
+    },
+    {
+        "date": "2013-07-23",
+        "symbol": "NSC",
+        "actualEarningResult": 1.46,
+        "estimatedEarning": 1.49
+    },
+    {
+        "date": "2013-04-23",
+        "symbol": "NSC",
+        "actualEarningResult": 1.22,
+        "estimatedEarning": 1.17
+    },
+    {
+        "date": "2013-01-22",
+        "symbol": "NSC",
+        "actualEarningResult": 1.3,
+        "estimatedEarning": 1.19
+    },
+    {
+        "date": "2012-10-23",
+        "symbol": "NSC",
+        "actualEarningResult": 1.24,
+        "estimatedEarning": 1.23
+    },
+    {
+        "date": "2012-07-24",
+        "symbol": "NSC",
+        "actualEarningResult": 1.6,
+        "estimatedEarning": 1.53
+    },
+    {
+        "date": "2012-04-24",
+        "symbol": "NSC",
+        "actualEarningResult": 1.23,
+        "estimatedEarning": 1.12
+    },
+    {
+        "date": "2012-01-24",
+        "symbol": "NSC",
+        "actualEarningResult": 1.42,
+        "estimatedEarning": 1.4
+    },
+    {
+        "date": "2011-10-26",
+        "symbol": "NSC",
+        "actualEarningResult": 1.59,
+        "estimatedEarning": 1.41
+    },
+    {
+        "date": "2011-07-26",
+        "symbol": "NSC",
+        "actualEarningResult": 1.38,
+        "estimatedEarning": 1.29
+    },
+    {
+        "date": "2011-04-27",
+        "symbol": "NSC",
+        "actualEarningResult": 1,
+        "estimatedEarning": 0.9
+    },
+    {
+        "date": "2011-01-25",
+        "symbol": "NSC",
+        "actualEarningResult": 1,
+        "estimatedEarning": 1.05
+    },
+    {
+        "date": "2010-10-27",
+        "symbol": "NSC",
+        "actualEarningResult": 1.19,
+        "estimatedEarning": 1.1
+    },
+    {
+        "date": "2010-07-27",
+        "symbol": "NSC",
+        "actualEarningResult": 1.04,
+        "estimatedEarning": 0.99
+    },
+    {
+        "date": "2010-04-27",
+        "symbol": "NSC",
+        "actualEarningResult": 0.75,
+        "estimatedEarning": 0.67
+    },
+    {
+        "date": "2010-01-27",
+        "symbol": "NSC",
+        "actualEarningResult": 0.82,
+        "estimatedEarning": 0.84
+    },
+    {
+        "date": "2009-10-27",
+        "symbol": "NSC",
+        "actualEarningResult": 0.81,
+        "estimatedEarning": 0.79
+    },
+    {
+        "date": "2009-07-28",
+        "symbol": "NSC",
+        "actualEarningResult": 0.66,
+        "estimatedEarning": 0.64
+    },
+    {
+        "date": "2009-04-21",
+        "symbol": "NSC",
+        "actualEarningResult": 0.47,
+        "estimatedEarning": 0.55
+    },
+    {
+        "date": "2009-01-27",
+        "symbol": "NSC",
+        "actualEarningResult": 1.21,
+        "estimatedEarning": 1.18
+    },
+    {
+        "date": "2008-10-21",
+        "symbol": "NSC",
+        "actualEarningResult": 1.37,
+        "estimatedEarning": 1.21
+    },
+    {
+        "date": "2008-07-22",
+        "symbol": "NSC",
+        "actualEarningResult": 1.18,
+        "estimatedEarning": 1.05
+    },
+    {
+        "date": "2008-04-22",
+        "symbol": "NSC",
+        "actualEarningResult": 0.78,
+        "estimatedEarning": 0.78
+    },
+    {
+        "date": "2008-01-22",
+        "symbol": "NSC",
+        "actualEarningResult": 1.02,
+        "estimatedEarning": 0.9
+    },
+    {
+        "date": "2007-10-24",
+        "symbol": "NSC",
+        "actualEarningResult": 1.02,
+        "estimatedEarning": 1.02
+    },
+    {
+        "date": "2007-07-25",
+        "symbol": "NSC",
+        "actualEarningResult": 0.98,
+        "estimatedEarning": 0.94
+    },
+    {
+        "date": "2007-04-25",
+        "symbol": "NSC",
+        "actualEarningResult": 0.71,
+        "estimatedEarning": 0.7
+    },
+    {
+        "date": "2007-01-24",
+        "symbol": "NSC",
+        "actualEarningResult": 0.95,
+        "estimatedEarning": 0.96
+    },
+    {
+        "date": "2006-10-25",
+        "symbol": "NSC",
+        "actualEarningResult": 1.02,
+        "estimatedEarning": 0.81
+    },
+    {
+        "date": "2006-07-26",
+        "symbol": "NSC",
+        "actualEarningResult": 0.89,
+        "estimatedEarning": 0.92
+    },
+    {
+        "date": "2006-04-26",
+        "symbol": "NSC",
+        "actualEarningResult": 0.72,
+        "estimatedEarning": 0.68
+    },
+    {
+        "date": "2006-01-25",
+        "symbol": "NSC",
+        "actualEarningResult": 0.87,
+        "estimatedEarning": 0.75
+    },
+    {
+        "date": "2005-10-26",
+        "symbol": "NSC",
+        "actualEarningResult": 0.73,
+        "estimatedEarning": 0.74
+    },
+    {
+        "date": "2005-07-27",
+        "symbol": "NSC",
+        "actualEarningResult": 0.75,
+        "estimatedEarning": 0.65
+    },
+    {
+        "date": "2005-04-27",
+        "symbol": "NSC",
+        "actualEarningResult": 0.47,
+        "estimatedEarning": 0.48
+    },
+    {
+        "date": "2005-01-26",
+        "symbol": "NSC",
+        "actualEarningResult": 0.65,
+        "estimatedEarning": 0.63
+    },
+    {
+        "date": "2004-10-20",
+        "symbol": "NSC",
+        "actualEarningResult": 0.59,
+        "estimatedEarning": 0.54
+    },
+    {
+        "date": "2004-07-28",
+        "symbol": "NSC",
+        "actualEarningResult": 0.54,
+        "estimatedEarning": 0.46
+    },
+    {
+        "date": "2004-04-21",
+        "symbol": "NSC",
+        "actualEarningResult": 0.4,
+        "estimatedEarning": 0.3
+    },
+    {
+        "date": "2004-01-28",
+        "symbol": "NSC",
+        "actualEarningResult": 0.43,
+        "estimatedEarning": 0.37
+    },
+    {
+        "date": "2003-10-29",
+        "symbol": "NSC",
+        "actualEarningResult": 0.35,
+        "estimatedEarning": 0.34
+    },
+    {
+        "date": "2003-07-23",
+        "symbol": "NSC",
+        "actualEarningResult": 0.35,
+        "estimatedEarning": 0.37
+    },
+    {
+        "date": "2003-04-23",
+        "symbol": "NSC",
+        "actualEarningResult": 0.22,
+        "estimatedEarning": 0.21
+    },
+    {
+        "date": "2003-01-29",
+        "symbol": "NSC",
+        "actualEarningResult": 0.33,
+        "estimatedEarning": 0.3
+    },
+    {
+        "date": "2002-10-23",
+        "symbol": "NSC",
+        "actualEarningResult": 0.32,
+        "estimatedEarning": 0.32
+    },
+    {
+        "date": "2002-07-24",
+        "symbol": "NSC",
+        "actualEarningResult": 0.31,
+        "estimatedEarning": 0.31
+    },
+    {
+        "date": "2002-04-24",
+        "symbol": "NSC",
+        "actualEarningResult": 0.22,
+        "estimatedEarning": 0.23
+    },
+    {
+        "date": "2002-01-23",
+        "symbol": "NSC",
+        "actualEarningResult": 0.3,
+        "estimatedEarning": 0.23
+    },
+    {
+        "date": "2001-10-24",
+        "symbol": "NSC",
+        "actualEarningResult": 0.2,
+        "estimatedEarning": 0.21
+    },
+    {
+        "date": "2001-07-25",
+        "symbol": "NSC",
+        "actualEarningResult": 0.28,
+        "estimatedEarning": 0.28
+    },
+    {
+        "date": "2001-04-25",
+        "symbol": "NSC",
+        "actualEarningResult": 0.16,
+        "estimatedEarning": 0.1
+    },
+    {
+        "date": "2001-01-24",
+        "symbol": "NSC",
+        "actualEarningResult": 0.11,
+        "estimatedEarning": 0.07
+    },
+    {
+        "date": "2000-10-25",
+        "symbol": "NSC",
+        "actualEarningResult": 0.14,
+        "estimatedEarning": 0.34
+    },
+    {
+        "date": "2000-07-26",
+        "symbol": "NSC",
+        "actualEarningResult": 0.26,
+        "estimatedEarning": 0.24
+    },
+    {
+        "date": "2000-04-26",
+        "symbol": "NSC",
+        "actualEarningResult": 0.04,
+        "estimatedEarning": 0.05
+    },
+    {
+        "date": "2000-01-26",
+        "symbol": "NSC",
+        "actualEarningResult": 0.08,
+        "estimatedEarning": 0.12
+    },
+    {
+        "date": "1999-10-27",
+        "symbol": "NSC",
+        "actualEarningResult": 0.13,
+        "estimatedEarning": 0.12
+    },
+    {
+        "date": "1999-07-28",
+        "symbol": "NSC",
+        "actualEarningResult": 0.2,
+        "estimatedEarning": 0.21
+    },
+    {
+        "date": "1999-04-28",
+        "symbol": "NSC",
+        "actualEarningResult": 0.3,
+        "estimatedEarning": 0.28
+    },
+    {
+        "date": "1999-01-27",
+        "symbol": "NSC",
+        "actualEarningResult": 0.42,
+        "estimatedEarning": 0.43
+    },
+    {
+        "date": "1998-10-28",
+        "symbol": "NSC",
+        "actualEarningResult": 0.4,
+        "estimatedEarning": 0.47
+    },
+    {
+        "date": "1998-07-29",
+        "symbol": "NSC",
+        "actualEarningResult": 0.48,
+        "estimatedEarning": 0.47
+    },
+    {
+        "date": "1998-04-22",
+        "symbol": "NSC",
+        "actualEarningResult": 0.48,
+        "estimatedEarning": 0.43
+    },
+    {
+        "date": "1998-01-28",
+        "symbol": "NSC",
+        "actualEarningResult": 0.54,
+        "estimatedEarning": 0.56
+    },
+    {
+        "date": "1997-10-22",
+        "symbol": "NSC",
+        "actualEarningResult": 0.54,
+        "estimatedEarning": 0.54
+    },
+    {
+        "date": "1997-07-23",
+        "symbol": "NSC",
+        "actualEarningResult": 0.54,
+        "estimatedEarning": 0.54
+    },
+    {
+        "date": "1997-04-23",
+        "symbol": "NSC",
+        "actualEarningResult": 0.47,
+        "estimatedEarning": 0.48
+    },
+    {
+        "date": "1997-01-29",
+        "symbol": "NSC",
+        "actualEarningResult": 0.53,
+        "estimatedEarning": 0.53
+    },
+    {
+        "date": "1996-10-23",
+        "symbol": "NSC",
+        "actualEarningResult": 0.54,
+        "estimatedEarning": 0.53
+    },
+    {
+        "date": "1996-07-24",
+        "symbol": "NSC",
+        "actualEarningResult": 0.52,
+        "estimatedEarning": 0.52
+    },
+    {
+        "date": "1996-04-24",
+        "symbol": "NSC",
+        "actualEarningResult": 0.44,
+        "estimatedEarning": 0.43
+    },
+    {
+        "date": "1996-01-24",
+        "symbol": "NSC",
+        "actualEarningResult": 0.51,
+        "estimatedEarning": 0.48
+    },
+    {
+        "date": "1995-10-25",
+        "symbol": "NSC",
+        "actualEarningResult": 0.47,
+        "estimatedEarning": 0.46
+    },
+    {
+        "date": "1995-07-26",
+        "symbol": "NSC",
+        "actualEarningResult": 0.46,
+        "estimatedEarning": 0.46
+    },
+    {
+        "date": "1995-04-26",
+        "symbol": "NSC",
+        "actualEarningResult": 0.38,
+        "estimatedEarning": 0.39
+    },
+    {
+        "date": "1995-01-25",
+        "symbol": "NSC",
+        "actualEarningResult": 0.44,
+        "estimatedEarning": 0.44
+    },
+    {
+        "date": "1994-10-26",
+        "symbol": "NSC",
+        "actualEarningResult": 0.41,
+        "estimatedEarning": 0.41
+    },
+    {
+        "date": "1994-07-27",
+        "symbol": "NSC",
+        "actualEarningResult": 0.43,
+        "estimatedEarning": 0.43
+    },
+    {
+        "date": "1994-04-27",
+        "symbol": "NSC",
+        "actualEarningResult": 0.35,
+        "estimatedEarning": 0.34
+    },
+    {
+        "date": "1994-01-26",
+        "symbol": "NSC",
+        "actualEarningResult": 0.38,
+        "estimatedEarning": 0.39
+    },
+    {
+        "date": "1993-10-27",
+        "symbol": "NSC",
+        "actualEarningResult": 0.35,
+        "estimatedEarning": 0.35
+    },
+    {
+        "date": "1993-07-28",
+        "symbol": "NSC",
+        "actualEarningResult": 0.37,
+        "estimatedEarning": 0.37
+    },
+    {
+        "date": "1993-04-28",
+        "symbol": "NSC",
+        "actualEarningResult": 0.33,
+        "estimatedEarning": 0.32
+    },
+    {
+        "date": "1993-01-27",
+        "symbol": "NSC",
+        "actualEarningResult": 0.35,
+        "estimatedEarning": 0.36
+    }
+]

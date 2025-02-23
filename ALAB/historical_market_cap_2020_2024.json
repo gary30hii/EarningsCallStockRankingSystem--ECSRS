@@ -1,0 +1,992 @@
+[
+    {
+        "symbol": "ALAB",
+        "date": "2024-12-31",
+        "marketCap": 20772265950
+    },
+    {
+        "symbol": "ALAB",
+        "date": "2024-12-30",
+        "marketCap": 21394885019
+    },
+    {
+        "symbol": "ALAB",
+        "date": "2024-12-27",
+        "marketCap": 22196291430
+    },
+    {
+        "symbol": "ALAB",
+        "date": "2024-12-26",
+        "marketCap": 22867528110
+    },
+    {
+        "symbol": "ALAB",
+        "date": "2024-12-24",
+        "marketCap": 22207269600
+    },
+    {
+        "symbol": "ALAB",
+        "date": "2024-12-23",
+        "marketCap": 21261578670
+    },
+    {
+        "symbol": "ALAB",
+        "date": "2024-12-20",
+        "marketCap": 20728353269
+    },
+    {
+        "symbol": "ALAB",
+        "date": "2024-12-19",
+        "marketCap": 19647787680
+    },
+    {
+        "symbol": "ALAB",
+        "date": "2024-12-18",
+        "marketCap": 19207092570
+    },
+    {
+        "symbol": "ALAB",
+        "date": "2024-12-17",
+        "marketCap": 20064958140
+    },
+    {
+        "symbol": "ALAB",
+        "date": "2024-12-16",
+        "marketCap": 20463308880
+    },
+    {
+        "symbol": "ALAB",
+        "date": "2024-12-13",
+        "marketCap": 20723648339
+    },
+    {
+        "symbol": "ALAB",
+        "date": "2024-12-12",
+        "marketCap": 19203955950
+    },
+    {
+        "symbol": "ALAB",
+        "date": "2024-12-11",
+        "marketCap": 19230617220
+    },
+    {
+        "symbol": "ALAB",
+        "date": "2024-12-10",
+        "marketCap": 18532719270
+    },
+    {
+        "symbol": "ALAB",
+        "date": "2024-12-09",
+        "marketCap": 19138086930
+    },
+    {
+        "symbol": "ALAB",
+        "date": "2024-12-06",
+        "marketCap": 18882452400
+    },
+    {
+        "symbol": "ALAB",
+        "date": "2024-12-05",
+        "marketCap": 17985379080
+    },
+    {
+        "symbol": "ALAB",
+        "date": "2024-12-04",
+        "marketCap": 18077909370
+    },
+    {
+        "symbol": "ALAB",
+        "date": "2024-12-03",
+        "marketCap": 18272379810
+    },
+    {
+        "symbol": "ALAB",
+        "date": "2024-12-02",
+        "marketCap": 16214757090
+    },
+    {
+        "symbol": "ALAB",
+        "date": "2024-11-29",
+        "marketCap": 16192800750
+    },
+    {
+        "symbol": "ALAB",
+        "date": "2024-11-27",
+        "marketCap": 15620367600
+    },
+    {
+        "symbol": "ALAB",
+        "date": "2024-11-26",
+        "marketCap": 16542533880
+    },
+    {
+        "symbol": "ALAB",
+        "date": "2024-11-25",
+        "marketCap": 16829534610
+    },
+    {
+        "symbol": "ALAB",
+        "date": "2024-11-22",
+        "marketCap": 16040674680
+    },
+    {
+        "symbol": "ALAB",
+        "date": "2024-11-21",
+        "marketCap": 16329243720
+    },
+    {
+        "symbol": "ALAB",
+        "date": "2024-11-20",
+        "marketCap": 15278476020
+    },
+    {
+        "symbol": "ALAB",
+        "date": "2024-11-19",
+        "marketCap": 14927174580
+    },
+    {
+        "symbol": "ALAB",
+        "date": "2024-11-18",
+        "marketCap": 14174385780
+    },
+    {
+        "symbol": "ALAB",
+        "date": "2024-11-15",
+        "marketCap": 13558039950
+    },
+    {
+        "symbol": "ALAB",
+        "date": "2024-11-14",
+        "marketCap": 13877975190
+    },
+    {
+        "symbol": "ALAB",
+        "date": "2024-11-13",
+        "marketCap": 14005008300
+    },
+    {
+        "symbol": "ALAB",
+        "date": "2024-11-12",
+        "marketCap": 14232413250
+    },
+    {
+        "symbol": "ALAB",
+        "date": "2024-11-11",
+        "marketCap": 14467659750
+    },
+    {
+        "symbol": "ALAB",
+        "date": "2024-11-08",
+        "marketCap": 15573318300
+    },
+    {
+        "symbol": "ALAB",
+        "date": "2024-11-07",
+        "marketCap": 14818961190
+    },
+    {
+        "symbol": "ALAB",
+        "date": "2024-11-06",
+        "marketCap": 15396099270
+    },
+    {
+        "symbol": "ALAB",
+        "date": "2024-11-05",
+        "marketCap": 15041661210
+    },
+    {
+        "symbol": "ALAB",
+        "date": "2024-11-04",
+        "marketCap": 10923279150
+    },
+    {
+        "symbol": "ALAB",
+        "date": "2024-11-01",
+        "marketCap": 11393772150
+    },
+    {
+        "symbol": "ALAB",
+        "date": "2024-10-31",
+        "marketCap": 10990984960
+    },
+    {
+        "symbol": "ALAB",
+        "date": "2024-10-30",
+        "marketCap": 11514216000
+    },
+    {
+        "symbol": "ALAB",
+        "date": "2024-10-29",
+        "marketCap": 11603509919
+    },
+    {
+        "symbol": "ALAB",
+        "date": "2024-10-28",
+        "marketCap": 11415522720
+    },
+    {
+        "symbol": "ALAB",
+        "date": "2024-10-25",
+        "marketCap": 11384191520
+    },
+    {
+        "symbol": "ALAB",
+        "date": "2024-10-24",
+        "marketCap": 11012916800
+    },
+    {
+        "symbol": "ALAB",
+        "date": "2024-10-23",
+        "marketCap": 10621276800
+    },
+    {
+        "symbol": "ALAB",
+        "date": "2024-10-22",
+        "marketCap": 10698038240
+    },
+    {
+        "symbol": "ALAB",
+        "date": "2024-10-21",
+        "marketCap": 10524150080
+    },
+    {
+        "symbol": "ALAB",
+        "date": "2024-10-18",
+        "marketCap": 10475586720
+    },
+    {
+        "symbol": "ALAB",
+        "date": "2024-10-17",
+        "marketCap": 10337729440
+    },
+    {
+        "symbol": "ALAB",
+        "date": "2024-10-16",
+        "marketCap": 10275067040
+    },
+    {
+        "symbol": "ALAB",
+        "date": "2024-10-15",
+        "marketCap": 9786300320
+    },
+    {
+        "symbol": "ALAB",
+        "date": "2024-10-14",
+        "marketCap": 10176373759
+    },
+    {
+        "symbol": "ALAB",
+        "date": "2024-10-11",
+        "marketCap": 10447388640
+    },
+    {
+        "symbol": "ALAB",
+        "date": "2024-10-10",
+        "marketCap": 10356528160
+    },
+    {
+        "symbol": "ALAB",
+        "date": "2024-10-09",
+        "marketCap": 9590480320
+    },
+    {
+        "symbol": "ALAB",
+        "date": "2024-10-08",
+        "marketCap": 8296501760
+    },
+    {
+        "symbol": "ALAB",
+        "date": "2024-10-07",
+        "marketCap": 8232272800
+    },
+    {
+        "symbol": "ALAB",
+        "date": "2024-10-04",
+        "marketCap": 8199375040
+    },
+    {
+        "symbol": "ALAB",
+        "date": "2024-10-03",
+        "marketCap": 7638546560
+    },
+    {
+        "symbol": "ALAB",
+        "date": "2024-10-02",
+        "marketCap": 7917394240
+    },
+    {
+        "symbol": "ALAB",
+        "date": "2024-10-01",
+        "marketCap": 7939326080
+    },
+    {
+        "symbol": "ALAB",
+        "date": "2024-09-30",
+        "marketCap": 8207207840
+    },
+    {
+        "symbol": "ALAB",
+        "date": "2024-09-27",
+        "marketCap": 8384229120
+    },
+    {
+        "symbol": "ALAB",
+        "date": "2024-09-26",
+        "marketCap": 8576916000
+    },
+    {
+        "symbol": "ALAB",
+        "date": "2024-09-25",
+        "marketCap": 8161777600
+    },
+    {
+        "symbol": "ALAB",
+        "date": "2024-09-24",
+        "marketCap": 8016087520
+    },
+    {
+        "symbol": "ALAB",
+        "date": "2024-09-23",
+        "marketCap": 7942459200
+    },
+    {
+        "symbol": "ALAB",
+        "date": "2024-09-20",
+        "marketCap": 7912694560
+    },
+    {
+        "symbol": "ALAB",
+        "date": "2024-09-19",
+        "marketCap": 7383197280
+    },
+    {
+        "symbol": "ALAB",
+        "date": "2024-09-18",
+        "marketCap": 7275104640
+    },
+    {
+        "symbol": "ALAB",
+        "date": "2024-09-17",
+        "marketCap": 7257872480
+    },
+    {
+        "symbol": "ALAB",
+        "date": "2024-09-16",
+        "marketCap": 6870932160
+    },
+    {
+        "symbol": "ALAB",
+        "date": "2024-09-13",
+        "marketCap": 6806703200
+    },
+    {
+        "symbol": "ALAB",
+        "date": "2024-09-12",
+        "marketCap": 6479292160
+    },
+    {
+        "symbol": "ALAB",
+        "date": "2024-09-11",
+        "marketCap": 6574852320
+    },
+    {
+        "symbol": "ALAB",
+        "date": "2024-09-10",
+        "marketCap": 5999924800
+    },
+    {
+        "symbol": "ALAB",
+        "date": "2024-09-09",
+        "marketCap": 5957627680
+    },
+    {
+        "symbol": "ALAB",
+        "date": "2024-09-06",
+        "marketCap": 6266240000
+    },
+    {
+        "symbol": "ALAB",
+        "date": "2024-09-05",
+        "marketCap": 6530988640
+    },
+    {
+        "symbol": "ALAB",
+        "date": "2024-09-04",
+        "marketCap": 6530988640
+    },
+    {
+        "symbol": "ALAB",
+        "date": "2024-09-03",
+        "marketCap": 6126816160
+    },
+    {
+        "symbol": "ALAB",
+        "date": "2024-08-30",
+        "marketCap": 6745607360
+    },
+    {
+        "symbol": "ALAB",
+        "date": "2024-08-29",
+        "marketCap": 7553952320
+    },
+    {
+        "symbol": "ALAB",
+        "date": "2024-08-28",
+        "marketCap": 6817669120
+    },
+    {
+        "symbol": "ALAB",
+        "date": "2024-08-27",
+        "marketCap": 7004089760
+    },
+    {
+        "symbol": "ALAB",
+        "date": "2024-08-26",
+        "marketCap": 6736208000
+    },
+    {
+        "symbol": "ALAB",
+        "date": "2024-08-23",
+        "marketCap": 6543521120
+    },
+    {
+        "symbol": "ALAB",
+        "date": "2024-08-22",
+        "marketCap": 6231775680
+    },
+    {
+        "symbol": "ALAB",
+        "date": "2024-08-21",
+        "marketCap": 6369632959
+    },
+    {
+        "symbol": "ALAB",
+        "date": "2024-08-20",
+        "marketCap": 6134648959
+    },
+    {
+        "symbol": "ALAB",
+        "date": "2024-08-19",
+        "marketCap": 6436995040
+    },
+    {
+        "symbol": "ALAB",
+        "date": "2024-08-16",
+        "marketCap": 6408796959
+    },
+    {
+        "symbol": "ALAB",
+        "date": "2024-08-15",
+        "marketCap": 6783204800
+    },
+    {
+        "symbol": "ALAB",
+        "date": "2024-08-14",
+        "marketCap": 6087652160
+    },
+    {
+        "symbol": "ALAB",
+        "date": "2024-08-13",
+        "marketCap": 6328902400
+    },
+    {
+        "symbol": "ALAB",
+        "date": "2024-08-12",
+        "marketCap": 6223942879
+    },
+    {
+        "symbol": "ALAB",
+        "date": "2024-08-09",
+        "marketCap": 6408796959
+    },
+    {
+        "symbol": "ALAB",
+        "date": "2024-08-08",
+        "marketCap": 6424462560
+    },
+    {
+        "symbol": "ALAB",
+        "date": "2024-08-07",
+        "marketCap": 5697578720
+    },
+    {
+        "symbol": "ALAB",
+        "date": "2024-08-06",
+        "marketCap": 6654746879
+    },
+    {
+        "symbol": "ALAB",
+        "date": "2024-08-05",
+        "marketCap": 6858399680
+    },
+    {
+        "symbol": "ALAB",
+        "date": "2024-08-02",
+        "marketCap": 6598621094
+    },
+    {
+        "symbol": "ALAB",
+        "date": "2024-08-01",
+        "marketCap": 6298117585
+    },
+    {
+        "symbol": "ALAB",
+        "date": "2024-07-31",
+        "marketCap": 6825944992
+    },
+    {
+        "symbol": "ALAB",
+        "date": "2024-07-30",
+        "marketCap": 6573708886
+    },
+    {
+        "symbol": "ALAB",
+        "date": "2024-07-29",
+        "marketCap": 7163816813
+    },
+    {
+        "symbol": "ALAB",
+        "date": "2024-07-26",
+        "marketCap": 7339759282
+    },
+    {
+        "symbol": "ALAB",
+        "date": "2024-07-25",
+        "marketCap": 7315004650
+    },
+    {
+        "symbol": "ALAB",
+        "date": "2024-07-24",
+        "marketCap": 7330551950
+    },
+    {
+        "symbol": "ALAB",
+        "date": "2024-07-23",
+        "marketCap": 8179434530
+    },
+    {
+        "symbol": "ALAB",
+        "date": "2024-07-22",
+        "marketCap": 8233850080
+    },
+    {
+        "symbol": "ALAB",
+        "date": "2024-07-19",
+        "marketCap": 8028625720
+    },
+    {
+        "symbol": "ALAB",
+        "date": "2024-07-18",
+        "marketCap": 8317805500
+    },
+    {
+        "symbol": "ALAB",
+        "date": "2024-07-17",
+        "marketCap": 8448402820
+    },
+    {
+        "symbol": "ALAB",
+        "date": "2024-07-16",
+        "marketCap": 8942806960
+    },
+    {
+        "symbol": "ALAB",
+        "date": "2024-07-15",
+        "marketCap": 8997222510
+    },
+    {
+        "symbol": "ALAB",
+        "date": "2024-07-12",
+        "marketCap": 8689385970
+    },
+    {
+        "symbol": "ALAB",
+        "date": "2024-07-11",
+        "marketCap": 8572781220
+    },
+    {
+        "symbol": "ALAB",
+        "date": "2024-07-10",
+        "marketCap": 8843304240
+    },
+    {
+        "symbol": "ALAB",
+        "date": "2024-07-09",
+        "marketCap": 8737582600
+    },
+    {
+        "symbol": "ALAB",
+        "date": "2024-07-08",
+        "marketCap": 9158914430
+    },
+    {
+        "symbol": "ALAB",
+        "date": "2024-07-05",
+        "marketCap": 9241315120
+    },
+    {
+        "symbol": "ALAB",
+        "date": "2024-07-03",
+        "marketCap": 9225767820
+    },
+    {
+        "symbol": "ALAB",
+        "date": "2024-07-02",
+        "marketCap": 9406116500
+    },
+    {
+        "symbol": "ALAB",
+        "date": "2024-07-01",
+        "marketCap": 8945916420
+    },
+    {
+        "symbol": "ALAB",
+        "date": "2024-06-28",
+        "marketCap": 9407671230
+    },
+    {
+        "symbol": "ALAB",
+        "date": "2024-06-27",
+        "marketCap": 8998777240
+    },
+    {
+        "symbol": "ALAB",
+        "date": "2024-06-26",
+        "marketCap": 8644298800
+    },
+    {
+        "symbol": "ALAB",
+        "date": "2024-06-25",
+        "marketCap": 8987894130
+    },
+    {
+        "symbol": "ALAB",
+        "date": "2024-06-24",
+        "marketCap": 9160469160
+    },
+    {
+        "symbol": "ALAB",
+        "date": "2024-06-21",
+        "marketCap": 9174461730
+    },
+    {
+        "symbol": "ALAB",
+        "date": "2024-06-20",
+        "marketCap": 9819674680
+    },
+    {
+        "symbol": "ALAB",
+        "date": "2024-06-18",
+        "marketCap": 10441566680
+    },
+    {
+        "symbol": "ALAB",
+        "date": "2024-06-17",
+        "marketCap": 10087088240
+    },
+    {
+        "symbol": "ALAB",
+        "date": "2024-06-14",
+        "marketCap": 9937834160
+    },
+    {
+        "symbol": "ALAB",
+        "date": "2024-06-13",
+        "marketCap": 9811901030
+    },
+    {
+        "symbol": "ALAB",
+        "date": "2024-06-12",
+        "marketCap": 10038891609
+    },
+    {
+        "symbol": "ALAB",
+        "date": "2024-06-11",
+        "marketCap": 10125956490
+    },
+    {
+        "symbol": "ALAB",
+        "date": "2024-06-10",
+        "marketCap": 10370049100
+    },
+    {
+        "symbol": "ALAB",
+        "date": "2024-06-07",
+        "marketCap": 9629997620
+    },
+    {
+        "symbol": "ALAB",
+        "date": "2024-06-06",
+        "marketCap": 9796353730
+    },
+    {
+        "symbol": "ALAB",
+        "date": "2024-06-05",
+        "marketCap": 9671975330
+    },
+    {
+        "symbol": "ALAB",
+        "date": "2024-06-04",
+        "marketCap": 9516502330
+    },
+    {
+        "symbol": "ALAB",
+        "date": "2024-06-03",
+        "marketCap": 9891192260
+    },
+    {
+        "symbol": "ALAB",
+        "date": "2024-05-31",
+        "marketCap": 10034227420
+    },
+    {
+        "symbol": "ALAB",
+        "date": "2024-05-30",
+        "marketCap": 10174153120
+    },
+    {
+        "symbol": "ALAB",
+        "date": "2024-05-29",
+        "marketCap": 10486653850
+    },
+    {
+        "symbol": "ALAB",
+        "date": "2024-05-28",
+        "marketCap": 10710534970
+    },
+    {
+        "symbol": "ALAB",
+        "date": "2024-05-24",
+        "marketCap": 11192501270
+    },
+    {
+        "symbol": "ALAB",
+        "date": "2024-05-23",
+        "marketCap": 10893993109
+    },
+    {
+        "symbol": "ALAB",
+        "date": "2024-05-22",
+        "marketCap": 11371295220
+    },
+    {
+        "symbol": "ALAB",
+        "date": "2024-05-21",
+        "marketCap": 11402389820
+    },
+    {
+        "symbol": "ALAB",
+        "date": "2024-05-20",
+        "marketCap": 11273347230
+    },
+    {
+        "symbol": "ALAB",
+        "date": "2024-05-17",
+        "marketCap": 11271647500
+    },
+    {
+        "symbol": "ALAB",
+        "date": "2024-05-16",
+        "marketCap": 11349383000
+    },
+    {
+        "symbol": "ALAB",
+        "date": "2024-05-15",
+        "marketCap": 12036564820
+    },
+    {
+        "symbol": "ALAB",
+        "date": "2024-05-14",
+        "marketCap": 11243662719
+    },
+    {
+        "symbol": "ALAB",
+        "date": "2024-05-13",
+        "marketCap": 10923392460
+    },
+    {
+        "symbol": "ALAB",
+        "date": "2024-05-10",
+        "marketCap": 10895407680
+    },
+    {
+        "symbol": "ALAB",
+        "date": "2024-05-09",
+        "marketCap": 10892298260
+    },
+    {
+        "symbol": "ALAB",
+        "date": "2024-05-08",
+        "marketCap": 10767921460
+    },
+    {
+        "symbol": "ALAB",
+        "date": "2024-05-07",
+        "marketCap": 11845335490
+    },
+    {
+        "symbol": "ALAB",
+        "date": "2024-05-06",
+        "marketCap": 12143839810
+    },
+    {
+        "symbol": "ALAB",
+        "date": "2024-05-03",
+        "marketCap": 11965202695
+    },
+    {
+        "symbol": "ALAB",
+        "date": "2024-05-02",
+        "marketCap": 12291696012
+    },
+    {
+        "symbol": "ALAB",
+        "date": "2024-05-01",
+        "marketCap": 11634045188
+    },
+    {
+        "symbol": "ALAB",
+        "date": "2024-04-30",
+        "marketCap": 13177892158
+    },
+    {
+        "symbol": "ALAB",
+        "date": "2024-04-29",
+        "marketCap": 13324036785
+    },
+    {
+        "symbol": "ALAB",
+        "date": "2024-04-26",
+        "marketCap": 13215205680
+    },
+    {
+        "symbol": "ALAB",
+        "date": "2024-04-25",
+        "marketCap": 11130312642
+    },
+    {
+        "symbol": "ALAB",
+        "date": "2024-04-24",
+        "marketCap": 11037028837
+    },
+    {
+        "symbol": "ALAB",
+        "date": "2024-04-23",
+        "marketCap": 11150524133
+    },
+    {
+        "symbol": "ALAB",
+        "date": "2024-04-22",
+        "marketCap": 10228569196
+    },
+    {
+        "symbol": "ALAB",
+        "date": "2024-04-19",
+        "marketCap": 10026454285
+    },
+    {
+        "symbol": "ALAB",
+        "date": "2024-04-18",
+        "marketCap": 11026145727
+    },
+    {
+        "symbol": "ALAB",
+        "date": "2024-04-17",
+        "marketCap": 11382178915
+    },
+    {
+        "symbol": "ALAB",
+        "date": "2024-04-16",
+        "marketCap": 11585848556
+    },
+    {
+        "symbol": "ALAB",
+        "date": "2024-04-15",
+        "marketCap": 11085225470
+    },
+    {
+        "symbol": "ALAB",
+        "date": "2024-04-12",
+        "marketCap": 11307551871
+    },
+    {
+        "symbol": "ALAB",
+        "date": "2024-04-11",
+        "marketCap": 11752204674
+    },
+    {
+        "symbol": "ALAB",
+        "date": "2024-04-10",
+        "marketCap": 11086780200
+    },
+    {
+        "symbol": "ALAB",
+        "date": "2024-04-09",
+        "marketCap": 10629689556
+    },
+    {
+        "symbol": "ALAB",
+        "date": "2024-04-08",
+        "marketCap": 10870672719
+    },
+    {
+        "symbol": "ALAB",
+        "date": "2024-04-05",
+        "marketCap": 11091444390
+    },
+    {
+        "symbol": "ALAB",
+        "date": "2024-04-04",
+        "marketCap": 10847351768
+    },
+    {
+        "symbol": "ALAB",
+        "date": "2024-04-03",
+        "marketCap": 10771169994
+    },
+    {
+        "symbol": "ALAB",
+        "date": "2024-04-02",
+        "marketCap": 11226705907
+    },
+    {
+        "symbol": "ALAB",
+        "date": "2024-04-01",
+        "marketCap": 11057240328
+    },
+    {
+        "symbol": "ALAB",
+        "date": "2024-03-28",
+        "marketCap": 11534542463
+    },
+    {
+        "symbol": "ALAB",
+        "date": "2024-03-27",
+        "marketCap": 12425402799
+    },
+    {
+        "symbol": "ALAB",
+        "date": "2024-03-26",
+        "marketCap": 12963339407
+    },
+    {
+        "symbol": "ALAB",
+        "date": "2024-03-25",
+        "marketCap": 13215205680
+    },
+    {
+        "symbol": "ALAB",
+        "date": "2024-03-22",
+        "marketCap": 10883110560
+    },
+    {
+        "symbol": "ALAB",
+        "date": "2024-03-21",
+        "marketCap": 9973593463
+    },
+    {
+        "symbol": "ALAB",
+        "date": "2024-03-20",
+        "marketCap": 9643990686
+    }
+]

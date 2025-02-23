@@ -1,0 +1,770 @@
+[
+    {
+        "date": "2024-10-11",
+        "symbol": "JPM",
+        "actualEarningResult": 4.37,
+        "estimatedEarning": 4.01
+    },
+    {
+        "date": "2024-07-12",
+        "symbol": "JPM",
+        "actualEarningResult": 4.4,
+        "estimatedEarning": 5.88
+    },
+    {
+        "date": "2024-04-12",
+        "symbol": "JPM",
+        "actualEarningResult": 4.44,
+        "estimatedEarning": 4.11
+    },
+    {
+        "date": "2024-01-12",
+        "symbol": "JPM",
+        "actualEarningResult": 3.04,
+        "estimatedEarning": 3.32
+    },
+    {
+        "date": "2023-10-13",
+        "symbol": "JPM",
+        "actualEarningResult": 4.5,
+        "estimatedEarning": 3.96
+    },
+    {
+        "date": "2023-07-14",
+        "symbol": "JPM",
+        "actualEarningResult": 4.98,
+        "estimatedEarning": 4
+    },
+    {
+        "date": "2023-04-14",
+        "symbol": "JPM",
+        "actualEarningResult": 4.32,
+        "estimatedEarning": 3.41
+    },
+    {
+        "date": "2023-01-13",
+        "symbol": "JPM",
+        "actualEarningResult": 3.56,
+        "estimatedEarning": 3.07
+    },
+    {
+        "date": "2022-10-14",
+        "symbol": "JPM",
+        "actualEarningResult": 3.36,
+        "estimatedEarning": 2.88
+    },
+    {
+        "date": "2022-07-14",
+        "symbol": "JPM",
+        "actualEarningResult": 2.76,
+        "estimatedEarning": 2.88
+    },
+    {
+        "date": "2022-04-13",
+        "symbol": "JPM",
+        "actualEarningResult": 2.76,
+        "estimatedEarning": 2.69
+    },
+    {
+        "date": "2022-01-14",
+        "symbol": "JPM",
+        "actualEarningResult": 3.33,
+        "estimatedEarning": 3.01
+    },
+    {
+        "date": "2021-10-13",
+        "symbol": "JPM",
+        "actualEarningResult": 3.74,
+        "estimatedEarning": 3
+    },
+    {
+        "date": "2021-07-13",
+        "symbol": "JPM",
+        "actualEarningResult": 3.78,
+        "estimatedEarning": 3.21
+    },
+    {
+        "date": "2021-04-14",
+        "symbol": "JPM",
+        "actualEarningResult": 4.59,
+        "estimatedEarning": 3.1
+    },
+    {
+        "date": "2021-01-15",
+        "symbol": "JPM",
+        "actualEarningResult": 3.79,
+        "estimatedEarning": 2.62
+    },
+    {
+        "date": "2020-10-13",
+        "symbol": "JPM",
+        "actualEarningResult": 2.92,
+        "estimatedEarning": 2.23
+    },
+    {
+        "date": "2020-07-14",
+        "symbol": "JPM",
+        "actualEarningResult": 1.38,
+        "estimatedEarning": 1.04
+    },
+    {
+        "date": "2020-04-14",
+        "symbol": "JPM",
+        "actualEarningResult": 0.78,
+        "estimatedEarning": 1.84
+    },
+    {
+        "date": "2020-01-14",
+        "symbol": "JPM",
+        "actualEarningResult": 2.57,
+        "estimatedEarning": 2.35
+    },
+    {
+        "date": "2019-10-15",
+        "symbol": "JPM",
+        "actualEarningResult": 2.68,
+        "estimatedEarning": 2.45
+    },
+    {
+        "date": "2019-07-16",
+        "symbol": "JPM",
+        "actualEarningResult": 2.51,
+        "estimatedEarning": 2.5
+    },
+    {
+        "date": "2019-04-12",
+        "symbol": "JPM",
+        "actualEarningResult": 2.65,
+        "estimatedEarning": 2.35
+    },
+    {
+        "date": "2019-01-15",
+        "symbol": "JPM",
+        "actualEarningResult": 1.98,
+        "estimatedEarning": 2.2
+    },
+    {
+        "date": "2018-10-12",
+        "symbol": "JPM",
+        "actualEarningResult": 2.34,
+        "estimatedEarning": 2.25
+    },
+    {
+        "date": "2018-07-13",
+        "symbol": "JPM",
+        "actualEarningResult": 2.29,
+        "estimatedEarning": 2.22
+    },
+    {
+        "date": "2018-04-13",
+        "symbol": "JPM",
+        "actualEarningResult": 2.26,
+        "estimatedEarning": 2.28
+    },
+    {
+        "date": "2018-01-12",
+        "symbol": "JPM",
+        "actualEarningResult": 1.76,
+        "estimatedEarning": 1.69
+    },
+    {
+        "date": "2017-10-12",
+        "symbol": "JPM",
+        "actualEarningResult": 1.76,
+        "estimatedEarning": 1.65
+    },
+    {
+        "date": "2017-07-14",
+        "symbol": "JPM",
+        "actualEarningResult": 1.71,
+        "estimatedEarning": 1.58
+    },
+    {
+        "date": "2017-04-13",
+        "symbol": "JPM",
+        "actualEarningResult": 1.65,
+        "estimatedEarning": 1.52
+    },
+    {
+        "date": "2017-01-13",
+        "symbol": "JPM",
+        "actualEarningResult": 1.58,
+        "estimatedEarning": 1.44
+    },
+    {
+        "date": "2016-10-14",
+        "symbol": "JPM",
+        "actualEarningResult": 1.58,
+        "estimatedEarning": 1.39
+    },
+    {
+        "date": "2016-07-14",
+        "symbol": "JPM",
+        "actualEarningResult": 1.55,
+        "estimatedEarning": 1.43
+    },
+    {
+        "date": "2016-04-13",
+        "symbol": "JPM",
+        "actualEarningResult": 1.35,
+        "estimatedEarning": 1.26
+    },
+    {
+        "date": "2016-01-14",
+        "symbol": "JPM",
+        "actualEarningResult": 1.32,
+        "estimatedEarning": 1.25
+    },
+    {
+        "date": "2015-10-13",
+        "symbol": "JPM",
+        "actualEarningResult": 1.68,
+        "estimatedEarning": 1.37
+    },
+    {
+        "date": "2015-07-14",
+        "symbol": "JPM",
+        "actualEarningResult": 1.54,
+        "estimatedEarning": 1.44
+    },
+    {
+        "date": "2015-04-14",
+        "symbol": "JPM",
+        "actualEarningResult": 1.45,
+        "estimatedEarning": 1.4
+    },
+    {
+        "date": "2015-01-14",
+        "symbol": "JPM",
+        "actualEarningResult": 1.19,
+        "estimatedEarning": 1.31
+    },
+    {
+        "date": "2014-10-14",
+        "symbol": "JPM",
+        "actualEarningResult": 1.36,
+        "estimatedEarning": 1.38
+    },
+    {
+        "date": "2014-07-15",
+        "symbol": "JPM",
+        "actualEarningResult": 1.46,
+        "estimatedEarning": 1.29
+    },
+    {
+        "date": "2014-04-11",
+        "symbol": "JPM",
+        "actualEarningResult": 1.28,
+        "estimatedEarning": 1.4
+    },
+    {
+        "date": "2014-01-14",
+        "symbol": "JPM",
+        "actualEarningResult": 1.4,
+        "estimatedEarning": 1.35
+    },
+    {
+        "date": "2013-10-11",
+        "symbol": "JPM",
+        "actualEarningResult": 1.42,
+        "estimatedEarning": 1.27
+    },
+    {
+        "date": "2013-07-12",
+        "symbol": "JPM",
+        "actualEarningResult": 1.6,
+        "estimatedEarning": 1.44
+    },
+    {
+        "date": "2013-04-12",
+        "symbol": "JPM",
+        "actualEarningResult": 1.59,
+        "estimatedEarning": 1.39
+    },
+    {
+        "date": "2013-01-16",
+        "symbol": "JPM",
+        "actualEarningResult": 1.39,
+        "estimatedEarning": 1.16
+    },
+    {
+        "date": "2012-10-12",
+        "symbol": "JPM",
+        "actualEarningResult": 1.51,
+        "estimatedEarning": 1.24
+    },
+    {
+        "date": "2012-07-13",
+        "symbol": "JPM",
+        "actualEarningResult": 1.09,
+        "estimatedEarning": 0.71
+    },
+    {
+        "date": "2012-04-13",
+        "symbol": "JPM",
+        "actualEarningResult": 1.28,
+        "estimatedEarning": 1.18
+    },
+    {
+        "date": "2012-01-13",
+        "symbol": "JPM",
+        "actualEarningResult": 0.9,
+        "estimatedEarning": 0.9
+    },
+    {
+        "date": "2011-10-13",
+        "symbol": "JPM",
+        "actualEarningResult": 1.02,
+        "estimatedEarning": 0.91
+    },
+    {
+        "date": "2011-07-14",
+        "symbol": "JPM",
+        "actualEarningResult": 1.27,
+        "estimatedEarning": 1.21
+    },
+    {
+        "date": "2011-04-13",
+        "symbol": "JPM",
+        "actualEarningResult": 1.28,
+        "estimatedEarning": 1.16
+    },
+    {
+        "date": "2011-01-14",
+        "symbol": "JPM",
+        "actualEarningResult": 1.12,
+        "estimatedEarning": 1
+    },
+    {
+        "date": "2010-10-13",
+        "symbol": "JPM",
+        "actualEarningResult": 1.01,
+        "estimatedEarning": 0.9
+    },
+    {
+        "date": "2010-07-15",
+        "symbol": "JPM",
+        "actualEarningResult": 0.73,
+        "estimatedEarning": 0.67
+    },
+    {
+        "date": "2010-04-14",
+        "symbol": "JPM",
+        "actualEarningResult": 0.74,
+        "estimatedEarning": 0.64
+    },
+    {
+        "date": "2010-01-15",
+        "symbol": "JPM",
+        "actualEarningResult": 0.74,
+        "estimatedEarning": 0.61
+    },
+    {
+        "date": "2009-10-14",
+        "symbol": "JPM",
+        "actualEarningResult": 0.82,
+        "estimatedEarning": 0.52
+    },
+    {
+        "date": "2009-07-16",
+        "symbol": "JPM",
+        "actualEarningResult": 0.28,
+        "estimatedEarning": 0.04067
+    },
+    {
+        "date": "2009-04-16",
+        "symbol": "JPM",
+        "actualEarningResult": 0.4,
+        "estimatedEarning": 0.32
+    },
+    {
+        "date": "2009-01-15",
+        "symbol": "JPM",
+        "actualEarningResult": 0.07,
+        "estimatedEarning": 0.00308
+    },
+    {
+        "date": "2008-10-15",
+        "symbol": "JPM",
+        "actualEarningResult": 0.11,
+        "estimatedEarning": -0.21
+    },
+    {
+        "date": "2008-07-17",
+        "symbol": "JPM",
+        "actualEarningResult": 0.54,
+        "estimatedEarning": 0.44
+    },
+    {
+        "date": "2008-04-16",
+        "symbol": "JPM",
+        "actualEarningResult": 0.68,
+        "estimatedEarning": 0.64
+    },
+    {
+        "date": "2008-01-16",
+        "symbol": "JPM",
+        "actualEarningResult": 0.86,
+        "estimatedEarning": 0.92
+    },
+    {
+        "date": "2007-10-17",
+        "symbol": "JPM",
+        "actualEarningResult": 0.97,
+        "estimatedEarning": 0.9
+    },
+    {
+        "date": "2007-07-18",
+        "symbol": "JPM",
+        "actualEarningResult": 1.2,
+        "estimatedEarning": 1.09
+    },
+    {
+        "date": "2007-04-18",
+        "symbol": "JPM",
+        "actualEarningResult": 1.34,
+        "estimatedEarning": 1.02
+    },
+    {
+        "date": "2007-01-17",
+        "symbol": "JPM",
+        "actualEarningResult": 1.09,
+        "estimatedEarning": 0.95
+    },
+    {
+        "date": "2006-10-18",
+        "symbol": "JPM",
+        "actualEarningResult": 0.92,
+        "estimatedEarning": 0.86
+    },
+    {
+        "date": "2006-07-19",
+        "symbol": "JPM",
+        "actualEarningResult": 0.99,
+        "estimatedEarning": 0.87
+    },
+    {
+        "date": "2006-04-19",
+        "symbol": "JPM",
+        "actualEarningResult": 0.86,
+        "estimatedEarning": 0.84
+    },
+    {
+        "date": "2006-01-18",
+        "symbol": "JPM",
+        "actualEarningResult": 0.73,
+        "estimatedEarning": 0.72
+    },
+    {
+        "date": "2005-10-19",
+        "symbol": "JPM",
+        "actualEarningResult": 0.75,
+        "estimatedEarning": 0.72
+    },
+    {
+        "date": "2005-07-20",
+        "symbol": "JPM",
+        "actualEarningResult": 0.66,
+        "estimatedEarning": 0.64
+    },
+    {
+        "date": "2005-04-20",
+        "symbol": "JPM",
+        "actualEarningResult": 0.81,
+        "estimatedEarning": 0.69
+    },
+    {
+        "date": "2005-01-19",
+        "symbol": "JPM",
+        "actualEarningResult": 0.64,
+        "estimatedEarning": 0.68
+    },
+    {
+        "date": "2004-10-20",
+        "symbol": "JPM",
+        "actualEarningResult": 0.6,
+        "estimatedEarning": 0.74
+    },
+    {
+        "date": "2004-07-21",
+        "symbol": "JPM",
+        "actualEarningResult": 0.85,
+        "estimatedEarning": 0.83
+    },
+    {
+        "date": "2004-04-21",
+        "symbol": "JPM",
+        "actualEarningResult": 0.92,
+        "estimatedEarning": 0.87
+    },
+    {
+        "date": "2004-01-21",
+        "symbol": "JPM",
+        "actualEarningResult": 0.89,
+        "estimatedEarning": 0.77
+    },
+    {
+        "date": "2003-10-22",
+        "symbol": "JPM",
+        "actualEarningResult": 0.78,
+        "estimatedEarning": 0.76
+    },
+    {
+        "date": "2003-07-16",
+        "symbol": "JPM",
+        "actualEarningResult": 0.89,
+        "estimatedEarning": 0.63
+    },
+    {
+        "date": "2003-04-16",
+        "symbol": "JPM",
+        "actualEarningResult": 0.69,
+        "estimatedEarning": 0.51
+    },
+    {
+        "date": "2003-01-22",
+        "symbol": "JPM",
+        "actualEarningResult": -0.07,
+        "estimatedEarning": -0.09
+    },
+    {
+        "date": "2002-10-16",
+        "symbol": "JPM",
+        "actualEarningResult": 0.16,
+        "estimatedEarning": 0.07
+    },
+    {
+        "date": "2002-07-17",
+        "symbol": "JPM",
+        "actualEarningResult": 0.58,
+        "estimatedEarning": 0.65
+    },
+    {
+        "date": "2002-04-17",
+        "symbol": "JPM",
+        "actualEarningResult": 0.57,
+        "estimatedEarning": 0.53
+    },
+    {
+        "date": "2002-01-16",
+        "symbol": "JPM",
+        "actualEarningResult": 0.12,
+        "estimatedEarning": 0.34
+    },
+    {
+        "date": "2001-10-17",
+        "symbol": "JPM",
+        "actualEarningResult": 0.51,
+        "estimatedEarning": 0.5
+    },
+    {
+        "date": "2001-07-18",
+        "symbol": "JPM",
+        "actualEarningResult": 0.64,
+        "estimatedEarning": 0.65
+    },
+    {
+        "date": "2001-04-18",
+        "symbol": "JPM",
+        "actualEarningResult": 0.7,
+        "estimatedEarning": 0.67
+    },
+    {
+        "date": "2001-03-12",
+        "symbol": "JPM",
+        "actualEarningResult": 0.37,
+        "estimatedEarning": 0.45
+    },
+    {
+        "date": "2000-10-18",
+        "symbol": "JPM",
+        "actualEarningResult": 0.68,
+        "estimatedEarning": 0.94
+    },
+    {
+        "date": "2000-07-19",
+        "symbol": "JPM",
+        "actualEarningResult": 0.95,
+        "estimatedEarning": 0.85
+    },
+    {
+        "date": "2000-04-19",
+        "symbol": "JPM",
+        "actualEarningResult": 1.06,
+        "estimatedEarning": 1.02
+    },
+    {
+        "date": "2000-01-19",
+        "symbol": "JPM",
+        "actualEarningResult": 1.32,
+        "estimatedEarning": 0.87
+    },
+    {
+        "date": "1999-10-20",
+        "symbol": "JPM",
+        "actualEarningResult": 0.91,
+        "estimatedEarning": 0.88
+    },
+    {
+        "date": "1999-07-21",
+        "symbol": "JPM",
+        "actualEarningResult": 1.03,
+        "estimatedEarning": 0.9
+    },
+    {
+        "date": "1999-04-20",
+        "symbol": "JPM",
+        "actualEarningResult": 0.91,
+        "estimatedEarning": 0.83
+    },
+    {
+        "date": "1999-01-19",
+        "symbol": "JPM",
+        "actualEarningResult": 0.87,
+        "estimatedEarning": 0.79
+    },
+    {
+        "date": "1998-10-20",
+        "symbol": "JPM",
+        "actualEarningResult": 0.55,
+        "estimatedEarning": 0.52
+    },
+    {
+        "date": "1998-07-21",
+        "symbol": "JPM",
+        "actualEarningResult": 0.83,
+        "estimatedEarning": 0.79
+    },
+    {
+        "date": "1998-04-21",
+        "symbol": "JPM",
+        "actualEarningResult": 0.78,
+        "estimatedEarning": 0.75
+    },
+    {
+        "date": "1998-01-20",
+        "symbol": "JPM",
+        "actualEarningResult": 0.63,
+        "estimatedEarning": 0.64
+    },
+    {
+        "date": "1997-10-21",
+        "symbol": "JPM",
+        "actualEarningResult": 0.75,
+        "estimatedEarning": 0.72
+    },
+    {
+        "date": "1997-07-15",
+        "symbol": "JPM",
+        "actualEarningResult": 0.7,
+        "estimatedEarning": 0.69
+    },
+    {
+        "date": "1997-04-15",
+        "symbol": "JPM",
+        "actualEarningResult": 0.67,
+        "estimatedEarning": 0.66
+    },
+    {
+        "date": "1997-01-21",
+        "symbol": "JPM",
+        "actualEarningResult": 0.63,
+        "estimatedEarning": 0.63
+    },
+    {
+        "date": "1996-10-15",
+        "symbol": "JPM",
+        "actualEarningResult": 0.61,
+        "estimatedEarning": 0.61
+    },
+    {
+        "date": "1996-07-16",
+        "symbol": "JPM",
+        "actualEarningResult": 0.6,
+        "estimatedEarning": 0.58
+    },
+    {
+        "date": "1996-04-16",
+        "symbol": "JPM",
+        "actualEarningResult": 0.66,
+        "estimatedEarning": 0.55
+    },
+    {
+        "date": "1996-01-16",
+        "symbol": "JPM",
+        "actualEarningResult": 0.56,
+        "estimatedEarning": 0.54
+    },
+    {
+        "date": "1995-10-17",
+        "symbol": "JPM",
+        "actualEarningResult": 0.52,
+        "estimatedEarning": 0.53
+    },
+    {
+        "date": "1995-07-18",
+        "symbol": "JPM",
+        "actualEarningResult": 0.51,
+        "estimatedEarning": 0.5
+    },
+    {
+        "date": "1995-04-18",
+        "symbol": "JPM",
+        "actualEarningResult": 0.45,
+        "estimatedEarning": 0.44
+    },
+    {
+        "date": "1995-01-17",
+        "symbol": "JPM",
+        "actualEarningResult": 0.41,
+        "estimatedEarning": 0.47
+    },
+    {
+        "date": "1994-10-18",
+        "symbol": "JPM",
+        "actualEarningResult": 0.53,
+        "estimatedEarning": 0.43
+    },
+    {
+        "date": "1994-07-19",
+        "symbol": "JPM",
+        "actualEarningResult": 0.43,
+        "estimatedEarning": 0.41
+    },
+    {
+        "date": "1994-04-19",
+        "symbol": "JPM",
+        "actualEarningResult": 0.41,
+        "estimatedEarning": 0.38
+    },
+    {
+        "date": "1994-01-18",
+        "symbol": "JPM",
+        "actualEarningResult": 0.41,
+        "estimatedEarning": 0.38
+    },
+    {
+        "date": "1993-10-19",
+        "symbol": "JPM",
+        "actualEarningResult": 0.52,
+        "estimatedEarning": 0.38
+    },
+    {
+        "date": "1993-07-20",
+        "symbol": "JPM",
+        "actualEarningResult": 0.45,
+        "estimatedEarning": 0.34
+    },
+    {
+        "date": "1993-04-20",
+        "symbol": "JPM",
+        "actualEarningResult": 0.4,
+        "estimatedEarning": 0.34
+    },
+    {
+        "date": "1993-01-19",
+        "symbol": "JPM",
+        "actualEarningResult": 0.36,
+        "estimatedEarning": 0.31
+    }
+]

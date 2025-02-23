@@ -1,0 +1,5402 @@
+[
+    {
+        "symbol": "SNOW",
+        "date": "2024-12-31",
+        "marketCap": 51439529760
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2024-12-30",
+        "marketCap": 51626085920
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2024-12-27",
+        "marketCap": 52852026400
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2024-12-26",
+        "marketCap": 54461073280
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2024-12-24",
+        "marketCap": 54321156160
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2024-12-23",
+        "marketCap": 53781475840
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2024-12-20",
+        "marketCap": 55397185440
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2024-12-19",
+        "marketCap": 54704262560
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2024-12-18",
+        "marketCap": 54164582240
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2024-12-17",
+        "marketCap": 56902960160
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2024-12-16",
+        "marketCap": 57455965920
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2024-12-13",
+        "marketCap": 55856913119
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2024-12-12",
+        "marketCap": 56633120000
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2024-12-11",
+        "marketCap": 57286066560
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2024-12-10",
+        "marketCap": 57149480800
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2024-12-09",
+        "marketCap": 60217663360
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2024-12-06",
+        "marketCap": 61177095039
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2024-12-05",
+        "marketCap": 60983876160
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2024-12-04",
+        "marketCap": 62133195360
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2024-12-03",
+        "marketCap": 58611947840
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2024-12-02",
+        "marketCap": 57439309119
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2024-11-29",
+        "marketCap": 58232172800
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2024-11-27",
+        "marketCap": 57865723200
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2024-11-26",
+        "marketCap": 57059534080
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2024-11-25",
+        "marketCap": 57106173119
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2024-11-22",
+        "marketCap": 55780291840
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2024-11-21",
+        "marketCap": 57082853600
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2024-11-20",
+        "marketCap": 43014520320
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2024-11-19",
+        "marketCap": 43387632640
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2024-11-18",
+        "marketCap": 42451520480
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2024-11-15",
+        "marketCap": 42079583160
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2024-11-14",
+        "marketCap": 43185358170
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2024-11-13",
+        "marketCap": 43673101830
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2024-11-12",
+        "marketCap": 41912547660
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2024-11-11",
+        "marketCap": 41257768500
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2024-11-08",
+        "marketCap": 40385843190
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2024-11-07",
+        "marketCap": 41271131340
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2024-11-06",
+        "marketCap": 40562900820
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2024-11-05",
+        "marketCap": 38919271500
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2024-11-04",
+        "marketCap": 37997235540
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2024-11-01",
+        "marketCap": 38581859790
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2024-10-31",
+        "marketCap": 38358032220
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2024-10-30",
+        "marketCap": 39751108290
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2024-10-29",
+        "marketCap": 39550665690
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2024-10-28",
+        "marketCap": 39196550430
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2024-10-25",
+        "marketCap": 38765598840
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2024-10-24",
+        "marketCap": 38391439320
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2024-10-23",
+        "marketCap": 37953806310
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2024-10-22",
+        "marketCap": 38585200500
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2024-10-21",
+        "marketCap": 39941528760
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2024-10-18",
+        "marketCap": 39934847340
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2024-10-17",
+        "marketCap": 39764471130
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2024-10-16",
+        "marketCap": 39721041900
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2024-10-15",
+        "marketCap": 41003874540
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2024-10-14",
+        "marketCap": 41144184360
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2024-10-11",
+        "marketCap": 41434826130
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2024-10-10",
+        "marketCap": 41354649090
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2024-10-09",
+        "marketCap": 39978276570
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2024-10-08",
+        "marketCap": 37923739920
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2024-10-07",
+        "marketCap": 38023961220
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2024-10-04",
+        "marketCap": 38324625120
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2024-10-03",
+        "marketCap": 36904823370
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2024-10-02",
+        "marketCap": 36630885150
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2024-10-01",
+        "marketCap": 36824646330
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2024-09-30",
+        "marketCap": 38371395060
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2024-09-27",
+        "marketCap": 38057368320
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2024-09-26",
+        "marketCap": 37579646790
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2024-09-25",
+        "marketCap": 37623076020
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2024-09-24",
+        "marketCap": 37582987500
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2024-09-23",
+        "marketCap": 37836881460
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2024-09-20",
+        "marketCap": 36838009170
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2024-09-19",
+        "marketCap": 38090775420
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2024-09-18",
+        "marketCap": 37008385380
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2024-09-17",
+        "marketCap": 37292345730
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2024-09-16",
+        "marketCap": 37696571640
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2024-09-13",
+        "marketCap": 37973850570
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2024-09-12",
+        "marketCap": 37746682290
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2024-09-11",
+        "marketCap": 37415952000
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2024-09-10",
+        "marketCap": 36838009170
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2024-09-09",
+        "marketCap": 36734447160
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2024-09-06",
+        "marketCap": 36266747760
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2024-09-05",
+        "marketCap": 37332434250
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2024-09-04",
+        "marketCap": 37015066800
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2024-09-03",
+        "marketCap": 36884779110
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2024-08-30",
+        "marketCap": 38160930330
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2024-08-29",
+        "marketCap": 38130863940
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2024-08-28",
+        "marketCap": 37268960760
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2024-08-27",
+        "marketCap": 38598563340
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2024-08-26",
+        "marketCap": 39420378000
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2024-08-23",
+        "marketCap": 38705466060
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2024-08-22",
+        "marketCap": 38488319910
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2024-08-21",
+        "marketCap": 45119629260
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2024-08-20",
+        "marketCap": 44070646319
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2024-08-19",
+        "marketCap": 43903610819
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2024-08-16",
+        "marketCap": 42774450840
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2024-08-15",
+        "marketCap": 42443720550
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2024-08-14",
+        "marketCap": 42527238300
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2024-08-13",
+        "marketCap": 42447061260
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2024-08-12",
+        "marketCap": 41100755130
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2024-08-09",
+        "marketCap": 41561773110
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2024-08-08",
+        "marketCap": 40623033600
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2024-08-07",
+        "marketCap": 38451572100
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2024-08-06",
+        "marketCap": 38358032220
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2024-08-05",
+        "marketCap": 37626416730
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2024-08-02",
+        "marketCap": 40011683670
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2024-08-01",
+        "marketCap": 41491618200
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2024-07-31",
+        "marketCap": 43556176980
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2024-07-30",
+        "marketCap": 43055070480
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2024-07-29",
+        "marketCap": 43285579470
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2024-07-26",
+        "marketCap": 43095159000
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2024-07-25",
+        "marketCap": 43292260890
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2024-07-24",
+        "marketCap": 41965999020
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2024-07-23",
+        "marketCap": 44297814600
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2024-07-22",
+        "marketCap": 43813411650
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2024-07-19",
+        "marketCap": 43379119350
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2024-07-18",
+        "marketCap": 43375778640
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2024-07-17",
+        "marketCap": 45132992100
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2024-07-16",
+        "marketCap": 45503810910
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2024-07-15",
+        "marketCap": 44671974120
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2024-07-12",
+        "marketCap": 45350138250
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2024-07-11",
+        "marketCap": 46161930780
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2024-07-10",
+        "marketCap": 45934762500
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2024-07-09",
+        "marketCap": 45921399660
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2024-07-08",
+        "marketCap": 47294431470
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2024-07-05",
+        "marketCap": 47778834420
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2024-07-03",
+        "marketCap": 47725383060
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2024-07-02",
+        "marketCap": 47411356319
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2024-07-01",
+        "marketCap": 47695316670
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2024-06-28",
+        "marketCap": 45129651390
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2024-06-27",
+        "marketCap": 44738788319
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2024-06-26",
+        "marketCap": 43138588230
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2024-06-25",
+        "marketCap": 41494958910
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2024-06-24",
+        "marketCap": 41692060800
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2024-06-21",
+        "marketCap": 42694273800
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2024-06-20",
+        "marketCap": 42300070020
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2024-06-18",
+        "marketCap": 42627459600
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2024-06-17",
+        "marketCap": 43653057569
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2024-06-14",
+        "marketCap": 42483809070
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2024-06-13",
+        "marketCap": 42059538900
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2024-06-12",
+        "marketCap": 43539473430
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2024-06-11",
+        "marketCap": 42921442080
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2024-06-10",
+        "marketCap": 42346839960
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2024-06-07",
+        "marketCap": 43833455910
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2024-06-06",
+        "marketCap": 44110734840
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2024-06-05",
+        "marketCap": 44862394590
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2024-06-04",
+        "marketCap": 45767727000
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2024-06-03",
+        "marketCap": 45744342030
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2024-05-31",
+        "marketCap": 45493788780
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2024-05-30",
+        "marketCap": 47087307450
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2024-05-29",
+        "marketCap": 49505981490
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2024-05-28",
+        "marketCap": 50357862540
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2024-05-24",
+        "marketCap": 52168527360
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2024-05-23",
+        "marketCap": 51640695180
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2024-05-22",
+        "marketCap": 54567157140
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2024-05-21",
+        "marketCap": 54356692410
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2024-05-20",
+        "marketCap": 55048219380
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2024-05-17",
+        "marketCap": 54072732060
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2024-05-16",
+        "marketCap": 55135077840
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2024-05-15",
+        "marketCap": 54911250270
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2024-05-14",
+        "marketCap": 53768727450
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2024-05-13",
+        "marketCap": 53381205090
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2024-05-10",
+        "marketCap": 52499257650
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2024-05-09",
+        "marketCap": 52071646770
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2024-05-08",
+        "marketCap": 52709722380
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2024-05-07",
+        "marketCap": 53147355390
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2024-05-06",
+        "marketCap": 54680741280
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2024-05-03",
+        "marketCap": 53224191720
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2024-05-02",
+        "marketCap": 52706381670
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2024-05-01",
+        "marketCap": 52161845939
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2024-04-30",
+        "marketCap": 51847819200
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2024-04-29",
+        "marketCap": 52519464960
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2024-04-26",
+        "marketCap": 52749637920
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2024-04-25",
+        "marketCap": 50871560000
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2024-04-24",
+        "marketCap": 51702184160
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2024-04-23",
+        "marketCap": 50427893279
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2024-04-22",
+        "marketCap": 49106900640
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2024-04-19",
+        "marketCap": 48519792800
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2024-04-18",
+        "marketCap": 49507201440
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2024-04-17",
+        "marketCap": 49637299200
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2024-04-16",
+        "marketCap": 50137675200
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2024-04-15",
+        "marketCap": 50698096320
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2024-04-12",
+        "marketCap": 52893079040
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2024-04-11",
+        "marketCap": 53156610400
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2024-04-10",
+        "marketCap": 51028344480
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2024-04-09",
+        "marketCap": 51898998720
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2024-04-08",
+        "marketCap": 51658818240
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2024-04-05",
+        "marketCap": 51325234240
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2024-04-04",
+        "marketCap": 50484602560
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2024-04-03",
+        "marketCap": 51045023680
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2024-04-02",
+        "marketCap": 52102484960
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2024-04-01",
+        "marketCap": 53546903680
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2024-03-28",
+        "marketCap": 53907174400
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2024-03-27",
+        "marketCap": 53386783360
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2024-03-26",
+        "marketCap": 52712943680
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2024-03-25",
+        "marketCap": 52752973759
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2024-03-22",
+        "marketCap": 53049863520
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2024-03-21",
+        "marketCap": 52836369759
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2024-03-20",
+        "marketCap": 54387535360
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2024-03-19",
+        "marketCap": 52606196800
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2024-03-18",
+        "marketCap": 52142515040
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2024-03-15",
+        "marketCap": 52362680480
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2024-03-14",
+        "marketCap": 53013169279
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2024-03-13",
+        "marketCap": 54144019040
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2024-03-12",
+        "marketCap": 54023928800
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2024-03-11",
+        "marketCap": 54137347360
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2024-03-08",
+        "marketCap": 54174041600
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2024-03-07",
+        "marketCap": 56188888960
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2024-03-06",
+        "marketCap": 55708528000
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2024-03-05",
+        "marketCap": 55958716000
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2024-03-04",
+        "marketCap": 59354601120
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2024-03-01",
+        "marketCap": 62286804480
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2024-02-29",
+        "marketCap": 62807195520
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2024-02-28",
+        "marketCap": 76724320000
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2024-02-27",
+        "marketCap": 78068663520
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2024-02-26",
+        "marketCap": 77034553120
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2024-02-23",
+        "marketCap": 76504154560
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2024-02-22",
+        "marketCap": 75263222080
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2024-02-21",
+        "marketCap": 72124196640
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2024-02-20",
+        "marketCap": 73415166720
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2024-02-16",
+        "marketCap": 76827731040
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2024-02-15",
+        "marketCap": 77524921600
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2024-02-14",
+        "marketCap": 78725824000
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2024-02-13",
+        "marketCap": 75913710880
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2024-02-12",
+        "marketCap": 77444861440
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2024-02-09",
+        "marketCap": 77818475520
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2024-02-08",
+        "marketCap": 74355873600
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2024-02-07",
+        "marketCap": 72798036320
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2024-02-06",
+        "marketCap": 71280229120
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2024-02-05",
+        "marketCap": 71920710400
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2024-02-02",
+        "marketCap": 72974835840
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2024-02-01",
+        "marketCap": 66696784960
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2024-01-31",
+        "marketCap": 65262373759
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2024-01-30",
+        "marketCap": 68285043750
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2024-01-29",
+        "marketCap": 69374293660
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2024-01-26",
+        "marketCap": 67046808290
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2024-01-25",
+        "marketCap": 68205584790
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2024-01-24",
+        "marketCap": 67477210990
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2024-01-23",
+        "marketCap": 68063220820
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2024-01-22",
+        "marketCap": 65911207320
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2024-01-19",
+        "marketCap": 63937976480
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2024-01-18",
+        "marketCap": 61782652190
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2024-01-17",
+        "marketCap": 62282581480
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2024-01-16",
+        "marketCap": 62249473580
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2024-01-12",
+        "marketCap": 63322169540
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2024-01-11",
+        "marketCap": 64765673980
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2024-01-10",
+        "marketCap": 65354994600
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2024-01-09",
+        "marketCap": 65189455100
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2024-01-08",
+        "marketCap": 65007361650
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2024-01-05",
+        "marketCap": 62613660480
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2024-01-04",
+        "marketCap": 60825833880
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2024-01-03",
+        "marketCap": 60988062590
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2024-01-02",
+        "marketCap": 62613660480
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2023-12-29",
+        "marketCap": 65884721000
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2023-12-28",
+        "marketCap": 66623027170
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2023-12-27",
+        "marketCap": 65788708090
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2023-12-26",
+        "marketCap": 65739046240
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2023-12-22",
+        "marketCap": 64782227929
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2023-12-21",
+        "marketCap": 65153036410
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2023-12-20",
+        "marketCap": 64322028120
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2023-12-19",
+        "marketCap": 65891342580
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2023-12-18",
+        "marketCap": 65874788630
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2023-12-15",
+        "marketCap": 65888031790
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2023-12-14",
+        "marketCap": 66500527940
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2023-12-13",
+        "marketCap": 65073577450
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2023-12-12",
+        "marketCap": 64060475710
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2023-12-11",
+        "marketCap": 63894936210
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2023-12-08",
+        "marketCap": 63126832929
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2023-12-07",
+        "marketCap": 62014407490
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2023-12-06",
+        "marketCap": 61074143130
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2023-12-05",
+        "marketCap": 61633666640
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2023-12-04",
+        "marketCap": 62342175700
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2023-12-01",
+        "marketCap": 61570761630
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2023-11-30",
+        "marketCap": 62136906720
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2023-11-29",
+        "marketCap": 58044770280
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2023-11-28",
+        "marketCap": 56796602450
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2023-11-27",
+        "marketCap": 56382753700
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2023-11-24",
+        "marketCap": 56667481640
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2023-11-22",
+        "marketCap": 55925864679
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2023-11-21",
+        "marketCap": 55180936929
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2023-11-20",
+        "marketCap": 55200801670
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2023-11-17",
+        "marketCap": 53585136150
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2023-11-16",
+        "marketCap": 53293786630
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2023-11-15",
+        "marketCap": 53975809370
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2023-11-14",
+        "marketCap": 54912762940
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2023-11-13",
+        "marketCap": 52542237300
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2023-11-10",
+        "marketCap": 53105071600
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2023-11-09",
+        "marketCap": 51764201650
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2023-11-08",
+        "marketCap": 52502507820
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2023-11-07",
+        "marketCap": 52830276030
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2023-11-06",
+        "marketCap": 47741591800
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2023-11-03",
+        "marketCap": 49658539210
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2023-11-02",
+        "marketCap": 47261527250
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2023-11-01",
+        "marketCap": 47761456540
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2023-10-31",
+        "marketCap": 48049495270
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2023-10-30",
+        "marketCap": 47473329600
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2023-10-27",
+        "marketCap": 47216467800
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2023-10-26",
+        "marketCap": 46380020400
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2023-10-25",
+        "marketCap": 46893744000
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2023-10-24",
+        "marketCap": 49765327200
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2023-10-23",
+        "marketCap": 48932172900
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2023-10-20",
+        "marketCap": 48629207699
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2023-10-19",
+        "marketCap": 50526033300
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2023-10-18",
+        "marketCap": 50460171300
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2023-10-17",
+        "marketCap": 52488720899
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2023-10-16",
+        "marketCap": 53391030300
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2023-10-13",
+        "marketCap": 51754359600
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2023-10-12",
+        "marketCap": 52676427600
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2023-10-11",
+        "marketCap": 53855357400
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2023-10-10",
+        "marketCap": 53720340300
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2023-10-09",
+        "marketCap": 53285651100
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2023-10-06",
+        "marketCap": 52673134500
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2023-10-05",
+        "marketCap": 49478827500
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2023-10-04",
+        "marketCap": 50041947600
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2023-10-03",
+        "marketCap": 48998034900
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2023-10-02",
+        "marketCap": 49781792699
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2023-09-29",
+        "marketCap": 50308688700
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2023-09-28",
+        "marketCap": 49765327200
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2023-09-27",
+        "marketCap": 48579811200
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2023-09-26",
+        "marketCap": 48425035500
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2023-09-25",
+        "marketCap": 49310879400
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2023-09-22",
+        "marketCap": 49297707000
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2023-09-21",
+        "marketCap": 49077069300
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2023-09-20",
+        "marketCap": 52238445300
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2023-09-19",
+        "marketCap": 52603979400
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2023-09-18",
+        "marketCap": 53167099500
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2023-09-15",
+        "marketCap": 53483237100
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2023-09-14",
+        "marketCap": 53670943800
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2023-09-13",
+        "marketCap": 54448115400
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2023-09-12",
+        "marketCap": 54938787300
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2023-09-11",
+        "marketCap": 56038682699
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2023-09-08",
+        "marketCap": 54648994500
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2023-09-07",
+        "marketCap": 52636910400
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2023-09-06",
+        "marketCap": 51863031900
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2023-09-05",
+        "marketCap": 52485427800
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2023-09-01",
+        "marketCap": 51728014800
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2023-08-31",
+        "marketCap": 51652273500
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2023-08-30",
+        "marketCap": 51155015400
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2023-08-29",
+        "marketCap": 50483223000
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2023-08-28",
+        "marketCap": 48984862500
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2023-08-25",
+        "marketCap": 50236240500
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2023-08-24",
+        "marketCap": 48629207699
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2023-08-23",
+        "marketCap": 51273567000
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2023-08-22",
+        "marketCap": 50246119800
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2023-08-21",
+        "marketCap": 50015602800
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2023-08-18",
+        "marketCap": 48616035300
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2023-08-17",
+        "marketCap": 48388811400
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2023-08-16",
+        "marketCap": 49294413900
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2023-08-15",
+        "marketCap": 49758741000
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2023-08-14",
+        "marketCap": 50338326600
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2023-08-11",
+        "marketCap": 50506274700
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2023-08-10",
+        "marketCap": 51049636200
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2023-08-09",
+        "marketCap": 50736791700
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2023-08-08",
+        "marketCap": 51481032300
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2023-08-07",
+        "marketCap": 54886097699
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2023-08-04",
+        "marketCap": 54886097699
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2023-08-03",
+        "marketCap": 53035375500
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2023-08-02",
+        "marketCap": 54204426000
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2023-08-01",
+        "marketCap": 58149559800
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2023-07-31",
+        "marketCap": 58521680100
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2023-07-28",
+        "marketCap": 57227978050
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2023-07-27",
+        "marketCap": 55080660450
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2023-07-26",
+        "marketCap": 55646950000
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2023-07-25",
+        "marketCap": 58687892150
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2023-07-24",
+        "marketCap": 57218158000
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2023-07-21",
+        "marketCap": 57578226500
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2023-07-20",
+        "marketCap": 57718980550
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2023-07-19",
+        "marketCap": 60704275750
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2023-07-18",
+        "marketCap": 61604447000
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2023-07-17",
+        "marketCap": 60298380350
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2023-07-14",
+        "marketCap": 59178894650
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2023-07-13",
+        "marketCap": 60301653700
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2023-07-12",
+        "marketCap": 56278706550
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2023-07-11",
+        "marketCap": 56317986750
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2023-07-10",
+        "marketCap": 55532382750
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2023-07-07",
+        "marketCap": 55846624350
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2023-07-06",
+        "marketCap": 56363813650
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2023-07-05",
+        "marketCap": 56481654250
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2023-07-03",
+        "marketCap": 57935021650
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2023-06-30",
+        "marketCap": 57604413300
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2023-06-29",
+        "marketCap": 57535672950
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2023-06-28",
+        "marketCap": 60180539750
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2023-06-27",
+        "marketCap": 57944841700
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2023-06-26",
+        "marketCap": 55594576400
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2023-06-23",
+        "marketCap": 58347463750
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2023-06-22",
+        "marketCap": 58462031000
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2023-06-21",
+        "marketCap": 56756615649
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2023-06-20",
+        "marketCap": 58619151800
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2023-06-16",
+        "marketCap": 60288560300
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2023-06-15",
+        "marketCap": 62514438300
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2023-06-14",
+        "marketCap": 59270548450
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2023-06-13",
+        "marketCap": 56772982400
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2023-06-12",
+        "marketCap": 56265613149
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2023-06-09",
+        "marketCap": 55859717750
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2023-06-08",
+        "marketCap": 57057763850
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2023-06-07",
+        "marketCap": 55342528450
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2023-06-06",
+        "marketCap": 59646983700
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2023-06-05",
+        "marketCap": 59493136250
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2023-06-02",
+        "marketCap": 57352365350
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2023-06-01",
+        "marketCap": 54756598800
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2023-05-31",
+        "marketCap": 54128115600
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2023-05-30",
+        "marketCap": 51931697750
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2023-05-26",
+        "marketCap": 49103523350
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2023-05-25",
+        "marketCap": 48416119850
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2023-05-24",
+        "marketCap": 57984121899
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2023-05-23",
+        "marketCap": 57335998600
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2023-05-22",
+        "marketCap": 58419477450
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2023-05-19",
+        "marketCap": 57879374700
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2023-05-18",
+        "marketCap": 60331113850
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2023-05-17",
+        "marketCap": 56962836700
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2023-05-16",
+        "marketCap": 56206692850
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2023-05-15",
+        "marketCap": 56317986750
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2023-05-12",
+        "marketCap": 54795879000
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2023-05-11",
+        "marketCap": 55669863450
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2023-05-10",
+        "marketCap": 56314713400
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2023-05-09",
+        "marketCap": 53640386450
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2023-05-08",
+        "marketCap": 52511080699
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2023-05-05",
+        "marketCap": 50465236949
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2023-05-04",
+        "marketCap": 50825305450
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2023-05-03",
+        "marketCap": 47345734399
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2023-05-02",
+        "marketCap": 47411201400
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2023-05-01",
+        "marketCap": 48108424950
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2023-04-28",
+        "marketCap": 48001168560
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2023-04-27",
+        "marketCap": 48224836890
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2023-04-26",
+        "marketCap": 47670528420
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2023-04-25",
+        "marketCap": 43916790360
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2023-04-24",
+        "marketCap": 46195614070
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2023-04-21",
+        "marketCap": 47064354830
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2023-04-20",
+        "marketCap": 46263687040
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2023-04-19",
+        "marketCap": 46856894350
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2023-04-18",
+        "marketCap": 47291264729
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2023-04-17",
+        "marketCap": 47087045820
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2023-04-14",
+        "marketCap": 46072434410
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2023-04-13",
+        "marketCap": 45829316660
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2023-04-12",
+        "marketCap": 45271766620
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2023-04-11",
+        "marketCap": 45119412830
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2023-04-10",
+        "marketCap": 47900679890
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2023-04-06",
+        "marketCap": 47223191760
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2023-04-05",
+        "marketCap": 47482517360
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2023-04-04",
+        "marketCap": 50383722510
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2023-04-03",
+        "marketCap": 48623550000
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2023-03-31",
+        "marketCap": 50014183530
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2023-03-30",
+        "marketCap": 46065951270
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2023-03-29",
+        "marketCap": 44558621220
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2023-03-28",
+        "marketCap": 43699605170
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2023-03-27",
+        "marketCap": 43751470290
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2023-03-24",
+        "marketCap": 44257155210
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2023-03-23",
+        "marketCap": 45566749490
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2023-03-22",
+        "marketCap": 43965413910
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2023-03-21",
+        "marketCap": 45858490790
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2023-03-20",
+        "marketCap": 43913548790
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2023-03-17",
+        "marketCap": 43962172340
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2023-03-16",
+        "marketCap": 45031890439
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2023-03-15",
+        "marketCap": 45245834060
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2023-03-14",
+        "marketCap": 45323631740
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2023-03-13",
+        "marketCap": 44646143610
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2023-03-10",
+        "marketCap": 42613679220
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2023-03-09",
+        "marketCap": 44182599100
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2023-03-08",
+        "marketCap": 46240996050
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2023-03-07",
+        "marketCap": 46176164650
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2023-03-06",
+        "marketCap": 46052984990
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2023-03-03",
+        "marketCap": 46065951270
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2023-03-02",
+        "marketCap": 43851958960
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2023-03-01",
+        "marketCap": 50082256500
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2023-02-28",
+        "marketCap": 50043357660
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2023-02-27",
+        "marketCap": 50130880050
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2023-02-24",
+        "marketCap": 48117865080
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2023-02-23",
+        "marketCap": 49634919840
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2023-02-22",
+        "marketCap": 48837493620
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2023-02-21",
+        "marketCap": 49031987820
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2023-02-17",
+        "marketCap": 49946110560
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2023-02-16",
+        "marketCap": 53291410800
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2023-02-15",
+        "marketCap": 56818238960
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2023-02-14",
+        "marketCap": 55437330140
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2023-02-13",
+        "marketCap": 52500467720
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2023-02-10",
+        "marketCap": 50999620810
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2023-02-09",
+        "marketCap": 52733860760
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2023-02-08",
+        "marketCap": 51560412420
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2023-02-07",
+        "marketCap": 52114720890
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2023-02-06",
+        "marketCap": 51239496990
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2023-02-03",
+        "marketCap": 52931596530
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2023-02-02",
+        "marketCap": 57716153850
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2023-02-01",
+        "marketCap": 53557219540
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2023-01-31",
+        "marketCap": 50711121080
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2023-01-30",
+        "marketCap": 49228618079
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2023-01-27",
+        "marketCap": 51301808640
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2023-01-26",
+        "marketCap": 49077313800
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2023-01-25",
+        "marketCap": 46498702560
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2023-01-24",
+        "marketCap": 46933299960
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2023-01-23",
+        "marketCap": 48385177200
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2023-01-20",
+        "marketCap": 46621033680
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2023-01-19",
+        "marketCap": 43537001760
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2023-01-18",
+        "marketCap": 45104771640
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2023-01-17",
+        "marketCap": 46910765280
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2023-01-13",
+        "marketCap": 45349433880
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2023-01-12",
+        "marketCap": 45758277359
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2023-01-11",
+        "marketCap": 44976002040
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2023-01-10",
+        "marketCap": 44406196560
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2023-01-09",
+        "marketCap": 43276243320
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2023-01-06",
+        "marketCap": 39937891440
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2023-01-05",
+        "marketCap": 39133081440
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2023-01-04",
+        "marketCap": 41991766560
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2023-01-03",
+        "marketCap": 43620702000
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2022-12-30",
+        "marketCap": 46208970960
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2022-12-29",
+        "marketCap": 45835539120
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2022-12-28",
+        "marketCap": 44560720079
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2022-12-27",
+        "marketCap": 44348250240
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2022-12-23",
+        "marketCap": 44583254760
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2022-12-22",
+        "marketCap": 45188471880
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2022-12-21",
+        "marketCap": 47242347000
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2022-12-20",
+        "marketCap": 45458888040
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2022-12-19",
+        "marketCap": 44457704400
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2022-12-16",
+        "marketCap": 45858073800
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2022-12-15",
+        "marketCap": 45922458600
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2022-12-14",
+        "marketCap": 48031060800
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2022-12-13",
+        "marketCap": 48475315920
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2022-12-12",
+        "marketCap": 48571893120
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2022-12-09",
+        "marketCap": 46527675720
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2022-12-08",
+        "marketCap": 45993281880
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2022-12-07",
+        "marketCap": 44235576840
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2022-12-06",
+        "marketCap": 44016668520
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2022-12-05",
+        "marketCap": 43662552120
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2022-12-02",
+        "marketCap": 48204899760
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2022-12-01",
+        "marketCap": 49589172960
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2022-11-30",
+        "marketCap": 46002939600
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2022-11-29",
+        "marketCap": 43961941440
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2022-11-28",
+        "marketCap": 45413818680
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2022-11-25",
+        "marketCap": 46588841280
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2022-11-23",
+        "marketCap": 47145769800
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2022-11-22",
+        "marketCap": 46151024640
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2022-11-21",
+        "marketCap": 45436353359
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2022-11-18",
+        "marketCap": 47065288800
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2022-11-17",
+        "marketCap": 47544955560
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2022-11-16",
+        "marketCap": 49624584600
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2022-11-15",
+        "marketCap": 52631354760
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2022-11-14",
+        "marketCap": 50812484160
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2022-11-11",
+        "marketCap": 51317904840
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2022-11-10",
+        "marketCap": 46801311120
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2022-11-09",
+        "marketCap": 40646124240
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2022-11-08",
+        "marketCap": 41579703840
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2022-11-07",
+        "marketCap": 41560388400
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2022-11-04",
+        "marketCap": 42593764440
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2022-11-03",
+        "marketCap": 48439904280
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2022-11-02",
+        "marketCap": 47564271000
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2022-11-01",
+        "marketCap": 51346878000
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2022-10-31",
+        "marketCap": 51604417200
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2022-10-28",
+        "marketCap": 51122358150
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2022-10-27",
+        "marketCap": 54138029850
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2022-10-26",
+        "marketCap": 54246875750
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2022-10-25",
+        "marketCap": 58206945700
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2022-10-24",
+        "marketCap": 55949993950
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2022-10-21",
+        "marketCap": 56695908500
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2022-10-20",
+        "marketCap": 55716295400
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2022-10-19",
+        "marketCap": 54755890400
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2022-10-18",
+        "marketCap": 55437777949
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2022-10-17",
+        "marketCap": 53635417900
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2022-10-14",
+        "marketCap": 48782171300
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2022-10-13",
+        "marketCap": 50021093750
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2022-10-12",
+        "marketCap": 50751001550
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2022-10-11",
+        "marketCap": 49150326550
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2022-10-10",
+        "marketCap": 50917471750
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2022-10-07",
+        "marketCap": 56055638500
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2022-10-06",
+        "marketCap": 60476702850
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2022-10-05",
+        "marketCap": 59337022250
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2022-10-04",
+        "marketCap": 58844014350
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2022-10-03",
+        "marketCap": 55226488850
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2022-09-30",
+        "marketCap": 54410144600
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2022-09-29",
+        "marketCap": 54531795900
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2022-09-28",
+        "marketCap": 55652268400
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2022-09-27",
+        "marketCap": 54378131100
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2022-09-26",
+        "marketCap": 52857489850
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2022-09-23",
+        "marketCap": 55104837550
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2022-09-22",
+        "marketCap": 54995991650
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2022-09-21",
+        "marketCap": 57214527200
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2022-09-20",
+        "marketCap": 58501469900
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2022-09-19",
+        "marketCap": 60089339500
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2022-09-16",
+        "marketCap": 59119330449
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2022-09-15",
+        "marketCap": 62903326150
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2022-09-14",
+        "marketCap": 63380327300
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2022-09-13",
+        "marketCap": 60002903050
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2022-09-12",
+        "marketCap": 62493553350
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2022-09-09",
+        "marketCap": 60246205650
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2022-09-08",
+        "marketCap": 57457829800
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2022-09-07",
+        "marketCap": 56907197600
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2022-09-06",
+        "marketCap": 54358923000
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2022-09-02",
+        "marketCap": 54899951150
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2022-09-01",
+        "marketCap": 55431375250
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2022-08-31",
+        "marketCap": 57928428250
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2022-08-30",
+        "marketCap": 59141739900
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2022-08-29",
+        "marketCap": 59682768050
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2022-08-26",
+        "marketCap": 63293890850
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2022-08-25",
+        "marketCap": 62836097800
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2022-08-24",
+        "marketCap": 51058331150
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2022-08-23",
+        "marketCap": 49003064450
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2022-08-22",
+        "marketCap": 48535667350
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2022-08-19",
+        "marketCap": 49281581900
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2022-08-18",
+        "marketCap": 51781836250
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2022-08-17",
+        "marketCap": 51634574150
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2022-08-16",
+        "marketCap": 53574592250
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2022-08-15",
+        "marketCap": 54563809400
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2022-08-12",
+        "marketCap": 54000371800
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2022-08-11",
+        "marketCap": 53744263800
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2022-08-10",
+        "marketCap": 55831544000
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2022-08-09",
+        "marketCap": 51397674250
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2022-08-08",
+        "marketCap": 54695064750
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2022-08-05",
+        "marketCap": 52991946550
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2022-08-04",
+        "marketCap": 51464902600
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2022-08-03",
+        "marketCap": 51980319950
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2022-08-02",
+        "marketCap": 49099104950
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2022-08-01",
+        "marketCap": 48333982300
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2022-07-29",
+        "marketCap": 47724747960
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2022-07-28",
+        "marketCap": 45614047680
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2022-07-27",
+        "marketCap": 44983702800
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2022-07-26",
+        "marketCap": 41424482720
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2022-07-25",
+        "marketCap": 44652612560
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2022-07-22",
+        "marketCap": 45521724440
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2022-07-21",
+        "marketCap": 50214291880
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2022-07-20",
+        "marketCap": 49950056400
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2022-07-19",
+        "marketCap": 46626419760
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2022-07-18",
+        "marketCap": 46629603320
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2022-07-15",
+        "marketCap": 47100770200
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2022-07-14",
+        "marketCap": 46543647200
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2022-07-13",
+        "marketCap": 47626057600
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2022-07-12",
+        "marketCap": 46298513080
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2022-07-11",
+        "marketCap": 49472522400
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2022-07-08",
+        "marketCap": 50835086080
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2022-07-07",
+        "marketCap": 50640888920
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2022-07-06",
+        "marketCap": 49026824000
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2022-07-05",
+        "marketCap": 49313344400
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2022-07-01",
+        "marketCap": 46011992680
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2022-06-30",
+        "marketCap": 44270585360
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2022-06-29",
+        "marketCap": 45534458680
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2022-06-28",
+        "marketCap": 45766858560
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2022-06-27",
+        "marketCap": 47164441400
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2022-06-24",
+        "marketCap": 48240484680
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2022-06-23",
+        "marketCap": 45559927160
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2022-06-22",
+        "marketCap": 40545820160
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2022-06-21",
+        "marketCap": 39011344240
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2022-06-17",
+        "marketCap": 38005339280
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2022-06-16",
+        "marketCap": 36413559280
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2022-06-15",
+        "marketCap": 39011344240
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2022-06-14",
+        "marketCap": 36251197720
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2022-06-13",
+        "marketCap": 36069734800
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2022-06-10",
+        "marketCap": 38973141520
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2022-06-09",
+        "marketCap": 42414569880
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2022-06-08",
+        "marketCap": 43159522920
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2022-06-07",
+        "marketCap": 41787408560
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2022-06-06",
+        "marketCap": 40771852920
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2022-06-03",
+        "marketCap": 41328975920
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2022-06-02",
+        "marketCap": 44009533440
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2022-06-01",
+        "marketCap": 40160609400
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2022-05-31",
+        "marketCap": 40638143400
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2022-05-27",
+        "marketCap": 41357627960
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2022-05-26",
+        "marketCap": 40367540800
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2022-05-25",
+        "marketCap": 42268126120
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2022-05-24",
+        "marketCap": 41268488280
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2022-05-23",
+        "marketCap": 44203730600
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2022-05-20",
+        "marketCap": 45044190440
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2022-05-19",
+        "marketCap": 46741027920
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2022-05-18",
+        "marketCap": 43856722560
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2022-05-17",
+        "marketCap": 46419488360
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2022-05-16",
+        "marketCap": 46005625560
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2022-05-13",
+        "marketCap": 50414856160
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2022-05-12",
+        "marketCap": 44760853600
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2022-05-11",
+        "marketCap": 42303145280
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2022-05-10",
+        "marketCap": 45766858560
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2022-05-09",
+        "marketCap": 45617231240
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2022-05-06",
+        "marketCap": 49431136120
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2022-05-05",
+        "marketCap": 52904400080
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2022-05-04",
+        "marketCap": 59214216000
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2022-05-03",
+        "marketCap": 56164365519
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2022-05-02",
+        "marketCap": 56590962560
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2022-04-29",
+        "marketCap": 53894049840
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2022-04-28",
+        "marketCap": 58379981310
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2022-04-27",
+        "marketCap": 54997456950
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2022-04-26",
+        "marketCap": 56195172360
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2022-04-25",
+        "marketCap": 58766645340
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2022-04-22",
+        "marketCap": 54635941800
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2022-04-21",
+        "marketCap": 55057185539
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2022-04-20",
+        "marketCap": 58464858780
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2022-04-19",
+        "marketCap": 62064292230
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2022-04-18",
+        "marketCap": 60479912789
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2022-04-14",
+        "marketCap": 62441525430
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2022-04-13",
+        "marketCap": 67402142010
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2022-04-12",
+        "marketCap": 66311309340
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2022-04-11",
+        "marketCap": 65553699330
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2022-04-08",
+        "marketCap": 65493970740
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2022-04-07",
+        "marketCap": 67235530680
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2022-04-06",
+        "marketCap": 66672824490
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2022-04-05",
+        "marketCap": 71388239490
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2022-04-04",
+        "marketCap": 75833304030
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2022-04-01",
+        "marketCap": 73815106410
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2022-03-31",
+        "marketCap": 72029535930
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2022-03-30",
+        "marketCap": 72815438430
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2022-03-29",
+        "marketCap": 75342900870
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2022-03-28",
+        "marketCap": 74154616290
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2022-03-25",
+        "marketCap": 69099691410
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2022-03-24",
+        "marketCap": 71539132770
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2022-03-23",
+        "marketCap": 69863588640
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2022-03-22",
+        "marketCap": 70718650560
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2022-03-21",
+        "marketCap": 66949462170
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2022-03-18",
+        "marketCap": 70055348850
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2022-03-17",
+        "marketCap": 65654294850
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2022-03-16",
+        "marketCap": 62193180240
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2022-03-15",
+        "marketCap": 53686571580
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2022-03-14",
+        "marketCap": 52419696750
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2022-03-11",
+        "marketCap": 56717011619
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2022-03-10",
+        "marketCap": 62196323850
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2022-03-09",
+        "marketCap": 65248769160
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2022-03-08",
+        "marketCap": 60234711210
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2022-03-07",
+        "marketCap": 60671673000
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2022-03-04",
+        "marketCap": 65905783650
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2022-03-03",
+        "marketCap": 70423151220
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2022-03-02",
+        "marketCap": 83208213090
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2022-03-01",
+        "marketCap": 82736671590
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2022-02-28",
+        "marketCap": 83513143260
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2022-02-25",
+        "marketCap": 84695140620
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2022-02-24",
+        "marketCap": 84836603070
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2022-02-23",
+        "marketCap": 79417019430
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2022-02-22",
+        "marketCap": 84179588579
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2022-02-18",
+        "marketCap": 86062610970
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2022-02-17",
+        "marketCap": 89995267079
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2022-02-16",
+        "marketCap": 95785796700
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2022-02-15",
+        "marketCap": 94308300000
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2022-02-14",
+        "marketCap": 91519917930
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2022-02-11",
+        "marketCap": 92324682090
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2022-02-10",
+        "marketCap": 97800850710
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2022-02-09",
+        "marketCap": 96804326340
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2022-02-08",
+        "marketCap": 92268097110
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2022-02-07",
+        "marketCap": 92167501590
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2022-02-04",
+        "marketCap": 86675614920
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2022-02-03",
+        "marketCap": 80558149860
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2022-02-02",
+        "marketCap": 84336769079
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2022-02-01",
+        "marketCap": 89203077360
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2022-01-31",
+        "marketCap": 86732199900
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2022-01-28",
+        "marketCap": 78259968007
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2022-01-27",
+        "marketCap": 75543465488
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2022-01-26",
+        "marketCap": 78130316750
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2022-01-25",
+        "marketCap": 81319120275
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2022-01-24",
+        "marketCap": 85662437370
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2022-01-21",
+        "marketCap": 82594024298
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2022-01-20",
+        "marketCap": 86208824808
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2022-01-19",
+        "marketCap": 87224426318
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2022-01-18",
+        "marketCap": 88804936874
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2022-01-14",
+        "marketCap": 89394541398
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2022-01-13",
+        "marketCap": 90064406223
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2022-01-12",
+        "marketCap": 94812111761
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2022-01-11",
+        "marketCap": 93000081104
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2022-01-10",
+        "marketCap": 93450773567
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2022-01-07",
+        "marketCap": 92509258490
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2022-01-06",
+        "marketCap": 91709742408
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2022-01-05",
+        "marketCap": 91641829845
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2022-01-04",
+        "marketCap": 97402049958
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2022-01-03",
+        "marketCap": 102489318310
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2021-12-31",
+        "marketCap": 104569912285
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2021-12-30",
+        "marketCap": 105150256004
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2021-12-29",
+        "marketCap": 106255378620
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2021-12-28",
+        "marketCap": 105011343944
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2021-12-27",
+        "marketCap": 108657013801
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2021-12-23",
+        "marketCap": 107801932894
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2021-12-22",
+        "marketCap": 110543130890
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2021-12-21",
+        "marketCap": 109530616315
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2021-12-20",
+        "marketCap": 102199146450
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2021-12-17",
+        "marketCap": 102588100220
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2021-12-16",
+        "marketCap": 100319203230
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2021-12-15",
+        "marketCap": 111234604259
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2021-12-14",
+        "marketCap": 108227929880
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2021-12-13",
+        "marketCap": 109249705259
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2021-12-10",
+        "marketCap": 114599363060
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2021-12-09",
+        "marketCap": 111537123857
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2021-12-08",
+        "marketCap": 114303017331
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2021-12-07",
+        "marketCap": 112132902251
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2021-12-06",
+        "marketCap": 105468210276
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2021-12-03",
+        "marketCap": 106533202741
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2021-12-02",
+        "marketCap": 111216082651
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2021-12-01",
+        "marketCap": 96003668548
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2021-11-30",
+        "marketCap": 105002083140
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2021-11-29",
+        "marketCap": 112605203257
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2021-11-26",
+        "marketCap": 111932251496
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2021-11-24",
+        "marketCap": 109697310788
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2021-11-23",
+        "marketCap": 106057814800
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2021-11-22",
+        "marketCap": 109882526869
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2021-11-19",
+        "marketCap": 121054143476
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2021-11-18",
+        "marketCap": 122684044987
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2021-11-17",
+        "marketCap": 122860000264
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2021-11-16",
+        "marketCap": 124060817854
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2021-11-15",
+        "marketCap": 121532618351
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2021-11-12",
+        "marketCap": 119310025382
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2021-11-11",
+        "marketCap": 113951106777
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2021-11-10",
+        "marketCap": 111463037425
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2021-11-09",
+        "marketCap": 116284829395
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2021-11-08",
+        "marketCap": 114441929391
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2021-11-05",
+        "marketCap": 112611377126
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2021-11-04",
+        "marketCap": 110138742447
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2021-11-03",
+        "marketCap": 109012011289
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2021-11-02",
+        "marketCap": 111018518831
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2021-11-01",
+        "marketCap": 110428914307
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2021-10-29",
+        "marketCap": 107215885420
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2021-10-28",
+        "marketCap": 105446326380
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2021-10-27",
+        "marketCap": 105173620363
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2021-10-26",
+        "marketCap": 103701007874
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2021-10-25",
+        "marketCap": 103476782927
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2021-10-22",
+        "marketCap": 102955611429
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2021-10-21",
+        "marketCap": 103643436604
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2021-10-20",
+        "marketCap": 101243623659
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2021-10-19",
+        "marketCap": 102943491161
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2021-10-18",
+        "marketCap": 102379898727
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2021-10-15",
+        "marketCap": 101073939915
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2021-10-14",
+        "marketCap": 100634580222
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2021-10-13",
+        "marketCap": 99340741677
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2021-10-12",
+        "marketCap": 94822912003
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2021-10-11",
+        "marketCap": 93868440946
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2021-10-08",
+        "marketCap": 94998655881
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2021-10-07",
+        "marketCap": 96977289534
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2021-10-06",
+        "marketCap": 93816929809
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2021-10-05",
+        "marketCap": 90986847371
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2021-10-04",
+        "marketCap": 89290009935
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2021-10-01",
+        "marketCap": 92029190368
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2021-09-30",
+        "marketCap": 91638311744
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2021-09-29",
+        "marketCap": 89023364053
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2021-09-28",
+        "marketCap": 90295992130
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2021-09-27",
+        "marketCap": 94295680372
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2021-09-24",
+        "marketCap": 95892525601
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2021-09-23",
+        "marketCap": 97416649227
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2021-09-22",
+        "marketCap": 95480436510
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2021-09-21",
+        "marketCap": 95225910894
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2021-09-20",
+        "marketCap": 93953282817
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2021-09-17",
+        "marketCap": 97810557918
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2021-09-16",
+        "marketCap": 98028722731
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2021-09-15",
+        "marketCap": 98198406474
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2021-09-14",
+        "marketCap": 96734884186
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2021-09-13",
+        "marketCap": 96492478838
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2021-09-10",
+        "marketCap": 96519749439
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2021-09-09",
+        "marketCap": 96953048999
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2021-09-08",
+        "marketCap": 96386426498
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2021-09-07",
+        "marketCap": 94686558995
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2021-09-03",
+        "marketCap": 93932072350
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2021-09-02",
+        "marketCap": 92989721559
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2021-09-01",
+        "marketCap": 91211072318
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2021-08-31",
+        "marketCap": 92220084579
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2021-08-30",
+        "marketCap": 90250541127
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2021-08-27",
+        "marketCap": 90208120191
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2021-08-26",
+        "marketCap": 92495820663
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2021-08-25",
+        "marketCap": 85981176935
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2021-08-24",
+        "marketCap": 85256990958
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2021-08-23",
+        "marketCap": 83763168001
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2021-08-20",
+        "marketCap": 80802792688
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2021-08-19",
+        "marketCap": 84675218123
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2021-08-18",
+        "marketCap": 84841871800
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2021-08-17",
+        "marketCap": 84235858430
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2021-08-16",
+        "marketCap": 85499396306
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2021-08-13",
+        "marketCap": 88332508811
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2021-08-12",
+        "marketCap": 86744753781
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2021-08-11",
+        "marketCap": 83590454190
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2021-08-10",
+        "marketCap": 83172304965
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2021-08-09",
+        "marketCap": 84841871800
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2021-08-06",
+        "marketCap": 84078294953
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2021-08-05",
+        "marketCap": 83929821678
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2021-08-04",
+        "marketCap": 82832937478
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2021-08-03",
+        "marketCap": 86229642417
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2021-08-02",
+        "marketCap": 81293663518
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2021-07-30",
+        "marketCap": 78768957179
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2021-07-29",
+        "marketCap": 79521904459
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2021-07-28",
+        "marketCap": 79847983990
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2021-07-27",
+        "marketCap": 77867791931
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2021-07-26",
+        "marketCap": 79681979865
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2021-07-23",
+        "marketCap": 78531808430
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2021-07-22",
+        "marketCap": 79237325960
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2021-07-21",
+        "marketCap": 76865838464
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2021-07-20",
+        "marketCap": 75967637574
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2021-07-19",
+        "marketCap": 74784858186
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2021-07-16",
+        "marketCap": 74352061718
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2021-07-15",
+        "marketCap": 74405420187
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2021-07-14",
+        "marketCap": 74861931529
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2021-07-13",
+        "marketCap": 78442877648
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2021-07-12",
+        "marketCap": 79166181335
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2021-07-09",
+        "marketCap": 79886520662
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2021-07-08",
+        "marketCap": 74197915031
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2021-07-07",
+        "marketCap": 73738439328
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2021-07-06",
+        "marketCap": 70863010739
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2021-07-02",
+        "marketCap": 70326461693
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2021-07-01",
+        "marketCap": 70181208084
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2021-06-30",
+        "marketCap": 71678209566
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2021-06-29",
+        "marketCap": 72863953314
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2021-06-28",
+        "marketCap": 73418288516
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2021-06-25",
+        "marketCap": 73246355673
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2021-06-24",
+        "marketCap": 74479529171
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2021-06-23",
+        "marketCap": 73812548313
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2021-06-22",
+        "marketCap": 73898514734
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2021-06-21",
+        "marketCap": 73602078797
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2021-06-18",
+        "marketCap": 73931122687
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2021-06-17",
+        "marketCap": 72783915611
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2021-06-16",
+        "marketCap": 70800759193
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2021-06-15",
+        "marketCap": 71562599551
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2021-06-14",
+        "marketCap": 72389655815
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2021-06-11",
+        "marketCap": 71322486442
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2021-06-10",
+        "marketCap": 73753261125
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2021-06-09",
+        "marketCap": 73222640798
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2021-06-08",
+        "marketCap": 74203843749
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2021-06-07",
+        "marketCap": 74277952734
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2021-06-04",
+        "marketCap": 71903500878
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2021-06-03",
+        "marketCap": 70679220458
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2021-06-02",
+        "marketCap": 72087291159
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2021-06-01",
+        "marketCap": 71384737988
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2021-05-28",
+        "marketCap": 70560646084
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2021-05-27",
+        "marketCap": 72671269955
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2021-05-26",
+        "marketCap": 69736554179
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2021-05-25",
+        "marketCap": 68168408072
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2021-05-24",
+        "marketCap": 69342294383
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2021-05-21",
+        "marketCap": 69185183336
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2021-05-20",
+        "marketCap": 68346269634
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2021-05-19",
+        "marketCap": 67827506744
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2021-05-18",
+        "marketCap": 66262324997
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2021-05-17",
+        "marketCap": 63037102003
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2021-05-14",
+        "marketCap": 62248582410
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2021-05-13",
+        "marketCap": 55801100780
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2021-05-12",
+        "marketCap": 56731909623
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2021-05-11",
+        "marketCap": 59719983868
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2021-05-10",
+        "marketCap": 57455213309
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2021-05-07",
+        "marketCap": 61077660459
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2021-05-06",
+        "marketCap": 59239757650
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2021-05-05",
+        "marketCap": 63375038971
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2021-05-04",
+        "marketCap": 64741608640
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2021-05-03",
+        "marketCap": 66309754747
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2021-04-30",
+        "marketCap": 68651598649
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2021-04-29",
+        "marketCap": 66887621867
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2021-04-28",
+        "marketCap": 68953547544
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2021-04-27",
+        "marketCap": 69399367894
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2021-04-26",
+        "marketCap": 69276985837
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2021-04-23",
+        "marketCap": 68662161693
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2021-04-22",
+        "marketCap": 67438341124
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2021-04-21",
+        "marketCap": 67423771831
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2021-04-20",
+        "marketCap": 65625921137
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2021-04-19",
+        "marketCap": 66747756659
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2021-04-16",
+        "marketCap": 67817142729
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2021-04-15",
+        "marketCap": 68877787223
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2021-04-14",
+        "marketCap": 66768153668
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2021-04-13",
+        "marketCap": 69373143168
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2021-04-12",
+        "marketCap": 68006543531
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2021-04-09",
+        "marketCap": 66112535506
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2021-04-08",
+        "marketCap": 68111442437
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2021-04-07",
+        "marketCap": 68175547324
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2021-04-06",
+        "marketCap": 68769974458
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2021-04-05",
+        "marketCap": 67694760672
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2021-04-01",
+        "marketCap": 68997255421
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2021-03-31",
+        "marketCap": 66808947688
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2021-03-30",
+        "marketCap": 64708055709
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2021-03-29",
+        "marketCap": 65121823616
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2021-03-26",
+        "marketCap": 68475674750
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2021-03-25",
+        "marketCap": 63216160157
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2021-03-24",
+        "marketCap": 60783088310
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2021-03-23",
+        "marketCap": 64104887000
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2021-03-22",
+        "marketCap": 64323426387
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2021-03-19",
+        "marketCap": 64343823397
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2021-03-18",
+        "marketCap": 63143313695
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2021-03-17",
+        "marketCap": 67106161255
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2021-03-16",
+        "marketCap": 67642311218
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2021-03-15",
+        "marketCap": 69571285546
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2021-03-12",
+        "marketCap": 67018745500
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2021-03-11",
+        "marketCap": 69294468988
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2021-03-10",
+        "marketCap": 66176640393
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2021-03-09",
+        "marketCap": 67024573217
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2021-03-08",
+        "marketCap": 62353658041
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2021-03-05",
+        "marketCap": 69853929820
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2021-03-04",
+        "marketCap": 72555076650
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2021-03-03",
+        "marketCap": 71981046525
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2021-03-02",
+        "marketCap": 78849011010
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2021-03-01",
+        "marketCap": 79306486794
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2021-02-26",
+        "marketCap": 75626283509
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2021-02-25",
+        "marketCap": 75859392189
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2021-02-24",
+        "marketCap": 79699857692
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2021-02-23",
+        "marketCap": 78406104518
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2021-02-22",
+        "marketCap": 78572194452
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2021-02-19",
+        "marketCap": 84501896500
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2021-02-18",
+        "marketCap": 84437791612
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2021-02-17",
+        "marketCap": 84146405762
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2021-02-16",
+        "marketCap": 85827702117
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2021-02-12",
+        "marketCap": 87261320499
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2021-02-11",
+        "marketCap": 87045694970
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2021-02-10",
+        "marketCap": 89137845373
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2021-02-09",
+        "marketCap": 91579658796
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2021-02-08",
+        "marketCap": 88726991325
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2021-02-05",
+        "marketCap": 89178639392
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2021-02-04",
+        "marketCap": 88467657918
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2021-02-03",
+        "marketCap": 88767785344
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2021-02-02",
+        "marketCap": 87622638953
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2021-02-01",
+        "marketCap": 82170809700
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2021-01-29",
+        "marketCap": 77408978143
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2021-01-28",
+        "marketCap": 77602180952
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2021-01-27",
+        "marketCap": 75633217037
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2021-01-26",
+        "marketCap": 79832536901
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2021-01-25",
+        "marketCap": 81613980443
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2021-01-22",
+        "marketCap": 81167909253
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2021-01-21",
+        "marketCap": 81349747190
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2021-01-20",
+        "marketCap": 80088246500
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2021-01-19",
+        "marketCap": 81318493795
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2021-01-15",
+        "marketCap": 82764673640
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2021-01-14",
+        "marketCap": 86304830981
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2021-01-13",
+        "marketCap": 84256312969
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2021-01-12",
+        "marketCap": 83347123282
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2021-01-11",
+        "marketCap": 83301663798
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2021-01-08",
+        "marketCap": 85264945277
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2021-01-07",
+        "marketCap": 86429844563
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2021-01-06",
+        "marketCap": 76150318671
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2021-01-05",
+        "marketCap": 80642283965
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2021-01-04",
+        "marketCap": 79054043232
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2020-12-31",
+        "marketCap": 79951868047
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2020-12-30",
+        "marketCap": 85497925134
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2020-12-29",
+        "marketCap": 86387226296
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2020-12-28",
+        "marketCap": 86034915293
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2020-12-24",
+        "marketCap": 91782698842
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2020-12-23",
+        "marketCap": 94228987342
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2020-12-22",
+        "marketCap": 96930985441
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2020-12-21",
+        "marketCap": 99400003683
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2020-12-18",
+        "marketCap": 94967703962
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2020-12-17",
+        "marketCap": 92493003284
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2020-12-16",
+        "marketCap": 93751662756
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2020-12-15",
+        "marketCap": 93365257139
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2020-12-14",
+        "marketCap": 93518682899
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2020-12-11",
+        "marketCap": 100567744186
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2020-12-10",
+        "marketCap": 106056976918
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2020-12-09",
+        "marketCap": 105483050929
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2020-12-08",
+        "marketCap": 110807493030
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2020-12-07",
+        "marketCap": 110512006381
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2020-12-04",
+        "marketCap": 110154012942
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2020-12-03",
+        "marketCap": 96570150784
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2020-12-02",
+        "marketCap": 83159602910
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2020-12-01",
+        "marketCap": 86838979922
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2020-11-30",
+        "marketCap": 92578239817
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2020-11-27",
+        "marketCap": 93416399059
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2020-11-25",
+        "marketCap": 86094580866
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2020-11-24",
+        "marketCap": 80150753291
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2020-11-23",
+        "marketCap": 77891985164
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2020-11-20",
+        "marketCap": 75576392682
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2020-11-19",
+        "marketCap": 75008149128
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2020-11-18",
+        "marketCap": 74025087779
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2020-11-17",
+        "marketCap": 70470724349
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2020-11-16",
+        "marketCap": 68714851767
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2020-11-13",
+        "marketCap": 66711793239
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2020-11-12",
+        "marketCap": 66876583870
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2020-11-11",
+        "marketCap": 68405159030
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2020-11-10",
+        "marketCap": 66961820403
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2020-11-09",
+        "marketCap": 68143766995
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2020-11-06",
+        "marketCap": 75292270905
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2020-11-05",
+        "marketCap": 74783692924
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2020-11-04",
+        "marketCap": 74982578168
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2020-11-03",
+        "marketCap": 74476841405
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2020-11-02",
+        "marketCap": 71664035812
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2020-10-30",
+        "marketCap": 41720387364
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2020-10-29",
+        "marketCap": 44366917016
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2020-10-28",
+        "marketCap": 45461572408
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2020-10-27",
+        "marketCap": 44515429714
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2020-10-26",
+        "marketCap": 41948996798
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2020-10-23",
+        "marketCap": 44228416410
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2020-10-22",
+        "marketCap": 49574873537
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2020-10-21",
+        "marketCap": 45156203602
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2020-10-20",
+        "marketCap": 42012406714
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2020-10-19",
+        "marketCap": 41179734396
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2020-10-16",
+        "marketCap": 40468875864
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2020-10-15",
+        "marketCap": 40215236200
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2020-10-14",
+        "marketCap": 40579008876
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2020-10-13",
+        "marketCap": 41651971402
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2020-10-12",
+        "marketCap": 40710834754
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2020-10-09",
+        "marketCap": 39714631600
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2020-10-08",
+        "marketCap": 40080072958
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2020-10-07",
+        "marketCap": 41049577200
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2020-10-06",
+        "marketCap": 40899395820
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2020-10-05",
+        "marketCap": 40048368000
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2020-10-02",
+        "marketCap": 37895768220
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2020-10-01",
+        "marketCap": 40625731972
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2020-09-30",
+        "marketCap": 41883918200
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2020-09-29",
+        "marketCap": 43240556666
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2020-09-28",
+        "marketCap": 41785465962
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2020-09-25",
+        "marketCap": 38212817800
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2020-09-24",
+        "marketCap": 37835695668
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2020-09-23",
+        "marketCap": 36275477998
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2020-09-22",
+        "marketCap": 39240725912
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2020-09-21",
+        "marketCap": 38187787570
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2020-09-18",
+        "marketCap": 40048368000
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2020-09-17",
+        "marketCap": 37969190228
+    },
+    {
+        "symbol": "SNOW",
+        "date": "2020-09-16",
+        "marketCap": 42372842026
+    }
+]

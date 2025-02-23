@@ -1,0 +1,752 @@
+[
+    {
+        "date": "2024-10-23",
+        "symbol": "ROP",
+        "actualEarningResult": 4.62,
+        "estimatedEarning": 4.53
+    },
+    {
+        "date": "2024-07-24",
+        "symbol": "ROP",
+        "actualEarningResult": 4.48,
+        "estimatedEarning": 4.46
+    },
+    {
+        "date": "2024-04-26",
+        "symbol": "ROP",
+        "actualEarningResult": 4.41,
+        "estimatedEarning": 4.34
+    },
+    {
+        "date": "2024-01-31",
+        "symbol": "ROP",
+        "actualEarningResult": 4.37,
+        "estimatedEarning": 4.34
+    },
+    {
+        "date": "2023-10-25",
+        "symbol": "ROP",
+        "actualEarningResult": 4.32,
+        "estimatedEarning": 4.21
+    },
+    {
+        "date": "2023-07-21",
+        "symbol": "ROP",
+        "actualEarningResult": 4.12,
+        "estimatedEarning": 3.99
+    },
+    {
+        "date": "2023-04-27",
+        "symbol": "ROP",
+        "actualEarningResult": 3.9,
+        "estimatedEarning": 3.85
+    },
+    {
+        "date": "2023-01-27",
+        "symbol": "ROP",
+        "actualEarningResult": 3.92,
+        "estimatedEarning": 3.77
+    },
+    {
+        "date": "2022-10-26",
+        "symbol": "ROP",
+        "actualEarningResult": 3.67,
+        "estimatedEarning": 3.46
+    },
+    {
+        "date": "2022-07-22",
+        "symbol": "ROP",
+        "actualEarningResult": 3.95,
+        "estimatedEarning": 3.82
+    },
+    {
+        "date": "2022-04-26",
+        "symbol": "ROP",
+        "actualEarningResult": 3.77,
+        "estimatedEarning": 3.69
+    },
+    {
+        "date": "2022-02-02",
+        "symbol": "ROP",
+        "actualEarningResult": 3.73,
+        "estimatedEarning": 3.66
+    },
+    {
+        "date": "2021-10-22",
+        "symbol": "ROP",
+        "actualEarningResult": 3.91,
+        "estimatedEarning": 3.86
+    },
+    {
+        "date": "2021-07-23",
+        "symbol": "ROP",
+        "actualEarningResult": 3.76,
+        "estimatedEarning": 3.66
+    },
+    {
+        "date": "2021-04-27",
+        "symbol": "ROP",
+        "actualEarningResult": 3.6,
+        "estimatedEarning": 3.32
+    },
+    {
+        "date": "2021-01-29",
+        "symbol": "ROP",
+        "actualEarningResult": 3.56,
+        "estimatedEarning": 3.49
+    },
+    {
+        "date": "2020-10-27",
+        "symbol": "ROP",
+        "actualEarningResult": 3.17,
+        "estimatedEarning": 3.01
+    },
+    {
+        "date": "2020-07-28",
+        "symbol": "ROP",
+        "actualEarningResult": 2.94,
+        "estimatedEarning": 2.67
+    },
+    {
+        "date": "2020-04-28",
+        "symbol": "ROP",
+        "actualEarningResult": 3.05,
+        "estimatedEarning": 2.85
+    },
+    {
+        "date": "2020-01-30",
+        "symbol": "ROP",
+        "actualEarningResult": 3.39,
+        "estimatedEarning": 3.34
+    },
+    {
+        "date": "2019-10-24",
+        "symbol": "ROP",
+        "actualEarningResult": 3.29,
+        "estimatedEarning": 3.19
+    },
+    {
+        "date": "2019-07-25",
+        "symbol": "ROP",
+        "actualEarningResult": 3.07,
+        "estimatedEarning": 3.05
+    },
+    {
+        "date": "2019-04-25",
+        "symbol": "ROP",
+        "actualEarningResult": 3.3,
+        "estimatedEarning": 2.78
+    },
+    {
+        "date": "2019-02-01",
+        "symbol": "ROP",
+        "actualEarningResult": 3.22,
+        "estimatedEarning": 3.13
+    },
+    {
+        "date": "2018-10-26",
+        "symbol": "ROP",
+        "actualEarningResult": 3.09,
+        "estimatedEarning": 2.94
+    },
+    {
+        "date": "2018-07-26",
+        "symbol": "ROP",
+        "actualEarningResult": 2.89,
+        "estimatedEarning": 2.7
+    },
+    {
+        "date": "2018-04-20",
+        "symbol": "ROP",
+        "actualEarningResult": 2.61,
+        "estimatedEarning": 2.5
+    },
+    {
+        "date": "2018-02-02",
+        "symbol": "ROP",
+        "actualEarningResult": 2.7,
+        "estimatedEarning": 2.61
+    },
+    {
+        "date": "2017-10-30",
+        "symbol": "ROP",
+        "actualEarningResult": 2.36,
+        "estimatedEarning": 2.3
+    },
+    {
+        "date": "2017-07-31",
+        "symbol": "ROP",
+        "actualEarningResult": 2.24,
+        "estimatedEarning": 2.22
+    },
+    {
+        "date": "2017-04-28",
+        "symbol": "ROP",
+        "actualEarningResult": 2.11,
+        "estimatedEarning": 2
+    },
+    {
+        "date": "2017-02-09",
+        "symbol": "ROP",
+        "actualEarningResult": 1.86,
+        "estimatedEarning": 1.84
+    },
+    {
+        "date": "2016-10-31",
+        "symbol": "ROP",
+        "actualEarningResult": 1.65,
+        "estimatedEarning": 1.61
+    },
+    {
+        "date": "2016-07-25",
+        "symbol": "ROP",
+        "actualEarningResult": 1.56,
+        "estimatedEarning": 1.61
+    },
+    {
+        "date": "2016-04-25",
+        "symbol": "ROP",
+        "actualEarningResult": 1.5,
+        "estimatedEarning": 1.46
+    },
+    {
+        "date": "2016-02-01",
+        "symbol": "ROP",
+        "actualEarningResult": 1.82,
+        "estimatedEarning": 1.87
+    },
+    {
+        "date": "2015-10-26",
+        "symbol": "ROP",
+        "actualEarningResult": 1.61,
+        "estimatedEarning": 1.57
+    },
+    {
+        "date": "2015-07-27",
+        "symbol": "ROP",
+        "actualEarningResult": 1.7,
+        "estimatedEarning": 1.64
+    },
+    {
+        "date": "2015-04-27",
+        "symbol": "ROP",
+        "actualEarningResult": 1.55,
+        "estimatedEarning": 1.52
+    },
+    {
+        "date": "2015-01-26",
+        "symbol": "ROP",
+        "actualEarningResult": 1.85,
+        "estimatedEarning": 1.79
+    },
+    {
+        "date": "2014-10-27",
+        "symbol": "ROP",
+        "actualEarningResult": 1.55,
+        "estimatedEarning": 1.53
+    },
+    {
+        "date": "2014-07-28",
+        "symbol": "ROP",
+        "actualEarningResult": 1.56,
+        "estimatedEarning": 1.5
+    },
+    {
+        "date": "2014-04-28",
+        "symbol": "ROP",
+        "actualEarningResult": 1.46,
+        "estimatedEarning": 1.35
+    },
+    {
+        "date": "2014-01-27",
+        "symbol": "ROP",
+        "actualEarningResult": 1.65,
+        "estimatedEarning": 1.6
+    },
+    {
+        "date": "2013-10-28",
+        "symbol": "ROP",
+        "actualEarningResult": 1.42,
+        "estimatedEarning": 1.45
+    },
+    {
+        "date": "2013-07-29",
+        "symbol": "ROP",
+        "actualEarningResult": 1.31,
+        "estimatedEarning": 1.3
+    },
+    {
+        "date": "2013-04-29",
+        "symbol": "ROP",
+        "actualEarningResult": 1.27,
+        "estimatedEarning": 1.22
+    },
+    {
+        "date": "2013-01-28",
+        "symbol": "ROP",
+        "actualEarningResult": 1.48,
+        "estimatedEarning": 1.46
+    },
+    {
+        "date": "2012-10-25",
+        "symbol": "ROP",
+        "actualEarningResult": 1.24,
+        "estimatedEarning": 1.23
+    },
+    {
+        "date": "2012-07-30",
+        "symbol": "ROP",
+        "actualEarningResult": 1.15,
+        "estimatedEarning": 1.15
+    },
+    {
+        "date": "2012-04-23",
+        "symbol": "ROP",
+        "actualEarningResult": 1.09,
+        "estimatedEarning": 1.04
+    },
+    {
+        "date": "2012-02-02",
+        "symbol": "ROP",
+        "actualEarningResult": 1.23,
+        "estimatedEarning": 1.21
+    },
+    {
+        "date": "2011-10-24",
+        "symbol": "ROP",
+        "actualEarningResult": 1.12,
+        "estimatedEarning": 1.08
+    },
+    {
+        "date": "2011-07-25",
+        "symbol": "ROP",
+        "actualEarningResult": 1.08,
+        "estimatedEarning": 0.99
+    },
+    {
+        "date": "2011-04-26",
+        "symbol": "ROP",
+        "actualEarningResult": 0.91,
+        "estimatedEarning": 0.87
+    },
+    {
+        "date": "2011-01-31",
+        "symbol": "ROP",
+        "actualEarningResult": 1.1,
+        "estimatedEarning": 0.99
+    },
+    {
+        "date": "2010-10-25",
+        "symbol": "ROP",
+        "actualEarningResult": 0.87,
+        "estimatedEarning": 0.79
+    },
+    {
+        "date": "2010-07-26",
+        "symbol": "ROP",
+        "actualEarningResult": 0.74,
+        "estimatedEarning": 0.74
+    },
+    {
+        "date": "2010-04-26",
+        "symbol": "ROP",
+        "actualEarningResult": 0.65,
+        "estimatedEarning": 0.65
+    },
+    {
+        "date": "2010-02-03",
+        "symbol": "ROP",
+        "actualEarningResult": 0.81,
+        "estimatedEarning": 0.7
+    },
+    {
+        "date": "2009-10-26",
+        "symbol": "ROP",
+        "actualEarningResult": 0.63,
+        "estimatedEarning": 0.64
+    },
+    {
+        "date": "2009-07-28",
+        "symbol": "ROP",
+        "actualEarningResult": 0.67,
+        "estimatedEarning": 0.63
+    },
+    {
+        "date": "2009-04-23",
+        "symbol": "ROP",
+        "actualEarningResult": 0.59,
+        "estimatedEarning": 0.57
+    },
+    {
+        "date": "2009-02-05",
+        "symbol": "ROP",
+        "actualEarningResult": 0.78,
+        "estimatedEarning": 0.74
+    },
+    {
+        "date": "2008-10-23",
+        "symbol": "ROP",
+        "actualEarningResult": 0.82,
+        "estimatedEarning": 0.82
+    },
+    {
+        "date": "2008-07-24",
+        "symbol": "ROP",
+        "actualEarningResult": 0.8,
+        "estimatedEarning": 0.78
+    },
+    {
+        "date": "2008-04-24",
+        "symbol": "ROP",
+        "actualEarningResult": 0.68,
+        "estimatedEarning": 0.67
+    },
+    {
+        "date": "2008-02-21",
+        "symbol": "ROP",
+        "actualEarningResult": 0.77,
+        "estimatedEarning": 0.75
+    },
+    {
+        "date": "2007-10-25",
+        "symbol": "ROP",
+        "actualEarningResult": 0.7,
+        "estimatedEarning": 0.69
+    },
+    {
+        "date": "2007-07-26",
+        "symbol": "ROP",
+        "actualEarningResult": 0.66,
+        "estimatedEarning": 0.65
+    },
+    {
+        "date": "2007-04-26",
+        "symbol": "ROP",
+        "actualEarningResult": 0.56,
+        "estimatedEarning": 0.54
+    },
+    {
+        "date": "2007-02-22",
+        "symbol": "ROP",
+        "actualEarningResult": 0.64,
+        "estimatedEarning": 0.62
+    },
+    {
+        "date": "2006-10-26",
+        "symbol": "ROP",
+        "actualEarningResult": 0.56,
+        "estimatedEarning": 0.54
+    },
+    {
+        "date": "2006-07-27",
+        "symbol": "ROP",
+        "actualEarningResult": 0.53,
+        "estimatedEarning": 0.51
+    },
+    {
+        "date": "2006-04-27",
+        "symbol": "ROP",
+        "actualEarningResult": 0.42,
+        "estimatedEarning": 0.4
+    },
+    {
+        "date": "2006-02-23",
+        "symbol": "ROP",
+        "actualEarningResult": 0.52,
+        "estimatedEarning": 0.5
+    },
+    {
+        "date": "2005-10-27",
+        "symbol": "ROP",
+        "actualEarningResult": 0.45,
+        "estimatedEarning": 0.44
+    },
+    {
+        "date": "2005-07-27",
+        "symbol": "ROP",
+        "actualEarningResult": 0.41,
+        "estimatedEarning": 0.39
+    },
+    {
+        "date": "2005-04-28",
+        "symbol": "ROP",
+        "actualEarningResult": 0.33,
+        "estimatedEarning": 0.28
+    },
+    {
+        "date": "2005-02-23",
+        "symbol": "ROP",
+        "actualEarningResult": 0.4,
+        "estimatedEarning": 0.4
+    },
+    {
+        "date": "2004-10-28",
+        "symbol": "ROP",
+        "actualEarningResult": 0.37,
+        "estimatedEarning": 0.36
+    },
+    {
+        "date": "2004-07-28",
+        "symbol": "ROP",
+        "actualEarningResult": 0.32,
+        "estimatedEarning": 0.31
+    },
+    {
+        "date": "2004-04-28",
+        "symbol": "ROP",
+        "actualEarningResult": 0.26,
+        "estimatedEarning": 0.23
+    },
+    {
+        "date": "2004-02-18",
+        "symbol": "ROP",
+        "actualEarningResult": 0.28,
+        "estimatedEarning": 0.29
+    },
+    {
+        "date": "2003-10-24",
+        "symbol": "ROP",
+        "actualEarningResult": 0.31,
+        "estimatedEarning": 0.31
+    },
+    {
+        "date": "2002-12-11",
+        "symbol": "ROP",
+        "actualEarningResult": 0.3,
+        "estimatedEarning": 0.3
+    },
+    {
+        "date": "2002-09-03",
+        "symbol": "ROP",
+        "actualEarningResult": 0.28,
+        "estimatedEarning": 0.27
+    },
+    {
+        "date": "2002-05-23",
+        "symbol": "ROP",
+        "actualEarningResult": 0.28,
+        "estimatedEarning": 0.28
+    },
+    {
+        "date": "2002-02-21",
+        "symbol": "ROP",
+        "actualEarningResult": 0.23,
+        "estimatedEarning": 0.23
+    },
+    {
+        "date": "2001-12-11",
+        "symbol": "ROP",
+        "actualEarningResult": 0.27,
+        "estimatedEarning": 0.28
+    },
+    {
+        "date": "2001-08-28",
+        "symbol": "ROP",
+        "actualEarningResult": 0.21,
+        "estimatedEarning": 0.19
+    },
+    {
+        "date": "2001-05-18",
+        "symbol": "ROP",
+        "actualEarningResult": 0.25,
+        "estimatedEarning": 0.25
+    },
+    {
+        "date": "2001-02-26",
+        "symbol": "ROP",
+        "actualEarningResult": 0.19,
+        "estimatedEarning": 0.19
+    },
+    {
+        "date": "2000-12-11",
+        "symbol": "ROP",
+        "actualEarningResult": 0.24,
+        "estimatedEarning": 0.24
+    },
+    {
+        "date": "2000-08-24",
+        "symbol": "ROP",
+        "actualEarningResult": 0.18,
+        "estimatedEarning": 0.18
+    },
+    {
+        "date": "2000-05-18",
+        "symbol": "ROP",
+        "actualEarningResult": 0.22,
+        "estimatedEarning": 0.22
+    },
+    {
+        "date": "2000-02-08",
+        "symbol": "ROP",
+        "actualEarningResult": 0.16,
+        "estimatedEarning": 0.15
+    },
+    {
+        "date": "1999-12-08",
+        "symbol": "ROP",
+        "actualEarningResult": 0.24,
+        "estimatedEarning": 0.23
+    },
+    {
+        "date": "1999-08-17",
+        "symbol": "ROP",
+        "actualEarningResult": 0.21,
+        "estimatedEarning": 0.2
+    },
+    {
+        "date": "1999-05-17",
+        "symbol": "ROP",
+        "actualEarningResult": 0.21,
+        "estimatedEarning": 0.18
+    },
+    {
+        "date": "1999-02-18",
+        "symbol": "ROP",
+        "actualEarningResult": 0.13,
+        "estimatedEarning": 0.14
+    },
+    {
+        "date": "1998-12-08",
+        "symbol": "ROP",
+        "actualEarningResult": 0.18,
+        "estimatedEarning": 0.17
+    },
+    {
+        "date": "1998-08-17",
+        "symbol": "ROP",
+        "actualEarningResult": 0.17,
+        "estimatedEarning": 0.16
+    },
+    {
+        "date": "1998-05-14",
+        "symbol": "ROP",
+        "actualEarningResult": 0.17,
+        "estimatedEarning": 0.17
+    },
+    {
+        "date": "1998-02-18",
+        "symbol": "ROP",
+        "actualEarningResult": 0.17,
+        "estimatedEarning": 0.16
+    },
+    {
+        "date": "1997-12-11",
+        "symbol": "ROP",
+        "actualEarningResult": 0.14,
+        "estimatedEarning": 0.14
+    },
+    {
+        "date": "1997-08-12",
+        "symbol": "ROP",
+        "actualEarningResult": 0.19,
+        "estimatedEarning": 0.19
+    },
+    {
+        "date": "1997-05-15",
+        "symbol": "ROP",
+        "actualEarningResult": 0.16,
+        "estimatedEarning": 0.17
+    },
+    {
+        "date": "1997-02-11",
+        "symbol": "ROP",
+        "actualEarningResult": 0.1,
+        "estimatedEarning": 0.11
+    },
+    {
+        "date": "1996-12-19",
+        "symbol": "ROP",
+        "actualEarningResult": 0.12,
+        "estimatedEarning": 0.12
+    },
+    {
+        "date": "1996-08-20",
+        "symbol": "ROP",
+        "actualEarningResult": 0.11,
+        "estimatedEarning": 0.13
+    },
+    {
+        "date": "1996-05-16",
+        "symbol": "ROP",
+        "actualEarningResult": 0.09,
+        "estimatedEarning": 0.13
+    },
+    {
+        "date": "1996-02-20",
+        "symbol": "ROP",
+        "actualEarningResult": 0.14,
+        "estimatedEarning": 0.14
+    },
+    {
+        "date": "1995-12-18",
+        "symbol": "ROP",
+        "actualEarningResult": 0.17,
+        "estimatedEarning": 0.16
+    },
+    {
+        "date": "1995-08-28",
+        "symbol": "ROP",
+        "actualEarningResult": 0.11,
+        "estimatedEarning": 0.13
+    },
+    {
+        "date": "1995-05-24",
+        "symbol": "ROP",
+        "actualEarningResult": 0.07,
+        "estimatedEarning": 0.09
+    },
+    {
+        "date": "1995-02-21",
+        "symbol": "ROP",
+        "actualEarningResult": 0.06,
+        "estimatedEarning": 0.05
+    },
+    {
+        "date": "1994-12-15",
+        "symbol": "ROP",
+        "actualEarningResult": 0.12,
+        "estimatedEarning": 0.13
+    },
+    {
+        "date": "1994-08-22",
+        "symbol": "ROP",
+        "actualEarningResult": 0.05,
+        "estimatedEarning": 0.07
+    },
+    {
+        "date": "1994-05-23",
+        "symbol": "ROP",
+        "actualEarningResult": 0.11,
+        "estimatedEarning": 0.12
+    },
+    {
+        "date": "1994-02-22",
+        "symbol": "ROP",
+        "actualEarningResult": 0.07,
+        "estimatedEarning": 0.09
+    },
+    {
+        "date": "1993-12-13",
+        "symbol": "ROP",
+        "actualEarningResult": 0.13,
+        "estimatedEarning": 0.12
+    },
+    {
+        "date": "1993-08-23",
+        "symbol": "ROP",
+        "actualEarningResult": 0.12,
+        "estimatedEarning": 0.1
+    },
+    {
+        "date": "1993-05-24",
+        "symbol": "ROP",
+        "actualEarningResult": 0.05,
+        "estimatedEarning": 0.05
+    },
+    {
+        "date": "1993-02-22",
+        "symbol": "ROP",
+        "actualEarningResult": 0.02,
+        "estimatedEarning": 0.02235
+    }
+]

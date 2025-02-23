@@ -1,0 +1,458 @@
+[
+    {
+        "date": "2024-10-31",
+        "symbol": "ICE",
+        "actualEarningResult": 1.55,
+        "estimatedEarning": 1.55
+    },
+    {
+        "date": "2024-08-01",
+        "symbol": "ICE",
+        "actualEarningResult": 1.52,
+        "estimatedEarning": 1.49
+    },
+    {
+        "date": "2024-05-02",
+        "symbol": "ICE",
+        "actualEarningResult": 1.48,
+        "estimatedEarning": 1.48
+    },
+    {
+        "date": "2024-02-08",
+        "symbol": "ICE",
+        "actualEarningResult": 1.33,
+        "estimatedEarning": 1.29
+    },
+    {
+        "date": "2023-11-02",
+        "symbol": "ICE",
+        "actualEarningResult": 1.46,
+        "estimatedEarning": 1.4
+    },
+    {
+        "date": "2023-08-03",
+        "symbol": "ICE",
+        "actualEarningResult": 1.43,
+        "estimatedEarning": 1.37
+    },
+    {
+        "date": "2023-05-04",
+        "symbol": "ICE",
+        "actualEarningResult": 1.41,
+        "estimatedEarning": 1.4
+    },
+    {
+        "date": "2023-02-02",
+        "symbol": "ICE",
+        "actualEarningResult": 1.25,
+        "estimatedEarning": 1.26
+    },
+    {
+        "date": "2022-11-03",
+        "symbol": "ICE",
+        "actualEarningResult": 1.31,
+        "estimatedEarning": 1.26
+    },
+    {
+        "date": "2022-08-04",
+        "symbol": "ICE",
+        "actualEarningResult": 1.32,
+        "estimatedEarning": 1.28
+    },
+    {
+        "date": "2022-05-05",
+        "symbol": "ICE",
+        "actualEarningResult": 1.43,
+        "estimatedEarning": 1.42
+    },
+    {
+        "date": "2022-02-03",
+        "symbol": "ICE",
+        "actualEarningResult": 1.34,
+        "estimatedEarning": 1.32
+    },
+    {
+        "date": "2021-10-28",
+        "symbol": "ICE",
+        "actualEarningResult": 1.3,
+        "estimatedEarning": 1.22
+    },
+    {
+        "date": "2021-07-29",
+        "symbol": "ICE",
+        "actualEarningResult": 1.16,
+        "estimatedEarning": 1.16
+    },
+    {
+        "date": "2021-04-29",
+        "symbol": "ICE",
+        "actualEarningResult": 1.34,
+        "estimatedEarning": 1.3
+    },
+    {
+        "date": "2021-02-04",
+        "symbol": "ICE",
+        "actualEarningResult": 1.13,
+        "estimatedEarning": 1.08
+    },
+    {
+        "date": "2020-10-29",
+        "symbol": "ICE",
+        "actualEarningResult": 1.03,
+        "estimatedEarning": 0.99
+    },
+    {
+        "date": "2020-07-30",
+        "symbol": "ICE",
+        "actualEarningResult": 1.07,
+        "estimatedEarning": 1.04
+    },
+    {
+        "date": "2020-04-30",
+        "symbol": "ICE",
+        "actualEarningResult": 1.28,
+        "estimatedEarning": 1.24
+    },
+    {
+        "date": "2020-02-06",
+        "symbol": "ICE",
+        "actualEarningResult": 0.95,
+        "estimatedEarning": 0.95
+    },
+    {
+        "date": "2019-10-31",
+        "symbol": "ICE",
+        "actualEarningResult": 1.06,
+        "estimatedEarning": 0.96
+    },
+    {
+        "date": "2019-08-01",
+        "symbol": "ICE",
+        "actualEarningResult": 0.94,
+        "estimatedEarning": 0.92
+    },
+    {
+        "date": "2019-05-02",
+        "symbol": "ICE",
+        "actualEarningResult": 0.92,
+        "estimatedEarning": 0.9
+    },
+    {
+        "date": "2019-02-07",
+        "symbol": "ICE",
+        "actualEarningResult": 0.94,
+        "estimatedEarning": 0.92
+    },
+    {
+        "date": "2018-10-31",
+        "symbol": "ICE",
+        "actualEarningResult": 0.85,
+        "estimatedEarning": 0.8
+    },
+    {
+        "date": "2018-08-02",
+        "symbol": "ICE",
+        "actualEarningResult": 0.9,
+        "estimatedEarning": 0.89
+    },
+    {
+        "date": "2018-05-03",
+        "symbol": "ICE",
+        "actualEarningResult": 0.9,
+        "estimatedEarning": 0.88
+    },
+    {
+        "date": "2018-02-07",
+        "symbol": "ICE",
+        "actualEarningResult": 0.73,
+        "estimatedEarning": 0.72
+    },
+    {
+        "date": "2017-11-02",
+        "symbol": "ICE",
+        "actualEarningResult": 0.73,
+        "estimatedEarning": 0.7
+    },
+    {
+        "date": "2017-08-03",
+        "symbol": "ICE",
+        "actualEarningResult": 0.75,
+        "estimatedEarning": 0.76
+    },
+    {
+        "date": "2017-05-03",
+        "symbol": "ICE",
+        "actualEarningResult": 0.74,
+        "estimatedEarning": 0.73
+    },
+    {
+        "date": "2017-02-07",
+        "symbol": "ICE",
+        "actualEarningResult": 0.71,
+        "estimatedEarning": 0.69
+    },
+    {
+        "date": "2016-11-01",
+        "symbol": "ICE",
+        "actualEarningResult": 0.64,
+        "estimatedEarning": 0.64
+    },
+    {
+        "date": "2016-08-03",
+        "symbol": "ICE",
+        "actualEarningResult": 0.69,
+        "estimatedEarning": 0.68
+    },
+    {
+        "date": "2016-05-04",
+        "symbol": "ICE",
+        "actualEarningResult": 0.74,
+        "estimatedEarning": 0.73
+    },
+    {
+        "date": "2016-02-04",
+        "symbol": "ICE",
+        "actualEarningResult": 0.65,
+        "estimatedEarning": 0.6
+    },
+    {
+        "date": "2015-10-28",
+        "symbol": "ICE",
+        "actualEarningResult": 0.58,
+        "estimatedEarning": 0.58
+    },
+    {
+        "date": "2015-08-05",
+        "symbol": "ICE",
+        "actualEarningResult": 0.58,
+        "estimatedEarning": 0.55
+    },
+    {
+        "date": "2015-05-05",
+        "symbol": "ICE",
+        "actualEarningResult": 0.61,
+        "estimatedEarning": 0.59
+    },
+    {
+        "date": "2015-02-05",
+        "symbol": "ICE",
+        "actualEarningResult": 0.52,
+        "estimatedEarning": 0.51
+    },
+    {
+        "date": "2014-11-04",
+        "symbol": "ICE",
+        "actualEarningResult": 0.43,
+        "estimatedEarning": 0.4
+    },
+    {
+        "date": "2014-08-07",
+        "symbol": "ICE",
+        "actualEarningResult": 0.42,
+        "estimatedEarning": 0.4
+    },
+    {
+        "date": "2014-05-08",
+        "symbol": "ICE",
+        "actualEarningResult": 0.52,
+        "estimatedEarning": 0.52
+    },
+    {
+        "date": "2014-02-11",
+        "symbol": "ICE",
+        "actualEarningResult": 0.4,
+        "estimatedEarning": 0.4
+    },
+    {
+        "date": "2013-11-05",
+        "symbol": "ICE",
+        "actualEarningResult": 0.39,
+        "estimatedEarning": 0.37
+    },
+    {
+        "date": "2013-08-06",
+        "symbol": "ICE",
+        "actualEarningResult": 0.44,
+        "estimatedEarning": 0.43
+    },
+    {
+        "date": "2013-05-01",
+        "symbol": "ICE",
+        "actualEarningResult": 0.41,
+        "estimatedEarning": 0.39
+    },
+    {
+        "date": "2013-02-06",
+        "symbol": "ICE",
+        "actualEarningResult": 0.35,
+        "estimatedEarning": 0.35
+    },
+    {
+        "date": "2012-11-05",
+        "symbol": "ICE",
+        "actualEarningResult": 0.36,
+        "estimatedEarning": 0.34
+    },
+    {
+        "date": "2012-08-01",
+        "symbol": "ICE",
+        "actualEarningResult": 0.39,
+        "estimatedEarning": 0.38
+    },
+    {
+        "date": "2012-05-02",
+        "symbol": "ICE",
+        "actualEarningResult": 0.4,
+        "estimatedEarning": 0.4
+    },
+    {
+        "date": "2012-02-08",
+        "symbol": "ICE",
+        "actualEarningResult": 0.35,
+        "estimatedEarning": 0.34
+    },
+    {
+        "date": "2011-11-02",
+        "symbol": "ICE",
+        "actualEarningResult": 0.37,
+        "estimatedEarning": 0.35
+    },
+    {
+        "date": "2011-08-03",
+        "symbol": "ICE",
+        "actualEarningResult": 0.34,
+        "estimatedEarning": 0.33
+    },
+    {
+        "date": "2011-05-04",
+        "symbol": "ICE",
+        "actualEarningResult": 0.35,
+        "estimatedEarning": 0.34
+    },
+    {
+        "date": "2011-02-09",
+        "symbol": "ICE",
+        "actualEarningResult": 0.27,
+        "estimatedEarning": 0.27
+    },
+    {
+        "date": "2010-11-01",
+        "symbol": "ICE",
+        "actualEarningResult": 0.28,
+        "estimatedEarning": 0.27
+    },
+    {
+        "date": "2010-08-04",
+        "symbol": "ICE",
+        "actualEarningResult": 0.3,
+        "estimatedEarning": 0.28
+    },
+    {
+        "date": "2010-05-05",
+        "symbol": "ICE",
+        "actualEarningResult": 0.27,
+        "estimatedEarning": 0.26
+    },
+    {
+        "date": "2010-02-10",
+        "symbol": "ICE",
+        "actualEarningResult": 0.22,
+        "estimatedEarning": 0.23
+    },
+    {
+        "date": "2009-11-03",
+        "symbol": "ICE",
+        "actualEarningResult": 0.24,
+        "estimatedEarning": 0.23
+    },
+    {
+        "date": "2009-08-04",
+        "symbol": "ICE",
+        "actualEarningResult": 0.22,
+        "estimatedEarning": 0.23
+    },
+    {
+        "date": "2009-05-05",
+        "symbol": "ICE",
+        "actualEarningResult": 0.22,
+        "estimatedEarning": 0.19
+    },
+    {
+        "date": "2009-02-10",
+        "symbol": "ICE",
+        "actualEarningResult": 0.16,
+        "estimatedEarning": 0.17
+    },
+    {
+        "date": "2008-10-30",
+        "symbol": "ICE",
+        "actualEarningResult": 0.21,
+        "estimatedEarning": 0.21
+    },
+    {
+        "date": "2008-08-04",
+        "symbol": "ICE",
+        "actualEarningResult": 0.24,
+        "estimatedEarning": 0.24
+    },
+    {
+        "date": "2008-05-02",
+        "symbol": "ICE",
+        "actualEarningResult": 0.26,
+        "estimatedEarning": 0.26
+    },
+    {
+        "date": "2008-01-31",
+        "symbol": "ICE",
+        "actualEarningResult": 0.18,
+        "estimatedEarning": 0.18
+    },
+    {
+        "date": "2007-10-25",
+        "symbol": "ICE",
+        "actualEarningResult": 0.19,
+        "estimatedEarning": 0.18
+    },
+    {
+        "date": "2007-07-26",
+        "symbol": "ICE",
+        "actualEarningResult": 0.15,
+        "estimatedEarning": 0.15
+    },
+    {
+        "date": "2007-05-02",
+        "symbol": "ICE",
+        "actualEarningResult": 0.14,
+        "estimatedEarning": 0.14
+    },
+    {
+        "date": "2007-02-07",
+        "symbol": "ICE",
+        "actualEarningResult": 0.16,
+        "estimatedEarning": 0.15
+    },
+    {
+        "date": "2006-11-02",
+        "symbol": "ICE",
+        "actualEarningResult": 0.15,
+        "estimatedEarning": 0.14
+    },
+    {
+        "date": "2006-07-26",
+        "symbol": "ICE",
+        "actualEarningResult": 0.1,
+        "estimatedEarning": 0.1
+    },
+    {
+        "date": "2006-05-02",
+        "symbol": "ICE",
+        "actualEarningResult": 0.07,
+        "estimatedEarning": 0.06
+    },
+    {
+        "date": "2006-02-23",
+        "symbol": "ICE",
+        "actualEarningResult": 0.05,
+        "estimatedEarning": 0.05
+    }
+]

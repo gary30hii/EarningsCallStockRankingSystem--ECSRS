@@ -1,0 +1,80 @@
+[
+    {
+        "date": "2024-10-29",
+        "symbol": "SOFI",
+        "actualEarningResult": 0.05,
+        "estimatedEarning": 0.043
+    },
+    {
+        "date": "2024-07-30",
+        "symbol": "SOFI",
+        "actualEarningResult": 0.01,
+        "estimatedEarning": 0.00464
+    },
+    {
+        "date": "2024-04-29",
+        "symbol": "SOFI",
+        "actualEarningResult": 0.02,
+        "estimatedEarning": 0.01108
+    },
+    {
+        "date": "2023-10-30",
+        "symbol": "SOFI",
+        "actualEarningResult": -0.03,
+        "estimatedEarning": -0.07
+    },
+    {
+        "date": "2023-07-31",
+        "symbol": "SOFI",
+        "actualEarningResult": -0.06,
+        "estimatedEarning": -0.07
+    },
+    {
+        "date": "2023-05-01",
+        "symbol": "SOFI",
+        "actualEarningResult": -0.05,
+        "estimatedEarning": -0.08
+    },
+    {
+        "date": "2023-01-30",
+        "symbol": "SOFI",
+        "actualEarningResult": -0.05,
+        "estimatedEarning": -0.09
+    },
+    {
+        "date": "2022-11-01",
+        "symbol": "SOFI",
+        "actualEarningResult": -0.09,
+        "estimatedEarning": -0.1
+    },
+    {
+        "date": "2022-08-02",
+        "symbol": "SOFI",
+        "actualEarningResult": -0.12,
+        "estimatedEarning": -0.12
+    },
+    {
+        "date": "2022-05-10",
+        "symbol": "SOFI",
+        "actualEarningResult": -0.14,
+        "estimatedEarning": -0.14
+    },
+    {
+        "date": "2022-03-01",
+        "symbol": "SOFI",
+        "actualEarningResult": -0.15,
+        "estimatedEarning": -0.16
+    },
+    {
+        "date": "2021-11-10",
+        "symbol": "SOFI",
+        "actualEarningResult": -0.05,
+        "estimatedEarning": -0.11
+    },
+    {
+        "date": "2021-08-12",
+        "symbol": "SOFI",
+        "actualEarningResult": -0.48,
+        "estimatedEarning": -0.07
+    }
+]

@@ -1,0 +1,248 @@
+[
+    {
+        "date": "2024-10-16",
+        "symbol": "SYF",
+        "actualEarningResult": 1.94,
+        "estimatedEarning": 1.79
+    },
+    {
+        "date": "2024-07-17",
+        "symbol": "SYF",
+        "actualEarningResult": 1.55,
+        "estimatedEarning": 1.35
+    },
+    {
+        "date": "2024-04-24",
+        "symbol": "SYF",
+        "actualEarningResult": 1.18,
+        "estimatedEarning": 1.34
+    },
+    {
+        "date": "2024-01-23",
+        "symbol": "SYF",
+        "actualEarningResult": 1.03,
+        "estimatedEarning": 0.93
+    },
+    {
+        "date": "2023-10-24",
+        "symbol": "SYF",
+        "actualEarningResult": 1.48,
+        "estimatedEarning": 1.43
+    },
+    {
+        "date": "2023-07-18",
+        "symbol": "SYF",
+        "actualEarningResult": 1.32,
+        "estimatedEarning": 1.24
+    },
+    {
+        "date": "2023-04-19",
+        "symbol": "SYF",
+        "actualEarningResult": 1.35,
+        "estimatedEarning": 1.46
+    },
+    {
+        "date": "2023-01-23",
+        "symbol": "SYF",
+        "actualEarningResult": 1.26,
+        "estimatedEarning": 1.11
+    },
+    {
+        "date": "2022-10-25",
+        "symbol": "SYF",
+        "actualEarningResult": 1.47,
+        "estimatedEarning": 1.38
+    },
+    {
+        "date": "2022-07-18",
+        "symbol": "SYF",
+        "actualEarningResult": 1.6,
+        "estimatedEarning": 1.43
+    },
+    {
+        "date": "2022-04-18",
+        "symbol": "SYF",
+        "actualEarningResult": 1.77,
+        "estimatedEarning": 1.54
+    },
+    {
+        "date": "2022-01-28",
+        "symbol": "SYF",
+        "actualEarningResult": 1.48,
+        "estimatedEarning": 1.48
+    },
+    {
+        "date": "2021-10-19",
+        "symbol": "SYF",
+        "actualEarningResult": 2,
+        "estimatedEarning": 1.51
+    },
+    {
+        "date": "2021-07-20",
+        "symbol": "SYF",
+        "actualEarningResult": 2.12,
+        "estimatedEarning": 1.43
+    },
+    {
+        "date": "2021-04-27",
+        "symbol": "SYF",
+        "actualEarningResult": 1.73,
+        "estimatedEarning": 1.38
+    },
+    {
+        "date": "2021-01-29",
+        "symbol": "SYF",
+        "actualEarningResult": 1.24,
+        "estimatedEarning": 0.91
+    },
+    {
+        "date": "2020-10-20",
+        "symbol": "SYF",
+        "actualEarningResult": 0.63,
+        "estimatedEarning": 0.72
+    },
+    {
+        "date": "2020-07-21",
+        "symbol": "SYF",
+        "actualEarningResult": 0.06,
+        "estimatedEarning": 0.15
+    },
+    {
+        "date": "2020-04-21",
+        "symbol": "SYF",
+        "actualEarningResult": 0.45,
+        "estimatedEarning": -0.1
+    },
+    {
+        "date": "2020-01-24",
+        "symbol": "SYF",
+        "actualEarningResult": 1.1,
+        "estimatedEarning": 1.08
+    },
+    {
+        "date": "2019-10-18",
+        "symbol": "SYF",
+        "actualEarningResult": 1.22,
+        "estimatedEarning": 1.13
+    },
+    {
+        "date": "2019-07-19",
+        "symbol": "SYF",
+        "actualEarningResult": 0.97,
+        "estimatedEarning": 0.95
+    },
+    {
+        "date": "2019-04-18",
+        "symbol": "SYF",
+        "actualEarningResult": 1,
+        "estimatedEarning": 0.88
+    },
+    {
+        "date": "2019-01-23",
+        "symbol": "SYF",
+        "actualEarningResult": 1.09,
+        "estimatedEarning": 0.93
+    },
+    {
+        "date": "2018-10-19",
+        "symbol": "SYF",
+        "actualEarningResult": 0.91,
+        "estimatedEarning": 0.8
+    },
+    {
+        "date": "2018-07-27",
+        "symbol": "SYF",
+        "actualEarningResult": 0.92,
+        "estimatedEarning": 0.82
+    },
+    {
+        "date": "2018-04-20",
+        "symbol": "SYF",
+        "actualEarningResult": 0.83,
+        "estimatedEarning": 0.75
+    },
+    {
+        "date": "2018-01-19",
+        "symbol": "SYF",
+        "actualEarningResult": 0.7,
+        "estimatedEarning": 0.63
+    },
+    {
+        "date": "2017-10-20",
+        "symbol": "SYF",
+        "actualEarningResult": 0.7,
+        "estimatedEarning": 0.64
+    },
+    {
+        "date": "2017-07-21",
+        "symbol": "SYF",
+        "actualEarningResult": 0.61,
+        "estimatedEarning": 0.57
+    },
+    {
+        "date": "2017-04-28",
+        "symbol": "SYF",
+        "actualEarningResult": 0.61,
+        "estimatedEarning": 0.73
+    },
+    {
+        "date": "2017-01-20",
+        "symbol": "SYF",
+        "actualEarningResult": 0.7,
+        "estimatedEarning": 0.67
+    },
+    {
+        "date": "2016-10-21",
+        "symbol": "SYF",
+        "actualEarningResult": 0.73,
+        "estimatedEarning": 0.67
+    },
+    {
+        "date": "2016-07-22",
+        "symbol": "SYF",
+        "actualEarningResult": 0.58,
+        "estimatedEarning": 0.54
+    },
+    {
+        "date": "2016-04-22",
+        "symbol": "SYF",
+        "actualEarningResult": 0.7,
+        "estimatedEarning": 0.69
+    },
+    {
+        "date": "2016-01-22",
+        "symbol": "SYF",
+        "actualEarningResult": 0.65,
+        "estimatedEarning": 0.63
+    },
+    {
+        "date": "2015-10-16",
+        "symbol": "SYF",
+        "actualEarningResult": 0.69,
+        "estimatedEarning": 0.66
+    },
+    {
+        "date": "2015-07-17",
+        "symbol": "SYF",
+        "actualEarningResult": 0.65,
+        "estimatedEarning": 0.61
+    },
+    {
+        "date": "2015-04-17",
+        "symbol": "SYF",
+        "actualEarningResult": 0.66,
+        "estimatedEarning": 0.64
+    },
+    {
+        "date": "2015-01-23",
+        "symbol": "SYF",
+        "actualEarningResult": 0.64,
+        "estimatedEarning": 0.6
+    },
+    {
+        "date": "2014-10-17",
+        "symbol": "SYF",
+        "actualEarningResult": 0.7,
+        "estimatedEarning": 0.67
+    }
+]

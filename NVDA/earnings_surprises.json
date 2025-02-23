@@ -1,0 +1,338 @@
+[
+    {
+        "date": "2024-11-20",
+        "symbol": "NVDA",
+        "actualEarningResult": 0.81,
+        "estimatedEarning": 0.75
+    },
+    {
+        "date": "2024-08-28",
+        "symbol": "NVDA",
+        "actualEarningResult": 0.68,
+        "estimatedEarning": 0.64
+    },
+    {
+        "date": "2024-05-22",
+        "symbol": "NVDA",
+        "actualEarningResult": 0.61,
+        "estimatedEarning": 0.56
+    },
+    {
+        "date": "2024-02-21",
+        "symbol": "NVDA",
+        "actualEarningResult": 0.52,
+        "estimatedEarning": 0.46
+    },
+    {
+        "date": "2023-11-21",
+        "symbol": "NVDA",
+        "actualEarningResult": 0.4,
+        "estimatedEarning": 0.34
+    },
+    {
+        "date": "2023-08-23",
+        "symbol": "NVDA",
+        "actualEarningResult": 0.27,
+        "estimatedEarning": 0.21
+    },
+    {
+        "date": "2023-05-24",
+        "symbol": "NVDA",
+        "actualEarningResult": 0.11,
+        "estimatedEarning": 0.09
+    },
+    {
+        "date": "2023-02-22",
+        "symbol": "NVDA",
+        "actualEarningResult": 0.09,
+        "estimatedEarning": 0.08
+    },
+    {
+        "date": "2022-11-16",
+        "symbol": "NVDA",
+        "actualEarningResult": 0.06,
+        "estimatedEarning": 0.07
+    },
+    {
+        "date": "2022-08-24",
+        "symbol": "NVDA",
+        "actualEarningResult": 0.05,
+        "estimatedEarning": 0.06
+    },
+    {
+        "date": "2022-05-25",
+        "symbol": "NVDA",
+        "actualEarningResult": 0.14,
+        "estimatedEarning": 0.13
+    },
+    {
+        "date": "2022-02-16",
+        "symbol": "NVDA",
+        "actualEarningResult": 0.13,
+        "estimatedEarning": 0.12
+    },
+    {
+        "date": "2021-11-17",
+        "symbol": "NVDA",
+        "actualEarningResult": 0.12,
+        "estimatedEarning": 0.11
+    },
+    {
+        "date": "2021-08-18",
+        "symbol": "NVDA",
+        "actualEarningResult": 0.1,
+        "estimatedEarning": 0.1
+    },
+    {
+        "date": "2021-05-26",
+        "symbol": "NVDA",
+        "actualEarningResult": 0.09,
+        "estimatedEarning": 0.08
+    },
+    {
+        "date": "2021-02-24",
+        "symbol": "NVDA",
+        "actualEarningResult": 0.08,
+        "estimatedEarning": 0.07
+    },
+    {
+        "date": "2020-11-18",
+        "symbol": "NVDA",
+        "actualEarningResult": 0.07,
+        "estimatedEarning": 0.06
+    },
+    {
+        "date": "2020-08-19",
+        "symbol": "NVDA",
+        "actualEarningResult": 0.05,
+        "estimatedEarning": 0.05
+    },
+    {
+        "date": "2020-05-21",
+        "symbol": "NVDA",
+        "actualEarningResult": 0.05,
+        "estimatedEarning": 0.04684
+    },
+    {
+        "date": "2020-02-13",
+        "symbol": "NVDA",
+        "actualEarningResult": 0.05,
+        "estimatedEarning": 0.04415
+    },
+    {
+        "date": "2019-11-14",
+        "symbol": "NVDA",
+        "actualEarningResult": 0.04,
+        "estimatedEarning": 0.03538
+    },
+    {
+        "date": "2019-08-15",
+        "symbol": "NVDA",
+        "actualEarningResult": 0.03,
+        "estimatedEarning": 0.0277
+    },
+    {
+        "date": "2019-05-16",
+        "symbol": "NVDA",
+        "actualEarningResult": 0.02,
+        "estimatedEarning": 0.0184
+    },
+    {
+        "date": "2019-02-14",
+        "symbol": "NVDA",
+        "actualEarningResult": 0.02,
+        "estimatedEarning": 0.01878
+    },
+    {
+        "date": "2018-11-15",
+        "symbol": "NVDA",
+        "actualEarningResult": 0.05,
+        "estimatedEarning": 0.05
+    },
+    {
+        "date": "2018-08-16",
+        "symbol": "NVDA",
+        "actualEarningResult": 0.05,
+        "estimatedEarning": 0.05
+    },
+    {
+        "date": "2018-05-10",
+        "symbol": "NVDA",
+        "actualEarningResult": 0.05,
+        "estimatedEarning": 0.03886
+    },
+    {
+        "date": "2018-02-08",
+        "symbol": "NVDA",
+        "actualEarningResult": 0.04,
+        "estimatedEarning": 0.02977
+    },
+    {
+        "date": "2017-11-09",
+        "symbol": "NVDA",
+        "actualEarningResult": 0.03,
+        "estimatedEarning": 0.0213
+    },
+    {
+        "date": "2017-08-10",
+        "symbol": "NVDA",
+        "actualEarningResult": 0.03,
+        "estimatedEarning": 0.02275
+    },
+    {
+        "date": "2017-05-09",
+        "symbol": "NVDA",
+        "actualEarningResult": 0.02,
+        "estimatedEarning": 0.01669
+    },
+    {
+        "date": "2017-02-09",
+        "symbol": "NVDA",
+        "actualEarningResult": 0.02,
+        "estimatedEarning": 0.01672
+    },
+    {
+        "date": "2016-11-10",
+        "symbol": "NVDA",
+        "actualEarningResult": 0.02,
+        "estimatedEarning": 0.01358
+    },
+    {
+        "date": "2016-08-11",
+        "symbol": "NVDA",
+        "actualEarningResult": 0.01,
+        "estimatedEarning": 0.00934
+    },
+    {
+        "date": "2016-05-12",
+        "symbol": "NVDA",
+        "actualEarningResult": 0.01,
+        "estimatedEarning": 0.00963
+    },
+    {
+        "date": "2016-02-17",
+        "symbol": "NVDA",
+        "actualEarningResult": 0.01,
+        "estimatedEarning": 0.00909
+    },
+    {
+        "date": "2015-11-05",
+        "symbol": "NVDA",
+        "actualEarningResult": 0.01,
+        "estimatedEarning": 0.00571
+    },
+    {
+        "date": "2015-05-07",
+        "symbol": "NVDA",
+        "actualEarningResult": 0.01,
+        "estimatedEarning": 0.01079
+    },
+    {
+        "date": "2015-02-11",
+        "symbol": "NVDA",
+        "actualEarningResult": 0.01,
+        "estimatedEarning": 0.00816
+    },
+    {
+        "date": "2014-11-06",
+        "symbol": "NVDA",
+        "actualEarningResult": 0.01,
+        "estimatedEarning": 0.00919
+    },
+    {
+        "date": "2013-11-07",
+        "symbol": "NVDA",
+        "actualEarningResult": 0.01,
+        "estimatedEarning": 0.00975
+    },
+    {
+        "date": "2010-08-12",
+        "symbol": "NVDA",
+        "actualEarningResult": -0.00615,
+        "estimatedEarning": -0.00358
+    },
+    {
+        "date": "2003-11-06",
+        "symbol": "NVDA",
+        "actualEarningResult": 0.00031,
+        "estimatedEarning": 0.00026
+    },
+    {
+        "date": "2003-08-07",
+        "symbol": "NVDA",
+        "actualEarningResult": 0.00115,
+        "estimatedEarning": 0.00157
+    },
+    {
+        "date": "2003-05-08",
+        "symbol": "NVDA",
+        "actualEarningResult": 0.00098,
+        "estimatedEarning": 0.00086
+    },
+    {
+        "date": "2003-02-13",
+        "symbol": "NVDA",
+        "actualEarningResult": 0.00253,
+        "estimatedEarning": 0.00101
+    },
+    {
+        "date": "2002-11-07",
+        "symbol": "NVDA",
+        "actualEarningResult": -0.00264,
+        "estimatedEarning": -0.0022
+    },
+    {
+        "date": "2002-08-15",
+        "symbol": "NVDA",
+        "actualEarningResult": 0.00026,
+        "estimatedEarning": 0.00028
+    },
+    {
+        "date": "2001-02-15",
+        "symbol": "NVDA",
+        "actualEarningResult": 0.0016,
+        "estimatedEarning": 0.01276
+    },
+    {
+        "date": "2000-11-09",
+        "symbol": "NVDA",
+        "actualEarningResult": 0.00145,
+        "estimatedEarning": 0.05
+    },
+    {
+        "date": "2000-08-21",
+        "symbol": "NVDA",
+        "actualEarningResult": 0.00059,
+        "estimatedEarning": 0.00055
+    },
+    {
+        "date": "2000-05-16",
+        "symbol": "NVDA",
+        "actualEarningResult": 0.00098,
+        "estimatedEarning": 0.00082
+    },
+    {
+        "date": "2000-02-15",
+        "symbol": "NVDA",
+        "actualEarningResult": 0.00081,
+        "estimatedEarning": 0.00074
+    },
+    {
+        "date": "1999-11-18",
+        "symbol": "NVDA",
+        "actualEarningResult": 0.00063,
+        "estimatedEarning": 0.0005
+    },
+    {
+        "date": "1999-08-18",
+        "symbol": "NVDA",
+        "actualEarningResult": 0.00042,
+        "estimatedEarning": 0.0004
+    },
+    {
+        "date": "1999-05-18",
+        "symbol": "NVDA",
+        "actualEarningResult": 0.00037,
+        "estimatedEarning": 0.00028
+    }
+]

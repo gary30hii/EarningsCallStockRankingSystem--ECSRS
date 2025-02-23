@@ -1,0 +1,674 @@
+[
+    {
+        "date": "2024-10-23",
+        "symbol": "APH",
+        "actualEarningResult": 0.5,
+        "estimatedEarning": 0.45
+    },
+    {
+        "date": "2024-07-24",
+        "symbol": "APH",
+        "actualEarningResult": 0.44,
+        "estimatedEarning": 0.41
+    },
+    {
+        "date": "2024-04-24",
+        "symbol": "APH",
+        "actualEarningResult": 0.4,
+        "estimatedEarning": 0.3674
+    },
+    {
+        "date": "2024-01-24",
+        "symbol": "APH",
+        "actualEarningResult": 0.41,
+        "estimatedEarning": 0.39
+    },
+    {
+        "date": "2023-10-25",
+        "symbol": "APH",
+        "actualEarningResult": 0.39,
+        "estimatedEarning": 0.37
+    },
+    {
+        "date": "2023-07-26",
+        "symbol": "APH",
+        "actualEarningResult": 0.36,
+        "estimatedEarning": 0.34
+    },
+    {
+        "date": "2023-04-26",
+        "symbol": "APH",
+        "actualEarningResult": 0.35,
+        "estimatedEarning": 0.34
+    },
+    {
+        "date": "2023-01-25",
+        "symbol": "APH",
+        "actualEarningResult": 0.39,
+        "estimatedEarning": 0.38
+    },
+    {
+        "date": "2022-10-26",
+        "symbol": "APH",
+        "actualEarningResult": 0.4,
+        "estimatedEarning": 0.38
+    },
+    {
+        "date": "2022-07-27",
+        "symbol": "APH",
+        "actualEarningResult": 0.38,
+        "estimatedEarning": 0.34
+    },
+    {
+        "date": "2022-04-27",
+        "symbol": "APH",
+        "actualEarningResult": 0.34,
+        "estimatedEarning": 0.31
+    },
+    {
+        "date": "2022-01-26",
+        "symbol": "APH",
+        "actualEarningResult": 0.35,
+        "estimatedEarning": 0.32
+    },
+    {
+        "date": "2021-10-27",
+        "symbol": "APH",
+        "actualEarningResult": 0.33,
+        "estimatedEarning": 0.32
+    },
+    {
+        "date": "2021-07-28",
+        "symbol": "APH",
+        "actualEarningResult": 0.31,
+        "estimatedEarning": 0.28
+    },
+    {
+        "date": "2021-04-28",
+        "symbol": "APH",
+        "actualEarningResult": 0.26,
+        "estimatedEarning": 0.24
+    },
+    {
+        "date": "2021-01-27",
+        "symbol": "APH",
+        "actualEarningResult": 0.28,
+        "estimatedEarning": 0.26
+    },
+    {
+        "date": "2020-10-21",
+        "symbol": "APH",
+        "actualEarningResult": 0.27,
+        "estimatedEarning": 0.22
+    },
+    {
+        "date": "2020-07-22",
+        "symbol": "APH",
+        "actualEarningResult": 0.2,
+        "estimatedEarning": 0.16
+    },
+    {
+        "date": "2020-04-22",
+        "symbol": "APH",
+        "actualEarningResult": 0.18,
+        "estimatedEarning": 0.19
+    },
+    {
+        "date": "2020-01-22",
+        "symbol": "APH",
+        "actualEarningResult": 0.25,
+        "estimatedEarning": 0.23
+    },
+    {
+        "date": "2019-10-23",
+        "symbol": "APH",
+        "actualEarningResult": 0.24,
+        "estimatedEarning": 0.22
+    },
+    {
+        "date": "2019-07-24",
+        "symbol": "APH",
+        "actualEarningResult": 0.23,
+        "estimatedEarning": 0.23
+    },
+    {
+        "date": "2019-04-24",
+        "symbol": "APH",
+        "actualEarningResult": 0.22,
+        "estimatedEarning": 0.22
+    },
+    {
+        "date": "2019-01-23",
+        "symbol": "APH",
+        "actualEarningResult": 0.26,
+        "estimatedEarning": 0.25
+    },
+    {
+        "date": "2018-10-24",
+        "symbol": "APH",
+        "actualEarningResult": 0.25,
+        "estimatedEarning": 0.24
+    },
+    {
+        "date": "2018-07-25",
+        "symbol": "APH",
+        "actualEarningResult": 0.23,
+        "estimatedEarning": 0.21
+    },
+    {
+        "date": "2018-04-25",
+        "symbol": "APH",
+        "actualEarningResult": 0.21,
+        "estimatedEarning": 0.2
+    },
+    {
+        "date": "2018-01-24",
+        "symbol": "APH",
+        "actualEarningResult": 0.22,
+        "estimatedEarning": 0.2
+    },
+    {
+        "date": "2017-10-25",
+        "symbol": "APH",
+        "actualEarningResult": 0.22,
+        "estimatedEarning": 0.2
+    },
+    {
+        "date": "2017-07-26",
+        "symbol": "APH",
+        "actualEarningResult": 0.2,
+        "estimatedEarning": 0.18
+    },
+    {
+        "date": "2017-04-26",
+        "symbol": "APH",
+        "actualEarningResult": 0.18,
+        "estimatedEarning": 0.17
+    },
+    {
+        "date": "2017-01-25",
+        "symbol": "APH",
+        "actualEarningResult": 0.19,
+        "estimatedEarning": 0.18
+    },
+    {
+        "date": "2016-10-19",
+        "symbol": "APH",
+        "actualEarningResult": 0.18,
+        "estimatedEarning": 0.17
+    },
+    {
+        "date": "2016-07-20",
+        "symbol": "APH",
+        "actualEarningResult": 0.16,
+        "estimatedEarning": 0.16
+    },
+    {
+        "date": "2016-04-20",
+        "symbol": "APH",
+        "actualEarningResult": 0.15,
+        "estimatedEarning": 0.14
+    },
+    {
+        "date": "2016-01-20",
+        "symbol": "APH",
+        "actualEarningResult": 0.16,
+        "estimatedEarning": 0.15
+    },
+    {
+        "date": "2015-10-21",
+        "symbol": "APH",
+        "actualEarningResult": 0.16,
+        "estimatedEarning": 0.16
+    },
+    {
+        "date": "2015-07-22",
+        "symbol": "APH",
+        "actualEarningResult": 0.15,
+        "estimatedEarning": 0.15
+    },
+    {
+        "date": "2015-04-22",
+        "symbol": "APH",
+        "actualEarningResult": 0.14,
+        "estimatedEarning": 0.14
+    },
+    {
+        "date": "2015-01-21",
+        "symbol": "APH",
+        "actualEarningResult": 0.16,
+        "estimatedEarning": 0.15
+    },
+    {
+        "date": "2014-10-22",
+        "symbol": "APH",
+        "actualEarningResult": 0.15,
+        "estimatedEarning": 0.14
+    },
+    {
+        "date": "2014-07-23",
+        "symbol": "APH",
+        "actualEarningResult": 0.14,
+        "estimatedEarning": 0.13
+    },
+    {
+        "date": "2014-04-23",
+        "symbol": "APH",
+        "actualEarningResult": 0.12,
+        "estimatedEarning": 0.12
+    },
+    {
+        "date": "2014-01-22",
+        "symbol": "APH",
+        "actualEarningResult": 0.13,
+        "estimatedEarning": 0.12
+    },
+    {
+        "date": "2013-10-17",
+        "symbol": "APH",
+        "actualEarningResult": 0.12,
+        "estimatedEarning": 0.12
+    },
+    {
+        "date": "2013-07-18",
+        "symbol": "APH",
+        "actualEarningResult": 0.12,
+        "estimatedEarning": 0.12
+    },
+    {
+        "date": "2013-04-18",
+        "symbol": "APH",
+        "actualEarningResult": 0.11,
+        "estimatedEarning": 0.11
+    },
+    {
+        "date": "2013-01-17",
+        "symbol": "APH",
+        "actualEarningResult": 0.12,
+        "estimatedEarning": 0.11
+    },
+    {
+        "date": "2012-10-17",
+        "symbol": "APH",
+        "actualEarningResult": 0.11,
+        "estimatedEarning": 0.11
+    },
+    {
+        "date": "2012-07-18",
+        "symbol": "APH",
+        "actualEarningResult": 0.11,
+        "estimatedEarning": 0.11
+    },
+    {
+        "date": "2012-04-18",
+        "symbol": "APH",
+        "actualEarningResult": 0.19,
+        "estimatedEarning": 0.19
+    },
+    {
+        "date": "2012-01-18",
+        "symbol": "APH",
+        "actualEarningResult": 0.18,
+        "estimatedEarning": 0.18
+    },
+    {
+        "date": "2011-10-19",
+        "symbol": "APH",
+        "actualEarningResult": 0.2,
+        "estimatedEarning": 0.2
+    },
+    {
+        "date": "2011-07-20",
+        "symbol": "APH",
+        "actualEarningResult": 0.2,
+        "estimatedEarning": 0.19
+    },
+    {
+        "date": "2011-04-20",
+        "symbol": "APH",
+        "actualEarningResult": 0.18,
+        "estimatedEarning": 0.18
+    },
+    {
+        "date": "2011-01-19",
+        "symbol": "APH",
+        "actualEarningResult": 0.19,
+        "estimatedEarning": 0.18
+    },
+    {
+        "date": "2010-10-20",
+        "symbol": "APH",
+        "actualEarningResult": 0.18,
+        "estimatedEarning": 0.17
+    },
+    {
+        "date": "2010-07-21",
+        "symbol": "APH",
+        "actualEarningResult": 0.17,
+        "estimatedEarning": 0.15
+    },
+    {
+        "date": "2010-04-20",
+        "symbol": "APH",
+        "actualEarningResult": 0.14,
+        "estimatedEarning": 0.13
+    },
+    {
+        "date": "2010-01-21",
+        "symbol": "APH",
+        "actualEarningResult": 0.13,
+        "estimatedEarning": 0.12
+    },
+    {
+        "date": "2009-10-15",
+        "symbol": "APH",
+        "actualEarningResult": 0.12,
+        "estimatedEarning": 0.11
+    },
+    {
+        "date": "2009-07-16",
+        "symbol": "APH",
+        "actualEarningResult": 0.11,
+        "estimatedEarning": 0.11
+    },
+    {
+        "date": "2009-04-16",
+        "symbol": "APH",
+        "actualEarningResult": 0.11,
+        "estimatedEarning": 0.1
+    },
+    {
+        "date": "2009-01-15",
+        "symbol": "APH",
+        "actualEarningResult": 0.14,
+        "estimatedEarning": 0.13
+    },
+    {
+        "date": "2008-10-16",
+        "symbol": "APH",
+        "actualEarningResult": 0.16,
+        "estimatedEarning": 0.15
+    },
+    {
+        "date": "2008-07-17",
+        "symbol": "APH",
+        "actualEarningResult": 0.15,
+        "estimatedEarning": 0.15
+    },
+    {
+        "date": "2008-04-17",
+        "symbol": "APH",
+        "actualEarningResult": 0.14,
+        "estimatedEarning": 0.13
+    },
+    {
+        "date": "2008-01-17",
+        "symbol": "APH",
+        "actualEarningResult": 0.14,
+        "estimatedEarning": 0.13
+    },
+    {
+        "date": "2007-10-17",
+        "symbol": "APH",
+        "actualEarningResult": 0.13,
+        "estimatedEarning": 0.12
+    },
+    {
+        "date": "2007-07-18",
+        "symbol": "APH",
+        "actualEarningResult": 0.12,
+        "estimatedEarning": 0.11
+    },
+    {
+        "date": "2007-04-18",
+        "symbol": "APH",
+        "actualEarningResult": 0.11,
+        "estimatedEarning": 0.1
+    },
+    {
+        "date": "2007-01-17",
+        "symbol": "APH",
+        "actualEarningResult": 0.11,
+        "estimatedEarning": 0.1
+    },
+    {
+        "date": "2006-10-18",
+        "symbol": "APH",
+        "actualEarningResult": 0.09,
+        "estimatedEarning": 0.09
+    },
+    {
+        "date": "2006-07-19",
+        "symbol": "APH",
+        "actualEarningResult": 0.09,
+        "estimatedEarning": 0.08
+    },
+    {
+        "date": "2006-04-19",
+        "symbol": "APH",
+        "actualEarningResult": 0.08,
+        "estimatedEarning": 0.07
+    },
+    {
+        "date": "2006-01-18",
+        "symbol": "APH",
+        "actualEarningResult": 0.08,
+        "estimatedEarning": 0.08
+    },
+    {
+        "date": "2005-10-19",
+        "symbol": "APH",
+        "actualEarningResult": 0.07,
+        "estimatedEarning": 0.07
+    },
+    {
+        "date": "2005-07-20",
+        "symbol": "APH",
+        "actualEarningResult": 0.07,
+        "estimatedEarning": 0.07
+    },
+    {
+        "date": "2005-04-20",
+        "symbol": "APH",
+        "actualEarningResult": 0.07,
+        "estimatedEarning": 0.06
+    },
+    {
+        "date": "2005-01-19",
+        "symbol": "APH",
+        "actualEarningResult": 0.06,
+        "estimatedEarning": 0.06
+    },
+    {
+        "date": "2004-10-20",
+        "symbol": "APH",
+        "actualEarningResult": 0.06,
+        "estimatedEarning": 0.06
+    },
+    {
+        "date": "2004-07-21",
+        "symbol": "APH",
+        "actualEarningResult": 0.06,
+        "estimatedEarning": 0.05
+    },
+    {
+        "date": "2004-04-21",
+        "symbol": "APH",
+        "actualEarningResult": 0.05,
+        "estimatedEarning": 0.05
+    },
+    {
+        "date": "2004-01-21",
+        "symbol": "APH",
+        "actualEarningResult": 0.05,
+        "estimatedEarning": 0.04513
+    },
+    {
+        "date": "2003-10-15",
+        "symbol": "APH",
+        "actualEarningResult": 0.04,
+        "estimatedEarning": 0.03819
+    },
+    {
+        "date": "2003-07-16",
+        "symbol": "APH",
+        "actualEarningResult": 0.04,
+        "estimatedEarning": 0.03678
+    },
+    {
+        "date": "2003-04-16",
+        "symbol": "APH",
+        "actualEarningResult": 0.03,
+        "estimatedEarning": 0.02926
+    },
+    {
+        "date": "2003-01-15",
+        "symbol": "APH",
+        "actualEarningResult": 0.03,
+        "estimatedEarning": 0.02943
+    },
+    {
+        "date": "2002-10-16",
+        "symbol": "APH",
+        "actualEarningResult": 0.03,
+        "estimatedEarning": 0.03042
+    },
+    {
+        "date": "2002-07-17",
+        "symbol": "APH",
+        "actualEarningResult": 0.03,
+        "estimatedEarning": 0.02919
+    },
+    {
+        "date": "2002-04-17",
+        "symbol": "APH",
+        "actualEarningResult": 0.03,
+        "estimatedEarning": 0.02904
+    },
+    {
+        "date": "2002-01-16",
+        "symbol": "APH",
+        "actualEarningResult": 0.02,
+        "estimatedEarning": 0.02278
+    },
+    {
+        "date": "2001-10-17",
+        "symbol": "APH",
+        "actualEarningResult": 0.02,
+        "estimatedEarning": 0.0219
+    },
+    {
+        "date": "2001-07-18",
+        "symbol": "APH",
+        "actualEarningResult": 0.03,
+        "estimatedEarning": 0.03018
+    },
+    {
+        "date": "2001-04-18",
+        "symbol": "APH",
+        "actualEarningResult": 0.04,
+        "estimatedEarning": 0.0388
+    },
+    {
+        "date": "2001-01-17",
+        "symbol": "APH",
+        "actualEarningResult": 0.05,
+        "estimatedEarning": 0.05
+    },
+    {
+        "date": "2000-10-18",
+        "symbol": "APH",
+        "actualEarningResult": 0.04,
+        "estimatedEarning": 0.03642
+    },
+    {
+        "date": "2000-07-19",
+        "symbol": "APH",
+        "actualEarningResult": 0.04,
+        "estimatedEarning": 0.03716
+    },
+    {
+        "date": "2000-04-19",
+        "symbol": "APH",
+        "actualEarningResult": 0.03,
+        "estimatedEarning": 0.02351
+    },
+    {
+        "date": "2000-01-19",
+        "symbol": "APH",
+        "actualEarningResult": 0.02,
+        "estimatedEarning": 0.01878
+    },
+    {
+        "date": "1999-10-14",
+        "symbol": "APH",
+        "actualEarningResult": 0.02,
+        "estimatedEarning": 0.0182
+    },
+    {
+        "date": "1999-07-15",
+        "symbol": "APH",
+        "actualEarningResult": 0.02,
+        "estimatedEarning": 0.01759
+    },
+    {
+        "date": "1999-04-15",
+        "symbol": "APH",
+        "actualEarningResult": 0.00719,
+        "estimatedEarning": 0.00729
+    },
+    {
+        "date": "1999-01-21",
+        "symbol": "APH",
+        "actualEarningResult": 0.00712,
+        "estimatedEarning": 0.00721
+    },
+    {
+        "date": "1998-10-14",
+        "symbol": "APH",
+        "actualEarningResult": 0.00719,
+        "estimatedEarning": 0.00824
+    },
+    {
+        "date": "1998-07-15",
+        "symbol": "APH",
+        "actualEarningResult": 0.02,
+        "estimatedEarning": 0.02124
+    },
+    {
+        "date": "1998-04-15",
+        "symbol": "APH",
+        "actualEarningResult": 0.02,
+        "estimatedEarning": 0.01987
+    },
+    {
+        "date": "1998-01-14",
+        "symbol": "APH",
+        "actualEarningResult": 0.02,
+        "estimatedEarning": 0.01978
+    },
+    {
+        "date": "1997-10-15",
+        "symbol": "APH",
+        "actualEarningResult": 0.02,
+        "estimatedEarning": 0.01868
+    },
+    {
+        "date": "1997-04-16",
+        "symbol": "APH",
+        "actualEarningResult": 0.00625,
+        "estimatedEarning": 0.00641
+    },
+    {
+        "date": "1997-01-15",
+        "symbol": "APH",
+        "actualEarningResult": 0.00437,
+        "estimatedEarning": 0.00449
+    },
+    {
+        "date": "1996-10-16",
+        "symbol": "APH",
+        "actualEarningResult": 0.005,
+        "estimatedEarning": 0.00503
+    }
+]

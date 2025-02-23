@@ -1,0 +1,362 @@
+[
+    {
+        "date": "2024-11-05",
+        "symbol": "SMCI",
+        "actualEarningResult": 0.75,
+        "estimatedEarning": 0.732
+    },
+    {
+        "date": "2024-08-06",
+        "symbol": "SMCI",
+        "actualEarningResult": 0.63,
+        "estimatedEarning": 0.812
+    },
+    {
+        "date": "2024-04-30",
+        "symbol": "SMCI",
+        "actualEarningResult": 0.67,
+        "estimatedEarning": 0.58
+    },
+    {
+        "date": "2024-01-29",
+        "symbol": "SMCI",
+        "actualEarningResult": 0.56,
+        "estimatedEarning": 0.55
+    },
+    {
+        "date": "2023-11-01",
+        "symbol": "SMCI",
+        "actualEarningResult": 0.34,
+        "estimatedEarning": 0.32
+    },
+    {
+        "date": "2023-08-08",
+        "symbol": "SMCI",
+        "actualEarningResult": 0.35,
+        "estimatedEarning": 0.34
+    },
+    {
+        "date": "2023-05-02",
+        "symbol": "SMCI",
+        "actualEarningResult": 0.16,
+        "estimatedEarning": 0.17
+    },
+    {
+        "date": "2023-01-31",
+        "symbol": "SMCI",
+        "actualEarningResult": 0.33,
+        "estimatedEarning": 0.32
+    },
+    {
+        "date": "2022-11-01",
+        "symbol": "SMCI",
+        "actualEarningResult": 0.34,
+        "estimatedEarning": 0.31
+    },
+    {
+        "date": "2022-08-09",
+        "symbol": "SMCI",
+        "actualEarningResult": 0.26,
+        "estimatedEarning": 0.24
+    },
+    {
+        "date": "2022-05-03",
+        "symbol": "SMCI",
+        "actualEarningResult": 0.16,
+        "estimatedEarning": 0.15
+    },
+    {
+        "date": "2022-02-01",
+        "symbol": "SMCI",
+        "actualEarningResult": 0.09,
+        "estimatedEarning": 0.08
+    },
+    {
+        "date": "2021-11-02",
+        "symbol": "SMCI",
+        "actualEarningResult": 0.06,
+        "estimatedEarning": 0.03879
+    },
+    {
+        "date": "2021-08-10",
+        "symbol": "SMCI",
+        "actualEarningResult": 0.08,
+        "estimatedEarning": 0.08
+    },
+    {
+        "date": "2021-05-04",
+        "symbol": "SMCI",
+        "actualEarningResult": 0.05,
+        "estimatedEarning": 0.05
+    },
+    {
+        "date": "2021-02-02",
+        "symbol": "SMCI",
+        "actualEarningResult": 0.06,
+        "estimatedEarning": 0.05
+    },
+    {
+        "date": "2020-11-03",
+        "symbol": "SMCI",
+        "actualEarningResult": 0.06,
+        "estimatedEarning": 0.01782
+    },
+    {
+        "date": "2020-08-11",
+        "symbol": "SMCI",
+        "actualEarningResult": 0.07,
+        "estimatedEarning": 0.05
+    },
+    {
+        "date": "2020-05-07",
+        "symbol": "SMCI",
+        "actualEarningResult": 0.08,
+        "estimatedEarning": 0.08
+    },
+    {
+        "date": "2020-02-06",
+        "symbol": "SMCI",
+        "actualEarningResult": 0.06,
+        "estimatedEarning": 0.68
+    },
+    {
+        "date": "2017-08-03",
+        "symbol": "SMCI",
+        "actualEarningResult": 0.04,
+        "estimatedEarning": 0.03713
+    },
+    {
+        "date": "2017-04-27",
+        "symbol": "SMCI",
+        "actualEarningResult": 0.04,
+        "estimatedEarning": 0.04045
+    },
+    {
+        "date": "2017-01-26",
+        "symbol": "SMCI",
+        "actualEarningResult": 0.05,
+        "estimatedEarning": 0.05
+    },
+    {
+        "date": "2016-10-27",
+        "symbol": "SMCI",
+        "actualEarningResult": 0.03,
+        "estimatedEarning": 0.01795
+    },
+    {
+        "date": "2016-08-04",
+        "symbol": "SMCI",
+        "actualEarningResult": 0.02,
+        "estimatedEarning": 0.02071
+    },
+    {
+        "date": "2016-04-28",
+        "symbol": "SMCI",
+        "actualEarningResult": 0.04,
+        "estimatedEarning": 0.03826
+    },
+    {
+        "date": "2016-01-28",
+        "symbol": "SMCI",
+        "actualEarningResult": 0.07,
+        "estimatedEarning": 0.07
+    },
+    {
+        "date": "2015-10-22",
+        "symbol": "SMCI",
+        "actualEarningResult": 0.05,
+        "estimatedEarning": 0.05
+    },
+    {
+        "date": "2015-08-04",
+        "symbol": "SMCI",
+        "actualEarningResult": 0.06,
+        "estimatedEarning": 0.06
+    },
+    {
+        "date": "2015-04-21",
+        "symbol": "SMCI",
+        "actualEarningResult": 0.05,
+        "estimatedEarning": 0.05
+    },
+    {
+        "date": "2015-01-20",
+        "symbol": "SMCI",
+        "actualEarningResult": 0.07,
+        "estimatedEarning": 0.05
+    },
+    {
+        "date": "2014-10-21",
+        "symbol": "SMCI",
+        "actualEarningResult": 0.05,
+        "estimatedEarning": 0.04131
+    },
+    {
+        "date": "2014-08-05",
+        "symbol": "SMCI",
+        "actualEarningResult": 0.04,
+        "estimatedEarning": 0.03933
+    },
+    {
+        "date": "2014-04-22",
+        "symbol": "SMCI",
+        "actualEarningResult": 0.04,
+        "estimatedEarning": 0.02955
+    },
+    {
+        "date": "2014-01-21",
+        "symbol": "SMCI",
+        "actualEarningResult": 0.04,
+        "estimatedEarning": 0.0301
+    },
+    {
+        "date": "2013-10-22",
+        "symbol": "SMCI",
+        "actualEarningResult": 0.02,
+        "estimatedEarning": 0.01954
+    },
+    {
+        "date": "2013-08-06",
+        "symbol": "SMCI",
+        "actualEarningResult": 0.03,
+        "estimatedEarning": 0.02385
+    },
+    {
+        "date": "2013-04-23",
+        "symbol": "SMCI",
+        "actualEarningResult": 0.02,
+        "estimatedEarning": 0.01739
+    },
+    {
+        "date": "2013-01-22",
+        "symbol": "SMCI",
+        "actualEarningResult": 0.02,
+        "estimatedEarning": 0.01556
+    },
+    {
+        "date": "2012-10-23",
+        "symbol": "SMCI",
+        "actualEarningResult": 0.01,
+        "estimatedEarning": 0.015
+    },
+    {
+        "date": "2012-08-07",
+        "symbol": "SMCI",
+        "actualEarningResult": 0.02,
+        "estimatedEarning": 0.19
+    },
+    {
+        "date": "2012-04-24",
+        "symbol": "SMCI",
+        "actualEarningResult": 0.02,
+        "estimatedEarning": 0.22
+    },
+    {
+        "date": "2012-01-24",
+        "symbol": "SMCI",
+        "actualEarningResult": 0.25,
+        "estimatedEarning": 0.25
+    },
+    {
+        "date": "2011-10-25",
+        "symbol": "SMCI",
+        "actualEarningResult": 0.24,
+        "estimatedEarning": 0.24
+    },
+    {
+        "date": "2011-08-02",
+        "symbol": "SMCI",
+        "actualEarningResult": 0.29,
+        "estimatedEarning": 0.29
+    },
+    {
+        "date": "2011-04-26",
+        "symbol": "SMCI",
+        "actualEarningResult": 0.28,
+        "estimatedEarning": 0.28
+    },
+    {
+        "date": "2011-01-25",
+        "symbol": "SMCI",
+        "actualEarningResult": 0.31,
+        "estimatedEarning": 0.26
+    },
+    {
+        "date": "2010-10-26",
+        "symbol": "SMCI",
+        "actualEarningResult": 0.22,
+        "estimatedEarning": 0.22
+    },
+    {
+        "date": "2010-08-03",
+        "symbol": "SMCI",
+        "actualEarningResult": 0.21,
+        "estimatedEarning": 0.22
+    },
+    {
+        "date": "2010-04-27",
+        "symbol": "SMCI",
+        "actualEarningResult": 0.21,
+        "estimatedEarning": 0.21
+    },
+    {
+        "date": "2010-01-26",
+        "symbol": "SMCI",
+        "actualEarningResult": 0.22,
+        "estimatedEarning": 0.17
+    },
+    {
+        "date": "2009-10-27",
+        "symbol": "SMCI",
+        "actualEarningResult": 0.15,
+        "estimatedEarning": 0.09
+    },
+    {
+        "date": "2009-08-05",
+        "symbol": "SMCI",
+        "actualEarningResult": 0.06,
+        "estimatedEarning": 0.06
+    },
+    {
+        "date": "2009-04-29",
+        "symbol": "SMCI",
+        "actualEarningResult": 0.03,
+        "estimatedEarning": 0.08
+    },
+    {
+        "date": "2009-01-28",
+        "symbol": "SMCI",
+        "actualEarningResult": 0.14,
+        "estimatedEarning": 0.14
+    },
+    {
+        "date": "2008-10-29",
+        "symbol": "SMCI",
+        "actualEarningResult": 0.18,
+        "estimatedEarning": 0.15
+    },
+    {
+        "date": "2008-08-06",
+        "symbol": "SMCI",
+        "actualEarningResult": 0.18,
+        "estimatedEarning": 0.15
+    },
+    {
+        "date": "2008-04-29",
+        "symbol": "SMCI",
+        "actualEarningResult": 0.13,
+        "estimatedEarning": 0.14
+    },
+    {
+        "date": "2008-01-30",
+        "symbol": "SMCI",
+        "actualEarningResult": 0.2,
+        "estimatedEarning": 0.18
+    },
+    {
+        "date": "2007-10-31",
+        "symbol": "SMCI",
+        "actualEarningResult": 0.15,
+        "estimatedEarning": 0.15
+    }
+]

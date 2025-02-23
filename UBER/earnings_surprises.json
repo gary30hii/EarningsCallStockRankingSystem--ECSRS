@@ -1,0 +1,140 @@
+[
+    {
+        "date": "2024-10-31",
+        "symbol": "UBER",
+        "actualEarningResult": 1.2,
+        "estimatedEarning": 0.41
+    },
+    {
+        "date": "2024-08-06",
+        "symbol": "UBER",
+        "actualEarningResult": 0.47,
+        "estimatedEarning": 0.31
+    },
+    {
+        "date": "2024-05-08",
+        "symbol": "UBER",
+        "actualEarningResult": -0.32,
+        "estimatedEarning": 0.2203
+    },
+    {
+        "date": "2024-02-07",
+        "symbol": "UBER",
+        "actualEarningResult": 0.66,
+        "estimatedEarning": 0.17
+    },
+    {
+        "date": "2023-11-07",
+        "symbol": "UBER",
+        "actualEarningResult": 0.1,
+        "estimatedEarning": 0.12
+    },
+    {
+        "date": "2023-08-01",
+        "symbol": "UBER",
+        "actualEarningResult": 0.18,
+        "estimatedEarning": 0.00887
+    },
+    {
+        "date": "2023-05-02",
+        "symbol": "UBER",
+        "actualEarningResult": -0.08,
+        "estimatedEarning": -0.1
+    },
+    {
+        "date": "2023-02-08",
+        "symbol": "UBER",
+        "actualEarningResult": 0.29,
+        "estimatedEarning": -0.18
+    },
+    {
+        "date": "2022-11-01",
+        "symbol": "UBER",
+        "actualEarningResult": -0.61,
+        "estimatedEarning": -0.17
+    },
+    {
+        "date": "2022-08-02",
+        "symbol": "UBER",
+        "actualEarningResult": -1.33,
+        "estimatedEarning": -0.25
+    },
+    {
+        "date": "2022-05-04",
+        "symbol": "UBER",
+        "actualEarningResult": -3.04,
+        "estimatedEarning": -0.27
+    },
+    {
+        "date": "2022-02-09",
+        "symbol": "UBER",
+        "actualEarningResult": 0.44,
+        "estimatedEarning": -0.33
+    },
+    {
+        "date": "2021-11-04",
+        "symbol": "UBER",
+        "actualEarningResult": -1.28,
+        "estimatedEarning": -0.37
+    },
+    {
+        "date": "2021-08-04",
+        "symbol": "UBER",
+        "actualEarningResult": 0.61,
+        "estimatedEarning": -0.53
+    },
+    {
+        "date": "2021-05-05",
+        "symbol": "UBER",
+        "actualEarningResult": -0.05,
+        "estimatedEarning": -0.56
+    },
+    {
+        "date": "2021-02-10",
+        "symbol": "UBER",
+        "actualEarningResult": -0.54,
+        "estimatedEarning": -0.53
+    },
+    {
+        "date": "2020-11-05",
+        "symbol": "UBER",
+        "actualEarningResult": -0.62,
+        "estimatedEarning": -0.6
+    },
+    {
+        "date": "2020-08-06",
+        "symbol": "UBER",
+        "actualEarningResult": -1.02,
+        "estimatedEarning": -0.78
+    },
+    {
+        "date": "2020-05-07",
+        "symbol": "UBER",
+        "actualEarningResult": -0.64,
+        "estimatedEarning": -0.79
+    },
+    {
+        "date": "2020-02-06",
+        "symbol": "UBER",
+        "actualEarningResult": -0.64,
+        "estimatedEarning": -0.68
+    },
+    {
+        "date": "2019-11-04",
+        "symbol": "UBER",
+        "actualEarningResult": -0.68,
+        "estimatedEarning": -0.83
+    },
+    {
+        "date": "2019-08-08",
+        "symbol": "UBER",
+        "actualEarningResult": -4.72,
+        "estimatedEarning": -3.33
+    },
+    {
+        "date": "2019-05-30",
+        "symbol": "UBER",
+        "actualEarningResult": -2.26,
+        "estimatedEarning": -2.32
+    }
+]

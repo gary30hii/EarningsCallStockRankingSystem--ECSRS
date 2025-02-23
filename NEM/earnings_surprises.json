@@ -1,0 +1,764 @@
+[
+    {
+        "date": "2024-10-23",
+        "symbol": "NEM",
+        "actualEarningResult": 0.81,
+        "estimatedEarning": 0.86
+    },
+    {
+        "date": "2024-07-24",
+        "symbol": "NEM",
+        "actualEarningResult": 0.72,
+        "estimatedEarning": 0.62
+    },
+    {
+        "date": "2024-04-25",
+        "symbol": "NEM",
+        "actualEarningResult": 0.55,
+        "estimatedEarning": 0.3595
+    },
+    {
+        "date": "2024-02-22",
+        "symbol": "NEM",
+        "actualEarningResult": 0.5,
+        "estimatedEarning": 0.51
+    },
+    {
+        "date": "2023-10-26",
+        "symbol": "NEM",
+        "actualEarningResult": 0.36,
+        "estimatedEarning": 0.42
+    },
+    {
+        "date": "2023-07-20",
+        "symbol": "NEM",
+        "actualEarningResult": 0.33,
+        "estimatedEarning": 0.39
+    },
+    {
+        "date": "2023-04-27",
+        "symbol": "NEM",
+        "actualEarningResult": 0.4,
+        "estimatedEarning": 0.33
+    },
+    {
+        "date": "2023-02-23",
+        "symbol": "NEM",
+        "actualEarningResult": 0.44,
+        "estimatedEarning": 0.47
+    },
+    {
+        "date": "2022-11-01",
+        "symbol": "NEM",
+        "actualEarningResult": 0.27,
+        "estimatedEarning": 0.36
+    },
+    {
+        "date": "2022-07-25",
+        "symbol": "NEM",
+        "actualEarningResult": 0.46,
+        "estimatedEarning": 0.63
+    },
+    {
+        "date": "2022-04-22",
+        "symbol": "NEM",
+        "actualEarningResult": 0.69,
+        "estimatedEarning": 0.71
+    },
+    {
+        "date": "2022-02-24",
+        "symbol": "NEM",
+        "actualEarningResult": 0.78,
+        "estimatedEarning": 0.76
+    },
+    {
+        "date": "2021-10-28",
+        "symbol": "NEM",
+        "actualEarningResult": 0.6,
+        "estimatedEarning": 0.71
+    },
+    {
+        "date": "2021-07-22",
+        "symbol": "NEM",
+        "actualEarningResult": 0.83,
+        "estimatedEarning": 0.78
+    },
+    {
+        "date": "2021-04-29",
+        "symbol": "NEM",
+        "actualEarningResult": 0.74,
+        "estimatedEarning": 0.77
+    },
+    {
+        "date": "2021-02-18",
+        "symbol": "NEM",
+        "actualEarningResult": 1.06,
+        "estimatedEarning": 0.95
+    },
+    {
+        "date": "2020-10-29",
+        "symbol": "NEM",
+        "actualEarningResult": 0.87,
+        "estimatedEarning": 0.85
+    },
+    {
+        "date": "2020-07-30",
+        "symbol": "NEM",
+        "actualEarningResult": 0.32,
+        "estimatedEarning": 0.31
+    },
+    {
+        "date": "2020-05-05",
+        "symbol": "NEM",
+        "actualEarningResult": 0.4,
+        "estimatedEarning": 0.43
+    },
+    {
+        "date": "2020-02-20",
+        "symbol": "NEM",
+        "actualEarningResult": 0.5,
+        "estimatedEarning": 0.48
+    },
+    {
+        "date": "2019-11-05",
+        "symbol": "NEM",
+        "actualEarningResult": 0.36,
+        "estimatedEarning": 0.4
+    },
+    {
+        "date": "2019-07-25",
+        "symbol": "NEM",
+        "actualEarningResult": 0.12,
+        "estimatedEarning": 0.23
+    },
+    {
+        "date": "2019-04-25",
+        "symbol": "NEM",
+        "actualEarningResult": 0.33,
+        "estimatedEarning": 0.26
+    },
+    {
+        "date": "2019-02-21",
+        "symbol": "NEM",
+        "actualEarningResult": 0.4,
+        "estimatedEarning": 0.23
+    },
+    {
+        "date": "2018-10-25",
+        "symbol": "NEM",
+        "actualEarningResult": 0.33,
+        "estimatedEarning": 0.22
+    },
+    {
+        "date": "2018-07-26",
+        "symbol": "NEM",
+        "actualEarningResult": 0.26,
+        "estimatedEarning": 0.24
+    },
+    {
+        "date": "2018-04-26",
+        "symbol": "NEM",
+        "actualEarningResult": 0.35,
+        "estimatedEarning": 0.33
+    },
+    {
+        "date": "2018-02-22",
+        "symbol": "NEM",
+        "actualEarningResult": 0.4,
+        "estimatedEarning": 0.4
+    },
+    {
+        "date": "2017-10-26",
+        "symbol": "NEM",
+        "actualEarningResult": 0.35,
+        "estimatedEarning": 0.33
+    },
+    {
+        "date": "2017-07-25",
+        "symbol": "NEM",
+        "actualEarningResult": 0.46,
+        "estimatedEarning": 0.28
+    },
+    {
+        "date": "2017-04-24",
+        "symbol": "NEM",
+        "actualEarningResult": 0.25,
+        "estimatedEarning": 0.23
+    },
+    {
+        "date": "2017-02-21",
+        "symbol": "NEM",
+        "actualEarningResult": 0.33,
+        "estimatedEarning": 0.39
+    },
+    {
+        "date": "2016-10-26",
+        "symbol": "NEM",
+        "actualEarningResult": 0.51,
+        "estimatedEarning": 0.51
+    },
+    {
+        "date": "2016-07-20",
+        "symbol": "NEM",
+        "actualEarningResult": 0.44,
+        "estimatedEarning": 0.28
+    },
+    {
+        "date": "2016-04-20",
+        "symbol": "NEM",
+        "actualEarningResult": 0.34,
+        "estimatedEarning": 0.21
+    },
+    {
+        "date": "2016-02-17",
+        "symbol": "NEM",
+        "actualEarningResult": 0.04,
+        "estimatedEarning": 0.13
+    },
+    {
+        "date": "2015-10-28",
+        "symbol": "NEM",
+        "actualEarningResult": 0.23,
+        "estimatedEarning": 0.17
+    },
+    {
+        "date": "2015-07-22",
+        "symbol": "NEM",
+        "actualEarningResult": 0.26,
+        "estimatedEarning": 0.25
+    },
+    {
+        "date": "2015-04-23",
+        "symbol": "NEM",
+        "actualEarningResult": 0.46,
+        "estimatedEarning": 0.23
+    },
+    {
+        "date": "2015-02-19",
+        "symbol": "NEM",
+        "actualEarningResult": 0.17,
+        "estimatedEarning": 0.13
+    },
+    {
+        "date": "2014-10-30",
+        "symbol": "NEM",
+        "actualEarningResult": 0.5,
+        "estimatedEarning": 0.16
+    },
+    {
+        "date": "2014-07-29",
+        "symbol": "NEM",
+        "actualEarningResult": 0.2,
+        "estimatedEarning": 0.2
+    },
+    {
+        "date": "2014-04-24",
+        "symbol": "NEM",
+        "actualEarningResult": 0.22,
+        "estimatedEarning": 0.19
+    },
+    {
+        "date": "2014-02-20",
+        "symbol": "NEM",
+        "actualEarningResult": 0.33,
+        "estimatedEarning": 0.42
+    },
+    {
+        "date": "2013-10-31",
+        "symbol": "NEM",
+        "actualEarningResult": 0.46,
+        "estimatedEarning": 0.32
+    },
+    {
+        "date": "2013-07-26",
+        "symbol": "NEM",
+        "actualEarningResult": -0.1,
+        "estimatedEarning": 0.41
+    },
+    {
+        "date": "2013-04-29",
+        "symbol": "NEM",
+        "actualEarningResult": 0.71,
+        "estimatedEarning": 0.77
+    },
+    {
+        "date": "2013-02-21",
+        "symbol": "NEM",
+        "actualEarningResult": 1.11,
+        "estimatedEarning": 0.97
+    },
+    {
+        "date": "2012-11-01",
+        "symbol": "NEM",
+        "actualEarningResult": 0.85,
+        "estimatedEarning": 0.91
+    },
+    {
+        "date": "2012-07-26",
+        "symbol": "NEM",
+        "actualEarningResult": 0.59,
+        "estimatedEarning": 0.93
+    },
+    {
+        "date": "2012-04-26",
+        "symbol": "NEM",
+        "actualEarningResult": 1.15,
+        "estimatedEarning": 1.14
+    },
+    {
+        "date": "2012-02-23",
+        "symbol": "NEM",
+        "actualEarningResult": 1.17,
+        "estimatedEarning": 1.27
+    },
+    {
+        "date": "2011-10-27",
+        "symbol": "NEM",
+        "actualEarningResult": 1.29,
+        "estimatedEarning": 1.24
+    },
+    {
+        "date": "2011-07-29",
+        "symbol": "NEM",
+        "actualEarningResult": 0.9,
+        "estimatedEarning": 0.99
+    },
+    {
+        "date": "2011-04-21",
+        "symbol": "NEM",
+        "actualEarningResult": 1.04,
+        "estimatedEarning": 0.99
+    },
+    {
+        "date": "2011-02-24",
+        "symbol": "NEM",
+        "actualEarningResult": 1.16,
+        "estimatedEarning": 1.14
+    },
+    {
+        "date": "2010-11-02",
+        "symbol": "NEM",
+        "actualEarningResult": 1.08,
+        "estimatedEarning": 0.95
+    },
+    {
+        "date": "2010-07-28",
+        "symbol": "NEM",
+        "actualEarningResult": 0.77,
+        "estimatedEarning": 0.84
+    },
+    {
+        "date": "2010-04-27",
+        "symbol": "NEM",
+        "actualEarningResult": 0.83,
+        "estimatedEarning": 0.79
+    },
+    {
+        "date": "2010-02-25",
+        "symbol": "NEM",
+        "actualEarningResult": 1.14,
+        "estimatedEarning": 0.79
+    },
+    {
+        "date": "2009-10-29",
+        "symbol": "NEM",
+        "actualEarningResult": 0.79,
+        "estimatedEarning": 0.55
+    },
+    {
+        "date": "2009-07-23",
+        "symbol": "NEM",
+        "actualEarningResult": 0.43,
+        "estimatedEarning": 0.47
+    },
+    {
+        "date": "2009-04-30",
+        "symbol": "NEM",
+        "actualEarningResult": 0.44,
+        "estimatedEarning": 0.42
+    },
+    {
+        "date": "2009-02-19",
+        "symbol": "NEM",
+        "actualEarningResult": 0.26,
+        "estimatedEarning": 0.25
+    },
+    {
+        "date": "2008-10-29",
+        "symbol": "NEM",
+        "actualEarningResult": 0.39,
+        "estimatedEarning": 0.42
+    },
+    {
+        "date": "2008-07-24",
+        "symbol": "NEM",
+        "actualEarningResult": 0.51,
+        "estimatedEarning": 0.48
+    },
+    {
+        "date": "2008-04-24",
+        "symbol": "NEM",
+        "actualEarningResult": 0.81,
+        "estimatedEarning": 0.54
+    },
+    {
+        "date": "2008-02-21",
+        "symbol": "NEM",
+        "actualEarningResult": 0.5,
+        "estimatedEarning": 0.37
+    },
+    {
+        "date": "2007-10-31",
+        "symbol": "NEM",
+        "actualEarningResult": 0.57,
+        "estimatedEarning": 0.25
+    },
+    {
+        "date": "2007-08-02",
+        "symbol": "NEM",
+        "actualEarningResult": 0.24,
+        "estimatedEarning": 0.22
+    },
+    {
+        "date": "2007-04-26",
+        "symbol": "NEM",
+        "actualEarningResult": 0.11,
+        "estimatedEarning": 0.24
+    },
+    {
+        "date": "2007-02-22",
+        "symbol": "NEM",
+        "actualEarningResult": 0.47,
+        "estimatedEarning": 0.4
+    },
+    {
+        "date": "2006-11-01",
+        "symbol": "NEM",
+        "actualEarningResult": 0.38,
+        "estimatedEarning": 0.43
+    },
+    {
+        "date": "2006-07-27",
+        "symbol": "NEM",
+        "actualEarningResult": 0.43,
+        "estimatedEarning": 0.47
+    },
+    {
+        "date": "2006-04-20",
+        "symbol": "NEM",
+        "actualEarningResult": 0.37,
+        "estimatedEarning": 0.33
+    },
+    {
+        "date": "2006-02-27",
+        "symbol": "NEM",
+        "actualEarningResult": 0.35,
+        "estimatedEarning": 0.36
+    },
+    {
+        "date": "2005-10-26",
+        "symbol": "NEM",
+        "actualEarningResult": 0.25,
+        "estimatedEarning": 0.25
+    },
+    {
+        "date": "2005-07-27",
+        "symbol": "NEM",
+        "actualEarningResult": 0.19,
+        "estimatedEarning": 0.17
+    },
+    {
+        "date": "2005-04-27",
+        "symbol": "NEM",
+        "actualEarningResult": 0.12,
+        "estimatedEarning": 0.3
+    },
+    {
+        "date": "2005-02-24",
+        "symbol": "NEM",
+        "actualEarningResult": 0.37,
+        "estimatedEarning": 0.32
+    },
+    {
+        "date": "2004-10-27",
+        "symbol": "NEM",
+        "actualEarningResult": 0.31,
+        "estimatedEarning": 0.25
+    },
+    {
+        "date": "2004-07-28",
+        "symbol": "NEM",
+        "actualEarningResult": 0.19,
+        "estimatedEarning": 0.23
+    },
+    {
+        "date": "2004-04-28",
+        "symbol": "NEM",
+        "actualEarningResult": 0.3,
+        "estimatedEarning": 0.34
+    },
+    {
+        "date": "2004-02-04",
+        "symbol": "NEM",
+        "actualEarningResult": 0.32,
+        "estimatedEarning": 0.31
+    },
+    {
+        "date": "2003-10-29",
+        "symbol": "NEM",
+        "actualEarningResult": 0.28,
+        "estimatedEarning": 0.24
+    },
+    {
+        "date": "2003-07-31",
+        "symbol": "NEM",
+        "actualEarningResult": 0.18,
+        "estimatedEarning": 0.18
+    },
+    {
+        "date": "2003-05-07",
+        "symbol": "NEM",
+        "actualEarningResult": 0.19,
+        "estimatedEarning": 0.17
+    },
+    {
+        "date": "2002-11-12",
+        "symbol": "NEM",
+        "actualEarningResult": 0.06,
+        "estimatedEarning": 0.16
+    },
+    {
+        "date": "2002-08-07",
+        "symbol": "NEM",
+        "actualEarningResult": 0.16,
+        "estimatedEarning": 0.14
+    },
+    {
+        "date": "2002-05-15",
+        "symbol": "NEM",
+        "actualEarningResult": -0.04,
+        "estimatedEarning": 0.12
+    },
+    {
+        "date": "2002-02-06",
+        "symbol": "NEM",
+        "actualEarningResult": 0.16,
+        "estimatedEarning": 0.1
+    },
+    {
+        "date": "2001-10-29",
+        "symbol": "NEM",
+        "actualEarningResult": 0.11,
+        "estimatedEarning": 0.02538
+    },
+    {
+        "date": "2001-08-02",
+        "symbol": "NEM",
+        "actualEarningResult": -0.12,
+        "estimatedEarning": -0.05
+    },
+    {
+        "date": "2001-05-01",
+        "symbol": "NEM",
+        "actualEarningResult": -0.03,
+        "estimatedEarning": -0.02434
+    },
+    {
+        "date": "2001-02-07",
+        "symbol": "NEM",
+        "actualEarningResult": 0.21,
+        "estimatedEarning": 0.07
+    },
+    {
+        "date": "2000-10-25",
+        "symbol": "NEM",
+        "actualEarningResult": -0.09728,
+        "estimatedEarning": 0.21
+    },
+    {
+        "date": "2000-07-28",
+        "symbol": "NEM",
+        "actualEarningResult": 0.02,
+        "estimatedEarning": 0.06
+    },
+    {
+        "date": "2000-04-27",
+        "symbol": "NEM",
+        "actualEarningResult": 0.04,
+        "estimatedEarning": 0.11
+    },
+    {
+        "date": "2000-01-26",
+        "symbol": "NEM",
+        "actualEarningResult": 0.3,
+        "estimatedEarning": 0.13
+    },
+    {
+        "date": "1999-11-10",
+        "symbol": "NEM",
+        "actualEarningResult": 0.02,
+        "estimatedEarning": 0.01
+    },
+    {
+        "date": "1999-07-29",
+        "symbol": "NEM",
+        "actualEarningResult": 0.02,
+        "estimatedEarning": 0.02833
+    },
+    {
+        "date": "1999-05-06",
+        "symbol": "NEM",
+        "actualEarningResult": 0.08,
+        "estimatedEarning": 0.05
+    },
+    {
+        "date": "1999-02-04",
+        "symbol": "NEM",
+        "actualEarningResult": 0.03,
+        "estimatedEarning": 0.03214
+    },
+    {
+        "date": "1998-10-29",
+        "symbol": "NEM",
+        "actualEarningResult": 0.04,
+        "estimatedEarning": 0.07
+    },
+    {
+        "date": "1998-07-29",
+        "symbol": "NEM",
+        "actualEarningResult": 0.16,
+        "estimatedEarning": 0.17
+    },
+    {
+        "date": "1998-04-27",
+        "symbol": "NEM",
+        "actualEarningResult": 0.2,
+        "estimatedEarning": 0.12
+    },
+    {
+        "date": "1998-01-28",
+        "symbol": "NEM",
+        "actualEarningResult": 0.27,
+        "estimatedEarning": 0.27
+    },
+    {
+        "date": "1997-10-30",
+        "symbol": "NEM",
+        "actualEarningResult": 0.28,
+        "estimatedEarning": 0.23
+    },
+    {
+        "date": "1997-07-30",
+        "symbol": "NEM",
+        "actualEarningResult": 0.29,
+        "estimatedEarning": 0.25
+    },
+    {
+        "date": "1997-04-28",
+        "symbol": "NEM",
+        "actualEarningResult": 0.21,
+        "estimatedEarning": 0.17
+    },
+    {
+        "date": "1997-01-29",
+        "symbol": "NEM",
+        "actualEarningResult": 0.2,
+        "estimatedEarning": 0.25
+    },
+    {
+        "date": "1996-10-31",
+        "symbol": "NEM",
+        "actualEarningResult": 0.35,
+        "estimatedEarning": 0.31
+    },
+    {
+        "date": "1996-07-31",
+        "symbol": "NEM",
+        "actualEarningResult": 0.2,
+        "estimatedEarning": 0.17
+    },
+    {
+        "date": "1996-04-30",
+        "symbol": "NEM",
+        "actualEarningResult": 0.11,
+        "estimatedEarning": 0.11
+    },
+    {
+        "date": "1996-01-24",
+        "symbol": "NEM",
+        "actualEarningResult": 0.27,
+        "estimatedEarning": 0.23
+    },
+    {
+        "date": "1995-10-25",
+        "symbol": "NEM",
+        "actualEarningResult": 0.25,
+        "estimatedEarning": 0.22
+    },
+    {
+        "date": "1995-07-26",
+        "symbol": "NEM",
+        "actualEarningResult": 0.15,
+        "estimatedEarning": 0.11
+    },
+    {
+        "date": "1995-04-26",
+        "symbol": "NEM",
+        "actualEarningResult": 0.14,
+        "estimatedEarning": 0.15
+    },
+    {
+        "date": "1995-01-25",
+        "symbol": "NEM",
+        "actualEarningResult": 0.15,
+        "estimatedEarning": 0.14
+    },
+    {
+        "date": "1994-10-26",
+        "symbol": "NEM",
+        "actualEarningResult": 0.19,
+        "estimatedEarning": 0.2
+    },
+    {
+        "date": "1994-07-27",
+        "symbol": "NEM",
+        "actualEarningResult": 0.16,
+        "estimatedEarning": 0.18
+    },
+    {
+        "date": "1994-05-02",
+        "symbol": "NEM",
+        "actualEarningResult": 0.2,
+        "estimatedEarning": 0.18
+    },
+    {
+        "date": "1994-01-26",
+        "symbol": "NEM",
+        "actualEarningResult": 0.15,
+        "estimatedEarning": 0.21
+    },
+    {
+        "date": "1993-10-27",
+        "symbol": "NEM",
+        "actualEarningResult": 0.26,
+        "estimatedEarning": 0.23
+    },
+    {
+        "date": "1993-07-28",
+        "symbol": "NEM",
+        "actualEarningResult": 0.18,
+        "estimatedEarning": 0.19
+    },
+    {
+        "date": "1993-04-28",
+        "symbol": "NEM",
+        "actualEarningResult": 0.1,
+        "estimatedEarning": 0.15
+    },
+    {
+        "date": "1993-01-27",
+        "symbol": "NEM",
+        "actualEarningResult": 0.02,
+        "estimatedEarning": 0.14
+    }
+]

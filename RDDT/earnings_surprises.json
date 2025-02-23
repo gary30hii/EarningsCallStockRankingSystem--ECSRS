@@ -1,0 +1,20 @@
+[
+    {
+        "date": "2024-10-29",
+        "symbol": "RDDT",
+        "actualEarningResult": 0.16,
+        "estimatedEarning": -0.07
+    },
+    {
+        "date": "2024-08-06",
+        "symbol": "RDDT",
+        "actualEarningResult": -0.06,
+        "estimatedEarning": -0.31
+    },
+    {
+        "date": "2024-05-07",
+        "symbol": "RDDT",
+        "actualEarningResult": 0.29,
+        "estimatedEarning": -8.75
+    }
+]

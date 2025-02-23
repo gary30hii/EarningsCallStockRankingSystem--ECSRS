@@ -1,0 +1,206 @@
+[
+    {
+        "date": "2024-11-07",
+        "symbol": "USFD",
+        "actualEarningResult": 0.85,
+        "estimatedEarning": 0.82
+    },
+    {
+        "date": "2024-08-08",
+        "symbol": "USFD",
+        "actualEarningResult": 0.93,
+        "estimatedEarning": 0.93
+    },
+    {
+        "date": "2024-05-09",
+        "symbol": "USFD",
+        "actualEarningResult": 0.54,
+        "estimatedEarning": 0.533
+    },
+    {
+        "date": "2024-02-15",
+        "symbol": "USFD",
+        "actualEarningResult": 0.64,
+        "estimatedEarning": 0.67
+    },
+    {
+        "date": "2023-11-09",
+        "symbol": "USFD",
+        "actualEarningResult": 0.7,
+        "estimatedEarning": 0.69
+    },
+    {
+        "date": "2023-08-10",
+        "symbol": "USFD",
+        "actualEarningResult": 0.79,
+        "estimatedEarning": 0.76
+    },
+    {
+        "date": "2023-05-11",
+        "symbol": "USFD",
+        "actualEarningResult": 0.5,
+        "estimatedEarning": 0.38
+    },
+    {
+        "date": "2023-02-16",
+        "symbol": "USFD",
+        "actualEarningResult": 0.55,
+        "estimatedEarning": 0.54
+    },
+    {
+        "date": "2022-11-10",
+        "symbol": "USFD",
+        "actualEarningResult": 0.6,
+        "estimatedEarning": 0.61
+    },
+    {
+        "date": "2022-08-11",
+        "symbol": "USFD",
+        "actualEarningResult": 0.67,
+        "estimatedEarning": 0.67
+    },
+    {
+        "date": "2022-05-12",
+        "symbol": "USFD",
+        "actualEarningResult": 0.36,
+        "estimatedEarning": 0.35
+    },
+    {
+        "date": "2022-02-17",
+        "symbol": "USFD",
+        "actualEarningResult": 0.38,
+        "estimatedEarning": 0.38
+    },
+    {
+        "date": "2021-11-08",
+        "symbol": "USFD",
+        "actualEarningResult": 0.48,
+        "estimatedEarning": 0.52
+    },
+    {
+        "date": "2021-08-09",
+        "symbol": "USFD",
+        "actualEarningResult": 0.58,
+        "estimatedEarning": 0.34
+    },
+    {
+        "date": "2021-05-10",
+        "symbol": "USFD",
+        "actualEarningResult": 0.12,
+        "estimatedEarning": 0.07
+    },
+    {
+        "date": "2021-02-16",
+        "symbol": "USFD",
+        "actualEarningResult": 0.05,
+        "estimatedEarning": 0.16
+    },
+    {
+        "date": "2020-11-02",
+        "symbol": "USFD",
+        "actualEarningResult": 0.15,
+        "estimatedEarning": 0.2
+    },
+    {
+        "date": "2020-08-04",
+        "symbol": "USFD",
+        "actualEarningResult": -0.25,
+        "estimatedEarning": -0.39
+    },
+    {
+        "date": "2020-05-05",
+        "symbol": "USFD",
+        "actualEarningResult": 0.12,
+        "estimatedEarning": 0.11
+    },
+    {
+        "date": "2020-02-11",
+        "symbol": "USFD",
+        "actualEarningResult": 0.66,
+        "estimatedEarning": 0.66
+    },
+    {
+        "date": "2019-11-05",
+        "symbol": "USFD",
+        "actualEarningResult": 0.65,
+        "estimatedEarning": 0.61
+    },
+    {
+        "date": "2019-08-06",
+        "symbol": "USFD",
+        "actualEarningResult": 0.64,
+        "estimatedEarning": 0.63
+    },
+    {
+        "date": "2019-05-07",
+        "symbol": "USFD",
+        "actualEarningResult": 0.37,
+        "estimatedEarning": 0.36
+    },
+    {
+        "date": "2019-02-12",
+        "symbol": "USFD",
+        "actualEarningResult": 0.56,
+        "estimatedEarning": 0.59
+    },
+    {
+        "date": "2018-11-06",
+        "symbol": "USFD",
+        "actualEarningResult": 0.55,
+        "estimatedEarning": 0.51
+    },
+    {
+        "date": "2018-07-30",
+        "symbol": "USFD",
+        "actualEarningResult": 0.57,
+        "estimatedEarning": 0.58
+    },
+    {
+        "date": "2018-05-08",
+        "symbol": "USFD",
+        "actualEarningResult": 0.35,
+        "estimatedEarning": 0.31
+    },
+    {
+        "date": "2018-02-15",
+        "symbol": "USFD",
+        "actualEarningResult": 0.44,
+        "estimatedEarning": 0.43
+    },
+    {
+        "date": "2017-11-07",
+        "symbol": "USFD",
+        "actualEarningResult": 0.39,
+        "estimatedEarning": 0.37
+    },
+    {
+        "date": "2017-08-09",
+        "symbol": "USFD",
+        "actualEarningResult": 0.37,
+        "estimatedEarning": 0.37
+    },
+    {
+        "date": "2017-05-09",
+        "symbol": "USFD",
+        "actualEarningResult": 0.18,
+        "estimatedEarning": 0.17
+    },
+    {
+        "date": "2017-02-15",
+        "symbol": "USFD",
+        "actualEarningResult": 0.53,
+        "estimatedEarning": 0.46
+    },
+    {
+        "date": "2016-11-08",
+        "symbol": "USFD",
+        "actualEarningResult": 0.39,
+        "estimatedEarning": 0.35
+    },
+    {
+        "date": "2016-08-09",
+        "symbol": "USFD",
+        "actualEarningResult": 0.45,
+        "estimatedEarning": 0.4
+    }
+]

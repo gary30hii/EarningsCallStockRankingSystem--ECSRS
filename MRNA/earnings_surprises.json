@@ -1,0 +1,146 @@
+[
+    {
+        "date": "2024-11-07",
+        "symbol": "MRNA",
+        "actualEarningResult": 0.03,
+        "estimatedEarning": -1.91
+    },
+    {
+        "date": "2024-08-01",
+        "symbol": "MRNA",
+        "actualEarningResult": -3.33,
+        "estimatedEarning": -3.35
+    },
+    {
+        "date": "2024-05-02",
+        "symbol": "MRNA",
+        "actualEarningResult": -3.07,
+        "estimatedEarning": -3.56
+    },
+    {
+        "date": "2024-02-22",
+        "symbol": "MRNA",
+        "actualEarningResult": 0.55,
+        "estimatedEarning": -0.97
+    },
+    {
+        "date": "2023-11-02",
+        "symbol": "MRNA",
+        "actualEarningResult": -1.39,
+        "estimatedEarning": -2.01
+    },
+    {
+        "date": "2023-08-03",
+        "symbol": "MRNA",
+        "actualEarningResult": -3.62,
+        "estimatedEarning": -3.84
+    },
+    {
+        "date": "2023-05-04",
+        "symbol": "MRNA",
+        "actualEarningResult": 0.19,
+        "estimatedEarning": -1.77
+    },
+    {
+        "date": "2023-02-23",
+        "symbol": "MRNA",
+        "actualEarningResult": 3.61,
+        "estimatedEarning": 4.68
+    },
+    {
+        "date": "2022-11-03",
+        "symbol": "MRNA",
+        "actualEarningResult": 2.53,
+        "estimatedEarning": 3.29
+    },
+    {
+        "date": "2022-08-03",
+        "symbol": "MRNA",
+        "actualEarningResult": 5.24,
+        "estimatedEarning": 4.55
+    },
+    {
+        "date": "2022-05-04",
+        "symbol": "MRNA",
+        "actualEarningResult": 8.58,
+        "estimatedEarning": 5.21
+    },
+    {
+        "date": "2022-02-24",
+        "symbol": "MRNA",
+        "actualEarningResult": 11.29,
+        "estimatedEarning": 9.9
+    },
+    {
+        "date": "2021-11-04",
+        "symbol": "MRNA",
+        "actualEarningResult": 7.7,
+        "estimatedEarning": 9.05
+    },
+    {
+        "date": "2021-08-05",
+        "symbol": "MRNA",
+        "actualEarningResult": 6.46,
+        "estimatedEarning": 5.96
+    },
+    {
+        "date": "2021-05-06",
+        "symbol": "MRNA",
+        "actualEarningResult": 2.84,
+        "estimatedEarning": 2.39
+    },
+    {
+        "date": "2021-02-25",
+        "symbol": "MRNA",
+        "actualEarningResult": -0.69,
+        "estimatedEarning": -0.25
+    },
+    {
+        "date": "2020-10-29",
+        "symbol": "MRNA",
+        "actualEarningResult": -0.59,
+        "estimatedEarning": -0.43
+    },
+    {
+        "date": "2020-08-05",
+        "symbol": "MRNA",
+        "actualEarningResult": -0.31,
+        "estimatedEarning": -0.36
+    },
+    {
+        "date": "2020-05-07",
+        "symbol": "MRNA",
+        "actualEarningResult": -0.35,
+        "estimatedEarning": -0.37
+    },
+    {
+        "date": "2020-02-26",
+        "symbol": "MRNA",
+        "actualEarningResult": -0.37,
+        "estimatedEarning": -0.43
+    },
+    {
+        "date": "2019-11-06",
+        "symbol": "MRNA",
+        "actualEarningResult": -0.37,
+        "estimatedEarning": -0.43
+    },
+    {
+        "date": "2019-08-07",
+        "symbol": "MRNA",
+        "actualEarningResult": -0.41,
+        "estimatedEarning": -0.42
+    },
+    {
+        "date": "2019-05-09",
+        "symbol": "MRNA",
+        "actualEarningResult": -0.4,
+        "estimatedEarning": -0.35
+    },
+    {
+        "date": "2019-03-06",
+        "symbol": "MRNA",
+        "actualEarningResult": -1.78,
+        "estimatedEarning": -0.36
+    }
+]

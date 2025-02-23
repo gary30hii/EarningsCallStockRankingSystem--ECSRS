@@ -1,0 +1,302 @@
+[
+    {
+        "date": "2024-11-06",
+        "symbol": "CG",
+        "actualEarningResult": 0.95,
+        "estimatedEarning": 0.884
+    },
+    {
+        "date": "2024-08-05",
+        "symbol": "CG",
+        "actualEarningResult": 0.78,
+        "estimatedEarning": 0.826
+    },
+    {
+        "date": "2024-05-01",
+        "symbol": "CG",
+        "actualEarningResult": 1.01,
+        "estimatedEarning": 0.967
+    },
+    {
+        "date": "2024-02-07",
+        "symbol": "CG",
+        "actualEarningResult": 0.86,
+        "estimatedEarning": 0.75
+    },
+    {
+        "date": "2023-11-07",
+        "symbol": "CG",
+        "actualEarningResult": 0.87,
+        "estimatedEarning": 0.72
+    },
+    {
+        "date": "2023-08-02",
+        "symbol": "CG",
+        "actualEarningResult": 0.88,
+        "estimatedEarning": 0.65
+    },
+    {
+        "date": "2023-05-04",
+        "symbol": "CG",
+        "actualEarningResult": 0.63,
+        "estimatedEarning": 0.65
+    },
+    {
+        "date": "2023-02-07",
+        "symbol": "CG",
+        "actualEarningResult": 1.01,
+        "estimatedEarning": 0.96
+    },
+    {
+        "date": "2022-11-08",
+        "symbol": "CG",
+        "actualEarningResult": 1.42,
+        "estimatedEarning": 1.04
+    },
+    {
+        "date": "2022-07-28",
+        "symbol": "CG",
+        "actualEarningResult": 1.17,
+        "estimatedEarning": 1.11
+    },
+    {
+        "date": "2022-04-28",
+        "symbol": "CG",
+        "actualEarningResult": 0.74,
+        "estimatedEarning": 0.98
+    },
+    {
+        "date": "2022-02-03",
+        "symbol": "CG",
+        "actualEarningResult": 2.01,
+        "estimatedEarning": 1.21
+    },
+    {
+        "date": "2021-10-28",
+        "symbol": "CG",
+        "actualEarningResult": 1.54,
+        "estimatedEarning": 1.02
+    },
+    {
+        "date": "2021-07-29",
+        "symbol": "CG",
+        "actualEarningResult": 0.88,
+        "estimatedEarning": 0.61
+    },
+    {
+        "date": "2021-04-29",
+        "symbol": "CG",
+        "actualEarningResult": 0.58,
+        "estimatedEarning": 0.54
+    },
+    {
+        "date": "2021-02-04",
+        "symbol": "CG",
+        "actualEarningResult": 0.64,
+        "estimatedEarning": 0.44
+    },
+    {
+        "date": "2020-10-29",
+        "symbol": "CG",
+        "actualEarningResult": 0.4,
+        "estimatedEarning": 0.36
+    },
+    {
+        "date": "2020-07-30",
+        "symbol": "CG",
+        "actualEarningResult": 0.53,
+        "estimatedEarning": 0.36
+    },
+    {
+        "date": "2020-04-30",
+        "symbol": "CG",
+        "actualEarningResult": 0.48,
+        "estimatedEarning": 0.39
+    },
+    {
+        "date": "2020-02-05",
+        "symbol": "CG",
+        "actualEarningResult": 0.47,
+        "estimatedEarning": 0.43
+    },
+    {
+        "date": "2019-10-31",
+        "symbol": "CG",
+        "actualEarningResult": 0.41,
+        "estimatedEarning": 0.39
+    },
+    {
+        "date": "2019-07-31",
+        "symbol": "CG",
+        "actualEarningResult": 0.57,
+        "estimatedEarning": 0.36
+    },
+    {
+        "date": "2019-05-01",
+        "symbol": "CG",
+        "actualEarningResult": 0.25,
+        "estimatedEarning": 0.35
+    },
+    {
+        "date": "2019-02-06",
+        "symbol": "CG",
+        "actualEarningResult": -0.15,
+        "estimatedEarning": -0.36
+    },
+    {
+        "date": "2018-10-31",
+        "symbol": "CG",
+        "actualEarningResult": 0.25,
+        "estimatedEarning": 0.5
+    },
+    {
+        "date": "2018-08-01",
+        "symbol": "CG",
+        "actualEarningResult": 0.69,
+        "estimatedEarning": 0.52
+    },
+    {
+        "date": "2018-05-01",
+        "symbol": "CG",
+        "actualEarningResult": 0.47,
+        "estimatedEarning": 0.31
+    },
+    {
+        "date": "2018-02-07",
+        "symbol": "CG",
+        "actualEarningResult": 1.01,
+        "estimatedEarning": 0.6
+    },
+    {
+        "date": "2017-10-31",
+        "symbol": "CG",
+        "actualEarningResult": 0.56,
+        "estimatedEarning": 0.51
+    },
+    {
+        "date": "2017-08-02",
+        "symbol": "CG",
+        "actualEarningResult": 0.81,
+        "estimatedEarning": 0.41
+    },
+    {
+        "date": "2017-05-03",
+        "symbol": "CG",
+        "actualEarningResult": 1.09,
+        "estimatedEarning": 0.38
+    },
+    {
+        "date": "2017-02-08",
+        "symbol": "CG",
+        "actualEarningResult": 0.02,
+        "estimatedEarning": 0.42
+    },
+    {
+        "date": "2016-10-26",
+        "symbol": "CG",
+        "actualEarningResult": 0.21,
+        "estimatedEarning": 0.37
+    },
+    {
+        "date": "2016-07-27",
+        "symbol": "CG",
+        "actualEarningResult": 0.35,
+        "estimatedEarning": 0.25
+    },
+    {
+        "date": "2016-04-27",
+        "symbol": "CG",
+        "actualEarningResult": 0.18,
+        "estimatedEarning": 0.15
+    },
+    {
+        "date": "2016-02-10",
+        "symbol": "CG",
+        "actualEarningResult": 0.24,
+        "estimatedEarning": 0.27
+    },
+    {
+        "date": "2015-10-28",
+        "symbol": "CG",
+        "actualEarningResult": -0.43,
+        "estimatedEarning": -0.37
+    },
+    {
+        "date": "2015-07-29",
+        "symbol": "CG",
+        "actualEarningResult": 0.55,
+        "estimatedEarning": 0.55
+    },
+    {
+        "date": "2015-04-29",
+        "symbol": "CG",
+        "actualEarningResult": 0.8,
+        "estimatedEarning": 0.7
+    },
+    {
+        "date": "2015-02-11",
+        "symbol": "CG",
+        "actualEarningResult": 0.56,
+        "estimatedEarning": 0.46
+    },
+    {
+        "date": "2014-10-29",
+        "symbol": "CG",
+        "actualEarningResult": 0.55,
+        "estimatedEarning": 0.52
+    },
+    {
+        "date": "2014-07-30",
+        "symbol": "CG",
+        "actualEarningResult": 0.73,
+        "estimatedEarning": 0.72
+    },
+    {
+        "date": "2014-04-30",
+        "symbol": "CG",
+        "actualEarningResult": 0.85,
+        "estimatedEarning": 0.98
+    },
+    {
+        "date": "2014-02-19",
+        "symbol": "CG",
+        "actualEarningResult": 1.64,
+        "estimatedEarning": 0.91
+    },
+    {
+        "date": "2013-11-06",
+        "symbol": "CG",
+        "actualEarningResult": 0.51,
+        "estimatedEarning": 0.64
+    },
+    {
+        "date": "2013-08-07",
+        "symbol": "CG",
+        "actualEarningResult": 0.39,
+        "estimatedEarning": 0.57
+    },
+    {
+        "date": "2013-05-09",
+        "symbol": "CG",
+        "actualEarningResult": 1.02,
+        "estimatedEarning": 0.9
+    },
+    {
+        "date": "2013-02-21",
+        "symbol": "CG",
+        "actualEarningResult": 0.47,
+        "estimatedEarning": 0.7
+    },
+    {
+        "date": "2012-11-08",
+        "symbol": "CG",
+        "actualEarningResult": 0.4,
+        "estimatedEarning": 0.69
+    },
+    {
+        "date": "2012-08-08",
+        "symbol": "CG",
+        "actualEarningResult": -0.19,
+        "estimatedEarning": -0.043
+    }
+]

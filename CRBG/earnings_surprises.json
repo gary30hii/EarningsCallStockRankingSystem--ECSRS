@@ -1,0 +1,56 @@
+[
+    {
+        "date": "2024-11-04",
+        "symbol": "CRBG",
+        "actualEarningResult": 1.38,
+        "estimatedEarning": 1.17
+    },
+    {
+        "date": "2024-07-31",
+        "symbol": "CRBG",
+        "actualEarningResult": 1.13,
+        "estimatedEarning": 1.09
+    },
+    {
+        "date": "2024-05-03",
+        "symbol": "CRBG",
+        "actualEarningResult": 1.1,
+        "estimatedEarning": 1.06
+    },
+    {
+        "date": "2024-02-15",
+        "symbol": "CRBG",
+        "actualEarningResult": 1.04,
+        "estimatedEarning": 0.99
+    },
+    {
+        "date": "2023-11-03",
+        "symbol": "CRBG",
+        "actualEarningResult": 1.05,
+        "estimatedEarning": 1.06
+    },
+    {
+        "date": "2023-08-04",
+        "symbol": "CRBG",
+        "actualEarningResult": 1.04,
+        "estimatedEarning": 0.93
+    },
+    {
+        "date": "2023-05-09",
+        "symbol": "CRBG",
+        "actualEarningResult": 0.97,
+        "estimatedEarning": 0.84
+    },
+    {
+        "date": "2023-02-17",
+        "symbol": "CRBG",
+        "actualEarningResult": 0.88,
+        "estimatedEarning": 0.71
+    },
+    {
+        "date": "2022-11-09",
+        "symbol": "CRBG",
+        "actualEarningResult": 0.57,
+        "estimatedEarning": 0.52
+    }
+]

@@ -1,0 +1,770 @@
+[
+    {
+        "date": "2024-10-17",
+        "symbol": "TRV",
+        "actualEarningResult": 5.24,
+        "estimatedEarning": 3.55
+    },
+    {
+        "date": "2024-07-19",
+        "symbol": "TRV",
+        "actualEarningResult": 2.51,
+        "estimatedEarning": 1.98
+    },
+    {
+        "date": "2024-04-17",
+        "symbol": "TRV",
+        "actualEarningResult": 4.69,
+        "estimatedEarning": 4.9
+    },
+    {
+        "date": "2024-01-19",
+        "symbol": "TRV",
+        "actualEarningResult": 7.01,
+        "estimatedEarning": 5.09
+    },
+    {
+        "date": "2023-10-18",
+        "symbol": "TRV",
+        "actualEarningResult": 1.95,
+        "estimatedEarning": 3.01
+    },
+    {
+        "date": "2023-07-20",
+        "symbol": "TRV",
+        "actualEarningResult": 0.06,
+        "estimatedEarning": 2.27
+    },
+    {
+        "date": "2023-04-19",
+        "symbol": "TRV",
+        "actualEarningResult": 3.21,
+        "estimatedEarning": 3.55
+    },
+    {
+        "date": "2023-01-24",
+        "symbol": "TRV",
+        "actualEarningResult": 3.4,
+        "estimatedEarning": 3.4
+    },
+    {
+        "date": "2022-10-19",
+        "symbol": "TRV",
+        "actualEarningResult": 2.2,
+        "estimatedEarning": 1.56
+    },
+    {
+        "date": "2022-07-21",
+        "symbol": "TRV",
+        "actualEarningResult": 2.57,
+        "estimatedEarning": 1.97
+    },
+    {
+        "date": "2022-04-19",
+        "symbol": "TRV",
+        "actualEarningResult": 4.22,
+        "estimatedEarning": 3.61
+    },
+    {
+        "date": "2022-01-20",
+        "symbol": "TRV",
+        "actualEarningResult": 5.2,
+        "estimatedEarning": 3.86
+    },
+    {
+        "date": "2021-10-19",
+        "symbol": "TRV",
+        "actualEarningResult": 2.6,
+        "estimatedEarning": 1.67
+    },
+    {
+        "date": "2021-07-20",
+        "symbol": "TRV",
+        "actualEarningResult": 3.45,
+        "estimatedEarning": 2.39
+    },
+    {
+        "date": "2021-04-20",
+        "symbol": "TRV",
+        "actualEarningResult": 2.73,
+        "estimatedEarning": 2.37
+    },
+    {
+        "date": "2021-01-21",
+        "symbol": "TRV",
+        "actualEarningResult": 4.91,
+        "estimatedEarning": 3.18
+    },
+    {
+        "date": "2020-10-20",
+        "symbol": "TRV",
+        "actualEarningResult": 3.12,
+        "estimatedEarning": 3.03
+    },
+    {
+        "date": "2020-07-23",
+        "symbol": "TRV",
+        "actualEarningResult": -0.2,
+        "estimatedEarning": -0.2
+    },
+    {
+        "date": "2020-04-21",
+        "symbol": "TRV",
+        "actualEarningResult": 2.62,
+        "estimatedEarning": 2.85
+    },
+    {
+        "date": "2020-01-23",
+        "symbol": "TRV",
+        "actualEarningResult": 3.32,
+        "estimatedEarning": 3.29
+    },
+    {
+        "date": "2019-10-22",
+        "symbol": "TRV",
+        "actualEarningResult": 1.43,
+        "estimatedEarning": 2.35
+    },
+    {
+        "date": "2019-07-23",
+        "symbol": "TRV",
+        "actualEarningResult": 2.02,
+        "estimatedEarning": 2.28
+    },
+    {
+        "date": "2019-04-18",
+        "symbol": "TRV",
+        "actualEarningResult": 2.83,
+        "estimatedEarning": 2.74
+    },
+    {
+        "date": "2019-01-22",
+        "symbol": "TRV",
+        "actualEarningResult": 2.13,
+        "estimatedEarning": 2.05
+    },
+    {
+        "date": "2018-10-18",
+        "symbol": "TRV",
+        "actualEarningResult": 2.54,
+        "estimatedEarning": 2.26
+    },
+    {
+        "date": "2018-07-19",
+        "symbol": "TRV",
+        "actualEarningResult": 1.81,
+        "estimatedEarning": 2.42
+    },
+    {
+        "date": "2018-04-24",
+        "symbol": "TRV",
+        "actualEarningResult": 2.46,
+        "estimatedEarning": 2.68
+    },
+    {
+        "date": "2018-01-23",
+        "symbol": "TRV",
+        "actualEarningResult": 2.28,
+        "estimatedEarning": 1.51
+    },
+    {
+        "date": "2017-10-19",
+        "symbol": "TRV",
+        "actualEarningResult": 0.91,
+        "estimatedEarning": 0.45
+    },
+    {
+        "date": "2017-07-20",
+        "symbol": "TRV",
+        "actualEarningResult": 1.92,
+        "estimatedEarning": 2.1
+    },
+    {
+        "date": "2017-04-20",
+        "symbol": "TRV",
+        "actualEarningResult": 2.16,
+        "estimatedEarning": 2.4
+    },
+    {
+        "date": "2017-01-24",
+        "symbol": "TRV",
+        "actualEarningResult": 3.2,
+        "estimatedEarning": 2.73
+    },
+    {
+        "date": "2016-10-20",
+        "symbol": "TRV",
+        "actualEarningResult": 2.4,
+        "estimatedEarning": 2.38
+    },
+    {
+        "date": "2016-07-21",
+        "symbol": "TRV",
+        "actualEarningResult": 2.2,
+        "estimatedEarning": 2.07
+    },
+    {
+        "date": "2016-04-21",
+        "symbol": "TRV",
+        "actualEarningResult": 2.33,
+        "estimatedEarning": 2.55
+    },
+    {
+        "date": "2016-01-21",
+        "symbol": "TRV",
+        "actualEarningResult": 2.9,
+        "estimatedEarning": 2.65
+    },
+    {
+        "date": "2015-10-20",
+        "symbol": "TRV",
+        "actualEarningResult": 2.93,
+        "estimatedEarning": 2.27
+    },
+    {
+        "date": "2015-07-21",
+        "symbol": "TRV",
+        "actualEarningResult": 2.42,
+        "estimatedEarning": 2.12
+    },
+    {
+        "date": "2015-04-21",
+        "symbol": "TRV",
+        "actualEarningResult": 2.53,
+        "estimatedEarning": 2.54
+    },
+    {
+        "date": "2015-01-22",
+        "symbol": "TRV",
+        "actualEarningResult": 3.07,
+        "estimatedEarning": 2.54
+    },
+    {
+        "date": "2014-10-21",
+        "symbol": "TRV",
+        "actualEarningResult": 2.61,
+        "estimatedEarning": 2.27
+    },
+    {
+        "date": "2014-07-22",
+        "symbol": "TRV",
+        "actualEarningResult": 1.93,
+        "estimatedEarning": 2.07
+    },
+    {
+        "date": "2014-04-22",
+        "symbol": "TRV",
+        "actualEarningResult": 2.95,
+        "estimatedEarning": 2.16
+    },
+    {
+        "date": "2014-01-21",
+        "symbol": "TRV",
+        "actualEarningResult": 2.68,
+        "estimatedEarning": 2.16
+    },
+    {
+        "date": "2013-10-22",
+        "symbol": "TRV",
+        "actualEarningResult": 2.35,
+        "estimatedEarning": 2.07
+    },
+    {
+        "date": "2013-07-23",
+        "symbol": "TRV",
+        "actualEarningResult": 2.13,
+        "estimatedEarning": 1.6
+    },
+    {
+        "date": "2013-04-23",
+        "symbol": "TRV",
+        "actualEarningResult": 2.31,
+        "estimatedEarning": 2.02
+    },
+    {
+        "date": "2013-01-22",
+        "symbol": "TRV",
+        "actualEarningResult": 0.72,
+        "estimatedEarning": 0.14
+    },
+    {
+        "date": "2012-10-18",
+        "symbol": "TRV",
+        "actualEarningResult": 2.22,
+        "estimatedEarning": 1.61
+    },
+    {
+        "date": "2012-07-19",
+        "symbol": "TRV",
+        "actualEarningResult": 1.26,
+        "estimatedEarning": 1.34
+    },
+    {
+        "date": "2012-04-19",
+        "symbol": "TRV",
+        "actualEarningResult": 2.01,
+        "estimatedEarning": 1.52
+    },
+    {
+        "date": "2012-01-24",
+        "symbol": "TRV",
+        "actualEarningResult": 1.48,
+        "estimatedEarning": 1.53
+    },
+    {
+        "date": "2011-10-19",
+        "symbol": "TRV",
+        "actualEarningResult": 0.79,
+        "estimatedEarning": 0.87
+    },
+    {
+        "date": "2011-07-21",
+        "symbol": "TRV",
+        "actualEarningResult": -0.9,
+        "estimatedEarning": -0.64
+    },
+    {
+        "date": "2011-04-21",
+        "symbol": "TRV",
+        "actualEarningResult": 1.89,
+        "estimatedEarning": 1.51
+    },
+    {
+        "date": "2011-01-25",
+        "symbol": "TRV",
+        "actualEarningResult": 1.89,
+        "estimatedEarning": 1.67
+    },
+    {
+        "date": "2010-10-21",
+        "symbol": "TRV",
+        "actualEarningResult": 1.81,
+        "estimatedEarning": 1.51
+    },
+    {
+        "date": "2010-07-22",
+        "symbol": "TRV",
+        "actualEarningResult": 1.39,
+        "estimatedEarning": 1.49
+    },
+    {
+        "date": "2010-04-23",
+        "symbol": "TRV",
+        "actualEarningResult": 1.22,
+        "estimatedEarning": 1.37
+    },
+    {
+        "date": "2010-01-26",
+        "symbol": "TRV",
+        "actualEarningResult": 2.12,
+        "estimatedEarning": 1.49
+    },
+    {
+        "date": "2009-10-22",
+        "symbol": "TRV",
+        "actualEarningResult": 1.61,
+        "estimatedEarning": 1.31
+    },
+    {
+        "date": "2009-07-30",
+        "symbol": "TRV",
+        "actualEarningResult": 1.25,
+        "estimatedEarning": 1.28
+    },
+    {
+        "date": "2009-04-30",
+        "symbol": "TRV",
+        "actualEarningResult": 1.34,
+        "estimatedEarning": 1.31
+    },
+    {
+        "date": "2009-01-27",
+        "symbol": "TRV",
+        "actualEarningResult": 1.58,
+        "estimatedEarning": 1.46
+    },
+    {
+        "date": "2008-10-22",
+        "symbol": "TRV",
+        "actualEarningResult": 0.55,
+        "estimatedEarning": 0.6
+    },
+    {
+        "date": "2008-07-23",
+        "symbol": "TRV",
+        "actualEarningResult": 1.5,
+        "estimatedEarning": 1.45
+    },
+    {
+        "date": "2008-04-24",
+        "symbol": "TRV",
+        "actualEarningResult": 1.61,
+        "estimatedEarning": 1.53
+    },
+    {
+        "date": "2008-01-29",
+        "symbol": "TRV",
+        "actualEarningResult": 1.63,
+        "estimatedEarning": 1.61
+    },
+    {
+        "date": "2007-10-25",
+        "symbol": "TRV",
+        "actualEarningResult": 1.81,
+        "estimatedEarning": 1.49
+    },
+    {
+        "date": "2007-07-26",
+        "symbol": "TRV",
+        "actualEarningResult": 1.73,
+        "estimatedEarning": 1.48
+    },
+    {
+        "date": "2007-04-26",
+        "symbol": "TRV",
+        "actualEarningResult": 1.55,
+        "estimatedEarning": 1.45
+    },
+    {
+        "date": "2007-02-01",
+        "symbol": "TRV",
+        "actualEarningResult": 1.69,
+        "estimatedEarning": 1.42
+    },
+    {
+        "date": "2006-10-26",
+        "symbol": "TRV",
+        "actualEarningResult": 1.46,
+        "estimatedEarning": 1.32
+    },
+    {
+        "date": "2006-07-27",
+        "symbol": "TRV",
+        "actualEarningResult": 1.34,
+        "estimatedEarning": 1.29
+    },
+    {
+        "date": "2006-05-02",
+        "symbol": "TRV",
+        "actualEarningResult": 1.41,
+        "estimatedEarning": 1.29
+    },
+    {
+        "date": "2006-02-02",
+        "symbol": "TRV",
+        "actualEarningResult": 0.22,
+        "estimatedEarning": 0.94
+    },
+    {
+        "date": "2005-10-27",
+        "symbol": "TRV",
+        "actualEarningResult": 0.07,
+        "estimatedEarning": 0.05
+    },
+    {
+        "date": "2005-07-28",
+        "symbol": "TRV",
+        "actualEarningResult": 1.38,
+        "estimatedEarning": 1.14
+    },
+    {
+        "date": "2005-05-03",
+        "symbol": "TRV",
+        "actualEarningResult": 1.23,
+        "estimatedEarning": 1.11
+    },
+    {
+        "date": "2005-01-31",
+        "symbol": "TRV",
+        "actualEarningResult": 0.45,
+        "estimatedEarning": 1.07
+    },
+    {
+        "date": "2004-10-27",
+        "symbol": "TRV",
+        "actualEarningResult": 0.54,
+        "estimatedEarning": 0.54
+    },
+    {
+        "date": "2004-08-04",
+        "symbol": "TRV",
+        "actualEarningResult": -0.47,
+        "estimatedEarning": 1.01
+    },
+    {
+        "date": "2004-04-28",
+        "symbol": "TRV",
+        "actualEarningResult": 1.41,
+        "estimatedEarning": 1.14
+    },
+    {
+        "date": "2004-01-28",
+        "symbol": "TRV",
+        "actualEarningResult": 0.02,
+        "estimatedEarning": 0.01143
+    },
+    {
+        "date": "2003-10-29",
+        "symbol": "TRV",
+        "actualEarningResult": 0.96,
+        "estimatedEarning": 0.92
+    },
+    {
+        "date": "2003-07-30",
+        "symbol": "TRV",
+        "actualEarningResult": 0.71,
+        "estimatedEarning": 0.75
+    },
+    {
+        "date": "2003-04-30",
+        "symbol": "TRV",
+        "actualEarningResult": 0.86,
+        "estimatedEarning": 0.89
+    },
+    {
+        "date": "2003-01-27",
+        "symbol": "TRV",
+        "actualEarningResult": 0.81,
+        "estimatedEarning": 0.83
+    },
+    {
+        "date": "2002-10-23",
+        "symbol": "TRV",
+        "actualEarningResult": 0.52,
+        "estimatedEarning": 0.81
+    },
+    {
+        "date": "2002-07-23",
+        "symbol": "TRV",
+        "actualEarningResult": -0.95,
+        "estimatedEarning": -0.95
+    },
+    {
+        "date": "2002-04-25",
+        "symbol": "TRV",
+        "actualEarningResult": 0.76,
+        "estimatedEarning": 0.76
+    },
+    {
+        "date": "2002-01-23",
+        "symbol": "TRV",
+        "actualEarningResult": -3.14,
+        "estimatedEarning": -2.18
+    },
+    {
+        "date": "2001-10-23",
+        "symbol": "TRV",
+        "actualEarningResult": -2.62,
+        "estimatedEarning": -1.3
+    },
+    {
+        "date": "2001-07-24",
+        "symbol": "TRV",
+        "actualEarningResult": 0.39,
+        "estimatedEarning": 0.36
+    },
+    {
+        "date": "2001-04-24",
+        "symbol": "TRV",
+        "actualEarningResult": 0.75,
+        "estimatedEarning": 0.75
+    },
+    {
+        "date": "2001-01-23",
+        "symbol": "TRV",
+        "actualEarningResult": 0.61,
+        "estimatedEarning": 0.74
+    },
+    {
+        "date": "2000-11-06",
+        "symbol": "TRV",
+        "actualEarningResult": 0.73,
+        "estimatedEarning": 0.75
+    },
+    {
+        "date": "2000-07-27",
+        "symbol": "TRV",
+        "actualEarningResult": 0.69,
+        "estimatedEarning": 0.67
+    },
+    {
+        "date": "2000-04-27",
+        "symbol": "TRV",
+        "actualEarningResult": 0.63,
+        "estimatedEarning": 0.67
+    },
+    {
+        "date": "2000-01-27",
+        "symbol": "TRV",
+        "actualEarningResult": 0.64,
+        "estimatedEarning": 0.65
+    },
+    {
+        "date": "1999-10-27",
+        "symbol": "TRV",
+        "actualEarningResult": 0.64,
+        "estimatedEarning": 0.63
+    },
+    {
+        "date": "1999-07-28",
+        "symbol": "TRV",
+        "actualEarningResult": 0.72,
+        "estimatedEarning": 0.64
+    },
+    {
+        "date": "1999-04-30",
+        "symbol": "TRV",
+        "actualEarningResult": 0.62,
+        "estimatedEarning": 0.63
+    },
+    {
+        "date": "1999-01-29",
+        "symbol": "TRV",
+        "actualEarningResult": 0.53,
+        "estimatedEarning": 0.55
+    },
+    {
+        "date": "1998-11-03",
+        "symbol": "TRV",
+        "actualEarningResult": 0.19,
+        "estimatedEarning": 0.21
+    },
+    {
+        "date": "1998-08-03",
+        "symbol": "TRV",
+        "actualEarningResult": 0.21,
+        "estimatedEarning": 0.4
+    },
+    {
+        "date": "1998-04-27",
+        "symbol": "TRV",
+        "actualEarningResult": 0.68,
+        "estimatedEarning": 0.74
+    },
+    {
+        "date": "1998-01-26",
+        "symbol": "TRV",
+        "actualEarningResult": 0.8,
+        "estimatedEarning": 0.74
+    },
+    {
+        "date": "1997-10-24",
+        "symbol": "TRV",
+        "actualEarningResult": 0.72,
+        "estimatedEarning": 0.71
+    },
+    {
+        "date": "1997-07-28",
+        "symbol": "TRV",
+        "actualEarningResult": 0.66,
+        "estimatedEarning": 0.66
+    },
+    {
+        "date": "1997-04-28",
+        "symbol": "TRV",
+        "actualEarningResult": 0.72,
+        "estimatedEarning": 0.68
+    },
+    {
+        "date": "1997-01-27",
+        "symbol": "TRV",
+        "actualEarningResult": 0.59,
+        "estimatedEarning": 0.65
+    },
+    {
+        "date": "1996-10-29",
+        "symbol": "TRV",
+        "actualEarningResult": 0.57,
+        "estimatedEarning": 0.5
+    },
+    {
+        "date": "1996-07-29",
+        "symbol": "TRV",
+        "actualEarningResult": 0.55,
+        "estimatedEarning": 0.67
+    },
+    {
+        "date": "1996-04-29",
+        "symbol": "TRV",
+        "actualEarningResult": 0.54,
+        "estimatedEarning": 0.59
+    },
+    {
+        "date": "1996-01-29",
+        "symbol": "TRV",
+        "actualEarningResult": 0.67,
+        "estimatedEarning": 0.66
+    },
+    {
+        "date": "1995-10-23",
+        "symbol": "TRV",
+        "actualEarningResult": 0.68,
+        "estimatedEarning": 0.67
+    },
+    {
+        "date": "1995-07-24",
+        "symbol": "TRV",
+        "actualEarningResult": 0.59,
+        "estimatedEarning": 0.63
+    },
+    {
+        "date": "1995-04-24",
+        "symbol": "TRV",
+        "actualEarningResult": 0.6,
+        "estimatedEarning": 0.59
+    },
+    {
+        "date": "1995-01-26",
+        "symbol": "TRV",
+        "actualEarningResult": 0.71,
+        "estimatedEarning": 0.62
+    },
+    {
+        "date": "1994-10-24",
+        "symbol": "TRV",
+        "actualEarningResult": 0.68,
+        "estimatedEarning": 0.6
+    },
+    {
+        "date": "1994-07-25",
+        "symbol": "TRV",
+        "actualEarningResult": 0.66,
+        "estimatedEarning": 0.55
+    },
+    {
+        "date": "1994-04-25",
+        "symbol": "TRV",
+        "actualEarningResult": 0.37,
+        "estimatedEarning": 0.38
+    },
+    {
+        "date": "1994-01-24",
+        "symbol": "TRV",
+        "actualEarningResult": 0.46,
+        "estimatedEarning": 0.5
+    },
+    {
+        "date": "1993-10-22",
+        "symbol": "TRV",
+        "actualEarningResult": 0.78,
+        "estimatedEarning": 0.47
+    },
+    {
+        "date": "1993-07-26",
+        "symbol": "TRV",
+        "actualEarningResult": 0.51,
+        "estimatedEarning": 0.44
+    },
+    {
+        "date": "1993-04-27",
+        "symbol": "TRV",
+        "actualEarningResult": 0.44,
+        "estimatedEarning": 0.41
+    },
+    {
+        "date": "1993-01-28",
+        "symbol": "TRV",
+        "actualEarningResult": 0.08,
+        "estimatedEarning": 0.41
+    }
+]

@@ -1,0 +1,28 @@
+[
+    {
+        "date": "2024-03-30",
+        "symbol": "KVUE",
+        "period": "Q1",
+        "revenuefromcontractwithcustomerexcludingassessedtax": 3894000000,
+        "costofgoodsandservicessold": 1652000000,
+        "grossprofit": 2242000000,
+        "sellinggeneralandadministrativeexpense": 1573000000,
+        "restructuringcharges": 41000000,
+        "otheroperatingincomeexpensenet": -78000000,
+        "operatingincomeloss": 550000000,
+        "nonoperatingincomeexpense": -28000000,
+        "interestincomeexpensenet": -95000000,
+        "incomelossfromcontinuingoperationsbeforeincometaxesextraordinaryitemsnoncontrollinginterest": 427000000,
+        "incometaxexpensebenefit": 131000000,
+        "netincomeloss": 296000000,
+        "earningspersharebasic": 0.15,
+        "earningspersharediluted": 0.15,
+        "weightedaveragenumberofsharesoutstandingbasic": 1915000000,
+        "weightedaveragenumberofdilutedsharesoutstanding": 1920000000,
+        "othercomprehensiveincomelossforeigncurrencytransactionandtranslationadjustmentnetoftax": -280000000,
+        "othercomprehensiveincomelosspensionandotherpostretirementbenefitplansadjustmentnetoftax": -3000000,
+        "othercomprehensiveincomelosscashflowhedgegainlossafterreclassificationandtax": -21000000,
+        "othercomprehensiveincomelossnetoftax": -298000000,
+        "comprehensiveincomenetoftax": -2000000
+    }
+]

@@ -1,0 +1,164 @@
+[
+    {
+        "date": "2024-12-05",
+        "symbol": "DOCU",
+        "actualEarningResult": 0.9,
+        "estimatedEarning": 0.87
+    },
+    {
+        "date": "2024-09-05",
+        "symbol": "DOCU",
+        "actualEarningResult": 0.97,
+        "estimatedEarning": 0.807
+    },
+    {
+        "date": "2024-06-06",
+        "symbol": "DOCU",
+        "actualEarningResult": 0.82,
+        "estimatedEarning": 0.792
+    },
+    {
+        "date": "2024-03-07",
+        "symbol": "DOCU",
+        "actualEarningResult": 0.76,
+        "estimatedEarning": 0.647
+    },
+    {
+        "date": "2023-12-07",
+        "symbol": "DOCU",
+        "actualEarningResult": 0.79,
+        "estimatedEarning": 0.61
+    },
+    {
+        "date": "2023-09-07",
+        "symbol": "DOCU",
+        "actualEarningResult": 0.72,
+        "estimatedEarning": 0.65
+    },
+    {
+        "date": "2023-06-08",
+        "symbol": "DOCU",
+        "actualEarningResult": 0.72,
+        "estimatedEarning": 0.53
+    },
+    {
+        "date": "2023-03-09",
+        "symbol": "DOCU",
+        "actualEarningResult": 0.65,
+        "estimatedEarning": 0.53
+    },
+    {
+        "date": "2022-12-08",
+        "symbol": "DOCU",
+        "actualEarningResult": 0.57,
+        "estimatedEarning": 0.41
+    },
+    {
+        "date": "2022-09-08",
+        "symbol": "DOCU",
+        "actualEarningResult": 0.44,
+        "estimatedEarning": 0.42
+    },
+    {
+        "date": "2022-06-09",
+        "symbol": "DOCU",
+        "actualEarningResult": 0.38,
+        "estimatedEarning": 0.46
+    },
+    {
+        "date": "2022-03-10",
+        "symbol": "DOCU",
+        "actualEarningResult": 0.48,
+        "estimatedEarning": 0.48
+    },
+    {
+        "date": "2021-12-02",
+        "symbol": "DOCU",
+        "actualEarningResult": 0.58,
+        "estimatedEarning": 0.46
+    },
+    {
+        "date": "2021-09-02",
+        "symbol": "DOCU",
+        "actualEarningResult": 0.47,
+        "estimatedEarning": 0.39
+    },
+    {
+        "date": "2021-06-03",
+        "symbol": "DOCU",
+        "actualEarningResult": 0.44,
+        "estimatedEarning": 0.27
+    },
+    {
+        "date": "2021-03-11",
+        "symbol": "DOCU",
+        "actualEarningResult": 0.37,
+        "estimatedEarning": 0.22
+    },
+    {
+        "date": "2020-12-03",
+        "symbol": "DOCU",
+        "actualEarningResult": 0.22,
+        "estimatedEarning": 0.12
+    },
+    {
+        "date": "2020-09-03",
+        "symbol": "DOCU",
+        "actualEarningResult": 0.17,
+        "estimatedEarning": 0.07
+    },
+    {
+        "date": "2020-06-04",
+        "symbol": "DOCU",
+        "actualEarningResult": 0.12,
+        "estimatedEarning": 0.11
+    },
+    {
+        "date": "2020-03-12",
+        "symbol": "DOCU",
+        "actualEarningResult": 0.12,
+        "estimatedEarning": 0.05
+    },
+    {
+        "date": "2019-12-05",
+        "symbol": "DOCU",
+        "actualEarningResult": 0.11,
+        "estimatedEarning": 0.03108
+    },
+    {
+        "date": "2019-09-05",
+        "symbol": "DOCU",
+        "actualEarningResult": 0.01,
+        "estimatedEarning": 0.03743
+    },
+    {
+        "date": "2019-06-06",
+        "symbol": "DOCU",
+        "actualEarningResult": 0.07,
+        "estimatedEarning": 0.0451
+    },
+    {
+        "date": "2019-03-14",
+        "symbol": "DOCU",
+        "actualEarningResult": 0.06,
+        "estimatedEarning": 0.0052
+    },
+    {
+        "date": "2018-12-06",
+        "symbol": "DOCU",
+        "actualEarningResult": -0.31486,
+        "estimatedEarning": -0.15743
+    },
+    {
+        "date": "2018-09-05",
+        "symbol": "DOCU",
+        "actualEarningResult": 0.03,
+        "estimatedEarning": 0.0115
+    },
+    {
+        "date": "2018-06-07",
+        "symbol": "DOCU",
+        "actualEarningResult": 0.01,
+        "estimatedEarning": -0.07
+    }
+]

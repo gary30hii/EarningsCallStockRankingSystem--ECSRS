@@ -1,0 +1,194 @@
+[
+    {
+        "date": "2024-11-26",
+        "symbol": "NTNX",
+        "actualEarningResult": 0.42,
+        "estimatedEarning": 0.31
+    },
+    {
+        "date": "2024-08-28",
+        "symbol": "NTNX",
+        "actualEarningResult": 0.27,
+        "estimatedEarning": 0.2
+    },
+    {
+        "date": "2024-05-29",
+        "symbol": "NTNX",
+        "actualEarningResult": 0.28,
+        "estimatedEarning": 0.1675
+    },
+    {
+        "date": "2024-02-28",
+        "symbol": "NTNX",
+        "actualEarningResult": 0.46,
+        "estimatedEarning": 0.2949
+    },
+    {
+        "date": "2023-11-29",
+        "symbol": "NTNX",
+        "actualEarningResult": 0.29,
+        "estimatedEarning": 0.17
+    },
+    {
+        "date": "2023-08-31",
+        "symbol": "NTNX",
+        "actualEarningResult": 0.24,
+        "estimatedEarning": 0.15
+    },
+    {
+        "date": "2023-05-24",
+        "symbol": "NTNX",
+        "actualEarningResult": 0.12,
+        "estimatedEarning": 0.08487
+    },
+    {
+        "date": "2022-11-30",
+        "symbol": "NTNX",
+        "actualEarningResult": 0.03,
+        "estimatedEarning": -0.12
+    },
+    {
+        "date": "2022-08-31",
+        "symbol": "NTNX",
+        "actualEarningResult": -0.17,
+        "estimatedEarning": -0.39
+    },
+    {
+        "date": "2022-05-25",
+        "symbol": "NTNX",
+        "actualEarningResult": -0.05,
+        "estimatedEarning": -0.22
+    },
+    {
+        "date": "2022-03-02",
+        "symbol": "NTNX",
+        "actualEarningResult": -0.03,
+        "estimatedEarning": -0.21
+    },
+    {
+        "date": "2021-11-23",
+        "symbol": "NTNX",
+        "actualEarningResult": -0.22,
+        "estimatedEarning": -0.34
+    },
+    {
+        "date": "2021-09-01",
+        "symbol": "NTNX",
+        "actualEarningResult": -0.26,
+        "estimatedEarning": -0.43
+    },
+    {
+        "date": "2021-05-26",
+        "symbol": "NTNX",
+        "actualEarningResult": -0.41,
+        "estimatedEarning": -0.47
+    },
+    {
+        "date": "2021-02-24",
+        "symbol": "NTNX",
+        "actualEarningResult": -0.37,
+        "estimatedEarning": -0.47
+    },
+    {
+        "date": "2020-11-23",
+        "symbol": "NTNX",
+        "actualEarningResult": -0.44,
+        "estimatedEarning": -0.57
+    },
+    {
+        "date": "2020-08-27",
+        "symbol": "NTNX",
+        "actualEarningResult": -0.39,
+        "estimatedEarning": -0.67
+    },
+    {
+        "date": "2020-05-27",
+        "symbol": "NTNX",
+        "actualEarningResult": -0.69,
+        "estimatedEarning": -0.85
+    },
+    {
+        "date": "2020-02-26",
+        "symbol": "NTNX",
+        "actualEarningResult": -0.6,
+        "estimatedEarning": -0.69
+    },
+    {
+        "date": "2019-11-25",
+        "symbol": "NTNX",
+        "actualEarningResult": -0.71,
+        "estimatedEarning": -0.75
+    },
+    {
+        "date": "2019-08-28",
+        "symbol": "NTNX",
+        "actualEarningResult": -0.57,
+        "estimatedEarning": -0.64
+    },
+    {
+        "date": "2019-05-30",
+        "symbol": "NTNX",
+        "actualEarningResult": -0.56,
+        "estimatedEarning": -0.6
+    },
+    {
+        "date": "2019-02-28",
+        "symbol": "NTNX",
+        "actualEarningResult": -0.23,
+        "estimatedEarning": -0.25
+    },
+    {
+        "date": "2018-11-27",
+        "symbol": "NTNX",
+        "actualEarningResult": -0.13,
+        "estimatedEarning": -0.27
+    },
+    {
+        "date": "2018-08-30",
+        "symbol": "NTNX",
+        "actualEarningResult": -0.11,
+        "estimatedEarning": -0.22
+    },
+    {
+        "date": "2018-05-24",
+        "symbol": "NTNX",
+        "actualEarningResult": -0.21,
+        "estimatedEarning": -0.2
+    },
+    {
+        "date": "2018-03-01",
+        "symbol": "NTNX",
+        "actualEarningResult": -0.14,
+        "estimatedEarning": -0.21
+    },
+    {
+        "date": "2017-11-30",
+        "symbol": "NTNX",
+        "actualEarningResult": -0.16,
+        "estimatedEarning": -0.26
+    },
+    {
+        "date": "2017-08-31",
+        "symbol": "NTNX",
+        "actualEarningResult": -0.33,
+        "estimatedEarning": -0.38
+    },
+    {
+        "date": "2017-05-25",
+        "symbol": "NTNX",
+        "actualEarningResult": -0.42,
+        "estimatedEarning": -0.43
+    },
+    {
+        "date": "2017-03-02",
+        "symbol": "NTNX",
+        "actualEarningResult": -0.28,
+        "estimatedEarning": -0.35
+    },
+    {
+        "date": "2016-11-29",
+        "symbol": "NTNX",
+        "actualEarningResult": -0.37,
+        "estimatedEarning": -0.44
+    }
+]

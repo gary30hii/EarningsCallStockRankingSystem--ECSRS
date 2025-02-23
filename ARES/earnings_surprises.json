@@ -1,0 +1,254 @@
+[
+    {
+        "date": "2024-11-01",
+        "symbol": "ARES",
+        "actualEarningResult": 0.95,
+        "estimatedEarning": 0.939
+    },
+    {
+        "date": "2024-08-02",
+        "symbol": "ARES",
+        "actualEarningResult": 0.99,
+        "estimatedEarning": 0.981
+    },
+    {
+        "date": "2024-05-02",
+        "symbol": "ARES",
+        "actualEarningResult": 0.8,
+        "estimatedEarning": 0.92
+    },
+    {
+        "date": "2024-02-08",
+        "symbol": "ARES",
+        "actualEarningResult": 1.21,
+        "estimatedEarning": 1.1
+    },
+    {
+        "date": "2023-10-31",
+        "symbol": "ARES",
+        "actualEarningResult": 0.83,
+        "estimatedEarning": 0.86
+    },
+    {
+        "date": "2023-08-01",
+        "symbol": "ARES",
+        "actualEarningResult": 0.9,
+        "estimatedEarning": 0.85
+    },
+    {
+        "date": "2023-04-28",
+        "symbol": "ARES",
+        "actualEarningResult": 0.71,
+        "estimatedEarning": 0.82
+    },
+    {
+        "date": "2023-02-09",
+        "symbol": "ARES",
+        "actualEarningResult": 1.21,
+        "estimatedEarning": 1.07
+    },
+    {
+        "date": "2022-10-27",
+        "symbol": "ARES",
+        "actualEarningResult": 0.75,
+        "estimatedEarning": 0.73
+    },
+    {
+        "date": "2022-07-28",
+        "symbol": "ARES",
+        "actualEarningResult": 0.74,
+        "estimatedEarning": 0.7
+    },
+    {
+        "date": "2022-04-28",
+        "symbol": "ARES",
+        "actualEarningResult": 0.65,
+        "estimatedEarning": 0.66
+    },
+    {
+        "date": "2022-02-11",
+        "symbol": "ARES",
+        "actualEarningResult": 0.85,
+        "estimatedEarning": 0.72
+    },
+    {
+        "date": "2021-10-27",
+        "symbol": "ARES",
+        "actualEarningResult": 0.62,
+        "estimatedEarning": 0.62
+    },
+    {
+        "date": "2021-07-29",
+        "symbol": "ARES",
+        "actualEarningResult": 0.64,
+        "estimatedEarning": 0.5
+    },
+    {
+        "date": "2021-04-29",
+        "symbol": "ARES",
+        "actualEarningResult": 0.46,
+        "estimatedEarning": 0.51
+    },
+    {
+        "date": "2021-02-11",
+        "symbol": "ARES",
+        "actualEarningResult": 0.54,
+        "estimatedEarning": 0.46
+    },
+    {
+        "date": "2020-10-28",
+        "symbol": "ARES",
+        "actualEarningResult": 0.48,
+        "estimatedEarning": 0.42
+    },
+    {
+        "date": "2020-08-05",
+        "symbol": "ARES",
+        "actualEarningResult": 0.39,
+        "estimatedEarning": 0.38
+    },
+    {
+        "date": "2020-05-06",
+        "symbol": "ARES",
+        "actualEarningResult": 0.45,
+        "estimatedEarning": 0.4
+    },
+    {
+        "date": "2020-02-13",
+        "symbol": "ARES",
+        "actualEarningResult": 0.67,
+        "estimatedEarning": 0.5
+    },
+    {
+        "date": "2019-10-31",
+        "symbol": "ARES",
+        "actualEarningResult": 0.34,
+        "estimatedEarning": 0.37
+    },
+    {
+        "date": "2019-07-31",
+        "symbol": "ARES",
+        "actualEarningResult": 0.35,
+        "estimatedEarning": 0.37
+    },
+    {
+        "date": "2019-05-02",
+        "symbol": "ARES",
+        "actualEarningResult": 0.35,
+        "estimatedEarning": 0.38
+    },
+    {
+        "date": "2019-02-14",
+        "symbol": "ARES",
+        "actualEarningResult": 0.41,
+        "estimatedEarning": 0.31
+    },
+    {
+        "date": "2018-11-01",
+        "symbol": "ARES",
+        "actualEarningResult": 0.3,
+        "estimatedEarning": 0.38
+    },
+    {
+        "date": "2018-08-02",
+        "symbol": "ARES",
+        "actualEarningResult": 0.34,
+        "estimatedEarning": 0.4
+    },
+    {
+        "date": "2018-05-03",
+        "symbol": "ARES",
+        "actualEarningResult": 0.37,
+        "estimatedEarning": 0.37
+    },
+    {
+        "date": "2018-02-15",
+        "symbol": "ARES",
+        "actualEarningResult": 0.54,
+        "estimatedEarning": 0.48
+    },
+    {
+        "date": "2017-11-03",
+        "symbol": "ARES",
+        "actualEarningResult": 0.4,
+        "estimatedEarning": 0.39
+    },
+    {
+        "date": "2017-08-04",
+        "symbol": "ARES",
+        "actualEarningResult": 0.69,
+        "estimatedEarning": 0.67
+    },
+    {
+        "date": "2017-05-08",
+        "symbol": "ARES",
+        "actualEarningResult": 0.3,
+        "estimatedEarning": 0.39
+    },
+    {
+        "date": "2017-02-24",
+        "symbol": "ARES",
+        "actualEarningResult": 0.44,
+        "estimatedEarning": 0.37
+    },
+    {
+        "date": "2016-11-07",
+        "symbol": "ARES",
+        "actualEarningResult": 0.46,
+        "estimatedEarning": 0.38
+    },
+    {
+        "date": "2016-08-09",
+        "symbol": "ARES",
+        "actualEarningResult": 0.44,
+        "estimatedEarning": 0.29
+    },
+    {
+        "date": "2016-05-10",
+        "symbol": "ARES",
+        "actualEarningResult": 0.08,
+        "estimatedEarning": 0.24
+    },
+    {
+        "date": "2016-02-29",
+        "symbol": "ARES",
+        "actualEarningResult": 0.2,
+        "estimatedEarning": 0.26
+    },
+    {
+        "date": "2015-11-10",
+        "symbol": "ARES",
+        "actualEarningResult": -0.14268,
+        "estimatedEarning": 0.17
+    },
+    {
+        "date": "2015-08-11",
+        "symbol": "ARES",
+        "actualEarningResult": 0.32,
+        "estimatedEarning": 0.39
+    },
+    {
+        "date": "2015-05-12",
+        "symbol": "ARES",
+        "actualEarningResult": 0.35,
+        "estimatedEarning": 0.39
+    },
+    {
+        "date": "2015-03-05",
+        "symbol": "ARES",
+        "actualEarningResult": 0.27,
+        "estimatedEarning": 0.36
+    },
+    {
+        "date": "2014-11-12",
+        "symbol": "ARES",
+        "actualEarningResult": 0.32,
+        "estimatedEarning": 0.34
+    },
+    {
+        "date": "2014-08-13",
+        "symbol": "ARES",
+        "actualEarningResult": 0.33,
+        "estimatedEarning": 0.37
+    }
+]

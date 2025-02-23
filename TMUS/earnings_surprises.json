@@ -1,0 +1,428 @@
+[
+    {
+        "date": "2024-10-23",
+        "symbol": "TMUS",
+        "actualEarningResult": 2.61,
+        "estimatedEarning": 2.42
+    },
+    {
+        "date": "2024-07-31",
+        "symbol": "TMUS",
+        "actualEarningResult": 2.49,
+        "estimatedEarning": 2.28
+    },
+    {
+        "date": "2024-04-25",
+        "symbol": "TMUS",
+        "actualEarningResult": 2,
+        "estimatedEarning": 1.87
+    },
+    {
+        "date": "2024-01-25",
+        "symbol": "TMUS",
+        "actualEarningResult": 1.67,
+        "estimatedEarning": 1.9
+    },
+    {
+        "date": "2023-10-25",
+        "symbol": "TMUS",
+        "actualEarningResult": 1.82,
+        "estimatedEarning": 1.74
+    },
+    {
+        "date": "2023-07-27",
+        "symbol": "TMUS",
+        "actualEarningResult": 1.86,
+        "estimatedEarning": 1.69
+    },
+    {
+        "date": "2023-04-27",
+        "symbol": "TMUS",
+        "actualEarningResult": 1.58,
+        "estimatedEarning": 1.48
+    },
+    {
+        "date": "2023-02-01",
+        "symbol": "TMUS",
+        "actualEarningResult": 1.18,
+        "estimatedEarning": 1.1
+    },
+    {
+        "date": "2022-10-27",
+        "symbol": "TMUS",
+        "actualEarningResult": 0.4,
+        "estimatedEarning": 0.04358
+    },
+    {
+        "date": "2022-07-27",
+        "symbol": "TMUS",
+        "actualEarningResult": 1.43,
+        "estimatedEarning": 0.41
+    },
+    {
+        "date": "2022-04-27",
+        "symbol": "TMUS",
+        "actualEarningResult": 0.57,
+        "estimatedEarning": 0.33
+    },
+    {
+        "date": "2022-02-02",
+        "symbol": "TMUS",
+        "actualEarningResult": 1.1,
+        "estimatedEarning": 0.16
+    },
+    {
+        "date": "2021-11-02",
+        "symbol": "TMUS",
+        "actualEarningResult": 0.55,
+        "estimatedEarning": 0.53
+    },
+    {
+        "date": "2021-07-29",
+        "symbol": "TMUS",
+        "actualEarningResult": 0.78,
+        "estimatedEarning": 0.53
+    },
+    {
+        "date": "2021-05-04",
+        "symbol": "TMUS",
+        "actualEarningResult": 0.74,
+        "estimatedEarning": 0.57
+    },
+    {
+        "date": "2021-02-04",
+        "symbol": "TMUS",
+        "actualEarningResult": 1.03,
+        "estimatedEarning": 0.51
+    },
+    {
+        "date": "2020-11-05",
+        "symbol": "TMUS",
+        "actualEarningResult": 1,
+        "estimatedEarning": 0.43
+    },
+    {
+        "date": "2020-08-06",
+        "symbol": "TMUS",
+        "actualEarningResult": 0.61,
+        "estimatedEarning": 0.11
+    },
+    {
+        "date": "2020-05-06",
+        "symbol": "TMUS",
+        "actualEarningResult": 1.1,
+        "estimatedEarning": 1.02
+    },
+    {
+        "date": "2020-02-06",
+        "symbol": "TMUS",
+        "actualEarningResult": 0.87,
+        "estimatedEarning": 0.83
+    },
+    {
+        "date": "2019-10-28",
+        "symbol": "TMUS",
+        "actualEarningResult": 1.01,
+        "estimatedEarning": 0.96
+    },
+    {
+        "date": "2019-07-25",
+        "symbol": "TMUS",
+        "actualEarningResult": 1.09,
+        "estimatedEarning": 0.97
+    },
+    {
+        "date": "2019-04-25",
+        "symbol": "TMUS",
+        "actualEarningResult": 1.06,
+        "estimatedEarning": 0.91
+    },
+    {
+        "date": "2019-02-07",
+        "symbol": "TMUS",
+        "actualEarningResult": 0.75,
+        "estimatedEarning": 0.69
+    },
+    {
+        "date": "2018-10-30",
+        "symbol": "TMUS",
+        "actualEarningResult": 0.93,
+        "estimatedEarning": 0.85
+    },
+    {
+        "date": "2018-08-01",
+        "symbol": "TMUS",
+        "actualEarningResult": 0.92,
+        "estimatedEarning": 0.87
+    },
+    {
+        "date": "2018-05-01",
+        "symbol": "TMUS",
+        "actualEarningResult": 0.78,
+        "estimatedEarning": 0.71
+    },
+    {
+        "date": "2018-02-08",
+        "symbol": "TMUS",
+        "actualEarningResult": 0.48,
+        "estimatedEarning": 0.37
+    },
+    {
+        "date": "2017-10-23",
+        "symbol": "TMUS",
+        "actualEarningResult": 0.63,
+        "estimatedEarning": 0.46
+    },
+    {
+        "date": "2017-07-19",
+        "symbol": "TMUS",
+        "actualEarningResult": 0.67,
+        "estimatedEarning": 0.38
+    },
+    {
+        "date": "2017-04-24",
+        "symbol": "TMUS",
+        "actualEarningResult": 0.46,
+        "estimatedEarning": 0.35
+    },
+    {
+        "date": "2017-02-14",
+        "symbol": "TMUS",
+        "actualEarningResult": 0.45,
+        "estimatedEarning": 0.3
+    },
+    {
+        "date": "2016-10-24",
+        "symbol": "TMUS",
+        "actualEarningResult": 0.27,
+        "estimatedEarning": 0.22
+    },
+    {
+        "date": "2016-07-27",
+        "symbol": "TMUS",
+        "actualEarningResult": 0.25,
+        "estimatedEarning": 0.2
+    },
+    {
+        "date": "2016-04-26",
+        "symbol": "TMUS",
+        "actualEarningResult": 0.56,
+        "estimatedEarning": 0.1
+    },
+    {
+        "date": "2016-02-17",
+        "symbol": "TMUS",
+        "actualEarningResult": 0.34,
+        "estimatedEarning": 0.15
+    },
+    {
+        "date": "2015-10-27",
+        "symbol": "TMUS",
+        "actualEarningResult": 0.15,
+        "estimatedEarning": 0.3
+    },
+    {
+        "date": "2015-07-30",
+        "symbol": "TMUS",
+        "actualEarningResult": 0.42,
+        "estimatedEarning": 0.18
+    },
+    {
+        "date": "2015-04-28",
+        "symbol": "TMUS",
+        "actualEarningResult": -0.09,
+        "estimatedEarning": -0.07
+    },
+    {
+        "date": "2015-02-19",
+        "symbol": "TMUS",
+        "actualEarningResult": 0.12,
+        "estimatedEarning": 0.05
+    },
+    {
+        "date": "2014-10-27",
+        "symbol": "TMUS",
+        "actualEarningResult": -0.12,
+        "estimatedEarning": -0.00779
+    },
+    {
+        "date": "2014-07-30",
+        "symbol": "TMUS",
+        "actualEarningResult": 0.48,
+        "estimatedEarning": 0.08
+    },
+    {
+        "date": "2014-05-01",
+        "symbol": "TMUS",
+        "actualEarningResult": -0.19,
+        "estimatedEarning": -0.08
+    },
+    {
+        "date": "2014-02-25",
+        "symbol": "TMUS",
+        "actualEarningResult": -0.03,
+        "estimatedEarning": -0.15
+    },
+    {
+        "date": "2013-11-07",
+        "symbol": "TMUS",
+        "actualEarningResult": -0.04,
+        "estimatedEarning": -0.01581
+    },
+    {
+        "date": "2013-08-08",
+        "symbol": "TMUS",
+        "actualEarningResult": 0.03,
+        "estimatedEarning": 0.07
+    },
+    {
+        "date": "2013-04-24",
+        "symbol": "TMUS",
+        "actualEarningResult": 0.12,
+        "estimatedEarning": 0.18
+    },
+    {
+        "date": "2013-02-26",
+        "symbol": "TMUS",
+        "actualEarningResult": 0.18,
+        "estimatedEarning": 0.23
+    },
+    {
+        "date": "2012-10-30",
+        "symbol": "TMUS",
+        "actualEarningResult": 0.76,
+        "estimatedEarning": 0.52
+    },
+    {
+        "date": "2012-07-26",
+        "symbol": "TMUS",
+        "actualEarningResult": 0.82,
+        "estimatedEarning": 0.43
+    },
+    {
+        "date": "2012-04-26",
+        "symbol": "TMUS",
+        "actualEarningResult": 0.12,
+        "estimatedEarning": 0.34
+    },
+    {
+        "date": "2012-02-23",
+        "symbol": "TMUS",
+        "actualEarningResult": 0.5,
+        "estimatedEarning": 0.32
+    },
+    {
+        "date": "2011-11-01",
+        "symbol": "TMUS",
+        "actualEarningResult": 0.38,
+        "estimatedEarning": 0.46
+    },
+    {
+        "date": "2011-08-02",
+        "symbol": "TMUS",
+        "actualEarningResult": 0.46,
+        "estimatedEarning": 0.55
+    },
+    {
+        "date": "2011-05-03",
+        "symbol": "TMUS",
+        "actualEarningResult": 0.3,
+        "estimatedEarning": 0.38
+    },
+    {
+        "date": "2011-02-24",
+        "symbol": "TMUS",
+        "actualEarningResult": 0.42,
+        "estimatedEarning": 0.33
+    },
+    {
+        "date": "2010-11-04",
+        "symbol": "TMUS",
+        "actualEarningResult": 0.44,
+        "estimatedEarning": 0.43
+    },
+    {
+        "date": "2010-08-05",
+        "symbol": "TMUS",
+        "actualEarningResult": 0.44,
+        "estimatedEarning": 0.26
+    },
+    {
+        "date": "2010-05-06",
+        "symbol": "TMUS",
+        "actualEarningResult": 0.12,
+        "estimatedEarning": 0.12
+    },
+    {
+        "date": "2010-02-25",
+        "symbol": "TMUS",
+        "actualEarningResult": 0.18,
+        "estimatedEarning": 0.12
+    },
+    {
+        "date": "2009-11-05",
+        "symbol": "TMUS",
+        "actualEarningResult": 0.42,
+        "estimatedEarning": 0.19
+    },
+    {
+        "date": "2009-08-06",
+        "symbol": "TMUS",
+        "actualEarningResult": 0.14,
+        "estimatedEarning": 0.27
+    },
+    {
+        "date": "2009-05-07",
+        "symbol": "TMUS",
+        "actualEarningResult": 0.24,
+        "estimatedEarning": 0.17
+    },
+    {
+        "date": "2009-02-26",
+        "symbol": "TMUS",
+        "actualEarningResult": 0.08,
+        "estimatedEarning": 0.15
+    },
+    {
+        "date": "2008-11-05",
+        "symbol": "TMUS",
+        "actualEarningResult": 0.26,
+        "estimatedEarning": 0.3
+    },
+    {
+        "date": "2008-08-07",
+        "symbol": "TMUS",
+        "actualEarningResult": 0.28,
+        "estimatedEarning": 0.33
+    },
+    {
+        "date": "2008-05-06",
+        "symbol": "TMUS",
+        "actualEarningResult": 0.22,
+        "estimatedEarning": 0.27
+    },
+    {
+        "date": "2008-02-27",
+        "symbol": "TMUS",
+        "actualEarningResult": -0.28,
+        "estimatedEarning": 0.25
+    },
+    {
+        "date": "2007-11-14",
+        "symbol": "TMUS",
+        "actualEarningResult": 0.3,
+        "estimatedEarning": 0.27
+    },
+    {
+        "date": "2007-08-03",
+        "symbol": "TMUS",
+        "actualEarningResult": 0.34,
+        "estimatedEarning": 0.27
+    },
+    {
+        "date": "2007-05-14",
+        "symbol": "TMUS",
+        "actualEarningResult": 0.22,
+        "estimatedEarning": 0.09
+    }
+]

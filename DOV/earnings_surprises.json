@@ -1,0 +1,770 @@
+[
+    {
+        "date": "2024-10-24",
+        "symbol": "DOV",
+        "actualEarningResult": 2.27,
+        "estimatedEarning": 2.3
+    },
+    {
+        "date": "2024-07-25",
+        "symbol": "DOV",
+        "actualEarningResult": 2.36,
+        "estimatedEarning": 2.21
+    },
+    {
+        "date": "2024-04-25",
+        "symbol": "DOV",
+        "actualEarningResult": 1.95,
+        "estimatedEarning": 1.87
+    },
+    {
+        "date": "2024-02-01",
+        "symbol": "DOV",
+        "actualEarningResult": 2.45,
+        "estimatedEarning": 2.42
+    },
+    {
+        "date": "2023-10-24",
+        "symbol": "DOV",
+        "actualEarningResult": 2.35,
+        "estimatedEarning": 2.32
+    },
+    {
+        "date": "2023-07-25",
+        "symbol": "DOV",
+        "actualEarningResult": 2.05,
+        "estimatedEarning": 2.2
+    },
+    {
+        "date": "2023-04-26",
+        "symbol": "DOV",
+        "actualEarningResult": 1.94,
+        "estimatedEarning": 1.92
+    },
+    {
+        "date": "2023-01-31",
+        "symbol": "DOV",
+        "actualEarningResult": 2.16,
+        "estimatedEarning": 2.15
+    },
+    {
+        "date": "2022-10-20",
+        "symbol": "DOV",
+        "actualEarningResult": 2.26,
+        "estimatedEarning": 2.18
+    },
+    {
+        "date": "2022-07-21",
+        "symbol": "DOV",
+        "actualEarningResult": 2.14,
+        "estimatedEarning": 2.07
+    },
+    {
+        "date": "2022-04-21",
+        "symbol": "DOV",
+        "actualEarningResult": 1.9,
+        "estimatedEarning": 1.83
+    },
+    {
+        "date": "2022-01-27",
+        "symbol": "DOV",
+        "actualEarningResult": 1.78,
+        "estimatedEarning": 1.67
+    },
+    {
+        "date": "2021-10-19",
+        "symbol": "DOV",
+        "actualEarningResult": 1.98,
+        "estimatedEarning": 1.85
+    },
+    {
+        "date": "2021-07-20",
+        "symbol": "DOV",
+        "actualEarningResult": 2.06,
+        "estimatedEarning": 1.84
+    },
+    {
+        "date": "2021-04-20",
+        "symbol": "DOV",
+        "actualEarningResult": 1.81,
+        "estimatedEarning": 1.45
+    },
+    {
+        "date": "2021-01-28",
+        "symbol": "DOV",
+        "actualEarningResult": 1.55,
+        "estimatedEarning": 1.38
+    },
+    {
+        "date": "2020-10-20",
+        "symbol": "DOV",
+        "actualEarningResult": 1.6,
+        "estimatedEarning": 1.32
+    },
+    {
+        "date": "2020-07-22",
+        "symbol": "DOV",
+        "actualEarningResult": 1.13,
+        "estimatedEarning": 0.93
+    },
+    {
+        "date": "2020-04-21",
+        "symbol": "DOV",
+        "actualEarningResult": 1.39,
+        "estimatedEarning": 1.21
+    },
+    {
+        "date": "2020-01-30",
+        "symbol": "DOV",
+        "actualEarningResult": 1.54,
+        "estimatedEarning": 1.46
+    },
+    {
+        "date": "2019-10-17",
+        "symbol": "DOV",
+        "actualEarningResult": 1.6,
+        "estimatedEarning": 1.51
+    },
+    {
+        "date": "2019-07-18",
+        "symbol": "DOV",
+        "actualEarningResult": 1.56,
+        "estimatedEarning": 1.53
+    },
+    {
+        "date": "2019-04-18",
+        "symbol": "DOV",
+        "actualEarningResult": 1.24,
+        "estimatedEarning": 1.12
+    },
+    {
+        "date": "2019-01-29",
+        "symbol": "DOV",
+        "actualEarningResult": 1.43,
+        "estimatedEarning": 1.29
+    },
+    {
+        "date": "2018-10-18",
+        "symbol": "DOV",
+        "actualEarningResult": 1.36,
+        "estimatedEarning": 1.29
+    },
+    {
+        "date": "2018-07-19",
+        "symbol": "DOV",
+        "actualEarningResult": 1.3,
+        "estimatedEarning": 1.21
+    },
+    {
+        "date": "2018-04-27",
+        "symbol": "DOV",
+        "actualEarningResult": 1.16,
+        "estimatedEarning": 1.13
+    },
+    {
+        "date": "2018-01-30",
+        "symbol": "DOV",
+        "actualEarningResult": 1.13,
+        "estimatedEarning": 1.04
+    },
+    {
+        "date": "2017-10-19",
+        "symbol": "DOV",
+        "actualEarningResult": 1.16,
+        "estimatedEarning": 1.12
+    },
+    {
+        "date": "2017-07-20",
+        "symbol": "DOV",
+        "actualEarningResult": 1.04,
+        "estimatedEarning": 1.01
+    },
+    {
+        "date": "2017-04-20",
+        "symbol": "DOV",
+        "actualEarningResult": 0.7,
+        "estimatedEarning": 0.62
+    },
+    {
+        "date": "2017-01-26",
+        "symbol": "DOV",
+        "actualEarningResult": 0.71,
+        "estimatedEarning": 0.95
+    },
+    {
+        "date": "2016-10-19",
+        "symbol": "DOV",
+        "actualEarningResult": 0.83,
+        "estimatedEarning": 0.82
+    },
+    {
+        "date": "2016-07-21",
+        "symbol": "DOV",
+        "actualEarningResult": 0.76,
+        "estimatedEarning": 0.85
+    },
+    {
+        "date": "2016-04-21",
+        "symbol": "DOV",
+        "actualEarningResult": 0.52,
+        "estimatedEarning": 0.6
+    },
+    {
+        "date": "2016-01-26",
+        "symbol": "DOV",
+        "actualEarningResult": 0.81,
+        "estimatedEarning": 0.74
+    },
+    {
+        "date": "2015-10-20",
+        "symbol": "DOV",
+        "actualEarningResult": 1.14,
+        "estimatedEarning": 1.07
+    },
+    {
+        "date": "2015-07-21",
+        "symbol": "DOV",
+        "actualEarningResult": 0.97,
+        "estimatedEarning": 1
+    },
+    {
+        "date": "2015-04-21",
+        "symbol": "DOV",
+        "actualEarningResult": 0.72,
+        "estimatedEarning": 0.73
+    },
+    {
+        "date": "2015-01-27",
+        "symbol": "DOV",
+        "actualEarningResult": 1.01,
+        "estimatedEarning": 0.94
+    },
+    {
+        "date": "2014-10-16",
+        "symbol": "DOV",
+        "actualEarningResult": 1.35,
+        "estimatedEarning": 1.31
+    },
+    {
+        "date": "2014-07-17",
+        "symbol": "DOV",
+        "actualEarningResult": 1.29,
+        "estimatedEarning": 1.28
+    },
+    {
+        "date": "2014-04-17",
+        "symbol": "DOV",
+        "actualEarningResult": 1.01,
+        "estimatedEarning": 1.01
+    },
+    {
+        "date": "2014-01-30",
+        "symbol": "DOV",
+        "actualEarningResult": 1.28,
+        "estimatedEarning": 1.28
+    },
+    {
+        "date": "2013-10-17",
+        "symbol": "DOV",
+        "actualEarningResult": 1.54,
+        "estimatedEarning": 1.5
+    },
+    {
+        "date": "2013-07-18",
+        "symbol": "DOV",
+        "actualEarningResult": 1.36,
+        "estimatedEarning": 1.29
+    },
+    {
+        "date": "2013-04-17",
+        "symbol": "DOV",
+        "actualEarningResult": 1.1,
+        "estimatedEarning": 1.08
+    },
+    {
+        "date": "2013-01-24",
+        "symbol": "DOV",
+        "actualEarningResult": 1.09,
+        "estimatedEarning": 1.07
+    },
+    {
+        "date": "2012-10-17",
+        "symbol": "DOV",
+        "actualEarningResult": 1.32,
+        "estimatedEarning": 1.27
+    },
+    {
+        "date": "2012-07-18",
+        "symbol": "DOV",
+        "actualEarningResult": 1.15,
+        "estimatedEarning": 1.13
+    },
+    {
+        "date": "2012-04-18",
+        "symbol": "DOV",
+        "actualEarningResult": 1.05,
+        "estimatedEarning": 1.02
+    },
+    {
+        "date": "2012-01-25",
+        "symbol": "DOV",
+        "actualEarningResult": 1.12,
+        "estimatedEarning": 1.03
+    },
+    {
+        "date": "2011-10-21",
+        "symbol": "DOV",
+        "actualEarningResult": 1.21,
+        "estimatedEarning": 1.12
+    },
+    {
+        "date": "2011-07-22",
+        "symbol": "DOV",
+        "actualEarningResult": 1.31,
+        "estimatedEarning": 1.15
+    },
+    {
+        "date": "2011-04-21",
+        "symbol": "DOV",
+        "actualEarningResult": 0.96,
+        "estimatedEarning": 0.9
+    },
+    {
+        "date": "2011-01-28",
+        "symbol": "DOV",
+        "actualEarningResult": 0.94,
+        "estimatedEarning": 0.82
+    },
+    {
+        "date": "2010-10-22",
+        "symbol": "DOV",
+        "actualEarningResult": 0.98,
+        "estimatedEarning": 0.9
+    },
+    {
+        "date": "2010-07-23",
+        "symbol": "DOV",
+        "actualEarningResult": 0.91,
+        "estimatedEarning": 0.78
+    },
+    {
+        "date": "2010-04-23",
+        "symbol": "DOV",
+        "actualEarningResult": 0.65,
+        "estimatedEarning": 0.51
+    },
+    {
+        "date": "2010-01-29",
+        "symbol": "DOV",
+        "actualEarningResult": 0.55,
+        "estimatedEarning": 0.49
+    },
+    {
+        "date": "2009-10-23",
+        "symbol": "DOV",
+        "actualEarningResult": 0.58,
+        "estimatedEarning": 0.48
+    },
+    {
+        "date": "2009-07-24",
+        "symbol": "DOV",
+        "actualEarningResult": 0.54,
+        "estimatedEarning": 0.46
+    },
+    {
+        "date": "2009-04-22",
+        "symbol": "DOV",
+        "actualEarningResult": 0.33,
+        "estimatedEarning": 0.47
+    },
+    {
+        "date": "2009-01-28",
+        "symbol": "DOV",
+        "actualEarningResult": 0.91,
+        "estimatedEarning": 0.86
+    },
+    {
+        "date": "2008-10-22",
+        "symbol": "DOV",
+        "actualEarningResult": 1.01,
+        "estimatedEarning": 0.98
+    },
+    {
+        "date": "2008-07-23",
+        "symbol": "DOV",
+        "actualEarningResult": 0.98,
+        "estimatedEarning": 0.95
+    },
+    {
+        "date": "2008-04-23",
+        "symbol": "DOV",
+        "actualEarningResult": 0.76,
+        "estimatedEarning": 0.75
+    },
+    {
+        "date": "2008-01-30",
+        "symbol": "DOV",
+        "actualEarningResult": 0.86,
+        "estimatedEarning": 0.82
+    },
+    {
+        "date": "2007-10-24",
+        "symbol": "DOV",
+        "actualEarningResult": 0.88,
+        "estimatedEarning": 0.87
+    },
+    {
+        "date": "2007-07-25",
+        "symbol": "DOV",
+        "actualEarningResult": 0.85,
+        "estimatedEarning": 0.82
+    },
+    {
+        "date": "2007-04-25",
+        "symbol": "DOV",
+        "actualEarningResult": 0.67,
+        "estimatedEarning": 0.73
+    },
+    {
+        "date": "2007-01-31",
+        "symbol": "DOV",
+        "actualEarningResult": 0.76,
+        "estimatedEarning": 0.72
+    },
+    {
+        "date": "2006-10-24",
+        "symbol": "DOV",
+        "actualEarningResult": 0.76,
+        "estimatedEarning": 0.78
+    },
+    {
+        "date": "2006-07-25",
+        "symbol": "DOV",
+        "actualEarningResult": 0.77,
+        "estimatedEarning": 0.76
+    },
+    {
+        "date": "2006-04-27",
+        "symbol": "DOV",
+        "actualEarningResult": 0.65,
+        "estimatedEarning": 0.62
+    },
+    {
+        "date": "2006-01-26",
+        "symbol": "DOV",
+        "actualEarningResult": 0.61,
+        "estimatedEarning": 0.59
+    },
+    {
+        "date": "2005-10-19",
+        "symbol": "DOV",
+        "actualEarningResult": 0.65,
+        "estimatedEarning": 0.64
+    },
+    {
+        "date": "2005-07-21",
+        "symbol": "DOV",
+        "actualEarningResult": 0.61,
+        "estimatedEarning": 0.57
+    },
+    {
+        "date": "2005-04-19",
+        "symbol": "DOV",
+        "actualEarningResult": 0.49,
+        "estimatedEarning": 0.49
+    },
+    {
+        "date": "2005-01-25",
+        "symbol": "DOV",
+        "actualEarningResult": 0.48,
+        "estimatedEarning": 0.52
+    },
+    {
+        "date": "2004-10-19",
+        "symbol": "DOV",
+        "actualEarningResult": 0.58,
+        "estimatedEarning": 0.56
+    },
+    {
+        "date": "2004-07-19",
+        "symbol": "DOV",
+        "actualEarningResult": 0.53,
+        "estimatedEarning": 0.48
+    },
+    {
+        "date": "2004-04-19",
+        "symbol": "DOV",
+        "actualEarningResult": 0.41,
+        "estimatedEarning": 0.38
+    },
+    {
+        "date": "2004-01-26",
+        "symbol": "DOV",
+        "actualEarningResult": 0.39,
+        "estimatedEarning": 0.39
+    },
+    {
+        "date": "2003-10-16",
+        "symbol": "DOV",
+        "actualEarningResult": 0.37,
+        "estimatedEarning": 0.35
+    },
+    {
+        "date": "2003-07-17",
+        "symbol": "DOV",
+        "actualEarningResult": 0.36,
+        "estimatedEarning": 0.33
+    },
+    {
+        "date": "2003-04-16",
+        "symbol": "DOV",
+        "actualEarningResult": 0.29,
+        "estimatedEarning": 0.24
+    },
+    {
+        "date": "2003-01-26",
+        "symbol": "DOV",
+        "actualEarningResult": 0.27,
+        "estimatedEarning": 0.3
+    },
+    {
+        "date": "2002-10-20",
+        "symbol": "DOV",
+        "actualEarningResult": 0.31,
+        "estimatedEarning": 0.33
+    },
+    {
+        "date": "2002-07-16",
+        "symbol": "DOV",
+        "actualEarningResult": 0.31,
+        "estimatedEarning": 0.31
+    },
+    {
+        "date": "2002-04-14",
+        "symbol": "DOV",
+        "actualEarningResult": 0.22,
+        "estimatedEarning": 0.25
+    },
+    {
+        "date": "2002-01-20",
+        "symbol": "DOV",
+        "actualEarningResult": 0.18,
+        "estimatedEarning": 0.16
+    },
+    {
+        "date": "2001-10-14",
+        "symbol": "DOV",
+        "actualEarningResult": 0.18,
+        "estimatedEarning": 0.19
+    },
+    {
+        "date": "2001-07-16",
+        "symbol": "DOV",
+        "actualEarningResult": 0.34,
+        "estimatedEarning": 0.38
+    },
+    {
+        "date": "2001-04-16",
+        "symbol": "DOV",
+        "actualEarningResult": 0.39,
+        "estimatedEarning": 0.41
+    },
+    {
+        "date": "2001-01-22",
+        "symbol": "DOV",
+        "actualEarningResult": 0.66,
+        "estimatedEarning": 0.67
+    },
+    {
+        "date": "2000-10-16",
+        "symbol": "DOV",
+        "actualEarningResult": 0.67,
+        "estimatedEarning": 0.65
+    },
+    {
+        "date": "2000-07-17",
+        "symbol": "DOV",
+        "actualEarningResult": 0.67,
+        "estimatedEarning": 0.61
+    },
+    {
+        "date": "2000-04-17",
+        "symbol": "DOV",
+        "actualEarningResult": 0.58,
+        "estimatedEarning": 0.54
+    },
+    {
+        "date": "2000-01-20",
+        "symbol": "DOV",
+        "actualEarningResult": 0.58,
+        "estimatedEarning": 0.52
+    },
+    {
+        "date": "1999-10-15",
+        "symbol": "DOV",
+        "actualEarningResult": 0.53,
+        "estimatedEarning": 0.45
+    },
+    {
+        "date": "1999-07-15",
+        "symbol": "DOV",
+        "actualEarningResult": 0.44,
+        "estimatedEarning": 0.4
+    },
+    {
+        "date": "1999-04-15",
+        "symbol": "DOV",
+        "actualEarningResult": 0.32,
+        "estimatedEarning": 0.32
+    },
+    {
+        "date": "1999-01-20",
+        "symbol": "DOV",
+        "actualEarningResult": 0.36,
+        "estimatedEarning": 0.44
+    },
+    {
+        "date": "1998-10-14",
+        "symbol": "DOV",
+        "actualEarningResult": 0.42,
+        "estimatedEarning": 0.47
+    },
+    {
+        "date": "1998-07-14",
+        "symbol": "DOV",
+        "actualEarningResult": 0.45,
+        "estimatedEarning": 0.45
+    },
+    {
+        "date": "1998-04-14",
+        "symbol": "DOV",
+        "actualEarningResult": 0.4,
+        "estimatedEarning": 0.37
+    },
+    {
+        "date": "1998-01-19",
+        "symbol": "DOV",
+        "actualEarningResult": 0.49,
+        "estimatedEarning": 0.46
+    },
+    {
+        "date": "1997-10-14",
+        "symbol": "DOV",
+        "actualEarningResult": 0.46,
+        "estimatedEarning": 0.44
+    },
+    {
+        "date": "1997-07-14",
+        "symbol": "DOV",
+        "actualEarningResult": 0.45,
+        "estimatedEarning": 0.42
+    },
+    {
+        "date": "1997-04-14",
+        "symbol": "DOV",
+        "actualEarningResult": 0.32,
+        "estimatedEarning": 0.36
+    },
+    {
+        "date": "1997-01-17",
+        "symbol": "DOV",
+        "actualEarningResult": 0.38,
+        "estimatedEarning": 0.37
+    },
+    {
+        "date": "1996-10-11",
+        "symbol": "DOV",
+        "actualEarningResult": 0.37,
+        "estimatedEarning": 0.36
+    },
+    {
+        "date": "1996-07-15",
+        "symbol": "DOV",
+        "actualEarningResult": 0.39,
+        "estimatedEarning": 0.39
+    },
+    {
+        "date": "1996-04-15",
+        "symbol": "DOV",
+        "actualEarningResult": 0.34,
+        "estimatedEarning": 0.3
+    },
+    {
+        "date": "1996-01-18",
+        "symbol": "DOV",
+        "actualEarningResult": 0.35,
+        "estimatedEarning": 0.3
+    },
+    {
+        "date": "1995-10-16",
+        "symbol": "DOV",
+        "actualEarningResult": 0.33,
+        "estimatedEarning": 0.29
+    },
+    {
+        "date": "1995-07-17",
+        "symbol": "DOV",
+        "actualEarningResult": 0.35,
+        "estimatedEarning": 0.29
+    },
+    {
+        "date": "1995-04-17",
+        "symbol": "DOV",
+        "actualEarningResult": 0.27,
+        "estimatedEarning": 0.23
+    },
+    {
+        "date": "1995-01-19",
+        "symbol": "DOV",
+        "actualEarningResult": 0.24,
+        "estimatedEarning": 0.22
+    },
+    {
+        "date": "1994-10-15",
+        "symbol": "DOV",
+        "actualEarningResult": 0.23,
+        "estimatedEarning": 0.22
+    },
+    {
+        "date": "1994-07-14",
+        "symbol": "DOV",
+        "actualEarningResult": 0.23,
+        "estimatedEarning": 0.22
+    },
+    {
+        "date": "1994-04-15",
+        "symbol": "DOV",
+        "actualEarningResult": 0.19,
+        "estimatedEarning": 0.17
+    },
+    {
+        "date": "1994-01-19",
+        "symbol": "DOV",
+        "actualEarningResult": 0.16,
+        "estimatedEarning": 0.17
+    },
+    {
+        "date": "1993-10-15",
+        "symbol": "DOV",
+        "actualEarningResult": 0.2,
+        "estimatedEarning": 0.16
+    },
+    {
+        "date": "1993-07-14",
+        "symbol": "DOV",
+        "actualEarningResult": 0.18,
+        "estimatedEarning": 0.16
+    },
+    {
+        "date": "1993-04-14",
+        "symbol": "DOV",
+        "actualEarningResult": 0.15,
+        "estimatedEarning": 0.14
+    },
+    {
+        "date": "1993-01-19",
+        "symbol": "DOV",
+        "actualEarningResult": 0.15,
+        "estimatedEarning": 0.15
+    }
+]

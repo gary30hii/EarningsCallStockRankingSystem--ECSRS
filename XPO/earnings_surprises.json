@@ -1,0 +1,392 @@
+[
+    {
+        "date": "2024-10-30",
+        "symbol": "XPO",
+        "actualEarningResult": 1.02,
+        "estimatedEarning": 0.91
+    },
+    {
+        "date": "2024-08-01",
+        "symbol": "XPO",
+        "actualEarningResult": 1.12,
+        "estimatedEarning": 1.01
+    },
+    {
+        "date": "2024-05-03",
+        "symbol": "XPO",
+        "actualEarningResult": 0.81,
+        "estimatedEarning": 0.672
+    },
+    {
+        "date": "2024-02-07",
+        "symbol": "XPO",
+        "actualEarningResult": 0.77,
+        "estimatedEarning": 0.61
+    },
+    {
+        "date": "2023-10-30",
+        "symbol": "XPO",
+        "actualEarningResult": 0.88,
+        "estimatedEarning": 0.63
+    },
+    {
+        "date": "2023-08-04",
+        "symbol": "XPO",
+        "actualEarningResult": 0.71,
+        "estimatedEarning": 0.61
+    },
+    {
+        "date": "2023-05-04",
+        "symbol": "XPO",
+        "actualEarningResult": 0.56,
+        "estimatedEarning": 0.45
+    },
+    {
+        "date": "2023-02-08",
+        "symbol": "XPO",
+        "actualEarningResult": 0.98,
+        "estimatedEarning": 0.82
+    },
+    {
+        "date": "2022-10-31",
+        "symbol": "XPO",
+        "actualEarningResult": 1.45,
+        "estimatedEarning": 1.35
+    },
+    {
+        "date": "2022-08-04",
+        "symbol": "XPO",
+        "actualEarningResult": 1.81,
+        "estimatedEarning": 1.5
+    },
+    {
+        "date": "2022-05-09",
+        "symbol": "XPO",
+        "actualEarningResult": 1.25,
+        "estimatedEarning": 0.94
+    },
+    {
+        "date": "2022-02-08",
+        "symbol": "XPO",
+        "actualEarningResult": 1.34,
+        "estimatedEarning": 0.99
+    },
+    {
+        "date": "2021-11-02",
+        "symbol": "XPO",
+        "actualEarningResult": 0.94,
+        "estimatedEarning": 0.93
+    },
+    {
+        "date": "2021-07-28",
+        "symbol": "XPO",
+        "actualEarningResult": 1.86,
+        "estimatedEarning": 1.71
+    },
+    {
+        "date": "2021-05-03",
+        "symbol": "XPO",
+        "actualEarningResult": 1.46,
+        "estimatedEarning": 0.93
+    },
+    {
+        "date": "2021-02-10",
+        "symbol": "XPO",
+        "actualEarningResult": 1.19,
+        "estimatedEarning": 0.67
+    },
+    {
+        "date": "2020-11-05",
+        "symbol": "XPO",
+        "actualEarningResult": 0.84,
+        "estimatedEarning": 0.4
+    },
+    {
+        "date": "2020-07-30",
+        "symbol": "XPO",
+        "actualEarningResult": -0.63,
+        "estimatedEarning": -0.75
+    },
+    {
+        "date": "2020-05-04",
+        "symbol": "XPO",
+        "actualEarningResult": 0.47,
+        "estimatedEarning": 0.5
+    },
+    {
+        "date": "2020-02-10",
+        "symbol": "XPO",
+        "actualEarningResult": 1.12,
+        "estimatedEarning": 1.02
+    },
+    {
+        "date": "2019-10-28",
+        "symbol": "XPO",
+        "actualEarningResult": 1.18,
+        "estimatedEarning": 1.04
+    },
+    {
+        "date": "2019-08-01",
+        "symbol": "XPO",
+        "actualEarningResult": 1.28,
+        "estimatedEarning": 1.04
+    },
+    {
+        "date": "2019-05-01",
+        "symbol": "XPO",
+        "actualEarningResult": 0.51,
+        "estimatedEarning": 0.39
+    },
+    {
+        "date": "2019-02-14",
+        "symbol": "XPO",
+        "actualEarningResult": 0.72,
+        "estimatedEarning": 0.84
+    },
+    {
+        "date": "2018-10-31",
+        "symbol": "XPO",
+        "actualEarningResult": 0.89,
+        "estimatedEarning": 0.98
+    },
+    {
+        "date": "2018-08-01",
+        "symbol": "XPO",
+        "actualEarningResult": 0.98,
+        "estimatedEarning": 0.98
+    },
+    {
+        "date": "2018-05-02",
+        "symbol": "XPO",
+        "actualEarningResult": 0.61,
+        "estimatedEarning": 0.51
+    },
+    {
+        "date": "2018-02-07",
+        "symbol": "XPO",
+        "actualEarningResult": 0.45,
+        "estimatedEarning": 0.43
+    },
+    {
+        "date": "2017-11-01",
+        "symbol": "XPO",
+        "actualEarningResult": 0.59,
+        "estimatedEarning": 0.57
+    },
+    {
+        "date": "2017-08-02",
+        "symbol": "XPO",
+        "actualEarningResult": 0.6,
+        "estimatedEarning": 0.59
+    },
+    {
+        "date": "2017-05-03",
+        "symbol": "XPO",
+        "actualEarningResult": 0.3,
+        "estimatedEarning": 0.16
+    },
+    {
+        "date": "2017-02-21",
+        "symbol": "XPO",
+        "actualEarningResult": 0.24,
+        "estimatedEarning": 0.2
+    },
+    {
+        "date": "2016-11-02",
+        "symbol": "XPO",
+        "actualEarningResult": 0.41,
+        "estimatedEarning": 0.36
+    },
+    {
+        "date": "2016-08-03",
+        "symbol": "XPO",
+        "actualEarningResult": 0.42,
+        "estimatedEarning": 0.2
+    },
+    {
+        "date": "2016-05-03",
+        "symbol": "XPO",
+        "actualEarningResult": -0.08,
+        "estimatedEarning": -0.2
+    },
+    {
+        "date": "2016-02-24",
+        "symbol": "XPO",
+        "actualEarningResult": -0.21,
+        "estimatedEarning": -0.06
+    },
+    {
+        "date": "2015-11-04",
+        "symbol": "XPO",
+        "actualEarningResult": -0.15,
+        "estimatedEarning": -0.15
+    },
+    {
+        "date": "2015-08-05",
+        "symbol": "XPO",
+        "actualEarningResult": -0.16,
+        "estimatedEarning": -0.13
+    },
+    {
+        "date": "2015-05-04",
+        "symbol": "XPO",
+        "actualEarningResult": -0.13,
+        "estimatedEarning": -0.25
+    },
+    {
+        "date": "2015-02-18",
+        "symbol": "XPO",
+        "actualEarningResult": -0.1,
+        "estimatedEarning": -0.12
+    },
+    {
+        "date": "2014-11-05",
+        "symbol": "XPO",
+        "actualEarningResult": -0.13,
+        "estimatedEarning": -0.19
+    },
+    {
+        "date": "2014-07-29",
+        "symbol": "XPO",
+        "actualEarningResult": -0.22,
+        "estimatedEarning": -0.24
+    },
+    {
+        "date": "2014-05-01",
+        "symbol": "XPO",
+        "actualEarningResult": -0.37,
+        "estimatedEarning": -0.28
+    },
+    {
+        "date": "2014-02-24",
+        "symbol": "XPO",
+        "actualEarningResult": -0.37,
+        "estimatedEarning": -0.31
+    },
+    {
+        "date": "2013-11-04",
+        "symbol": "XPO",
+        "actualEarningResult": -0.55,
+        "estimatedEarning": -0.44
+    },
+    {
+        "date": "2013-07-30",
+        "symbol": "XPO",
+        "actualEarningResult": -1,
+        "estimatedEarning": -0.6
+    },
+    {
+        "date": "2013-05-07",
+        "symbol": "XPO",
+        "actualEarningResult": -0.85,
+        "estimatedEarning": -0.73
+    },
+    {
+        "date": "2013-02-27",
+        "symbol": "XPO",
+        "actualEarningResult": -0.57,
+        "estimatedEarning": -0.5
+    },
+    {
+        "date": "2012-11-05",
+        "symbol": "XPO",
+        "actualEarningResult": -0.38,
+        "estimatedEarning": -0.48
+    },
+    {
+        "date": "2012-08-06",
+        "symbol": "XPO",
+        "actualEarningResult": -0.17,
+        "estimatedEarning": -0.21
+    },
+    {
+        "date": "2012-05-09",
+        "symbol": "XPO",
+        "actualEarningResult": -0.36,
+        "estimatedEarning": -0.31
+    },
+    {
+        "date": "2011-02-23",
+        "symbol": "XPO",
+        "actualEarningResult": 0.08,
+        "estimatedEarning": 0.2
+    },
+    {
+        "date": "2010-05-12",
+        "symbol": "XPO",
+        "actualEarningResult": 0.12,
+        "estimatedEarning": 0.12
+    },
+    {
+        "date": "2009-11-09",
+        "symbol": "XPO",
+        "actualEarningResult": 0.12,
+        "estimatedEarning": 0.08
+    },
+    {
+        "date": "2009-08-11",
+        "symbol": "XPO",
+        "actualEarningResult": 0.04,
+        "estimatedEarning": 0.08
+    },
+    {
+        "date": "2009-05-13",
+        "symbol": "XPO",
+        "actualEarningResult": 0.00062,
+        "estimatedEarning": 0.08
+    },
+    {
+        "date": "2008-08-07",
+        "symbol": "XPO",
+        "actualEarningResult": 0.08,
+        "estimatedEarning": 0.12
+    },
+    {
+        "date": "2008-05-08",
+        "symbol": "XPO",
+        "actualEarningResult": 0.08,
+        "estimatedEarning": 0.08
+    },
+    {
+        "date": "2007-08-09",
+        "symbol": "XPO",
+        "actualEarningResult": 0.12,
+        "estimatedEarning": 0.12
+    },
+    {
+        "date": "2007-05-10",
+        "symbol": "XPO",
+        "actualEarningResult": 0.08,
+        "estimatedEarning": 0.08
+    },
+    {
+        "date": "2007-02-21",
+        "symbol": "XPO",
+        "actualEarningResult": 0.24,
+        "estimatedEarning": 0.12
+    },
+    {
+        "date": "2006-08-03",
+        "symbol": "XPO",
+        "actualEarningResult": 0.12,
+        "estimatedEarning": 0.08
+    },
+    {
+        "date": "2006-03-03",
+        "symbol": "XPO",
+        "actualEarningResult": 0.08,
+        "estimatedEarning": 0.04
+    },
+    {
+        "date": "2005-11-09",
+        "symbol": "XPO",
+        "actualEarningResult": -0.08,
+        "estimatedEarning": -0.04
+    },
+    {
+        "date": "2005-03-30",
+        "symbol": "XPO",
+        "actualEarningResult": -0.32,
+        "estimatedEarning": 0.12
+    }
+]

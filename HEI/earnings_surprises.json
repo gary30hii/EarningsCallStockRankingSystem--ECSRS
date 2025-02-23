@@ -1,0 +1,674 @@
+[
+    {
+        "date": "2024-12-17",
+        "symbol": "HEI",
+        "actualEarningResult": 0.99,
+        "estimatedEarning": 0.99
+    },
+    {
+        "date": "2024-08-26",
+        "symbol": "HEI",
+        "actualEarningResult": 0.97,
+        "estimatedEarning": 0.92
+    },
+    {
+        "date": "2024-05-28",
+        "symbol": "HEI",
+        "actualEarningResult": 0.88,
+        "estimatedEarning": 0.81
+    },
+    {
+        "date": "2024-02-26",
+        "symbol": "HEI",
+        "actualEarningResult": 0.82,
+        "estimatedEarning": 0.74
+    },
+    {
+        "date": "2023-12-18",
+        "symbol": "HEI",
+        "actualEarningResult": 0.74,
+        "estimatedEarning": 0.7
+    },
+    {
+        "date": "2023-08-28",
+        "symbol": "HEI",
+        "actualEarningResult": 0.77,
+        "estimatedEarning": 0.73
+    },
+    {
+        "date": "2023-05-22",
+        "symbol": "HEI",
+        "actualEarningResult": 0.76,
+        "estimatedEarning": 0.73
+    },
+    {
+        "date": "2023-02-27",
+        "symbol": "HEI",
+        "actualEarningResult": 0.67,
+        "estimatedEarning": 0.69
+    },
+    {
+        "date": "2022-12-19",
+        "symbol": "HEI",
+        "actualEarningResult": 0.7,
+        "estimatedEarning": 0.69
+    },
+    {
+        "date": "2022-08-29",
+        "symbol": "HEI",
+        "actualEarningResult": 0.6,
+        "estimatedEarning": 0.66
+    },
+    {
+        "date": "2022-05-23",
+        "symbol": "HEI",
+        "actualEarningResult": 0.62,
+        "estimatedEarning": 0.61
+    },
+    {
+        "date": "2022-02-23",
+        "symbol": "HEI",
+        "actualEarningResult": 0.63,
+        "estimatedEarning": 0.6
+    },
+    {
+        "date": "2021-12-15",
+        "symbol": "HEI",
+        "actualEarningResult": 0.62,
+        "estimatedEarning": 0.58
+    },
+    {
+        "date": "2021-08-24",
+        "symbol": "HEI",
+        "actualEarningResult": 0.56,
+        "estimatedEarning": 0.55
+    },
+    {
+        "date": "2021-05-25",
+        "symbol": "HEI",
+        "actualEarningResult": 0.51,
+        "estimatedEarning": 0.48
+    },
+    {
+        "date": "2021-02-23",
+        "symbol": "HEI",
+        "actualEarningResult": 0.51,
+        "estimatedEarning": 0.48
+    },
+    {
+        "date": "2020-12-21",
+        "symbol": "HEI",
+        "actualEarningResult": 0.45,
+        "estimatedEarning": 0.41
+    },
+    {
+        "date": "2020-08-25",
+        "symbol": "HEI",
+        "actualEarningResult": 0.4,
+        "estimatedEarning": 0.32
+    },
+    {
+        "date": "2020-05-26",
+        "symbol": "HEI",
+        "actualEarningResult": 0.55,
+        "estimatedEarning": 0.42
+    },
+    {
+        "date": "2020-02-25",
+        "symbol": "HEI",
+        "actualEarningResult": 0.89,
+        "estimatedEarning": 0.77
+    },
+    {
+        "date": "2019-12-16",
+        "symbol": "HEI",
+        "actualEarningResult": 0.62,
+        "estimatedEarning": 0.58
+    },
+    {
+        "date": "2019-08-27",
+        "symbol": "HEI",
+        "actualEarningResult": 0.59,
+        "estimatedEarning": 0.54
+    },
+    {
+        "date": "2019-05-28",
+        "symbol": "HEI",
+        "actualEarningResult": 0.6,
+        "estimatedEarning": 0.49
+    },
+    {
+        "date": "2019-02-26",
+        "symbol": "HEI",
+        "actualEarningResult": 0.58,
+        "estimatedEarning": 0.47
+    },
+    {
+        "date": "2018-12-17",
+        "symbol": "HEI",
+        "actualEarningResult": 0.49,
+        "estimatedEarning": 0.48
+    },
+    {
+        "date": "2018-08-27",
+        "symbol": "HEI",
+        "actualEarningResult": 0.49,
+        "estimatedEarning": 0.45
+    },
+    {
+        "date": "2018-05-29",
+        "symbol": "HEI",
+        "actualEarningResult": 0.44,
+        "estimatedEarning": 0.42
+    },
+    {
+        "date": "2018-02-27",
+        "symbol": "HEI",
+        "actualEarningResult": 0.27,
+        "estimatedEarning": 0.31
+    },
+    {
+        "date": "2017-12-18",
+        "symbol": "HEI",
+        "actualEarningResult": 0.4,
+        "estimatedEarning": 0.37
+    },
+    {
+        "date": "2017-08-23",
+        "symbol": "HEI",
+        "actualEarningResult": 0.34,
+        "estimatedEarning": 0.34
+    },
+    {
+        "date": "2017-05-23",
+        "symbol": "HEI",
+        "actualEarningResult": 0.34,
+        "estimatedEarning": 0.32
+    },
+    {
+        "date": "2017-02-28",
+        "symbol": "HEI",
+        "actualEarningResult": 0.3,
+        "estimatedEarning": 0.28
+    },
+    {
+        "date": "2016-12-13",
+        "symbol": "HEI",
+        "actualEarningResult": 0.33,
+        "estimatedEarning": 0.32
+    },
+    {
+        "date": "2016-08-24",
+        "symbol": "HEI",
+        "actualEarningResult": 0.32,
+        "estimatedEarning": 0.3
+    },
+    {
+        "date": "2016-05-25",
+        "symbol": "HEI",
+        "actualEarningResult": 0.29,
+        "estimatedEarning": 0.29
+    },
+    {
+        "date": "2016-02-25",
+        "symbol": "HEI",
+        "actualEarningResult": 0.25,
+        "estimatedEarning": 0.25
+    },
+    {
+        "date": "2015-12-15",
+        "symbol": "HEI",
+        "actualEarningResult": 0.29,
+        "estimatedEarning": 0.27
+    },
+    {
+        "date": "2015-08-25",
+        "symbol": "HEI",
+        "actualEarningResult": 0.26,
+        "estimatedEarning": 0.27
+    },
+    {
+        "date": "2015-05-19",
+        "symbol": "HEI",
+        "actualEarningResult": 0.25,
+        "estimatedEarning": 0.24
+    },
+    {
+        "date": "2015-02-24",
+        "symbol": "HEI",
+        "actualEarningResult": 0.23,
+        "estimatedEarning": 0.23
+    },
+    {
+        "date": "2014-12-16",
+        "symbol": "HEI",
+        "actualEarningResult": 0.25,
+        "estimatedEarning": 0.23
+    },
+    {
+        "date": "2014-08-26",
+        "symbol": "HEI",
+        "actualEarningResult": 0.25,
+        "estimatedEarning": 0.23
+    },
+    {
+        "date": "2014-05-20",
+        "symbol": "HEI",
+        "actualEarningResult": 0.22,
+        "estimatedEarning": 0.21
+    },
+    {
+        "date": "2014-02-25",
+        "symbol": "HEI",
+        "actualEarningResult": 0.19,
+        "estimatedEarning": 0.18
+    },
+    {
+        "date": "2013-12-17",
+        "symbol": "HEI",
+        "actualEarningResult": 0.23,
+        "estimatedEarning": 0.21
+    },
+    {
+        "date": "2013-08-27",
+        "symbol": "HEI",
+        "actualEarningResult": 0.22,
+        "estimatedEarning": 0.19
+    },
+    {
+        "date": "2013-05-22",
+        "symbol": "HEI",
+        "actualEarningResult": 0.18,
+        "estimatedEarning": 0.17
+    },
+    {
+        "date": "2013-02-20",
+        "symbol": "HEI",
+        "actualEarningResult": 0.15,
+        "estimatedEarning": 0.16
+    },
+    {
+        "date": "2012-12-18",
+        "symbol": "HEI",
+        "actualEarningResult": 0.18,
+        "estimatedEarning": 0.18
+    },
+    {
+        "date": "2012-08-22",
+        "symbol": "HEI",
+        "actualEarningResult": 0.18,
+        "estimatedEarning": 0.17
+    },
+    {
+        "date": "2012-05-22",
+        "symbol": "HEI",
+        "actualEarningResult": 0.15,
+        "estimatedEarning": 0.15
+    },
+    {
+        "date": "2012-02-22",
+        "symbol": "HEI",
+        "actualEarningResult": 0.15,
+        "estimatedEarning": 0.14
+    },
+    {
+        "date": "2011-12-15",
+        "symbol": "HEI",
+        "actualEarningResult": 0.14,
+        "estimatedEarning": 0.14
+    },
+    {
+        "date": "2011-08-24",
+        "symbol": "HEI",
+        "actualEarningResult": 0.16,
+        "estimatedEarning": 0.13
+    },
+    {
+        "date": "2011-05-24",
+        "symbol": "HEI",
+        "actualEarningResult": 0.13,
+        "estimatedEarning": 0.12
+    },
+    {
+        "date": "2011-02-22",
+        "symbol": "HEI",
+        "actualEarningResult": 0.13,
+        "estimatedEarning": 0.11
+    },
+    {
+        "date": "2010-12-15",
+        "symbol": "HEI",
+        "actualEarningResult": 0.12,
+        "estimatedEarning": 0.1
+    },
+    {
+        "date": "2010-08-25",
+        "symbol": "HEI",
+        "actualEarningResult": 0.12,
+        "estimatedEarning": 0.1
+    },
+    {
+        "date": "2010-05-25",
+        "symbol": "HEI",
+        "actualEarningResult": 0.1,
+        "estimatedEarning": 0.09
+    },
+    {
+        "date": "2010-02-24",
+        "symbol": "HEI",
+        "actualEarningResult": 0.09,
+        "estimatedEarning": 0.08
+    },
+    {
+        "date": "2009-12-17",
+        "symbol": "HEI",
+        "actualEarningResult": 0.09,
+        "estimatedEarning": 0.09
+    },
+    {
+        "date": "2009-08-26",
+        "symbol": "HEI",
+        "actualEarningResult": 0.09,
+        "estimatedEarning": 0.09
+    },
+    {
+        "date": "2009-05-27",
+        "symbol": "HEI",
+        "actualEarningResult": 0.08,
+        "estimatedEarning": 0.09
+    },
+    {
+        "date": "2009-02-24",
+        "symbol": "HEI",
+        "actualEarningResult": 0.09,
+        "estimatedEarning": 0.09
+    },
+    {
+        "date": "2008-12-17",
+        "symbol": "HEI",
+        "actualEarningResult": 0.1,
+        "estimatedEarning": 0.1
+    },
+    {
+        "date": "2008-08-27",
+        "symbol": "HEI",
+        "actualEarningResult": 0.1,
+        "estimatedEarning": 0.1
+    },
+    {
+        "date": "2008-05-29",
+        "symbol": "HEI",
+        "actualEarningResult": 0.09,
+        "estimatedEarning": 0.09
+    },
+    {
+        "date": "2008-02-28",
+        "symbol": "HEI",
+        "actualEarningResult": 0.08,
+        "estimatedEarning": 0.08
+    },
+    {
+        "date": "2007-12-19",
+        "symbol": "HEI",
+        "actualEarningResult": 0.08,
+        "estimatedEarning": 0.08
+    },
+    {
+        "date": "2007-08-29",
+        "symbol": "HEI",
+        "actualEarningResult": 0.08,
+        "estimatedEarning": 0.08
+    },
+    {
+        "date": "2007-05-30",
+        "symbol": "HEI",
+        "actualEarningResult": 0.07,
+        "estimatedEarning": 0.07
+    },
+    {
+        "date": "2007-02-28",
+        "symbol": "HEI",
+        "actualEarningResult": 0.06,
+        "estimatedEarning": 0.07
+    },
+    {
+        "date": "2006-12-20",
+        "symbol": "HEI",
+        "actualEarningResult": 0.07,
+        "estimatedEarning": 0.06
+    },
+    {
+        "date": "2006-08-30",
+        "symbol": "HEI",
+        "actualEarningResult": 0.07,
+        "estimatedEarning": 0.06
+    },
+    {
+        "date": "2006-06-01",
+        "symbol": "HEI",
+        "actualEarningResult": 0.06,
+        "estimatedEarning": 0.05
+    },
+    {
+        "date": "2006-03-01",
+        "symbol": "HEI",
+        "actualEarningResult": 0.05,
+        "estimatedEarning": 0.05
+    },
+    {
+        "date": "2005-12-21",
+        "symbol": "HEI",
+        "actualEarningResult": 0.05,
+        "estimatedEarning": 0.05
+    },
+    {
+        "date": "2005-08-29",
+        "symbol": "HEI",
+        "actualEarningResult": 0.05,
+        "estimatedEarning": 0.05
+    },
+    {
+        "date": "2005-05-31",
+        "symbol": "HEI",
+        "actualEarningResult": 0.05,
+        "estimatedEarning": 0.04469
+    },
+    {
+        "date": "2005-02-24",
+        "symbol": "HEI",
+        "actualEarningResult": 0.04,
+        "estimatedEarning": 0.04118
+    },
+    {
+        "date": "2004-12-15",
+        "symbol": "HEI",
+        "actualEarningResult": 0.04,
+        "estimatedEarning": 0.03801
+    },
+    {
+        "date": "2004-08-25",
+        "symbol": "HEI",
+        "actualEarningResult": 0.04,
+        "estimatedEarning": 0.0402
+    },
+    {
+        "date": "2004-05-24",
+        "symbol": "HEI",
+        "actualEarningResult": 0.03,
+        "estimatedEarning": 0.02898
+    },
+    {
+        "date": "2004-02-24",
+        "symbol": "HEI",
+        "actualEarningResult": 0.03,
+        "estimatedEarning": 0.03462
+    },
+    {
+        "date": "2003-12-15",
+        "symbol": "HEI",
+        "actualEarningResult": 0.03,
+        "estimatedEarning": 0.02719
+    },
+    {
+        "date": "2003-08-27",
+        "symbol": "HEI",
+        "actualEarningResult": 0.03,
+        "estimatedEarning": 0.02733
+    },
+    {
+        "date": "2003-05-29",
+        "symbol": "HEI",
+        "actualEarningResult": 0.02,
+        "estimatedEarning": 0.02833
+    },
+    {
+        "date": "2003-02-27",
+        "symbol": "HEI",
+        "actualEarningResult": 0.02,
+        "estimatedEarning": 0.0218
+    },
+    {
+        "date": "2002-12-18",
+        "symbol": "HEI",
+        "actualEarningResult": 0.03,
+        "estimatedEarning": 0.027
+    },
+    {
+        "date": "2002-08-29",
+        "symbol": "HEI",
+        "actualEarningResult": 0.02,
+        "estimatedEarning": 0.0277
+    },
+    {
+        "date": "2002-05-28",
+        "symbol": "HEI",
+        "actualEarningResult": 0.03,
+        "estimatedEarning": 0.033
+    },
+    {
+        "date": "2002-02-25",
+        "symbol": "HEI",
+        "actualEarningResult": 0.02,
+        "estimatedEarning": 0.01885
+    },
+    {
+        "date": "2001-12-21",
+        "symbol": "HEI",
+        "actualEarningResult": 0.03,
+        "estimatedEarning": 0.045
+    },
+    {
+        "date": "2001-08-28",
+        "symbol": "HEI",
+        "actualEarningResult": 0.03,
+        "estimatedEarning": 0.03273
+    },
+    {
+        "date": "2001-05-29",
+        "symbol": "HEI",
+        "actualEarningResult": 0.05,
+        "estimatedEarning": 0.04505
+    },
+    {
+        "date": "2001-02-27",
+        "symbol": "HEI",
+        "actualEarningResult": 0.03,
+        "estimatedEarning": 0.03151
+    },
+    {
+        "date": "2000-12-14",
+        "symbol": "HEI",
+        "actualEarningResult": 0.04,
+        "estimatedEarning": 0.03928
+    },
+    {
+        "date": "2000-08-31",
+        "symbol": "HEI",
+        "actualEarningResult": 0.04,
+        "estimatedEarning": 0.04196
+    },
+    {
+        "date": "2000-05-25",
+        "symbol": "HEI",
+        "actualEarningResult": 0.04,
+        "estimatedEarning": 0.03963
+    },
+    {
+        "date": "2000-02-24",
+        "symbol": "HEI",
+        "actualEarningResult": 0.03,
+        "estimatedEarning": 0.02973
+    },
+    {
+        "date": "1999-12-21",
+        "symbol": "HEI",
+        "actualEarningResult": 0.04,
+        "estimatedEarning": 0.03969
+    },
+    {
+        "date": "1999-08-26",
+        "symbol": "HEI",
+        "actualEarningResult": 0.04,
+        "estimatedEarning": 0.04034
+    },
+    {
+        "date": "1999-05-27",
+        "symbol": "HEI",
+        "actualEarningResult": 0.04,
+        "estimatedEarning": 0.03333
+    },
+    {
+        "date": "1999-03-01",
+        "symbol": "HEI",
+        "actualEarningResult": 0.04,
+        "estimatedEarning": 0.03269
+    },
+    {
+        "date": "1998-12-17",
+        "symbol": "HEI",
+        "actualEarningResult": 0.03,
+        "estimatedEarning": 0.0281
+    },
+    {
+        "date": "1998-08-26",
+        "symbol": "HEI",
+        "actualEarningResult": 0.03,
+        "estimatedEarning": 0.03058
+    },
+    {
+        "date": "1998-05-26",
+        "symbol": "HEI",
+        "actualEarningResult": 0.03,
+        "estimatedEarning": 0.02363
+    },
+    {
+        "date": "1998-03-02",
+        "symbol": "HEI",
+        "actualEarningResult": 0.02,
+        "estimatedEarning": 0.01909
+    },
+    {
+        "date": "1997-12-18",
+        "symbol": "HEI",
+        "actualEarningResult": 0.03,
+        "estimatedEarning": 0.01841
+    },
+    {
+        "date": "1997-08-25",
+        "symbol": "HEI",
+        "actualEarningResult": 0.02,
+        "estimatedEarning": 0.02
+    },
+    {
+        "date": "1997-05-22",
+        "symbol": "HEI",
+        "actualEarningResult": 0.02,
+        "estimatedEarning": 0.01962
+    },
+    {
+        "date": "1997-02-26",
+        "symbol": "HEI",
+        "actualEarningResult": 0.02,
+        "estimatedEarning": 0.01454
+    }
+]

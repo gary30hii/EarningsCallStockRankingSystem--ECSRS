@@ -1,0 +1,116 @@
+[
+    {
+        "date": "2024-10-23",
+        "symbol": "VRT",
+        "actualEarningResult": 0.76,
+        "estimatedEarning": 0.689
+    },
+    {
+        "date": "2024-07-24",
+        "symbol": "VRT",
+        "actualEarningResult": 0.67,
+        "estimatedEarning": 0.572
+    },
+    {
+        "date": "2024-04-24",
+        "symbol": "VRT",
+        "actualEarningResult": 0.43,
+        "estimatedEarning": 0.3587
+    },
+    {
+        "date": "2024-02-21",
+        "symbol": "VRT",
+        "actualEarningResult": 0.56,
+        "estimatedEarning": 0.53
+    },
+    {
+        "date": "2023-10-25",
+        "symbol": "VRT",
+        "actualEarningResult": 0.52,
+        "estimatedEarning": 0.44
+    },
+    {
+        "date": "2023-08-02",
+        "symbol": "VRT",
+        "actualEarningResult": 0.46,
+        "estimatedEarning": 0.29
+    },
+    {
+        "date": "2023-04-26",
+        "symbol": "VRT",
+        "actualEarningResult": 0.24,
+        "estimatedEarning": 0.17
+    },
+    {
+        "date": "2023-02-22",
+        "symbol": "VRT",
+        "actualEarningResult": 0.28,
+        "estimatedEarning": 0.3
+    },
+    {
+        "date": "2022-10-26",
+        "symbol": "VRT",
+        "actualEarningResult": 0.23,
+        "estimatedEarning": 0.21
+    },
+    {
+        "date": "2022-08-03",
+        "symbol": "VRT",
+        "actualEarningResult": 0.1,
+        "estimatedEarning": 0.1
+    },
+    {
+        "date": "2022-04-27",
+        "symbol": "VRT",
+        "actualEarningResult": -0.08,
+        "estimatedEarning": -0.16
+    },
+    {
+        "date": "2022-02-23",
+        "symbol": "VRT",
+        "actualEarningResult": 0.04,
+        "estimatedEarning": 0.28
+    },
+    {
+        "date": "2021-10-27",
+        "symbol": "VRT",
+        "actualEarningResult": 0.2,
+        "estimatedEarning": 0.19
+    },
+    {
+        "date": "2021-07-28",
+        "symbol": "VRT",
+        "actualEarningResult": 0.31,
+        "estimatedEarning": 0.24
+    },
+    {
+        "date": "2021-04-28",
+        "symbol": "VRT",
+        "actualEarningResult": 0.21,
+        "estimatedEarning": 0.12
+    },
+    {
+        "date": "2021-02-24",
+        "symbol": "VRT",
+        "actualEarningResult": 0.33,
+        "estimatedEarning": 0.33
+    },
+    {
+        "date": "2020-11-04",
+        "symbol": "VRT",
+        "actualEarningResult": 0.32,
+        "estimatedEarning": 0.26
+    },
+    {
+        "date": "2020-08-05",
+        "symbol": "VRT",
+        "actualEarningResult": 0.24,
+        "estimatedEarning": 0.12
+    },
+    {
+        "date": "2020-05-05",
+        "symbol": "VRT",
+        "actualEarningResult": -0.09,
+        "estimatedEarning": -0.04
+    }
+]

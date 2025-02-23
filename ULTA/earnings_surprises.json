@@ -1,0 +1,404 @@
+[
+    {
+        "date": "2024-12-05",
+        "symbol": "ULTA",
+        "actualEarningResult": 5.14,
+        "estimatedEarning": 4.53
+    },
+    {
+        "date": "2024-08-29",
+        "symbol": "ULTA",
+        "actualEarningResult": 5.3,
+        "estimatedEarning": 5.46
+    },
+    {
+        "date": "2024-05-30",
+        "symbol": "ULTA",
+        "actualEarningResult": 6.47,
+        "estimatedEarning": 6.24
+    },
+    {
+        "date": "2024-03-14",
+        "symbol": "ULTA",
+        "actualEarningResult": 8.08,
+        "estimatedEarning": 7.53
+    },
+    {
+        "date": "2023-11-30",
+        "symbol": "ULTA",
+        "actualEarningResult": 5.07,
+        "estimatedEarning": 4.95
+    },
+    {
+        "date": "2023-08-24",
+        "symbol": "ULTA",
+        "actualEarningResult": 6.02,
+        "estimatedEarning": 5.85
+    },
+    {
+        "date": "2023-05-25",
+        "symbol": "ULTA",
+        "actualEarningResult": 6.88,
+        "estimatedEarning": 6.87
+    },
+    {
+        "date": "2023-03-09",
+        "symbol": "ULTA",
+        "actualEarningResult": 6.68,
+        "estimatedEarning": 5.68
+    },
+    {
+        "date": "2022-12-01",
+        "symbol": "ULTA",
+        "actualEarningResult": 5.34,
+        "estimatedEarning": 4.15
+    },
+    {
+        "date": "2022-08-25",
+        "symbol": "ULTA",
+        "actualEarningResult": 5.7,
+        "estimatedEarning": 5
+    },
+    {
+        "date": "2022-05-26",
+        "symbol": "ULTA",
+        "actualEarningResult": 6.3,
+        "estimatedEarning": 4.46
+    },
+    {
+        "date": "2022-03-10",
+        "symbol": "ULTA",
+        "actualEarningResult": 5.41,
+        "estimatedEarning": 4.58
+    },
+    {
+        "date": "2021-12-02",
+        "symbol": "ULTA",
+        "actualEarningResult": 3.94,
+        "estimatedEarning": 2.46
+    },
+    {
+        "date": "2021-08-25",
+        "symbol": "ULTA",
+        "actualEarningResult": 4.56,
+        "estimatedEarning": 2.56
+    },
+    {
+        "date": "2021-05-27",
+        "symbol": "ULTA",
+        "actualEarningResult": 4.07,
+        "estimatedEarning": 1.95
+    },
+    {
+        "date": "2021-03-11",
+        "symbol": "ULTA",
+        "actualEarningResult": 3.41,
+        "estimatedEarning": 2.35
+    },
+    {
+        "date": "2020-12-03",
+        "symbol": "ULTA",
+        "actualEarningResult": 1.64,
+        "estimatedEarning": 1.49
+    },
+    {
+        "date": "2020-08-27",
+        "symbol": "ULTA",
+        "actualEarningResult": 0.73,
+        "estimatedEarning": 0.1
+    },
+    {
+        "date": "2020-05-28",
+        "symbol": "ULTA",
+        "actualEarningResult": -1.12,
+        "estimatedEarning": 0.44
+    },
+    {
+        "date": "2020-03-12",
+        "symbol": "ULTA",
+        "actualEarningResult": 3.89,
+        "estimatedEarning": 3.73
+    },
+    {
+        "date": "2019-12-05",
+        "symbol": "ULTA",
+        "actualEarningResult": 2.25,
+        "estimatedEarning": 2.13
+    },
+    {
+        "date": "2019-08-29",
+        "symbol": "ULTA",
+        "actualEarningResult": 2.76,
+        "estimatedEarning": 2.8
+    },
+    {
+        "date": "2019-05-30",
+        "symbol": "ULTA",
+        "actualEarningResult": 3.26,
+        "estimatedEarning": 3.07
+    },
+    {
+        "date": "2019-03-14",
+        "symbol": "ULTA",
+        "actualEarningResult": 3.61,
+        "estimatedEarning": 3.56
+    },
+    {
+        "date": "2018-12-06",
+        "symbol": "ULTA",
+        "actualEarningResult": 2.18,
+        "estimatedEarning": 2.16
+    },
+    {
+        "date": "2018-08-30",
+        "symbol": "ULTA",
+        "actualEarningResult": 2.46,
+        "estimatedEarning": 2.41
+    },
+    {
+        "date": "2018-05-31",
+        "symbol": "ULTA",
+        "actualEarningResult": 2.7,
+        "estimatedEarning": 2.48
+    },
+    {
+        "date": "2018-03-15",
+        "symbol": "ULTA",
+        "actualEarningResult": 2.75,
+        "estimatedEarning": 2.78
+    },
+    {
+        "date": "2017-11-30",
+        "symbol": "ULTA",
+        "actualEarningResult": 1.75,
+        "estimatedEarning": 1.67
+    },
+    {
+        "date": "2017-08-24",
+        "symbol": "ULTA",
+        "actualEarningResult": 1.83,
+        "estimatedEarning": 1.78
+    },
+    {
+        "date": "2017-05-25",
+        "symbol": "ULTA",
+        "actualEarningResult": 1.91,
+        "estimatedEarning": 1.8
+    },
+    {
+        "date": "2017-03-09",
+        "symbol": "ULTA",
+        "actualEarningResult": 2.24,
+        "estimatedEarning": 2.13
+    },
+    {
+        "date": "2016-12-01",
+        "symbol": "ULTA",
+        "actualEarningResult": 1.4,
+        "estimatedEarning": 1.37
+    },
+    {
+        "date": "2016-08-25",
+        "symbol": "ULTA",
+        "actualEarningResult": 1.43,
+        "estimatedEarning": 1.39
+    },
+    {
+        "date": "2016-05-26",
+        "symbol": "ULTA",
+        "actualEarningResult": 1.45,
+        "estimatedEarning": 1.29
+    },
+    {
+        "date": "2016-03-10",
+        "symbol": "ULTA",
+        "actualEarningResult": 1.69,
+        "estimatedEarning": 1.54
+    },
+    {
+        "date": "2015-12-03",
+        "symbol": "ULTA",
+        "actualEarningResult": 1.11,
+        "estimatedEarning": 1.05
+    },
+    {
+        "date": "2015-08-27",
+        "symbol": "ULTA",
+        "actualEarningResult": 1.15,
+        "estimatedEarning": 1.12
+    },
+    {
+        "date": "2015-05-28",
+        "symbol": "ULTA",
+        "actualEarningResult": 1.04,
+        "estimatedEarning": 0.93
+    },
+    {
+        "date": "2015-03-12",
+        "symbol": "ULTA",
+        "actualEarningResult": 1.35,
+        "estimatedEarning": 1.27
+    },
+    {
+        "date": "2014-12-04",
+        "symbol": "ULTA",
+        "actualEarningResult": 0.91,
+        "estimatedEarning": 0.84
+    },
+    {
+        "date": "2014-09-11",
+        "symbol": "ULTA",
+        "actualEarningResult": 0.94,
+        "estimatedEarning": 0.83
+    },
+    {
+        "date": "2014-06-10",
+        "symbol": "ULTA",
+        "actualEarningResult": 0.77,
+        "estimatedEarning": 0.74
+    },
+    {
+        "date": "2014-03-13",
+        "symbol": "ULTA",
+        "actualEarningResult": 1.09,
+        "estimatedEarning": 1.07
+    },
+    {
+        "date": "2013-12-05",
+        "symbol": "ULTA",
+        "actualEarningResult": 0.72,
+        "estimatedEarning": 0.74
+    },
+    {
+        "date": "2013-09-12",
+        "symbol": "ULTA",
+        "actualEarningResult": 0.7,
+        "estimatedEarning": 0.67
+    },
+    {
+        "date": "2013-06-11",
+        "symbol": "ULTA",
+        "actualEarningResult": 0.65,
+        "estimatedEarning": 0.62
+    },
+    {
+        "date": "2013-03-14",
+        "symbol": "ULTA",
+        "actualEarningResult": 1,
+        "estimatedEarning": 0.98
+    },
+    {
+        "date": "2012-11-29",
+        "symbol": "ULTA",
+        "actualEarningResult": 0.59,
+        "estimatedEarning": 0.56
+    },
+    {
+        "date": "2012-09-06",
+        "symbol": "ULTA",
+        "actualEarningResult": 0.54,
+        "estimatedEarning": 0.51
+    },
+    {
+        "date": "2012-06-05",
+        "symbol": "ULTA",
+        "actualEarningResult": 0.54,
+        "estimatedEarning": 0.53
+    },
+    {
+        "date": "2012-03-08",
+        "symbol": "ULTA",
+        "actualEarningResult": 0.73,
+        "estimatedEarning": 0.68
+    },
+    {
+        "date": "2011-12-01",
+        "symbol": "ULTA",
+        "actualEarningResult": 0.42,
+        "estimatedEarning": 0.38
+    },
+    {
+        "date": "2011-09-08",
+        "symbol": "ULTA",
+        "actualEarningResult": 0.38,
+        "estimatedEarning": 0.32
+    },
+    {
+        "date": "2011-06-07",
+        "symbol": "ULTA",
+        "actualEarningResult": 0.37,
+        "estimatedEarning": 0.31
+    },
+    {
+        "date": "2011-03-10",
+        "symbol": "ULTA",
+        "actualEarningResult": 0.49,
+        "estimatedEarning": 0.44
+    },
+    {
+        "date": "2010-12-02",
+        "symbol": "ULTA",
+        "actualEarningResult": 0.23,
+        "estimatedEarning": 0.2
+    },
+    {
+        "date": "2010-09-02",
+        "symbol": "ULTA",
+        "actualEarningResult": 0.22,
+        "estimatedEarning": 0.18
+    },
+    {
+        "date": "2010-06-03",
+        "symbol": "ULTA",
+        "actualEarningResult": 0.23,
+        "estimatedEarning": 0.19
+    },
+    {
+        "date": "2010-03-11",
+        "symbol": "ULTA",
+        "actualEarningResult": 0.34,
+        "estimatedEarning": 0.3
+    },
+    {
+        "date": "2009-12-03",
+        "symbol": "ULTA",
+        "actualEarningResult": 0.14,
+        "estimatedEarning": 0.11
+    },
+    {
+        "date": "2009-09-03",
+        "symbol": "ULTA",
+        "actualEarningResult": 0.1,
+        "estimatedEarning": 0.05
+    },
+    {
+        "date": "2009-06-04",
+        "symbol": "ULTA",
+        "actualEarningResult": 0.08,
+        "estimatedEarning": 0.05
+    },
+    {
+        "date": "2009-03-19",
+        "symbol": "ULTA",
+        "actualEarningResult": 0.21,
+        "estimatedEarning": 0.19
+    },
+    {
+        "date": "2008-12-04",
+        "symbol": "ULTA",
+        "actualEarningResult": 0.09,
+        "estimatedEarning": 0.09
+    },
+    {
+        "date": "2008-09-04",
+        "symbol": "ULTA",
+        "actualEarningResult": 0.06,
+        "estimatedEarning": 0.05
+    },
+    {
+        "date": "2008-06-04",
+        "symbol": "ULTA",
+        "actualEarningResult": 0.08,
+        "estimatedEarning": 0.07
+    }
+]

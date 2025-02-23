@@ -1,0 +1,182 @@
+[
+    {
+        "date": "2024-10-31",
+        "symbol": "IR",
+        "actualEarningResult": 0.84,
+        "estimatedEarning": 0.822
+    },
+    {
+        "date": "2024-07-31",
+        "symbol": "IR",
+        "actualEarningResult": 0.83,
+        "estimatedEarning": 0.782
+    },
+    {
+        "date": "2024-05-02",
+        "symbol": "IR",
+        "actualEarningResult": 0.78,
+        "estimatedEarning": 0.688
+    },
+    {
+        "date": "2024-02-15",
+        "symbol": "IR",
+        "actualEarningResult": 0.86,
+        "estimatedEarning": 0.769
+    },
+    {
+        "date": "2023-11-01",
+        "symbol": "IR",
+        "actualEarningResult": 0.77,
+        "estimatedEarning": 0.7
+    },
+    {
+        "date": "2023-08-02",
+        "symbol": "IR",
+        "actualEarningResult": 0.68,
+        "estimatedEarning": 0.59
+    },
+    {
+        "date": "2023-05-03",
+        "symbol": "IR",
+        "actualEarningResult": 0.65,
+        "estimatedEarning": 0.52
+    },
+    {
+        "date": "2023-02-21",
+        "symbol": "IR",
+        "actualEarningResult": 0.72,
+        "estimatedEarning": 0.63
+    },
+    {
+        "date": "2022-11-02",
+        "symbol": "IR",
+        "actualEarningResult": 0.62,
+        "estimatedEarning": 0.59
+    },
+    {
+        "date": "2022-08-03",
+        "symbol": "IR",
+        "actualEarningResult": 0.54,
+        "estimatedEarning": 0.51
+    },
+    {
+        "date": "2022-05-04",
+        "symbol": "IR",
+        "actualEarningResult": 0.49,
+        "estimatedEarning": 0.45
+    },
+    {
+        "date": "2022-02-23",
+        "symbol": "IR",
+        "actualEarningResult": 0.68,
+        "estimatedEarning": 0.6
+    },
+    {
+        "date": "2021-11-03",
+        "symbol": "IR",
+        "actualEarningResult": 0.57,
+        "estimatedEarning": 0.46
+    },
+    {
+        "date": "2021-07-28",
+        "symbol": "IR",
+        "actualEarningResult": 0.46,
+        "estimatedEarning": 0.42
+    },
+    {
+        "date": "2021-04-28",
+        "symbol": "IR",
+        "actualEarningResult": 0.45,
+        "estimatedEarning": 0.36
+    },
+    {
+        "date": "2021-02-22",
+        "symbol": "IR",
+        "actualEarningResult": 0.53,
+        "estimatedEarning": 0.46
+    },
+    {
+        "date": "2020-11-02",
+        "symbol": "IR",
+        "actualEarningResult": 0.4,
+        "estimatedEarning": 0.31
+    },
+    {
+        "date": "2020-08-03",
+        "symbol": "IR",
+        "actualEarningResult": 0.31,
+        "estimatedEarning": 0.21
+    },
+    {
+        "date": "2020-05-12",
+        "symbol": "IR",
+        "actualEarningResult": 0.27,
+        "estimatedEarning": 0.31
+    },
+    {
+        "date": "2020-02-17",
+        "symbol": "IR",
+        "actualEarningResult": 0.37,
+        "estimatedEarning": 0.35
+    },
+    {
+        "date": "2019-10-28",
+        "symbol": "IR",
+        "actualEarningResult": 0.41,
+        "estimatedEarning": 0.37
+    },
+    {
+        "date": "2019-07-31",
+        "symbol": "IR",
+        "actualEarningResult": 0.43,
+        "estimatedEarning": 0.39
+    },
+    {
+        "date": "2019-04-30",
+        "symbol": "IR",
+        "actualEarningResult": 0.38,
+        "estimatedEarning": 0.34
+    },
+    {
+        "date": "2019-02-19",
+        "symbol": "IR",
+        "actualEarningResult": 0.57,
+        "estimatedEarning": 0.53
+    },
+    {
+        "date": "2018-10-25",
+        "symbol": "IR",
+        "actualEarningResult": 0.49,
+        "estimatedEarning": 0.48
+    },
+    {
+        "date": "2018-08-01",
+        "symbol": "IR",
+        "actualEarningResult": 0.44,
+        "estimatedEarning": 0.41
+    },
+    {
+        "date": "2018-04-26",
+        "symbol": "IR",
+        "actualEarningResult": 0.38,
+        "estimatedEarning": 0.3
+    },
+    {
+        "date": "2018-02-15",
+        "symbol": "IR",
+        "actualEarningResult": 0.48,
+        "estimatedEarning": 0.48
+    },
+    {
+        "date": "2017-10-25",
+        "symbol": "IR",
+        "actualEarningResult": 0.41,
+        "estimatedEarning": 0.37
+    },
+    {
+        "date": "2017-08-02",
+        "symbol": "IR",
+        "actualEarningResult": 0.24,
+        "estimatedEarning": 0.18
+    }
+]

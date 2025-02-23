@@ -1,0 +1,416 @@
+[
+    {
+        "date": "2024-11-07",
+        "symbol": "PODD",
+        "actualEarningResult": 0.9,
+        "estimatedEarning": 0.76
+    },
+    {
+        "date": "2024-08-08",
+        "symbol": "PODD",
+        "actualEarningResult": 0.55,
+        "estimatedEarning": 0.564
+    },
+    {
+        "date": "2024-05-09",
+        "symbol": "PODD",
+        "actualEarningResult": 0.73,
+        "estimatedEarning": 0.39
+    },
+    {
+        "date": "2024-02-22",
+        "symbol": "PODD",
+        "actualEarningResult": 1.4,
+        "estimatedEarning": 0.66
+    },
+    {
+        "date": "2023-11-02",
+        "symbol": "PODD",
+        "actualEarningResult": 0.71,
+        "estimatedEarning": 0.4
+    },
+    {
+        "date": "2023-08-08",
+        "symbol": "PODD",
+        "actualEarningResult": 0.38,
+        "estimatedEarning": 0.26
+    },
+    {
+        "date": "2023-05-04",
+        "symbol": "PODD",
+        "actualEarningResult": 0.23,
+        "estimatedEarning": 0.09
+    },
+    {
+        "date": "2023-02-23",
+        "symbol": "PODD",
+        "actualEarningResult": 0.55,
+        "estimatedEarning": 0.24
+    },
+    {
+        "date": "2022-11-03",
+        "symbol": "PODD",
+        "actualEarningResult": 0.45,
+        "estimatedEarning": 0.17
+    },
+    {
+        "date": "2022-08-04",
+        "symbol": "PODD",
+        "actualEarningResult": -0.06,
+        "estimatedEarning": 0.21
+    },
+    {
+        "date": "2022-05-05",
+        "symbol": "PODD",
+        "actualEarningResult": 0.4,
+        "estimatedEarning": 0.23
+    },
+    {
+        "date": "2022-02-23",
+        "symbol": "PODD",
+        "actualEarningResult": 0.42,
+        "estimatedEarning": 0.32
+    },
+    {
+        "date": "2021-11-04",
+        "symbol": "PODD",
+        "actualEarningResult": 0.18,
+        "estimatedEarning": 0.24
+    },
+    {
+        "date": "2021-08-05",
+        "symbol": "PODD",
+        "actualEarningResult": 0.1,
+        "estimatedEarning": 0.12
+    },
+    {
+        "date": "2021-05-06",
+        "symbol": "PODD",
+        "actualEarningResult": 0.00908,
+        "estimatedEarning": 0.06
+    },
+    {
+        "date": "2021-02-23",
+        "symbol": "PODD",
+        "actualEarningResult": -0.26,
+        "estimatedEarning": -0.06
+    },
+    {
+        "date": "2020-11-04",
+        "symbol": "PODD",
+        "actualEarningResult": 0.17,
+        "estimatedEarning": 0.08
+    },
+    {
+        "date": "2020-08-06",
+        "symbol": "PODD",
+        "actualEarningResult": 0.22,
+        "estimatedEarning": 0.0014
+    },
+    {
+        "date": "2020-05-07",
+        "symbol": "PODD",
+        "actualEarningResult": -0.03,
+        "estimatedEarning": -0.00358
+    },
+    {
+        "date": "2020-02-25",
+        "symbol": "PODD",
+        "actualEarningResult": 0.08,
+        "estimatedEarning": 0.11
+    },
+    {
+        "date": "2019-11-05",
+        "symbol": "PODD",
+        "actualEarningResult": 0.09,
+        "estimatedEarning": 0.2919
+    },
+    {
+        "date": "2019-08-05",
+        "symbol": "PODD",
+        "actualEarningResult": 0.02,
+        "estimatedEarning": 0.02483
+    },
+    {
+        "date": "2019-05-02",
+        "symbol": "PODD",
+        "actualEarningResult": 0.07,
+        "estimatedEarning": 0.01328
+    },
+    {
+        "date": "2019-02-25",
+        "symbol": "PODD",
+        "actualEarningResult": 0.16,
+        "estimatedEarning": 0.07
+    },
+    {
+        "date": "2018-11-01",
+        "symbol": "PODD",
+        "actualEarningResult": 0.03,
+        "estimatedEarning": 0.00294
+    },
+    {
+        "date": "2018-08-02",
+        "symbol": "PODD",
+        "actualEarningResult": -0.03,
+        "estimatedEarning": -0.13
+    },
+    {
+        "date": "2018-05-03",
+        "symbol": "PODD",
+        "actualEarningResult": -0.11,
+        "estimatedEarning": -0.19
+    },
+    {
+        "date": "2018-02-21",
+        "symbol": "PODD",
+        "actualEarningResult": -0.12,
+        "estimatedEarning": -0.08
+    },
+    {
+        "date": "2017-11-02",
+        "symbol": "PODD",
+        "actualEarningResult": -0.04,
+        "estimatedEarning": -0.1
+    },
+    {
+        "date": "2017-08-03",
+        "symbol": "PODD",
+        "actualEarningResult": -0.13,
+        "estimatedEarning": -0.13
+    },
+    {
+        "date": "2017-05-08",
+        "symbol": "PODD",
+        "actualEarningResult": -0.17,
+        "estimatedEarning": -0.16
+    },
+    {
+        "date": "2017-02-27",
+        "symbol": "PODD",
+        "actualEarningResult": -0.16,
+        "estimatedEarning": -0.05
+    },
+    {
+        "date": "2016-11-03",
+        "symbol": "PODD",
+        "actualEarningResult": -0.05,
+        "estimatedEarning": -0.08
+    },
+    {
+        "date": "2016-08-03",
+        "symbol": "PODD",
+        "actualEarningResult": -0.08,
+        "estimatedEarning": -0.16
+    },
+    {
+        "date": "2016-04-28",
+        "symbol": "PODD",
+        "actualEarningResult": -0.19,
+        "estimatedEarning": -0.23
+    },
+    {
+        "date": "2016-02-25",
+        "symbol": "PODD",
+        "actualEarningResult": -0.27,
+        "estimatedEarning": -0.26
+    },
+    {
+        "date": "2015-11-05",
+        "symbol": "PODD",
+        "actualEarningResult": -0.33,
+        "estimatedEarning": -0.26
+    },
+    {
+        "date": "2015-08-12",
+        "symbol": "PODD",
+        "actualEarningResult": -0.27,
+        "estimatedEarning": -0.12
+    },
+    {
+        "date": "2015-04-30",
+        "symbol": "PODD",
+        "actualEarningResult": -0.21,
+        "estimatedEarning": -0.11
+    },
+    {
+        "date": "2015-02-26",
+        "symbol": "PODD",
+        "actualEarningResult": -0.1,
+        "estimatedEarning": -0.05
+    },
+    {
+        "date": "2014-11-05",
+        "symbol": "PODD",
+        "actualEarningResult": -0.19429,
+        "estimatedEarning": -0.01889
+    },
+    {
+        "date": "2014-08-07",
+        "symbol": "PODD",
+        "actualEarningResult": -0.06,
+        "estimatedEarning": -0.08
+    },
+    {
+        "date": "2014-05-07",
+        "symbol": "PODD",
+        "actualEarningResult": -0.11,
+        "estimatedEarning": -0.06
+    },
+    {
+        "date": "2014-02-27",
+        "symbol": "PODD",
+        "actualEarningResult": -0.04,
+        "estimatedEarning": -0.09
+    },
+    {
+        "date": "2013-11-07",
+        "symbol": "PODD",
+        "actualEarningResult": -0.39,
+        "estimatedEarning": -0.17
+    },
+    {
+        "date": "2013-08-07",
+        "symbol": "PODD",
+        "actualEarningResult": -0.2,
+        "estimatedEarning": -0.18
+    },
+    {
+        "date": "2013-05-06",
+        "symbol": "PODD",
+        "actualEarningResult": -0.2,
+        "estimatedEarning": -0.21
+    },
+    {
+        "date": "2013-02-27",
+        "symbol": "PODD",
+        "actualEarningResult": -0.21,
+        "estimatedEarning": -0.22
+    },
+    {
+        "date": "2012-11-08",
+        "symbol": "PODD",
+        "actualEarningResult": -0.26,
+        "estimatedEarning": -0.23
+    },
+    {
+        "date": "2012-08-08",
+        "symbol": "PODD",
+        "actualEarningResult": -0.3,
+        "estimatedEarning": -0.26
+    },
+    {
+        "date": "2012-05-09",
+        "symbol": "PODD",
+        "actualEarningResult": -0.31,
+        "estimatedEarning": -0.28
+    },
+    {
+        "date": "2012-02-09",
+        "symbol": "PODD",
+        "actualEarningResult": -0.3,
+        "estimatedEarning": -0.26
+    },
+    {
+        "date": "2011-11-03",
+        "symbol": "PODD",
+        "actualEarningResult": -0.29,
+        "estimatedEarning": -0.25
+    },
+    {
+        "date": "2011-08-02",
+        "symbol": "PODD",
+        "actualEarningResult": -0.42,
+        "estimatedEarning": -0.23
+    },
+    {
+        "date": "2011-05-09",
+        "symbol": "PODD",
+        "actualEarningResult": -0.22,
+        "estimatedEarning": -0.22
+    },
+    {
+        "date": "2011-02-15",
+        "symbol": "PODD",
+        "actualEarningResult": -0.26,
+        "estimatedEarning": -0.26
+    },
+    {
+        "date": "2010-11-09",
+        "symbol": "PODD",
+        "actualEarningResult": -0.3,
+        "estimatedEarning": -0.3
+    },
+    {
+        "date": "2010-07-29",
+        "symbol": "PODD",
+        "actualEarningResult": -0.36,
+        "estimatedEarning": -0.35
+    },
+    {
+        "date": "2010-05-06",
+        "symbol": "PODD",
+        "actualEarningResult": -0.37,
+        "estimatedEarning": -0.38
+    },
+    {
+        "date": "2010-02-09",
+        "symbol": "PODD",
+        "actualEarningResult": -0.42,
+        "estimatedEarning": -0.47
+    },
+    {
+        "date": "2009-10-26",
+        "symbol": "PODD",
+        "actualEarningResult": -0.88,
+        "estimatedEarning": -0.7
+    },
+    {
+        "date": "2009-08-04",
+        "symbol": "PODD",
+        "actualEarningResult": -0.73,
+        "estimatedEarning": -0.68
+    },
+    {
+        "date": "2009-05-07",
+        "symbol": "PODD",
+        "actualEarningResult": -0.71,
+        "estimatedEarning": -0.65
+    },
+    {
+        "date": "2009-03-05",
+        "symbol": "PODD",
+        "actualEarningResult": -1.02,
+        "estimatedEarning": -0.63
+    },
+    {
+        "date": "2008-11-06",
+        "symbol": "PODD",
+        "actualEarningResult": -0.75,
+        "estimatedEarning": -0.74
+    },
+    {
+        "date": "2008-08-12",
+        "symbol": "PODD",
+        "actualEarningResult": -0.87,
+        "estimatedEarning": -0.7
+    },
+    {
+        "date": "2008-05-13",
+        "symbol": "PODD",
+        "actualEarningResult": -0.73,
+        "estimatedEarning": -0.56
+    },
+    {
+        "date": "2008-03-17",
+        "symbol": "PODD",
+        "actualEarningResult": -0.59,
+        "estimatedEarning": -0.51
+    },
+    {
+        "date": "2007-11-14",
+        "symbol": "PODD",
+        "actualEarningResult": -0.52,
+        "estimatedEarning": -0.5
+    }
+]

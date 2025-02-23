@@ -1,0 +1,290 @@
+[
+    {
+        "date": "2024-11-26",
+        "symbol": "WDAY",
+        "actualEarningResult": 1.89,
+        "estimatedEarning": 1.76
+    },
+    {
+        "date": "2024-08-22",
+        "symbol": "WDAY",
+        "actualEarningResult": 1.75,
+        "estimatedEarning": 1.65
+    },
+    {
+        "date": "2024-05-23",
+        "symbol": "WDAY",
+        "actualEarningResult": 1.74,
+        "estimatedEarning": 1.6
+    },
+    {
+        "date": "2024-02-26",
+        "symbol": "WDAY",
+        "actualEarningResult": 1.57,
+        "estimatedEarning": 1.47
+    },
+    {
+        "date": "2023-11-28",
+        "symbol": "WDAY",
+        "actualEarningResult": 1.53,
+        "estimatedEarning": 1.4
+    },
+    {
+        "date": "2023-08-24",
+        "symbol": "WDAY",
+        "actualEarningResult": 1.43,
+        "estimatedEarning": 1.25
+    },
+    {
+        "date": "2023-05-25",
+        "symbol": "WDAY",
+        "actualEarningResult": 1.31,
+        "estimatedEarning": 1.11
+    },
+    {
+        "date": "2023-02-27",
+        "symbol": "WDAY",
+        "actualEarningResult": 0.99,
+        "estimatedEarning": 0.89
+    },
+    {
+        "date": "2022-11-29",
+        "symbol": "WDAY",
+        "actualEarningResult": 0.99,
+        "estimatedEarning": 0.84
+    },
+    {
+        "date": "2022-08-25",
+        "symbol": "WDAY",
+        "actualEarningResult": 0.83,
+        "estimatedEarning": 0.79
+    },
+    {
+        "date": "2022-05-26",
+        "symbol": "WDAY",
+        "actualEarningResult": 0.83,
+        "estimatedEarning": 0.86
+    },
+    {
+        "date": "2022-02-28",
+        "symbol": "WDAY",
+        "actualEarningResult": 0.78,
+        "estimatedEarning": 0.71
+    },
+    {
+        "date": "2021-11-18",
+        "symbol": "WDAY",
+        "actualEarningResult": 1.1,
+        "estimatedEarning": 0.87
+    },
+    {
+        "date": "2021-08-26",
+        "symbol": "WDAY",
+        "actualEarningResult": 1.23,
+        "estimatedEarning": 0.78
+    },
+    {
+        "date": "2021-05-26",
+        "symbol": "WDAY",
+        "actualEarningResult": 0.87,
+        "estimatedEarning": 0.73
+    },
+    {
+        "date": "2021-02-25",
+        "symbol": "WDAY",
+        "actualEarningResult": 0.73,
+        "estimatedEarning": 0.55
+    },
+    {
+        "date": "2020-11-19",
+        "symbol": "WDAY",
+        "actualEarningResult": 0.86,
+        "estimatedEarning": 0.67
+    },
+    {
+        "date": "2020-08-27",
+        "symbol": "WDAY",
+        "actualEarningResult": 0.84,
+        "estimatedEarning": 0.65
+    },
+    {
+        "date": "2020-05-27",
+        "symbol": "WDAY",
+        "actualEarningResult": 0.44,
+        "estimatedEarning": 0.47
+    },
+    {
+        "date": "2020-02-27",
+        "symbol": "WDAY",
+        "actualEarningResult": 0.5,
+        "estimatedEarning": 0.4
+    },
+    {
+        "date": "2019-12-03",
+        "symbol": "WDAY",
+        "actualEarningResult": 0.53,
+        "estimatedEarning": 0.38
+    },
+    {
+        "date": "2019-08-29",
+        "symbol": "WDAY",
+        "actualEarningResult": 0.44,
+        "estimatedEarning": 0.35
+    },
+    {
+        "date": "2019-05-28",
+        "symbol": "WDAY",
+        "actualEarningResult": 0.43,
+        "estimatedEarning": 0.41
+    },
+    {
+        "date": "2019-02-28",
+        "symbol": "WDAY",
+        "actualEarningResult": 0.41,
+        "estimatedEarning": 0.32
+    },
+    {
+        "date": "2018-11-29",
+        "symbol": "WDAY",
+        "actualEarningResult": 0.31,
+        "estimatedEarning": 0.15
+    },
+    {
+        "date": "2018-09-04",
+        "symbol": "WDAY",
+        "actualEarningResult": 0.31,
+        "estimatedEarning": 0.26
+    },
+    {
+        "date": "2018-05-31",
+        "symbol": "WDAY",
+        "actualEarningResult": 0.33,
+        "estimatedEarning": 0.26
+    },
+    {
+        "date": "2018-02-27",
+        "symbol": "WDAY",
+        "actualEarningResult": 0.28,
+        "estimatedEarning": 0.21
+    },
+    {
+        "date": "2017-11-29",
+        "symbol": "WDAY",
+        "actualEarningResult": 0.24,
+        "estimatedEarning": 0.15
+    },
+    {
+        "date": "2017-08-30",
+        "symbol": "WDAY",
+        "actualEarningResult": 0.24,
+        "estimatedEarning": 0.15
+    },
+    {
+        "date": "2017-06-01",
+        "symbol": "WDAY",
+        "actualEarningResult": 0.29,
+        "estimatedEarning": 0.16
+    },
+    {
+        "date": "2017-02-27",
+        "symbol": "WDAY",
+        "actualEarningResult": 0.07,
+        "estimatedEarning": 0.00776
+    },
+    {
+        "date": "2016-12-01",
+        "symbol": "WDAY",
+        "actualEarningResult": 0.03,
+        "estimatedEarning": 0.01105
+    },
+    {
+        "date": "2016-08-24",
+        "symbol": "WDAY",
+        "actualEarningResult": -0.04,
+        "estimatedEarning": -0.02136
+    },
+    {
+        "date": "2016-05-31",
+        "symbol": "WDAY",
+        "actualEarningResult": 0.05,
+        "estimatedEarning": 0.01107
+    },
+    {
+        "date": "2016-02-29",
+        "symbol": "WDAY",
+        "actualEarningResult": -0.01,
+        "estimatedEarning": -0.00565
+    },
+    {
+        "date": "2015-11-19",
+        "symbol": "WDAY",
+        "actualEarningResult": -0.40797,
+        "estimatedEarning": -0.20399
+    },
+    {
+        "date": "2015-08-26",
+        "symbol": "WDAY",
+        "actualEarningResult": 0.02,
+        "estimatedEarning": -0.06
+    },
+    {
+        "date": "2015-05-26",
+        "symbol": "WDAY",
+        "actualEarningResult": -0.02,
+        "estimatedEarning": -0.08
+    },
+    {
+        "date": "2015-02-25",
+        "symbol": "WDAY",
+        "actualEarningResult": -0.06,
+        "estimatedEarning": -0.06
+    },
+    {
+        "date": "2014-11-24",
+        "symbol": "WDAY",
+        "actualEarningResult": -0.03,
+        "estimatedEarning": -0.1
+    },
+    {
+        "date": "2014-08-27",
+        "symbol": "WDAY",
+        "actualEarningResult": -0.11,
+        "estimatedEarning": -0.14
+    },
+    {
+        "date": "2014-05-27",
+        "symbol": "WDAY",
+        "actualEarningResult": -0.13,
+        "estimatedEarning": -0.15
+    },
+    {
+        "date": "2014-02-26",
+        "symbol": "WDAY",
+        "actualEarningResult": -0.13,
+        "estimatedEarning": -0.16
+    },
+    {
+        "date": "2013-11-25",
+        "symbol": "WDAY",
+        "actualEarningResult": -0.12,
+        "estimatedEarning": -0.17
+    },
+    {
+        "date": "2013-08-27",
+        "symbol": "WDAY",
+        "actualEarningResult": -0.13,
+        "estimatedEarning": -0.18
+    },
+    {
+        "date": "2013-05-22",
+        "symbol": "WDAY",
+        "actualEarningResult": -0.15,
+        "estimatedEarning": -0.18
+    },
+    {
+        "date": "2013-03-07",
+        "symbol": "WDAY",
+        "actualEarningResult": -0.16,
+        "estimatedEarning": -0.21
+    }
+]

@@ -1,0 +1,260 @@
+[
+    {
+        "date": "2024-11-05",
+        "symbol": "DD",
+        "actualEarningResult": 1.18,
+        "estimatedEarning": 1.03
+    },
+    {
+        "date": "2024-07-31",
+        "symbol": "DD",
+        "actualEarningResult": 0.97,
+        "estimatedEarning": 0.853
+    },
+    {
+        "date": "2024-05-01",
+        "symbol": "DD",
+        "actualEarningResult": 0.79,
+        "estimatedEarning": 0.647
+    },
+    {
+        "date": "2024-02-06",
+        "symbol": "DD",
+        "actualEarningResult": 0.87,
+        "estimatedEarning": 0.85
+    },
+    {
+        "date": "2023-11-01",
+        "symbol": "DD",
+        "actualEarningResult": 0.92,
+        "estimatedEarning": 0.84
+    },
+    {
+        "date": "2023-08-02",
+        "symbol": "DD",
+        "actualEarningResult": 0.85,
+        "estimatedEarning": 0.83
+    },
+    {
+        "date": "2023-05-02",
+        "symbol": "DD",
+        "actualEarningResult": 0.84,
+        "estimatedEarning": 0.81
+    },
+    {
+        "date": "2023-02-07",
+        "symbol": "DD",
+        "actualEarningResult": 0.89,
+        "estimatedEarning": 0.79
+    },
+    {
+        "date": "2022-11-08",
+        "symbol": "DD",
+        "actualEarningResult": 0.82,
+        "estimatedEarning": 0.81
+    },
+    {
+        "date": "2022-08-02",
+        "symbol": "DD",
+        "actualEarningResult": 0.88,
+        "estimatedEarning": 0.74
+    },
+    {
+        "date": "2022-05-03",
+        "symbol": "DD",
+        "actualEarningResult": 0.82,
+        "estimatedEarning": 0.67
+    },
+    {
+        "date": "2022-02-08",
+        "symbol": "DD",
+        "actualEarningResult": 1.08,
+        "estimatedEarning": 1.01
+    },
+    {
+        "date": "2021-11-02",
+        "symbol": "DD",
+        "actualEarningResult": 1.15,
+        "estimatedEarning": 1.12
+    },
+    {
+        "date": "2021-08-03",
+        "symbol": "DD",
+        "actualEarningResult": 1.06,
+        "estimatedEarning": 0.94
+    },
+    {
+        "date": "2021-05-04",
+        "symbol": "DD",
+        "actualEarningResult": 0.91,
+        "estimatedEarning": 0.77
+    },
+    {
+        "date": "2021-02-09",
+        "symbol": "DD",
+        "actualEarningResult": 0.95,
+        "estimatedEarning": 0.92
+    },
+    {
+        "date": "2020-10-29",
+        "symbol": "DD",
+        "actualEarningResult": 0.88,
+        "estimatedEarning": 0.77
+    },
+    {
+        "date": "2020-07-30",
+        "symbol": "DD",
+        "actualEarningResult": 0.7,
+        "estimatedEarning": 0.59
+    },
+    {
+        "date": "2020-05-05",
+        "symbol": "DD",
+        "actualEarningResult": 0.84,
+        "estimatedEarning": 0.83
+    },
+    {
+        "date": "2020-01-30",
+        "symbol": "DD",
+        "actualEarningResult": 0.95,
+        "estimatedEarning": 0.96
+    },
+    {
+        "date": "2019-10-31",
+        "symbol": "DD",
+        "actualEarningResult": 0.96,
+        "estimatedEarning": 0.95
+    },
+    {
+        "date": "2019-08-01",
+        "symbol": "DD",
+        "actualEarningResult": 0.97,
+        "estimatedEarning": 0.86
+    },
+    {
+        "date": "2017-11-02",
+        "symbol": "DD",
+        "actualEarningResult": 1.65,
+        "estimatedEarning": 1.35
+    },
+    {
+        "date": "2017-07-27",
+        "symbol": "DD",
+        "actualEarningResult": 3.24,
+        "estimatedEarning": 3.03
+    },
+    {
+        "date": "2017-04-27",
+        "symbol": "DD",
+        "actualEarningResult": 3.12,
+        "estimatedEarning": 2.97
+    },
+    {
+        "date": "2017-01-26",
+        "symbol": "DD",
+        "actualEarningResult": 2.97,
+        "estimatedEarning": 2.64
+    },
+    {
+        "date": "2016-10-27",
+        "symbol": "DD",
+        "actualEarningResult": 2.73,
+        "estimatedEarning": 2.4
+    },
+    {
+        "date": "2016-07-28",
+        "symbol": "DD",
+        "actualEarningResult": 2.85,
+        "estimatedEarning": 2.55
+    },
+    {
+        "date": "2016-04-28",
+        "symbol": "DD",
+        "actualEarningResult": 2.67,
+        "estimatedEarning": 2.49
+    },
+    {
+        "date": "2016-02-02",
+        "symbol": "DD",
+        "actualEarningResult": 2.79,
+        "estimatedEarning": 2.1
+    },
+    {
+        "date": "2015-10-22",
+        "symbol": "DD",
+        "actualEarningResult": 2.46,
+        "estimatedEarning": 2.04
+    },
+    {
+        "date": "2015-07-23",
+        "symbol": "DD",
+        "actualEarningResult": 2.73,
+        "estimatedEarning": 2.43
+    },
+    {
+        "date": "2015-04-23",
+        "symbol": "DD",
+        "actualEarningResult": 2.52,
+        "estimatedEarning": 2.34
+    },
+    {
+        "date": "2015-01-29",
+        "symbol": "DD",
+        "actualEarningResult": 2.55,
+        "estimatedEarning": 2.04
+    },
+    {
+        "date": "2014-10-22",
+        "symbol": "DD",
+        "actualEarningResult": 2.16,
+        "estimatedEarning": 2.04
+    },
+    {
+        "date": "2014-07-23",
+        "symbol": "DD",
+        "actualEarningResult": 2.22,
+        "estimatedEarning": 2.16
+    },
+    {
+        "date": "2014-04-23",
+        "symbol": "DD",
+        "actualEarningResult": 2.37,
+        "estimatedEarning": 2.1
+    },
+    {
+        "date": "2014-01-29",
+        "symbol": "DD",
+        "actualEarningResult": 1.95,
+        "estimatedEarning": 1.29
+    },
+    {
+        "date": "2013-10-24",
+        "symbol": "DD",
+        "actualEarningResult": 1.5,
+        "estimatedEarning": 1.62
+    },
+    {
+        "date": "2013-07-25",
+        "symbol": "DD",
+        "actualEarningResult": 1.92,
+        "estimatedEarning": 1.89
+    },
+    {
+        "date": "2013-04-25",
+        "symbol": "DD",
+        "actualEarningResult": 2.07,
+        "estimatedEarning": 1.8
+    },
+    {
+        "date": "2013-01-31",
+        "symbol": "DD",
+        "actualEarningResult": 0.99,
+        "estimatedEarning": 1.02
+    },
+    {
+        "date": "2012-10-23",
+        "symbol": "DD",
+        "actualEarningResult": 1.26,
+        "estimatedEarning": 1.11
+    }
+]

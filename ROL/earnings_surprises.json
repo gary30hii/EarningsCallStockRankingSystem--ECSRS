@@ -1,0 +1,668 @@
+[
+    {
+        "date": "2024-10-23",
+        "symbol": "ROL",
+        "actualEarningResult": 0.29,
+        "estimatedEarning": 0.3
+    },
+    {
+        "date": "2024-07-24",
+        "symbol": "ROL",
+        "actualEarningResult": 0.27,
+        "estimatedEarning": 0.27
+    },
+    {
+        "date": "2024-04-24",
+        "symbol": "ROL",
+        "actualEarningResult": 0.2,
+        "estimatedEarning": 0.2
+    },
+    {
+        "date": "2024-02-14",
+        "symbol": "ROL",
+        "actualEarningResult": 0.21,
+        "estimatedEarning": 0.21
+    },
+    {
+        "date": "2023-10-25",
+        "symbol": "ROL",
+        "actualEarningResult": 0.28,
+        "estimatedEarning": 0.25
+    },
+    {
+        "date": "2023-07-26",
+        "symbol": "ROL",
+        "actualEarningResult": 0.23,
+        "estimatedEarning": 0.23
+    },
+    {
+        "date": "2023-04-26",
+        "symbol": "ROL",
+        "actualEarningResult": 0.18,
+        "estimatedEarning": 0.17
+    },
+    {
+        "date": "2023-02-15",
+        "symbol": "ROL",
+        "actualEarningResult": 0.17,
+        "estimatedEarning": 0.17
+    },
+    {
+        "date": "2022-10-26",
+        "symbol": "ROL",
+        "actualEarningResult": 0.22,
+        "estimatedEarning": 0.21
+    },
+    {
+        "date": "2022-07-27",
+        "symbol": "ROL",
+        "actualEarningResult": 0.2,
+        "estimatedEarning": 0.2
+    },
+    {
+        "date": "2022-04-27",
+        "symbol": "ROL",
+        "actualEarningResult": 0.15,
+        "estimatedEarning": 0.14
+    },
+    {
+        "date": "2022-01-26",
+        "symbol": "ROL",
+        "actualEarningResult": 0.14,
+        "estimatedEarning": 0.15
+    },
+    {
+        "date": "2021-10-27",
+        "symbol": "ROL",
+        "actualEarningResult": 0.19,
+        "estimatedEarning": 0.2
+    },
+    {
+        "date": "2021-07-28",
+        "symbol": "ROL",
+        "actualEarningResult": 0.2,
+        "estimatedEarning": 0.18
+    },
+    {
+        "date": "2021-04-28",
+        "symbol": "ROL",
+        "actualEarningResult": 0.14,
+        "estimatedEarning": 0.11
+    },
+    {
+        "date": "2021-01-27",
+        "symbol": "ROL",
+        "actualEarningResult": 0.13,
+        "estimatedEarning": 0.13
+    },
+    {
+        "date": "2020-10-28",
+        "symbol": "ROL",
+        "actualEarningResult": 0.17,
+        "estimatedEarning": 0.16
+    },
+    {
+        "date": "2020-07-29",
+        "symbol": "ROL",
+        "actualEarningResult": 0.15,
+        "estimatedEarning": 0.12
+    },
+    {
+        "date": "2020-04-29",
+        "symbol": "ROL",
+        "actualEarningResult": 0.09,
+        "estimatedEarning": 0.09
+    },
+    {
+        "date": "2020-01-29",
+        "symbol": "ROL",
+        "actualEarningResult": 0.11,
+        "estimatedEarning": 0.11
+    },
+    {
+        "date": "2019-10-23",
+        "symbol": "ROL",
+        "actualEarningResult": 0.15,
+        "estimatedEarning": 0.15
+    },
+    {
+        "date": "2019-07-24",
+        "symbol": "ROL",
+        "actualEarningResult": 0.13,
+        "estimatedEarning": 0.14
+    },
+    {
+        "date": "2019-04-24",
+        "symbol": "ROL",
+        "actualEarningResult": 0.09,
+        "estimatedEarning": 0.1
+    },
+    {
+        "date": "2019-01-23",
+        "symbol": "ROL",
+        "actualEarningResult": 0.11,
+        "estimatedEarning": 0.11
+    },
+    {
+        "date": "2018-10-24",
+        "symbol": "ROL",
+        "actualEarningResult": 0.14,
+        "estimatedEarning": 0.13
+    },
+    {
+        "date": "2018-07-25",
+        "symbol": "ROL",
+        "actualEarningResult": 0.13,
+        "estimatedEarning": 0.14
+    },
+    {
+        "date": "2018-04-25",
+        "symbol": "ROL",
+        "actualEarningResult": 0.1,
+        "estimatedEarning": 0.1
+    },
+    {
+        "date": "2018-01-24",
+        "symbol": "ROL",
+        "actualEarningResult": 0.09,
+        "estimatedEarning": 0.09
+    },
+    {
+        "date": "2017-10-25",
+        "symbol": "ROL",
+        "actualEarningResult": 0.11,
+        "estimatedEarning": 0.11
+    },
+    {
+        "date": "2017-07-26",
+        "symbol": "ROL",
+        "actualEarningResult": 0.11,
+        "estimatedEarning": 0.11
+    },
+    {
+        "date": "2017-04-26",
+        "symbol": "ROL",
+        "actualEarningResult": 0.08,
+        "estimatedEarning": 0.07
+    },
+    {
+        "date": "2017-01-25",
+        "symbol": "ROL",
+        "actualEarningResult": 0.08,
+        "estimatedEarning": 0.07
+    },
+    {
+        "date": "2016-10-26",
+        "symbol": "ROL",
+        "actualEarningResult": 0.1,
+        "estimatedEarning": 0.1
+    },
+    {
+        "date": "2016-07-27",
+        "symbol": "ROL",
+        "actualEarningResult": 0.1,
+        "estimatedEarning": 0.1
+    },
+    {
+        "date": "2016-04-27",
+        "symbol": "ROL",
+        "actualEarningResult": 0.07,
+        "estimatedEarning": 0.07
+    },
+    {
+        "date": "2016-01-27",
+        "symbol": "ROL",
+        "actualEarningResult": 0.07,
+        "estimatedEarning": 0.07
+    },
+    {
+        "date": "2015-10-28",
+        "symbol": "ROL",
+        "actualEarningResult": 0.09,
+        "estimatedEarning": 0.09
+    },
+    {
+        "date": "2015-07-29",
+        "symbol": "ROL",
+        "actualEarningResult": 0.09,
+        "estimatedEarning": 0.09
+    },
+    {
+        "date": "2015-04-29",
+        "symbol": "ROL",
+        "actualEarningResult": 0.06,
+        "estimatedEarning": 0.06
+    },
+    {
+        "date": "2015-01-28",
+        "symbol": "ROL",
+        "actualEarningResult": 0.06,
+        "estimatedEarning": 0.06
+    },
+    {
+        "date": "2014-10-29",
+        "symbol": "ROL",
+        "actualEarningResult": 0.08,
+        "estimatedEarning": 0.08
+    },
+    {
+        "date": "2014-07-23",
+        "symbol": "ROL",
+        "actualEarningResult": 0.08,
+        "estimatedEarning": 0.08
+    },
+    {
+        "date": "2014-04-23",
+        "symbol": "ROL",
+        "actualEarningResult": 0.05,
+        "estimatedEarning": 0.05
+    },
+    {
+        "date": "2014-01-29",
+        "symbol": "ROL",
+        "actualEarningResult": 0.06,
+        "estimatedEarning": 0.05
+    },
+    {
+        "date": "2013-10-23",
+        "symbol": "ROL",
+        "actualEarningResult": 0.07,
+        "estimatedEarning": 0.07
+    },
+    {
+        "date": "2013-07-24",
+        "symbol": "ROL",
+        "actualEarningResult": 0.07,
+        "estimatedEarning": 0.07
+    },
+    {
+        "date": "2013-04-24",
+        "symbol": "ROL",
+        "actualEarningResult": 0.05,
+        "estimatedEarning": 0.05
+    },
+    {
+        "date": "2013-01-23",
+        "symbol": "ROL",
+        "actualEarningResult": 0.05,
+        "estimatedEarning": 0.05
+    },
+    {
+        "date": "2012-10-24",
+        "symbol": "ROL",
+        "actualEarningResult": 0.07,
+        "estimatedEarning": 0.07
+    },
+    {
+        "date": "2012-07-25",
+        "symbol": "ROL",
+        "actualEarningResult": 0.07,
+        "estimatedEarning": 0.07
+    },
+    {
+        "date": "2012-04-25",
+        "symbol": "ROL",
+        "actualEarningResult": 0.05,
+        "estimatedEarning": 0.04453
+    },
+    {
+        "date": "2012-01-25",
+        "symbol": "ROL",
+        "actualEarningResult": 0.04,
+        "estimatedEarning": 0.03882
+    },
+    {
+        "date": "2011-10-26",
+        "symbol": "ROL",
+        "actualEarningResult": 0.06,
+        "estimatedEarning": 0.06
+    },
+    {
+        "date": "2011-07-27",
+        "symbol": "ROL",
+        "actualEarningResult": 0.06,
+        "estimatedEarning": 0.06
+    },
+    {
+        "date": "2011-04-27",
+        "symbol": "ROL",
+        "actualEarningResult": 0.04,
+        "estimatedEarning": 0.04103
+    },
+    {
+        "date": "2011-01-26",
+        "symbol": "ROL",
+        "actualEarningResult": 0.04,
+        "estimatedEarning": 0.03794
+    },
+    {
+        "date": "2010-10-27",
+        "symbol": "ROL",
+        "actualEarningResult": 0.05,
+        "estimatedEarning": 0.05
+    },
+    {
+        "date": "2010-07-28",
+        "symbol": "ROL",
+        "actualEarningResult": 0.06,
+        "estimatedEarning": 0.06
+    },
+    {
+        "date": "2010-04-28",
+        "symbol": "ROL",
+        "actualEarningResult": 0.04,
+        "estimatedEarning": 0.03889
+    },
+    {
+        "date": "2010-01-27",
+        "symbol": "ROL",
+        "actualEarningResult": 0.03,
+        "estimatedEarning": 0.02625
+    },
+    {
+        "date": "2009-10-28",
+        "symbol": "ROL",
+        "actualEarningResult": 0.05,
+        "estimatedEarning": 0.04783
+    },
+    {
+        "date": "2009-07-29",
+        "symbol": "ROL",
+        "actualEarningResult": 0.05,
+        "estimatedEarning": 0.05
+    },
+    {
+        "date": "2009-04-29",
+        "symbol": "ROL",
+        "actualEarningResult": 0.03,
+        "estimatedEarning": 0.02625
+    },
+    {
+        "date": "2009-01-28",
+        "symbol": "ROL",
+        "actualEarningResult": 0.03,
+        "estimatedEarning": 0.02884
+    },
+    {
+        "date": "2008-10-22",
+        "symbol": "ROL",
+        "actualEarningResult": 0.04,
+        "estimatedEarning": 0.04199
+    },
+    {
+        "date": "2008-07-23",
+        "symbol": "ROL",
+        "actualEarningResult": 0.05,
+        "estimatedEarning": 0.05
+    },
+    {
+        "date": "2008-04-23",
+        "symbol": "ROL",
+        "actualEarningResult": 0.03,
+        "estimatedEarning": 0.02965
+    },
+    {
+        "date": "2008-01-23",
+        "symbol": "ROL",
+        "actualEarningResult": 0.02,
+        "estimatedEarning": 0.01889
+    },
+    {
+        "date": "2007-10-24",
+        "symbol": "ROL",
+        "actualEarningResult": 0.04,
+        "estimatedEarning": 0.04
+    },
+    {
+        "date": "2007-07-25",
+        "symbol": "ROL",
+        "actualEarningResult": 0.04,
+        "estimatedEarning": 0.03935
+    },
+    {
+        "date": "2007-04-25",
+        "symbol": "ROL",
+        "actualEarningResult": 0.03,
+        "estimatedEarning": 0.02842
+    },
+    {
+        "date": "2007-02-07",
+        "symbol": "ROL",
+        "actualEarningResult": 0.02,
+        "estimatedEarning": 0.01867
+    },
+    {
+        "date": "2006-10-25",
+        "symbol": "ROL",
+        "actualEarningResult": 0.03,
+        "estimatedEarning": 0.03
+    },
+    {
+        "date": "2006-07-26",
+        "symbol": "ROL",
+        "actualEarningResult": 0.04,
+        "estimatedEarning": 0.03571
+    },
+    {
+        "date": "2006-04-26",
+        "symbol": "ROL",
+        "actualEarningResult": 0.02,
+        "estimatedEarning": 0.0225
+    },
+    {
+        "date": "2006-02-15",
+        "symbol": "ROL",
+        "actualEarningResult": 0.02,
+        "estimatedEarning": 0.01846
+    },
+    {
+        "date": "2005-10-26",
+        "symbol": "ROL",
+        "actualEarningResult": 0.03,
+        "estimatedEarning": 0.02955
+    },
+    {
+        "date": "2005-07-27",
+        "symbol": "ROL",
+        "actualEarningResult": 0.03,
+        "estimatedEarning": 0.02869
+    },
+    {
+        "date": "2005-04-27",
+        "symbol": "ROL",
+        "actualEarningResult": 0.02,
+        "estimatedEarning": 0.01921
+    },
+    {
+        "date": "2005-02-16",
+        "symbol": "ROL",
+        "actualEarningResult": 0.01529,
+        "estimatedEarning": 0.0144
+    },
+    {
+        "date": "2004-10-27",
+        "symbol": "ROL",
+        "actualEarningResult": 0.02,
+        "estimatedEarning": 0.02
+    },
+    {
+        "date": "2004-07-28",
+        "symbol": "ROL",
+        "actualEarningResult": 0.03,
+        "estimatedEarning": 0.03044
+    },
+    {
+        "date": "2004-04-28",
+        "symbol": "ROL",
+        "actualEarningResult": 0.02,
+        "estimatedEarning": 0.01947
+    },
+    {
+        "date": "2004-02-17",
+        "symbol": "ROL",
+        "actualEarningResult": 0.00935,
+        "estimatedEarning": 0.00792
+    },
+    {
+        "date": "2003-10-29",
+        "symbol": "ROL",
+        "actualEarningResult": 0.02,
+        "estimatedEarning": 0.01809
+    },
+    {
+        "date": "2003-07-22",
+        "symbol": "ROL",
+        "actualEarningResult": 0.03,
+        "estimatedEarning": 0.029
+    },
+    {
+        "date": "2002-10-17",
+        "symbol": "ROL",
+        "actualEarningResult": 0.01314,
+        "estimatedEarning": 0.01143
+    },
+    {
+        "date": "2001-04-18",
+        "symbol": "ROL",
+        "actualEarningResult": 0.00391,
+        "estimatedEarning": 0.00115
+    },
+    {
+        "date": "1998-07-27",
+        "symbol": "ROL",
+        "actualEarningResult": 0.01231,
+        "estimatedEarning": 0.01114
+    },
+    {
+        "date": "1998-04-27",
+        "symbol": "ROL",
+        "actualEarningResult": -0.00293,
+        "estimatedEarning": -0.00126
+    },
+    {
+        "date": "1998-01-27",
+        "symbol": "ROL",
+        "actualEarningResult": -0.01237,
+        "estimatedEarning": -0.00288
+    },
+    {
+        "date": "1997-10-27",
+        "symbol": "ROL",
+        "actualEarningResult": -0.00393,
+        "estimatedEarning": -0.00268
+    },
+    {
+        "date": "1997-07-21",
+        "symbol": "ROL",
+        "actualEarningResult": 0.01114,
+        "estimatedEarning": 0.01788
+    },
+    {
+        "date": "1997-04-21",
+        "symbol": "ROL",
+        "actualEarningResult": 0.00879,
+        "estimatedEarning": 0.00703
+    },
+    {
+        "date": "1997-01-27",
+        "symbol": "ROL",
+        "actualEarningResult": 0.00052,
+        "estimatedEarning": 0.00244
+    },
+    {
+        "date": "1996-10-21",
+        "symbol": "ROL",
+        "actualEarningResult": 0.00528,
+        "estimatedEarning": 0.01738
+    },
+    {
+        "date": "1996-07-22",
+        "symbol": "ROL",
+        "actualEarningResult": 0.02,
+        "estimatedEarning": 0.03259
+    },
+    {
+        "date": "1996-04-22",
+        "symbol": "ROL",
+        "actualEarningResult": 0.01055,
+        "estimatedEarning": 0.01153
+    },
+    {
+        "date": "1996-01-22",
+        "symbol": "ROL",
+        "actualEarningResult": 0.01137,
+        "estimatedEarning": 0.01307
+    },
+    {
+        "date": "1995-10-23",
+        "symbol": "ROL",
+        "actualEarningResult": 0.02,
+        "estimatedEarning": 0.02645
+    },
+    {
+        "date": "1995-07-26",
+        "symbol": "ROL",
+        "actualEarningResult": 0.03,
+        "estimatedEarning": 0.03018
+    },
+    {
+        "date": "1995-04-24",
+        "symbol": "ROL",
+        "actualEarningResult": 0.0129,
+        "estimatedEarning": 0.02
+    },
+    {
+        "date": "1995-01-23",
+        "symbol": "ROL",
+        "actualEarningResult": 0.01422,
+        "estimatedEarning": 0.01365
+    },
+    {
+        "date": "1994-10-24",
+        "symbol": "ROL",
+        "actualEarningResult": 0.02,
+        "estimatedEarning": 0.02
+    },
+    {
+        "date": "1994-07-25",
+        "symbol": "ROL",
+        "actualEarningResult": 0.03,
+        "estimatedEarning": 0.03
+    },
+    {
+        "date": "1994-04-25",
+        "symbol": "ROL",
+        "actualEarningResult": 0.01114,
+        "estimatedEarning": 0.02
+    },
+    {
+        "date": "1994-01-24",
+        "symbol": "ROL",
+        "actualEarningResult": 0.01306,
+        "estimatedEarning": 0.01276
+    },
+    {
+        "date": "1993-10-25",
+        "symbol": "ROL",
+        "actualEarningResult": 0.02,
+        "estimatedEarning": 0.02029
+    },
+    {
+        "date": "1993-07-26",
+        "symbol": "ROL",
+        "actualEarningResult": 0.03,
+        "estimatedEarning": 0.02945
+    },
+    {
+        "date": "1993-04-27",
+        "symbol": "ROL",
+        "actualEarningResult": 0.00938,
+        "estimatedEarning": 0.01
+    },
+    {
+        "date": "1993-01-25",
+        "symbol": "ROL",
+        "actualEarningResult": 0.01023,
+        "estimatedEarning": 0.0104
+    }
+]

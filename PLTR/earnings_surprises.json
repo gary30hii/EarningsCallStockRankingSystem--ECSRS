@@ -1,0 +1,104 @@
+[
+    {
+        "date": "2024-11-04",
+        "symbol": "PLTR",
+        "actualEarningResult": 0.1,
+        "estimatedEarning": 0.09064
+    },
+    {
+        "date": "2024-08-05",
+        "symbol": "PLTR",
+        "actualEarningResult": 0.09,
+        "estimatedEarning": 0.0805
+    },
+    {
+        "date": "2024-05-06",
+        "symbol": "PLTR",
+        "actualEarningResult": 0.08,
+        "estimatedEarning": 0.07728
+    },
+    {
+        "date": "2024-02-05",
+        "symbol": "PLTR",
+        "actualEarningResult": 0.08,
+        "estimatedEarning": 0.07563
+    },
+    {
+        "date": "2023-11-02",
+        "symbol": "PLTR",
+        "actualEarningResult": 0.07,
+        "estimatedEarning": 0.06
+    },
+    {
+        "date": "2023-08-07",
+        "symbol": "PLTR",
+        "actualEarningResult": 0.05,
+        "estimatedEarning": 0.05
+    },
+    {
+        "date": "2023-05-08",
+        "symbol": "PLTR",
+        "actualEarningResult": 0.05,
+        "estimatedEarning": 0.03986
+    },
+    {
+        "date": "2023-02-13",
+        "symbol": "PLTR",
+        "actualEarningResult": 0.04,
+        "estimatedEarning": 0.02662
+    },
+    {
+        "date": "2022-11-07",
+        "symbol": "PLTR",
+        "actualEarningResult": 0.01,
+        "estimatedEarning": 0.01618
+    },
+    {
+        "date": "2022-08-08",
+        "symbol": "PLTR",
+        "actualEarningResult": -0.01,
+        "estimatedEarning": -0.00429
+    },
+    {
+        "date": "2022-05-09",
+        "symbol": "PLTR",
+        "actualEarningResult": 0.02,
+        "estimatedEarning": 0.037
+    },
+    {
+        "date": "2022-02-17",
+        "symbol": "PLTR",
+        "actualEarningResult": 0.02,
+        "estimatedEarning": 0.03575
+    },
+    {
+        "date": "2021-11-09",
+        "symbol": "PLTR",
+        "actualEarningResult": 0.04,
+        "estimatedEarning": 0.03657
+    },
+    {
+        "date": "2021-08-12",
+        "symbol": "PLTR",
+        "actualEarningResult": 0.04,
+        "estimatedEarning": 0.0354
+    },
+    {
+        "date": "2021-05-11",
+        "symbol": "PLTR",
+        "actualEarningResult": 0.04,
+        "estimatedEarning": 0.03667
+    },
+    {
+        "date": "2021-02-16",
+        "symbol": "PLTR",
+        "actualEarningResult": 0.07,
+        "estimatedEarning": 0.02411
+    },
+    {
+        "date": "2020-11-12",
+        "symbol": "PLTR",
+        "actualEarningResult": 0.09,
+        "estimatedEarning": 0.0196
+    }
+]

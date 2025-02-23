@@ -1,0 +1,770 @@
+[
+    {
+        "date": "2024-12-04",
+        "symbol": "SNPS",
+        "actualEarningResult": 3.4,
+        "estimatedEarning": 3.3
+    },
+    {
+        "date": "2024-08-21",
+        "symbol": "SNPS",
+        "actualEarningResult": 3.43,
+        "estimatedEarning": 3.28
+    },
+    {
+        "date": "2024-05-22",
+        "symbol": "SNPS",
+        "actualEarningResult": 3,
+        "estimatedEarning": 2.95
+    },
+    {
+        "date": "2024-02-21",
+        "symbol": "SNPS",
+        "actualEarningResult": 3.56,
+        "estimatedEarning": 3.43
+    },
+    {
+        "date": "2023-11-29",
+        "symbol": "SNPS",
+        "actualEarningResult": 2.94,
+        "estimatedEarning": 2.82
+    },
+    {
+        "date": "2023-08-16",
+        "symbol": "SNPS",
+        "actualEarningResult": 2.88,
+        "estimatedEarning": 2.73
+    },
+    {
+        "date": "2023-05-17",
+        "symbol": "SNPS",
+        "actualEarningResult": 2.54,
+        "estimatedEarning": 2.47
+    },
+    {
+        "date": "2023-02-15",
+        "symbol": "SNPS",
+        "actualEarningResult": 2.62,
+        "estimatedEarning": 2.5
+    },
+    {
+        "date": "2022-11-30",
+        "symbol": "SNPS",
+        "actualEarningResult": 1.91,
+        "estimatedEarning": 1.84
+    },
+    {
+        "date": "2022-08-17",
+        "symbol": "SNPS",
+        "actualEarningResult": 2.1,
+        "estimatedEarning": 2.04
+    },
+    {
+        "date": "2022-05-18",
+        "symbol": "SNPS",
+        "actualEarningResult": 2.5,
+        "estimatedEarning": 2.37
+    },
+    {
+        "date": "2022-02-16",
+        "symbol": "SNPS",
+        "actualEarningResult": 2.4,
+        "estimatedEarning": 2.37
+    },
+    {
+        "date": "2021-12-01",
+        "symbol": "SNPS",
+        "actualEarningResult": 1.82,
+        "estimatedEarning": 1.78
+    },
+    {
+        "date": "2021-08-18",
+        "symbol": "SNPS",
+        "actualEarningResult": 1.81,
+        "estimatedEarning": 1.78
+    },
+    {
+        "date": "2021-05-19",
+        "symbol": "SNPS",
+        "actualEarningResult": 1.7,
+        "estimatedEarning": 1.52
+    },
+    {
+        "date": "2021-02-17",
+        "symbol": "SNPS",
+        "actualEarningResult": 1.52,
+        "estimatedEarning": 1.45
+    },
+    {
+        "date": "2020-12-02",
+        "symbol": "SNPS",
+        "actualEarningResult": 1.58,
+        "estimatedEarning": 1.58
+    },
+    {
+        "date": "2020-08-19",
+        "symbol": "SNPS",
+        "actualEarningResult": 1.74,
+        "estimatedEarning": 1.35
+    },
+    {
+        "date": "2020-05-20",
+        "symbol": "SNPS",
+        "actualEarningResult": 1.22,
+        "estimatedEarning": 0.99
+    },
+    {
+        "date": "2020-02-19",
+        "symbol": "SNPS",
+        "actualEarningResult": 1.01,
+        "estimatedEarning": 0.92
+    },
+    {
+        "date": "2019-12-04",
+        "symbol": "SNPS",
+        "actualEarningResult": 1.15,
+        "estimatedEarning": 1.13
+    },
+    {
+        "date": "2019-08-21",
+        "symbol": "SNPS",
+        "actualEarningResult": 1.18,
+        "estimatedEarning": 1.1
+    },
+    {
+        "date": "2019-05-22",
+        "symbol": "SNPS",
+        "actualEarningResult": 1.16,
+        "estimatedEarning": 1.09
+    },
+    {
+        "date": "2019-02-20",
+        "symbol": "SNPS",
+        "actualEarningResult": 1.08,
+        "estimatedEarning": 0.97
+    },
+    {
+        "date": "2018-12-05",
+        "symbol": "SNPS",
+        "actualEarningResult": 0.78,
+        "estimatedEarning": 0.78
+    },
+    {
+        "date": "2018-08-22",
+        "symbol": "SNPS",
+        "actualEarningResult": 0.95,
+        "estimatedEarning": 0.92
+    },
+    {
+        "date": "2018-05-23",
+        "symbol": "SNPS",
+        "actualEarningResult": 1.08,
+        "estimatedEarning": 1.08
+    },
+    {
+        "date": "2018-02-21",
+        "symbol": "SNPS",
+        "actualEarningResult": 1.1,
+        "estimatedEarning": 1
+    },
+    {
+        "date": "2017-11-29",
+        "symbol": "SNPS",
+        "actualEarningResult": 0.69,
+        "estimatedEarning": 0.57
+    },
+    {
+        "date": "2017-08-16",
+        "symbol": "SNPS",
+        "actualEarningResult": 0.92,
+        "estimatedEarning": 0.92
+    },
+    {
+        "date": "2017-05-17",
+        "symbol": "SNPS",
+        "actualEarningResult": 0.88,
+        "estimatedEarning": 0.86
+    },
+    {
+        "date": "2017-02-15",
+        "symbol": "SNPS",
+        "actualEarningResult": 0.94,
+        "estimatedEarning": 0.78
+    },
+    {
+        "date": "2016-11-30",
+        "symbol": "SNPS",
+        "actualEarningResult": 0.77,
+        "estimatedEarning": 0.77
+    },
+    {
+        "date": "2016-08-17",
+        "symbol": "SNPS",
+        "actualEarningResult": 0.76,
+        "estimatedEarning": 0.74
+    },
+    {
+        "date": "2016-05-18",
+        "symbol": "SNPS",
+        "actualEarningResult": 0.81,
+        "estimatedEarning": 0.79
+    },
+    {
+        "date": "2016-02-17",
+        "symbol": "SNPS",
+        "actualEarningResult": 0.68,
+        "estimatedEarning": 0.62
+    },
+    {
+        "date": "2015-12-02",
+        "symbol": "SNPS",
+        "actualEarningResult": 0.67,
+        "estimatedEarning": 0.66
+    },
+    {
+        "date": "2015-08-19",
+        "symbol": "SNPS",
+        "actualEarningResult": 0.63,
+        "estimatedEarning": 0.59
+    },
+    {
+        "date": "2015-05-20",
+        "symbol": "SNPS",
+        "actualEarningResult": 0.68,
+        "estimatedEarning": 0.63
+    },
+    {
+        "date": "2015-02-18",
+        "symbol": "SNPS",
+        "actualEarningResult": 0.8,
+        "estimatedEarning": 0.63
+    },
+    {
+        "date": "2014-12-03",
+        "symbol": "SNPS",
+        "actualEarningResult": 0.64,
+        "estimatedEarning": 0.61
+    },
+    {
+        "date": "2014-08-20",
+        "symbol": "SNPS",
+        "actualEarningResult": 0.65,
+        "estimatedEarning": 0.61
+    },
+    {
+        "date": "2014-05-21",
+        "symbol": "SNPS",
+        "actualEarningResult": 0.65,
+        "estimatedEarning": 0.6
+    },
+    {
+        "date": "2014-02-19",
+        "symbol": "SNPS",
+        "actualEarningResult": 0.59,
+        "estimatedEarning": 0.52
+    },
+    {
+        "date": "2013-12-04",
+        "symbol": "SNPS",
+        "actualEarningResult": 0.56,
+        "estimatedEarning": 0.55
+    },
+    {
+        "date": "2013-08-21",
+        "symbol": "SNPS",
+        "actualEarningResult": 0.55,
+        "estimatedEarning": 0.54
+    },
+    {
+        "date": "2013-05-22",
+        "symbol": "SNPS",
+        "actualEarningResult": 0.66,
+        "estimatedEarning": 0.63
+    },
+    {
+        "date": "2013-02-20",
+        "symbol": "SNPS",
+        "actualEarningResult": 0.67,
+        "estimatedEarning": 0.55
+    },
+    {
+        "date": "2012-12-05",
+        "symbol": "SNPS",
+        "actualEarningResult": 0.47,
+        "estimatedEarning": 0.47
+    },
+    {
+        "date": "2012-08-22",
+        "symbol": "SNPS",
+        "actualEarningResult": 0.55,
+        "estimatedEarning": 0.5
+    },
+    {
+        "date": "2012-05-23",
+        "symbol": "SNPS",
+        "actualEarningResult": 0.53,
+        "estimatedEarning": 0.55
+    },
+    {
+        "date": "2012-02-22",
+        "symbol": "SNPS",
+        "actualEarningResult": 0.56,
+        "estimatedEarning": 0.52
+    },
+    {
+        "date": "2011-11-30",
+        "symbol": "SNPS",
+        "actualEarningResult": 0.45,
+        "estimatedEarning": 0.45
+    },
+    {
+        "date": "2011-08-17",
+        "symbol": "SNPS",
+        "actualEarningResult": 0.46,
+        "estimatedEarning": 0.43
+    },
+    {
+        "date": "2011-05-18",
+        "symbol": "SNPS",
+        "actualEarningResult": 0.45,
+        "estimatedEarning": 0.45
+    },
+    {
+        "date": "2011-02-16",
+        "symbol": "SNPS",
+        "actualEarningResult": 0.44,
+        "estimatedEarning": 0.4
+    },
+    {
+        "date": "2010-12-01",
+        "symbol": "SNPS",
+        "actualEarningResult": 0.39,
+        "estimatedEarning": 0.39
+    },
+    {
+        "date": "2010-08-18",
+        "symbol": "SNPS",
+        "actualEarningResult": 0.39,
+        "estimatedEarning": 0.38
+    },
+    {
+        "date": "2010-05-19",
+        "symbol": "SNPS",
+        "actualEarningResult": 0.41,
+        "estimatedEarning": 0.39
+    },
+    {
+        "date": "2010-02-17",
+        "symbol": "SNPS",
+        "actualEarningResult": 0.41,
+        "estimatedEarning": 0.39
+    },
+    {
+        "date": "2009-12-02",
+        "symbol": "SNPS",
+        "actualEarningResult": 0.33,
+        "estimatedEarning": 0.32
+    },
+    {
+        "date": "2009-08-19",
+        "symbol": "SNPS",
+        "actualEarningResult": 0.47,
+        "estimatedEarning": 0.41
+    },
+    {
+        "date": "2009-05-20",
+        "symbol": "SNPS",
+        "actualEarningResult": 0.45,
+        "estimatedEarning": 0.4
+    },
+    {
+        "date": "2009-02-18",
+        "symbol": "SNPS",
+        "actualEarningResult": 0.5,
+        "estimatedEarning": 0.41
+    },
+    {
+        "date": "2008-12-03",
+        "symbol": "SNPS",
+        "actualEarningResult": 0.43,
+        "estimatedEarning": 0.38
+    },
+    {
+        "date": "2008-08-20",
+        "symbol": "SNPS",
+        "actualEarningResult": 0.44,
+        "estimatedEarning": 0.39
+    },
+    {
+        "date": "2008-05-21",
+        "symbol": "SNPS",
+        "actualEarningResult": 0.41,
+        "estimatedEarning": 0.38
+    },
+    {
+        "date": "2008-02-20",
+        "symbol": "SNPS",
+        "actualEarningResult": 0.44,
+        "estimatedEarning": 0.38
+    },
+    {
+        "date": "2007-12-06",
+        "symbol": "SNPS",
+        "actualEarningResult": 0.4,
+        "estimatedEarning": 0.36
+    },
+    {
+        "date": "2007-08-22",
+        "symbol": "SNPS",
+        "actualEarningResult": 0.32,
+        "estimatedEarning": 0.3
+    },
+    {
+        "date": "2007-05-23",
+        "symbol": "SNPS",
+        "actualEarningResult": 0.35,
+        "estimatedEarning": 0.28
+    },
+    {
+        "date": "2007-02-21",
+        "symbol": "SNPS",
+        "actualEarningResult": 0.3,
+        "estimatedEarning": 0.27
+    },
+    {
+        "date": "2006-11-29",
+        "symbol": "SNPS",
+        "actualEarningResult": 0.21,
+        "estimatedEarning": 0.19
+    },
+    {
+        "date": "2006-08-16",
+        "symbol": "SNPS",
+        "actualEarningResult": 0.21,
+        "estimatedEarning": 0.19
+    },
+    {
+        "date": "2006-05-17",
+        "symbol": "SNPS",
+        "actualEarningResult": 0.17,
+        "estimatedEarning": 0.15
+    },
+    {
+        "date": "2006-02-15",
+        "symbol": "SNPS",
+        "actualEarningResult": 0.18,
+        "estimatedEarning": 0.14
+    },
+    {
+        "date": "2005-11-30",
+        "symbol": "SNPS",
+        "actualEarningResult": 0.1,
+        "estimatedEarning": 0.1
+    },
+    {
+        "date": "2005-08-17",
+        "symbol": "SNPS",
+        "actualEarningResult": 0.1,
+        "estimatedEarning": 0.08
+    },
+    {
+        "date": "2005-05-18",
+        "symbol": "SNPS",
+        "actualEarningResult": 0.09,
+        "estimatedEarning": 0.09
+    },
+    {
+        "date": "2005-02-16",
+        "symbol": "SNPS",
+        "actualEarningResult": 0.1,
+        "estimatedEarning": 0.06
+    },
+    {
+        "date": "2004-12-01",
+        "symbol": "SNPS",
+        "actualEarningResult": -0.177,
+        "estimatedEarning": -0.10344
+    },
+    {
+        "date": "2004-08-18",
+        "symbol": "SNPS",
+        "actualEarningResult": 0.33,
+        "estimatedEarning": 0.32
+    },
+    {
+        "date": "2004-05-19",
+        "symbol": "SNPS",
+        "actualEarningResult": 0.35,
+        "estimatedEarning": 0.33
+    },
+    {
+        "date": "2004-02-23",
+        "symbol": "SNPS",
+        "actualEarningResult": 0.33,
+        "estimatedEarning": 0.31
+    },
+    {
+        "date": "2003-12-03",
+        "symbol": "SNPS",
+        "actualEarningResult": 0.44,
+        "estimatedEarning": 0.42
+    },
+    {
+        "date": "2003-08-20",
+        "symbol": "SNPS",
+        "actualEarningResult": 0.41,
+        "estimatedEarning": 0.4
+    },
+    {
+        "date": "2003-05-21",
+        "symbol": "SNPS",
+        "actualEarningResult": 0.4,
+        "estimatedEarning": 0.35
+    },
+    {
+        "date": "2003-02-19",
+        "symbol": "SNPS",
+        "actualEarningResult": 0.34,
+        "estimatedEarning": 0.32
+    },
+    {
+        "date": "2002-12-04",
+        "symbol": "SNPS",
+        "actualEarningResult": 0.48,
+        "estimatedEarning": 0.47
+    },
+    {
+        "date": "2002-08-21",
+        "symbol": "SNPS",
+        "actualEarningResult": 0.27,
+        "estimatedEarning": 0.26
+    },
+    {
+        "date": "2002-06-04",
+        "symbol": "SNPS",
+        "actualEarningResult": 0.2,
+        "estimatedEarning": 0.18
+    },
+    {
+        "date": "2002-02-20",
+        "symbol": "SNPS",
+        "actualEarningResult": 0.14,
+        "estimatedEarning": 0.13
+    },
+    {
+        "date": "2001-12-03",
+        "symbol": "SNPS",
+        "actualEarningResult": 0.2,
+        "estimatedEarning": 0.18
+    },
+    {
+        "date": "2001-08-22",
+        "symbol": "SNPS",
+        "actualEarningResult": 0.14,
+        "estimatedEarning": 0.15
+    },
+    {
+        "date": "2001-05-23",
+        "symbol": "SNPS",
+        "actualEarningResult": 0.12,
+        "estimatedEarning": 0.1
+    },
+    {
+        "date": "2001-01-26",
+        "symbol": "SNPS",
+        "actualEarningResult": 0.07253,
+        "estimatedEarning": -0.22
+    },
+    {
+        "date": "2000-12-15",
+        "symbol": "SNPS",
+        "actualEarningResult": -0.15998,
+        "estimatedEarning": -0.16
+    },
+    {
+        "date": "2000-08-16",
+        "symbol": "SNPS",
+        "actualEarningResult": 0.3,
+        "estimatedEarning": 0.31
+    },
+    {
+        "date": "2000-05-18",
+        "symbol": "SNPS",
+        "actualEarningResult": 0.27,
+        "estimatedEarning": 0.25
+    },
+    {
+        "date": "2000-02-17",
+        "symbol": "SNPS",
+        "actualEarningResult": 0.34,
+        "estimatedEarning": 0.34
+    },
+    {
+        "date": "1999-10-26",
+        "symbol": "SNPS",
+        "actualEarningResult": 0.36,
+        "estimatedEarning": 0.35
+    },
+    {
+        "date": "1999-07-27",
+        "symbol": "SNPS",
+        "actualEarningResult": 0.34,
+        "estimatedEarning": 0.32
+    },
+    {
+        "date": "1999-04-22",
+        "symbol": "SNPS",
+        "actualEarningResult": 0.3,
+        "estimatedEarning": 0.3
+    },
+    {
+        "date": "1999-01-20",
+        "symbol": "SNPS",
+        "actualEarningResult": 0.28,
+        "estimatedEarning": 0.28
+    },
+    {
+        "date": "1998-10-27",
+        "symbol": "SNPS",
+        "actualEarningResult": 0.29,
+        "estimatedEarning": 0.28
+    },
+    {
+        "date": "1998-07-21",
+        "symbol": "SNPS",
+        "actualEarningResult": 0.27,
+        "estimatedEarning": 0.26
+    },
+    {
+        "date": "1998-04-27",
+        "symbol": "SNPS",
+        "actualEarningResult": 0.25,
+        "estimatedEarning": 0.24
+    },
+    {
+        "date": "1998-01-29",
+        "symbol": "SNPS",
+        "actualEarningResult": 0.18,
+        "estimatedEarning": 0.19
+    },
+    {
+        "date": "1997-10-21",
+        "symbol": "SNPS",
+        "actualEarningResult": 0.21,
+        "estimatedEarning": 0.2
+    },
+    {
+        "date": "1997-07-17",
+        "symbol": "SNPS",
+        "actualEarningResult": 0.19,
+        "estimatedEarning": 0.19
+    },
+    {
+        "date": "1997-04-17",
+        "symbol": "SNPS",
+        "actualEarningResult": 0.19,
+        "estimatedEarning": 0.19
+    },
+    {
+        "date": "1997-01-20",
+        "symbol": "SNPS",
+        "actualEarningResult": 0.19,
+        "estimatedEarning": 0.17
+    },
+    {
+        "date": "1996-10-22",
+        "symbol": "SNPS",
+        "actualEarningResult": 0.16,
+        "estimatedEarning": 0.16
+    },
+    {
+        "date": "1996-07-16",
+        "symbol": "SNPS",
+        "actualEarningResult": 0.15,
+        "estimatedEarning": 0.15
+    },
+    {
+        "date": "1996-04-17",
+        "symbol": "SNPS",
+        "actualEarningResult": 0.14,
+        "estimatedEarning": 0.14
+    },
+    {
+        "date": "1996-01-16",
+        "symbol": "SNPS",
+        "actualEarningResult": 0.14,
+        "estimatedEarning": 0.13
+    },
+    {
+        "date": "1995-10-23",
+        "symbol": "SNPS",
+        "actualEarningResult": 0.13,
+        "estimatedEarning": 0.13
+    },
+    {
+        "date": "1995-07-18",
+        "symbol": "SNPS",
+        "actualEarningResult": 0.12,
+        "estimatedEarning": 0.12
+    },
+    {
+        "date": "1995-04-17",
+        "symbol": "SNPS",
+        "actualEarningResult": 0.11,
+        "estimatedEarning": 0.1
+    },
+    {
+        "date": "1995-01-16",
+        "symbol": "SNPS",
+        "actualEarningResult": 0.1,
+        "estimatedEarning": 0.1
+    },
+    {
+        "date": "1994-10-24",
+        "symbol": "SNPS",
+        "actualEarningResult": 0.09,
+        "estimatedEarning": 0.09
+    },
+    {
+        "date": "1994-07-19",
+        "symbol": "SNPS",
+        "actualEarningResult": 0.08,
+        "estimatedEarning": 0.08
+    },
+    {
+        "date": "1994-04-18",
+        "symbol": "SNPS",
+        "actualEarningResult": 0.08,
+        "estimatedEarning": 0.07
+    },
+    {
+        "date": "1994-01-17",
+        "symbol": "SNPS",
+        "actualEarningResult": 0.07,
+        "estimatedEarning": 0.07
+    },
+    {
+        "date": "1993-10-22",
+        "symbol": "SNPS",
+        "actualEarningResult": 0.07,
+        "estimatedEarning": 0.07
+    },
+    {
+        "date": "1993-07-19",
+        "symbol": "SNPS",
+        "actualEarningResult": 0.06,
+        "estimatedEarning": 0.05
+    },
+    {
+        "date": "1993-04-19",
+        "symbol": "SNPS",
+        "actualEarningResult": 0.05,
+        "estimatedEarning": 0.04421
+    },
+    {
+        "date": "1993-01-18",
+        "symbol": "SNPS",
+        "actualEarningResult": 0.04,
+        "estimatedEarning": 0.04
+    }
+]

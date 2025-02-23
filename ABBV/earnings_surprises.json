@@ -1,0 +1,290 @@
+[
+    {
+        "date": "2024-10-30",
+        "symbol": "ABBV",
+        "actualEarningResult": 3,
+        "estimatedEarning": 2.92
+    },
+    {
+        "date": "2024-07-25",
+        "symbol": "ABBV",
+        "actualEarningResult": 2.65,
+        "estimatedEarning": 2.57
+    },
+    {
+        "date": "2024-04-26",
+        "symbol": "ABBV",
+        "actualEarningResult": 2.31,
+        "estimatedEarning": 2.26
+    },
+    {
+        "date": "2024-02-02",
+        "symbol": "ABBV",
+        "actualEarningResult": 2.79,
+        "estimatedEarning": 2.76
+    },
+    {
+        "date": "2023-10-27",
+        "symbol": "ABBV",
+        "actualEarningResult": 2.95,
+        "estimatedEarning": 2.86
+    },
+    {
+        "date": "2023-07-27",
+        "symbol": "ABBV",
+        "actualEarningResult": 2.91,
+        "estimatedEarning": 2.79
+    },
+    {
+        "date": "2023-04-27",
+        "symbol": "ABBV",
+        "actualEarningResult": 2.46,
+        "estimatedEarning": 2.44
+    },
+    {
+        "date": "2023-02-09",
+        "symbol": "ABBV",
+        "actualEarningResult": 3.6,
+        "estimatedEarning": 3.54
+    },
+    {
+        "date": "2022-10-28",
+        "symbol": "ABBV",
+        "actualEarningResult": 3.66,
+        "estimatedEarning": 3.56
+    },
+    {
+        "date": "2022-07-29",
+        "symbol": "ABBV",
+        "actualEarningResult": 3.37,
+        "estimatedEarning": 3.31
+    },
+    {
+        "date": "2022-04-29",
+        "symbol": "ABBV",
+        "actualEarningResult": 3.24,
+        "estimatedEarning": 3.14
+    },
+    {
+        "date": "2022-02-02",
+        "symbol": "ABBV",
+        "actualEarningResult": 3.31,
+        "estimatedEarning": 3.29
+    },
+    {
+        "date": "2021-10-29",
+        "symbol": "ABBV",
+        "actualEarningResult": 3.33,
+        "estimatedEarning": 3.23
+    },
+    {
+        "date": "2021-07-30",
+        "symbol": "ABBV",
+        "actualEarningResult": 3.11,
+        "estimatedEarning": 3.11
+    },
+    {
+        "date": "2021-04-30",
+        "symbol": "ABBV",
+        "actualEarningResult": 2.95,
+        "estimatedEarning": 2.77
+    },
+    {
+        "date": "2021-02-03",
+        "symbol": "ABBV",
+        "actualEarningResult": 2.92,
+        "estimatedEarning": 2.85
+    },
+    {
+        "date": "2020-10-30",
+        "symbol": "ABBV",
+        "actualEarningResult": 2.83,
+        "estimatedEarning": 2.75
+    },
+    {
+        "date": "2020-07-31",
+        "symbol": "ABBV",
+        "actualEarningResult": 2.34,
+        "estimatedEarning": 2.24
+    },
+    {
+        "date": "2020-05-01",
+        "symbol": "ABBV",
+        "actualEarningResult": 2.42,
+        "estimatedEarning": 2.25
+    },
+    {
+        "date": "2020-02-07",
+        "symbol": "ABBV",
+        "actualEarningResult": 2.21,
+        "estimatedEarning": 2.19
+    },
+    {
+        "date": "2019-11-01",
+        "symbol": "ABBV",
+        "actualEarningResult": 2.33,
+        "estimatedEarning": 2.29
+    },
+    {
+        "date": "2019-07-26",
+        "symbol": "ABBV",
+        "actualEarningResult": 2.26,
+        "estimatedEarning": 2.21
+    },
+    {
+        "date": "2019-04-25",
+        "symbol": "ABBV",
+        "actualEarningResult": 2.14,
+        "estimatedEarning": 2.05
+    },
+    {
+        "date": "2019-01-25",
+        "symbol": "ABBV",
+        "actualEarningResult": 1.9,
+        "estimatedEarning": 1.92
+    },
+    {
+        "date": "2018-11-02",
+        "symbol": "ABBV",
+        "actualEarningResult": 2.14,
+        "estimatedEarning": 2.02
+    },
+    {
+        "date": "2018-07-27",
+        "symbol": "ABBV",
+        "actualEarningResult": 2,
+        "estimatedEarning": 1.98
+    },
+    {
+        "date": "2018-04-26",
+        "symbol": "ABBV",
+        "actualEarningResult": 1.87,
+        "estimatedEarning": 1.79
+    },
+    {
+        "date": "2018-01-26",
+        "symbol": "ABBV",
+        "actualEarningResult": 1.48,
+        "estimatedEarning": 1.44
+    },
+    {
+        "date": "2017-10-27",
+        "symbol": "ABBV",
+        "actualEarningResult": 1.41,
+        "estimatedEarning": 1.39
+    },
+    {
+        "date": "2017-07-28",
+        "symbol": "ABBV",
+        "actualEarningResult": 1.42,
+        "estimatedEarning": 1.4
+    },
+    {
+        "date": "2017-04-27",
+        "symbol": "ABBV",
+        "actualEarningResult": 1.28,
+        "estimatedEarning": 1.26
+    },
+    {
+        "date": "2017-01-27",
+        "symbol": "ABBV",
+        "actualEarningResult": 1.2,
+        "estimatedEarning": 1.2
+    },
+    {
+        "date": "2016-10-28",
+        "symbol": "ABBV",
+        "actualEarningResult": 1.21,
+        "estimatedEarning": 1.2
+    },
+    {
+        "date": "2016-07-29",
+        "symbol": "ABBV",
+        "actualEarningResult": 1.26,
+        "estimatedEarning": 1.2
+    },
+    {
+        "date": "2016-04-28",
+        "symbol": "ABBV",
+        "actualEarningResult": 1.15,
+        "estimatedEarning": 1.12
+    },
+    {
+        "date": "2016-01-29",
+        "symbol": "ABBV",
+        "actualEarningResult": 1.13,
+        "estimatedEarning": 1.12
+    },
+    {
+        "date": "2015-10-30",
+        "symbol": "ABBV",
+        "actualEarningResult": 1.13,
+        "estimatedEarning": 1.07
+    },
+    {
+        "date": "2015-07-24",
+        "symbol": "ABBV",
+        "actualEarningResult": 1.08,
+        "estimatedEarning": 1.06
+    },
+    {
+        "date": "2015-04-23",
+        "symbol": "ABBV",
+        "actualEarningResult": 0.94,
+        "estimatedEarning": 0.84
+    },
+    {
+        "date": "2015-01-30",
+        "symbol": "ABBV",
+        "actualEarningResult": 0.89,
+        "estimatedEarning": 0.85
+    },
+    {
+        "date": "2014-10-31",
+        "symbol": "ABBV",
+        "actualEarningResult": 0.89,
+        "estimatedEarning": 0.78
+    },
+    {
+        "date": "2014-07-25",
+        "symbol": "ABBV",
+        "actualEarningResult": 0.82,
+        "estimatedEarning": 0.76
+    },
+    {
+        "date": "2014-04-25",
+        "symbol": "ABBV",
+        "actualEarningResult": 0.71,
+        "estimatedEarning": 0.68
+    },
+    {
+        "date": "2014-01-31",
+        "symbol": "ABBV",
+        "actualEarningResult": 0.82,
+        "estimatedEarning": 0.82
+    },
+    {
+        "date": "2013-10-25",
+        "symbol": "ABBV",
+        "actualEarningResult": 0.82,
+        "estimatedEarning": 0.78
+    },
+    {
+        "date": "2013-07-26",
+        "symbol": "ABBV",
+        "actualEarningResult": 0.82,
+        "estimatedEarning": 0.79
+    },
+    {
+        "date": "2013-04-26",
+        "symbol": "ABBV",
+        "actualEarningResult": 0.68,
+        "estimatedEarning": 0.67
+    },
+    {
+        "date": "2013-01-23",
+        "symbol": "ABBV",
+        "actualEarningResult": 0.96,
+        "estimatedEarning": 0.99
+    }
+]

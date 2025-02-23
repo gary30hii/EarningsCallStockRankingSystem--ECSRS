@@ -1,0 +1,770 @@
+[
+    {
+        "date": "2024-10-30",
+        "symbol": "AFL",
+        "actualEarningResult": 2.16,
+        "estimatedEarning": 1.69
+    },
+    {
+        "date": "2024-07-31",
+        "symbol": "AFL",
+        "actualEarningResult": 1.83,
+        "estimatedEarning": 1.6
+    },
+    {
+        "date": "2024-05-01",
+        "symbol": "AFL",
+        "actualEarningResult": 1.66,
+        "estimatedEarning": 1.58
+    },
+    {
+        "date": "2024-01-31",
+        "symbol": "AFL",
+        "actualEarningResult": 1.25,
+        "estimatedEarning": 1.45
+    },
+    {
+        "date": "2023-11-01",
+        "symbol": "AFL",
+        "actualEarningResult": 1.84,
+        "estimatedEarning": 1.44
+    },
+    {
+        "date": "2023-08-01",
+        "symbol": "AFL",
+        "actualEarningResult": 1.58,
+        "estimatedEarning": 1.42
+    },
+    {
+        "date": "2023-04-26",
+        "symbol": "AFL",
+        "actualEarningResult": 1.55,
+        "estimatedEarning": 1.4
+    },
+    {
+        "date": "2023-02-01",
+        "symbol": "AFL",
+        "actualEarningResult": 1.29,
+        "estimatedEarning": 1.21
+    },
+    {
+        "date": "2022-10-31",
+        "symbol": "AFL",
+        "actualEarningResult": 1.23,
+        "estimatedEarning": 1.22
+    },
+    {
+        "date": "2022-08-01",
+        "symbol": "AFL",
+        "actualEarningResult": 1.46,
+        "estimatedEarning": 1.29
+    },
+    {
+        "date": "2022-04-27",
+        "symbol": "AFL",
+        "actualEarningResult": 1.42,
+        "estimatedEarning": 1.37
+    },
+    {
+        "date": "2022-02-02",
+        "symbol": "AFL",
+        "actualEarningResult": 1.28,
+        "estimatedEarning": 1.27
+    },
+    {
+        "date": "2021-10-27",
+        "symbol": "AFL",
+        "actualEarningResult": 1.53,
+        "estimatedEarning": 1.32
+    },
+    {
+        "date": "2021-07-28",
+        "symbol": "AFL",
+        "actualEarningResult": 1.59,
+        "estimatedEarning": 1.27
+    },
+    {
+        "date": "2021-04-28",
+        "symbol": "AFL",
+        "actualEarningResult": 1.53,
+        "estimatedEarning": 1.21
+    },
+    {
+        "date": "2021-02-03",
+        "symbol": "AFL",
+        "actualEarningResult": 1.07,
+        "estimatedEarning": 1.05
+    },
+    {
+        "date": "2020-10-27",
+        "symbol": "AFL",
+        "actualEarningResult": 1.39,
+        "estimatedEarning": 1.12
+    },
+    {
+        "date": "2020-07-28",
+        "symbol": "AFL",
+        "actualEarningResult": 1.28,
+        "estimatedEarning": 1.07
+    },
+    {
+        "date": "2020-04-29",
+        "symbol": "AFL",
+        "actualEarningResult": 1.21,
+        "estimatedEarning": 1.11
+    },
+    {
+        "date": "2020-02-04",
+        "symbol": "AFL",
+        "actualEarningResult": 1.03,
+        "estimatedEarning": 1.02
+    },
+    {
+        "date": "2019-10-24",
+        "symbol": "AFL",
+        "actualEarningResult": 1.16,
+        "estimatedEarning": 1.07
+    },
+    {
+        "date": "2019-07-25",
+        "symbol": "AFL",
+        "actualEarningResult": 1.13,
+        "estimatedEarning": 1.07
+    },
+    {
+        "date": "2019-04-25",
+        "symbol": "AFL",
+        "actualEarningResult": 1.12,
+        "estimatedEarning": 1.06
+    },
+    {
+        "date": "2019-01-31",
+        "symbol": "AFL",
+        "actualEarningResult": 1.02,
+        "estimatedEarning": 0.94
+    },
+    {
+        "date": "2018-10-24",
+        "symbol": "AFL",
+        "actualEarningResult": 1.03,
+        "estimatedEarning": 0.99
+    },
+    {
+        "date": "2018-07-26",
+        "symbol": "AFL",
+        "actualEarningResult": 1.06,
+        "estimatedEarning": 0.99
+    },
+    {
+        "date": "2018-04-25",
+        "symbol": "AFL",
+        "actualEarningResult": 1.02,
+        "estimatedEarning": 0.97
+    },
+    {
+        "date": "2018-01-31",
+        "symbol": "AFL",
+        "actualEarningResult": 0.8,
+        "estimatedEarning": 0.78
+    },
+    {
+        "date": "2017-10-25",
+        "symbol": "AFL",
+        "actualEarningResult": 0.85,
+        "estimatedEarning": 0.82
+    },
+    {
+        "date": "2017-07-27",
+        "symbol": "AFL",
+        "actualEarningResult": 0.92,
+        "estimatedEarning": 0.83
+    },
+    {
+        "date": "2017-04-27",
+        "symbol": "AFL",
+        "actualEarningResult": 0.84,
+        "estimatedEarning": 0.81
+    },
+    {
+        "date": "2017-01-31",
+        "symbol": "AFL",
+        "actualEarningResult": 0.73,
+        "estimatedEarning": 0.81
+    },
+    {
+        "date": "2016-10-27",
+        "symbol": "AFL",
+        "actualEarningResult": 0.91,
+        "estimatedEarning": 0.87
+    },
+    {
+        "date": "2016-07-28",
+        "symbol": "AFL",
+        "actualEarningResult": 0.86,
+        "estimatedEarning": 0.84
+    },
+    {
+        "date": "2016-04-26",
+        "symbol": "AFL",
+        "actualEarningResult": 0.87,
+        "estimatedEarning": 0.81
+    },
+    {
+        "date": "2016-02-01",
+        "symbol": "AFL",
+        "actualEarningResult": 0.78,
+        "estimatedEarning": 0.74
+    },
+    {
+        "date": "2015-10-27",
+        "symbol": "AFL",
+        "actualEarningResult": 0.78,
+        "estimatedEarning": 0.74
+    },
+    {
+        "date": "2015-07-28",
+        "symbol": "AFL",
+        "actualEarningResult": 0.75,
+        "estimatedEarning": 0.76
+    },
+    {
+        "date": "2015-04-28",
+        "symbol": "AFL",
+        "actualEarningResult": 0.77,
+        "estimatedEarning": 0.77
+    },
+    {
+        "date": "2015-02-03",
+        "symbol": "AFL",
+        "actualEarningResult": 0.65,
+        "estimatedEarning": 0.64
+    },
+    {
+        "date": "2014-10-28",
+        "symbol": "AFL",
+        "actualEarningResult": 0.76,
+        "estimatedEarning": 0.71
+    },
+    {
+        "date": "2014-07-29",
+        "symbol": "AFL",
+        "actualEarningResult": 0.83,
+        "estimatedEarning": 0.8
+    },
+    {
+        "date": "2014-04-29",
+        "symbol": "AFL",
+        "actualEarningResult": 0.85,
+        "estimatedEarning": 0.79
+    },
+    {
+        "date": "2014-02-04",
+        "symbol": "AFL",
+        "actualEarningResult": 0.7,
+        "estimatedEarning": 0.69
+    },
+    {
+        "date": "2013-10-29",
+        "symbol": "AFL",
+        "actualEarningResult": 0.74,
+        "estimatedEarning": 0.74
+    },
+    {
+        "date": "2013-07-30",
+        "symbol": "AFL",
+        "actualEarningResult": 0.81,
+        "estimatedEarning": 0.76
+    },
+    {
+        "date": "2013-04-24",
+        "symbol": "AFL",
+        "actualEarningResult": 0.85,
+        "estimatedEarning": 0.81
+    },
+    {
+        "date": "2013-02-05",
+        "symbol": "AFL",
+        "actualEarningResult": 0.74,
+        "estimatedEarning": 0.74
+    },
+    {
+        "date": "2012-10-23",
+        "symbol": "AFL",
+        "actualEarningResult": 0.89,
+        "estimatedEarning": 0.83
+    },
+    {
+        "date": "2012-07-24",
+        "symbol": "AFL",
+        "actualEarningResult": 0.81,
+        "estimatedEarning": 0.8
+    },
+    {
+        "date": "2012-04-24",
+        "symbol": "AFL",
+        "actualEarningResult": 0.83,
+        "estimatedEarning": 0.82
+    },
+    {
+        "date": "2012-01-31",
+        "symbol": "AFL",
+        "actualEarningResult": 0.74,
+        "estimatedEarning": 0.75
+    },
+    {
+        "date": "2011-10-26",
+        "symbol": "AFL",
+        "actualEarningResult": 0.83,
+        "estimatedEarning": 0.8
+    },
+    {
+        "date": "2011-07-27",
+        "symbol": "AFL",
+        "actualEarningResult": 0.78,
+        "estimatedEarning": 0.77
+    },
+    {
+        "date": "2011-04-27",
+        "symbol": "AFL",
+        "actualEarningResult": 0.82,
+        "estimatedEarning": 0.76
+    },
+    {
+        "date": "2011-02-01",
+        "symbol": "AFL",
+        "actualEarningResult": 0.67,
+        "estimatedEarning": 0.68
+    },
+    {
+        "date": "2010-10-26",
+        "symbol": "AFL",
+        "actualEarningResult": 0.73,
+        "estimatedEarning": 0.7
+    },
+    {
+        "date": "2010-07-27",
+        "symbol": "AFL",
+        "actualEarningResult": 0.68,
+        "estimatedEarning": 0.67
+    },
+    {
+        "date": "2010-04-27",
+        "symbol": "AFL",
+        "actualEarningResult": 0.71,
+        "estimatedEarning": 0.66
+    },
+    {
+        "date": "2010-02-02",
+        "symbol": "AFL",
+        "actualEarningResult": 0.59,
+        "estimatedEarning": 0.58
+    },
+    {
+        "date": "2009-10-28",
+        "symbol": "AFL",
+        "actualEarningResult": 0.63,
+        "estimatedEarning": 0.6
+    },
+    {
+        "date": "2009-07-29",
+        "symbol": "AFL",
+        "actualEarningResult": 0.6,
+        "estimatedEarning": 0.57
+    },
+    {
+        "date": "2009-04-29",
+        "symbol": "AFL",
+        "actualEarningResult": 0.61,
+        "estimatedEarning": 0.58
+    },
+    {
+        "date": "2009-02-02",
+        "symbol": "AFL",
+        "actualEarningResult": 0.49,
+        "estimatedEarning": 0.5
+    },
+    {
+        "date": "2008-10-23",
+        "symbol": "AFL",
+        "actualEarningResult": 0.51,
+        "estimatedEarning": 0.5
+    },
+    {
+        "date": "2008-07-23",
+        "symbol": "AFL",
+        "actualEarningResult": 0.51,
+        "estimatedEarning": 0.5
+    },
+    {
+        "date": "2008-04-23",
+        "symbol": "AFL",
+        "actualEarningResult": 0.49,
+        "estimatedEarning": 0.48
+    },
+    {
+        "date": "2008-01-30",
+        "symbol": "AFL",
+        "actualEarningResult": 0.39,
+        "estimatedEarning": 0.4
+    },
+    {
+        "date": "2007-10-23",
+        "symbol": "AFL",
+        "actualEarningResult": 0.43,
+        "estimatedEarning": 0.41
+    },
+    {
+        "date": "2007-07-24",
+        "symbol": "AFL",
+        "actualEarningResult": 0.41,
+        "estimatedEarning": 0.41
+    },
+    {
+        "date": "2007-04-24",
+        "symbol": "AFL",
+        "actualEarningResult": 0.41,
+        "estimatedEarning": 0.4
+    },
+    {
+        "date": "2007-01-30",
+        "symbol": "AFL",
+        "actualEarningResult": 0.33,
+        "estimatedEarning": 0.33
+    },
+    {
+        "date": "2006-10-24",
+        "symbol": "AFL",
+        "actualEarningResult": 0.36,
+        "estimatedEarning": 0.36
+    },
+    {
+        "date": "2006-07-25",
+        "symbol": "AFL",
+        "actualEarningResult": 0.38,
+        "estimatedEarning": 0.35
+    },
+    {
+        "date": "2006-04-25",
+        "symbol": "AFL",
+        "actualEarningResult": 0.36,
+        "estimatedEarning": 0.35
+    },
+    {
+        "date": "2006-01-30",
+        "symbol": "AFL",
+        "actualEarningResult": 0.3,
+        "estimatedEarning": 0.31
+    },
+    {
+        "date": "2005-10-24",
+        "symbol": "AFL",
+        "actualEarningResult": 0.33,
+        "estimatedEarning": 0.32
+    },
+    {
+        "date": "2005-07-26",
+        "symbol": "AFL",
+        "actualEarningResult": 0.32,
+        "estimatedEarning": 0.32
+    },
+    {
+        "date": "2005-04-26",
+        "symbol": "AFL",
+        "actualEarningResult": 0.33,
+        "estimatedEarning": 0.31
+    },
+    {
+        "date": "2005-01-31",
+        "symbol": "AFL",
+        "actualEarningResult": 0.3,
+        "estimatedEarning": 0.29
+    },
+    {
+        "date": "2004-10-26",
+        "symbol": "AFL",
+        "actualEarningResult": 0.29,
+        "estimatedEarning": 0.29
+    },
+    {
+        "date": "2004-07-27",
+        "symbol": "AFL",
+        "actualEarningResult": 0.28,
+        "estimatedEarning": 0.28
+    },
+    {
+        "date": "2004-04-27",
+        "symbol": "AFL",
+        "actualEarningResult": 0.28,
+        "estimatedEarning": 0.27
+    },
+    {
+        "date": "2004-02-02",
+        "symbol": "AFL",
+        "actualEarningResult": 0.25,
+        "estimatedEarning": 0.25
+    },
+    {
+        "date": "2003-10-22",
+        "symbol": "AFL",
+        "actualEarningResult": 0.24,
+        "estimatedEarning": 0.23
+    },
+    {
+        "date": "2003-07-23",
+        "symbol": "AFL",
+        "actualEarningResult": 0.23,
+        "estimatedEarning": 0.23
+    },
+    {
+        "date": "2003-04-23",
+        "symbol": "AFL",
+        "actualEarningResult": 0.23,
+        "estimatedEarning": 0.22
+    },
+    {
+        "date": "2003-01-30",
+        "symbol": "AFL",
+        "actualEarningResult": 0.21,
+        "estimatedEarning": 0.21
+    },
+    {
+        "date": "2002-10-22",
+        "symbol": "AFL",
+        "actualEarningResult": 0.2,
+        "estimatedEarning": 0.2
+    },
+    {
+        "date": "2002-07-23",
+        "symbol": "AFL",
+        "actualEarningResult": 0.19,
+        "estimatedEarning": 0.19
+    },
+    {
+        "date": "2002-04-23",
+        "symbol": "AFL",
+        "actualEarningResult": 0.18,
+        "estimatedEarning": 0.18
+    },
+    {
+        "date": "2002-01-31",
+        "symbol": "AFL",
+        "actualEarningResult": 0.17,
+        "estimatedEarning": 0.17
+    },
+    {
+        "date": "2001-10-24",
+        "symbol": "AFL",
+        "actualEarningResult": 0.17,
+        "estimatedEarning": 0.17
+    },
+    {
+        "date": "2001-07-24",
+        "symbol": "AFL",
+        "actualEarningResult": 0.17,
+        "estimatedEarning": 0.16
+    },
+    {
+        "date": "2001-04-24",
+        "symbol": "AFL",
+        "actualEarningResult": 0.17,
+        "estimatedEarning": 0.16
+    },
+    {
+        "date": "2001-01-29",
+        "symbol": "AFL",
+        "actualEarningResult": 0.16,
+        "estimatedEarning": 0.15
+    },
+    {
+        "date": "2000-10-24",
+        "symbol": "AFL",
+        "actualEarningResult": 0.16,
+        "estimatedEarning": 0.15
+    },
+    {
+        "date": "2000-07-25",
+        "symbol": "AFL",
+        "actualEarningResult": 0.15,
+        "estimatedEarning": 0.15
+    },
+    {
+        "date": "2000-04-25",
+        "symbol": "AFL",
+        "actualEarningResult": 0.14,
+        "estimatedEarning": 0.14
+    },
+    {
+        "date": "2000-01-27",
+        "symbol": "AFL",
+        "actualEarningResult": 0.13,
+        "estimatedEarning": 0.13
+    },
+    {
+        "date": "1999-10-26",
+        "symbol": "AFL",
+        "actualEarningResult": 0.13,
+        "estimatedEarning": 0.13
+    },
+    {
+        "date": "1999-07-27",
+        "symbol": "AFL",
+        "actualEarningResult": 0.12,
+        "estimatedEarning": 0.12
+    },
+    {
+        "date": "1999-04-27",
+        "symbol": "AFL",
+        "actualEarningResult": 0.13,
+        "estimatedEarning": 0.12
+    },
+    {
+        "date": "1999-01-28",
+        "symbol": "AFL",
+        "actualEarningResult": 0.11,
+        "estimatedEarning": 0.1
+    },
+    {
+        "date": "1998-10-26",
+        "symbol": "AFL",
+        "actualEarningResult": 0.1,
+        "estimatedEarning": 0.09
+    },
+    {
+        "date": "1998-07-27",
+        "symbol": "AFL",
+        "actualEarningResult": 0.1,
+        "estimatedEarning": 0.09
+    },
+    {
+        "date": "1998-04-27",
+        "symbol": "AFL",
+        "actualEarningResult": 0.09,
+        "estimatedEarning": 0.09
+    },
+    {
+        "date": "1998-01-29",
+        "symbol": "AFL",
+        "actualEarningResult": 0.09,
+        "estimatedEarning": 0.08
+    },
+    {
+        "date": "1997-10-21",
+        "symbol": "AFL",
+        "actualEarningResult": 0.09,
+        "estimatedEarning": 0.08
+    },
+    {
+        "date": "1997-07-22",
+        "symbol": "AFL",
+        "actualEarningResult": 0.08,
+        "estimatedEarning": 0.08
+    },
+    {
+        "date": "1997-04-22",
+        "symbol": "AFL",
+        "actualEarningResult": 0.08,
+        "estimatedEarning": 0.08
+    },
+    {
+        "date": "1997-01-29",
+        "symbol": "AFL",
+        "actualEarningResult": 0.08,
+        "estimatedEarning": 0.08
+    },
+    {
+        "date": "1996-10-22",
+        "symbol": "AFL",
+        "actualEarningResult": 0.08,
+        "estimatedEarning": 0.08
+    },
+    {
+        "date": "1996-07-23",
+        "symbol": "AFL",
+        "actualEarningResult": 0.07,
+        "estimatedEarning": 0.07
+    },
+    {
+        "date": "1996-04-23",
+        "symbol": "AFL",
+        "actualEarningResult": 0.07,
+        "estimatedEarning": 0.07
+    },
+    {
+        "date": "1996-01-29",
+        "symbol": "AFL",
+        "actualEarningResult": 0.07,
+        "estimatedEarning": 0.07
+    },
+    {
+        "date": "1995-10-25",
+        "symbol": "AFL",
+        "actualEarningResult": 0.07,
+        "estimatedEarning": 0.07
+    },
+    {
+        "date": "1995-07-25",
+        "symbol": "AFL",
+        "actualEarningResult": 0.08,
+        "estimatedEarning": 0.07
+    },
+    {
+        "date": "1995-04-25",
+        "symbol": "AFL",
+        "actualEarningResult": 0.07,
+        "estimatedEarning": 0.07
+    },
+    {
+        "date": "1995-01-30",
+        "symbol": "AFL",
+        "actualEarningResult": 0.06,
+        "estimatedEarning": 0.06
+    },
+    {
+        "date": "1994-10-26",
+        "symbol": "AFL",
+        "actualEarningResult": 0.06,
+        "estimatedEarning": 0.06
+    },
+    {
+        "date": "1994-07-26",
+        "symbol": "AFL",
+        "actualEarningResult": 0.06,
+        "estimatedEarning": 0.06
+    },
+    {
+        "date": "1994-04-26",
+        "symbol": "AFL",
+        "actualEarningResult": 0.06,
+        "estimatedEarning": 0.05
+    },
+    {
+        "date": "1994-01-31",
+        "symbol": "AFL",
+        "actualEarningResult": 0.05,
+        "estimatedEarning": 0.05
+    },
+    {
+        "date": "1993-10-26",
+        "symbol": "AFL",
+        "actualEarningResult": 0.05,
+        "estimatedEarning": 0.05
+    },
+    {
+        "date": "1993-07-28",
+        "symbol": "AFL",
+        "actualEarningResult": 0.05,
+        "estimatedEarning": 0.04703
+    },
+    {
+        "date": "1993-04-27",
+        "symbol": "AFL",
+        "actualEarningResult": 0.04,
+        "estimatedEarning": 0.03854
+    },
+    {
+        "date": "1993-02-03",
+        "symbol": "AFL",
+        "actualEarningResult": 0.04,
+        "estimatedEarning": 0.03876
+    }
+]

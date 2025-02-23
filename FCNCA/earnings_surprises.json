@@ -1,0 +1,164 @@
+[
+    {
+        "date": "2024-10-24",
+        "symbol": "FCNCA",
+        "actualEarningResult": 45.87,
+        "estimatedEarning": 47.4
+    },
+    {
+        "date": "2024-07-25",
+        "symbol": "FCNCA",
+        "actualEarningResult": 50.87,
+        "estimatedEarning": 44.78
+    },
+    {
+        "date": "2024-04-25",
+        "symbol": "FCNCA",
+        "actualEarningResult": 52.92,
+        "estimatedEarning": 43.34
+    },
+    {
+        "date": "2024-01-26",
+        "symbol": "FCNCA",
+        "actualEarningResult": 46.58,
+        "estimatedEarning": 48.49
+    },
+    {
+        "date": "2023-10-26",
+        "symbol": "FCNCA",
+        "actualEarningResult": 55.92,
+        "estimatedEarning": 47.94
+    },
+    {
+        "date": "2023-08-03",
+        "symbol": "FCNCA",
+        "actualEarningResult": 52.6,
+        "estimatedEarning": 45.92
+    },
+    {
+        "date": "2023-05-10",
+        "symbol": "FCNCA",
+        "actualEarningResult": 20.09,
+        "estimatedEarning": 21.17
+    },
+    {
+        "date": "2023-01-26",
+        "symbol": "FCNCA",
+        "actualEarningResult": 16.67,
+        "estimatedEarning": 21.77
+    },
+    {
+        "date": "2022-10-27",
+        "symbol": "FCNCA",
+        "actualEarningResult": 19.25,
+        "estimatedEarning": 17.45
+    },
+    {
+        "date": "2022-07-28",
+        "symbol": "FCNCA",
+        "actualEarningResult": 16.86,
+        "estimatedEarning": 15.12
+    },
+    {
+        "date": "2022-04-28",
+        "symbol": "FCNCA",
+        "actualEarningResult": 18.95,
+        "estimatedEarning": 13.76
+    },
+    {
+        "date": "2022-01-26",
+        "symbol": "FCNCA",
+        "actualEarningResult": 12.09,
+        "estimatedEarning": 5.95
+    },
+    {
+        "date": "2021-10-27",
+        "symbol": "FCNCA",
+        "actualEarningResult": 12.17,
+        "estimatedEarning": 11.48
+    },
+    {
+        "date": "2021-08-03",
+        "symbol": "FCNCA",
+        "actualEarningResult": 15.09,
+        "estimatedEarning": 11.74
+    },
+    {
+        "date": "2021-04-28",
+        "symbol": "FCNCA",
+        "actualEarningResult": 14.53,
+        "estimatedEarning": 11.7
+    },
+    {
+        "date": "2011-11-08",
+        "symbol": "FCNCA",
+        "actualEarningResult": 2.75,
+        "estimatedEarning": 2.49
+    },
+    {
+        "date": "2011-01-24",
+        "symbol": "FCNCA",
+        "actualEarningResult": 2.88,
+        "estimatedEarning": 3.37
+    },
+    {
+        "date": "2010-10-25",
+        "symbol": "FCNCA",
+        "actualEarningResult": 2.66,
+        "estimatedEarning": 2.8
+    },
+    {
+        "date": "2010-07-26",
+        "symbol": "FCNCA",
+        "actualEarningResult": 2.74,
+        "estimatedEarning": 2.46
+    },
+    {
+        "date": "2010-04-26",
+        "symbol": "FCNCA",
+        "actualEarningResult": 2.28,
+        "estimatedEarning": 1.73
+    },
+    {
+        "date": "2010-01-25",
+        "symbol": "FCNCA",
+        "actualEarningResult": 1.75,
+        "estimatedEarning": 1.8
+    },
+    {
+        "date": "1999-07-26",
+        "symbol": "FCNCA",
+        "actualEarningResult": 1.91,
+        "estimatedEarning": 1.82
+    },
+    {
+        "date": "1995-04-28",
+        "symbol": "FCNCA",
+        "actualEarningResult": 1.17,
+        "estimatedEarning": 1.45
+    },
+    {
+        "date": "1995-01-23",
+        "symbol": "FCNCA",
+        "actualEarningResult": 1.27,
+        "estimatedEarning": 1.43
+    },
+    {
+        "date": "1994-10-24",
+        "symbol": "FCNCA",
+        "actualEarningResult": 1.37,
+        "estimatedEarning": 1.37
+    },
+    {
+        "date": "1993-04-20",
+        "symbol": "FCNCA",
+        "actualEarningResult": 1.53,
+        "estimatedEarning": 1.29
+    },
+    {
+        "date": "1993-01-25",
+        "symbol": "FCNCA",
+        "actualEarningResult": 1.25,
+        "estimatedEarning": 1.33
+    }
+]

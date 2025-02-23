@@ -1,0 +1,6292 @@
+[
+    {
+        "symbol": "FIX",
+        "date": "2024-12-31",
+        "marketCap": 15125796140
+    },
+    {
+        "symbol": "FIX",
+        "date": "2024-12-30",
+        "marketCap": 15312345010
+    },
+    {
+        "symbol": "FIX",
+        "date": "2024-12-27",
+        "marketCap": 15410078069
+    },
+    {
+        "symbol": "FIX",
+        "date": "2024-12-26",
+        "marketCap": 15653340650
+    },
+    {
+        "symbol": "FIX",
+        "date": "2024-12-24",
+        "marketCap": 15581289270
+    },
+    {
+        "symbol": "FIX",
+        "date": "2024-12-23",
+        "marketCap": 15516015000
+    },
+    {
+        "symbol": "FIX",
+        "date": "2024-12-20",
+        "marketCap": 15638716360
+    },
+    {
+        "symbol": "FIX",
+        "date": "2024-12-19",
+        "marketCap": 15523862180
+    },
+    {
+        "symbol": "FIX",
+        "date": "2024-12-18",
+        "marketCap": 15448957280
+    },
+    {
+        "symbol": "FIX",
+        "date": "2024-12-17",
+        "marketCap": 16210490430
+    },
+    {
+        "symbol": "FIX",
+        "date": "2024-12-16",
+        "marketCap": 16514033620
+    },
+    {
+        "symbol": "FIX",
+        "date": "2024-12-13",
+        "marketCap": 16490848770
+    },
+    {
+        "symbol": "FIX",
+        "date": "2024-12-12",
+        "marketCap": 16730901140
+    },
+    {
+        "symbol": "FIX",
+        "date": "2024-12-11",
+        "marketCap": 16845041940
+    },
+    {
+        "symbol": "FIX",
+        "date": "2024-12-10",
+        "marketCap": 16379204800
+    },
+    {
+        "symbol": "FIX",
+        "date": "2024-12-09",
+        "marketCap": 16504759680
+    },
+    {
+        "symbol": "FIX",
+        "date": "2024-12-06",
+        "marketCap": 17727493000
+    },
+    {
+        "symbol": "FIX",
+        "date": "2024-12-05",
+        "marketCap": 17732486660
+    },
+    {
+        "symbol": "FIX",
+        "date": "2024-12-04",
+        "marketCap": 17869455620
+    },
+    {
+        "symbol": "FIX",
+        "date": "2024-12-03",
+        "marketCap": 17682906750
+    },
+    {
+        "symbol": "FIX",
+        "date": "2024-12-02",
+        "marketCap": 17461045570
+    },
+    {
+        "symbol": "FIX",
+        "date": "2024-11-29",
+        "marketCap": 17594447630
+    },
+    {
+        "symbol": "FIX",
+        "date": "2024-11-27",
+        "marketCap": 17358318850
+    },
+    {
+        "symbol": "FIX",
+        "date": "2024-11-26",
+        "marketCap": 17981456280
+    },
+    {
+        "symbol": "FIX",
+        "date": "2024-11-25",
+        "marketCap": 17659008520
+    },
+    {
+        "symbol": "FIX",
+        "date": "2024-11-22",
+        "marketCap": 17515619140
+    },
+    {
+        "symbol": "FIX",
+        "date": "2024-11-21",
+        "marketCap": 17476739930
+    },
+    {
+        "symbol": "FIX",
+        "date": "2024-11-20",
+        "marketCap": 16987361250
+    },
+    {
+        "symbol": "FIX",
+        "date": "2024-11-19",
+        "marketCap": 16922443670
+    },
+    {
+        "symbol": "FIX",
+        "date": "2024-11-18",
+        "marketCap": 16086719000
+    },
+    {
+        "symbol": "FIX",
+        "date": "2024-11-15",
+        "marketCap": 15873418380
+    },
+    {
+        "symbol": "FIX",
+        "date": "2024-11-14",
+        "marketCap": 15673315290
+    },
+    {
+        "symbol": "FIX",
+        "date": "2024-11-13",
+        "marketCap": 15918361319
+    },
+    {
+        "symbol": "FIX",
+        "date": "2024-11-12",
+        "marketCap": 16515817069
+    },
+    {
+        "symbol": "FIX",
+        "date": "2024-11-11",
+        "marketCap": 16646722300
+    },
+    {
+        "symbol": "FIX",
+        "date": "2024-11-08",
+        "marketCap": 16481218140
+    },
+    {
+        "symbol": "FIX",
+        "date": "2024-11-07",
+        "marketCap": 15809214180
+    },
+    {
+        "symbol": "FIX",
+        "date": "2024-11-06",
+        "marketCap": 15597340319
+    },
+    {
+        "symbol": "FIX",
+        "date": "2024-11-05",
+        "marketCap": 14659602310
+    },
+    {
+        "symbol": "FIX",
+        "date": "2024-11-04",
+        "marketCap": 13924464220
+    },
+    {
+        "symbol": "FIX",
+        "date": "2024-11-01",
+        "marketCap": 13993305390
+    },
+    {
+        "symbol": "FIX",
+        "date": "2024-10-31",
+        "marketCap": 13948005760
+    },
+    {
+        "symbol": "FIX",
+        "date": "2024-10-30",
+        "marketCap": 13916260350
+    },
+    {
+        "symbol": "FIX",
+        "date": "2024-10-29",
+        "marketCap": 14130274350
+    },
+    {
+        "symbol": "FIX",
+        "date": "2024-10-28",
+        "marketCap": 13885941700
+    },
+    {
+        "symbol": "FIX",
+        "date": "2024-10-25",
+        "marketCap": 13215364500
+    },
+    {
+        "symbol": "FIX",
+        "date": "2024-10-24",
+        "marketCap": 14748061430
+    },
+    {
+        "symbol": "FIX",
+        "date": "2024-10-23",
+        "marketCap": 14695984690
+    },
+    {
+        "symbol": "FIX",
+        "date": "2024-10-22",
+        "marketCap": 14795501200
+    },
+    {
+        "symbol": "FIX",
+        "date": "2024-10-21",
+        "marketCap": 15133286630
+    },
+    {
+        "symbol": "FIX",
+        "date": "2024-10-18",
+        "marketCap": 14925384840
+    },
+    {
+        "symbol": "FIX",
+        "date": "2024-10-17",
+        "marketCap": 14981506060
+    },
+    {
+        "symbol": "FIX",
+        "date": "2024-10-16",
+        "marketCap": 14822793820
+    },
+    {
+        "symbol": "FIX",
+        "date": "2024-10-15",
+        "marketCap": 14782400840
+    },
+    {
+        "symbol": "FIX",
+        "date": "2024-10-14",
+        "marketCap": 14982935900
+    },
+    {
+        "symbol": "FIX",
+        "date": "2024-10-11",
+        "marketCap": 14858539820
+    },
+    {
+        "symbol": "FIX",
+        "date": "2024-10-10",
+        "marketCap": 14558988340
+    },
+    {
+        "symbol": "FIX",
+        "date": "2024-10-09",
+        "marketCap": 14678737440
+    },
+    {
+        "symbol": "FIX",
+        "date": "2024-10-08",
+        "marketCap": 14488211260
+    },
+    {
+        "symbol": "FIX",
+        "date": "2024-10-07",
+        "marketCap": 14533251220
+    },
+    {
+        "symbol": "FIX",
+        "date": "2024-10-04",
+        "marketCap": 14388837379
+    },
+    {
+        "symbol": "FIX",
+        "date": "2024-10-03",
+        "marketCap": 14102154460
+    },
+    {
+        "symbol": "FIX",
+        "date": "2024-10-02",
+        "marketCap": 14209392460
+    },
+    {
+        "symbol": "FIX",
+        "date": "2024-10-01",
+        "marketCap": 13925926680
+    },
+    {
+        "symbol": "FIX",
+        "date": "2024-09-30",
+        "marketCap": 13953451100
+    },
+    {
+        "symbol": "FIX",
+        "date": "2024-09-27",
+        "marketCap": 13943442220
+    },
+    {
+        "symbol": "FIX",
+        "date": "2024-09-26",
+        "marketCap": 14184727720
+    },
+    {
+        "symbol": "FIX",
+        "date": "2024-09-25",
+        "marketCap": 14035666900
+    },
+    {
+        "symbol": "FIX",
+        "date": "2024-09-24",
+        "marketCap": 13875882280
+    },
+    {
+        "symbol": "FIX",
+        "date": "2024-09-23",
+        "marketCap": 13850860080
+    },
+    {
+        "symbol": "FIX",
+        "date": "2024-09-20",
+        "marketCap": 13767929360
+    },
+    {
+        "symbol": "FIX",
+        "date": "2024-09-19",
+        "marketCap": 13593131420
+    },
+    {
+        "symbol": "FIX",
+        "date": "2024-09-18",
+        "marketCap": 12744878840
+    },
+    {
+        "symbol": "FIX",
+        "date": "2024-09-17",
+        "marketCap": 12758819780
+    },
+    {
+        "symbol": "FIX",
+        "date": "2024-09-16",
+        "marketCap": 12515389520
+    },
+    {
+        "symbol": "FIX",
+        "date": "2024-09-13",
+        "marketCap": 12429956580
+    },
+    {
+        "symbol": "FIX",
+        "date": "2024-09-12",
+        "marketCap": 12118608920
+    },
+    {
+        "symbol": "FIX",
+        "date": "2024-09-11",
+        "marketCap": 11940951300
+    },
+    {
+        "symbol": "FIX",
+        "date": "2024-09-10",
+        "marketCap": 11340061040
+    },
+    {
+        "symbol": "FIX",
+        "date": "2024-09-09",
+        "marketCap": 11053020660
+    },
+    {
+        "symbol": "FIX",
+        "date": "2024-09-06",
+        "marketCap": 10817097060
+    },
+    {
+        "symbol": "FIX",
+        "date": "2024-09-05",
+        "marketCap": 10983315960
+    },
+    {
+        "symbol": "FIX",
+        "date": "2024-09-04",
+        "marketCap": 11223886540
+    },
+    {
+        "symbol": "FIX",
+        "date": "2024-09-03",
+        "marketCap": 11253555720
+    },
+    {
+        "symbol": "FIX",
+        "date": "2024-08-30",
+        "marketCap": 12636925920
+    },
+    {
+        "symbol": "FIX",
+        "date": "2024-08-29",
+        "marketCap": 12415658180
+    },
+    {
+        "symbol": "FIX",
+        "date": "2024-08-28",
+        "marketCap": 12124685740
+    },
+    {
+        "symbol": "FIX",
+        "date": "2024-08-27",
+        "marketCap": 11994212840
+    },
+    {
+        "symbol": "FIX",
+        "date": "2024-08-26",
+        "marketCap": 12064632460
+    },
+    {
+        "symbol": "FIX",
+        "date": "2024-08-23",
+        "marketCap": 12100021000
+    },
+    {
+        "symbol": "FIX",
+        "date": "2024-08-22",
+        "marketCap": 12046044540
+    },
+    {
+        "symbol": "FIX",
+        "date": "2024-08-21",
+        "marketCap": 12297338920
+    },
+    {
+        "symbol": "FIX",
+        "date": "2024-08-20",
+        "marketCap": 11821559660
+    },
+    {
+        "symbol": "FIX",
+        "date": "2024-08-19",
+        "marketCap": 11897341180
+    },
+    {
+        "symbol": "FIX",
+        "date": "2024-08-16",
+        "marketCap": 11818699980
+    },
+    {
+        "symbol": "FIX",
+        "date": "2024-08-15",
+        "marketCap": 12062130240
+    },
+    {
+        "symbol": "FIX",
+        "date": "2024-08-14",
+        "marketCap": 11782953980
+    },
+    {
+        "symbol": "FIX",
+        "date": "2024-08-13",
+        "marketCap": 11466601879
+    },
+    {
+        "symbol": "FIX",
+        "date": "2024-08-12",
+        "marketCap": 11184565940
+    },
+    {
+        "symbol": "FIX",
+        "date": "2024-08-09",
+        "marketCap": 11209230680
+    },
+    {
+        "symbol": "FIX",
+        "date": "2024-08-08",
+        "marketCap": 11299310600
+    },
+    {
+        "symbol": "FIX",
+        "date": "2024-08-07",
+        "marketCap": 10749537120
+    },
+    {
+        "symbol": "FIX",
+        "date": "2024-08-06",
+        "marketCap": 11068033980
+    },
+    {
+        "symbol": "FIX",
+        "date": "2024-08-05",
+        "marketCap": 10755971400
+    },
+    {
+        "symbol": "FIX",
+        "date": "2024-08-02",
+        "marketCap": 10944710280
+    },
+    {
+        "symbol": "FIX",
+        "date": "2024-08-01",
+        "marketCap": 11677145820
+    },
+    {
+        "symbol": "FIX",
+        "date": "2024-07-31",
+        "marketCap": 11882685320
+    },
+    {
+        "symbol": "FIX",
+        "date": "2024-07-30",
+        "marketCap": 10927194740
+    },
+    {
+        "symbol": "FIX",
+        "date": "2024-07-29",
+        "marketCap": 11224244000
+    },
+    {
+        "symbol": "FIX",
+        "date": "2024-07-26",
+        "marketCap": 11072680960
+    },
+    {
+        "symbol": "FIX",
+        "date": "2024-07-25",
+        "marketCap": 10442836440
+    },
+    {
+        "symbol": "FIX",
+        "date": "2024-07-24",
+        "marketCap": 10719510480
+    },
+    {
+        "symbol": "FIX",
+        "date": "2024-07-23",
+        "marketCap": 11765080980
+    },
+    {
+        "symbol": "FIX",
+        "date": "2024-07-22",
+        "marketCap": 11361151180
+    },
+    {
+        "symbol": "FIX",
+        "date": "2024-07-19",
+        "marketCap": 10874662919
+    },
+    {
+        "symbol": "FIX",
+        "date": "2024-07-18",
+        "marketCap": 10769947650
+    },
+    {
+        "symbol": "FIX",
+        "date": "2024-07-17",
+        "marketCap": 10824628320
+    },
+    {
+        "symbol": "FIX",
+        "date": "2024-07-16",
+        "marketCap": 11794942169
+    },
+    {
+        "symbol": "FIX",
+        "date": "2024-07-15",
+        "marketCap": 11535119640
+    },
+    {
+        "symbol": "FIX",
+        "date": "2024-07-12",
+        "marketCap": 11501524980
+    },
+    {
+        "symbol": "FIX",
+        "date": "2024-07-11",
+        "marketCap": 11402885340
+    },
+    {
+        "symbol": "FIX",
+        "date": "2024-07-10",
+        "marketCap": 11065509180
+    },
+    {
+        "symbol": "FIX",
+        "date": "2024-07-09",
+        "marketCap": 10762085070
+    },
+    {
+        "symbol": "FIX",
+        "date": "2024-07-08",
+        "marketCap": 10797466680
+    },
+    {
+        "symbol": "FIX",
+        "date": "2024-07-05",
+        "marketCap": 10804614480
+    },
+    {
+        "symbol": "FIX",
+        "date": "2024-07-03",
+        "marketCap": 11145207150
+    },
+    {
+        "symbol": "FIX",
+        "date": "2024-07-02",
+        "marketCap": 10502262540
+    },
+    {
+        "symbol": "FIX",
+        "date": "2024-07-01",
+        "marketCap": 10534427640
+    },
+    {
+        "symbol": "FIX",
+        "date": "2024-06-28",
+        "marketCap": 10868944680
+    },
+    {
+        "symbol": "FIX",
+        "date": "2024-06-27",
+        "marketCap": 11291022270
+    },
+    {
+        "symbol": "FIX",
+        "date": "2024-06-26",
+        "marketCap": 11204176500
+    },
+    {
+        "symbol": "FIX",
+        "date": "2024-06-25",
+        "marketCap": 11475435510
+    },
+    {
+        "symbol": "FIX",
+        "date": "2024-06-24",
+        "marketCap": 11368575900
+    },
+    {
+        "symbol": "FIX",
+        "date": "2024-06-21",
+        "marketCap": 11304603090
+    },
+    {
+        "symbol": "FIX",
+        "date": "2024-06-20",
+        "marketCap": 11522253600
+    },
+    {
+        "symbol": "FIX",
+        "date": "2024-06-18",
+        "marketCap": 11693443410
+    },
+    {
+        "symbol": "FIX",
+        "date": "2024-06-17",
+        "marketCap": 11502597150
+    },
+    {
+        "symbol": "FIX",
+        "date": "2024-06-14",
+        "marketCap": 11216685150
+    },
+    {
+        "symbol": "FIX",
+        "date": "2024-06-13",
+        "marketCap": 11611958490
+    },
+    {
+        "symbol": "FIX",
+        "date": "2024-06-12",
+        "marketCap": 11392521030
+    },
+    {
+        "symbol": "FIX",
+        "date": "2024-06-11",
+        "marketCap": 10760655510
+    },
+    {
+        "symbol": "FIX",
+        "date": "2024-06-10",
+        "marketCap": 10984381650
+    },
+    {
+        "symbol": "FIX",
+        "date": "2024-06-07",
+        "marketCap": 10890745470
+    },
+    {
+        "symbol": "FIX",
+        "date": "2024-06-06",
+        "marketCap": 10901467169
+    },
+    {
+        "symbol": "FIX",
+        "date": "2024-06-05",
+        "marketCap": 11423971350
+    },
+    {
+        "symbol": "FIX",
+        "date": "2024-06-04",
+        "marketCap": 10757439000
+    },
+    {
+        "symbol": "FIX",
+        "date": "2024-06-03",
+        "marketCap": 11319970860
+    },
+    {
+        "symbol": "FIX",
+        "date": "2024-05-31",
+        "marketCap": 11698804260
+    },
+    {
+        "symbol": "FIX",
+        "date": "2024-05-30",
+        "marketCap": 11980427580
+    },
+    {
+        "symbol": "FIX",
+        "date": "2024-05-29",
+        "marketCap": 12076208100
+    },
+    {
+        "symbol": "FIX",
+        "date": "2024-05-28",
+        "marketCap": 12109445370
+    },
+    {
+        "symbol": "FIX",
+        "date": "2024-05-24",
+        "marketCap": 12234174480
+    },
+    {
+        "symbol": "FIX",
+        "date": "2024-05-23",
+        "marketCap": 11816028180
+    },
+    {
+        "symbol": "FIX",
+        "date": "2024-05-22",
+        "marketCap": 11751340590
+    },
+    {
+        "symbol": "FIX",
+        "date": "2024-05-21",
+        "marketCap": 11699519040
+    },
+    {
+        "symbol": "FIX",
+        "date": "2024-05-20",
+        "marketCap": 11480081580
+    },
+    {
+        "symbol": "FIX",
+        "date": "2024-05-17",
+        "marketCap": 11301743970
+    },
+    {
+        "symbol": "FIX",
+        "date": "2024-05-16",
+        "marketCap": 11493662400
+    },
+    {
+        "symbol": "FIX",
+        "date": "2024-05-15",
+        "marketCap": 12135534840
+    },
+    {
+        "symbol": "FIX",
+        "date": "2024-05-14",
+        "marketCap": 11948262480
+    },
+    {
+        "symbol": "FIX",
+        "date": "2024-05-13",
+        "marketCap": 11882860110
+    },
+    {
+        "symbol": "FIX",
+        "date": "2024-05-10",
+        "marketCap": 12322807200
+    },
+    {
+        "symbol": "FIX",
+        "date": "2024-05-09",
+        "marketCap": 12408938190
+    },
+    {
+        "symbol": "FIX",
+        "date": "2024-05-08",
+        "marketCap": 12373199190
+    },
+    {
+        "symbol": "FIX",
+        "date": "2024-05-07",
+        "marketCap": 12280992570
+    },
+    {
+        "symbol": "FIX",
+        "date": "2024-05-06",
+        "marketCap": 11991864060
+    },
+    {
+        "symbol": "FIX",
+        "date": "2024-05-03",
+        "marketCap": 11258857169
+    },
+    {
+        "symbol": "FIX",
+        "date": "2024-05-02",
+        "marketCap": 10997247690
+    },
+    {
+        "symbol": "FIX",
+        "date": "2024-05-01",
+        "marketCap": 10791033660
+    },
+    {
+        "symbol": "FIX",
+        "date": "2024-04-30",
+        "marketCap": 11058003990
+    },
+    {
+        "symbol": "FIX",
+        "date": "2024-04-29",
+        "marketCap": 11103749910
+    },
+    {
+        "symbol": "FIX",
+        "date": "2024-04-26",
+        "marketCap": 10793178000
+    },
+    {
+        "symbol": "FIX",
+        "date": "2024-04-25",
+        "marketCap": 11129124600
+    },
+    {
+        "symbol": "FIX",
+        "date": "2024-04-24",
+        "marketCap": 11032271910
+    },
+    {
+        "symbol": "FIX",
+        "date": "2024-04-23",
+        "marketCap": 11024409330
+    },
+    {
+        "symbol": "FIX",
+        "date": "2024-04-22",
+        "marketCap": 10551224970
+    },
+    {
+        "symbol": "FIX",
+        "date": "2024-04-19",
+        "marketCap": 10390399470
+    },
+    {
+        "symbol": "FIX",
+        "date": "2024-04-18",
+        "marketCap": 10444365360
+    },
+    {
+        "symbol": "FIX",
+        "date": "2024-04-17",
+        "marketCap": 10708833960
+    },
+    {
+        "symbol": "FIX",
+        "date": "2024-04-16",
+        "marketCap": 10851789960
+    },
+    {
+        "symbol": "FIX",
+        "date": "2024-04-15",
+        "marketCap": 10864298610
+    },
+    {
+        "symbol": "FIX",
+        "date": "2024-04-12",
+        "marketCap": 10992601620
+    },
+    {
+        "symbol": "FIX",
+        "date": "2024-04-11",
+        "marketCap": 11084093460
+    },
+    {
+        "symbol": "FIX",
+        "date": "2024-04-10",
+        "marketCap": 10856078640
+    },
+    {
+        "symbol": "FIX",
+        "date": "2024-04-09",
+        "marketCap": 10941494850
+    },
+    {
+        "symbol": "FIX",
+        "date": "2024-04-08",
+        "marketCap": 11512604070
+    },
+    {
+        "symbol": "FIX",
+        "date": "2024-04-05",
+        "marketCap": 11557992600
+    },
+    {
+        "symbol": "FIX",
+        "date": "2024-04-04",
+        "marketCap": 11168437500
+    },
+    {
+        "symbol": "FIX",
+        "date": "2024-04-03",
+        "marketCap": 11456493840
+    },
+    {
+        "symbol": "FIX",
+        "date": "2024-04-02",
+        "marketCap": 11222760780
+    },
+    {
+        "symbol": "FIX",
+        "date": "2024-04-01",
+        "marketCap": 11418253110
+    },
+    {
+        "symbol": "FIX",
+        "date": "2024-03-28",
+        "marketCap": 11354637690
+    },
+    {
+        "symbol": "FIX",
+        "date": "2024-03-27",
+        "marketCap": 11363572440
+    },
+    {
+        "symbol": "FIX",
+        "date": "2024-03-26",
+        "marketCap": 11373936750
+    },
+    {
+        "symbol": "FIX",
+        "date": "2024-03-25",
+        "marketCap": 11397881880
+    },
+    {
+        "symbol": "FIX",
+        "date": "2024-03-22",
+        "marketCap": 11492947620
+    },
+    {
+        "symbol": "FIX",
+        "date": "2024-03-21",
+        "marketCap": 11554061310
+    },
+    {
+        "symbol": "FIX",
+        "date": "2024-03-20",
+        "marketCap": 11233125090
+    },
+    {
+        "symbol": "FIX",
+        "date": "2024-03-19",
+        "marketCap": 11099818620
+    },
+    {
+        "symbol": "FIX",
+        "date": "2024-03-18",
+        "marketCap": 11062650060
+    },
+    {
+        "symbol": "FIX",
+        "date": "2024-03-15",
+        "marketCap": 11027983230
+    },
+    {
+        "symbol": "FIX",
+        "date": "2024-03-14",
+        "marketCap": 10808903160
+    },
+    {
+        "symbol": "FIX",
+        "date": "2024-03-13",
+        "marketCap": 10723844340
+    },
+    {
+        "symbol": "FIX",
+        "date": "2024-03-12",
+        "marketCap": 10794250169
+    },
+    {
+        "symbol": "FIX",
+        "date": "2024-03-11",
+        "marketCap": 10606263030
+    },
+    {
+        "symbol": "FIX",
+        "date": "2024-03-08",
+        "marketCap": 11079804780
+    },
+    {
+        "symbol": "FIX",
+        "date": "2024-03-07",
+        "marketCap": 11231338140
+    },
+    {
+        "symbol": "FIX",
+        "date": "2024-03-06",
+        "marketCap": 11204533890
+    },
+    {
+        "symbol": "FIX",
+        "date": "2024-03-05",
+        "marketCap": 11255283270
+    },
+    {
+        "symbol": "FIX",
+        "date": "2024-03-04",
+        "marketCap": 11443627800
+    },
+    {
+        "symbol": "FIX",
+        "date": "2024-03-01",
+        "marketCap": 11237413770
+    },
+    {
+        "symbol": "FIX",
+        "date": "2024-02-29",
+        "marketCap": 10926484470
+    },
+    {
+        "symbol": "FIX",
+        "date": "2024-02-28",
+        "marketCap": 10503334710
+    },
+    {
+        "symbol": "FIX",
+        "date": "2024-02-27",
+        "marketCap": 10405409850
+    },
+    {
+        "symbol": "FIX",
+        "date": "2024-02-26",
+        "marketCap": 10174178520
+    },
+    {
+        "symbol": "FIX",
+        "date": "2024-02-23",
+        "marketCap": 9973325340
+    },
+    {
+        "symbol": "FIX",
+        "date": "2024-02-22",
+        "marketCap": 8857911150
+    },
+    {
+        "symbol": "FIX",
+        "date": "2024-02-21",
+        "marketCap": 8643834540
+    },
+    {
+        "symbol": "FIX",
+        "date": "2024-02-20",
+        "marketCap": 8827533000
+    },
+    {
+        "symbol": "FIX",
+        "date": "2024-02-16",
+        "marketCap": 8881141500
+    },
+    {
+        "symbol": "FIX",
+        "date": "2024-02-15",
+        "marketCap": 9034819200
+    },
+    {
+        "symbol": "FIX",
+        "date": "2024-02-14",
+        "marketCap": 8849691180
+    },
+    {
+        "symbol": "FIX",
+        "date": "2024-02-13",
+        "marketCap": 8496589860
+    },
+    {
+        "symbol": "FIX",
+        "date": "2024-02-12",
+        "marketCap": 8710309080
+    },
+    {
+        "symbol": "FIX",
+        "date": "2024-02-09",
+        "marketCap": 8595229500
+    },
+    {
+        "symbol": "FIX",
+        "date": "2024-02-08",
+        "marketCap": 8476218630
+    },
+    {
+        "symbol": "FIX",
+        "date": "2024-02-07",
+        "marketCap": 8289661050
+    },
+    {
+        "symbol": "FIX",
+        "date": "2024-02-06",
+        "marketCap": 8097027840
+    },
+    {
+        "symbol": "FIX",
+        "date": "2024-02-05",
+        "marketCap": 8008037730
+    },
+    {
+        "symbol": "FIX",
+        "date": "2024-02-02",
+        "marketCap": 8266073310
+    },
+    {
+        "symbol": "FIX",
+        "date": "2024-02-01",
+        "marketCap": 8041275000
+    },
+    {
+        "symbol": "FIX",
+        "date": "2024-01-31",
+        "marketCap": 7772160330
+    },
+    {
+        "symbol": "FIX",
+        "date": "2024-01-30",
+        "marketCap": 7940491020
+    },
+    {
+        "symbol": "FIX",
+        "date": "2024-01-29",
+        "marketCap": 7612407000
+    },
+    {
+        "symbol": "FIX",
+        "date": "2024-01-26",
+        "marketCap": 7410481650
+    },
+    {
+        "symbol": "FIX",
+        "date": "2024-01-25",
+        "marketCap": 7345794060
+    },
+    {
+        "symbol": "FIX",
+        "date": "2024-01-24",
+        "marketCap": 7165312110
+    },
+    {
+        "symbol": "FIX",
+        "date": "2024-01-23",
+        "marketCap": 7295759459
+    },
+    {
+        "symbol": "FIX",
+        "date": "2024-01-22",
+        "marketCap": 7483746600
+    },
+    {
+        "symbol": "FIX",
+        "date": "2024-01-19",
+        "marketCap": 7315773300
+    },
+    {
+        "symbol": "FIX",
+        "date": "2024-01-18",
+        "marketCap": 7311127230
+    },
+    {
+        "symbol": "FIX",
+        "date": "2024-01-17",
+        "marketCap": 7235003160
+    },
+    {
+        "symbol": "FIX",
+        "date": "2024-01-16",
+        "marketCap": 7227140580
+    },
+    {
+        "symbol": "FIX",
+        "date": "2024-01-12",
+        "marketCap": 7266810870
+    },
+    {
+        "symbol": "FIX",
+        "date": "2024-01-11",
+        "marketCap": 7354014030
+    },
+    {
+        "symbol": "FIX",
+        "date": "2024-01-10",
+        "marketCap": 7259305680
+    },
+    {
+        "symbol": "FIX",
+        "date": "2024-01-09",
+        "marketCap": 7109916660
+    },
+    {
+        "symbol": "FIX",
+        "date": "2024-01-08",
+        "marketCap": 7110274050
+    },
+    {
+        "symbol": "FIX",
+        "date": "2024-01-05",
+        "marketCap": 7000912709
+    },
+    {
+        "symbol": "FIX",
+        "date": "2024-01-04",
+        "marketCap": 7050589920
+    },
+    {
+        "symbol": "FIX",
+        "date": "2024-01-03",
+        "marketCap": 7003414440
+    },
+    {
+        "symbol": "FIX",
+        "date": "2024-01-02",
+        "marketCap": 7222137120
+    },
+    {
+        "symbol": "FIX",
+        "date": "2023-12-29",
+        "marketCap": 7353113840
+    },
+    {
+        "symbol": "FIX",
+        "date": "2023-12-28",
+        "marketCap": 7381357920
+    },
+    {
+        "symbol": "FIX",
+        "date": "2023-12-27",
+        "marketCap": 7414607279
+    },
+    {
+        "symbol": "FIX",
+        "date": "2023-12-26",
+        "marketCap": 7480748480
+    },
+    {
+        "symbol": "FIX",
+        "date": "2023-12-22",
+        "marketCap": 7428193040
+    },
+    {
+        "symbol": "FIX",
+        "date": "2023-12-21",
+        "marketCap": 7383860560
+    },
+    {
+        "symbol": "FIX",
+        "date": "2023-12-20",
+        "marketCap": 7403524160
+    },
+    {
+        "symbol": "FIX",
+        "date": "2023-12-19",
+        "marketCap": 7409244480
+    },
+    {
+        "symbol": "FIX",
+        "date": "2023-12-18",
+        "marketCap": 7260516160
+    },
+    {
+        "symbol": "FIX",
+        "date": "2023-12-15",
+        "marketCap": 7270884240
+    },
+    {
+        "symbol": "FIX",
+        "date": "2023-12-14",
+        "marketCap": 7343103279
+    },
+    {
+        "symbol": "FIX",
+        "date": "2023-12-13",
+        "marketCap": 7185436960
+    },
+    {
+        "symbol": "FIX",
+        "date": "2023-12-12",
+        "marketCap": 7078896000
+    },
+    {
+        "symbol": "FIX",
+        "date": "2023-12-11",
+        "marketCap": 7008822080
+    },
+    {
+        "symbol": "FIX",
+        "date": "2023-12-08",
+        "marketCap": 6936245520
+    },
+    {
+        "symbol": "FIX",
+        "date": "2023-12-07",
+        "marketCap": 6752480240
+    },
+    {
+        "symbol": "FIX",
+        "date": "2023-12-06",
+        "marketCap": 6669178080
+    },
+    {
+        "symbol": "FIX",
+        "date": "2023-12-05",
+        "marketCap": 6747117440
+    },
+    {
+        "symbol": "FIX",
+        "date": "2023-12-04",
+        "marketCap": 6755697920
+    },
+    {
+        "symbol": "FIX",
+        "date": "2023-12-01",
+        "marketCap": 7029200720
+    },
+    {
+        "symbol": "FIX",
+        "date": "2023-11-30",
+        "marketCap": 6920872160
+    },
+    {
+        "symbol": "FIX",
+        "date": "2023-11-29",
+        "marketCap": 6838642560
+    },
+    {
+        "symbol": "FIX",
+        "date": "2023-11-28",
+        "marketCap": 6767853600
+    },
+    {
+        "symbol": "FIX",
+        "date": "2023-11-27",
+        "marketCap": 7101419760
+    },
+    {
+        "symbol": "FIX",
+        "date": "2023-11-24",
+        "marketCap": 7108212640
+    },
+    {
+        "symbol": "FIX",
+        "date": "2023-11-22",
+        "marketCap": 7071030560
+    },
+    {
+        "symbol": "FIX",
+        "date": "2023-11-21",
+        "marketCap": 6896918320
+    },
+    {
+        "symbol": "FIX",
+        "date": "2023-11-20",
+        "marketCap": 6942323360
+    },
+    {
+        "symbol": "FIX",
+        "date": "2023-11-17",
+        "marketCap": 6970924960
+    },
+    {
+        "symbol": "FIX",
+        "date": "2023-11-16",
+        "marketCap": 6927665040
+    },
+    {
+        "symbol": "FIX",
+        "date": "2023-11-15",
+        "marketCap": 7127161200
+    },
+    {
+        "symbol": "FIX",
+        "date": "2023-11-14",
+        "marketCap": 7207960720
+    },
+    {
+        "symbol": "FIX",
+        "date": "2023-11-13",
+        "marketCap": 6764635920
+    },
+    {
+        "symbol": "FIX",
+        "date": "2023-11-10",
+        "marketCap": 6709935360
+    },
+    {
+        "symbol": "FIX",
+        "date": "2023-11-09",
+        "marketCap": 6623415520
+    },
+    {
+        "symbol": "FIX",
+        "date": "2023-11-08",
+        "marketCap": 6616980160
+    },
+    {
+        "symbol": "FIX",
+        "date": "2023-11-07",
+        "marketCap": 6660597600
+    },
+    {
+        "symbol": "FIX",
+        "date": "2023-11-06",
+        "marketCap": 6693489440
+    },
+    {
+        "symbol": "FIX",
+        "date": "2023-11-03",
+        "marketCap": 6714583120
+    },
+    {
+        "symbol": "FIX",
+        "date": "2023-11-02",
+        "marketCap": 6708862800
+    },
+    {
+        "symbol": "FIX",
+        "date": "2023-11-01",
+        "marketCap": 6609829760
+    },
+    {
+        "symbol": "FIX",
+        "date": "2023-10-31",
+        "marketCap": 6501501200
+    },
+    {
+        "symbol": "FIX",
+        "date": "2023-10-30",
+        "marketCap": 6417126480
+    },
+    {
+        "symbol": "FIX",
+        "date": "2023-10-27",
+        "marketCap": 6289491840
+    },
+    {
+        "symbol": "FIX",
+        "date": "2023-10-26",
+        "marketCap": 5490792160
+    },
+    {
+        "symbol": "FIX",
+        "date": "2023-10-25",
+        "marketCap": 5438594240
+    },
+    {
+        "symbol": "FIX",
+        "date": "2023-10-24",
+        "marketCap": 5535482160
+    },
+    {
+        "symbol": "FIX",
+        "date": "2023-10-23",
+        "marketCap": 5472558640
+    },
+    {
+        "symbol": "FIX",
+        "date": "2023-10-20",
+        "marketCap": 5490077120
+    },
+    {
+        "symbol": "FIX",
+        "date": "2023-10-19",
+        "marketCap": 5506880560
+    },
+    {
+        "symbol": "FIX",
+        "date": "2023-10-18",
+        "marketCap": 5646313360
+    },
+    {
+        "symbol": "FIX",
+        "date": "2023-10-17",
+        "marketCap": 5849384720
+    },
+    {
+        "symbol": "FIX",
+        "date": "2023-10-16",
+        "marketCap": 5728900480
+    },
+    {
+        "symbol": "FIX",
+        "date": "2023-10-13",
+        "marketCap": 5678847680
+    },
+    {
+        "symbol": "FIX",
+        "date": "2023-10-12",
+        "marketCap": 5903727760
+    },
+    {
+        "symbol": "FIX",
+        "date": "2023-10-11",
+        "marketCap": 6042803040
+    },
+    {
+        "symbol": "FIX",
+        "date": "2023-10-10",
+        "marketCap": 6040657920
+    },
+    {
+        "symbol": "FIX",
+        "date": "2023-10-09",
+        "marketCap": 6079270080
+    },
+    {
+        "symbol": "FIX",
+        "date": "2023-10-06",
+        "marketCap": 6033507520
+    },
+    {
+        "symbol": "FIX",
+        "date": "2023-10-05",
+        "marketCap": 5935904560
+    },
+    {
+        "symbol": "FIX",
+        "date": "2023-10-04",
+        "marketCap": 5950562880
+    },
+    {
+        "symbol": "FIX",
+        "date": "2023-10-03",
+        "marketCap": 5911950720
+    },
+    {
+        "symbol": "FIX",
+        "date": "2023-10-02",
+        "marketCap": 5940909840
+    },
+    {
+        "symbol": "FIX",
+        "date": "2023-09-29",
+        "marketCap": 6104086200
+    },
+    {
+        "symbol": "FIX",
+        "date": "2023-09-28",
+        "marketCap": 6321155400
+    },
+    {
+        "symbol": "FIX",
+        "date": "2023-09-27",
+        "marketCap": 6188621400
+    },
+    {
+        "symbol": "FIX",
+        "date": "2023-09-26",
+        "marketCap": 6075072000
+    },
+    {
+        "symbol": "FIX",
+        "date": "2023-09-25",
+        "marketCap": 6159965400
+    },
+    {
+        "symbol": "FIX",
+        "date": "2023-09-22",
+        "marketCap": 6103011600
+    },
+    {
+        "symbol": "FIX",
+        "date": "2023-09-21",
+        "marketCap": 6107668200
+    },
+    {
+        "symbol": "FIX",
+        "date": "2023-09-20",
+        "marketCap": 6428615400
+    },
+    {
+        "symbol": "FIX",
+        "date": "2023-09-19",
+        "marketCap": 6527120400
+    },
+    {
+        "symbol": "FIX",
+        "date": "2023-09-18",
+        "marketCap": 6586939799
+    },
+    {
+        "symbol": "FIX",
+        "date": "2023-09-15",
+        "marketCap": 6722697600
+    },
+    {
+        "symbol": "FIX",
+        "date": "2023-09-14",
+        "marketCap": 6757443000
+    },
+    {
+        "symbol": "FIX",
+        "date": "2023-09-13",
+        "marketCap": 6751711800
+    },
+    {
+        "symbol": "FIX",
+        "date": "2023-09-12",
+        "marketCap": 6715175400
+    },
+    {
+        "symbol": "FIX",
+        "date": "2023-09-11",
+        "marketCap": 6738816600
+    },
+    {
+        "symbol": "FIX",
+        "date": "2023-09-08",
+        "marketCap": 6693683400
+    },
+    {
+        "symbol": "FIX",
+        "date": "2023-09-07",
+        "marketCap": 6737742000
+    },
+    {
+        "symbol": "FIX",
+        "date": "2023-09-06",
+        "marketCap": 6730219799
+    },
+    {
+        "symbol": "FIX",
+        "date": "2023-09-05",
+        "marketCap": 6641028000
+    },
+    {
+        "symbol": "FIX",
+        "date": "2023-09-01",
+        "marketCap": 6661087200
+    },
+    {
+        "symbol": "FIX",
+        "date": "2023-08-31",
+        "marketCap": 6611297400
+    },
+    {
+        "symbol": "FIX",
+        "date": "2023-08-30",
+        "marketCap": 6580134000
+    },
+    {
+        "symbol": "FIX",
+        "date": "2023-08-29",
+        "marketCap": 6597685800
+    },
+    {
+        "symbol": "FIX",
+        "date": "2023-08-28",
+        "marketCap": 6490225800
+    },
+    {
+        "symbol": "FIX",
+        "date": "2023-08-25",
+        "marketCap": 6510285000
+    },
+    {
+        "symbol": "FIX",
+        "date": "2023-08-24",
+        "marketCap": 6426824400
+    },
+    {
+        "symbol": "FIX",
+        "date": "2023-08-23",
+        "marketCap": 6508494000
+    },
+    {
+        "symbol": "FIX",
+        "date": "2023-08-22",
+        "marketCap": 6397452000
+    },
+    {
+        "symbol": "FIX",
+        "date": "2023-08-21",
+        "marketCap": 6340856400
+    },
+    {
+        "symbol": "FIX",
+        "date": "2023-08-18",
+        "marketCap": 6330110400
+    },
+    {
+        "symbol": "FIX",
+        "date": "2023-08-17",
+        "marketCap": 6224083200
+    },
+    {
+        "symbol": "FIX",
+        "date": "2023-08-16",
+        "marketCap": 6415003800
+    },
+    {
+        "symbol": "FIX",
+        "date": "2023-08-15",
+        "marketCap": 6409272600
+    },
+    {
+        "symbol": "FIX",
+        "date": "2023-08-14",
+        "marketCap": 6370587000
+    },
+    {
+        "symbol": "FIX",
+        "date": "2023-08-11",
+        "marketCap": 6377034600
+    },
+    {
+        "symbol": "FIX",
+        "date": "2023-08-10",
+        "marketCap": 6332976000
+    },
+    {
+        "symbol": "FIX",
+        "date": "2023-08-09",
+        "marketCap": 6354826200
+    },
+    {
+        "symbol": "FIX",
+        "date": "2023-08-08",
+        "marketCap": 6484852800
+    },
+    {
+        "symbol": "FIX",
+        "date": "2023-08-07",
+        "marketCap": 6488793000
+    },
+    {
+        "symbol": "FIX",
+        "date": "2023-08-04",
+        "marketCap": 6358408200
+    },
+    {
+        "symbol": "FIX",
+        "date": "2023-08-03",
+        "marketCap": 6333334200
+    },
+    {
+        "symbol": "FIX",
+        "date": "2023-08-02",
+        "marketCap": 6259903200
+    },
+    {
+        "symbol": "FIX",
+        "date": "2023-08-01",
+        "marketCap": 6220501200
+    },
+    {
+        "symbol": "FIX",
+        "date": "2023-07-31",
+        "marketCap": 6231605400
+    },
+    {
+        "symbol": "FIX",
+        "date": "2023-07-28",
+        "marketCap": 6224799600
+    },
+    {
+        "symbol": "FIX",
+        "date": "2023-07-27",
+        "marketCap": 5923911600
+    },
+    {
+        "symbol": "FIX",
+        "date": "2023-07-26",
+        "marketCap": 5941821600
+    },
+    {
+        "symbol": "FIX",
+        "date": "2023-07-25",
+        "marketCap": 6000208200
+    },
+    {
+        "symbol": "FIX",
+        "date": "2023-07-24",
+        "marketCap": 5985163800
+    },
+    {
+        "symbol": "FIX",
+        "date": "2023-07-21",
+        "marketCap": 5902777800
+    },
+    {
+        "symbol": "FIX",
+        "date": "2023-07-20",
+        "marketCap": 5940747000
+    },
+    {
+        "symbol": "FIX",
+        "date": "2023-07-19",
+        "marketCap": 6060744000
+    },
+    {
+        "symbol": "FIX",
+        "date": "2023-07-18",
+        "marketCap": 6091549200
+    },
+    {
+        "symbol": "FIX",
+        "date": "2023-07-17",
+        "marketCap": 5944329000
+    },
+    {
+        "symbol": "FIX",
+        "date": "2023-07-14",
+        "marketCap": 5866599600
+    },
+    {
+        "symbol": "FIX",
+        "date": "2023-07-13",
+        "marketCap": 5951851200
+    },
+    {
+        "symbol": "FIX",
+        "date": "2023-07-12",
+        "marketCap": 5894181000
+    },
+    {
+        "symbol": "FIX",
+        "date": "2023-07-11",
+        "marketCap": 5874480000
+    },
+    {
+        "symbol": "FIX",
+        "date": "2023-07-10",
+        "marketCap": 5847973200
+    },
+    {
+        "symbol": "FIX",
+        "date": "2023-07-07",
+        "marketCap": 5725468800
+    },
+    {
+        "symbol": "FIX",
+        "date": "2023-07-06",
+        "marketCap": 5722961400
+    },
+    {
+        "symbol": "FIX",
+        "date": "2023-07-05",
+        "marketCap": 5799616200
+    },
+    {
+        "symbol": "FIX",
+        "date": "2023-07-03",
+        "marketCap": 5890240800
+    },
+    {
+        "symbol": "FIX",
+        "date": "2023-06-30",
+        "marketCap": 5881644000
+    },
+    {
+        "symbol": "FIX",
+        "date": "2023-06-29",
+        "marketCap": 5957198600
+    },
+    {
+        "symbol": "FIX",
+        "date": "2023-06-28",
+        "marketCap": 5764834460
+    },
+    {
+        "symbol": "FIX",
+        "date": "2023-06-27",
+        "marketCap": 5803164000
+    },
+    {
+        "symbol": "FIX",
+        "date": "2023-06-26",
+        "marketCap": 5767342000
+    },
+    {
+        "symbol": "FIX",
+        "date": "2023-06-23",
+        "marketCap": 5751938540
+    },
+    {
+        "symbol": "FIX",
+        "date": "2023-06-22",
+        "marketCap": 5806029760
+    },
+    {
+        "symbol": "FIX",
+        "date": "2023-06-21",
+        "marketCap": 5887345700
+    },
+    {
+        "symbol": "FIX",
+        "date": "2023-06-20",
+        "marketCap": 5720773400
+    },
+    {
+        "symbol": "FIX",
+        "date": "2023-06-16",
+        "marketCap": 5788118760
+    },
+    {
+        "symbol": "FIX",
+        "date": "2023-06-15",
+        "marketCap": 5826448300
+    },
+    {
+        "symbol": "FIX",
+        "date": "2023-06-14",
+        "marketCap": 5745132360
+    },
+    {
+        "symbol": "FIX",
+        "date": "2023-06-13",
+        "marketCap": 5672055480
+    },
+    {
+        "symbol": "FIX",
+        "date": "2023-06-12",
+        "marketCap": 5741908380
+    },
+    {
+        "symbol": "FIX",
+        "date": "2023-06-09",
+        "marketCap": 5661308880
+    },
+    {
+        "symbol": "FIX",
+        "date": "2023-06-08",
+        "marketCap": 5668115060
+    },
+    {
+        "symbol": "FIX",
+        "date": "2023-06-07",
+        "marketCap": 5665249300
+    },
+    {
+        "symbol": "FIX",
+        "date": "2023-06-06",
+        "marketCap": 5689966480
+    },
+    {
+        "symbol": "FIX",
+        "date": "2023-06-05",
+        "marketCap": 5454974160
+    },
+    {
+        "symbol": "FIX",
+        "date": "2023-06-02",
+        "marketCap": 5547394920
+    },
+    {
+        "symbol": "FIX",
+        "date": "2023-06-01",
+        "marketCap": 5315268360
+    },
+    {
+        "symbol": "FIX",
+        "date": "2023-05-31",
+        "marketCap": 5300939560
+    },
+    {
+        "symbol": "FIX",
+        "date": "2023-05-30",
+        "marketCap": 5421301480
+    },
+    {
+        "symbol": "FIX",
+        "date": "2023-05-26",
+        "marketCap": 5373300000
+    },
+    {
+        "symbol": "FIX",
+        "date": "2023-05-25",
+        "marketCap": 5379031520
+    },
+    {
+        "symbol": "FIX",
+        "date": "2023-05-24",
+        "marketCap": 5188458480
+    },
+    {
+        "symbol": "FIX",
+        "date": "2023-05-23",
+        "marketCap": 5268341540
+    },
+    {
+        "symbol": "FIX",
+        "date": "2023-05-22",
+        "marketCap": 5408763780
+    },
+    {
+        "symbol": "FIX",
+        "date": "2023-05-19",
+        "marketCap": 5420585040
+    },
+    {
+        "symbol": "FIX",
+        "date": "2023-05-18",
+        "marketCap": 5517662660
+    },
+    {
+        "symbol": "FIX",
+        "date": "2023-05-17",
+        "marketCap": 5416644620
+    },
+    {
+        "symbol": "FIX",
+        "date": "2023-05-16",
+        "marketCap": 5396942520
+    },
+    {
+        "symbol": "FIX",
+        "date": "2023-05-15",
+        "marketCap": 5425241900
+    },
+    {
+        "symbol": "FIX",
+        "date": "2023-05-12",
+        "marketCap": 5383688380
+    },
+    {
+        "symbol": "FIX",
+        "date": "2023-05-11",
+        "marketCap": 5373300000
+    },
+    {
+        "symbol": "FIX",
+        "date": "2023-05-10",
+        "marketCap": 5384046600
+    },
+    {
+        "symbol": "FIX",
+        "date": "2023-05-09",
+        "marketCap": 5314193700
+    },
+    {
+        "symbol": "FIX",
+        "date": "2023-05-08",
+        "marketCap": 5298790240
+    },
+    {
+        "symbol": "FIX",
+        "date": "2023-05-05",
+        "marketCap": 5440287140
+    },
+    {
+        "symbol": "FIX",
+        "date": "2023-05-04",
+        "marketCap": 5301297780
+    },
+    {
+        "symbol": "FIX",
+        "date": "2023-05-03",
+        "marketCap": 5362553400
+    },
+    {
+        "symbol": "FIX",
+        "date": "2023-05-02",
+        "marketCap": 5384046600
+    },
+    {
+        "symbol": "FIX",
+        "date": "2023-05-01",
+        "marketCap": 5284103220
+    },
+    {
+        "symbol": "FIX",
+        "date": "2023-04-28",
+        "marketCap": 5355030780
+    },
+    {
+        "symbol": "FIX",
+        "date": "2023-04-27",
+        "marketCap": 5332104700
+    },
+    {
+        "symbol": "FIX",
+        "date": "2023-04-26",
+        "marketCap": 4758236260
+    },
+    {
+        "symbol": "FIX",
+        "date": "2023-04-25",
+        "marketCap": 4724205360
+    },
+    {
+        "symbol": "FIX",
+        "date": "2023-04-24",
+        "marketCap": 4800506220
+    },
+    {
+        "symbol": "FIX",
+        "date": "2023-04-21",
+        "marketCap": 4878598180
+    },
+    {
+        "symbol": "FIX",
+        "date": "2023-04-20",
+        "marketCap": 4925525000
+    },
+    {
+        "symbol": "FIX",
+        "date": "2023-04-19",
+        "marketCap": 4804446640
+    },
+    {
+        "symbol": "FIX",
+        "date": "2023-04-18",
+        "marketCap": 4755370500
+    },
+    {
+        "symbol": "FIX",
+        "date": "2023-04-17",
+        "marketCap": 4744982120
+    },
+    {
+        "symbol": "FIX",
+        "date": "2023-04-14",
+        "marketCap": 4691965560
+    },
+    {
+        "symbol": "FIX",
+        "date": "2023-04-13",
+        "marketCap": 4719548500
+    },
+    {
+        "symbol": "FIX",
+        "date": "2023-04-12",
+        "marketCap": 4676920320
+    },
+    {
+        "symbol": "FIX",
+        "date": "2023-04-11",
+        "marketCap": 4645038740
+    },
+    {
+        "symbol": "FIX",
+        "date": "2023-04-10",
+        "marketCap": 4676562100
+    },
+    {
+        "symbol": "FIX",
+        "date": "2023-04-06",
+        "marketCap": 4632142820
+    },
+    {
+        "symbol": "FIX",
+        "date": "2023-04-05",
+        "marketCap": 4714891640
+    },
+    {
+        "symbol": "FIX",
+        "date": "2023-04-04",
+        "marketCap": 5022244400
+    },
+    {
+        "symbol": "FIX",
+        "date": "2023-04-03",
+        "marketCap": 5251863420
+    },
+    {
+        "symbol": "FIX",
+        "date": "2023-03-31",
+        "marketCap": 5228579120
+    },
+    {
+        "symbol": "FIX",
+        "date": "2023-03-30",
+        "marketCap": 5104284360
+    },
+    {
+        "symbol": "FIX",
+        "date": "2023-03-29",
+        "marketCap": 5155495520
+    },
+    {
+        "symbol": "FIX",
+        "date": "2023-03-28",
+        "marketCap": 5083155280
+    },
+    {
+        "symbol": "FIX",
+        "date": "2023-03-27",
+        "marketCap": 5003294520
+    },
+    {
+        "symbol": "FIX",
+        "date": "2023-03-24",
+        "marketCap": 4938116679
+    },
+    {
+        "symbol": "FIX",
+        "date": "2023-03-23",
+        "marketCap": 4859330280
+    },
+    {
+        "symbol": "FIX",
+        "date": "2023-03-22",
+        "marketCap": 5012605640
+    },
+    {
+        "symbol": "FIX",
+        "date": "2023-03-21",
+        "marketCap": 5057370640
+    },
+    {
+        "symbol": "FIX",
+        "date": "2023-03-20",
+        "marketCap": 4983239800
+    },
+    {
+        "symbol": "FIX",
+        "date": "2023-03-17",
+        "marketCap": 4814207160
+    },
+    {
+        "symbol": "FIX",
+        "date": "2023-03-16",
+        "marketCap": 4978584240
+    },
+    {
+        "symbol": "FIX",
+        "date": "2023-03-15",
+        "marketCap": 4874729440
+    },
+    {
+        "symbol": "FIX",
+        "date": "2023-03-14",
+        "marketCap": 5034809080
+    },
+    {
+        "symbol": "FIX",
+        "date": "2023-03-13",
+        "marketCap": 4906244000
+    },
+    {
+        "symbol": "FIX",
+        "date": "2023-03-10",
+        "marketCap": 5048775760
+    },
+    {
+        "symbol": "FIX",
+        "date": "2023-03-09",
+        "marketCap": 5192740000
+    },
+    {
+        "symbol": "FIX",
+        "date": "2023-03-08",
+        "marketCap": 5329541840
+    },
+    {
+        "symbol": "FIX",
+        "date": "2023-03-07",
+        "marketCap": 5338852960
+    },
+    {
+        "symbol": "FIX",
+        "date": "2023-03-06",
+        "marketCap": 5401523960
+    },
+    {
+        "symbol": "FIX",
+        "date": "2023-03-03",
+        "marketCap": 5409044480
+    },
+    {
+        "symbol": "FIX",
+        "date": "2023-03-02",
+        "marketCap": 5271526400
+    },
+    {
+        "symbol": "FIX",
+        "date": "2023-03-01",
+        "marketCap": 5262215280
+    },
+    {
+        "symbol": "FIX",
+        "date": "2023-02-28",
+        "marketCap": 5208497280
+    },
+    {
+        "symbol": "FIX",
+        "date": "2023-02-27",
+        "marketCap": 5260782800
+    },
+    {
+        "symbol": "FIX",
+        "date": "2023-02-24",
+        "marketCap": 5257559720
+    },
+    {
+        "symbol": "FIX",
+        "date": "2023-02-23",
+        "marketCap": 4870432000
+    },
+    {
+        "symbol": "FIX",
+        "date": "2023-02-22",
+        "marketCap": 4437106800
+    },
+    {
+        "symbol": "FIX",
+        "date": "2023-02-21",
+        "marketCap": 4428511920
+    },
+    {
+        "symbol": "FIX",
+        "date": "2023-02-17",
+        "marketCap": 4570685560
+    },
+    {
+        "symbol": "FIX",
+        "date": "2023-02-16",
+        "marketCap": 4508014560
+    },
+    {
+        "symbol": "FIX",
+        "date": "2023-02-15",
+        "marketCap": 4457877760
+    },
+    {
+        "symbol": "FIX",
+        "date": "2023-02-14",
+        "marketCap": 4383030680
+    },
+    {
+        "symbol": "FIX",
+        "date": "2023-02-13",
+        "marketCap": 4382314440
+    },
+    {
+        "symbol": "FIX",
+        "date": "2023-02-10",
+        "marketCap": 4296007520
+    },
+    {
+        "symbol": "FIX",
+        "date": "2023-02-09",
+        "marketCap": 4254107480
+    },
+    {
+        "symbol": "FIX",
+        "date": "2023-02-08",
+        "marketCap": 4308183600
+    },
+    {
+        "symbol": "FIX",
+        "date": "2023-02-07",
+        "marketCap": 4350799880
+    },
+    {
+        "symbol": "FIX",
+        "date": "2023-02-06",
+        "marketCap": 4332177640
+    },
+    {
+        "symbol": "FIX",
+        "date": "2023-02-03",
+        "marketCap": 4380881960
+    },
+    {
+        "symbol": "FIX",
+        "date": "2023-02-02",
+        "marketCap": 4368347760
+    },
+    {
+        "symbol": "FIX",
+        "date": "2023-02-01",
+        "marketCap": 4366199040
+    },
+    {
+        "symbol": "FIX",
+        "date": "2023-01-31",
+        "marketCap": 4334684480
+    },
+    {
+        "symbol": "FIX",
+        "date": "2023-01-30",
+        "marketCap": 4227964720
+    },
+    {
+        "symbol": "FIX",
+        "date": "2023-01-27",
+        "marketCap": 4266999800
+    },
+    {
+        "symbol": "FIX",
+        "date": "2023-01-26",
+        "marketCap": 4275594680
+    },
+    {
+        "symbol": "FIX",
+        "date": "2023-01-25",
+        "marketCap": 4232978400
+    },
+    {
+        "symbol": "FIX",
+        "date": "2023-01-24",
+        "marketCap": 4285622040
+    },
+    {
+        "symbol": "FIX",
+        "date": "2023-01-23",
+        "marketCap": 4227964720
+    },
+    {
+        "symbol": "FIX",
+        "date": "2023-01-20",
+        "marketCap": 4193227080
+    },
+    {
+        "symbol": "FIX",
+        "date": "2023-01-19",
+        "marketCap": 4109068880
+    },
+    {
+        "symbol": "FIX",
+        "date": "2023-01-18",
+        "marketCap": 4256614320
+    },
+    {
+        "symbol": "FIX",
+        "date": "2023-01-17",
+        "marketCap": 4290277600
+    },
+    {
+        "symbol": "FIX",
+        "date": "2023-01-13",
+        "marketCap": 4448924760
+    },
+    {
+        "symbol": "FIX",
+        "date": "2023-01-12",
+        "marketCap": 4325731480
+    },
+    {
+        "symbol": "FIX",
+        "date": "2023-01-11",
+        "marketCap": 4194301440
+    },
+    {
+        "symbol": "FIX",
+        "date": "2023-01-10",
+        "marketCap": 4132704800
+    },
+    {
+        "symbol": "FIX",
+        "date": "2023-01-09",
+        "marketCap": 4104771440
+    },
+    {
+        "symbol": "FIX",
+        "date": "2023-01-06",
+        "marketCap": 4073973120
+    },
+    {
+        "symbol": "FIX",
+        "date": "2023-01-05",
+        "marketCap": 4005930320
+    },
+    {
+        "symbol": "FIX",
+        "date": "2023-01-04",
+        "marketCap": 4114082560
+    },
+    {
+        "symbol": "FIX",
+        "date": "2023-01-03",
+        "marketCap": 4193585200
+    },
+    {
+        "symbol": "FIX",
+        "date": "2022-12-30",
+        "marketCap": 4123086240
+    },
+    {
+        "symbol": "FIX",
+        "date": "2022-12-29",
+        "marketCap": 4219463560
+    },
+    {
+        "symbol": "FIX",
+        "date": "2022-12-28",
+        "marketCap": 4133476360
+    },
+    {
+        "symbol": "FIX",
+        "date": "2022-12-27",
+        "marketCap": 4207998600
+    },
+    {
+        "symbol": "FIX",
+        "date": "2022-12-23",
+        "marketCap": 4234511320
+    },
+    {
+        "symbol": "FIX",
+        "date": "2022-12-22",
+        "marketCap": 4187934920
+    },
+    {
+        "symbol": "FIX",
+        "date": "2022-12-21",
+        "marketCap": 4200474720
+    },
+    {
+        "symbol": "FIX",
+        "date": "2022-12-20",
+        "marketCap": 4155331440
+    },
+    {
+        "symbol": "FIX",
+        "date": "2022-12-19",
+        "marketCap": 4181127600
+    },
+    {
+        "symbol": "FIX",
+        "date": "2022-12-16",
+        "marketCap": 4156048000
+    },
+    {
+        "symbol": "FIX",
+        "date": "2022-12-15",
+        "marketCap": 4210864840
+    },
+    {
+        "symbol": "FIX",
+        "date": "2022-12-14",
+        "marketCap": 4299001720
+    },
+    {
+        "symbol": "FIX",
+        "date": "2022-12-13",
+        "marketCap": 4356684800
+    },
+    {
+        "symbol": "FIX",
+        "date": "2022-12-12",
+        "marketCap": 4312258080
+    },
+    {
+        "symbol": "FIX",
+        "date": "2022-12-09",
+        "marketCap": 4321931640
+    },
+    {
+        "symbol": "FIX",
+        "date": "2022-12-08",
+        "marketCap": 4367433200
+    },
+    {
+        "symbol": "FIX",
+        "date": "2022-12-07",
+        "marketCap": 4345219840
+    },
+    {
+        "symbol": "FIX",
+        "date": "2022-12-06",
+        "marketCap": 4358834480
+    },
+    {
+        "symbol": "FIX",
+        "date": "2022-12-05",
+        "marketCap": 4420100360
+    },
+    {
+        "symbol": "FIX",
+        "date": "2022-12-02",
+        "marketCap": 4514328000
+    },
+    {
+        "symbol": "FIX",
+        "date": "2022-12-01",
+        "marketCap": 4506445840
+    },
+    {
+        "symbol": "FIX",
+        "date": "2022-11-30",
+        "marketCap": 4541557280
+    },
+    {
+        "symbol": "FIX",
+        "date": "2022-11-29",
+        "marketCap": 4453778680
+    },
+    {
+        "symbol": "FIX",
+        "date": "2022-11-28",
+        "marketCap": 4434073280
+    },
+    {
+        "symbol": "FIX",
+        "date": "2022-11-25",
+        "marketCap": 4515044560
+    },
+    {
+        "symbol": "FIX",
+        "date": "2022-11-23",
+        "marketCap": 4516477680
+    },
+    {
+        "symbol": "FIX",
+        "date": "2022-11-22",
+        "marketCap": 4547289760
+    },
+    {
+        "symbol": "FIX",
+        "date": "2022-11-21",
+        "marketCap": 4513611440
+    },
+    {
+        "symbol": "FIX",
+        "date": "2022-11-18",
+        "marketCap": 4483874200
+    },
+    {
+        "symbol": "FIX",
+        "date": "2022-11-17",
+        "marketCap": 4433715000
+    },
+    {
+        "symbol": "FIX",
+        "date": "2022-11-16",
+        "marketCap": 4351310600
+    },
+    {
+        "symbol": "FIX",
+        "date": "2022-11-15",
+        "marketCap": 4346294680
+    },
+    {
+        "symbol": "FIX",
+        "date": "2022-11-14",
+        "marketCap": 4368149760
+    },
+    {
+        "symbol": "FIX",
+        "date": "2022-11-11",
+        "marketCap": 4355968240
+    },
+    {
+        "symbol": "FIX",
+        "date": "2022-11-10",
+        "marketCap": 4438014360
+    },
+    {
+        "symbol": "FIX",
+        "date": "2022-11-09",
+        "marketCap": 4218747000
+    },
+    {
+        "symbol": "FIX",
+        "date": "2022-11-08",
+        "marketCap": 4297210320
+    },
+    {
+        "symbol": "FIX",
+        "date": "2022-11-07",
+        "marketCap": 4362417280
+    },
+    {
+        "symbol": "FIX",
+        "date": "2022-11-04",
+        "marketCap": 4277146640
+    },
+    {
+        "symbol": "FIX",
+        "date": "2022-11-03",
+        "marketCap": 4199758160
+    },
+    {
+        "symbol": "FIX",
+        "date": "2022-11-02",
+        "marketCap": 4181485880
+    },
+    {
+        "symbol": "FIX",
+        "date": "2022-11-01",
+        "marketCap": 4334829720
+    },
+    {
+        "symbol": "FIX",
+        "date": "2022-10-31",
+        "marketCap": 4416875840
+    },
+    {
+        "symbol": "FIX",
+        "date": "2022-10-28",
+        "marketCap": 4353102000
+    },
+    {
+        "symbol": "FIX",
+        "date": "2022-10-27",
+        "marketCap": 4243468320
+    },
+    {
+        "symbol": "FIX",
+        "date": "2022-10-26",
+        "marketCap": 3929615040
+    },
+    {
+        "symbol": "FIX",
+        "date": "2022-10-25",
+        "marketCap": 3948962160
+    },
+    {
+        "symbol": "FIX",
+        "date": "2022-10-24",
+        "marketCap": 3880888959
+    },
+    {
+        "symbol": "FIX",
+        "date": "2022-10-21",
+        "marketCap": 3818906520
+    },
+    {
+        "symbol": "FIX",
+        "date": "2022-10-20",
+        "marketCap": 3714288760
+    },
+    {
+        "symbol": "FIX",
+        "date": "2022-10-19",
+        "marketCap": 3824639000
+    },
+    {
+        "symbol": "FIX",
+        "date": "2022-10-18",
+        "marketCap": 3861183560
+    },
+    {
+        "symbol": "FIX",
+        "date": "2022-10-17",
+        "marketCap": 3746175680
+    },
+    {
+        "symbol": "FIX",
+        "date": "2022-10-14",
+        "marketCap": 3630092959
+    },
+    {
+        "symbol": "FIX",
+        "date": "2022-10-13",
+        "marketCap": 3701032400
+    },
+    {
+        "symbol": "FIX",
+        "date": "2022-10-12",
+        "marketCap": 3611820680
+    },
+    {
+        "symbol": "FIX",
+        "date": "2022-10-11",
+        "marketCap": 3664129560
+    },
+    {
+        "symbol": "FIX",
+        "date": "2022-10-10",
+        "marketCap": 3619702840
+    },
+    {
+        "symbol": "FIX",
+        "date": "2022-10-07",
+        "marketCap": 3610029280
+    },
+    {
+        "symbol": "FIX",
+        "date": "2022-10-06",
+        "marketCap": 3701390680
+    },
+    {
+        "symbol": "FIX",
+        "date": "2022-10-05",
+        "marketCap": 3690284000
+    },
+    {
+        "symbol": "FIX",
+        "date": "2022-10-04",
+        "marketCap": 3830013200
+    },
+    {
+        "symbol": "FIX",
+        "date": "2022-10-03",
+        "marketCap": 3703898640
+    },
+    {
+        "symbol": "FIX",
+        "date": "2022-09-30",
+        "marketCap": 3487139240
+    },
+    {
+        "symbol": "FIX",
+        "date": "2022-09-29",
+        "marketCap": 3470211870
+    },
+    {
+        "symbol": "FIX",
+        "date": "2022-09-28",
+        "marketCap": 3574902630
+    },
+    {
+        "symbol": "FIX",
+        "date": "2022-09-27",
+        "marketCap": 3459097440
+    },
+    {
+        "symbol": "FIX",
+        "date": "2022-09-26",
+        "marketCap": 3463399800
+    },
+    {
+        "symbol": "FIX",
+        "date": "2022-09-23",
+        "marketCap": 3518971950
+    },
+    {
+        "symbol": "FIX",
+        "date": "2022-09-22",
+        "marketCap": 3597131490
+    },
+    {
+        "symbol": "FIX",
+        "date": "2022-09-21",
+        "marketCap": 3696085770
+    },
+    {
+        "symbol": "FIX",
+        "date": "2022-09-20",
+        "marketCap": 3716163450
+    },
+    {
+        "symbol": "FIX",
+        "date": "2022-09-19",
+        "marketCap": 3688556640
+    },
+    {
+        "symbol": "FIX",
+        "date": "2022-09-16",
+        "marketCap": 3577770870
+    },
+    {
+        "symbol": "FIX",
+        "date": "2022-09-15",
+        "marketCap": 3552673770
+    },
+    {
+        "symbol": "FIX",
+        "date": "2022-09-14",
+        "marketCap": 3586375590
+    },
+    {
+        "symbol": "FIX",
+        "date": "2022-09-13",
+        "marketCap": 3649835400
+    },
+    {
+        "symbol": "FIX",
+        "date": "2022-09-12",
+        "marketCap": 3743770260
+    },
+    {
+        "symbol": "FIX",
+        "date": "2022-09-09",
+        "marketCap": 3690349290
+    },
+    {
+        "symbol": "FIX",
+        "date": "2022-09-08",
+        "marketCap": 3631550370
+    },
+    {
+        "symbol": "FIX",
+        "date": "2022-09-07",
+        "marketCap": 3611114160
+    },
+    {
+        "symbol": "FIX",
+        "date": "2022-09-06",
+        "marketCap": 3535464330
+    },
+    {
+        "symbol": "FIX",
+        "date": "2022-09-02",
+        "marketCap": 3604302090
+    },
+    {
+        "symbol": "FIX",
+        "date": "2022-09-01",
+        "marketCap": 3620794470
+    },
+    {
+        "symbol": "FIX",
+        "date": "2022-08-31",
+        "marketCap": 3597490020
+    },
+    {
+        "symbol": "FIX",
+        "date": "2022-08-30",
+        "marketCap": 3578846459
+    },
+    {
+        "symbol": "FIX",
+        "date": "2022-08-29",
+        "marketCap": 3684971340
+    },
+    {
+        "symbol": "FIX",
+        "date": "2022-08-26",
+        "marketCap": 3672064260
+    },
+    {
+        "symbol": "FIX",
+        "date": "2022-08-25",
+        "marketCap": 3774603840
+    },
+    {
+        "symbol": "FIX",
+        "date": "2022-08-24",
+        "marketCap": 3667761900
+    },
+    {
+        "symbol": "FIX",
+        "date": "2022-08-23",
+        "marketCap": 3648759810
+    },
+    {
+        "symbol": "FIX",
+        "date": "2022-08-22",
+        "marketCap": 3679234860
+    },
+    {
+        "symbol": "FIX",
+        "date": "2022-08-19",
+        "marketCap": 3766357650
+    },
+    {
+        "symbol": "FIX",
+        "date": "2022-08-18",
+        "marketCap": 3864594870
+    },
+    {
+        "symbol": "FIX",
+        "date": "2022-08-17",
+        "marketCap": 3848461020
+    },
+    {
+        "symbol": "FIX",
+        "date": "2022-08-16",
+        "marketCap": 3855631620
+    },
+    {
+        "symbol": "FIX",
+        "date": "2022-08-15",
+        "marketCap": 3881804310
+    },
+    {
+        "symbol": "FIX",
+        "date": "2022-08-12",
+        "marketCap": 3887899320
+    },
+    {
+        "symbol": "FIX",
+        "date": "2022-08-11",
+        "marketCap": 3742694670
+    },
+    {
+        "symbol": "FIX",
+        "date": "2022-08-10",
+        "marketCap": 3683895750
+    },
+    {
+        "symbol": "FIX",
+        "date": "2022-08-09",
+        "marketCap": 3608245920
+    },
+    {
+        "symbol": "FIX",
+        "date": "2022-08-08",
+        "marketCap": 3707200200
+    },
+    {
+        "symbol": "FIX",
+        "date": "2022-08-05",
+        "marketCap": 3676725150
+    },
+    {
+        "symbol": "FIX",
+        "date": "2022-08-04",
+        "marketCap": 3646608630
+    },
+    {
+        "symbol": "FIX",
+        "date": "2022-08-03",
+        "marketCap": 3746279970
+    },
+    {
+        "symbol": "FIX",
+        "date": "2022-08-02",
+        "marketCap": 3754167630
+    },
+    {
+        "symbol": "FIX",
+        "date": "2022-08-01",
+        "marketCap": 3779981790
+    },
+    {
+        "symbol": "FIX",
+        "date": "2022-07-29",
+        "marketCap": 3788227980
+    },
+    {
+        "symbol": "FIX",
+        "date": "2022-07-28",
+        "marketCap": 3528652260
+    },
+    {
+        "symbol": "FIX",
+        "date": "2022-07-27",
+        "marketCap": 3319629270
+    },
+    {
+        "symbol": "FIX",
+        "date": "2022-07-26",
+        "marketCap": 3258320640
+    },
+    {
+        "symbol": "FIX",
+        "date": "2022-07-25",
+        "marketCap": 3221033520
+    },
+    {
+        "symbol": "FIX",
+        "date": "2022-07-22",
+        "marketCap": 3272661840
+    },
+    {
+        "symbol": "FIX",
+        "date": "2022-07-21",
+        "marketCap": 3272661840
+    },
+    {
+        "symbol": "FIX",
+        "date": "2022-07-20",
+        "marketCap": 3213145860
+    },
+    {
+        "symbol": "FIX",
+        "date": "2022-07-19",
+        "marketCap": 3185897580
+    },
+    {
+        "symbol": "FIX",
+        "date": "2022-07-18",
+        "marketCap": 3022407900
+    },
+    {
+        "symbol": "FIX",
+        "date": "2022-07-15",
+        "marketCap": 3056826780
+    },
+    {
+        "symbol": "FIX",
+        "date": "2022-07-14",
+        "marketCap": 3019898190
+    },
+    {
+        "symbol": "FIX",
+        "date": "2022-07-13",
+        "marketCap": 3014878770
+    },
+    {
+        "symbol": "FIX",
+        "date": "2022-07-12",
+        "marketCap": 3040334400
+    },
+    {
+        "symbol": "FIX",
+        "date": "2022-07-11",
+        "marketCap": 3086226240
+    },
+    {
+        "symbol": "FIX",
+        "date": "2022-07-08",
+        "marketCap": 3083716530
+    },
+    {
+        "symbol": "FIX",
+        "date": "2022-07-07",
+        "marketCap": 3128174250
+    },
+    {
+        "symbol": "FIX",
+        "date": "2022-07-06",
+        "marketCap": 3047146470
+    },
+    {
+        "symbol": "FIX",
+        "date": "2022-07-05",
+        "marketCap": 3097340670
+    },
+    {
+        "symbol": "FIX",
+        "date": "2022-07-01",
+        "marketCap": 3017747010
+    },
+    {
+        "symbol": "FIX",
+        "date": "2022-06-30",
+        "marketCap": 2981176950
+    },
+    {
+        "symbol": "FIX",
+        "date": "2022-06-29",
+        "marketCap": 2922562500
+    },
+    {
+        "symbol": "FIX",
+        "date": "2022-06-28",
+        "marketCap": 2963208600
+    },
+    {
+        "symbol": "FIX",
+        "date": "2022-06-27",
+        "marketCap": 3010689000
+    },
+    {
+        "symbol": "FIX",
+        "date": "2022-06-24",
+        "marketCap": 2986229400
+    },
+    {
+        "symbol": "FIX",
+        "date": "2022-06-23",
+        "marketCap": 2852421000
+    },
+    {
+        "symbol": "FIX",
+        "date": "2022-06-22",
+        "marketCap": 2802063000
+    },
+    {
+        "symbol": "FIX",
+        "date": "2022-06-21",
+        "marketCap": 2744870700
+    },
+    {
+        "symbol": "FIX",
+        "date": "2022-06-17",
+        "marketCap": 2709620100
+    },
+    {
+        "symbol": "FIX",
+        "date": "2022-06-16",
+        "marketCap": 2727245399
+    },
+    {
+        "symbol": "FIX",
+        "date": "2022-06-15",
+        "marketCap": 3016803900
+    },
+    {
+        "symbol": "FIX",
+        "date": "2022-06-14",
+        "marketCap": 3079751400
+    },
+    {
+        "symbol": "FIX",
+        "date": "2022-06-13",
+        "marketCap": 3130828800
+    },
+    {
+        "symbol": "FIX",
+        "date": "2022-06-10",
+        "marketCap": 3208524000
+    },
+    {
+        "symbol": "FIX",
+        "date": "2022-06-09",
+        "marketCap": 3296290800
+    },
+    {
+        "symbol": "FIX",
+        "date": "2022-06-08",
+        "marketCap": 3317872800
+    },
+    {
+        "symbol": "FIX",
+        "date": "2022-06-07",
+        "marketCap": 3329383200
+    },
+    {
+        "symbol": "FIX",
+        "date": "2022-06-06",
+        "marketCap": 3305283300
+    },
+    {
+        "symbol": "FIX",
+        "date": "2022-06-03",
+        "marketCap": 3284061000
+    },
+    {
+        "symbol": "FIX",
+        "date": "2022-06-02",
+        "marketCap": 3309240000
+    },
+    {
+        "symbol": "FIX",
+        "date": "2022-06-01",
+        "marketCap": 3212121000
+    },
+    {
+        "symbol": "FIX",
+        "date": "2022-05-31",
+        "marketCap": 3227228400
+    },
+    {
+        "symbol": "FIX",
+        "date": "2022-05-27",
+        "marketCap": 3294852000
+    },
+    {
+        "symbol": "FIX",
+        "date": "2022-05-26",
+        "marketCap": 3180827100
+    },
+    {
+        "symbol": "FIX",
+        "date": "2022-05-25",
+        "marketCap": 3112124400
+    },
+    {
+        "symbol": "FIX",
+        "date": "2022-05-24",
+        "marketCap": 3146655600
+    },
+    {
+        "symbol": "FIX",
+        "date": "2022-05-23",
+        "marketCap": 3026156100
+    },
+    {
+        "symbol": "FIX",
+        "date": "2022-05-20",
+        "marketCap": 2966445900
+    },
+    {
+        "symbol": "FIX",
+        "date": "2022-05-19",
+        "marketCap": 2997020399
+    },
+    {
+        "symbol": "FIX",
+        "date": "2022-05-18",
+        "marketCap": 3011408400
+    },
+    {
+        "symbol": "FIX",
+        "date": "2022-05-17",
+        "marketCap": 3078312600
+    },
+    {
+        "symbol": "FIX",
+        "date": "2022-05-16",
+        "marketCap": 3024357600
+    },
+    {
+        "symbol": "FIX",
+        "date": "2022-05-13",
+        "marketCap": 3025077000
+    },
+    {
+        "symbol": "FIX",
+        "date": "2022-05-12",
+        "marketCap": 2970402600
+    },
+    {
+        "symbol": "FIX",
+        "date": "2022-05-11",
+        "marketCap": 2934432600
+    },
+    {
+        "symbol": "FIX",
+        "date": "2022-05-10",
+        "marketCap": 3021120300
+    },
+    {
+        "symbol": "FIX",
+        "date": "2022-05-09",
+        "marketCap": 2984790600
+    },
+    {
+        "symbol": "FIX",
+        "date": "2022-05-06",
+        "marketCap": 3065003700
+    },
+    {
+        "symbol": "FIX",
+        "date": "2022-05-05",
+        "marketCap": 3120397500
+    },
+    {
+        "symbol": "FIX",
+        "date": "2022-05-04",
+        "marketCap": 3248091000
+    },
+    {
+        "symbol": "FIX",
+        "date": "2022-05-03",
+        "marketCap": 3081549900
+    },
+    {
+        "symbol": "FIX",
+        "date": "2022-05-02",
+        "marketCap": 3021839700
+    },
+    {
+        "symbol": "FIX",
+        "date": "2022-04-29",
+        "marketCap": 3036587400
+    },
+    {
+        "symbol": "FIX",
+        "date": "2022-04-28",
+        "marketCap": 3094139400
+    },
+    {
+        "symbol": "FIX",
+        "date": "2022-04-27",
+        "marketCap": 3059608200
+    },
+    {
+        "symbol": "FIX",
+        "date": "2022-04-26",
+        "marketCap": 3031191900
+    },
+    {
+        "symbol": "FIX",
+        "date": "2022-04-25",
+        "marketCap": 3120037800
+    },
+    {
+        "symbol": "FIX",
+        "date": "2022-04-22",
+        "marketCap": 3116440800
+    },
+    {
+        "symbol": "FIX",
+        "date": "2022-04-21",
+        "marketCap": 3216797100
+    },
+    {
+        "symbol": "FIX",
+        "date": "2022-04-20",
+        "marketCap": 3297369900
+    },
+    {
+        "symbol": "FIX",
+        "date": "2022-04-19",
+        "marketCap": 3204207600
+    },
+    {
+        "symbol": "FIX",
+        "date": "2022-04-18",
+        "marketCap": 3135504900
+    },
+    {
+        "symbol": "FIX",
+        "date": "2022-04-14",
+        "marketCap": 3185862899
+    },
+    {
+        "symbol": "FIX",
+        "date": "2022-04-13",
+        "marketCap": 3194855399
+    },
+    {
+        "symbol": "FIX",
+        "date": "2022-04-12",
+        "marketCap": 3156367500
+    },
+    {
+        "symbol": "FIX",
+        "date": "2022-04-11",
+        "marketCap": 3118599000
+    },
+    {
+        "symbol": "FIX",
+        "date": "2022-04-08",
+        "marketCap": 3129030300
+    },
+    {
+        "symbol": "FIX",
+        "date": "2022-04-07",
+        "marketCap": 3156727200
+    },
+    {
+        "symbol": "FIX",
+        "date": "2022-04-06",
+        "marketCap": 3146295900
+    },
+    {
+        "symbol": "FIX",
+        "date": "2022-04-05",
+        "marketCap": 3197733000
+    },
+    {
+        "symbol": "FIX",
+        "date": "2022-04-04",
+        "marketCap": 3230106000
+    },
+    {
+        "symbol": "FIX",
+        "date": "2022-04-01",
+        "marketCap": 3241976100
+    },
+    {
+        "symbol": "FIX",
+        "date": "2022-03-31",
+        "marketCap": 3201689700
+    },
+    {
+        "symbol": "FIX",
+        "date": "2022-03-30",
+        "marketCap": 3246840000
+    },
+    {
+        "symbol": "FIX",
+        "date": "2022-03-29",
+        "marketCap": 3287245120
+    },
+    {
+        "symbol": "FIX",
+        "date": "2022-03-28",
+        "marketCap": 3182263960
+    },
+    {
+        "symbol": "FIX",
+        "date": "2022-03-25",
+        "marketCap": 3177934840
+    },
+    {
+        "symbol": "FIX",
+        "date": "2022-03-24",
+        "marketCap": 3168555080
+    },
+    {
+        "symbol": "FIX",
+        "date": "2022-03-23",
+        "marketCap": 3288688160
+    },
+    {
+        "symbol": "FIX",
+        "date": "2022-03-22",
+        "marketCap": 3410264280
+    },
+    {
+        "symbol": "FIX",
+        "date": "2022-03-21",
+        "marketCap": 3355068000
+    },
+    {
+        "symbol": "FIX",
+        "date": "2022-03-18",
+        "marketCap": 3330897080
+    },
+    {
+        "symbol": "FIX",
+        "date": "2022-03-17",
+        "marketCap": 3337030000
+    },
+    {
+        "symbol": "FIX",
+        "date": "2022-03-16",
+        "marketCap": 3316105920
+    },
+    {
+        "symbol": "FIX",
+        "date": "2022-03-15",
+        "marketCap": 3287245120
+    },
+    {
+        "symbol": "FIX",
+        "date": "2022-03-14",
+        "marketCap": 3271371680
+    },
+    {
+        "symbol": "FIX",
+        "date": "2022-03-11",
+        "marketCap": 3274979280
+    },
+    {
+        "symbol": "FIX",
+        "date": "2022-03-10",
+        "marketCap": 3265599520
+    },
+    {
+        "symbol": "FIX",
+        "date": "2022-03-09",
+        "marketCap": 3225555160
+    },
+    {
+        "symbol": "FIX",
+        "date": "2022-03-08",
+        "marketCap": 3102536000
+    },
+    {
+        "symbol": "FIX",
+        "date": "2022-03-07",
+        "marketCap": 3030023240
+    },
+    {
+        "symbol": "FIX",
+        "date": "2022-03-04",
+        "marketCap": 3066460000
+    },
+    {
+        "symbol": "FIX",
+        "date": "2022-03-03",
+        "marketCap": 3093877760
+    },
+    {
+        "symbol": "FIX",
+        "date": "2022-03-02",
+        "marketCap": 3132839840
+    },
+    {
+        "symbol": "FIX",
+        "date": "2022-03-01",
+        "marketCap": 3013428280
+    },
+    {
+        "symbol": "FIX",
+        "date": "2022-02-28",
+        "marketCap": 3101814480
+    },
+    {
+        "symbol": "FIX",
+        "date": "2022-02-25",
+        "marketCap": 3105422080
+    },
+    {
+        "symbol": "FIX",
+        "date": "2022-02-24",
+        "marketCap": 2982763680
+    },
+    {
+        "symbol": "FIX",
+        "date": "2022-02-23",
+        "marketCap": 3044453640
+    },
+    {
+        "symbol": "FIX",
+        "date": "2022-02-22",
+        "marketCap": 3096763840
+    },
+    {
+        "symbol": "FIX",
+        "date": "2022-02-18",
+        "marketCap": 3182624720
+    },
+    {
+        "symbol": "FIX",
+        "date": "2022-02-17",
+        "marketCap": 3173966480
+    },
+    {
+        "symbol": "FIX",
+        "date": "2022-02-16",
+        "marketCap": 3251529880
+    },
+    {
+        "symbol": "FIX",
+        "date": "2022-02-15",
+        "marketCap": 3230605800
+    },
+    {
+        "symbol": "FIX",
+        "date": "2022-02-14",
+        "marketCap": 3148713280
+    },
+    {
+        "symbol": "FIX",
+        "date": "2022-02-11",
+        "marketCap": 3131396800
+    },
+    {
+        "symbol": "FIX",
+        "date": "2022-02-10",
+        "marketCap": 3145105680
+    },
+    {
+        "symbol": "FIX",
+        "date": "2022-02-09",
+        "marketCap": 3229523520
+    },
+    {
+        "symbol": "FIX",
+        "date": "2022-02-08",
+        "marketCap": 3099649920
+    },
+    {
+        "symbol": "FIX",
+        "date": "2022-02-07",
+        "marketCap": 3062491640
+    },
+    {
+        "symbol": "FIX",
+        "date": "2022-02-04",
+        "marketCap": 3050947319
+    },
+    {
+        "symbol": "FIX",
+        "date": "2022-02-03",
+        "marketCap": 3074757480
+    },
+    {
+        "symbol": "FIX",
+        "date": "2022-02-02",
+        "marketCap": 3143301880
+    },
+    {
+        "symbol": "FIX",
+        "date": "2022-02-01",
+        "marketCap": 3210042480
+    },
+    {
+        "symbol": "FIX",
+        "date": "2022-01-31",
+        "marketCap": 3238903280
+    },
+    {
+        "symbol": "FIX",
+        "date": "2022-01-28",
+        "marketCap": 3152681640
+    },
+    {
+        "symbol": "FIX",
+        "date": "2022-01-27",
+        "marketCap": 3079808120
+    },
+    {
+        "symbol": "FIX",
+        "date": "2022-01-26",
+        "marketCap": 3119130960
+    },
+    {
+        "symbol": "FIX",
+        "date": "2022-01-25",
+        "marketCap": 3184067760
+    },
+    {
+        "symbol": "FIX",
+        "date": "2022-01-24",
+        "marketCap": 3250808360
+    },
+    {
+        "symbol": "FIX",
+        "date": "2022-01-21",
+        "marketCap": 3182624720
+    },
+    {
+        "symbol": "FIX",
+        "date": "2022-01-20",
+        "marketCap": 3295903360
+    },
+    {
+        "symbol": "FIX",
+        "date": "2022-01-19",
+        "marketCap": 3252251400
+    },
+    {
+        "symbol": "FIX",
+        "date": "2022-01-18",
+        "marketCap": 3361922440
+    },
+    {
+        "symbol": "FIX",
+        "date": "2022-01-14",
+        "marketCap": 3497207440
+    },
+    {
+        "symbol": "FIX",
+        "date": "2022-01-13",
+        "marketCap": 3532201160
+    },
+    {
+        "symbol": "FIX",
+        "date": "2022-01-12",
+        "marketCap": 3525707480
+    },
+    {
+        "symbol": "FIX",
+        "date": "2022-01-11",
+        "marketCap": 3499372000
+    },
+    {
+        "symbol": "FIX",
+        "date": "2022-01-10",
+        "marketCap": 3461492200
+    },
+    {
+        "symbol": "FIX",
+        "date": "2022-01-07",
+        "marketCap": 3458606120
+    },
+    {
+        "symbol": "FIX",
+        "date": "2022-01-06",
+        "marketCap": 3530036600
+    },
+    {
+        "symbol": "FIX",
+        "date": "2022-01-05",
+        "marketCap": 3448504840
+    },
+    {
+        "symbol": "FIX",
+        "date": "2022-01-04",
+        "marketCap": 3581264520
+    },
+    {
+        "symbol": "FIX",
+        "date": "2022-01-03",
+        "marketCap": 3539416360
+    },
+    {
+        "symbol": "FIX",
+        "date": "2021-12-31",
+        "marketCap": 3569359440
+    },
+    {
+        "symbol": "FIX",
+        "date": "2021-12-30",
+        "marketCap": 3569348640
+    },
+    {
+        "symbol": "FIX",
+        "date": "2021-12-29",
+        "marketCap": 3614718640
+    },
+    {
+        "symbol": "FIX",
+        "date": "2021-12-28",
+        "marketCap": 3607459440
+    },
+    {
+        "symbol": "FIX",
+        "date": "2021-12-27",
+        "marketCap": 3663355280
+    },
+    {
+        "symbol": "FIX",
+        "date": "2021-12-23",
+        "marketCap": 3587496640
+    },
+    {
+        "symbol": "FIX",
+        "date": "2021-12-22",
+        "marketCap": 3554830240
+    },
+    {
+        "symbol": "FIX",
+        "date": "2021-12-21",
+        "marketCap": 3513815760
+    },
+    {
+        "symbol": "FIX",
+        "date": "2021-12-20",
+        "marketCap": 3384964960
+    },
+    {
+        "symbol": "FIX",
+        "date": "2021-12-17",
+        "marketCap": 3447394080
+    },
+    {
+        "symbol": "FIX",
+        "date": "2021-12-16",
+        "marketCap": 3509460240
+    },
+    {
+        "symbol": "FIX",
+        "date": "2021-12-15",
+        "marketCap": 3583141120
+    },
+    {
+        "symbol": "FIX",
+        "date": "2021-12-14",
+        "marketCap": 3482601200
+    },
+    {
+        "symbol": "FIX",
+        "date": "2021-12-13",
+        "marketCap": 3507282480
+    },
+    {
+        "symbol": "FIX",
+        "date": "2021-12-10",
+        "marketCap": 3514904640
+    },
+    {
+        "symbol": "FIX",
+        "date": "2021-12-09",
+        "marketCap": 3504378800
+    },
+    {
+        "symbol": "FIX",
+        "date": "2021-12-08",
+        "marketCap": 3558459840
+    },
+    {
+        "symbol": "FIX",
+        "date": "2021-12-07",
+        "marketCap": 3526519360
+    },
+    {
+        "symbol": "FIX",
+        "date": "2021-12-06",
+        "marketCap": 3495304800
+    },
+    {
+        "symbol": "FIX",
+        "date": "2021-12-03",
+        "marketCap": 3432149760
+    },
+    {
+        "symbol": "FIX",
+        "date": "2021-12-02",
+        "marketCap": 3460097680
+    },
+    {
+        "symbol": "FIX",
+        "date": "2021-12-01",
+        "marketCap": 3402024080
+    },
+    {
+        "symbol": "FIX",
+        "date": "2021-11-30",
+        "marketCap": 3443401520
+    },
+    {
+        "symbol": "FIX",
+        "date": "2021-11-29",
+        "marketCap": 3551926560
+    },
+    {
+        "symbol": "FIX",
+        "date": "2021-11-26",
+        "marketCap": 3567533840
+    },
+    {
+        "symbol": "FIX",
+        "date": "2021-11-24",
+        "marketCap": 3707636400
+    },
+    {
+        "symbol": "FIX",
+        "date": "2021-11-23",
+        "marketCap": 3719977040
+    },
+    {
+        "symbol": "FIX",
+        "date": "2021-11-22",
+        "marketCap": 3721428880
+    },
+    {
+        "symbol": "FIX",
+        "date": "2021-11-19",
+        "marketCap": 3694932800
+    },
+    {
+        "symbol": "FIX",
+        "date": "2021-11-18",
+        "marketCap": 3731591760
+    },
+    {
+        "symbol": "FIX",
+        "date": "2021-11-17",
+        "marketCap": 3714532640
+    },
+    {
+        "symbol": "FIX",
+        "date": "2021-11-16",
+        "marketCap": 3710177120
+    },
+    {
+        "symbol": "FIX",
+        "date": "2021-11-15",
+        "marketCap": 3653192400
+    },
+    {
+        "symbol": "FIX",
+        "date": "2021-11-12",
+        "marketCap": 3625607440
+    },
+    {
+        "symbol": "FIX",
+        "date": "2021-11-11",
+        "marketCap": 3604555760
+    },
+    {
+        "symbol": "FIX",
+        "date": "2021-11-10",
+        "marketCap": 3560637600
+    },
+    {
+        "symbol": "FIX",
+        "date": "2021-11-09",
+        "marketCap": 3596207680
+    },
+    {
+        "symbol": "FIX",
+        "date": "2021-11-08",
+        "marketCap": 3596207680
+    },
+    {
+        "symbol": "FIX",
+        "date": "2021-11-05",
+        "marketCap": 3594029920
+    },
+    {
+        "symbol": "FIX",
+        "date": "2021-11-04",
+        "marketCap": 3415090640
+    },
+    {
+        "symbol": "FIX",
+        "date": "2021-11-03",
+        "marketCap": 3461912480
+    },
+    {
+        "symbol": "FIX",
+        "date": "2021-11-02",
+        "marketCap": 3416542480
+    },
+    {
+        "symbol": "FIX",
+        "date": "2021-11-01",
+        "marketCap": 3359920719
+    },
+    {
+        "symbol": "FIX",
+        "date": "2021-10-29",
+        "marketCap": 3319995120
+    },
+    {
+        "symbol": "FIX",
+        "date": "2021-10-28",
+        "marketCap": 3233973600
+    },
+    {
+        "symbol": "FIX",
+        "date": "2021-10-27",
+        "marketCap": 3006760640
+    },
+    {
+        "symbol": "FIX",
+        "date": "2021-10-26",
+        "marketCap": 3104033920
+    },
+    {
+        "symbol": "FIX",
+        "date": "2021-10-25",
+        "marketCap": 3108752400
+    },
+    {
+        "symbol": "FIX",
+        "date": "2021-10-22",
+        "marketCap": 3054671360
+    },
+    {
+        "symbol": "FIX",
+        "date": "2021-10-21",
+        "marketCap": 3018375360
+    },
+    {
+        "symbol": "FIX",
+        "date": "2021-10-20",
+        "marketCap": 2980990480
+    },
+    {
+        "symbol": "FIX",
+        "date": "2021-10-19",
+        "marketCap": 2943242640
+    },
+    {
+        "symbol": "FIX",
+        "date": "2021-10-18",
+        "marketCap": 2929450160
+    },
+    {
+        "symbol": "FIX",
+        "date": "2021-10-15",
+        "marketCap": 2917472480
+    },
+    {
+        "symbol": "FIX",
+        "date": "2021-10-14",
+        "marketCap": 2952679600
+    },
+    {
+        "symbol": "FIX",
+        "date": "2021-10-13",
+        "marketCap": 2848510080
+    },
+    {
+        "symbol": "FIX",
+        "date": "2021-10-12",
+        "marketCap": 2844517520
+    },
+    {
+        "symbol": "FIX",
+        "date": "2021-10-11",
+        "marketCap": 2834717600
+    },
+    {
+        "symbol": "FIX",
+        "date": "2021-10-08",
+        "marketCap": 2847784160
+    },
+    {
+        "symbol": "FIX",
+        "date": "2021-10-07",
+        "marketCap": 2834354640
+    },
+    {
+        "symbol": "FIX",
+        "date": "2021-10-06",
+        "marketCap": 2785718000
+    },
+    {
+        "symbol": "FIX",
+        "date": "2021-10-05",
+        "marketCap": 2777369920
+    },
+    {
+        "symbol": "FIX",
+        "date": "2021-10-04",
+        "marketCap": 2732362880
+    },
+    {
+        "symbol": "FIX",
+        "date": "2021-10-01",
+        "marketCap": 2688081760
+    },
+    {
+        "symbol": "FIX",
+        "date": "2021-09-30",
+        "marketCap": 2588630719
+    },
+    {
+        "symbol": "FIX",
+        "date": "2021-09-29",
+        "marketCap": 2649245040
+    },
+    {
+        "symbol": "FIX",
+        "date": "2021-09-28",
+        "marketCap": 2618756400
+    },
+    {
+        "symbol": "FIX",
+        "date": "2021-09-27",
+        "marketCap": 2689896560
+    },
+    {
+        "symbol": "FIX",
+        "date": "2021-09-24",
+        "marketCap": 2619482320
+    },
+    {
+        "symbol": "FIX",
+        "date": "2021-09-23",
+        "marketCap": 2631097040
+    },
+    {
+        "symbol": "FIX",
+        "date": "2021-09-22",
+        "marketCap": 2545801440
+    },
+    {
+        "symbol": "FIX",
+        "date": "2021-09-21",
+        "marketCap": 2509505440
+    },
+    {
+        "symbol": "FIX",
+        "date": "2021-09-20",
+        "marketCap": 2534186719
+    },
+    {
+        "symbol": "FIX",
+        "date": "2021-09-17",
+        "marketCap": 2522934960
+    },
+    {
+        "symbol": "FIX",
+        "date": "2021-09-16",
+        "marketCap": 2533460800
+    },
+    {
+        "symbol": "FIX",
+        "date": "2021-09-15",
+        "marketCap": 2558142080
+    },
+    {
+        "symbol": "FIX",
+        "date": "2021-09-14",
+        "marketCap": 2525838640
+    },
+    {
+        "symbol": "FIX",
+        "date": "2021-09-13",
+        "marketCap": 2606415760
+    },
+    {
+        "symbol": "FIX",
+        "date": "2021-09-10",
+        "marketCap": 2602423200
+    },
+    {
+        "symbol": "FIX",
+        "date": "2021-09-09",
+        "marketCap": 2639808080
+    },
+    {
+        "symbol": "FIX",
+        "date": "2021-09-08",
+        "marketCap": 2671748560
+    },
+    {
+        "symbol": "FIX",
+        "date": "2021-09-07",
+        "marketCap": 2704777920
+    },
+    {
+        "symbol": "FIX",
+        "date": "2021-09-03",
+        "marketCap": 2775192160
+    },
+    {
+        "symbol": "FIX",
+        "date": "2021-09-02",
+        "marketCap": 2772288480
+    },
+    {
+        "symbol": "FIX",
+        "date": "2021-09-01",
+        "marketCap": 2712037120
+    },
+    {
+        "symbol": "FIX",
+        "date": "2021-08-31",
+        "marketCap": 2757770080
+    },
+    {
+        "symbol": "FIX",
+        "date": "2021-08-30",
+        "marketCap": 2746881280
+    },
+    {
+        "symbol": "FIX",
+        "date": "2021-08-27",
+        "marketCap": 2757407120
+    },
+    {
+        "symbol": "FIX",
+        "date": "2021-08-26",
+        "marketCap": 2687355840
+    },
+    {
+        "symbol": "FIX",
+        "date": "2021-08-25",
+        "marketCap": 2730548080
+    },
+    {
+        "symbol": "FIX",
+        "date": "2021-08-24",
+        "marketCap": 2747244240
+    },
+    {
+        "symbol": "FIX",
+        "date": "2021-08-23",
+        "marketCap": 2748696080
+    },
+    {
+        "symbol": "FIX",
+        "date": "2021-08-20",
+        "marketCap": 2699696480
+    },
+    {
+        "symbol": "FIX",
+        "date": "2021-08-19",
+        "marketCap": 2659407920
+    },
+    {
+        "symbol": "FIX",
+        "date": "2021-08-18",
+        "marketCap": 2690259520
+    },
+    {
+        "symbol": "FIX",
+        "date": "2021-08-17",
+        "marketCap": 2717844480
+    },
+    {
+        "symbol": "FIX",
+        "date": "2021-08-16",
+        "marketCap": 2776644000
+    },
+    {
+        "symbol": "FIX",
+        "date": "2021-08-13",
+        "marketCap": 2768658880
+    },
+    {
+        "symbol": "FIX",
+        "date": "2021-08-12",
+        "marketCap": 2795880880
+    },
+    {
+        "symbol": "FIX",
+        "date": "2021-08-11",
+        "marketCap": 2820562160
+    },
+    {
+        "symbol": "FIX",
+        "date": "2021-08-10",
+        "marketCap": 2806043760
+    },
+    {
+        "symbol": "FIX",
+        "date": "2021-08-09",
+        "marketCap": 2768295920
+    },
+    {
+        "symbol": "FIX",
+        "date": "2021-08-06",
+        "marketCap": 2767932960
+    },
+    {
+        "symbol": "FIX",
+        "date": "2021-08-05",
+        "marketCap": 2742162800
+    },
+    {
+        "symbol": "FIX",
+        "date": "2021-08-04",
+        "marketCap": 2690259520
+    },
+    {
+        "symbol": "FIX",
+        "date": "2021-08-03",
+        "marketCap": 2718207440
+    },
+    {
+        "symbol": "FIX",
+        "date": "2021-08-02",
+        "marketCap": 2653237600
+    },
+    {
+        "symbol": "FIX",
+        "date": "2021-07-30",
+        "marketCap": 2713126000
+    },
+    {
+        "symbol": "FIX",
+        "date": "2021-07-29",
+        "marketCap": 2717481520
+    },
+    {
+        "symbol": "FIX",
+        "date": "2021-07-28",
+        "marketCap": 2695703920
+    },
+    {
+        "symbol": "FIX",
+        "date": "2021-07-27",
+        "marketCap": 2699333520
+    },
+    {
+        "symbol": "FIX",
+        "date": "2021-07-26",
+        "marketCap": 2721111120
+    },
+    {
+        "symbol": "FIX",
+        "date": "2021-07-23",
+        "marketCap": 2735992480
+    },
+    {
+        "symbol": "FIX",
+        "date": "2021-07-22",
+        "marketCap": 2690259520
+    },
+    {
+        "symbol": "FIX",
+        "date": "2021-07-21",
+        "marketCap": 2767570000
+    },
+    {
+        "symbol": "FIX",
+        "date": "2021-07-20",
+        "marketCap": 2724014800
+    },
+    {
+        "symbol": "FIX",
+        "date": "2021-07-19",
+        "marketCap": 2626741520
+    },
+    {
+        "symbol": "FIX",
+        "date": "2021-07-16",
+        "marketCap": 2665215280
+    },
+    {
+        "symbol": "FIX",
+        "date": "2021-07-15",
+        "marketCap": 2733814719
+    },
+    {
+        "symbol": "FIX",
+        "date": "2021-07-14",
+        "marketCap": 2766118160
+    },
+    {
+        "symbol": "FIX",
+        "date": "2021-07-13",
+        "marketCap": 2790436480
+    },
+    {
+        "symbol": "FIX",
+        "date": "2021-07-12",
+        "marketCap": 2826006560
+    },
+    {
+        "symbol": "FIX",
+        "date": "2021-07-09",
+        "marketCap": 2828184320
+    },
+    {
+        "symbol": "FIX",
+        "date": "2021-07-08",
+        "marketCap": 2759221920
+    },
+    {
+        "symbol": "FIX",
+        "date": "2021-07-07",
+        "marketCap": 2786443920
+    },
+    {
+        "symbol": "FIX",
+        "date": "2021-07-06",
+        "marketCap": 2766481120
+    },
+    {
+        "symbol": "FIX",
+        "date": "2021-07-02",
+        "marketCap": 2819473280
+    },
+    {
+        "symbol": "FIX",
+        "date": "2021-07-01",
+        "marketCap": 2871739520
+    },
+    {
+        "symbol": "FIX",
+        "date": "2021-06-30",
+        "marketCap": 2859761840
+    },
+    {
+        "symbol": "FIX",
+        "date": "2021-06-29",
+        "marketCap": 2853267140
+    },
+    {
+        "symbol": "FIX",
+        "date": "2021-06-28",
+        "marketCap": 2841254150
+    },
+    {
+        "symbol": "FIX",
+        "date": "2021-06-25",
+        "marketCap": 2888578050
+    },
+    {
+        "symbol": "FIX",
+        "date": "2021-06-24",
+        "marketCap": 2884209690
+    },
+    {
+        "symbol": "FIX",
+        "date": "2021-06-23",
+        "marketCap": 2865644160
+    },
+    {
+        "symbol": "FIX",
+        "date": "2021-06-22",
+        "marketCap": 2882389540
+    },
+    {
+        "symbol": "FIX",
+        "date": "2021-06-21",
+        "marketCap": 2883845660
+    },
+    {
+        "symbol": "FIX",
+        "date": "2021-06-18",
+        "marketCap": 2811767720
+    },
+    {
+        "symbol": "FIX",
+        "date": "2021-06-17",
+        "marketCap": 2957743750
+    },
+    {
+        "symbol": "FIX",
+        "date": "2021-06-16",
+        "marketCap": 3028001540
+    },
+    {
+        "symbol": "FIX",
+        "date": "2021-06-15",
+        "marketCap": 3043654830
+    },
+    {
+        "symbol": "FIX",
+        "date": "2021-06-14",
+        "marketCap": 3090614700
+    },
+    {
+        "symbol": "FIX",
+        "date": "2021-06-11",
+        "marketCap": 3056395880
+    },
+    {
+        "symbol": "FIX",
+        "date": "2021-06-10",
+        "marketCap": 3037830350
+    },
+    {
+        "symbol": "FIX",
+        "date": "2021-06-09",
+        "marketCap": 3108452170
+    },
+    {
+        "symbol": "FIX",
+        "date": "2021-06-08",
+        "marketCap": 3147403380
+    },
+    {
+        "symbol": "FIX",
+        "date": "2021-06-07",
+        "marketCap": 3121557250
+    },
+    {
+        "symbol": "FIX",
+        "date": "2021-06-04",
+        "marketCap": 3139758750
+    },
+    {
+        "symbol": "FIX",
+        "date": "2021-06-03",
+        "marketCap": 3100443510
+    },
+    {
+        "symbol": "FIX",
+        "date": "2021-06-02",
+        "marketCap": 3024361240
+    },
+    {
+        "symbol": "FIX",
+        "date": "2021-06-01",
+        "marketCap": 3077145590
+    },
+    {
+        "symbol": "FIX",
+        "date": "2021-05-28",
+        "marketCap": 3017808700
+    },
+    {
+        "symbol": "FIX",
+        "date": "2021-05-27",
+        "marketCap": 2941362400
+    },
+    {
+        "symbol": "FIX",
+        "date": "2021-05-26",
+        "marketCap": 2918428510
+    },
+    {
+        "symbol": "FIX",
+        "date": "2021-05-25",
+        "marketCap": 2890762230
+    },
+    {
+        "symbol": "FIX",
+        "date": "2021-05-24",
+        "marketCap": 2940634340
+    },
+    {
+        "symbol": "FIX",
+        "date": "2021-05-21",
+        "marketCap": 2944638670
+    },
+    {
+        "symbol": "FIX",
+        "date": "2021-05-20",
+        "marketCap": 2937358070
+    },
+    {
+        "symbol": "FIX",
+        "date": "2021-05-19",
+        "marketCap": 2923524930
+    },
+    {
+        "symbol": "FIX",
+        "date": "2021-05-18",
+        "marketCap": 2985774060
+    },
+    {
+        "symbol": "FIX",
+        "date": "2021-05-17",
+        "marketCap": 3021813030
+    },
+    {
+        "symbol": "FIX",
+        "date": "2021-05-14",
+        "marketCap": 3018172730
+    },
+    {
+        "symbol": "FIX",
+        "date": "2021-05-13",
+        "marketCap": 2989050330
+    },
+    {
+        "symbol": "FIX",
+        "date": "2021-05-12",
+        "marketCap": 2930441500
+    },
+    {
+        "symbol": "FIX",
+        "date": "2021-05-11",
+        "marketCap": 3135026360
+    },
+    {
+        "symbol": "FIX",
+        "date": "2021-05-10",
+        "marketCap": 3140850840
+    },
+    {
+        "symbol": "FIX",
+        "date": "2021-05-07",
+        "marketCap": 3162328610
+    },
+    {
+        "symbol": "FIX",
+        "date": "2021-05-06",
+        "marketCap": 3152135770
+    },
+    {
+        "symbol": "FIX",
+        "date": "2021-05-05",
+        "marketCap": 3092434850
+    },
+    {
+        "symbol": "FIX",
+        "date": "2021-05-04",
+        "marketCap": 3120465160
+    },
+    {
+        "symbol": "FIX",
+        "date": "2021-05-03",
+        "marketCap": 3090614700
+    },
+    {
+        "symbol": "FIX",
+        "date": "2021-04-30",
+        "marketCap": 2998151080
+    },
+    {
+        "symbol": "FIX",
+        "date": "2021-04-29",
+        "marketCap": 2991962570
+    },
+    {
+        "symbol": "FIX",
+        "date": "2021-04-28",
+        "marketCap": 2963568230
+    },
+    {
+        "symbol": "FIX",
+        "date": "2021-04-27",
+        "marketCap": 2986138090
+    },
+    {
+        "symbol": "FIX",
+        "date": "2021-04-26",
+        "marketCap": 2979585550
+    },
+    {
+        "symbol": "FIX",
+        "date": "2021-04-23",
+        "marketCap": 2935173890
+    },
+    {
+        "symbol": "FIX",
+        "date": "2021-04-22",
+        "marketCap": 2887485959
+    },
+    {
+        "symbol": "FIX",
+        "date": "2021-04-21",
+        "marketCap": 2928985380
+    },
+    {
+        "symbol": "FIX",
+        "date": "2021-04-20",
+        "marketCap": 2919520600
+    },
+    {
+        "symbol": "FIX",
+        "date": "2021-04-19",
+        "marketCap": 2957379720
+    },
+    {
+        "symbol": "FIX",
+        "date": "2021-04-16",
+        "marketCap": 2946094790
+    },
+    {
+        "symbol": "FIX",
+        "date": "2021-04-15",
+        "marketCap": 2914060150
+    },
+    {
+        "symbol": "FIX",
+        "date": "2021-04-14",
+        "marketCap": 2912604030
+    },
+    {
+        "symbol": "FIX",
+        "date": "2021-04-13",
+        "marketCap": 2883117600
+    },
+    {
+        "symbol": "FIX",
+        "date": "2021-04-12",
+        "marketCap": 2890762230
+    },
+    {
+        "symbol": "FIX",
+        "date": "2021-04-09",
+        "marketCap": 2886393870
+    },
+    {
+        "symbol": "FIX",
+        "date": "2021-04-08",
+        "marketCap": 2810675630
+    },
+    {
+        "symbol": "FIX",
+        "date": "2021-04-07",
+        "marketCap": 2730225000
+    },
+    {
+        "symbol": "FIX",
+        "date": "2021-04-06",
+        "marketCap": 2795386370
+    },
+    {
+        "symbol": "FIX",
+        "date": "2021-04-05",
+        "marketCap": 2781917260
+    },
+    {
+        "symbol": "FIX",
+        "date": "2021-04-01",
+        "marketCap": 2768448150
+    },
+    {
+        "symbol": "FIX",
+        "date": "2021-03-31",
+        "marketCap": 2721852310
+    },
+    {
+        "symbol": "FIX",
+        "date": "2021-03-30",
+        "marketCap": 2728707200
+    },
+    {
+        "symbol": "FIX",
+        "date": "2021-03-29",
+        "marketCap": 2661578100
+    },
+    {
+        "symbol": "FIX",
+        "date": "2021-03-26",
+        "marketCap": 2723990019
+    },
+    {
+        "symbol": "FIX",
+        "date": "2021-03-25",
+        "marketCap": 2632186440
+    },
+    {
+        "symbol": "FIX",
+        "date": "2021-03-24",
+        "marketCap": 2573040260
+    },
+    {
+        "symbol": "FIX",
+        "date": "2021-03-23",
+        "marketCap": 2594449000
+    },
+    {
+        "symbol": "FIX",
+        "date": "2021-03-22",
+        "marketCap": 2657586640
+    },
+    {
+        "symbol": "FIX",
+        "date": "2021-03-19",
+        "marketCap": 2657949500
+    },
+    {
+        "symbol": "FIX",
+        "date": "2021-03-18",
+        "marketCap": 2680446820
+    },
+    {
+        "symbol": "FIX",
+        "date": "2021-03-17",
+        "marketCap": 2710201340
+    },
+    {
+        "symbol": "FIX",
+        "date": "2021-03-16",
+        "marketCap": 2641257940
+    },
+    {
+        "symbol": "FIX",
+        "date": "2021-03-15",
+        "marketCap": 2663755260
+    },
+    {
+        "symbol": "FIX",
+        "date": "2021-03-12",
+        "marketCap": 2709112760
+    },
+    {
+        "symbol": "FIX",
+        "date": "2021-03-11",
+        "marketCap": 2693509780
+    },
+    {
+        "symbol": "FIX",
+        "date": "2021-03-10",
+        "marketCap": 2710564200
+    },
+    {
+        "symbol": "FIX",
+        "date": "2021-03-09",
+        "marketCap": 2696412660
+    },
+    {
+        "symbol": "FIX",
+        "date": "2021-03-08",
+        "marketCap": 2666658140
+    },
+    {
+        "symbol": "FIX",
+        "date": "2021-03-05",
+        "marketCap": 2535665680
+    },
+    {
+        "symbol": "FIX",
+        "date": "2021-03-04",
+        "marketCap": 2439870640
+    },
+    {
+        "symbol": "FIX",
+        "date": "2021-03-03",
+        "marketCap": 2476519500
+    },
+    {
+        "symbol": "FIX",
+        "date": "2021-03-02",
+        "marketCap": 2413019000
+    },
+    {
+        "symbol": "FIX",
+        "date": "2021-03-01",
+        "marketCap": 2377095860
+    },
+    {
+        "symbol": "FIX",
+        "date": "2021-02-26",
+        "marketCap": 2247554840
+    },
+    {
+        "symbol": "FIX",
+        "date": "2021-02-25",
+        "marketCap": 2272229320
+    },
+    {
+        "symbol": "FIX",
+        "date": "2021-02-24",
+        "marketCap": 2317586820
+    },
+    {
+        "symbol": "FIX",
+        "date": "2021-02-23",
+        "marketCap": 2240660500
+    },
+    {
+        "symbol": "FIX",
+        "date": "2021-02-22",
+        "marketCap": 2242837660
+    },
+    {
+        "symbol": "FIX",
+        "date": "2021-02-19",
+        "marketCap": 2197480160
+    },
+    {
+        "symbol": "FIX",
+        "date": "2021-02-18",
+        "marketCap": 2164097040
+    },
+    {
+        "symbol": "FIX",
+        "date": "2021-02-17",
+        "marketCap": 2209091680
+    },
+    {
+        "symbol": "FIX",
+        "date": "2021-02-16",
+        "marketCap": 2238846200
+    },
+    {
+        "symbol": "FIX",
+        "date": "2021-02-12",
+        "marketCap": 2299443820
+    },
+    {
+        "symbol": "FIX",
+        "date": "2021-02-11",
+        "marketCap": 2324481160
+    },
+    {
+        "symbol": "FIX",
+        "date": "2021-02-10",
+        "marketCap": 2325932600
+    },
+    {
+        "symbol": "FIX",
+        "date": "2021-02-09",
+        "marketCap": 2374555840
+    },
+    {
+        "symbol": "FIX",
+        "date": "2021-02-08",
+        "marketCap": 2350607080
+    },
+    {
+        "symbol": "FIX",
+        "date": "2021-02-05",
+        "marketCap": 2108216600
+    },
+    {
+        "symbol": "FIX",
+        "date": "2021-02-04",
+        "marketCap": 2093702200
+    },
+    {
+        "symbol": "FIX",
+        "date": "2021-02-03",
+        "marketCap": 2067213420
+    },
+    {
+        "symbol": "FIX",
+        "date": "2021-02-02",
+        "marketCap": 2105313720
+    },
+    {
+        "symbol": "FIX",
+        "date": "2021-02-01",
+        "marketCap": 2034193160
+    },
+    {
+        "symbol": "FIX",
+        "date": "2021-01-29",
+        "marketCap": 2011332980
+    },
+    {
+        "symbol": "FIX",
+        "date": "2021-01-28",
+        "marketCap": 2049070420
+    },
+    {
+        "symbol": "FIX",
+        "date": "2021-01-27",
+        "marketCap": 2075559200
+    },
+    {
+        "symbol": "FIX",
+        "date": "2021-01-26",
+        "marketCap": 2054150460
+    },
+    {
+        "symbol": "FIX",
+        "date": "2021-01-25",
+        "marketCap": 2096605080
+    },
+    {
+        "symbol": "FIX",
+        "date": "2021-01-22",
+        "marketCap": 2123819580
+    },
+    {
+        "symbol": "FIX",
+        "date": "2021-01-21",
+        "marketCap": 2110756620
+    },
+    {
+        "symbol": "FIX",
+        "date": "2021-01-20",
+        "marketCap": 2088622160
+    },
+    {
+        "symbol": "FIX",
+        "date": "2021-01-19",
+        "marketCap": 2050884720
+    },
+    {
+        "symbol": "FIX",
+        "date": "2021-01-15",
+        "marketCap": 1991012820
+    },
+    {
+        "symbol": "FIX",
+        "date": "2021-01-14",
+        "marketCap": 2004438640
+    },
+    {
+        "symbol": "FIX",
+        "date": "2021-01-13",
+        "marketCap": 2000810040
+    },
+    {
+        "symbol": "FIX",
+        "date": "2021-01-12",
+        "marketCap": 2068302000
+    },
+    {
+        "symbol": "FIX",
+        "date": "2021-01-11",
+        "marketCap": 2069027720
+    },
+    {
+        "symbol": "FIX",
+        "date": "2021-01-08",
+        "marketCap": 2068302000
+    },
+    {
+        "symbol": "FIX",
+        "date": "2021-01-07",
+        "marketCap": 2124182440
+    },
+    {
+        "symbol": "FIX",
+        "date": "2021-01-06",
+        "marketCap": 2070842020
+    },
+    {
+        "symbol": "FIX",
+        "date": "2021-01-05",
+        "marketCap": 1921343700
+    },
+    {
+        "symbol": "FIX",
+        "date": "2021-01-04",
+        "marketCap": 1871631880
+    },
+    {
+        "symbol": "FIX",
+        "date": "2020-12-31",
+        "marketCap": 1910820759
+    },
+    {
+        "symbol": "FIX",
+        "date": "2020-12-30",
+        "marketCap": 1915703020
+    },
+    {
+        "symbol": "FIX",
+        "date": "2020-12-29",
+        "marketCap": 1916430180
+    },
+    {
+        "symbol": "FIX",
+        "date": "2020-12-28",
+        "marketCap": 1951697440
+    },
+    {
+        "symbol": "FIX",
+        "date": "2020-12-24",
+        "marketCap": 1946970900
+    },
+    {
+        "symbol": "FIX",
+        "date": "2020-12-23",
+        "marketCap": 1949515960
+    },
+    {
+        "symbol": "FIX",
+        "date": "2020-12-22",
+        "marketCap": 1950243120
+    },
+    {
+        "symbol": "FIX",
+        "date": "2020-12-21",
+        "marketCap": 1916430180
+    },
+    {
+        "symbol": "FIX",
+        "date": "2020-12-18",
+        "marketCap": 1934245600
+    },
+    {
+        "symbol": "FIX",
+        "date": "2020-12-17",
+        "marketCap": 1953515340
+    },
+    {
+        "symbol": "FIX",
+        "date": "2020-12-16",
+        "marketCap": 1942244360
+    },
+    {
+        "symbol": "FIX",
+        "date": "2020-12-15",
+        "marketCap": 1931336960
+    },
+    {
+        "symbol": "FIX",
+        "date": "2020-12-14",
+        "marketCap": 1866619720
+    },
+    {
+        "symbol": "FIX",
+        "date": "2020-12-11",
+        "marketCap": 1857530220
+    },
+    {
+        "symbol": "FIX",
+        "date": "2020-12-10",
+        "marketCap": 1856439480
+    },
+    {
+        "symbol": "FIX",
+        "date": "2020-12-09",
+        "marketCap": 1888070940
+    },
+    {
+        "symbol": "FIX",
+        "date": "2020-12-08",
+        "marketCap": 1866983300
+    },
+    {
+        "symbol": "FIX",
+        "date": "2020-12-07",
+        "marketCap": 1868074040
+    },
+    {
+        "symbol": "FIX",
+        "date": "2020-12-04",
+        "marketCap": 1869164779
+    },
+    {
+        "symbol": "FIX",
+        "date": "2020-12-03",
+        "marketCap": 1850258620
+    },
+    {
+        "symbol": "FIX",
+        "date": "2020-12-02",
+        "marketCap": 1815354940
+    },
+    {
+        "symbol": "FIX",
+        "date": "2020-12-01",
+        "marketCap": 1822262960
+    },
+    {
+        "symbol": "FIX",
+        "date": "2020-11-30",
+        "marketCap": 1832079620
+    },
+    {
+        "symbol": "FIX",
+        "date": "2020-11-27",
+        "marketCap": 1869528360
+    },
+    {
+        "symbol": "FIX",
+        "date": "2020-11-25",
+        "marketCap": 1868801200
+    },
+    {
+        "symbol": "FIX",
+        "date": "2020-11-24",
+        "marketCap": 1904068460
+    },
+    {
+        "symbol": "FIX",
+        "date": "2020-11-23",
+        "marketCap": 1854621580
+    },
+    {
+        "symbol": "FIX",
+        "date": "2020-11-20",
+        "marketCap": 1789540760
+    },
+    {
+        "symbol": "FIX",
+        "date": "2020-11-19",
+        "marketCap": 1810264820
+    },
+    {
+        "symbol": "FIX",
+        "date": "2020-11-18",
+        "marketCap": 1791358660
+    },
+    {
+        "symbol": "FIX",
+        "date": "2020-11-17",
+        "marketCap": 1810628400
+    },
+    {
+        "symbol": "FIX",
+        "date": "2020-11-16",
+        "marketCap": 1856075900
+    },
+    {
+        "symbol": "FIX",
+        "date": "2020-11-13",
+        "marketCap": 1830261720
+    },
+    {
+        "symbol": "FIX",
+        "date": "2020-11-12",
+        "marketCap": 1804447540
+    },
+    {
+        "symbol": "FIX",
+        "date": "2020-11-11",
+        "marketCap": 1839351220
+    },
+    {
+        "symbol": "FIX",
+        "date": "2020-11-10",
+        "marketCap": 1858257380
+    },
+    {
+        "symbol": "FIX",
+        "date": "2020-11-09",
+        "marketCap": 1760454360
+    },
+    {
+        "symbol": "FIX",
+        "date": "2020-11-06",
+        "marketCap": 1694282800
+    },
+    {
+        "symbol": "FIX",
+        "date": "2020-11-05",
+        "marketCap": 1733549440
+    },
+    {
+        "symbol": "FIX",
+        "date": "2020-11-04",
+        "marketCap": 1684102560
+    },
+    {
+        "symbol": "FIX",
+        "date": "2020-11-03",
+        "marketCap": 1728822900
+    },
+    {
+        "symbol": "FIX",
+        "date": "2020-11-02",
+        "marketCap": 1695373540
+    },
+    {
+        "symbol": "FIX",
+        "date": "2020-10-30",
+        "marketCap": 1665196400
+    },
+    {
+        "symbol": "FIX",
+        "date": "2020-10-29",
+        "marketCap": 1624475440
+    },
+    {
+        "symbol": "FIX",
+        "date": "2020-10-28",
+        "marketCap": 1607750760
+    },
+    {
+        "symbol": "FIX",
+        "date": "2020-10-27",
+        "marketCap": 1715370440
+    },
+    {
+        "symbol": "FIX",
+        "date": "2020-10-26",
+        "marketCap": 1969876440
+    },
+    {
+        "symbol": "FIX",
+        "date": "2020-10-23",
+        "marketCap": 2003689380
+    },
+    {
+        "symbol": "FIX",
+        "date": "2020-10-22",
+        "marketCap": 2018232580
+    },
+    {
+        "symbol": "FIX",
+        "date": "2020-10-21",
+        "marketCap": 1996054200
+    },
+    {
+        "symbol": "FIX",
+        "date": "2020-10-20",
+        "marketCap": 2016414680
+    },
+    {
+        "symbol": "FIX",
+        "date": "2020-10-19",
+        "marketCap": 1984783220
+    },
+    {
+        "symbol": "FIX",
+        "date": "2020-10-16",
+        "marketCap": 2038593060
+    },
+    {
+        "symbol": "FIX",
+        "date": "2020-10-15",
+        "marketCap": 2053863420
+    },
+    {
+        "symbol": "FIX",
+        "date": "2020-10-14",
+        "marketCap": 2027685660
+    },
+    {
+        "symbol": "FIX",
+        "date": "2020-10-13",
+        "marketCap": 2051318360
+    },
+    {
+        "symbol": "FIX",
+        "date": "2020-10-12",
+        "marketCap": 2108036840
+    },
+    {
+        "symbol": "FIX",
+        "date": "2020-10-09",
+        "marketCap": 2095675120
+    },
+    {
+        "symbol": "FIX",
+        "date": "2020-10-08",
+        "marketCap": 2094947960
+    },
+    {
+        "symbol": "FIX",
+        "date": "2020-10-07",
+        "marketCap": 2043319600
+    },
+    {
+        "symbol": "FIX",
+        "date": "2020-10-06",
+        "marketCap": 2006598020
+    },
+    {
+        "symbol": "FIX",
+        "date": "2020-10-05",
+        "marketCap": 1965149900
+    },
+    {
+        "symbol": "FIX",
+        "date": "2020-10-02",
+        "marketCap": 1912067220
+    },
+    {
+        "symbol": "FIX",
+        "date": "2020-10-01",
+        "marketCap": 1890616000
+    },
+    {
+        "symbol": "FIX",
+        "date": "2020-09-30",
+        "marketCap": 1872800580
+    },
+    {
+        "symbol": "FIX",
+        "date": "2020-09-29",
+        "marketCap": 1883051070
+    },
+    {
+        "symbol": "FIX",
+        "date": "2020-09-28",
+        "marketCap": 1895114880
+    },
+    {
+        "symbol": "FIX",
+        "date": "2020-09-25",
+        "marketCap": 1842107230
+    },
+    {
+        "symbol": "FIX",
+        "date": "2020-09-24",
+        "marketCap": 1839548240
+    },
+    {
+        "symbol": "FIX",
+        "date": "2020-09-23",
+        "marketCap": 1825291010
+    },
+    {
+        "symbol": "FIX",
+        "date": "2020-09-22",
+        "marketCap": 1881588790
+    },
+    {
+        "symbol": "FIX",
+        "date": "2020-09-21",
+        "marketCap": 1832967980
+    },
+    {
+        "symbol": "FIX",
+        "date": "2020-09-18",
+        "marketCap": 1925091619
+    },
+    {
+        "symbol": "FIX",
+        "date": "2020-09-17",
+        "marketCap": 1914124520
+    },
+    {
+        "symbol": "FIX",
+        "date": "2020-09-16",
+        "marketCap": 1921070350
+    },
+    {
+        "symbol": "FIX",
+        "date": "2020-09-15",
+        "marketCap": 1862944720
+    },
+    {
+        "symbol": "FIX",
+        "date": "2020-09-14",
+        "marketCap": 1885244490
+    },
+    {
+        "symbol": "FIX",
+        "date": "2020-09-11",
+        "marketCap": 1846859640
+    },
+    {
+        "symbol": "FIX",
+        "date": "2020-09-10",
+        "marketCap": 1859289020
+    },
+    {
+        "symbol": "FIX",
+        "date": "2020-09-09",
+        "marketCap": 1823463160
+    },
+    {
+        "symbol": "FIX",
+        "date": "2020-09-08",
+        "marketCap": 1837720390
+    },
+    {
+        "symbol": "FIX",
+        "date": "2020-09-04",
+        "marketCap": 1875374100
+    },
+    {
+        "symbol": "FIX",
+        "date": "2020-09-03",
+        "marketCap": 1894018170
+    },
+    {
+        "symbol": "FIX",
+        "date": "2020-09-02",
+        "marketCap": 1955068360
+    },
+    {
+        "symbol": "FIX",
+        "date": "2020-09-01",
+        "marketCap": 1918145790
+    },
+    {
+        "symbol": "FIX",
+        "date": "2020-08-31",
+        "marketCap": 1852343190
+    },
+    {
+        "symbol": "FIX",
+        "date": "2020-08-28",
+        "marketCap": 1871718400
+    },
+    {
+        "symbol": "FIX",
+        "date": "2020-08-27",
+        "marketCap": 1868428270
+    },
+    {
+        "symbol": "FIX",
+        "date": "2020-08-26",
+        "marketCap": 1876105240
+    },
+    {
+        "symbol": "FIX",
+        "date": "2020-08-25",
+        "marketCap": 1884513350
+    },
+    {
+        "symbol": "FIX",
+        "date": "2020-08-24",
+        "marketCap": 1906447550
+    },
+    {
+        "symbol": "FIX",
+        "date": "2020-08-21",
+        "marketCap": 1913393380
+    },
+    {
+        "symbol": "FIX",
+        "date": "2020-08-20",
+        "marketCap": 1911199960
+    },
+    {
+        "symbol": "FIX",
+        "date": "2020-08-19",
+        "marketCap": 1941176700
+    },
+    {
+        "symbol": "FIX",
+        "date": "2020-08-18",
+        "marketCap": 1953606080
+    },
+    {
+        "symbol": "FIX",
+        "date": "2020-08-17",
+        "marketCap": 2015387410
+    },
+    {
+        "symbol": "FIX",
+        "date": "2020-08-14",
+        "marketCap": 1938617710
+    },
+    {
+        "symbol": "FIX",
+        "date": "2020-08-13",
+        "marketCap": 1947391390
+    },
+    {
+        "symbol": "FIX",
+        "date": "2020-08-12",
+        "marketCap": 2006248160
+    },
+    {
+        "symbol": "FIX",
+        "date": "2020-08-11",
+        "marketCap": 1985045100
+    },
+    {
+        "symbol": "FIX",
+        "date": "2020-08-10",
+        "marketCap": 1955799500
+    },
+    {
+        "symbol": "FIX",
+        "date": "2020-08-07",
+        "marketCap": 1916683510
+    },
+    {
+        "symbol": "FIX",
+        "date": "2020-08-06",
+        "marketCap": 1882685500
+    },
+    {
+        "symbol": "FIX",
+        "date": "2020-08-05",
+        "marketCap": 1898405010
+    },
+    {
+        "symbol": "FIX",
+        "date": "2020-08-04",
+        "marketCap": 1854171040
+    },
+    {
+        "symbol": "FIX",
+        "date": "2020-08-03",
+        "marketCap": 1857095600
+    },
+    {
+        "symbol": "FIX",
+        "date": "2020-07-31",
+        "marketCap": 1817248470
+    },
+    {
+        "symbol": "FIX",
+        "date": "2020-07-30",
+        "marketCap": 1788734010
+    },
+    {
+        "symbol": "FIX",
+        "date": "2020-07-29",
+        "marketCap": 1783981600
+    },
+    {
+        "symbol": "FIX",
+        "date": "2020-07-28",
+        "marketCap": 1754736000
+    },
+    {
+        "symbol": "FIX",
+        "date": "2020-07-27",
+        "marketCap": 1572316570
+    },
+    {
+        "symbol": "FIX",
+        "date": "2020-07-24",
+        "marketCap": 1501761560
+    },
+    {
+        "symbol": "FIX",
+        "date": "2020-07-23",
+        "marketCap": 1536125140
+    },
+    {
+        "symbol": "FIX",
+        "date": "2020-07-22",
+        "marketCap": 1531372730
+    },
+    {
+        "symbol": "FIX",
+        "date": "2020-07-21",
+        "marketCap": 1519308920
+    },
+    {
+        "symbol": "FIX",
+        "date": "2020-07-20",
+        "marketCap": 1490428890
+    },
+    {
+        "symbol": "FIX",
+        "date": "2020-07-17",
+        "marketCap": 1531372730
+    },
+    {
+        "symbol": "FIX",
+        "date": "2020-07-16",
+        "marketCap": 1535759570
+    },
+    {
+        "symbol": "FIX",
+        "date": "2020-07-15",
+        "marketCap": 1551479080
+    },
+    {
+        "symbol": "FIX",
+        "date": "2020-07-14",
+        "marketCap": 1482751920
+    },
+    {
+        "symbol": "FIX",
+        "date": "2020-07-13",
+        "marketCap": 1424991860
+    },
+    {
+        "symbol": "FIX",
+        "date": "2020-07-10",
+        "marketCap": 1421336160
+    },
+    {
+        "symbol": "FIX",
+        "date": "2020-07-09",
+        "marketCap": 1380026750
+    },
+    {
+        "symbol": "FIX",
+        "date": "2020-07-08",
+        "marketCap": 1428647560
+    },
+    {
+        "symbol": "FIX",
+        "date": "2020-07-07",
+        "marketCap": 1439980230
+    },
+    {
+        "symbol": "FIX",
+        "date": "2020-07-06",
+        "marketCap": 1491525600
+    },
+    {
+        "symbol": "FIX",
+        "date": "2020-07-02",
+        "marketCap": 1462645570
+    },
+    {
+        "symbol": "FIX",
+        "date": "2020-07-01",
+        "marketCap": 1451312900
+    },
+    {
+        "symbol": "FIX",
+        "date": "2020-06-30",
+        "marketCap": 1489697750
+    },
+    {
+        "symbol": "FIX",
+        "date": "2020-06-29",
+        "marketCap": 1463971620
+    },
+    {
+        "symbol": "FIX",
+        "date": "2020-06-26",
+        "marketCap": 1395930959
+    },
+    {
+        "symbol": "FIX",
+        "date": "2020-06-25",
+        "marketCap": 1390809620
+    },
+    {
+        "symbol": "FIX",
+        "date": "2020-06-24",
+        "marketCap": 1369592640
+    },
+    {
+        "symbol": "FIX",
+        "date": "2020-06-23",
+        "marketCap": 1431780340
+    },
+    {
+        "symbol": "FIX",
+        "date": "2020-06-22",
+        "marketCap": 1421537660
+    },
+    {
+        "symbol": "FIX",
+        "date": "2020-06-19",
+        "marketCap": 1399223250
+    },
+    {
+        "symbol": "FIX",
+        "date": "2020-06-18",
+        "marketCap": 1410563360
+    },
+    {
+        "symbol": "FIX",
+        "date": "2020-06-17",
+        "marketCap": 1432511959
+    },
+    {
+        "symbol": "FIX",
+        "date": "2020-06-16",
+        "marketCap": 1471653630
+    },
+    {
+        "symbol": "FIX",
+        "date": "2020-06-15",
+        "marketCap": 1432877770
+    },
+    {
+        "symbol": "FIX",
+        "date": "2020-06-12",
+        "marketCap": 1380201130
+    },
+    {
+        "symbol": "FIX",
+        "date": "2020-06-11",
+        "marketCap": 1347278230
+    },
+    {
+        "symbol": "FIX",
+        "date": "2020-06-10",
+        "marketCap": 1466166480
+    },
+    {
+        "symbol": "FIX",
+        "date": "2020-06-09",
+        "marketCap": 1528354180
+    },
+    {
+        "symbol": "FIX",
+        "date": "2020-06-08",
+        "marketCap": 1563471940
+    },
+    {
+        "symbol": "FIX",
+        "date": "2020-06-05",
+        "marketCap": 1553960880
+    },
+    {
+        "symbol": "FIX",
+        "date": "2020-06-04",
+        "marketCap": 1502381670
+    },
+    {
+        "symbol": "FIX",
+        "date": "2020-06-03",
+        "marketCap": 1490309940
+    },
+    {
+        "symbol": "FIX",
+        "date": "2020-06-02",
+        "marketCap": 1423732520
+    },
+    {
+        "symbol": "FIX",
+        "date": "2020-06-01",
+        "marketCap": 1391907050
+    },
+    {
+        "symbol": "FIX",
+        "date": "2020-05-29",
+        "marketCap": 1353497000
+    },
+    {
+        "symbol": "FIX",
+        "date": "2020-05-28",
+        "marketCap": 1389712190
+    },
+    {
+        "symbol": "FIX",
+        "date": "2020-05-27",
+        "marketCap": 1463240000
+    },
+    {
+        "symbol": "FIX",
+        "date": "2020-05-26",
+        "marketCap": 1353862810
+    },
+    {
+        "symbol": "FIX",
+        "date": "2020-05-22",
+        "marketCap": 1236437800
+    },
+    {
+        "symbol": "FIX",
+        "date": "2020-05-21",
+        "marketCap": 1237169420
+    },
+    {
+        "symbol": "FIX",
+        "date": "2020-05-20",
+        "marketCap": 1240461709
+    },
+    {
+        "symbol": "FIX",
+        "date": "2020-05-19",
+        "marketCap": 1191077360
+    },
+    {
+        "symbol": "FIX",
+        "date": "2020-05-18",
+        "marketCap": 1259118020
+    },
+    {
+        "symbol": "FIX",
+        "date": "2020-05-15",
+        "marketCap": 1119744410
+    },
+    {
+        "symbol": "FIX",
+        "date": "2020-05-14",
+        "marketCap": 1088284750
+    },
+    {
+        "symbol": "FIX",
+        "date": "2020-05-13",
+        "marketCap": 1084992460
+    },
+    {
+        "symbol": "FIX",
+        "date": "2020-05-12",
+        "marketCap": 1121939270
+    },
+    {
+        "symbol": "FIX",
+        "date": "2020-05-11",
+        "marketCap": 1190711550
+    },
+    {
+        "symbol": "FIX",
+        "date": "2020-05-08",
+        "marketCap": 1214123390
+    },
+    {
+        "symbol": "FIX",
+        "date": "2020-05-07",
+        "marketCap": 1192906410
+    },
+    {
+        "symbol": "FIX",
+        "date": "2020-05-06",
+        "marketCap": 1187419260
+    },
+    {
+        "symbol": "FIX",
+        "date": "2020-05-05",
+        "marketCap": 1220342160
+    },
+    {
+        "symbol": "FIX",
+        "date": "2020-05-04",
+        "marketCap": 1161446750
+    },
+    {
+        "symbol": "FIX",
+        "date": "2020-05-01",
+        "marketCap": 1192540600
+    },
+    {
+        "symbol": "FIX",
+        "date": "2020-04-30",
+        "marketCap": 1218147300
+    },
+    {
+        "symbol": "FIX",
+        "date": "2020-04-29",
+        "marketCap": 1311428850
+    },
+    {
+        "symbol": "FIX",
+        "date": "2020-04-28",
+        "marketCap": 1298259690
+    },
+    {
+        "symbol": "FIX",
+        "date": "2020-04-27",
+        "marketCap": 1214489200
+    },
+    {
+        "symbol": "FIX",
+        "date": "2020-04-24",
+        "marketCap": 1136571670
+    },
+    {
+        "symbol": "FIX",
+        "date": "2020-04-23",
+        "marketCap": 1096332570
+    },
+    {
+        "symbol": "FIX",
+        "date": "2020-04-22",
+        "marketCap": 1103648770
+    },
+    {
+        "symbol": "FIX",
+        "date": "2020-04-21",
+        "marketCap": 1078042070
+    },
+    {
+        "symbol": "FIX",
+        "date": "2020-04-20",
+        "marketCap": 1128158040
+    },
+    {
+        "symbol": "FIX",
+        "date": "2020-04-17",
+        "marketCap": 1226560930
+    },
+    {
+        "symbol": "FIX",
+        "date": "2020-04-16",
+        "marketCap": 1153398930
+    },
+    {
+        "symbol": "FIX",
+        "date": "2020-04-15",
+        "marketCap": 1208636240
+    },
+    {
+        "symbol": "FIX",
+        "date": "2020-04-14",
+        "marketCap": 1352033760
+    },
+    {
+        "symbol": "FIX",
+        "date": "2020-04-13",
+        "marketCap": 1341791080
+    },
+    {
+        "symbol": "FIX",
+        "date": "2020-04-09",
+        "marketCap": 1383859230
+    },
+    {
+        "symbol": "FIX",
+        "date": "2020-04-08",
+        "marketCap": 1273384610
+    },
+    {
+        "symbol": "FIX",
+        "date": "2020-04-07",
+        "marketCap": 1219610540
+    },
+    {
+        "symbol": "FIX",
+        "date": "2020-04-06",
+        "marketCap": 1206075570
+    },
+    {
+        "symbol": "FIX",
+        "date": "2020-04-03",
+        "marketCap": 1146082730
+    },
+    {
+        "symbol": "FIX",
+        "date": "2020-04-02",
+        "marketCap": 1254728300
+    },
+    {
+        "symbol": "FIX",
+        "date": "2020-04-01",
+        "marketCap": 1271189750
+    },
+    {
+        "symbol": "FIX",
+        "date": "2020-03-31",
+        "marketCap": 1337035550
+    },
+    {
+        "symbol": "FIX",
+        "date": "2020-03-30",
+        "marketCap": 1297892860
+    },
+    {
+        "symbol": "FIX",
+        "date": "2020-03-27",
+        "marketCap": 1208041560
+    },
+    {
+        "symbol": "FIX",
+        "date": "2020-03-26",
+        "marketCap": 1349236460
+    },
+    {
+        "symbol": "FIX",
+        "date": "2020-03-25",
+        "marketCap": 1211708960
+    },
+    {
+        "symbol": "FIX",
+        "date": "2020-03-24",
+        "marketCap": 1236280540
+    },
+    {
+        "symbol": "FIX",
+        "date": "2020-03-23",
+        "marketCap": 1098386300
+    },
+    {
+        "symbol": "FIX",
+        "date": "2020-03-20",
+        "marketCap": 1201073500
+    },
+    {
+        "symbol": "FIX",
+        "date": "2020-03-19",
+        "marketCap": 1211342220
+    },
+    {
+        "symbol": "FIX",
+        "date": "2020-03-18",
+        "marketCap": 1229679220
+    },
+    {
+        "symbol": "FIX",
+        "date": "2020-03-17",
+        "marketCap": 1321364220
+    },
+    {
+        "symbol": "FIX",
+        "date": "2020-03-16",
+        "marketCap": 1153764040
+    },
+    {
+        "symbol": "FIX",
+        "date": "2020-03-13",
+        "marketCap": 1388477640
+    },
+    {
+        "symbol": "FIX",
+        "date": "2020-03-12",
+        "marketCap": 1242881860
+    },
+    {
+        "symbol": "FIX",
+        "date": "2020-03-11",
+        "marketCap": 1493365280
+    },
+    {
+        "symbol": "FIX",
+        "date": "2020-03-10",
+        "marketCap": 1495932460
+    },
+    {
+        "symbol": "FIX",
+        "date": "2020-03-09",
+        "marketCap": 1442021680
+    },
+    {
+        "symbol": "FIX",
+        "date": "2020-03-06",
+        "marketCap": 1546175839
+    },
+    {
+        "symbol": "FIX",
+        "date": "2020-03-05",
+        "marketCap": 1549109760
+    },
+    {
+        "symbol": "FIX",
+        "date": "2020-03-04",
+        "marketCap": 1622824500
+    },
+    {
+        "symbol": "FIX",
+        "date": "2020-03-03",
+        "marketCap": 1592385080
+    },
+    {
+        "symbol": "FIX",
+        "date": "2020-03-02",
+        "marketCap": 1583216580
+    },
+    {
+        "symbol": "FIX",
+        "date": "2020-02-28",
+        "marketCap": 1548376280
+    },
+    {
+        "symbol": "FIX",
+        "date": "2020-02-27",
+        "marketCap": 1586883980
+    },
+    {
+        "symbol": "FIX",
+        "date": "2020-02-26",
+        "marketCap": 1666833300
+    },
+    {
+        "symbol": "FIX",
+        "date": "2020-02-25",
+        "marketCap": 1691771620
+    },
+    {
+        "symbol": "FIX",
+        "date": "2020-02-24",
+        "marketCap": 1760718740
+    },
+    {
+        "symbol": "FIX",
+        "date": "2020-02-21",
+        "marketCap": 1791524900
+    },
+    {
+        "symbol": "FIX",
+        "date": "2020-02-20",
+        "marketCap": 1799959920
+    },
+    {
+        "symbol": "FIX",
+        "date": "2020-02-19",
+        "marketCap": 1772821160
+    },
+    {
+        "symbol": "FIX",
+        "date": "2020-02-18",
+        "marketCap": 1776488560
+    },
+    {
+        "symbol": "FIX",
+        "date": "2020-02-14",
+        "marketCap": 1802527100
+    },
+    {
+        "symbol": "FIX",
+        "date": "2020-02-13",
+        "marketCap": 1837367400
+    },
+    {
+        "symbol": "FIX",
+        "date": "2020-02-12",
+        "marketCap": 1819397140
+    },
+    {
+        "symbol": "FIX",
+        "date": "2020-02-11",
+        "marketCap": 1808761680
+    },
+    {
+        "symbol": "FIX",
+        "date": "2020-02-10",
+        "marketCap": 1782723140
+    },
+    {
+        "symbol": "FIX",
+        "date": "2020-02-07",
+        "marketCap": 1750083280
+    },
+    {
+        "symbol": "FIX",
+        "date": "2020-02-06",
+        "marketCap": 1801060140
+    },
+    {
+        "symbol": "FIX",
+        "date": "2020-02-05",
+        "marketCap": 1802893839
+    },
+    {
+        "symbol": "FIX",
+        "date": "2020-02-04",
+        "marketCap": 1732479760
+    },
+    {
+        "symbol": "FIX",
+        "date": "2020-02-03",
+        "marketCap": 1722577780
+    },
+    {
+        "symbol": "FIX",
+        "date": "2020-01-31",
+        "marketCap": 1701673600
+    },
+    {
+        "symbol": "FIX",
+        "date": "2020-01-30",
+        "marketCap": 1757051339
+    },
+    {
+        "symbol": "FIX",
+        "date": "2020-01-29",
+        "marketCap": 1762185700
+    },
+    {
+        "symbol": "FIX",
+        "date": "2020-01-28",
+        "marketCap": 1797026000
+    },
+    {
+        "symbol": "FIX",
+        "date": "2020-01-27",
+        "marketCap": 1788224240
+    },
+    {
+        "symbol": "FIX",
+        "date": "2020-01-24",
+        "marketCap": 1812062339
+    },
+    {
+        "symbol": "FIX",
+        "date": "2020-01-23",
+        "marketCap": 1842868500
+    },
+    {
+        "symbol": "FIX",
+        "date": "2020-01-22",
+        "marketCap": 1832599780
+    },
+    {
+        "symbol": "FIX",
+        "date": "2020-01-21",
+        "marketCap": 1819763880
+    },
+    {
+        "symbol": "FIX",
+        "date": "2020-01-17",
+        "marketCap": 1813896040
+    },
+    {
+        "symbol": "FIX",
+        "date": "2020-01-16",
+        "marketCap": 1823064540
+    },
+    {
+        "symbol": "FIX",
+        "date": "2020-01-15",
+        "marketCap": 1789324460
+    },
+    {
+        "symbol": "FIX",
+        "date": "2020-01-14",
+        "marketCap": 1790057940
+    },
+    {
+        "symbol": "FIX",
+        "date": "2020-01-13",
+        "marketCap": 1784190100
+    },
+    {
+        "symbol": "FIX",
+        "date": "2020-01-10",
+        "marketCap": 1768053540
+    },
+    {
+        "symbol": "FIX",
+        "date": "2020-01-09",
+        "marketCap": 1773921380
+    },
+    {
+        "symbol": "FIX",
+        "date": "2020-01-08",
+        "marketCap": 1786757280
+    },
+    {
+        "symbol": "FIX",
+        "date": "2020-01-07",
+        "marketCap": 1793725339
+    },
+    {
+        "symbol": "FIX",
+        "date": "2020-01-06",
+        "marketCap": 1811695600
+    },
+    {
+        "symbol": "FIX",
+        "date": "2020-01-03",
+        "marketCap": 1803627320
+    },
+    {
+        "symbol": "FIX",
+        "date": "2020-01-02",
+        "marketCap": 1805094280
+    }
+]

@@ -1,0 +1,98 @@
+[
+    {
+        "date": "2024-10-30",
+        "symbol": "DASH",
+        "actualEarningResult": 0.38,
+        "estimatedEarning": 0.22
+    },
+    {
+        "date": "2024-08-01",
+        "symbol": "DASH",
+        "actualEarningResult": -0.38,
+        "estimatedEarning": -0.09285
+    },
+    {
+        "date": "2024-05-01",
+        "symbol": "DASH",
+        "actualEarningResult": -0.06,
+        "estimatedEarning": -0.04283
+    },
+    {
+        "date": "2024-02-15",
+        "symbol": "DASH",
+        "actualEarningResult": -0.39,
+        "estimatedEarning": -0.15
+    },
+    {
+        "date": "2023-11-01",
+        "symbol": "DASH",
+        "actualEarningResult": -0.19,
+        "estimatedEarning": -0.45
+    },
+    {
+        "date": "2023-08-02",
+        "symbol": "DASH",
+        "actualEarningResult": -0.44,
+        "estimatedEarning": -0.42
+    },
+    {
+        "date": "2023-05-04",
+        "symbol": "DASH",
+        "actualEarningResult": -0.41,
+        "estimatedEarning": -0.56
+    },
+    {
+        "date": "2023-02-16",
+        "symbol": "DASH",
+        "actualEarningResult": -0.63,
+        "estimatedEarning": -0.7
+    },
+    {
+        "date": "2022-11-03",
+        "symbol": "DASH",
+        "actualEarningResult": -0.77,
+        "estimatedEarning": -0.6
+    },
+    {
+        "date": "2022-08-04",
+        "symbol": "DASH",
+        "actualEarningResult": -0.72,
+        "estimatedEarning": -0.39
+    },
+    {
+        "date": "2022-05-05",
+        "symbol": "DASH",
+        "actualEarningResult": -0.48,
+        "estimatedEarning": -0.38
+    },
+    {
+        "date": "2022-02-16",
+        "symbol": "DASH",
+        "actualEarningResult": -0.45,
+        "estimatedEarning": -0.28
+    },
+    {
+        "date": "2021-11-09",
+        "symbol": "DASH",
+        "actualEarningResult": -0.3,
+        "estimatedEarning": -0.27
+    },
+    {
+        "date": "2021-08-12",
+        "symbol": "DASH",
+        "actualEarningResult": -0.3,
+        "estimatedEarning": -0.2
+    },
+    {
+        "date": "2021-05-13",
+        "symbol": "DASH",
+        "actualEarningResult": -0.34,
+        "estimatedEarning": -0.23
+    },
+    {
+        "date": "2021-02-25",
+        "symbol": "DASH",
+        "actualEarningResult": -2.67,
+        "estimatedEarning": -0.75
+    }
+]

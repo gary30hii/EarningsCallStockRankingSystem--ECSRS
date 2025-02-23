@@ -1,0 +1,6292 @@
+[
+    {
+        "symbol": "CME",
+        "date": "2024-12-31",
+        "marketCap": 83463462000
+    },
+    {
+        "symbol": "CME",
+        "date": "2024-12-30",
+        "marketCap": 83211882000
+    },
+    {
+        "symbol": "CME",
+        "date": "2024-12-27",
+        "marketCap": 83919900000
+    },
+    {
+        "symbol": "CME",
+        "date": "2024-12-26",
+        "marketCap": 85972074000
+    },
+    {
+        "symbol": "CME",
+        "date": "2024-12-24",
+        "marketCap": 86065518000
+    },
+    {
+        "symbol": "CME",
+        "date": "2024-12-23",
+        "marketCap": 85540794000
+    },
+    {
+        "symbol": "CME",
+        "date": "2024-12-20",
+        "marketCap": 85727682000
+    },
+    {
+        "symbol": "CME",
+        "date": "2024-12-19",
+        "marketCap": 85113108000
+    },
+    {
+        "symbol": "CME",
+        "date": "2024-12-18",
+        "marketCap": 85206552000
+    },
+    {
+        "symbol": "CME",
+        "date": "2024-12-17",
+        "marketCap": 84814806000
+    },
+    {
+        "symbol": "CME",
+        "date": "2024-12-16",
+        "marketCap": 84789648000
+    },
+    {
+        "symbol": "CME",
+        "date": "2024-12-13",
+        "marketCap": 85246086000
+    },
+    {
+        "symbol": "CME",
+        "date": "2024-12-12",
+        "marketCap": 84800430000
+    },
+    {
+        "symbol": "CME",
+        "date": "2024-12-11",
+        "marketCap": 84207420000
+    },
+    {
+        "symbol": "CME",
+        "date": "2024-12-10",
+        "marketCap": 85964886000
+    },
+    {
+        "symbol": "CME",
+        "date": "2024-12-09",
+        "marketCap": 85077168000
+    },
+    {
+        "symbol": "CME",
+        "date": "2024-12-06",
+        "marketCap": 86033172000
+    },
+    {
+        "symbol": "CME",
+        "date": "2024-12-05",
+        "marketCap": 88419588000
+    },
+    {
+        "symbol": "CME",
+        "date": "2024-12-04",
+        "marketCap": 87334200000
+    },
+    {
+        "symbol": "CME",
+        "date": "2024-12-03",
+        "marketCap": 86518362000
+    },
+    {
+        "symbol": "CME",
+        "date": "2024-12-02",
+        "marketCap": 84678234000
+    },
+    {
+        "symbol": "CME",
+        "date": "2024-11-29",
+        "marketCap": 85537200000
+    },
+    {
+        "symbol": "CME",
+        "date": "2024-11-27",
+        "marketCap": 85296402000
+    },
+    {
+        "symbol": "CME",
+        "date": "2024-11-26",
+        "marketCap": 84239766000
+    },
+    {
+        "symbol": "CME",
+        "date": "2024-11-25",
+        "marketCap": 82435578000
+    },
+    {
+        "symbol": "CME",
+        "date": "2024-11-22",
+        "marketCap": 82316976000
+    },
+    {
+        "symbol": "CME",
+        "date": "2024-11-21",
+        "marketCap": 81425664000
+    },
+    {
+        "symbol": "CME",
+        "date": "2024-11-20",
+        "marketCap": 81943200000
+    },
+    {
+        "symbol": "CME",
+        "date": "2024-11-19",
+        "marketCap": 82539804000
+    },
+    {
+        "symbol": "CME",
+        "date": "2024-11-18",
+        "marketCap": 81785064000
+    },
+    {
+        "symbol": "CME",
+        "date": "2024-11-15",
+        "marketCap": 80965632000
+    },
+    {
+        "symbol": "CME",
+        "date": "2024-11-14",
+        "marketCap": 80297148000
+    },
+    {
+        "symbol": "CME",
+        "date": "2024-11-13",
+        "marketCap": 81993516000
+    },
+    {
+        "symbol": "CME",
+        "date": "2024-11-12",
+        "marketCap": 81335814000
+    },
+    {
+        "symbol": "CME",
+        "date": "2024-11-11",
+        "marketCap": 81199242000
+    },
+    {
+        "symbol": "CME",
+        "date": "2024-11-08",
+        "marketCap": 81102204000
+    },
+    {
+        "symbol": "CME",
+        "date": "2024-11-07",
+        "marketCap": 79801176000
+    },
+    {
+        "symbol": "CME",
+        "date": "2024-11-06",
+        "marketCap": 79488498000
+    },
+    {
+        "symbol": "CME",
+        "date": "2024-11-05",
+        "marketCap": 80933286000
+    },
+    {
+        "symbol": "CME",
+        "date": "2024-11-04",
+        "marketCap": 80174952000
+    },
+    {
+        "symbol": "CME",
+        "date": "2024-11-01",
+        "marketCap": 80365434000
+    },
+    {
+        "symbol": "CME",
+        "date": "2024-10-31",
+        "marketCap": 80994384000
+    },
+    {
+        "symbol": "CME",
+        "date": "2024-10-30",
+        "marketCap": 81677244000
+    },
+    {
+        "symbol": "CME",
+        "date": "2024-10-29",
+        "marketCap": 81616146000
+    },
+    {
+        "symbol": "CME",
+        "date": "2024-10-28",
+        "marketCap": 81986328000
+    },
+    {
+        "symbol": "CME",
+        "date": "2024-10-25",
+        "marketCap": 81274716000
+    },
+    {
+        "symbol": "CME",
+        "date": "2024-10-24",
+        "marketCap": 82550586000
+    },
+    {
+        "symbol": "CME",
+        "date": "2024-10-23",
+        "marketCap": 81634116000
+    },
+    {
+        "symbol": "CME",
+        "date": "2024-10-22",
+        "marketCap": 81285498000
+    },
+    {
+        "symbol": "CME",
+        "date": "2024-10-21",
+        "marketCap": 81601770000
+    },
+    {
+        "symbol": "CME",
+        "date": "2024-10-18",
+        "marketCap": 82058208000
+    },
+    {
+        "symbol": "CME",
+        "date": "2024-10-17",
+        "marketCap": 81666462000
+    },
+    {
+        "symbol": "CME",
+        "date": "2024-10-16",
+        "marketCap": 81644898000
+    },
+    {
+        "symbol": "CME",
+        "date": "2024-10-15",
+        "marketCap": 80800308000
+    },
+    {
+        "symbol": "CME",
+        "date": "2024-10-14",
+        "marketCap": 80577480000
+    },
+    {
+        "symbol": "CME",
+        "date": "2024-10-11",
+        "marketCap": 79686168000
+    },
+    {
+        "symbol": "CME",
+        "date": "2024-10-10",
+        "marketCap": 79517250000
+    },
+    {
+        "symbol": "CME",
+        "date": "2024-10-09",
+        "marketCap": 79592724000
+    },
+    {
+        "symbol": "CME",
+        "date": "2024-10-08",
+        "marketCap": 79671792000
+    },
+    {
+        "symbol": "CME",
+        "date": "2024-10-07",
+        "marketCap": 79689762000
+    },
+    {
+        "symbol": "CME",
+        "date": "2024-10-04",
+        "marketCap": 80660142000
+    },
+    {
+        "symbol": "CME",
+        "date": "2024-10-03",
+        "marketCap": 80602638000
+    },
+    {
+        "symbol": "CME",
+        "date": "2024-10-02",
+        "marketCap": 80351058000
+    },
+    {
+        "symbol": "CME",
+        "date": "2024-10-01",
+        "marketCap": 80965632000
+    },
+    {
+        "symbol": "CME",
+        "date": "2024-09-30",
+        "marketCap": 79301610000
+    },
+    {
+        "symbol": "CME",
+        "date": "2024-09-27",
+        "marketCap": 78457020000
+    },
+    {
+        "symbol": "CME",
+        "date": "2024-09-26",
+        "marketCap": 78518118000
+    },
+    {
+        "symbol": "CME",
+        "date": "2024-09-25",
+        "marketCap": 78176688000
+    },
+    {
+        "symbol": "CME",
+        "date": "2024-09-24",
+        "marketCap": 78406704000
+    },
+    {
+        "symbol": "CME",
+        "date": "2024-09-23",
+        "marketCap": 77580084000
+    },
+    {
+        "symbol": "CME",
+        "date": "2024-09-20",
+        "marketCap": 76609704000
+    },
+    {
+        "symbol": "CME",
+        "date": "2024-09-19",
+        "marketCap": 77184744000
+    },
+    {
+        "symbol": "CME",
+        "date": "2024-09-18",
+        "marketCap": 77738220000
+    },
+    {
+        "symbol": "CME",
+        "date": "2024-09-17",
+        "marketCap": 78413892000
+    },
+    {
+        "symbol": "CME",
+        "date": "2024-09-16",
+        "marketCap": 78539682000
+    },
+    {
+        "symbol": "CME",
+        "date": "2024-09-13",
+        "marketCap": 77986206000
+    },
+    {
+        "symbol": "CME",
+        "date": "2024-09-12",
+        "marketCap": 78097620000
+    },
+    {
+        "symbol": "CME",
+        "date": "2024-09-11",
+        "marketCap": 78561246000
+    },
+    {
+        "symbol": "CME",
+        "date": "2024-09-10",
+        "marketCap": 78521712000
+    },
+    {
+        "symbol": "CME",
+        "date": "2024-09-09",
+        "marketCap": 78543276000
+    },
+    {
+        "symbol": "CME",
+        "date": "2024-09-06",
+        "marketCap": 79247700000
+    },
+    {
+        "symbol": "CME",
+        "date": "2024-09-05",
+        "marketCap": 78845172000
+    },
+    {
+        "symbol": "CME",
+        "date": "2024-09-04",
+        "marketCap": 77630400000
+    },
+    {
+        "symbol": "CME",
+        "date": "2024-09-03",
+        "marketCap": 76422816000
+    },
+    {
+        "symbol": "CME",
+        "date": "2024-08-30",
+        "marketCap": 77536956000
+    },
+    {
+        "symbol": "CME",
+        "date": "2024-08-29",
+        "marketCap": 76947540000
+    },
+    {
+        "symbol": "CME",
+        "date": "2024-08-28",
+        "marketCap": 77314128000
+    },
+    {
+        "symbol": "CME",
+        "date": "2024-08-27",
+        "marketCap": 76336560000
+    },
+    {
+        "symbol": "CME",
+        "date": "2024-08-26",
+        "marketCap": 74909742000
+    },
+    {
+        "symbol": "CME",
+        "date": "2024-08-23",
+        "marketCap": 74413770000
+    },
+    {
+        "symbol": "CME",
+        "date": "2024-08-22",
+        "marketCap": 75337428000
+    },
+    {
+        "symbol": "CME",
+        "date": "2024-08-21",
+        "marketCap": 75258360000
+    },
+    {
+        "symbol": "CME",
+        "date": "2024-08-20",
+        "marketCap": 75006780000
+    },
+    {
+        "symbol": "CME",
+        "date": "2024-08-19",
+        "marketCap": 75067878000
+    },
+    {
+        "symbol": "CME",
+        "date": "2024-08-16",
+        "marketCap": 74712072000
+    },
+    {
+        "symbol": "CME",
+        "date": "2024-08-15",
+        "marketCap": 73781226000
+    },
+    {
+        "symbol": "CME",
+        "date": "2024-08-14",
+        "marketCap": 74701290000
+    },
+    {
+        "symbol": "CME",
+        "date": "2024-08-13",
+        "marketCap": 74600658000
+    },
+    {
+        "symbol": "CME",
+        "date": "2024-08-12",
+        "marketCap": 74248446000
+    },
+    {
+        "symbol": "CME",
+        "date": "2024-08-09",
+        "marketCap": 74273604000
+    },
+    {
+        "symbol": "CME",
+        "date": "2024-08-08",
+        "marketCap": 73730910000
+    },
+    {
+        "symbol": "CME",
+        "date": "2024-08-07",
+        "marketCap": 73677000000
+    },
+    {
+        "symbol": "CME",
+        "date": "2024-08-06",
+        "marketCap": 72735372000
+    },
+    {
+        "symbol": "CME",
+        "date": "2024-08-05",
+        "marketCap": 70880868000
+    },
+    {
+        "symbol": "CME",
+        "date": "2024-08-02",
+        "marketCap": 71818902000
+    },
+    {
+        "symbol": "CME",
+        "date": "2024-08-01",
+        "marketCap": 70553814000
+    },
+    {
+        "symbol": "CME",
+        "date": "2024-07-31",
+        "marketCap": 69619374000
+    },
+    {
+        "symbol": "CME",
+        "date": "2024-07-30",
+        "marketCap": 70873680000
+    },
+    {
+        "symbol": "CME",
+        "date": "2024-07-29",
+        "marketCap": 71491848000
+    },
+    {
+        "symbol": "CME",
+        "date": "2024-07-26",
+        "marketCap": 72074076000
+    },
+    {
+        "symbol": "CME",
+        "date": "2024-07-25",
+        "marketCap": 71657172000
+    },
+    {
+        "symbol": "CME",
+        "date": "2024-07-24",
+        "marketCap": 70891650000
+    },
+    {
+        "symbol": "CME",
+        "date": "2024-07-23",
+        "marketCap": 70959936000
+    },
+    {
+        "symbol": "CME",
+        "date": "2024-07-22",
+        "marketCap": 71836872000
+    },
+    {
+        "symbol": "CME",
+        "date": "2024-07-19",
+        "marketCap": 71826090000
+    },
+    {
+        "symbol": "CME",
+        "date": "2024-07-18",
+        "marketCap": 72099234000
+    },
+    {
+        "symbol": "CME",
+        "date": "2024-07-17",
+        "marketCap": 72404724000
+    },
+    {
+        "symbol": "CME",
+        "date": "2024-07-16",
+        "marketCap": 70934778000
+    },
+    {
+        "symbol": "CME",
+        "date": "2024-07-15",
+        "marketCap": 70805394000
+    },
+    {
+        "symbol": "CME",
+        "date": "2024-07-12",
+        "marketCap": 69518742000
+    },
+    {
+        "symbol": "CME",
+        "date": "2024-07-11",
+        "marketCap": 70370520000
+    },
+    {
+        "symbol": "CME",
+        "date": "2024-07-10",
+        "marketCap": 69572652000
+    },
+    {
+        "symbol": "CME",
+        "date": "2024-07-09",
+        "marketCap": 69946428000
+    },
+    {
+        "symbol": "CME",
+        "date": "2024-07-08",
+        "marketCap": 70072218000
+    },
+    {
+        "symbol": "CME",
+        "date": "2024-07-05",
+        "marketCap": 70586160000
+    },
+    {
+        "symbol": "CME",
+        "date": "2024-07-03",
+        "marketCap": 70463964000
+    },
+    {
+        "symbol": "CME",
+        "date": "2024-07-02",
+        "marketCap": 70830552000
+    },
+    {
+        "symbol": "CME",
+        "date": "2024-07-01",
+        "marketCap": 70262700000
+    },
+    {
+        "symbol": "CME",
+        "date": "2024-06-28",
+        "marketCap": 70644278000
+    },
+    {
+        "symbol": "CME",
+        "date": "2024-06-27",
+        "marketCap": 70259794900
+    },
+    {
+        "symbol": "CME",
+        "date": "2024-06-26",
+        "marketCap": 70141216000
+    },
+    {
+        "symbol": "CME",
+        "date": "2024-06-25",
+        "marketCap": 69745953000
+    },
+    {
+        "symbol": "CME",
+        "date": "2024-06-24",
+        "marketCap": 70098096400
+    },
+    {
+        "symbol": "CME",
+        "date": "2024-06-21",
+        "marketCap": 69882498400
+    },
+    {
+        "symbol": "CME",
+        "date": "2024-06-20",
+        "marketCap": 71323411700
+    },
+    {
+        "symbol": "CME",
+        "date": "2024-06-18",
+        "marketCap": 70619124900
+    },
+    {
+        "symbol": "CME",
+        "date": "2024-06-17",
+        "marketCap": 70640684700
+    },
+    {
+        "symbol": "CME",
+        "date": "2024-06-14",
+        "marketCap": 70834722900
+    },
+    {
+        "symbol": "CME",
+        "date": "2024-06-13",
+        "marketCap": 70299321200
+    },
+    {
+        "symbol": "CME",
+        "date": "2024-06-12",
+        "marketCap": 70331660900
+    },
+    {
+        "symbol": "CME",
+        "date": "2024-06-11",
+        "marketCap": 71398871000
+    },
+    {
+        "symbol": "CME",
+        "date": "2024-06-10",
+        "marketCap": 71327005000
+    },
+    {
+        "symbol": "CME",
+        "date": "2024-06-07",
+        "marketCap": 71636028800
+    },
+    {
+        "symbol": "CME",
+        "date": "2024-06-06",
+        "marketCap": 72401401700
+    },
+    {
+        "symbol": "CME",
+        "date": "2024-06-05",
+        "marketCap": 72042071700
+    },
+    {
+        "symbol": "CME",
+        "date": "2024-06-04",
+        "marketCap": 73224267400
+    },
+    {
+        "symbol": "CME",
+        "date": "2024-06-03",
+        "marketCap": 72494827500
+    },
+    {
+        "symbol": "CME",
+        "date": "2024-05-31",
+        "marketCap": 72936803400
+    },
+    {
+        "symbol": "CME",
+        "date": "2024-05-30",
+        "marketCap": 73626717000
+    },
+    {
+        "symbol": "CME",
+        "date": "2024-05-29",
+        "marketCap": 73982453700
+    },
+    {
+        "symbol": "CME",
+        "date": "2024-05-28",
+        "marketCap": 74920305000
+    },
+    {
+        "symbol": "CME",
+        "date": "2024-05-24",
+        "marketCap": 77227203600
+    },
+    {
+        "symbol": "CME",
+        "date": "2024-05-23",
+        "marketCap": 76203113100
+    },
+    {
+        "symbol": "CME",
+        "date": "2024-05-22",
+        "marketCap": 75991108400
+    },
+    {
+        "symbol": "CME",
+        "date": "2024-05-21",
+        "marketCap": 75585065500
+    },
+    {
+        "symbol": "CME",
+        "date": "2024-05-20",
+        "marketCap": 75915649100
+    },
+    {
+        "symbol": "CME",
+        "date": "2024-05-17",
+        "marketCap": 76587596200
+    },
+    {
+        "symbol": "CME",
+        "date": "2024-05-16",
+        "marketCap": 76440270900
+    },
+    {
+        "symbol": "CME",
+        "date": "2024-05-15",
+        "marketCap": 74834065800
+    },
+    {
+        "symbol": "CME",
+        "date": "2024-05-14",
+        "marketCap": 75746764000
+    },
+    {
+        "symbol": "CME",
+        "date": "2024-05-13",
+        "marketCap": 75430553600
+    },
+    {
+        "symbol": "CME",
+        "date": "2024-05-10",
+        "marketCap": 74905931800
+    },
+    {
+        "symbol": "CME",
+        "date": "2024-05-09",
+        "marketCap": 76756481300
+    },
+    {
+        "symbol": "CME",
+        "date": "2024-05-08",
+        "marketCap": 76120467200
+    },
+    {
+        "symbol": "CME",
+        "date": "2024-05-07",
+        "marketCap": 74862812200
+    },
+    {
+        "symbol": "CME",
+        "date": "2024-05-06",
+        "marketCap": 74740640000
+    },
+    {
+        "symbol": "CME",
+        "date": "2024-05-03",
+        "marketCap": 74614874500
+    },
+    {
+        "symbol": "CME",
+        "date": "2024-05-02",
+        "marketCap": 74553788400
+    },
+    {
+        "symbol": "CME",
+        "date": "2024-05-01",
+        "marketCap": 74765793100
+    },
+    {
+        "symbol": "CME",
+        "date": "2024-04-30",
+        "marketCap": 75329941200
+    },
+    {
+        "symbol": "CME",
+        "date": "2024-04-29",
+        "marketCap": 75322754600
+    },
+    {
+        "symbol": "CME",
+        "date": "2024-04-26",
+        "marketCap": 75797070200
+    },
+    {
+        "symbol": "CME",
+        "date": "2024-04-25",
+        "marketCap": 76371998200
+    },
+    {
+        "symbol": "CME",
+        "date": "2024-04-24",
+        "marketCap": 76389964700
+    },
+    {
+        "symbol": "CME",
+        "date": "2024-04-23",
+        "marketCap": 77891964100
+    },
+    {
+        "symbol": "CME",
+        "date": "2024-04-22",
+        "marketCap": 77428428400
+    },
+    {
+        "symbol": "CME",
+        "date": "2024-04-19",
+        "marketCap": 76551663200
+    },
+    {
+        "symbol": "CME",
+        "date": "2024-04-18",
+        "marketCap": 75333534500
+    },
+    {
+        "symbol": "CME",
+        "date": "2024-04-17",
+        "marketCap": 74891558600
+    },
+    {
+        "symbol": "CME",
+        "date": "2024-04-16",
+        "marketCap": 74194458400
+    },
+    {
+        "symbol": "CME",
+        "date": "2024-04-15",
+        "marketCap": 74104625900
+    },
+    {
+        "symbol": "CME",
+        "date": "2024-04-12",
+        "marketCap": 75279635000
+    },
+    {
+        "symbol": "CME",
+        "date": "2024-04-11",
+        "marketCap": 76454644100
+    },
+    {
+        "symbol": "CME",
+        "date": "2024-04-10",
+        "marketCap": 76177960000
+    },
+    {
+        "symbol": "CME",
+        "date": "2024-04-09",
+        "marketCap": 75380247400
+    },
+    {
+        "symbol": "CME",
+        "date": "2024-04-08",
+        "marketCap": 76447457500
+    },
+    {
+        "symbol": "CME",
+        "date": "2024-04-05",
+        "marketCap": 75847376400
+    },
+    {
+        "symbol": "CME",
+        "date": "2024-04-04",
+        "marketCap": 76253419300
+    },
+    {
+        "symbol": "CME",
+        "date": "2024-04-03",
+        "marketCap": 76188739900
+    },
+    {
+        "symbol": "CME",
+        "date": "2024-04-02",
+        "marketCap": 77184084000
+    },
+    {
+        "symbol": "CME",
+        "date": "2024-04-01",
+        "marketCap": 76185146600
+    },
+    {
+        "symbol": "CME",
+        "date": "2024-03-28",
+        "marketCap": 77344654820
+    },
+    {
+        "symbol": "CME",
+        "date": "2024-03-27",
+        "marketCap": 77456024800
+    },
+    {
+        "symbol": "CME",
+        "date": "2024-03-26",
+        "marketCap": 76478843040
+    },
+    {
+        "symbol": "CME",
+        "date": "2024-03-25",
+        "marketCap": 77308729020
+    },
+    {
+        "symbol": "CME",
+        "date": "2024-03-22",
+        "marketCap": 77060841000
+    },
+    {
+        "symbol": "CME",
+        "date": "2024-03-21",
+        "marketCap": 77632061220
+    },
+    {
+        "symbol": "CME",
+        "date": "2024-03-20",
+        "marketCap": 76744693960
+    },
+    {
+        "symbol": "CME",
+        "date": "2024-03-19",
+        "marketCap": 77729060880
+    },
+    {
+        "symbol": "CME",
+        "date": "2024-03-18",
+        "marketCap": 78637983620
+    },
+    {
+        "symbol": "CME",
+        "date": "2024-03-15",
+        "marketCap": 78138615000
+    },
+    {
+        "symbol": "CME",
+        "date": "2024-03-14",
+        "marketCap": 78824797780
+    },
+    {
+        "symbol": "CME",
+        "date": "2024-03-13",
+        "marketCap": 78806834880
+    },
+    {
+        "symbol": "CME",
+        "date": "2024-03-12",
+        "marketCap": 78228429500
+    },
+    {
+        "symbol": "CME",
+        "date": "2024-03-11",
+        "marketCap": 77876356660
+    },
+    {
+        "symbol": "CME",
+        "date": "2024-03-08",
+        "marketCap": 76514768840
+    },
+    {
+        "symbol": "CME",
+        "date": "2024-03-07",
+        "marketCap": 76712360740
+    },
+    {
+        "symbol": "CME",
+        "date": "2024-03-06",
+        "marketCap": 78925390020
+    },
+    {
+        "symbol": "CME",
+        "date": "2024-03-05",
+        "marketCap": 79000834200
+    },
+    {
+        "symbol": "CME",
+        "date": "2024-03-04",
+        "marketCap": 79521758300
+    },
+    {
+        "symbol": "CME",
+        "date": "2024-03-01",
+        "marketCap": 78752946180
+    },
+    {
+        "symbol": "CME",
+        "date": "2024-02-29",
+        "marketCap": 79162500300
+    },
+    {
+        "symbol": "CME",
+        "date": "2024-02-28",
+        "marketCap": 79338536720
+    },
+    {
+        "symbol": "CME",
+        "date": "2024-02-27",
+        "marketCap": 78839168100
+    },
+    {
+        "symbol": "CME",
+        "date": "2024-02-26",
+        "marketCap": 78835575520
+    },
+    {
+        "symbol": "CME",
+        "date": "2024-02-23",
+        "marketCap": 78303873680
+    },
+    {
+        "symbol": "CME",
+        "date": "2024-02-22",
+        "marketCap": 78318244000
+    },
+    {
+        "symbol": "CME",
+        "date": "2024-02-21",
+        "marketCap": 77240470000
+    },
+    {
+        "symbol": "CME",
+        "date": "2024-02-20",
+        "marketCap": 75799845420
+    },
+    {
+        "symbol": "CME",
+        "date": "2024-02-16",
+        "marketCap": 76256103080
+    },
+    {
+        "symbol": "CME",
+        "date": "2024-02-15",
+        "marketCap": 75810623160
+    },
+    {
+        "symbol": "CME",
+        "date": "2024-02-14",
+        "marketCap": 77305136440
+    },
+    {
+        "symbol": "CME",
+        "date": "2024-02-13",
+        "marketCap": 74520886940
+    },
+    {
+        "symbol": "CME",
+        "date": "2024-02-12",
+        "marketCap": 74301739560
+    },
+    {
+        "symbol": "CME",
+        "date": "2024-02-09",
+        "marketCap": 73680223220
+    },
+    {
+        "symbol": "CME",
+        "date": "2024-02-08",
+        "marketCap": 73288632000
+    },
+    {
+        "symbol": "CME",
+        "date": "2024-02-07",
+        "marketCap": 73813148680
+    },
+    {
+        "symbol": "CME",
+        "date": "2024-02-06",
+        "marketCap": 72850337240
+    },
+    {
+        "symbol": "CME",
+        "date": "2024-02-05",
+        "marketCap": 73583223560
+    },
+    {
+        "symbol": "CME",
+        "date": "2024-02-02",
+        "marketCap": 74204739900
+    },
+    {
+        "symbol": "CME",
+        "date": "2024-02-01",
+        "marketCap": 73931703820
+    },
+    {
+        "symbol": "CME",
+        "date": "2024-01-31",
+        "marketCap": 73949666720
+    },
+    {
+        "symbol": "CME",
+        "date": "2024-01-30",
+        "marketCap": 74046666380
+    },
+    {
+        "symbol": "CME",
+        "date": "2024-01-29",
+        "marketCap": 73568853240
+    },
+    {
+        "symbol": "CME",
+        "date": "2024-01-26",
+        "marketCap": 74287369240
+    },
+    {
+        "symbol": "CME",
+        "date": "2024-01-25",
+        "marketCap": 73867037380
+    },
+    {
+        "symbol": "CME",
+        "date": "2024-01-24",
+        "marketCap": 73385631660
+    },
+    {
+        "symbol": "CME",
+        "date": "2024-01-23",
+        "marketCap": 73277854260
+    },
+    {
+        "symbol": "CME",
+        "date": "2024-01-22",
+        "marketCap": 73026373660
+    },
+    {
+        "symbol": "CME",
+        "date": "2024-01-19",
+        "marketCap": 72588078900
+    },
+    {
+        "symbol": "CME",
+        "date": "2024-01-18",
+        "marketCap": 72893448200
+    },
+    {
+        "symbol": "CME",
+        "date": "2024-01-17",
+        "marketCap": 72918596260
+    },
+    {
+        "symbol": "CME",
+        "date": "2024-01-16",
+        "marketCap": 71348638800
+    },
+    {
+        "symbol": "CME",
+        "date": "2024-01-12",
+        "marketCap": 70967825320
+    },
+    {
+        "symbol": "CME",
+        "date": "2024-01-11",
+        "marketCap": 70558271200
+    },
+    {
+        "symbol": "CME",
+        "date": "2024-01-10",
+        "marketCap": 71072010140
+    },
+    {
+        "symbol": "CME",
+        "date": "2024-01-09",
+        "marketCap": 70806159220
+    },
+    {
+        "symbol": "CME",
+        "date": "2024-01-08",
+        "marketCap": 71891118380
+    },
+    {
+        "symbol": "CME",
+        "date": "2024-01-05",
+        "marketCap": 71560601020
+    },
+    {
+        "symbol": "CME",
+        "date": "2024-01-04",
+        "marketCap": 72835966920
+    },
+    {
+        "symbol": "CME",
+        "date": "2024-01-03",
+        "marketCap": 72358153780
+    },
+    {
+        "symbol": "CME",
+        "date": "2024-01-02",
+        "marketCap": 75167551340
+    },
+    {
+        "symbol": "CME",
+        "date": "2023-12-29",
+        "marketCap": 75646888200
+    },
+    {
+        "symbol": "CME",
+        "date": "2023-12-28",
+        "marketCap": 75797750940
+    },
+    {
+        "symbol": "CME",
+        "date": "2023-12-27",
+        "marketCap": 75625336380
+    },
+    {
+        "symbol": "CME",
+        "date": "2023-12-26",
+        "marketCap": 77155515600
+    },
+    {
+        "symbol": "CME",
+        "date": "2023-12-22",
+        "marketCap": 76979509070
+    },
+    {
+        "symbol": "CME",
+        "date": "2023-12-21",
+        "marketCap": 76785542690
+    },
+    {
+        "symbol": "CME",
+        "date": "2023-12-20",
+        "marketCap": 75808526850
+    },
+    {
+        "symbol": "CME",
+        "date": "2023-12-19",
+        "marketCap": 76491001150
+    },
+    {
+        "symbol": "CME",
+        "date": "2023-12-18",
+        "marketCap": 75858814430
+    },
+    {
+        "symbol": "CME",
+        "date": "2023-12-15",
+        "marketCap": 74256795810
+    },
+    {
+        "symbol": "CME",
+        "date": "2023-12-14",
+        "marketCap": 75488841520
+    },
+    {
+        "symbol": "CME",
+        "date": "2023-12-13",
+        "marketCap": 76566432520
+    },
+    {
+        "symbol": "CME",
+        "date": "2023-12-12",
+        "marketCap": 76914853610
+    },
+    {
+        "symbol": "CME",
+        "date": "2023-12-11",
+        "marketCap": 77381809710
+    },
+    {
+        "symbol": "CME",
+        "date": "2023-12-08",
+        "marketCap": 76013269140
+    },
+    {
+        "symbol": "CME",
+        "date": "2023-12-07",
+        "marketCap": 75693583810
+    },
+    {
+        "symbol": "CME",
+        "date": "2023-12-06",
+        "marketCap": 76957957250
+    },
+    {
+        "symbol": "CME",
+        "date": "2023-12-05",
+        "marketCap": 78427072980
+    },
+    {
+        "symbol": "CME",
+        "date": "2023-12-04",
+        "marketCap": 78944316660
+    },
+    {
+        "symbol": "CME",
+        "date": "2023-12-01",
+        "marketCap": 78858109380
+    },
+    {
+        "symbol": "CME",
+        "date": "2023-11-30",
+        "marketCap": 78434256920
+    },
+    {
+        "symbol": "CME",
+        "date": "2023-11-29",
+        "marketCap": 77169883480
+    },
+    {
+        "symbol": "CME",
+        "date": "2023-11-28",
+        "marketCap": 77565000180
+    },
+    {
+        "symbol": "CME",
+        "date": "2023-11-27",
+        "marketCap": 77848765810
+    },
+    {
+        "symbol": "CME",
+        "date": "2023-11-24",
+        "marketCap": 78013996430
+    },
+    {
+        "symbol": "CME",
+        "date": "2023-11-22",
+        "marketCap": 77712270950
+    },
+    {
+        "symbol": "CME",
+        "date": "2023-11-21",
+        "marketCap": 77428505320
+    },
+    {
+        "symbol": "CME",
+        "date": "2023-11-20",
+        "marketCap": 76149764000
+    },
+    {
+        "symbol": "CME",
+        "date": "2023-11-17",
+        "marketCap": 76659823740
+    },
+    {
+        "symbol": "CME",
+        "date": "2023-11-16",
+        "marketCap": 76218011430
+    },
+    {
+        "symbol": "CME",
+        "date": "2023-11-15",
+        "marketCap": 75812118820
+    },
+    {
+        "symbol": "CME",
+        "date": "2023-11-14",
+        "marketCap": 76063556720
+    },
+    {
+        "symbol": "CME",
+        "date": "2023-11-13",
+        "marketCap": 77974484760
+    },
+    {
+        "symbol": "CME",
+        "date": "2023-11-10",
+        "marketCap": 77985260670
+    },
+    {
+        "symbol": "CME",
+        "date": "2023-11-09",
+        "marketCap": 77723046860
+    },
+    {
+        "symbol": "CME",
+        "date": "2023-11-08",
+        "marketCap": 76347322350
+    },
+    {
+        "symbol": "CME",
+        "date": "2023-11-07",
+        "marketCap": 76279074920
+    },
+    {
+        "symbol": "CME",
+        "date": "2023-11-06",
+        "marketCap": 76523328880
+    },
+    {
+        "symbol": "CME",
+        "date": "2023-11-03",
+        "marketCap": 74935678140
+    },
+    {
+        "symbol": "CME",
+        "date": "2023-11-02",
+        "marketCap": 76354506290
+    },
+    {
+        "symbol": "CME",
+        "date": "2023-11-01",
+        "marketCap": 75761831240
+    },
+    {
+        "symbol": "CME",
+        "date": "2023-10-31",
+        "marketCap": 76674191620
+    },
+    {
+        "symbol": "CME",
+        "date": "2023-10-30",
+        "marketCap": 75909102010
+    },
+    {
+        "symbol": "CME",
+        "date": "2023-10-27",
+        "marketCap": 75082948910
+    },
+    {
+        "symbol": "CME",
+        "date": "2023-10-26",
+        "marketCap": 77381809710
+    },
+    {
+        "symbol": "CME",
+        "date": "2023-10-25",
+        "marketCap": 76896893760
+    },
+    {
+        "symbol": "CME",
+        "date": "2023-10-24",
+        "marketCap": 76957957250
+    },
+    {
+        "symbol": "CME",
+        "date": "2023-10-23",
+        "marketCap": 76728071170
+    },
+    {
+        "symbol": "CME",
+        "date": "2023-10-20",
+        "marketCap": 76440713570
+    },
+    {
+        "symbol": "CME",
+        "date": "2023-10-19",
+        "marketCap": 76911261640
+    },
+    {
+        "symbol": "CME",
+        "date": "2023-10-18",
+        "marketCap": 77582960030
+    },
+    {
+        "symbol": "CME",
+        "date": "2023-10-17",
+        "marketCap": 77766150500
+    },
+    {
+        "symbol": "CME",
+        "date": "2023-10-16",
+        "marketCap": 78599487540
+    },
+    {
+        "symbol": "CME",
+        "date": "2023-10-13",
+        "marketCap": 78800637860
+    },
+    {
+        "symbol": "CME",
+        "date": "2023-10-12",
+        "marketCap": 79044891820
+    },
+    {
+        "symbol": "CME",
+        "date": "2023-10-11",
+        "marketCap": 77981668700
+    },
+    {
+        "symbol": "CME",
+        "date": "2023-10-10",
+        "marketCap": 77618879730
+    },
+    {
+        "symbol": "CME",
+        "date": "2023-10-09",
+        "marketCap": 77500344720
+    },
+    {
+        "symbol": "CME",
+        "date": "2023-10-06",
+        "marketCap": 76124620210
+    },
+    {
+        "symbol": "CME",
+        "date": "2023-10-05",
+        "marketCap": 74497457800
+    },
+    {
+        "symbol": "CME",
+        "date": "2023-10-04",
+        "marketCap": 73003198280
+    },
+    {
+        "symbol": "CME",
+        "date": "2023-10-03",
+        "marketCap": 72435667020
+    },
+    {
+        "symbol": "CME",
+        "date": "2023-10-02",
+        "marketCap": 71893279550
+    },
+    {
+        "symbol": "CME",
+        "date": "2023-09-29",
+        "marketCap": 71882984400
+    },
+    {
+        "symbol": "CME",
+        "date": "2023-09-28",
+        "marketCap": 72399973200
+    },
+    {
+        "symbol": "CME",
+        "date": "2023-09-27",
+        "marketCap": 71933247200
+    },
+    {
+        "symbol": "CME",
+        "date": "2023-09-26",
+        "marketCap": 71742966600
+    },
+    {
+        "symbol": "CME",
+        "date": "2023-09-25",
+        "marketCap": 72109167000
+    },
+    {
+        "symbol": "CME",
+        "date": "2023-09-22",
+        "marketCap": 72421514400
+    },
+    {
+        "symbol": "CME",
+        "date": "2023-09-21",
+        "marketCap": 72597434200
+    },
+    {
+        "symbol": "CME",
+        "date": "2023-09-20",
+        "marketCap": 73925808200
+    },
+    {
+        "symbol": "CME",
+        "date": "2023-09-19",
+        "marketCap": 74130449600
+    },
+    {
+        "symbol": "CME",
+        "date": "2023-09-18",
+        "marketCap": 74155581000
+    },
+    {
+        "symbol": "CME",
+        "date": "2023-09-15",
+        "marketCap": 74252516400
+    },
+    {
+        "symbol": "CME",
+        "date": "2023-09-14",
+        "marketCap": 74607946200
+    },
+    {
+        "symbol": "CME",
+        "date": "2023-09-13",
+        "marketCap": 74467928400
+    },
+    {
+        "symbol": "CME",
+        "date": "2023-09-12",
+        "marketCap": 74011973000
+    },
+    {
+        "symbol": "CME",
+        "date": "2023-09-11",
+        "marketCap": 73929398400
+    },
+    {
+        "symbol": "CME",
+        "date": "2023-09-08",
+        "marketCap": 73595509800
+    },
+    {
+        "symbol": "CME",
+        "date": "2023-09-07",
+        "marketCap": 73703215800
+    },
+    {
+        "symbol": "CME",
+        "date": "2023-09-06",
+        "marketCap": 73118013200
+    },
+    {
+        "symbol": "CME",
+        "date": "2023-09-05",
+        "marketCap": 72712320600
+    },
+    {
+        "symbol": "CME",
+        "date": "2023-09-01",
+        "marketCap": 72841567800
+    },
+    {
+        "symbol": "CME",
+        "date": "2023-08-31",
+        "marketCap": 72766173600
+    },
+    {
+        "symbol": "CME",
+        "date": "2023-08-30",
+        "marketCap": 72683599000
+    },
+    {
+        "symbol": "CME",
+        "date": "2023-08-29",
+        "marketCap": 72776944200
+    },
+    {
+        "symbol": "CME",
+        "date": "2023-08-28",
+        "marketCap": 72995946400
+    },
+    {
+        "symbol": "CME",
+        "date": "2023-08-25",
+        "marketCap": 72960044400
+    },
+    {
+        "symbol": "CME",
+        "date": "2023-08-24",
+        "marketCap": 71843492200
+    },
+    {
+        "symbol": "CME",
+        "date": "2023-08-23",
+        "marketCap": 72073265000
+    },
+    {
+        "symbol": "CME",
+        "date": "2023-08-22",
+        "marketCap": 71620899800
+    },
+    {
+        "symbol": "CME",
+        "date": "2023-08-21",
+        "marketCap": 72737452000
+    },
+    {
+        "symbol": "CME",
+        "date": "2023-08-18",
+        "marketCap": 73143144600
+    },
+    {
+        "symbol": "CME",
+        "date": "2023-08-17",
+        "marketCap": 73250850600
+    },
+    {
+        "symbol": "CME",
+        "date": "2023-08-16",
+        "marketCap": 73958120000
+    },
+    {
+        "symbol": "CME",
+        "date": "2023-08-15",
+        "marketCap": 73660133400
+    },
+    {
+        "symbol": "CME",
+        "date": "2023-08-14",
+        "marketCap": 74119679000
+    },
+    {
+        "symbol": "CME",
+        "date": "2023-08-11",
+        "marketCap": 73875545400
+    },
+    {
+        "symbol": "CME",
+        "date": "2023-08-10",
+        "marketCap": 73527296000
+    },
+    {
+        "symbol": "CME",
+        "date": "2023-08-09",
+        "marketCap": 74144810400
+    },
+    {
+        "symbol": "CME",
+        "date": "2023-08-08",
+        "marketCap": 73631411800
+    },
+    {
+        "symbol": "CME",
+        "date": "2023-08-07",
+        "marketCap": 74805407200
+    },
+    {
+        "symbol": "CME",
+        "date": "2023-08-04",
+        "marketCap": 73624231400
+    },
+    {
+        "symbol": "CME",
+        "date": "2023-08-03",
+        "marketCap": 72823616800
+    },
+    {
+        "symbol": "CME",
+        "date": "2023-08-02",
+        "marketCap": 71685523400
+    },
+    {
+        "symbol": "CME",
+        "date": "2023-08-01",
+        "marketCap": 71742966600
+    },
+    {
+        "symbol": "CME",
+        "date": "2023-07-31",
+        "marketCap": 71430619200
+    },
+    {
+        "symbol": "CME",
+        "date": "2023-07-28",
+        "marketCap": 71595768400
+    },
+    {
+        "symbol": "CME",
+        "date": "2023-07-27",
+        "marketCap": 71322913200
+    },
+    {
+        "symbol": "CME",
+        "date": "2023-07-26",
+        "marketCap": 71355225000
+    },
+    {
+        "symbol": "CME",
+        "date": "2023-07-25",
+        "marketCap": 68651804400
+    },
+    {
+        "symbol": "CME",
+        "date": "2023-07-24",
+        "marketCap": 68587180800
+    },
+    {
+        "symbol": "CME",
+        "date": "2023-07-21",
+        "marketCap": 67948125200
+    },
+    {
+        "symbol": "CME",
+        "date": "2023-07-20",
+        "marketCap": 67283938200
+    },
+    {
+        "symbol": "CME",
+        "date": "2023-07-19",
+        "marketCap": 66914147600
+    },
+    {
+        "symbol": "CME",
+        "date": "2023-07-18",
+        "marketCap": 67154691000
+    },
+    {
+        "symbol": "CME",
+        "date": "2023-07-17",
+        "marketCap": 66508455000
+    },
+    {
+        "symbol": "CME",
+        "date": "2023-07-14",
+        "marketCap": 66824392600
+    },
+    {
+        "symbol": "CME",
+        "date": "2023-07-13",
+        "marketCap": 65779644400
+    },
+    {
+        "symbol": "CME",
+        "date": "2023-07-12",
+        "marketCap": 65093916200
+    },
+    {
+        "symbol": "CME",
+        "date": "2023-07-11",
+        "marketCap": 65460116600
+    },
+    {
+        "symbol": "CME",
+        "date": "2023-07-10",
+        "marketCap": 65090326000
+    },
+    {
+        "symbol": "CME",
+        "date": "2023-07-07",
+        "marketCap": 65323688999
+    },
+    {
+        "symbol": "CME",
+        "date": "2023-07-06",
+        "marketCap": 65790415000
+    },
+    {
+        "symbol": "CME",
+        "date": "2023-07-05",
+        "marketCap": 66005827000
+    },
+    {
+        "symbol": "CME",
+        "date": "2023-07-03",
+        "marketCap": 66835163200
+    },
+    {
+        "symbol": "CME",
+        "date": "2023-06-30",
+        "marketCap": 66522815800
+    },
+    {
+        "symbol": "CME",
+        "date": "2023-06-29",
+        "marketCap": 65815238400
+    },
+    {
+        "symbol": "CME",
+        "date": "2023-06-28",
+        "marketCap": 65736271599
+    },
+    {
+        "symbol": "CME",
+        "date": "2023-06-27",
+        "marketCap": 64232312999
+    },
+    {
+        "symbol": "CME",
+        "date": "2023-06-26",
+        "marketCap": 64210776599
+    },
+    {
+        "symbol": "CME",
+        "date": "2023-06-23",
+        "marketCap": 65208629799
+    },
+    {
+        "symbol": "CME",
+        "date": "2023-06-22",
+        "marketCap": 65362974000
+    },
+    {
+        "symbol": "CME",
+        "date": "2023-06-21",
+        "marketCap": 65183504000
+    },
+    {
+        "symbol": "CME",
+        "date": "2023-06-20",
+        "marketCap": 65574748600
+    },
+    {
+        "symbol": "CME",
+        "date": "2023-06-16",
+        "marketCap": 66084443400
+    },
+    {
+        "symbol": "CME",
+        "date": "2023-06-15",
+        "marketCap": 65406046800
+    },
+    {
+        "symbol": "CME",
+        "date": "2023-06-14",
+        "marketCap": 65151199400
+    },
+    {
+        "symbol": "CME",
+        "date": "2023-06-13",
+        "marketCap": 63797995600
+    },
+    {
+        "symbol": "CME",
+        "date": "2023-06-12",
+        "marketCap": 64375889000
+    },
+    {
+        "symbol": "CME",
+        "date": "2023-06-09",
+        "marketCap": 66346469600
+    },
+    {
+        "symbol": "CME",
+        "date": "2023-06-08",
+        "marketCap": 66565422999
+    },
+    {
+        "symbol": "CME",
+        "date": "2023-06-07",
+        "marketCap": 65524497000
+    },
+    {
+        "symbol": "CME",
+        "date": "2023-06-06",
+        "marketCap": 66170589000
+    },
+    {
+        "symbol": "CME",
+        "date": "2023-06-05",
+        "marketCap": 66859753800
+    },
+    {
+        "symbol": "CME",
+        "date": "2023-06-02",
+        "marketCap": 66511582000
+    },
+    {
+        "symbol": "CME",
+        "date": "2023-06-01",
+        "marketCap": 64616378800
+    },
+    {
+        "symbol": "CME",
+        "date": "2023-05-31",
+        "marketCap": 64160525000
+    },
+    {
+        "symbol": "CME",
+        "date": "2023-05-30",
+        "marketCap": 63963107999
+    },
+    {
+        "symbol": "CME",
+        "date": "2023-05-26",
+        "marketCap": 63413929799
+    },
+    {
+        "symbol": "CME",
+        "date": "2023-05-25",
+        "marketCap": 63539558800
+    },
+    {
+        "symbol": "CME",
+        "date": "2023-05-24",
+        "marketCap": 64634325800
+    },
+    {
+        "symbol": "CME",
+        "date": "2023-05-23",
+        "marketCap": 64278975200
+    },
+    {
+        "symbol": "CME",
+        "date": "2023-05-22",
+        "marketCap": 65301954200
+    },
+    {
+        "symbol": "CME",
+        "date": "2023-05-19",
+        "marketCap": 65262470800
+    },
+    {
+        "symbol": "CME",
+        "date": "2023-05-18",
+        "marketCap": 65258881400
+    },
+    {
+        "symbol": "CME",
+        "date": "2023-05-17",
+        "marketCap": 65510139400
+    },
+    {
+        "symbol": "CME",
+        "date": "2023-05-16",
+        "marketCap": 65179914600
+    },
+    {
+        "symbol": "CME",
+        "date": "2023-05-15",
+        "marketCap": 66177767800
+    },
+    {
+        "symbol": "CME",
+        "date": "2023-05-12",
+        "marketCap": 66385952999
+    },
+    {
+        "symbol": "CME",
+        "date": "2023-05-11",
+        "marketCap": 65858311200
+    },
+    {
+        "symbol": "CME",
+        "date": "2023-05-10",
+        "marketCap": 66515171400
+    },
+    {
+        "symbol": "CME",
+        "date": "2023-05-09",
+        "marketCap": 66271092200
+    },
+    {
+        "symbol": "CME",
+        "date": "2023-05-08",
+        "marketCap": 66651568600
+    },
+    {
+        "symbol": "CME",
+        "date": "2023-05-05",
+        "marketCap": 66450562200
+    },
+    {
+        "symbol": "CME",
+        "date": "2023-05-04",
+        "marketCap": 66019834200
+    },
+    {
+        "symbol": "CME",
+        "date": "2023-05-03",
+        "marketCap": 65086590200
+    },
+    {
+        "symbol": "CME",
+        "date": "2023-05-02",
+        "marketCap": 66594138200
+    },
+    {
+        "symbol": "CME",
+        "date": "2023-05-01",
+        "marketCap": 66988972200
+    },
+    {
+        "symbol": "CME",
+        "date": "2023-04-28",
+        "marketCap": 66680283800
+    },
+    {
+        "symbol": "CME",
+        "date": "2023-04-27",
+        "marketCap": 66192125400
+    },
+    {
+        "symbol": "CME",
+        "date": "2023-04-26",
+        "marketCap": 66378774200
+    },
+    {
+        "symbol": "CME",
+        "date": "2023-04-25",
+        "marketCap": 67405342600
+    },
+    {
+        "symbol": "CME",
+        "date": "2023-04-24",
+        "marketCap": 67200746800
+    },
+    {
+        "symbol": "CME",
+        "date": "2023-04-21",
+        "marketCap": 68101686200
+    },
+    {
+        "symbol": "CME",
+        "date": "2023-04-20",
+        "marketCap": 68324229000
+    },
+    {
+        "symbol": "CME",
+        "date": "2023-04-19",
+        "marketCap": 69013393800
+    },
+    {
+        "symbol": "CME",
+        "date": "2023-04-18",
+        "marketCap": 68693937200
+    },
+    {
+        "symbol": "CME",
+        "date": "2023-04-17",
+        "marketCap": 68959552800
+    },
+    {
+        "symbol": "CME",
+        "date": "2023-04-14",
+        "marketCap": 68370891200
+    },
+    {
+        "symbol": "CME",
+        "date": "2023-04-13",
+        "marketCap": 68173474200
+    },
+    {
+        "symbol": "CME",
+        "date": "2023-04-12",
+        "marketCap": 68823155600
+    },
+    {
+        "symbol": "CME",
+        "date": "2023-04-11",
+        "marketCap": 68765725200
+    },
+    {
+        "symbol": "CME",
+        "date": "2023-04-10",
+        "marketCap": 69182095600
+    },
+    {
+        "symbol": "CME",
+        "date": "2023-04-06",
+        "marketCap": 70029194000
+    },
+    {
+        "symbol": "CME",
+        "date": "2023-04-05",
+        "marketCap": 70061498600
+    },
+    {
+        "symbol": "CME",
+        "date": "2023-04-04",
+        "marketCap": 69289777600
+    },
+    {
+        "symbol": "CME",
+        "date": "2023-04-03",
+        "marketCap": 68309871400
+    },
+    {
+        "symbol": "CME",
+        "date": "2023-03-31",
+        "marketCap": 68744188800
+    },
+    {
+        "symbol": "CME",
+        "date": "2023-03-30",
+        "marketCap": 67813211690
+    },
+    {
+        "symbol": "CME",
+        "date": "2023-03-29",
+        "marketCap": 67138417650
+    },
+    {
+        "symbol": "CME",
+        "date": "2023-03-28",
+        "marketCap": 67235329560
+    },
+    {
+        "symbol": "CME",
+        "date": "2023-03-27",
+        "marketCap": 66409783660
+    },
+    {
+        "symbol": "CME",
+        "date": "2023-03-24",
+        "marketCap": 65882152150
+    },
+    {
+        "symbol": "CME",
+        "date": "2023-03-23",
+        "marketCap": 64618707990
+    },
+    {
+        "symbol": "CME",
+        "date": "2023-03-22",
+        "marketCap": 64421294840
+    },
+    {
+        "symbol": "CME",
+        "date": "2023-03-21",
+        "marketCap": 65580648430
+    },
+    {
+        "symbol": "CME",
+        "date": "2023-03-20",
+        "marketCap": 66323639740
+    },
+    {
+        "symbol": "CME",
+        "date": "2023-03-17",
+        "marketCap": 66754359340
+    },
+    {
+        "symbol": "CME",
+        "date": "2023-03-16",
+        "marketCap": 67195846930
+    },
+    {
+        "symbol": "CME",
+        "date": "2023-03-15",
+        "marketCap": 65566291109
+    },
+    {
+        "symbol": "CME",
+        "date": "2023-03-14",
+        "marketCap": 66535410210
+    },
+    {
+        "symbol": "CME",
+        "date": "2023-03-13",
+        "marketCap": 64503849430
+    },
+    {
+        "symbol": "CME",
+        "date": "2023-03-10",
+        "marketCap": 62694827109
+    },
+    {
+        "symbol": "CME",
+        "date": "2023-03-09",
+        "marketCap": 63699839510
+    },
+    {
+        "symbol": "CME",
+        "date": "2023-03-08",
+        "marketCap": 65297091359
+    },
+    {
+        "symbol": "CME",
+        "date": "2023-03-07",
+        "marketCap": 65404771260
+    },
+    {
+        "symbol": "CME",
+        "date": "2023-03-06",
+        "marketCap": 66366711700
+    },
+    {
+        "symbol": "CME",
+        "date": "2023-03-03",
+        "marketCap": 66506695570
+    },
+    {
+        "symbol": "CME",
+        "date": "2023-03-02",
+        "marketCap": 66941004500
+    },
+    {
+        "symbol": "CME",
+        "date": "2023-03-01",
+        "marketCap": 66126226590
+    },
+    {
+        "symbol": "CME",
+        "date": "2023-02-28",
+        "marketCap": 66531820880
+    },
+    {
+        "symbol": "CME",
+        "date": "2023-02-27",
+        "marketCap": 66093922619
+    },
+    {
+        "symbol": "CME",
+        "date": "2023-02-24",
+        "marketCap": 67181489609
+    },
+    {
+        "symbol": "CME",
+        "date": "2023-02-23",
+        "marketCap": 67156364300
+    },
+    {
+        "symbol": "CME",
+        "date": "2023-02-22",
+        "marketCap": 67120471000
+    },
+    {
+        "symbol": "CME",
+        "date": "2023-02-21",
+        "marketCap": 67439921369
+    },
+    {
+        "symbol": "CME",
+        "date": "2023-02-17",
+        "marketCap": 67709121119
+    },
+    {
+        "symbol": "CME",
+        "date": "2023-02-16",
+        "marketCap": 67658870500
+    },
+    {
+        "symbol": "CME",
+        "date": "2023-02-15",
+        "marketCap": 67583494570
+    },
+    {
+        "symbol": "CME",
+        "date": "2023-02-14",
+        "marketCap": 66901521869
+    },
+    {
+        "symbol": "CME",
+        "date": "2023-02-13",
+        "marketCap": 66477980930
+    },
+    {
+        "symbol": "CME",
+        "date": "2023-02-10",
+        "marketCap": 66079565300
+    },
+    {
+        "symbol": "CME",
+        "date": "2023-02-09",
+        "marketCap": 65656024359
+    },
+    {
+        "symbol": "CME",
+        "date": "2023-02-08",
+        "marketCap": 67274812190
+    },
+    {
+        "symbol": "CME",
+        "date": "2023-02-07",
+        "marketCap": 63818287400
+    },
+    {
+        "symbol": "CME",
+        "date": "2023-02-06",
+        "marketCap": 62727131080
+    },
+    {
+        "symbol": "CME",
+        "date": "2023-02-03",
+        "marketCap": 63369621150
+    },
+    {
+        "symbol": "CME",
+        "date": "2023-02-02",
+        "marketCap": 63172208000
+    },
+    {
+        "symbol": "CME",
+        "date": "2023-02-01",
+        "marketCap": 63007098820
+    },
+    {
+        "symbol": "CME",
+        "date": "2023-01-31",
+        "marketCap": 63409103780
+    },
+    {
+        "symbol": "CME",
+        "date": "2023-01-30",
+        "marketCap": 63157850680
+    },
+    {
+        "symbol": "CME",
+        "date": "2023-01-27",
+        "marketCap": 63057349440
+    },
+    {
+        "symbol": "CME",
+        "date": "2023-01-26",
+        "marketCap": 63448586410
+    },
+    {
+        "symbol": "CME",
+        "date": "2023-01-25",
+        "marketCap": 62231803540
+    },
+    {
+        "symbol": "CME",
+        "date": "2023-01-24",
+        "marketCap": 62142070290
+    },
+    {
+        "symbol": "CME",
+        "date": "2023-01-23",
+        "marketCap": 62583557880
+    },
+    {
+        "symbol": "CME",
+        "date": "2023-01-20",
+        "marketCap": 62834810980
+    },
+    {
+        "symbol": "CME",
+        "date": "2023-01-19",
+        "marketCap": 62551253910
+    },
+    {
+        "symbol": "CME",
+        "date": "2023-01-18",
+        "marketCap": 63093242740
+    },
+    {
+        "symbol": "CME",
+        "date": "2023-01-17",
+        "marketCap": 63168618670
+    },
+    {
+        "symbol": "CME",
+        "date": "2023-01-13",
+        "marketCap": 63035813460
+    },
+    {
+        "symbol": "CME",
+        "date": "2023-01-12",
+        "marketCap": 63427050430
+    },
+    {
+        "symbol": "CME",
+        "date": "2023-01-11",
+        "marketCap": 63042992119
+    },
+    {
+        "symbol": "CME",
+        "date": "2023-01-10",
+        "marketCap": 63710607500
+    },
+    {
+        "symbol": "CME",
+        "date": "2023-01-09",
+        "marketCap": 63100421400
+    },
+    {
+        "symbol": "CME",
+        "date": "2023-01-06",
+        "marketCap": 62845578970
+    },
+    {
+        "symbol": "CME",
+        "date": "2023-01-05",
+        "marketCap": 60928876750
+    },
+    {
+        "symbol": "CME",
+        "date": "2023-01-04",
+        "marketCap": 61047324640
+    },
+    {
+        "symbol": "CME",
+        "date": "2023-01-03",
+        "marketCap": 60641730349
+    },
+    {
+        "symbol": "CME",
+        "date": "2022-12-30",
+        "marketCap": 60350101600
+    },
+    {
+        "symbol": "CME",
+        "date": "2022-12-29",
+        "marketCap": 60708986600
+    },
+    {
+        "symbol": "CME",
+        "date": "2022-12-28",
+        "marketCap": 60271146900
+    },
+    {
+        "symbol": "CME",
+        "date": "2022-12-27",
+        "marketCap": 60177836800
+    },
+    {
+        "symbol": "CME",
+        "date": "2022-12-23",
+        "marketCap": 62205537050
+    },
+    {
+        "symbol": "CME",
+        "date": "2022-12-22",
+        "marketCap": 62148115449
+    },
+    {
+        "symbol": "CME",
+        "date": "2022-12-21",
+        "marketCap": 62040449950
+    },
+    {
+        "symbol": "CME",
+        "date": "2022-12-20",
+        "marketCap": 60719753150
+    },
+    {
+        "symbol": "CME",
+        "date": "2022-12-19",
+        "marketCap": 61254491800
+    },
+    {
+        "symbol": "CME",
+        "date": "2022-12-16",
+        "marketCap": 61412401200
+    },
+    {
+        "symbol": "CME",
+        "date": "2022-12-15",
+        "marketCap": 61896895950
+    },
+    {
+        "symbol": "CME",
+        "date": "2022-12-14",
+        "marketCap": 62776164199
+    },
+    {
+        "symbol": "CME",
+        "date": "2022-12-13",
+        "marketCap": 63928185050
+    },
+    {
+        "symbol": "CME",
+        "date": "2022-12-12",
+        "marketCap": 64918707649
+    },
+    {
+        "symbol": "CME",
+        "date": "2022-12-09",
+        "marketCap": 64179404550
+    },
+    {
+        "symbol": "CME",
+        "date": "2022-12-08",
+        "marketCap": 63594421999
+    },
+    {
+        "symbol": "CME",
+        "date": "2022-12-07",
+        "marketCap": 63163760000
+    },
+    {
+        "symbol": "CME",
+        "date": "2022-12-06",
+        "marketCap": 64559822649
+    },
+    {
+        "symbol": "CME",
+        "date": "2022-12-05",
+        "marketCap": 64735676300
+    },
+    {
+        "symbol": "CME",
+        "date": "2022-12-02",
+        "marketCap": 63389857550
+    },
+    {
+        "symbol": "CME",
+        "date": "2022-12-01",
+        "marketCap": 63845641500
+    },
+    {
+        "symbol": "CME",
+        "date": "2022-11-30",
+        "marketCap": 63343202500
+    },
+    {
+        "symbol": "CME",
+        "date": "2022-11-29",
+        "marketCap": 62736686850
+    },
+    {
+        "symbol": "CME",
+        "date": "2022-11-28",
+        "marketCap": 62133760050
+    },
+    {
+        "symbol": "CME",
+        "date": "2022-11-25",
+        "marketCap": 62804875000
+    },
+    {
+        "symbol": "CME",
+        "date": "2022-11-23",
+        "marketCap": 63163760000
+    },
+    {
+        "symbol": "CME",
+        "date": "2022-11-22",
+        "marketCap": 62535711250
+    },
+    {
+        "symbol": "CME",
+        "date": "2022-11-21",
+        "marketCap": 63343202500
+    },
+    {
+        "symbol": "CME",
+        "date": "2022-11-18",
+        "marketCap": 61907662500
+    },
+    {
+        "symbol": "CME",
+        "date": "2022-11-17",
+        "marketCap": 62277314050
+    },
+    {
+        "symbol": "CME",
+        "date": "2022-11-16",
+        "marketCap": 62765397649
+    },
+    {
+        "symbol": "CME",
+        "date": "2022-11-15",
+        "marketCap": 62370624150
+    },
+    {
+        "symbol": "CME",
+        "date": "2022-11-14",
+        "marketCap": 62410101500
+    },
+    {
+        "symbol": "CME",
+        "date": "2022-11-11",
+        "marketCap": 62535711250
+    },
+    {
+        "symbol": "CME",
+        "date": "2022-11-10",
+        "marketCap": 62568010900
+    },
+    {
+        "symbol": "CME",
+        "date": "2022-11-09",
+        "marketCap": 61369335000
+    },
+    {
+        "symbol": "CME",
+        "date": "2022-11-08",
+        "marketCap": 62158881999
+    },
+    {
+        "symbol": "CME",
+        "date": "2022-11-07",
+        "marketCap": 60917139900
+    },
+    {
+        "symbol": "CME",
+        "date": "2022-11-04",
+        "marketCap": 61250902949
+    },
+    {
+        "symbol": "CME",
+        "date": "2022-11-03",
+        "marketCap": 61340624199
+    },
+    {
+        "symbol": "CME",
+        "date": "2022-11-02",
+        "marketCap": 62044038800
+    },
+    {
+        "symbol": "CME",
+        "date": "2022-11-01",
+        "marketCap": 62277314050
+    },
+    {
+        "symbol": "CME",
+        "date": "2022-10-31",
+        "marketCap": 62194770500
+    },
+    {
+        "symbol": "CME",
+        "date": "2022-10-28",
+        "marketCap": 62715153750
+    },
+    {
+        "symbol": "CME",
+        "date": "2022-10-27",
+        "marketCap": 61990206050
+    },
+    {
+        "symbol": "CME",
+        "date": "2022-10-26",
+        "marketCap": 61703098050
+    },
+    {
+        "symbol": "CME",
+        "date": "2022-10-25",
+        "marketCap": 63091983000
+    },
+    {
+        "symbol": "CME",
+        "date": "2022-10-24",
+        "marketCap": 61731808850
+    },
+    {
+        "symbol": "CME",
+        "date": "2022-10-21",
+        "marketCap": 61006861150
+    },
+    {
+        "symbol": "CME",
+        "date": "2022-10-20",
+        "marketCap": 61154004000
+    },
+    {
+        "symbol": "CME",
+        "date": "2022-10-19",
+        "marketCap": 62015328000
+    },
+    {
+        "symbol": "CME",
+        "date": "2022-10-18",
+        "marketCap": 62539300100
+    },
+    {
+        "symbol": "CME",
+        "date": "2022-10-17",
+        "marketCap": 62499822750
+    },
+    {
+        "symbol": "CME",
+        "date": "2022-10-14",
+        "marketCap": 61663620700
+    },
+    {
+        "symbol": "CME",
+        "date": "2022-10-13",
+        "marketCap": 62603899400
+    },
+    {
+        "symbol": "CME",
+        "date": "2022-10-12",
+        "marketCap": 61624143350
+    },
+    {
+        "symbol": "CME",
+        "date": "2022-10-11",
+        "marketCap": 60992505749
+    },
+    {
+        "symbol": "CME",
+        "date": "2022-10-10",
+        "marketCap": 60816652100
+    },
+    {
+        "symbol": "CME",
+        "date": "2022-10-07",
+        "marketCap": 60981739199
+    },
+    {
+        "symbol": "CME",
+        "date": "2022-10-06",
+        "marketCap": 63038150250
+    },
+    {
+        "symbol": "CME",
+        "date": "2022-10-05",
+        "marketCap": 64911529950
+    },
+    {
+        "symbol": "CME",
+        "date": "2022-10-04",
+        "marketCap": 65363725050
+    },
+    {
+        "symbol": "CME",
+        "date": "2022-10-03",
+        "marketCap": 63946129300
+    },
+    {
+        "symbol": "CME",
+        "date": "2022-09-30",
+        "marketCap": 63569300050
+    },
+    {
+        "symbol": "CME",
+        "date": "2022-09-29",
+        "marketCap": 64091609049
+    },
+    {
+        "symbol": "CME",
+        "date": "2022-09-28",
+        "marketCap": 64400103950
+    },
+    {
+        "symbol": "CME",
+        "date": "2022-09-27",
+        "marketCap": 63227105900
+    },
+    {
+        "symbol": "CME",
+        "date": "2022-09-26",
+        "marketCap": 64561525700
+    },
+    {
+        "symbol": "CME",
+        "date": "2022-09-23",
+        "marketCap": 64956112200
+    },
+    {
+        "symbol": "CME",
+        "date": "2022-09-22",
+        "marketCap": 65763220950
+    },
+    {
+        "symbol": "CME",
+        "date": "2022-09-21",
+        "marketCap": 65296891450
+    },
+    {
+        "symbol": "CME",
+        "date": "2022-09-20",
+        "marketCap": 67169383750
+    },
+    {
+        "symbol": "CME",
+        "date": "2022-09-19",
+        "marketCap": 68414124800
+    },
+    {
+        "symbol": "CME",
+        "date": "2022-09-16",
+        "marketCap": 68715445400
+    },
+    {
+        "symbol": "CME",
+        "date": "2022-09-15",
+        "marketCap": 68432060550
+    },
+    {
+        "symbol": "CME",
+        "date": "2022-09-14",
+        "marketCap": 68622179500
+    },
+    {
+        "symbol": "CME",
+        "date": "2022-09-13",
+        "marketCap": 69619407200
+    },
+    {
+        "symbol": "CME",
+        "date": "2022-09-12",
+        "marketCap": 71818330150
+    },
+    {
+        "symbol": "CME",
+        "date": "2022-09-09",
+        "marketCap": 72216503800
+    },
+    {
+        "symbol": "CME",
+        "date": "2022-09-08",
+        "marketCap": 72453255700
+    },
+    {
+        "symbol": "CME",
+        "date": "2022-09-07",
+        "marketCap": 71864963100
+    },
+    {
+        "symbol": "CME",
+        "date": "2022-09-06",
+        "marketCap": 71036331450
+    },
+    {
+        "symbol": "CME",
+        "date": "2022-09-02",
+        "marketCap": 69838223350
+    },
+    {
+        "symbol": "CME",
+        "date": "2022-09-01",
+        "marketCap": 71534945300
+    },
+    {
+        "symbol": "CME",
+        "date": "2022-08-31",
+        "marketCap": 70168241150
+    },
+    {
+        "symbol": "CME",
+        "date": "2022-08-30",
+        "marketCap": 70017580850
+    },
+    {
+        "symbol": "CME",
+        "date": "2022-08-29",
+        "marketCap": 70092911000
+    },
+    {
+        "symbol": "CME",
+        "date": "2022-08-26",
+        "marketCap": 70433690250
+    },
+    {
+        "symbol": "CME",
+        "date": "2022-08-25",
+        "marketCap": 71430917950
+    },
+    {
+        "symbol": "CME",
+        "date": "2022-08-24",
+        "marketCap": 71348413500
+    },
+    {
+        "symbol": "CME",
+        "date": "2022-08-23",
+        "marketCap": 70910781200
+    },
+    {
+        "symbol": "CME",
+        "date": "2022-08-22",
+        "marketCap": 71631798350
+    },
+    {
+        "symbol": "CME",
+        "date": "2022-08-19",
+        "marketCap": 72485540050
+    },
+    {
+        "symbol": "CME",
+        "date": "2022-08-18",
+        "marketCap": 74584022800
+    },
+    {
+        "symbol": "CME",
+        "date": "2022-08-17",
+        "marketCap": 74056711750
+    },
+    {
+        "symbol": "CME",
+        "date": "2022-08-16",
+        "marketCap": 73701583900
+    },
+    {
+        "symbol": "CME",
+        "date": "2022-08-15",
+        "marketCap": 72564457350
+    },
+    {
+        "symbol": "CME",
+        "date": "2022-08-12",
+        "marketCap": 72675659000
+    },
+    {
+        "symbol": "CME",
+        "date": "2022-08-11",
+        "marketCap": 71391459300
+    },
+    {
+        "symbol": "CME",
+        "date": "2022-08-10",
+        "marketCap": 71169056000
+    },
+    {
+        "symbol": "CME",
+        "date": "2022-08-09",
+        "marketCap": 72801209250
+    },
+    {
+        "symbol": "CME",
+        "date": "2022-08-08",
+        "marketCap": 72266723900
+    },
+    {
+        "symbol": "CME",
+        "date": "2022-08-05",
+        "marketCap": 72514237250
+    },
+    {
+        "symbol": "CME",
+        "date": "2022-08-04",
+        "marketCap": 71753761450
+    },
+    {
+        "symbol": "CME",
+        "date": "2022-08-03",
+        "marketCap": 70932304100
+    },
+    {
+        "symbol": "CME",
+        "date": "2022-08-02",
+        "marketCap": 70853386800
+    },
+    {
+        "symbol": "CME",
+        "date": "2022-08-01",
+        "marketCap": 70218461250
+    },
+    {
+        "symbol": "CME",
+        "date": "2022-07-29",
+        "marketCap": 71556468200
+    },
+    {
+        "symbol": "CME",
+        "date": "2022-07-28",
+        "marketCap": 71570816800
+    },
+    {
+        "symbol": "CME",
+        "date": "2022-07-27",
+        "marketCap": 70304552850
+    },
+    {
+        "symbol": "CME",
+        "date": "2022-07-26",
+        "marketCap": 73098942700
+    },
+    {
+        "symbol": "CME",
+        "date": "2022-07-25",
+        "marketCap": 73342868900
+    },
+    {
+        "symbol": "CME",
+        "date": "2022-07-22",
+        "marketCap": 73350043200
+    },
+    {
+        "symbol": "CME",
+        "date": "2022-07-21",
+        "marketCap": 73819959850
+    },
+    {
+        "symbol": "CME",
+        "date": "2022-07-20",
+        "marketCap": 73231667250
+    },
+    {
+        "symbol": "CME",
+        "date": "2022-07-19",
+        "marketCap": 73113291300
+    },
+    {
+        "symbol": "CME",
+        "date": "2022-07-18",
+        "marketCap": 71900834600
+    },
+    {
+        "symbol": "CME",
+        "date": "2022-07-15",
+        "marketCap": 72438907100
+    },
+    {
+        "symbol": "CME",
+        "date": "2022-07-14",
+        "marketCap": 71574403950
+    },
+    {
+        "symbol": "CME",
+        "date": "2022-07-13",
+        "marketCap": 73016438250
+    },
+    {
+        "symbol": "CME",
+        "date": "2022-07-12",
+        "marketCap": 72880126550
+    },
+    {
+        "symbol": "CME",
+        "date": "2022-07-11",
+        "marketCap": 74734683100
+    },
+    {
+        "symbol": "CME",
+        "date": "2022-07-08",
+        "marketCap": 74935563500
+    },
+    {
+        "symbol": "CME",
+        "date": "2022-07-07",
+        "marketCap": 74892517700
+    },
+    {
+        "symbol": "CME",
+        "date": "2022-07-06",
+        "marketCap": 73163511400
+    },
+    {
+        "symbol": "CME",
+        "date": "2022-07-05",
+        "marketCap": 73306997400
+    },
+    {
+        "symbol": "CME",
+        "date": "2022-07-01",
+        "marketCap": 73278300200
+    },
+    {
+        "symbol": "CME",
+        "date": "2022-06-30",
+        "marketCap": 73428960500
+    },
+    {
+        "symbol": "CME",
+        "date": "2022-06-29",
+        "marketCap": 73933842150
+    },
+    {
+        "symbol": "CME",
+        "date": "2022-06-28",
+        "marketCap": 73923082920
+    },
+    {
+        "symbol": "CME",
+        "date": "2022-06-27",
+        "marketCap": 75113771040
+    },
+    {
+        "symbol": "CME",
+        "date": "2022-06-24",
+        "marketCap": 75314610000
+    },
+    {
+        "symbol": "CME",
+        "date": "2022-06-23",
+        "marketCap": 74762302860
+    },
+    {
+        "symbol": "CME",
+        "date": "2022-06-22",
+        "marketCap": 74762302860
+    },
+    {
+        "symbol": "CME",
+        "date": "2022-06-21",
+        "marketCap": 74776648500
+    },
+    {
+        "symbol": "CME",
+        "date": "2022-06-17",
+        "marketCap": 71918279730
+    },
+    {
+        "symbol": "CME",
+        "date": "2022-06-16",
+        "marketCap": 72904542480
+    },
+    {
+        "symbol": "CME",
+        "date": "2022-06-15",
+        "marketCap": 72043804080
+    },
+    {
+        "symbol": "CME",
+        "date": "2022-06-14",
+        "marketCap": 70333086510
+    },
+    {
+        "symbol": "CME",
+        "date": "2022-06-13",
+        "marketCap": 72800536590
+    },
+    {
+        "symbol": "CME",
+        "date": "2022-06-10",
+        "marketCap": 71692335900
+    },
+    {
+        "symbol": "CME",
+        "date": "2022-06-09",
+        "marketCap": 70985813130
+    },
+    {
+        "symbol": "CME",
+        "date": "2022-06-08",
+        "marketCap": 71573984370
+    },
+    {
+        "symbol": "CME",
+        "date": "2022-06-07",
+        "marketCap": 72718049160
+    },
+    {
+        "symbol": "CME",
+        "date": "2022-06-06",
+        "marketCap": 71498669760
+    },
+    {
+        "symbol": "CME",
+        "date": "2022-06-03",
+        "marketCap": 71728200000
+    },
+    {
+        "symbol": "CME",
+        "date": "2022-06-02",
+        "marketCap": 73406639880
+    },
+    {
+        "symbol": "CME",
+        "date": "2022-06-01",
+        "marketCap": 71502256170
+    },
+    {
+        "symbol": "CME",
+        "date": "2022-05-31",
+        "marketCap": 71308590030
+    },
+    {
+        "symbol": "CME",
+        "date": "2022-05-27",
+        "marketCap": 71703095130
+    },
+    {
+        "symbol": "CME",
+        "date": "2022-05-26",
+        "marketCap": 70619999310
+    },
+    {
+        "symbol": "CME",
+        "date": "2022-05-25",
+        "marketCap": 70089210630
+    },
+    {
+        "symbol": "CME",
+        "date": "2022-05-24",
+        "marketCap": 68740720470
+    },
+    {
+        "symbol": "CME",
+        "date": "2022-05-23",
+        "marketCap": 68715615600
+    },
+    {
+        "symbol": "CME",
+        "date": "2022-05-20",
+        "marketCap": 68898522510
+    },
+    {
+        "symbol": "CME",
+        "date": "2022-05-19",
+        "marketCap": 68195586150
+    },
+    {
+        "symbol": "CME",
+        "date": "2022-05-18",
+        "marketCap": 67596655680
+    },
+    {
+        "symbol": "CME",
+        "date": "2022-05-17",
+        "marketCap": 70304395230
+    },
+    {
+        "symbol": "CME",
+        "date": "2022-05-16",
+        "marketCap": 70354604970
+    },
+    {
+        "symbol": "CME",
+        "date": "2022-05-13",
+        "marketCap": 71764064100
+    },
+    {
+        "symbol": "CME",
+        "date": "2022-05-12",
+        "marketCap": 70297222410
+    },
+    {
+        "symbol": "CME",
+        "date": "2022-05-11",
+        "marketCap": 71233275420
+    },
+    {
+        "symbol": "CME",
+        "date": "2022-05-10",
+        "marketCap": 71825033070
+    },
+    {
+        "symbol": "CME",
+        "date": "2022-05-09",
+        "marketCap": 72302025600
+    },
+    {
+        "symbol": "CME",
+        "date": "2022-05-06",
+        "marketCap": 75447307170
+    },
+    {
+        "symbol": "CME",
+        "date": "2022-05-05",
+        "marketCap": 76487366070
+    },
+    {
+        "symbol": "CME",
+        "date": "2022-05-04",
+        "marketCap": 79137723060
+    },
+    {
+        "symbol": "CME",
+        "date": "2022-05-03",
+        "marketCap": 78599761560
+    },
+    {
+        "symbol": "CME",
+        "date": "2022-05-02",
+        "marketCap": 77746195980
+    },
+    {
+        "symbol": "CME",
+        "date": "2022-04-29",
+        "marketCap": 78664316940
+    },
+    {
+        "symbol": "CME",
+        "date": "2022-04-28",
+        "marketCap": 80952446520
+    },
+    {
+        "symbol": "CME",
+        "date": "2022-04-27",
+        "marketCap": 81027761130
+    },
+    {
+        "symbol": "CME",
+        "date": "2022-04-26",
+        "marketCap": 76487366070
+    },
+    {
+        "symbol": "CME",
+        "date": "2022-04-25",
+        "marketCap": 79460499960
+    },
+    {
+        "symbol": "CME",
+        "date": "2022-04-22",
+        "marketCap": 79948251720
+    },
+    {
+        "symbol": "CME",
+        "date": "2022-04-21",
+        "marketCap": 81902845170
+    },
+    {
+        "symbol": "CME",
+        "date": "2022-04-20",
+        "marketCap": 84711004200
+    },
+    {
+        "symbol": "CME",
+        "date": "2022-04-19",
+        "marketCap": 83957858100
+    },
+    {
+        "symbol": "CME",
+        "date": "2022-04-18",
+        "marketCap": 84725349840
+    },
+    {
+        "symbol": "CME",
+        "date": "2022-04-14",
+        "marketCap": 85234620060
+    },
+    {
+        "symbol": "CME",
+        "date": "2022-04-13",
+        "marketCap": 85844309760
+    },
+    {
+        "symbol": "CME",
+        "date": "2022-04-12",
+        "marketCap": 84650035230
+    },
+    {
+        "symbol": "CME",
+        "date": "2022-04-11",
+        "marketCap": 86016457440
+    },
+    {
+        "symbol": "CME",
+        "date": "2022-04-08",
+        "marketCap": 86970442500
+    },
+    {
+        "symbol": "CME",
+        "date": "2022-04-07",
+        "marketCap": 87615996300
+    },
+    {
+        "symbol": "CME",
+        "date": "2022-04-06",
+        "marketCap": 87311151450
+    },
+    {
+        "symbol": "CME",
+        "date": "2022-04-05",
+        "marketCap": 85162891860
+    },
+    {
+        "symbol": "CME",
+        "date": "2022-04-04",
+        "marketCap": 84133592190
+    },
+    {
+        "symbol": "CME",
+        "date": "2022-04-01",
+        "marketCap": 86009284620
+    },
+    {
+        "symbol": "CME",
+        "date": "2022-03-31",
+        "marketCap": 85306348260
+    },
+    {
+        "symbol": "CME",
+        "date": "2022-03-30",
+        "marketCap": 86711656200
+    },
+    {
+        "symbol": "CME",
+        "date": "2022-03-29",
+        "marketCap": 86385322010
+    },
+    {
+        "symbol": "CME",
+        "date": "2022-03-28",
+        "marketCap": 87708589220
+    },
+    {
+        "symbol": "CME",
+        "date": "2022-03-25",
+        "marketCap": 88834621480
+    },
+    {
+        "symbol": "CME",
+        "date": "2022-03-24",
+        "marketCap": 87834102370
+    },
+    {
+        "symbol": "CME",
+        "date": "2022-03-23",
+        "marketCap": 88501115110
+    },
+    {
+        "symbol": "CME",
+        "date": "2022-03-22",
+        "marketCap": 88931445910
+    },
+    {
+        "symbol": "CME",
+        "date": "2022-03-21",
+        "marketCap": 89924792840
+    },
+    {
+        "symbol": "CME",
+        "date": "2022-03-18",
+        "marketCap": 89508806400
+    },
+    {
+        "symbol": "CME",
+        "date": "2022-03-17",
+        "marketCap": 88318224520
+    },
+    {
+        "symbol": "CME",
+        "date": "2022-03-16",
+        "marketCap": 86786964090
+    },
+    {
+        "symbol": "CME",
+        "date": "2022-03-15",
+        "marketCap": 83197288000
+    },
+    {
+        "symbol": "CME",
+        "date": "2022-03-14",
+        "marketCap": 82325868130
+    },
+    {
+        "symbol": "CME",
+        "date": "2022-03-11",
+        "marketCap": 81031289640
+    },
+    {
+        "symbol": "CME",
+        "date": "2022-03-10",
+        "marketCap": 81748507640
+    },
+    {
+        "symbol": "CME",
+        "date": "2022-03-09",
+        "marketCap": 82512344810
+    },
+    {
+        "symbol": "CME",
+        "date": "2022-03-08",
+        "marketCap": 79872982570
+    },
+    {
+        "symbol": "CME",
+        "date": "2022-03-07",
+        "marketCap": 84534899570
+    },
+    {
+        "symbol": "CME",
+        "date": "2022-03-04",
+        "marketCap": 87418115930
+    },
+    {
+        "symbol": "CME",
+        "date": "2022-03-03",
+        "marketCap": 86360219380
+    },
+    {
+        "symbol": "CME",
+        "date": "2022-03-02",
+        "marketCap": 84897094660
+    },
+    {
+        "symbol": "CME",
+        "date": "2022-03-01",
+        "marketCap": 83717271050
+    },
+    {
+        "symbol": "CME",
+        "date": "2022-02-28",
+        "marketCap": 84821786770
+    },
+    {
+        "symbol": "CME",
+        "date": "2022-02-25",
+        "marketCap": 85854580690
+    },
+    {
+        "symbol": "CME",
+        "date": "2022-02-24",
+        "marketCap": 85083571340
+    },
+    {
+        "symbol": "CME",
+        "date": "2022-02-23",
+        "marketCap": 84473936040
+    },
+    {
+        "symbol": "CME",
+        "date": "2022-02-22",
+        "marketCap": 85481627330
+    },
+    {
+        "symbol": "CME",
+        "date": "2022-02-18",
+        "marketCap": 84854061580
+    },
+    {
+        "symbol": "CME",
+        "date": "2022-02-17",
+        "marketCap": 85653759650
+    },
+    {
+        "symbol": "CME",
+        "date": "2022-02-16",
+        "marketCap": 85678862280
+    },
+    {
+        "symbol": "CME",
+        "date": "2022-02-15",
+        "marketCap": 85650173560
+    },
+    {
+        "symbol": "CME",
+        "date": "2022-02-14",
+        "marketCap": 85768514530
+    },
+    {
+        "symbol": "CME",
+        "date": "2022-02-11",
+        "marketCap": 86435527270
+    },
+    {
+        "symbol": "CME",
+        "date": "2022-02-10",
+        "marketCap": 87518526450
+    },
+    {
+        "symbol": "CME",
+        "date": "2022-02-09",
+        "marketCap": 89476531590
+    },
+    {
+        "symbol": "CME",
+        "date": "2022-02-08",
+        "marketCap": 86571798690
+    },
+    {
+        "symbol": "CME",
+        "date": "2022-02-07",
+        "marketCap": 87023646030
+    },
+    {
+        "symbol": "CME",
+        "date": "2022-02-04",
+        "marketCap": 88278777530
+    },
+    {
+        "symbol": "CME",
+        "date": "2022-02-03",
+        "marketCap": 86449871630
+    },
+    {
+        "symbol": "CME",
+        "date": "2022-02-02",
+        "marketCap": 85840236330
+    },
+    {
+        "symbol": "CME",
+        "date": "2022-02-01",
+        "marketCap": 83204460180
+    },
+    {
+        "symbol": "CME",
+        "date": "2022-01-31",
+        "marketCap": 82300765500
+    },
+    {
+        "symbol": "CME",
+        "date": "2022-01-28",
+        "marketCap": 80955981750
+    },
+    {
+        "symbol": "CME",
+        "date": "2022-01-27",
+        "marketCap": 80055873160
+    },
+    {
+        "symbol": "CME",
+        "date": "2022-01-26",
+        "marketCap": 78940599170
+    },
+    {
+        "symbol": "CME",
+        "date": "2022-01-25",
+        "marketCap": 79535890110
+    },
+    {
+        "symbol": "CME",
+        "date": "2022-01-24",
+        "marketCap": 80418068250
+    },
+    {
+        "symbol": "CME",
+        "date": "2022-01-21",
+        "marketCap": 81013359190
+    },
+    {
+        "symbol": "CME",
+        "date": "2022-01-20",
+        "marketCap": 82910400800
+    },
+    {
+        "symbol": "CME",
+        "date": "2022-01-19",
+        "marketCap": 82343798580
+    },
+    {
+        "symbol": "CME",
+        "date": "2022-01-18",
+        "marketCap": 80149111500
+    },
+    {
+        "symbol": "CME",
+        "date": "2022-01-14",
+        "marketCap": 80037942710
+    },
+    {
+        "symbol": "CME",
+        "date": "2022-01-13",
+        "marketCap": 80231591570
+    },
+    {
+        "symbol": "CME",
+        "date": "2022-01-12",
+        "marketCap": 81110183620
+    },
+    {
+        "symbol": "CME",
+        "date": "2022-01-11",
+        "marketCap": 80127594960
+    },
+    {
+        "symbol": "CME",
+        "date": "2022-01-10",
+        "marketCap": 79898085200
+    },
+    {
+        "symbol": "CME",
+        "date": "2022-01-07",
+        "marketCap": 80701369360
+    },
+    {
+        "symbol": "CME",
+        "date": "2022-01-06",
+        "marketCap": 80941637390
+    },
+    {
+        "symbol": "CME",
+        "date": "2022-01-05",
+        "marketCap": 81199835870
+    },
+    {
+        "symbol": "CME",
+        "date": "2022-01-04",
+        "marketCap": 81501067430
+    },
+    {
+        "symbol": "CME",
+        "date": "2022-01-03",
+        "marketCap": 80851985140
+    },
+    {
+        "symbol": "CME",
+        "date": "2021-12-31",
+        "marketCap": 81927812140
+    },
+    {
+        "symbol": "CME",
+        "date": "2021-12-30",
+        "marketCap": 81993360120
+    },
+    {
+        "symbol": "CME",
+        "date": "2021-12-29",
+        "marketCap": 82154722020
+    },
+    {
+        "symbol": "CME",
+        "date": "2021-12-28",
+        "marketCap": 82516889840
+    },
+    {
+        "symbol": "CME",
+        "date": "2021-12-27",
+        "marketCap": 82269468260
+    },
+    {
+        "symbol": "CME",
+        "date": "2021-12-23",
+        "marketCap": 82100934720
+    },
+    {
+        "symbol": "CME",
+        "date": "2021-12-22",
+        "marketCap": 81469830400
+    },
+    {
+        "symbol": "CME",
+        "date": "2021-12-21",
+        "marketCap": 80752666400
+    },
+    {
+        "symbol": "CME",
+        "date": "2021-12-20",
+        "marketCap": 79572931620
+    },
+    {
+        "symbol": "CME",
+        "date": "2021-12-17",
+        "marketCap": 80602061960
+    },
+    {
+        "symbol": "CME",
+        "date": "2021-12-16",
+        "marketCap": 82147550380
+    },
+    {
+        "symbol": "CME",
+        "date": "2021-12-15",
+        "marketCap": 81631192300
+    },
+    {
+        "symbol": "CME",
+        "date": "2021-12-14",
+        "marketCap": 81595334100
+    },
+    {
+        "symbol": "CME",
+        "date": "2021-12-13",
+        "marketCap": 81720837800
+    },
+    {
+        "symbol": "CME",
+        "date": "2021-12-10",
+        "marketCap": 81900128800
+    },
+    {
+        "symbol": "CME",
+        "date": "2021-12-09",
+        "marketCap": 81627606480
+    },
+    {
+        "symbol": "CME",
+        "date": "2021-12-08",
+        "marketCap": 83180266540
+    },
+    {
+        "symbol": "CME",
+        "date": "2021-12-07",
+        "marketCap": 82922087500
+    },
+    {
+        "symbol": "CME",
+        "date": "2021-12-06",
+        "marketCap": 80483729900
+    },
+    {
+        "symbol": "CME",
+        "date": "2021-12-03",
+        "marketCap": 80774181320
+    },
+    {
+        "symbol": "CME",
+        "date": "2021-12-02",
+        "marketCap": 81236752100
+    },
+    {
+        "symbol": "CME",
+        "date": "2021-12-01",
+        "marketCap": 78891625820
+    },
+    {
+        "symbol": "CME",
+        "date": "2021-11-30",
+        "marketCap": 79074502640
+    },
+    {
+        "symbol": "CME",
+        "date": "2021-11-29",
+        "marketCap": 80799282060
+    },
+    {
+        "symbol": "CME",
+        "date": "2021-11-26",
+        "marketCap": 79662577120
+    },
+    {
+        "symbol": "CME",
+        "date": "2021-11-24",
+        "marketCap": 82093763080
+    },
+    {
+        "symbol": "CME",
+        "date": "2021-11-23",
+        "marketCap": 81735181080
+    },
+    {
+        "symbol": "CME",
+        "date": "2021-11-22",
+        "marketCap": 80440700060
+    },
+    {
+        "symbol": "CME",
+        "date": "2021-11-19",
+        "marketCap": 80074946420
+    },
+    {
+        "symbol": "CME",
+        "date": "2021-11-18",
+        "marketCap": 81111248400
+    },
+    {
+        "symbol": "CME",
+        "date": "2021-11-17",
+        "marketCap": 81190136440
+    },
+    {
+        "symbol": "CME",
+        "date": "2021-11-16",
+        "marketCap": 80917614120
+    },
+    {
+        "symbol": "CME",
+        "date": "2021-11-15",
+        "marketCap": 81283367760
+    },
+    {
+        "symbol": "CME",
+        "date": "2021-11-12",
+        "marketCap": 80627162700
+    },
+    {
+        "symbol": "CME",
+        "date": "2021-11-11",
+        "marketCap": 79788080820
+    },
+    {
+        "symbol": "CME",
+        "date": "2021-11-10",
+        "marketCap": 79275308560
+    },
+    {
+        "symbol": "CME",
+        "date": "2021-11-09",
+        "marketCap": 79508386860
+    },
+    {
+        "symbol": "CME",
+        "date": "2021-11-08",
+        "marketCap": 79128289940
+    },
+    {
+        "symbol": "CME",
+        "date": "2021-11-05",
+        "marketCap": 79501215220
+    },
+    {
+        "symbol": "CME",
+        "date": "2021-11-04",
+        "marketCap": 79092431740
+    },
+    {
+        "symbol": "CME",
+        "date": "2021-11-03",
+        "marketCap": 79045816080
+    },
+    {
+        "symbol": "CME",
+        "date": "2021-11-02",
+        "marketCap": 79103189200
+    },
+    {
+        "symbol": "CME",
+        "date": "2021-11-01",
+        "marketCap": 78289208060
+    },
+    {
+        "symbol": "CME",
+        "date": "2021-10-29",
+        "marketCap": 79085260100
+    },
+    {
+        "symbol": "CME",
+        "date": "2021-10-28",
+        "marketCap": 78292793880
+    },
+    {
+        "symbol": "CME",
+        "date": "2021-10-27",
+        "marketCap": 77833808920
+    },
+    {
+        "symbol": "CME",
+        "date": "2021-10-26",
+        "marketCap": 78626275140
+    },
+    {
+        "symbol": "CME",
+        "date": "2021-10-25",
+        "marketCap": 78059715580
+    },
+    {
+        "symbol": "CME",
+        "date": "2021-10-22",
+        "marketCap": 78152946900
+    },
+    {
+        "symbol": "CME",
+        "date": "2021-10-21",
+        "marketCap": 77019827780
+    },
+    {
+        "symbol": "CME",
+        "date": "2021-10-20",
+        "marketCap": 76797506940
+    },
+    {
+        "symbol": "CME",
+        "date": "2021-10-19",
+        "marketCap": 78013099920
+    },
+    {
+        "symbol": "CME",
+        "date": "2021-10-18",
+        "marketCap": 76711447260
+    },
+    {
+        "symbol": "CME",
+        "date": "2021-10-15",
+        "marketCap": 75983525800
+    },
+    {
+        "symbol": "CME",
+        "date": "2021-10-14",
+        "marketCap": 74244403100
+    },
+    {
+        "symbol": "CME",
+        "date": "2021-10-13",
+        "marketCap": 73243959320
+    },
+    {
+        "symbol": "CME",
+        "date": "2021-10-12",
+        "marketCap": 72724015420
+    },
+    {
+        "symbol": "CME",
+        "date": "2021-10-11",
+        "marketCap": 72189728240
+    },
+    {
+        "symbol": "CME",
+        "date": "2021-10-08",
+        "marketCap": 72265030460
+    },
+    {
+        "symbol": "CME",
+        "date": "2021-10-07",
+        "marketCap": 72473008020
+    },
+    {
+        "symbol": "CME",
+        "date": "2021-10-06",
+        "marketCap": 71257415040
+    },
+    {
+        "symbol": "CME",
+        "date": "2021-10-05",
+        "marketCap": 71113982240
+    },
+    {
+        "symbol": "CME",
+        "date": "2021-10-04",
+        "marketCap": 69819501220
+    },
+    {
+        "symbol": "CME",
+        "date": "2021-10-01",
+        "marketCap": 70493635380
+    },
+    {
+        "symbol": "CME",
+        "date": "2021-09-30",
+        "marketCap": 69342587160
+    },
+    {
+        "symbol": "CME",
+        "date": "2021-09-29",
+        "marketCap": 70296486080
+    },
+    {
+        "symbol": "CME",
+        "date": "2021-09-28",
+        "marketCap": 70916454070
+    },
+    {
+        "symbol": "CME",
+        "date": "2021-09-27",
+        "marketCap": 71109970090
+    },
+    {
+        "symbol": "CME",
+        "date": "2021-09-24",
+        "marketCap": 70959457630
+    },
+    {
+        "symbol": "CME",
+        "date": "2021-09-23",
+        "marketCap": 69336073240
+    },
+    {
+        "symbol": "CME",
+        "date": "2021-09-22",
+        "marketCap": 67848866790
+    },
+    {
+        "symbol": "CME",
+        "date": "2021-09-21",
+        "marketCap": 66598179920
+    },
+    {
+        "symbol": "CME",
+        "date": "2021-09-20",
+        "marketCap": 67375827630
+    },
+    {
+        "symbol": "CME",
+        "date": "2021-09-17",
+        "marketCap": 67605179950
+    },
+    {
+        "symbol": "CME",
+        "date": "2021-09-16",
+        "marketCap": 67619514470
+    },
+    {
+        "symbol": "CME",
+        "date": "2021-09-15",
+        "marketCap": 67716272480
+    },
+    {
+        "symbol": "CME",
+        "date": "2021-09-14",
+        "marketCap": 67676852550
+    },
+    {
+        "symbol": "CME",
+        "date": "2021-09-13",
+        "marketCap": 67813030490
+    },
+    {
+        "symbol": "CME",
+        "date": "2021-09-10",
+        "marketCap": 67805863230
+    },
+    {
+        "symbol": "CME",
+        "date": "2021-09-09",
+        "marketCap": 68970542980
+    },
+    {
+        "symbol": "CME",
+        "date": "2021-09-08",
+        "marketCap": 69432831250
+    },
+    {
+        "symbol": "CME",
+        "date": "2021-09-07",
+        "marketCap": 69436414880
+    },
+    {
+        "symbol": "CME",
+        "date": "2021-09-03",
+        "marketCap": 69988293900
+    },
+    {
+        "symbol": "CME",
+        "date": "2021-09-02",
+        "marketCap": 70819696060
+    },
+    {
+        "symbol": "CME",
+        "date": "2021-09-01",
+        "marketCap": 71389493230
+    },
+    {
+        "symbol": "CME",
+        "date": "2021-08-31",
+        "marketCap": 72288984360
+    },
+    {
+        "symbol": "CME",
+        "date": "2021-08-30",
+        "marketCap": 71418162270
+    },
+    {
+        "symbol": "CME",
+        "date": "2021-08-27",
+        "marketCap": 71622429180
+    },
+    {
+        "symbol": "CME",
+        "date": "2021-08-26",
+        "marketCap": 71436080420
+    },
+    {
+        "symbol": "CME",
+        "date": "2021-08-25",
+        "marketCap": 71776525270
+    },
+    {
+        "symbol": "CME",
+        "date": "2021-08-24",
+        "marketCap": 71876866910
+    },
+    {
+        "symbol": "CME",
+        "date": "2021-08-23",
+        "marketCap": 72331987920
+    },
+    {
+        "symbol": "CME",
+        "date": "2021-08-20",
+        "marketCap": 71084884680
+    },
+    {
+        "symbol": "CME",
+        "date": "2021-08-19",
+        "marketCap": 70984543040
+    },
+    {
+        "symbol": "CME",
+        "date": "2021-08-18",
+        "marketCap": 70805361540
+    },
+    {
+        "symbol": "CME",
+        "date": "2021-08-17",
+        "marketCap": 73604176570
+    },
+    {
+        "symbol": "CME",
+        "date": "2021-08-16",
+        "marketCap": 74249229970
+    },
+    {
+        "symbol": "CME",
+        "date": "2021-08-13",
+        "marketCap": 74191891890
+    },
+    {
+        "symbol": "CME",
+        "date": "2021-08-12",
+        "marketCap": 74675681940
+    },
+    {
+        "symbol": "CME",
+        "date": "2021-08-11",
+        "marketCap": 74922952410
+    },
+    {
+        "symbol": "CME",
+        "date": "2021-08-10",
+        "marketCap": 74872781590
+    },
+    {
+        "symbol": "CME",
+        "date": "2021-08-09",
+        "marketCap": 74937286930
+    },
+    {
+        "symbol": "CME",
+        "date": "2021-08-06",
+        "marketCap": 75198891920
+    },
+    {
+        "symbol": "CME",
+        "date": "2021-08-05",
+        "marketCap": 74629094750
+    },
+    {
+        "symbol": "CME",
+        "date": "2021-08-04",
+        "marketCap": 74718685500
+    },
+    {
+        "symbol": "CME",
+        "date": "2021-08-03",
+        "marketCap": 74815443510
+    },
+    {
+        "symbol": "CME",
+        "date": "2021-08-02",
+        "marketCap": 75793774500
+    },
+    {
+        "symbol": "CME",
+        "date": "2021-07-30",
+        "marketCap": 76019543190
+    },
+    {
+        "symbol": "CME",
+        "date": "2021-07-29",
+        "marketCap": 76940536100
+    },
+    {
+        "symbol": "CME",
+        "date": "2021-07-28",
+        "marketCap": 76485415090
+    },
+    {
+        "symbol": "CME",
+        "date": "2021-07-27",
+        "marketCap": 75944286960
+    },
+    {
+        "symbol": "CME",
+        "date": "2021-07-26",
+        "marketCap": 75410326090
+    },
+    {
+        "symbol": "CME",
+        "date": "2021-07-23",
+        "marketCap": 75937119700
+    },
+    {
+        "symbol": "CME",
+        "date": "2021-07-22",
+        "marketCap": 75026877680
+    },
+    {
+        "symbol": "CME",
+        "date": "2021-07-21",
+        "marketCap": 75972956000
+    },
+    {
+        "symbol": "CME",
+        "date": "2021-07-20",
+        "marketCap": 74747354540
+    },
+    {
+        "symbol": "CME",
+        "date": "2021-07-19",
+        "marketCap": 73901617860
+    },
+    {
+        "symbol": "CME",
+        "date": "2021-07-16",
+        "marketCap": 75016126790
+    },
+    {
+        "symbol": "CME",
+        "date": "2021-07-15",
+        "marketCap": 75406742460
+    },
+    {
+        "symbol": "CME",
+        "date": "2021-07-14",
+        "marketCap": 75313568080
+    },
+    {
+        "symbol": "CME",
+        "date": "2021-07-13",
+        "marketCap": 75410326090
+    },
+    {
+        "symbol": "CME",
+        "date": "2021-07-12",
+        "marketCap": 75342237120
+    },
+    {
+        "symbol": "CME",
+        "date": "2021-07-09",
+        "marketCap": 75120052060
+    },
+    {
+        "symbol": "CME",
+        "date": "2021-07-08",
+        "marketCap": 74378240650
+    },
+    {
+        "symbol": "CME",
+        "date": "2021-07-07",
+        "marketCap": 74163222850
+    },
+    {
+        "symbol": "CME",
+        "date": "2021-07-06",
+        "marketCap": 74553838520
+    },
+    {
+        "symbol": "CME",
+        "date": "2021-07-02",
+        "marketCap": 76517667760
+    },
+    {
+        "symbol": "CME",
+        "date": "2021-07-01",
+        "marketCap": 76761354600
+    },
+    {
+        "symbol": "CME",
+        "date": "2021-06-30",
+        "marketCap": 76216642840
+    },
+    {
+        "symbol": "CME",
+        "date": "2021-06-29",
+        "marketCap": 76417071300
+    },
+    {
+        "symbol": "CME",
+        "date": "2021-06-28",
+        "marketCap": 77104932420
+    },
+    {
+        "symbol": "CME",
+        "date": "2021-06-25",
+        "marketCap": 78143889320
+    },
+    {
+        "symbol": "CME",
+        "date": "2021-06-24",
+        "marketCap": 77735471780
+    },
+    {
+        "symbol": "CME",
+        "date": "2021-06-23",
+        "marketCap": 76943714970
+    },
+    {
+        "symbol": "CME",
+        "date": "2021-06-22",
+        "marketCap": 77334219460
+    },
+    {
+        "symbol": "CME",
+        "date": "2021-06-21",
+        "marketCap": 77387958610
+    },
+    {
+        "symbol": "CME",
+        "date": "2021-06-18",
+        "marketCap": 75489175310
+    },
+    {
+        "symbol": "CME",
+        "date": "2021-06-17",
+        "marketCap": 77742637000
+    },
+    {
+        "symbol": "CME",
+        "date": "2021-06-16",
+        "marketCap": 78405419850
+    },
+    {
+        "symbol": "CME",
+        "date": "2021-06-15",
+        "marketCap": 77735471780
+    },
+    {
+        "symbol": "CME",
+        "date": "2021-06-14",
+        "marketCap": 77635158700
+    },
+    {
+        "symbol": "CME",
+        "date": "2021-06-11",
+        "marketCap": 76832654060
+    },
+    {
+        "symbol": "CME",
+        "date": "2021-06-10",
+        "marketCap": 76263019070
+    },
+    {
+        "symbol": "CME",
+        "date": "2021-06-09",
+        "marketCap": 77208828110
+    },
+    {
+        "symbol": "CME",
+        "date": "2021-06-08",
+        "marketCap": 77971924040
+    },
+    {
+        "symbol": "CME",
+        "date": "2021-06-07",
+        "marketCap": 78136724100
+    },
+    {
+        "symbol": "CME",
+        "date": "2021-06-04",
+        "marketCap": 78233454570
+    },
+    {
+        "symbol": "CME",
+        "date": "2021-06-03",
+        "marketCap": 78082984950
+    },
+    {
+        "symbol": "CME",
+        "date": "2021-06-02",
+        "marketCap": 77495436910
+    },
+    {
+        "symbol": "CME",
+        "date": "2021-06-01",
+        "marketCap": 76363332150
+    },
+    {
+        "symbol": "CME",
+        "date": "2021-05-28",
+        "marketCap": 78373176360
+    },
+    {
+        "symbol": "CME",
+        "date": "2021-05-27",
+        "marketCap": 78133141490
+    },
+    {
+        "symbol": "CME",
+        "date": "2021-05-26",
+        "marketCap": 77430949930
+    },
+    {
+        "symbol": "CME",
+        "date": "2021-05-25",
+        "marketCap": 76983123680
+    },
+    {
+        "symbol": "CME",
+        "date": "2021-05-24",
+        "marketCap": 77853697910
+    },
+    {
+        "symbol": "CME",
+        "date": "2021-05-21",
+        "marketCap": 78022080580
+    },
+    {
+        "symbol": "CME",
+        "date": "2021-05-20",
+        "marketCap": 77387958610
+    },
+    {
+        "symbol": "CME",
+        "date": "2021-05-19",
+        "marketCap": 75901175460
+    },
+    {
+        "symbol": "CME",
+        "date": "2021-05-18",
+        "marketCap": 76750254030
+    },
+    {
+        "symbol": "CME",
+        "date": "2021-05-17",
+        "marketCap": 77538428230
+    },
+    {
+        "symbol": "CME",
+        "date": "2021-05-14",
+        "marketCap": 77739054390
+    },
+    {
+        "symbol": "CME",
+        "date": "2021-05-13",
+        "marketCap": 77119262860
+    },
+    {
+        "symbol": "CME",
+        "date": "2021-05-12",
+        "marketCap": 76692932270
+    },
+    {
+        "symbol": "CME",
+        "date": "2021-05-11",
+        "marketCap": 75983575490
+    },
+    {
+        "symbol": "CME",
+        "date": "2021-05-10",
+        "marketCap": 74536201050
+    },
+    {
+        "symbol": "CME",
+        "date": "2021-05-07",
+        "marketCap": 72698322120
+    },
+    {
+        "symbol": "CME",
+        "date": "2021-05-06",
+        "marketCap": 73210635350
+    },
+    {
+        "symbol": "CME",
+        "date": "2021-05-05",
+        "marketCap": 72748478660
+    },
+    {
+        "symbol": "CME",
+        "date": "2021-05-04",
+        "marketCap": 73214217960
+    },
+    {
+        "symbol": "CME",
+        "date": "2021-05-03",
+        "marketCap": 72977765700
+    },
+    {
+        "symbol": "CME",
+        "date": "2021-04-30",
+        "marketCap": 72365139390
+    },
+    {
+        "symbol": "CME",
+        "date": "2021-04-29",
+        "marketCap": 72988513530
+    },
+    {
+        "symbol": "CME",
+        "date": "2021-04-28",
+        "marketCap": 72017626220
+    },
+    {
+        "symbol": "CME",
+        "date": "2021-04-27",
+        "marketCap": 73364687580
+    },
+    {
+        "symbol": "CME",
+        "date": "2021-04-26",
+        "marketCap": 73332444090
+    },
+    {
+        "symbol": "CME",
+        "date": "2021-04-23",
+        "marketCap": 74271087910
+    },
+    {
+        "symbol": "CME",
+        "date": "2021-04-22",
+        "marketCap": 73848339930
+    },
+    {
+        "symbol": "CME",
+        "date": "2021-04-21",
+        "marketCap": 74149279170
+    },
+    {
+        "symbol": "CME",
+        "date": "2021-04-20",
+        "marketCap": 73844757320
+    },
+    {
+        "symbol": "CME",
+        "date": "2021-04-19",
+        "marketCap": 73654878990
+    },
+    {
+        "symbol": "CME",
+        "date": "2021-04-16",
+        "marketCap": 74367818380
+    },
+    {
+        "symbol": "CME",
+        "date": "2021-04-15",
+        "marketCap": 73103157050
+    },
+    {
+        "symbol": "CME",
+        "date": "2021-04-14",
+        "marketCap": 74077626970
+    },
+    {
+        "symbol": "CME",
+        "date": "2021-04-13",
+        "marketCap": 73751609460
+    },
+    {
+        "symbol": "CME",
+        "date": "2021-04-12",
+        "marketCap": 73336026700
+    },
+    {
+        "symbol": "CME",
+        "date": "2021-04-09",
+        "marketCap": 73310948430
+    },
+    {
+        "symbol": "CME",
+        "date": "2021-04-08",
+        "marketCap": 72633835140
+    },
+    {
+        "symbol": "CME",
+        "date": "2021-04-07",
+        "marketCap": 73207052740
+    },
+    {
+        "symbol": "CME",
+        "date": "2021-04-06",
+        "marketCap": 73475748490
+    },
+    {
+        "symbol": "CME",
+        "date": "2021-04-05",
+        "marketCap": 74317661840
+    },
+    {
+        "symbol": "CME",
+        "date": "2021-04-01",
+        "marketCap": 73834009490
+    },
+    {
+        "symbol": "CME",
+        "date": "2021-03-31",
+        "marketCap": 73167644030
+    },
+    {
+        "symbol": "CME",
+        "date": "2021-03-30",
+        "marketCap": 73398646180
+    },
+    {
+        "symbol": "CME",
+        "date": "2021-03-29",
+        "marketCap": 74841978590
+    },
+    {
+        "symbol": "CME",
+        "date": "2021-03-26",
+        "marketCap": 74652160680
+    },
+    {
+        "symbol": "CME",
+        "date": "2021-03-25",
+        "marketCap": 73509671750
+    },
+    {
+        "symbol": "CME",
+        "date": "2021-03-24",
+        "marketCap": 73341342660
+    },
+    {
+        "symbol": "CME",
+        "date": "2021-03-23",
+        "marketCap": 71604329710
+    },
+    {
+        "symbol": "CME",
+        "date": "2021-03-22",
+        "marketCap": 71396604450
+    },
+    {
+        "symbol": "CME",
+        "date": "2021-03-19",
+        "marketCap": 72582071020
+    },
+    {
+        "symbol": "CME",
+        "date": "2021-03-18",
+        "marketCap": 73699489660
+    },
+    {
+        "symbol": "CME",
+        "date": "2021-03-17",
+        "marketCap": 73986007260
+    },
+    {
+        "symbol": "CME",
+        "date": "2021-03-16",
+        "marketCap": 74179406640
+    },
+    {
+        "symbol": "CME",
+        "date": "2021-03-15",
+        "marketCap": 74884956230
+    },
+    {
+        "symbol": "CME",
+        "date": "2021-03-12",
+        "marketCap": 74906445050
+    },
+    {
+        "symbol": "CME",
+        "date": "2021-03-11",
+        "marketCap": 73638604670
+    },
+    {
+        "symbol": "CME",
+        "date": "2021-03-10",
+        "marketCap": 74007496080
+    },
+    {
+        "symbol": "CME",
+        "date": "2021-03-09",
+        "marketCap": 75110588840
+    },
+    {
+        "symbol": "CME",
+        "date": "2021-03-08",
+        "marketCap": 76657783880
+    },
+    {
+        "symbol": "CME",
+        "date": "2021-03-05",
+        "marketCap": 76614806240
+    },
+    {
+        "symbol": "CME",
+        "date": "2021-03-04",
+        "marketCap": 74143591940
+    },
+    {
+        "symbol": "CME",
+        "date": "2021-03-03",
+        "marketCap": 73706652600
+    },
+    {
+        "symbol": "CME",
+        "date": "2021-03-02",
+        "marketCap": 74007496080
+    },
+    {
+        "symbol": "CME",
+        "date": "2021-03-01",
+        "marketCap": 75103425900
+    },
+    {
+        "symbol": "CME",
+        "date": "2021-02-26",
+        "marketCap": 71521955900
+    },
+    {
+        "symbol": "CME",
+        "date": "2021-02-25",
+        "marketCap": 73348505600
+    },
+    {
+        "symbol": "CME",
+        "date": "2021-02-24",
+        "marketCap": 71880102900
+    },
+    {
+        "symbol": "CME",
+        "date": "2021-02-23",
+        "marketCap": 71181716250
+    },
+    {
+        "symbol": "CME",
+        "date": "2021-02-22",
+        "marketCap": 70006994090
+    },
+    {
+        "symbol": "CME",
+        "date": "2021-02-19",
+        "marketCap": 69863735290
+    },
+    {
+        "symbol": "CME",
+        "date": "2021-02-18",
+        "marketCap": 69476936530
+    },
+    {
+        "symbol": "CME",
+        "date": "2021-02-17",
+        "marketCap": 68456217579
+    },
+    {
+        "symbol": "CME",
+        "date": "2021-02-16",
+        "marketCap": 67836623270
+    },
+    {
+        "symbol": "CME",
+        "date": "2021-02-12",
+        "marketCap": 66031562390
+    },
+    {
+        "symbol": "CME",
+        "date": "2021-02-11",
+        "marketCap": 65437038370
+    },
+    {
+        "symbol": "CME",
+        "date": "2021-02-10",
+        "marketCap": 66328824399
+    },
+    {
+        "symbol": "CME",
+        "date": "2021-02-09",
+        "marketCap": 68753479590
+    },
+    {
+        "symbol": "CME",
+        "date": "2021-02-08",
+        "marketCap": 68671105780
+    },
+    {
+        "symbol": "CME",
+        "date": "2021-02-05",
+        "marketCap": 68545754329
+    },
+    {
+        "symbol": "CME",
+        "date": "2021-02-04",
+        "marketCap": 69312188910
+    },
+    {
+        "symbol": "CME",
+        "date": "2021-02-03",
+        "marketCap": 68760642530
+    },
+    {
+        "symbol": "CME",
+        "date": "2021-02-02",
+        "marketCap": 68767805470
+    },
+    {
+        "symbol": "CME",
+        "date": "2021-02-01",
+        "marketCap": 67131073680
+    },
+    {
+        "symbol": "CME",
+        "date": "2021-01-29",
+        "marketCap": 65089635780
+    },
+    {
+        "symbol": "CME",
+        "date": "2021-01-28",
+        "marketCap": 65351083090
+    },
+    {
+        "symbol": "CME",
+        "date": "2021-01-27",
+        "marketCap": 64033102130
+    },
+    {
+        "symbol": "CME",
+        "date": "2021-01-26",
+        "marketCap": 65809511250
+    },
+    {
+        "symbol": "CME",
+        "date": "2021-01-25",
+        "marketCap": 66031562390
+    },
+    {
+        "symbol": "CME",
+        "date": "2021-01-22",
+        "marketCap": 65913373880
+    },
+    {
+        "symbol": "CME",
+        "date": "2021-01-21",
+        "marketCap": 66686971399
+    },
+    {
+        "symbol": "CME",
+        "date": "2021-01-20",
+        "marketCap": 67987045010
+    },
+    {
+        "symbol": "CME",
+        "date": "2021-01-19",
+        "marketCap": 68835853400
+    },
+    {
+        "symbol": "CME",
+        "date": "2021-01-15",
+        "marketCap": 68699757540
+    },
+    {
+        "symbol": "CME",
+        "date": "2021-01-14",
+        "marketCap": 69530658580
+    },
+    {
+        "symbol": "CME",
+        "date": "2021-01-13",
+        "marketCap": 70895198650
+    },
+    {
+        "symbol": "CME",
+        "date": "2021-01-12",
+        "marketCap": 72163039030
+    },
+    {
+        "symbol": "CME",
+        "date": "2021-01-11",
+        "marketCap": 71249764180
+    },
+    {
+        "symbol": "CME",
+        "date": "2021-01-08",
+        "marketCap": 71514792960
+    },
+    {
+        "symbol": "CME",
+        "date": "2021-01-07",
+        "marketCap": 71203205070
+    },
+    {
+        "symbol": "CME",
+        "date": "2021-01-06",
+        "marketCap": 69258466860
+    },
+    {
+        "symbol": "CME",
+        "date": "2021-01-05",
+        "marketCap": 64151290640
+    },
+    {
+        "symbol": "CME",
+        "date": "2021-01-04",
+        "marketCap": 64215757100
+    },
+    {
+        "symbol": "CME",
+        "date": "2020-12-31",
+        "marketCap": 65200661350
+    },
+    {
+        "symbol": "CME",
+        "date": "2020-12-30",
+        "marketCap": 63732366000
+    },
+    {
+        "symbol": "CME",
+        "date": "2020-12-29",
+        "marketCap": 64040286420
+    },
+    {
+        "symbol": "CME",
+        "date": "2020-12-28",
+        "marketCap": 64588098329
+    },
+    {
+        "symbol": "CME",
+        "date": "2020-12-24",
+        "marketCap": 63904228560
+    },
+    {
+        "symbol": "CME",
+        "date": "2020-12-23",
+        "marketCap": 64570195980
+    },
+    {
+        "symbol": "CME",
+        "date": "2020-12-22",
+        "marketCap": 64806507000
+    },
+    {
+        "symbol": "CME",
+        "date": "2020-12-21",
+        "marketCap": 65082203190
+    },
+    {
+        "symbol": "CME",
+        "date": "2020-12-18",
+        "marketCap": 65873487060
+    },
+    {
+        "symbol": "CME",
+        "date": "2020-12-17",
+        "marketCap": 66217212180
+    },
+    {
+        "symbol": "CME",
+        "date": "2020-12-16",
+        "marketCap": 65064300840
+    },
+    {
+        "symbol": "CME",
+        "date": "2020-12-15",
+        "marketCap": 64946145329
+    },
+    {
+        "symbol": "CME",
+        "date": "2020-12-14",
+        "marketCap": 63571244850
+    },
+    {
+        "symbol": "CME",
+        "date": "2020-12-11",
+        "marketCap": 64545132690
+    },
+    {
+        "symbol": "CME",
+        "date": "2020-12-10",
+        "marketCap": 65336416560
+    },
+    {
+        "symbol": "CME",
+        "date": "2020-12-09",
+        "marketCap": 65300611860
+    },
+    {
+        "symbol": "CME",
+        "date": "2020-12-08",
+        "marketCap": 65658658860
+    },
+    {
+        "symbol": "CME",
+        "date": "2020-12-07",
+        "marketCap": 65587049460
+    },
+    {
+        "symbol": "CME",
+        "date": "2020-12-04",
+        "marketCap": 65891389410
+    },
+    {
+        "symbol": "CME",
+        "date": "2020-12-03",
+        "marketCap": 65060720370
+    },
+    {
+        "symbol": "CME",
+        "date": "2020-12-02",
+        "marketCap": 65121588360
+    },
+    {
+        "symbol": "CME",
+        "date": "2020-12-01",
+        "marketCap": 64147700520
+    },
+    {
+        "symbol": "CME",
+        "date": "2020-11-30",
+        "marketCap": 62668966410
+    },
+    {
+        "symbol": "CME",
+        "date": "2020-11-27",
+        "marketCap": 62575874190
+    },
+    {
+        "symbol": "CME",
+        "date": "2020-11-25",
+        "marketCap": 62583035130
+    },
+    {
+        "symbol": "CME",
+        "date": "2020-11-24",
+        "marketCap": 62006579460
+    },
+    {
+        "symbol": "CME",
+        "date": "2020-11-23",
+        "marketCap": 60431172660
+    },
+    {
+        "symbol": "CME",
+        "date": "2020-11-20",
+        "marketCap": 59962131090
+    },
+    {
+        "symbol": "CME",
+        "date": "2020-11-19",
+        "marketCap": 59410738710
+    },
+    {
+        "symbol": "CME",
+        "date": "2020-11-18",
+        "marketCap": 59357031660
+    },
+    {
+        "symbol": "CME",
+        "date": "2020-11-17",
+        "marketCap": 60176959290
+    },
+    {
+        "symbol": "CME",
+        "date": "2020-11-16",
+        "marketCap": 60427592190
+    },
+    {
+        "symbol": "CME",
+        "date": "2020-11-13",
+        "marketCap": 59421480120
+    },
+    {
+        "symbol": "CME",
+        "date": "2020-11-12",
+        "marketCap": 57649147470
+    },
+    {
+        "symbol": "CME",
+        "date": "2020-11-11",
+        "marketCap": 59367773070
+    },
+    {
+        "symbol": "CME",
+        "date": "2020-11-10",
+        "marketCap": 60406109370
+    },
+    {
+        "symbol": "CME",
+        "date": "2020-11-09",
+        "marketCap": 58150413270
+    },
+    {
+        "symbol": "CME",
+        "date": "2020-11-06",
+        "marketCap": 53918297730
+    },
+    {
+        "symbol": "CME",
+        "date": "2020-11-05",
+        "marketCap": 53868171149
+    },
+    {
+        "symbol": "CME",
+        "date": "2020-11-04",
+        "marketCap": 53886073500
+    },
+    {
+        "symbol": "CME",
+        "date": "2020-11-03",
+        "marketCap": 54953053560
+    },
+    {
+        "symbol": "CME",
+        "date": "2020-11-02",
+        "marketCap": 54523397160
+    },
+    {
+        "symbol": "CME",
+        "date": "2020-10-30",
+        "marketCap": 53964843840
+    },
+    {
+        "symbol": "CME",
+        "date": "2020-10-29",
+        "marketCap": 53703469530
+    },
+    {
+        "symbol": "CME",
+        "date": "2020-10-28",
+        "marketCap": 53549509320
+    },
+    {
+        "symbol": "CME",
+        "date": "2020-10-27",
+        "marketCap": 57097755090
+    },
+    {
+        "symbol": "CME",
+        "date": "2020-10-26",
+        "marketCap": 57344807520
+    },
+    {
+        "symbol": "CME",
+        "date": "2020-10-23",
+        "marketCap": 58669581420
+    },
+    {
+        "symbol": "CME",
+        "date": "2020-10-22",
+        "marketCap": 58533523560
+    },
+    {
+        "symbol": "CME",
+        "date": "2020-10-21",
+        "marketCap": 58930955730
+    },
+    {
+        "symbol": "CME",
+        "date": "2020-10-20",
+        "marketCap": 58404626640
+    },
+    {
+        "symbol": "CME",
+        "date": "2020-10-19",
+        "marketCap": 58483396980
+    },
+    {
+        "symbol": "CME",
+        "date": "2020-10-16",
+        "marketCap": 60148315530
+    },
+    {
+        "symbol": "CME",
+        "date": "2020-10-15",
+        "marketCap": 59826073230
+    },
+    {
+        "symbol": "CME",
+        "date": "2020-10-14",
+        "marketCap": 59686434899
+    },
+    {
+        "symbol": "CME",
+        "date": "2020-10-13",
+        "marketCap": 59972872500
+    },
+    {
+        "symbol": "CME",
+        "date": "2020-10-12",
+        "marketCap": 60867990000
+    },
+    {
+        "symbol": "CME",
+        "date": "2020-10-09",
+        "marketCap": 60656742270
+    },
+    {
+        "symbol": "CME",
+        "date": "2020-10-08",
+        "marketCap": 61190232300
+    },
+    {
+        "symbol": "CME",
+        "date": "2020-10-07",
+        "marketCap": 60688966500
+    },
+    {
+        "symbol": "CME",
+        "date": "2020-10-06",
+        "marketCap": 60270051510
+    },
+    {
+        "symbol": "CME",
+        "date": "2020-10-05",
+        "marketCap": 59772366180
+    },
+    {
+        "symbol": "CME",
+        "date": "2020-10-02",
+        "marketCap": 60327339030
+    },
+    {
+        "symbol": "CME",
+        "date": "2020-10-01",
+        "marketCap": 60957501750
+    },
+    {
+        "symbol": "CME",
+        "date": "2020-09-30",
+        "marketCap": 59904843570
+    },
+    {
+        "symbol": "CME",
+        "date": "2020-09-29",
+        "marketCap": 59436240920
+    },
+    {
+        "symbol": "CME",
+        "date": "2020-09-28",
+        "marketCap": 60441633630
+    },
+    {
+        "symbol": "CME",
+        "date": "2020-09-25",
+        "marketCap": 59672382980
+    },
+    {
+        "symbol": "CME",
+        "date": "2020-09-24",
+        "marketCap": 58652678630
+    },
+    {
+        "symbol": "CME",
+        "date": "2020-09-23",
+        "marketCap": 58087368850
+    },
+    {
+        "symbol": "CME",
+        "date": "2020-09-22",
+        "marketCap": 59604402690
+    },
+    {
+        "symbol": "CME",
+        "date": "2020-09-21",
+        "marketCap": 59997972790
+    },
+    {
+        "symbol": "CME",
+        "date": "2020-09-18",
+        "marketCap": 60484568550
+    },
+    {
+        "symbol": "CME",
+        "date": "2020-09-17",
+        "marketCap": 61078501610
+    },
+    {
+        "symbol": "CME",
+        "date": "2020-09-16",
+        "marketCap": 60896028199
+    },
+    {
+        "symbol": "CME",
+        "date": "2020-09-15",
+        "marketCap": 60144667100
+    },
+    {
+        "symbol": "CME",
+        "date": "2020-09-14",
+        "marketCap": 59421929280
+    },
+    {
+        "symbol": "CME",
+        "date": "2020-09-11",
+        "marketCap": 58395069110
+    },
+    {
+        "symbol": "CME",
+        "date": "2020-09-10",
+        "marketCap": 58656256540
+    },
+    {
+        "symbol": "CME",
+        "date": "2020-09-09",
+        "marketCap": 60112465910
+    },
+    {
+        "symbol": "CME",
+        "date": "2020-09-08",
+        "marketCap": 59751097000
+    },
+    {
+        "symbol": "CME",
+        "date": "2020-09-04",
+        "marketCap": 60688509420
+    },
+    {
+        "symbol": "CME",
+        "date": "2020-09-03",
+        "marketCap": 61500694989
+    },
+    {
+        "symbol": "CME",
+        "date": "2020-09-02",
+        "marketCap": 61794083610
+    },
+    {
+        "symbol": "CME",
+        "date": "2020-09-01",
+        "marketCap": 62176919980
+    },
+    {
+        "symbol": "CME",
+        "date": "2020-08-31",
+        "marketCap": 62924703170
+    },
+    {
+        "symbol": "CME",
+        "date": "2020-08-28",
+        "marketCap": 63339740730
+    },
+    {
+        "symbol": "CME",
+        "date": "2020-08-27",
+        "marketCap": 63132221949
+    },
+    {
+        "symbol": "CME",
+        "date": "2020-08-26",
+        "marketCap": 62706450660
+    },
+    {
+        "symbol": "CME",
+        "date": "2020-08-25",
+        "marketCap": 62584801719
+    },
+    {
+        "symbol": "CME",
+        "date": "2020-08-24",
+        "marketCap": 62688561110
+    },
+    {
+        "symbol": "CME",
+        "date": "2020-08-21",
+        "marketCap": 62205543260
+    },
+    {
+        "symbol": "CME",
+        "date": "2020-08-20",
+        "marketCap": 61962245380
+    },
+    {
+        "symbol": "CME",
+        "date": "2020-08-19",
+        "marketCap": 61611610199
+    },
+    {
+        "symbol": "CME",
+        "date": "2020-08-18",
+        "marketCap": 62187653710
+    },
+    {
+        "symbol": "CME",
+        "date": "2020-08-17",
+        "marketCap": 62473886510
+    },
+    {
+        "symbol": "CME",
+        "date": "2020-08-14",
+        "marketCap": 61339689040
+    },
+    {
+        "symbol": "CME",
+        "date": "2020-08-13",
+        "marketCap": 60670619870
+    },
+    {
+        "symbol": "CME",
+        "date": "2020-08-12",
+        "marketCap": 60810158360
+    },
+    {
+        "symbol": "CME",
+        "date": "2020-08-11",
+        "marketCap": 60151822920
+    },
+    {
+        "symbol": "CME",
+        "date": "2020-08-10",
+        "marketCap": 59157163940
+    },
+    {
+        "symbol": "CME",
+        "date": "2020-08-07",
+        "marketCap": 59801187739
+    },
+    {
+        "symbol": "CME",
+        "date": "2020-08-06",
+        "marketCap": 58666990270
+    },
+    {
+        "symbol": "CME",
+        "date": "2020-08-05",
+        "marketCap": 58380757469
+    },
+    {
+        "symbol": "CME",
+        "date": "2020-08-04",
+        "marketCap": 58366445830
+    },
+    {
+        "symbol": "CME",
+        "date": "2020-08-03",
+        "marketCap": 58319933000
+    },
+    {
+        "symbol": "CME",
+        "date": "2020-07-31",
+        "marketCap": 59457708380
+    },
+    {
+        "symbol": "CME",
+        "date": "2020-07-30",
+        "marketCap": 58355712100
+    },
+    {
+        "symbol": "CME",
+        "date": "2020-07-29",
+        "marketCap": 58992580080
+    },
+    {
+        "symbol": "CME",
+        "date": "2020-07-28",
+        "marketCap": 59393306000
+    },
+    {
+        "symbol": "CME",
+        "date": "2020-07-27",
+        "marketCap": 59929992500
+    },
+    {
+        "symbol": "CME",
+        "date": "2020-07-24",
+        "marketCap": 60377231250
+    },
+    {
+        "symbol": "CME",
+        "date": "2020-07-23",
+        "marketCap": 60445211540
+    },
+    {
+        "symbol": "CME",
+        "date": "2020-07-22",
+        "marketCap": 60935385210
+    },
+    {
+        "symbol": "CME",
+        "date": "2020-07-21",
+        "marketCap": 60187602020
+    },
+    {
+        "symbol": "CME",
+        "date": "2020-07-20",
+        "marketCap": 60073108900
+    },
+    {
+        "symbol": "CME",
+        "date": "2020-07-17",
+        "marketCap": 59615136420
+    },
+    {
+        "symbol": "CME",
+        "date": "2020-07-16",
+        "marketCap": 59826233110
+    },
+    {
+        "symbol": "CME",
+        "date": "2020-07-15",
+        "marketCap": 60405854530
+    },
+    {
+        "symbol": "CME",
+        "date": "2020-07-14",
+        "marketCap": 59235877960
+    },
+    {
+        "symbol": "CME",
+        "date": "2020-07-13",
+        "marketCap": 59107073199
+    },
+    {
+        "symbol": "CME",
+        "date": "2020-07-10",
+        "marketCap": 58888820690
+    },
+    {
+        "symbol": "CME",
+        "date": "2020-07-09",
+        "marketCap": 59225144230
+    },
+    {
+        "symbol": "CME",
+        "date": "2020-07-08",
+        "marketCap": 60137511280
+    },
+    {
+        "symbol": "CME",
+        "date": "2020-07-07",
+        "marketCap": 59253767510
+    },
+    {
+        "symbol": "CME",
+        "date": "2020-07-06",
+        "marketCap": 59321747800
+    },
+    {
+        "symbol": "CME",
+        "date": "2020-07-02",
+        "marketCap": 59132118570
+    },
+    {
+        "symbol": "CME",
+        "date": "2020-07-01",
+        "marketCap": 60430899900
+    },
+    {
+        "symbol": "CME",
+        "date": "2020-06-30",
+        "marketCap": 58155349140
+    },
+    {
+        "symbol": "CME",
+        "date": "2020-06-29",
+        "marketCap": 57949518910
+    },
+    {
+        "symbol": "CME",
+        "date": "2020-06-26",
+        "marketCap": 58106902949
+    },
+    {
+        "symbol": "CME",
+        "date": "2020-06-25",
+        "marketCap": 60338894790
+    },
+    {
+        "symbol": "CME",
+        "date": "2020-06-24",
+        "marketCap": 59902511770
+    },
+    {
+        "symbol": "CME",
+        "date": "2020-06-23",
+        "marketCap": 62077273050
+    },
+    {
+        "symbol": "CME",
+        "date": "2020-06-22",
+        "marketCap": 62628117190
+    },
+    {
+        "symbol": "CME",
+        "date": "2020-06-19",
+        "marketCap": 62781924320
+    },
+    {
+        "symbol": "CME",
+        "date": "2020-06-18",
+        "marketCap": 63068077120
+    },
+    {
+        "symbol": "CME",
+        "date": "2020-06-17",
+        "marketCap": 63797766760
+    },
+    {
+        "symbol": "CME",
+        "date": "2020-06-16",
+        "marketCap": 62992962010
+    },
+    {
+        "symbol": "CME",
+        "date": "2020-06-15",
+        "marketCap": 62470733150
+    },
+    {
+        "symbol": "CME",
+        "date": "2020-06-12",
+        "marketCap": 62495771520
+    },
+    {
+        "symbol": "CME",
+        "date": "2020-06-11",
+        "marketCap": 62302618380
+    },
+    {
+        "symbol": "CME",
+        "date": "2020-06-10",
+        "marketCap": 67496291699
+    },
+    {
+        "symbol": "CME",
+        "date": "2020-06-09",
+        "marketCap": 68354750100
+    },
+    {
+        "symbol": "CME",
+        "date": "2020-06-08",
+        "marketCap": 68587249250
+    },
+    {
+        "symbol": "CME",
+        "date": "2020-06-05",
+        "marketCap": 68726748740
+    },
+    {
+        "symbol": "CME",
+        "date": "2020-06-04",
+        "marketCap": 65997566410
+    },
+    {
+        "symbol": "CME",
+        "date": "2020-06-03",
+        "marketCap": 66623525660
+    },
+    {
+        "symbol": "CME",
+        "date": "2020-06-02",
+        "marketCap": 63947996980
+    },
+    {
+        "symbol": "CME",
+        "date": "2020-06-01",
+        "marketCap": 65214223120
+    },
+    {
+        "symbol": "CME",
+        "date": "2020-05-29",
+        "marketCap": 65314376600
+    },
+    {
+        "symbol": "CME",
+        "date": "2020-05-28",
+        "marketCap": 64559648590
+    },
+    {
+        "symbol": "CME",
+        "date": "2020-05-27",
+        "marketCap": 63143192230
+    },
+    {
+        "symbol": "CME",
+        "date": "2020-05-26",
+        "marketCap": 65267876770
+    },
+    {
+        "symbol": "CME",
+        "date": "2020-05-22",
+        "marketCap": 63955150800
+    },
+    {
+        "symbol": "CME",
+        "date": "2020-05-21",
+        "marketCap": 63733382380
+    },
+    {
+        "symbol": "CME",
+        "date": "2020-05-20",
+        "marketCap": 64677686620
+    },
+    {
+        "symbol": "CME",
+        "date": "2020-05-19",
+        "marketCap": 64298534160
+    },
+    {
+        "symbol": "CME",
+        "date": "2020-05-18",
+        "marketCap": 66458987800
+    },
+    {
+        "symbol": "CME",
+        "date": "2020-05-15",
+        "marketCap": 64767109370
+    },
+    {
+        "symbol": "CME",
+        "date": "2020-05-14",
+        "marketCap": 64570379320
+    },
+    {
+        "symbol": "CME",
+        "date": "2020-05-13",
+        "marketCap": 63654690360
+    },
+    {
+        "symbol": "CME",
+        "date": "2020-05-12",
+        "marketCap": 64091073380
+    },
+    {
+        "symbol": "CME",
+        "date": "2020-05-11",
+        "marketCap": 65875951469
+    },
+    {
+        "symbol": "CME",
+        "date": "2020-05-08",
+        "marketCap": 64931647230
+    },
+    {
+        "symbol": "CME",
+        "date": "2020-05-07",
+        "marketCap": 63844266590
+    },
+    {
+        "symbol": "CME",
+        "date": "2020-05-06",
+        "marketCap": 62130926699
+    },
+    {
+        "symbol": "CME",
+        "date": "2020-05-05",
+        "marketCap": 63851420410
+    },
+    {
+        "symbol": "CME",
+        "date": "2020-05-04",
+        "marketCap": 61723158960
+    },
+    {
+        "symbol": "CME",
+        "date": "2020-05-01",
+        "marketCap": 62113042150
+    },
+    {
+        "symbol": "CME",
+        "date": "2020-04-30",
+        "marketCap": 63744113110
+    },
+    {
+        "symbol": "CME",
+        "date": "2020-04-29",
+        "marketCap": 64910185770
+    },
+    {
+        "symbol": "CME",
+        "date": "2020-04-28",
+        "marketCap": 65929605120
+    },
+    {
+        "symbol": "CME",
+        "date": "2020-04-27",
+        "marketCap": 67156485250
+    },
+    {
+        "symbol": "CME",
+        "date": "2020-04-24",
+        "marketCap": 65357299520
+    },
+    {
+        "symbol": "CME",
+        "date": "2020-04-23",
+        "marketCap": 63840689680
+    },
+    {
+        "symbol": "CME",
+        "date": "2020-04-22",
+        "marketCap": 64166188489
+    },
+    {
+        "symbol": "CME",
+        "date": "2020-04-21",
+        "marketCap": 63676151820
+    },
+    {
+        "symbol": "CME",
+        "date": "2020-04-20",
+        "marketCap": 66036912420
+    },
+    {
+        "symbol": "CME",
+        "date": "2020-04-17",
+        "marketCap": 68540749420
+    },
+    {
+        "symbol": "CME",
+        "date": "2020-04-16",
+        "marketCap": 67009831940
+    },
+    {
+        "symbol": "CME",
+        "date": "2020-04-15",
+        "marketCap": 66165681180
+    },
+    {
+        "symbol": "CME",
+        "date": "2020-04-14",
+        "marketCap": 67270946370
+    },
+    {
+        "symbol": "CME",
+        "date": "2020-04-13",
+        "marketCap": 65342991880
+    },
+    {
+        "symbol": "CME",
+        "date": "2020-04-09",
+        "marketCap": 68018520560
+    },
+    {
+        "symbol": "CME",
+        "date": "2020-04-08",
+        "marketCap": 64731340270
+    },
+    {
+        "symbol": "CME",
+        "date": "2020-04-07",
+        "marketCap": 63243345710
+    },
+    {
+        "symbol": "CME",
+        "date": "2020-04-06",
+        "marketCap": 65257146040
+    },
+    {
+        "symbol": "CME",
+        "date": "2020-04-03",
+        "marketCap": 62145234340
+    },
+    {
+        "symbol": "CME",
+        "date": "2020-04-02",
+        "marketCap": 60295971870
+    },
+    {
+        "symbol": "CME",
+        "date": "2020-04-01",
+        "marketCap": 59448244199
+    },
+    {
+        "symbol": "CME",
+        "date": "2020-03-31",
+        "marketCap": 61848350810
+    },
+    {
+        "symbol": "CME",
+        "date": "2020-03-30",
+        "marketCap": 62205600760
+    },
+    {
+        "symbol": "CME",
+        "date": "2020-03-27",
+        "marketCap": 61258162160
+    },
+    {
+        "symbol": "CME",
+        "date": "2020-03-26",
+        "marketCap": 62509496160
+    },
+    {
+        "symbol": "CME",
+        "date": "2020-03-25",
+        "marketCap": 55891726920
+    },
+    {
+        "symbol": "CME",
+        "date": "2020-03-24",
+        "marketCap": 54436604240
+    },
+    {
+        "symbol": "CME",
+        "date": "2020-03-23",
+        "marketCap": 49888898960
+    },
+    {
+        "symbol": "CME",
+        "date": "2020-03-20",
+        "marketCap": 56635376840
+    },
+    {
+        "symbol": "CME",
+        "date": "2020-03-19",
+        "marketCap": 55494875280
+    },
+    {
+        "symbol": "CME",
+        "date": "2020-03-18",
+        "marketCap": 51115206280
+    },
+    {
+        "symbol": "CME",
+        "date": "2020-03-17",
+        "marketCap": 59356134480
+    },
+    {
+        "symbol": "CME",
+        "date": "2020-03-16",
+        "marketCap": 53106614960
+    },
+    {
+        "symbol": "CME",
+        "date": "2020-03-13",
+        "marketCap": 65072943240
+    },
+    {
+        "symbol": "CME",
+        "date": "2020-03-12",
+        "marketCap": 61604960440
+    },
+    {
+        "symbol": "CME",
+        "date": "2020-03-11",
+        "marketCap": 69602772320
+    },
+    {
+        "symbol": "CME",
+        "date": "2020-03-10",
+        "marketCap": 74011043240
+    },
+    {
+        "symbol": "CME",
+        "date": "2020-03-09",
+        "marketCap": 73260242840
+    },
+    {
+        "symbol": "CME",
+        "date": "2020-03-06",
+        "marketCap": 77318140240
+    },
+    {
+        "symbol": "CME",
+        "date": "2020-03-05",
+        "marketCap": 79305973680
+    },
+    {
+        "symbol": "CME",
+        "date": "2020-03-04",
+        "marketCap": 79953092120
+    },
+    {
+        "symbol": "CME",
+        "date": "2020-03-03",
+        "marketCap": 77250210680
+    },
+    {
+        "symbol": "CME",
+        "date": "2020-03-02",
+        "marketCap": 74865525600
+    },
+    {
+        "symbol": "CME",
+        "date": "2020-02-28",
+        "marketCap": 71082921680
+    },
+    {
+        "symbol": "CME",
+        "date": "2020-02-27",
+        "marketCap": 75219474360
+    },
+    {
+        "symbol": "CME",
+        "date": "2020-02-26",
+        "marketCap": 78719634320
+    },
+    {
+        "symbol": "CME",
+        "date": "2020-02-25",
+        "marketCap": 74479399680
+    },
+    {
+        "symbol": "CME",
+        "date": "2020-02-24",
+        "marketCap": 74829773200
+    },
+    {
+        "symbol": "CME",
+        "date": "2020-02-21",
+        "marketCap": 74661736920
+    },
+    {
+        "symbol": "CME",
+        "date": "2020-02-20",
+        "marketCap": 74722516000
+    },
+    {
+        "symbol": "CME",
+        "date": "2020-02-19",
+        "marketCap": 74186230000
+    },
+    {
+        "symbol": "CME",
+        "date": "2020-02-18",
+        "marketCap": 76284895880
+    },
+    {
+        "symbol": "CME",
+        "date": "2020-02-14",
+        "marketCap": 76199090120
+    },
+    {
+        "symbol": "CME",
+        "date": "2020-02-13",
+        "marketCap": 74475824440
+    },
+    {
+        "symbol": "CME",
+        "date": "2020-02-12",
+        "marketCap": 74236283360
+    },
+    {
+        "symbol": "CME",
+        "date": "2020-02-11",
+        "marketCap": 75669954600
+    },
+    {
+        "symbol": "CME",
+        "date": "2020-02-10",
+        "marketCap": 76284895880
+    },
+    {
+        "symbol": "CME",
+        "date": "2020-02-07",
+        "marketCap": 76224116800
+    },
+    {
+        "symbol": "CME",
+        "date": "2020-02-06",
+        "marketCap": 76020328120
+    },
+    {
+        "symbol": "CME",
+        "date": "2020-02-05",
+        "marketCap": 76306347320
+    },
+    {
+        "symbol": "CME",
+        "date": "2020-02-04",
+        "marketCap": 77060722960
+    },
+    {
+        "symbol": "CME",
+        "date": "2020-02-03",
+        "marketCap": 76713924680
+    },
+    {
+        "symbol": "CME",
+        "date": "2020-01-31",
+        "marketCap": 77622035640
+    },
+    {
+        "symbol": "CME",
+        "date": "2020-01-30",
+        "marketCap": 78219100720
+    },
+    {
+        "symbol": "CME",
+        "date": "2020-01-29",
+        "marketCap": 76359975920
+    },
+    {
+        "symbol": "CME",
+        "date": "2020-01-28",
+        "marketCap": 76227692040
+    },
+    {
+        "symbol": "CME",
+        "date": "2020-01-27",
+        "marketCap": 76149036760
+    },
+    {
+        "symbol": "CME",
+        "date": "2020-01-24",
+        "marketCap": 74808321760
+    },
+    {
+        "symbol": "CME",
+        "date": "2020-01-23",
+        "marketCap": 74450797760
+    },
+    {
+        "symbol": "CME",
+        "date": "2020-01-22",
+        "marketCap": 74179079520
+    },
+    {
+        "symbol": "CME",
+        "date": "2020-01-21",
+        "marketCap": 73957414640
+    },
+    {
+        "symbol": "CME",
+        "date": "2020-01-17",
+        "marketCap": 73957414640
+    },
+    {
+        "symbol": "CME",
+        "date": "2020-01-16",
+        "marketCap": 74061096600
+    },
+    {
+        "symbol": "CME",
+        "date": "2020-01-15",
+        "marketCap": 73295995240
+    },
+    {
+        "symbol": "CME",
+        "date": "2020-01-14",
+        "marketCap": 72777585440
+    },
+    {
+        "symbol": "CME",
+        "date": "2020-01-13",
+        "marketCap": 72984949360
+    },
+    {
+        "symbol": "CME",
+        "date": "2020-01-10",
+        "marketCap": 73324597160
+    },
+    {
+        "symbol": "CME",
+        "date": "2020-01-09",
+        "marketCap": 74533028280
+    },
+    {
+        "symbol": "CME",
+        "date": "2020-01-08",
+        "marketCap": 73685696400
+    },
+    {
+        "symbol": "CME",
+        "date": "2020-01-07",
+        "marketCap": 73288844760
+    },
+    {
+        "symbol": "CME",
+        "date": "2020-01-06",
+        "marketCap": 73431854360
+    },
+    {
+        "symbol": "CME",
+        "date": "2020-01-03",
+        "marketCap": 73131534200
+    },
+    {
+        "symbol": "CME",
+        "date": "2020-01-02",
+        "marketCap": 72166219400
+    }
+]

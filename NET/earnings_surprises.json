@@ -1,0 +1,128 @@
+[
+    {
+        "date": "2024-11-07",
+        "symbol": "NET",
+        "actualEarningResult": 0.2,
+        "estimatedEarning": 0.1794
+    },
+    {
+        "date": "2024-08-01",
+        "symbol": "NET",
+        "actualEarningResult": 0.2,
+        "estimatedEarning": 0.1408
+    },
+    {
+        "date": "2024-05-02",
+        "symbol": "NET",
+        "actualEarningResult": 0.16,
+        "estimatedEarning": 0.1318
+    },
+    {
+        "date": "2024-02-08",
+        "symbol": "NET",
+        "actualEarningResult": 0.15,
+        "estimatedEarning": 0.1211
+    },
+    {
+        "date": "2023-11-02",
+        "symbol": "NET",
+        "actualEarningResult": 0.16,
+        "estimatedEarning": 0.1
+    },
+    {
+        "date": "2023-08-03",
+        "symbol": "NET",
+        "actualEarningResult": 0.1,
+        "estimatedEarning": 0.07
+    },
+    {
+        "date": "2023-04-27",
+        "symbol": "NET",
+        "actualEarningResult": 0.08,
+        "estimatedEarning": 0.03428
+    },
+    {
+        "date": "2023-02-09",
+        "symbol": "NET",
+        "actualEarningResult": 0.06,
+        "estimatedEarning": 0.04546
+    },
+    {
+        "date": "2022-11-03",
+        "symbol": "NET",
+        "actualEarningResult": 0.06,
+        "estimatedEarning": 0.00163
+    },
+    {
+        "date": "2022-08-04",
+        "symbol": "NET",
+        "actualEarningResult": -0.19538,
+        "estimatedEarning": -0.08889
+    },
+    {
+        "date": "2022-05-05",
+        "symbol": "NET",
+        "actualEarningResult": 0.01,
+        "estimatedEarning": 0.00124
+    },
+    {
+        "date": "2022-02-10",
+        "symbol": "NET",
+        "actualEarningResult": -0.24194,
+        "estimatedEarning": -0.12097
+    },
+    {
+        "date": "2021-11-04",
+        "symbol": "NET",
+        "actualEarningResult": -0.34124,
+        "estimatedEarning": -0.17062
+    },
+    {
+        "date": "2021-08-05",
+        "symbol": "NET",
+        "actualEarningResult": -0.02,
+        "estimatedEarning": -0.01393
+    },
+    {
+        "date": "2021-05-06",
+        "symbol": "NET",
+        "actualEarningResult": -0.03,
+        "estimatedEarning": -0.0292
+    },
+    {
+        "date": "2021-02-11",
+        "symbol": "NET",
+        "actualEarningResult": -0.02,
+        "estimatedEarning": -0.01409
+    },
+    {
+        "date": "2020-11-05",
+        "symbol": "NET",
+        "actualEarningResult": -0.02,
+        "estimatedEarning": -0.05
+    },
+    {
+        "date": "2020-08-06",
+        "symbol": "NET",
+        "actualEarningResult": -0.03,
+        "estimatedEarning": -0.06
+    },
+    {
+        "date": "2020-05-07",
+        "symbol": "NET",
+        "actualEarningResult": -0.04,
+        "estimatedEarning": -0.06
+    },
+    {
+        "date": "2020-02-13",
+        "symbol": "NET",
+        "actualEarningResult": -0.06,
+        "estimatedEarning": -0.07
+    },
+    {
+        "date": "2019-11-07",
+        "symbol": "NET",
+        "actualEarningResult": -0.16,
+        "estimatedEarning": -0.15
+    }
+]

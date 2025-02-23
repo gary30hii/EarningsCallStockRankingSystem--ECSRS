@@ -1,0 +1,230 @@
+[
+    {
+        "date": "2024-10-30",
+        "symbol": "FTAI",
+        "actualEarningResult": 0.76,
+        "estimatedEarning": 0.77
+    },
+    {
+        "date": "2024-07-23",
+        "symbol": "FTAI",
+        "actualEarningResult": 0.26,
+        "estimatedEarning": 0.4685
+    },
+    {
+        "date": "2024-04-25",
+        "symbol": "FTAI",
+        "actualEarningResult": 0.31,
+        "estimatedEarning": 0.38
+    },
+    {
+        "date": "2024-02-22",
+        "symbol": "FTAI",
+        "actualEarningResult": 1.09,
+        "estimatedEarning": 0.44
+    },
+    {
+        "date": "2023-10-25",
+        "symbol": "FTAI",
+        "actualEarningResult": 0.33,
+        "estimatedEarning": 0.42
+    },
+    {
+        "date": "2023-07-26",
+        "symbol": "FTAI",
+        "actualEarningResult": 0.46,
+        "estimatedEarning": 0.3
+    },
+    {
+        "date": "2023-04-26",
+        "symbol": "FTAI",
+        "actualEarningResult": 0.22,
+        "estimatedEarning": 0.41
+    },
+    {
+        "date": "2023-02-23",
+        "symbol": "FTAI",
+        "actualEarningResult": 0.2,
+        "estimatedEarning": 0.5
+    },
+    {
+        "date": "2022-10-27",
+        "symbol": "FTAI",
+        "actualEarningResult": 0.05,
+        "estimatedEarning": 0.57
+    },
+    {
+        "date": "2022-07-27",
+        "symbol": "FTAI",
+        "actualEarningResult": 0.22,
+        "estimatedEarning": 0.33
+    },
+    {
+        "date": "2022-04-28",
+        "symbol": "FTAI",
+        "actualEarningResult": -1.28,
+        "estimatedEarning": -0.1
+    },
+    {
+        "date": "2022-02-24",
+        "symbol": "FTAI",
+        "actualEarningResult": 0.04,
+        "estimatedEarning": 0.11
+    },
+    {
+        "date": "2021-10-28",
+        "symbol": "FTAI",
+        "actualEarningResult": -0.22,
+        "estimatedEarning": -0.00107
+    },
+    {
+        "date": "2021-07-28",
+        "symbol": "FTAI",
+        "actualEarningResult": -0.38,
+        "estimatedEarning": -0.26
+    },
+    {
+        "date": "2021-04-29",
+        "symbol": "FTAI",
+        "actualEarningResult": -0.38,
+        "estimatedEarning": -0.33
+    },
+    {
+        "date": "2021-02-25",
+        "symbol": "FTAI",
+        "actualEarningResult": -0.52,
+        "estimatedEarning": -0.33
+    },
+    {
+        "date": "2020-10-29",
+        "symbol": "FTAI",
+        "actualEarningResult": -0.25,
+        "estimatedEarning": -0.13
+    },
+    {
+        "date": "2020-07-30",
+        "symbol": "FTAI",
+        "actualEarningResult": -0.08,
+        "estimatedEarning": -0.13
+    },
+    {
+        "date": "2020-04-30",
+        "symbol": "FTAI",
+        "actualEarningResult": 0.01,
+        "estimatedEarning": 0.08
+    },
+    {
+        "date": "2020-02-27",
+        "symbol": "FTAI",
+        "actualEarningResult": 0.12,
+        "estimatedEarning": 0.07
+    },
+    {
+        "date": "2019-10-31",
+        "symbol": "FTAI",
+        "actualEarningResult": 0.3,
+        "estimatedEarning": 0.21
+    },
+    {
+        "date": "2019-08-01",
+        "symbol": "FTAI",
+        "actualEarningResult": 0.23,
+        "estimatedEarning": 0.11
+    },
+    {
+        "date": "2019-05-02",
+        "symbol": "FTAI",
+        "actualEarningResult": -0.07,
+        "estimatedEarning": 0.14
+    },
+    {
+        "date": "2019-02-27",
+        "symbol": "FTAI",
+        "actualEarningResult": -0.02,
+        "estimatedEarning": 0.16
+    },
+    {
+        "date": "2018-11-01",
+        "symbol": "FTAI",
+        "actualEarningResult": 0.08,
+        "estimatedEarning": 0.11
+    },
+    {
+        "date": "2018-08-02",
+        "symbol": "FTAI",
+        "actualEarningResult": 0.03,
+        "estimatedEarning": 0.11
+    },
+    {
+        "date": "2018-05-03",
+        "symbol": "FTAI",
+        "actualEarningResult": 0.03,
+        "estimatedEarning": 0.09
+    },
+    {
+        "date": "2018-02-28",
+        "symbol": "FTAI",
+        "actualEarningResult": 0.08,
+        "estimatedEarning": 0.14
+    },
+    {
+        "date": "2017-11-02",
+        "symbol": "FTAI",
+        "actualEarningResult": 0.05,
+        "estimatedEarning": 0.05
+    },
+    {
+        "date": "2017-08-03",
+        "symbol": "FTAI",
+        "actualEarningResult": 0.01,
+        "estimatedEarning": 0.04167
+    },
+    {
+        "date": "2017-05-04",
+        "symbol": "FTAI",
+        "actualEarningResult": -0.05826,
+        "estimatedEarning": -0.02913
+    },
+    {
+        "date": "2017-02-23",
+        "symbol": "FTAI",
+        "actualEarningResult": 0.04,
+        "estimatedEarning": 0.01286
+    },
+    {
+        "date": "2016-11-01",
+        "symbol": "FTAI",
+        "actualEarningResult": -0.01685,
+        "estimatedEarning": -0.00842
+    },
+    {
+        "date": "2016-08-02",
+        "symbol": "FTAI",
+        "actualEarningResult": -0.07,
+        "estimatedEarning": -0.02625
+    },
+    {
+        "date": "2016-05-03",
+        "symbol": "FTAI",
+        "actualEarningResult": -0.09,
+        "estimatedEarning": 0.05
+    },
+    {
+        "date": "2016-03-01",
+        "symbol": "FTAI",
+        "actualEarningResult": -0.03,
+        "estimatedEarning": -0.0096
+    },
+    {
+        "date": "2015-11-03",
+        "symbol": "FTAI",
+        "actualEarningResult": 0.02,
+        "estimatedEarning": 0.04889
+    },
+    {
+        "date": "2015-08-11",
+        "symbol": "FTAI",
+        "actualEarningResult": 0.02,
+        "estimatedEarning": 0.1
+    }
+]

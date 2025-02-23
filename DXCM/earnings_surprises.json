@@ -1,0 +1,470 @@
+[
+    {
+        "date": "2024-10-24",
+        "symbol": "DXCM",
+        "actualEarningResult": 0.45,
+        "estimatedEarning": 0.44
+    },
+    {
+        "date": "2024-07-25",
+        "symbol": "DXCM",
+        "actualEarningResult": 0.43,
+        "estimatedEarning": 0.39
+    },
+    {
+        "date": "2024-04-25",
+        "symbol": "DXCM",
+        "actualEarningResult": 0.32,
+        "estimatedEarning": 0.27
+    },
+    {
+        "date": "2024-02-08",
+        "symbol": "DXCM",
+        "actualEarningResult": 0.5,
+        "estimatedEarning": 0.43
+    },
+    {
+        "date": "2023-10-26",
+        "symbol": "DXCM",
+        "actualEarningResult": 0.5,
+        "estimatedEarning": 0.34
+    },
+    {
+        "date": "2023-07-27",
+        "symbol": "DXCM",
+        "actualEarningResult": 0.34,
+        "estimatedEarning": 0.23
+    },
+    {
+        "date": "2023-04-27",
+        "symbol": "DXCM",
+        "actualEarningResult": 0.17,
+        "estimatedEarning": 0.15
+    },
+    {
+        "date": "2023-02-09",
+        "symbol": "DXCM",
+        "actualEarningResult": 0.34,
+        "estimatedEarning": 0.26
+    },
+    {
+        "date": "2022-10-27",
+        "symbol": "DXCM",
+        "actualEarningResult": 0.28,
+        "estimatedEarning": 0.24
+    },
+    {
+        "date": "2022-07-28",
+        "symbol": "DXCM",
+        "actualEarningResult": 0.17,
+        "estimatedEarning": 0.17
+    },
+    {
+        "date": "2022-04-28",
+        "symbol": "DXCM",
+        "actualEarningResult": 0.08,
+        "estimatedEarning": 0.13
+    },
+    {
+        "date": "2022-02-10",
+        "symbol": "DXCM",
+        "actualEarningResult": 0.17,
+        "estimatedEarning": 0.22
+    },
+    {
+        "date": "2021-10-28",
+        "symbol": "DXCM",
+        "actualEarningResult": 0.22,
+        "estimatedEarning": 0.16
+    },
+    {
+        "date": "2021-07-29",
+        "symbol": "DXCM",
+        "actualEarningResult": 0.19,
+        "estimatedEarning": 0.11
+    },
+    {
+        "date": "2021-04-29",
+        "symbol": "DXCM",
+        "actualEarningResult": 0.08,
+        "estimatedEarning": 0.08
+    },
+    {
+        "date": "2021-02-11",
+        "symbol": "DXCM",
+        "actualEarningResult": 0.23,
+        "estimatedEarning": 0.23
+    },
+    {
+        "date": "2020-10-27",
+        "symbol": "DXCM",
+        "actualEarningResult": 0.24,
+        "estimatedEarning": 0.16
+    },
+    {
+        "date": "2020-07-28",
+        "symbol": "DXCM",
+        "actualEarningResult": 0.2,
+        "estimatedEarning": 0.08
+    },
+    {
+        "date": "2020-04-28",
+        "symbol": "DXCM",
+        "actualEarningResult": 0.11,
+        "estimatedEarning": 0.03587
+    },
+    {
+        "date": "2020-02-13",
+        "symbol": "DXCM",
+        "actualEarningResult": 0.29,
+        "estimatedEarning": 0.18
+    },
+    {
+        "date": "2019-11-06",
+        "symbol": "DXCM",
+        "actualEarningResult": 0.16,
+        "estimatedEarning": 0.05
+    },
+    {
+        "date": "2019-07-31",
+        "symbol": "DXCM",
+        "actualEarningResult": 0.02,
+        "estimatedEarning": 0.00319
+    },
+    {
+        "date": "2019-05-01",
+        "symbol": "DXCM",
+        "actualEarningResult": -0.01,
+        "estimatedEarning": -0.00595
+    },
+    {
+        "date": "2019-02-21",
+        "symbol": "DXCM",
+        "actualEarningResult": 0.14,
+        "estimatedEarning": 0.04364
+    },
+    {
+        "date": "2018-11-06",
+        "symbol": "DXCM",
+        "actualEarningResult": 0.04,
+        "estimatedEarning": 0.01081
+    },
+    {
+        "date": "2018-08-01",
+        "symbol": "DXCM",
+        "actualEarningResult": -0.03,
+        "estimatedEarning": -0.05
+    },
+    {
+        "date": "2018-05-02",
+        "symbol": "DXCM",
+        "actualEarningResult": -0.08,
+        "estimatedEarning": -0.08
+    },
+    {
+        "date": "2018-02-27",
+        "symbol": "DXCM",
+        "actualEarningResult": 0.03,
+        "estimatedEarning": 0.00776
+    },
+    {
+        "date": "2017-11-01",
+        "symbol": "DXCM",
+        "actualEarningResult": -0.01,
+        "estimatedEarning": -0.00572
+    },
+    {
+        "date": "2017-08-01",
+        "symbol": "DXCM",
+        "actualEarningResult": -0.04,
+        "estimatedEarning": -0.06
+    },
+    {
+        "date": "2017-05-02",
+        "symbol": "DXCM",
+        "actualEarningResult": -0.12,
+        "estimatedEarning": -0.14
+    },
+    {
+        "date": "2017-02-28",
+        "symbol": "DXCM",
+        "actualEarningResult": -0.02,
+        "estimatedEarning": -0.01871
+    },
+    {
+        "date": "2016-11-01",
+        "symbol": "DXCM",
+        "actualEarningResult": -0.06,
+        "estimatedEarning": -0.03545
+    },
+    {
+        "date": "2016-08-02",
+        "symbol": "DXCM",
+        "actualEarningResult": -0.06,
+        "estimatedEarning": -0.02912
+    },
+    {
+        "date": "2016-04-27",
+        "symbol": "DXCM",
+        "actualEarningResult": -0.06,
+        "estimatedEarning": -0.06
+    },
+    {
+        "date": "2016-02-23",
+        "symbol": "DXCM",
+        "actualEarningResult": 0.01,
+        "estimatedEarning": 0.0028
+    },
+    {
+        "date": "2015-11-04",
+        "symbol": "DXCM",
+        "actualEarningResult": -0.02,
+        "estimatedEarning": -0.00135
+    },
+    {
+        "date": "2015-08-05",
+        "symbol": "DXCM",
+        "actualEarningResult": -0.01,
+        "estimatedEarning": -0.00562
+    },
+    {
+        "date": "2015-04-29",
+        "symbol": "DXCM",
+        "actualEarningResult": -0.04,
+        "estimatedEarning": -0.02488
+    },
+    {
+        "date": "2015-02-25",
+        "symbol": "DXCM",
+        "actualEarningResult": 0.01,
+        "estimatedEarning": 0.00371
+    },
+    {
+        "date": "2014-11-06",
+        "symbol": "DXCM",
+        "actualEarningResult": -0.02,
+        "estimatedEarning": -0.01657
+    },
+    {
+        "date": "2014-08-06",
+        "symbol": "DXCM",
+        "actualEarningResult": -0.03,
+        "estimatedEarning": -0.02639
+    },
+    {
+        "date": "2014-05-01",
+        "symbol": "DXCM",
+        "actualEarningResult": -0.04,
+        "estimatedEarning": -0.01916
+    },
+    {
+        "date": "2014-02-20",
+        "symbol": "DXCM",
+        "actualEarningResult": -0.01,
+        "estimatedEarning": -0.00692
+    },
+    {
+        "date": "2013-11-06",
+        "symbol": "DXCM",
+        "actualEarningResult": -0.02,
+        "estimatedEarning": -0.01444
+    },
+    {
+        "date": "2013-08-07",
+        "symbol": "DXCM",
+        "actualEarningResult": -0.04,
+        "estimatedEarning": -0.03639
+    },
+    {
+        "date": "2013-05-01",
+        "symbol": "DXCM",
+        "actualEarningResult": -0.04,
+        "estimatedEarning": -0.03745
+    },
+    {
+        "date": "2013-02-21",
+        "symbol": "DXCM",
+        "actualEarningResult": -0.04,
+        "estimatedEarning": -0.0319
+    },
+    {
+        "date": "2012-11-01",
+        "symbol": "DXCM",
+        "actualEarningResult": -0.06,
+        "estimatedEarning": -0.06
+    },
+    {
+        "date": "2012-08-06",
+        "symbol": "DXCM",
+        "actualEarningResult": -0.05,
+        "estimatedEarning": -0.05
+    },
+    {
+        "date": "2012-05-02",
+        "symbol": "DXCM",
+        "actualEarningResult": -0.05,
+        "estimatedEarning": -0.05
+    },
+    {
+        "date": "2012-02-23",
+        "symbol": "DXCM",
+        "actualEarningResult": -0.04,
+        "estimatedEarning": -0.03764
+    },
+    {
+        "date": "2011-11-02",
+        "symbol": "DXCM",
+        "actualEarningResult": -0.05,
+        "estimatedEarning": -0.03923
+    },
+    {
+        "date": "2011-08-03",
+        "symbol": "DXCM",
+        "actualEarningResult": -0.03,
+        "estimatedEarning": -0.0281
+    },
+    {
+        "date": "2011-05-03",
+        "symbol": "DXCM",
+        "actualEarningResult": -0.05,
+        "estimatedEarning": -0.05
+    },
+    {
+        "date": "2011-03-03",
+        "symbol": "DXCM",
+        "actualEarningResult": -0.04,
+        "estimatedEarning": -0.05
+    },
+    {
+        "date": "2010-11-04",
+        "symbol": "DXCM",
+        "actualEarningResult": -0.06,
+        "estimatedEarning": -0.04672
+    },
+    {
+        "date": "2010-08-03",
+        "symbol": "DXCM",
+        "actualEarningResult": -0.05,
+        "estimatedEarning": -0.05
+    },
+    {
+        "date": "2010-05-05",
+        "symbol": "DXCM",
+        "actualEarningResult": -0.07,
+        "estimatedEarning": -0.06
+    },
+    {
+        "date": "2010-03-09",
+        "symbol": "DXCM",
+        "actualEarningResult": -0.06,
+        "estimatedEarning": -0.07
+    },
+    {
+        "date": "2009-11-04",
+        "symbol": "DXCM",
+        "actualEarningResult": -0.07,
+        "estimatedEarning": -0.08
+    },
+    {
+        "date": "2009-08-03",
+        "symbol": "DXCM",
+        "actualEarningResult": -0.08,
+        "estimatedEarning": -0.08
+    },
+    {
+        "date": "2009-05-06",
+        "symbol": "DXCM",
+        "actualEarningResult": -0.08,
+        "estimatedEarning": -0.08
+    },
+    {
+        "date": "2009-03-05",
+        "symbol": "DXCM",
+        "actualEarningResult": -0.11,
+        "estimatedEarning": -0.11
+    },
+    {
+        "date": "2008-11-10",
+        "symbol": "DXCM",
+        "actualEarningResult": -0.12,
+        "estimatedEarning": -0.12
+    },
+    {
+        "date": "2008-08-05",
+        "symbol": "DXCM",
+        "actualEarningResult": -0.12,
+        "estimatedEarning": -0.11
+    },
+    {
+        "date": "2008-05-08",
+        "symbol": "DXCM",
+        "actualEarningResult": -0.11,
+        "estimatedEarning": -0.1
+    },
+    {
+        "date": "2008-03-11",
+        "symbol": "DXCM",
+        "actualEarningResult": -0.11,
+        "estimatedEarning": -0.1
+    },
+    {
+        "date": "2007-10-30",
+        "symbol": "DXCM",
+        "actualEarningResult": -0.1,
+        "estimatedEarning": -0.1
+    },
+    {
+        "date": "2007-07-30",
+        "symbol": "DXCM",
+        "actualEarningResult": -0.1,
+        "estimatedEarning": -0.1
+    },
+    {
+        "date": "2007-05-09",
+        "symbol": "DXCM",
+        "actualEarningResult": -0.1,
+        "estimatedEarning": -0.1
+    },
+    {
+        "date": "2007-02-27",
+        "symbol": "DXCM",
+        "actualEarningResult": -0.1,
+        "estimatedEarning": -0.12
+    },
+    {
+        "date": "2006-10-23",
+        "symbol": "DXCM",
+        "actualEarningResult": -0.12,
+        "estimatedEarning": -0.1
+    },
+    {
+        "date": "2006-07-20",
+        "symbol": "DXCM",
+        "actualEarningResult": -0.1,
+        "estimatedEarning": -0.11
+    },
+    {
+        "date": "2006-05-15",
+        "symbol": "DXCM",
+        "actualEarningResult": -0.11,
+        "estimatedEarning": -0.12
+    },
+    {
+        "date": "2006-02-27",
+        "symbol": "DXCM",
+        "actualEarningResult": -0.12,
+        "estimatedEarning": -0.07
+    },
+    {
+        "date": "2005-11-01",
+        "symbol": "DXCM",
+        "actualEarningResult": -0.06,
+        "estimatedEarning": -0.07
+    },
+    {
+        "date": "2005-08-02",
+        "symbol": "DXCM",
+        "actualEarningResult": -0.07,
+        "estimatedEarning": -0.06
+    }
+]

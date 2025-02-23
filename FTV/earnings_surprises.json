@@ -1,0 +1,206 @@
+[
+    {
+        "date": "2024-10-30",
+        "symbol": "FTV",
+        "actualEarningResult": 0.97,
+        "estimatedEarning": 0.931
+    },
+    {
+        "date": "2024-07-24",
+        "symbol": "FTV",
+        "actualEarningResult": 0.93,
+        "estimatedEarning": 0.919
+    },
+    {
+        "date": "2024-04-24",
+        "symbol": "FTV",
+        "actualEarningResult": 0.83,
+        "estimatedEarning": 0.797
+    },
+    {
+        "date": "2024-01-31",
+        "symbol": "FTV",
+        "actualEarningResult": 0.98,
+        "estimatedEarning": 0.93
+    },
+    {
+        "date": "2023-10-25",
+        "symbol": "FTV",
+        "actualEarningResult": 0.85,
+        "estimatedEarning": 0.86
+    },
+    {
+        "date": "2023-07-26",
+        "symbol": "FTV",
+        "actualEarningResult": 0.85,
+        "estimatedEarning": 0.81
+    },
+    {
+        "date": "2023-04-26",
+        "symbol": "FTV",
+        "actualEarningResult": 0.75,
+        "estimatedEarning": 0.73
+    },
+    {
+        "date": "2023-02-01",
+        "symbol": "FTV",
+        "actualEarningResult": 0.88,
+        "estimatedEarning": 0.84
+    },
+    {
+        "date": "2022-10-26",
+        "symbol": "FTV",
+        "actualEarningResult": 0.79,
+        "estimatedEarning": 0.76
+    },
+    {
+        "date": "2022-07-28",
+        "symbol": "FTV",
+        "actualEarningResult": 0.78,
+        "estimatedEarning": 0.72
+    },
+    {
+        "date": "2022-04-28",
+        "symbol": "FTV",
+        "actualEarningResult": 0.7,
+        "estimatedEarning": 0.68
+    },
+    {
+        "date": "2022-02-03",
+        "symbol": "FTV",
+        "actualEarningResult": 0.79,
+        "estimatedEarning": 0.78
+    },
+    {
+        "date": "2021-10-28",
+        "symbol": "FTV",
+        "actualEarningResult": 0.66,
+        "estimatedEarning": 0.65
+    },
+    {
+        "date": "2021-07-29",
+        "symbol": "FTV",
+        "actualEarningResult": 0.66,
+        "estimatedEarning": 0.61
+    },
+    {
+        "date": "2021-04-29",
+        "symbol": "FTV",
+        "actualEarningResult": 0.63,
+        "estimatedEarning": 0.6
+    },
+    {
+        "date": "2021-02-04",
+        "symbol": "FTV",
+        "actualEarningResult": 0.7,
+        "estimatedEarning": 0.61
+    },
+    {
+        "date": "2020-10-27",
+        "symbol": "FTV",
+        "actualEarningResult": 0.94,
+        "estimatedEarning": 0.88
+    },
+    {
+        "date": "2020-07-28",
+        "symbol": "FTV",
+        "actualEarningResult": 0.68,
+        "estimatedEarning": 0.58
+    },
+    {
+        "date": "2020-04-30",
+        "symbol": "FTV",
+        "actualEarningResult": 0.74,
+        "estimatedEarning": 0.72
+    },
+    {
+        "date": "2020-02-06",
+        "symbol": "FTV",
+        "actualEarningResult": 1.03,
+        "estimatedEarning": 0.97
+    },
+    {
+        "date": "2019-10-24",
+        "symbol": "FTV",
+        "actualEarningResult": 0.87,
+        "estimatedEarning": 0.87
+    },
+    {
+        "date": "2019-07-25",
+        "symbol": "FTV",
+        "actualEarningResult": 0.9,
+        "estimatedEarning": 0.89
+    },
+    {
+        "date": "2019-04-25",
+        "symbol": "FTV",
+        "actualEarningResult": 0.69,
+        "estimatedEarning": 0.68
+    },
+    {
+        "date": "2019-02-07",
+        "symbol": "FTV",
+        "actualEarningResult": 0.91,
+        "estimatedEarning": 0.86
+    },
+    {
+        "date": "2018-10-25",
+        "symbol": "FTV",
+        "actualEarningResult": 0.86,
+        "estimatedEarning": 0.88
+    },
+    {
+        "date": "2018-07-26",
+        "symbol": "FTV",
+        "actualEarningResult": 0.91,
+        "estimatedEarning": 0.89
+    },
+    {
+        "date": "2018-04-26",
+        "symbol": "FTV",
+        "actualEarningResult": 0.78,
+        "estimatedEarning": 0.75
+    },
+    {
+        "date": "2018-02-08",
+        "symbol": "FTV",
+        "actualEarningResult": 0.82,
+        "estimatedEarning": 0.78
+    },
+    {
+        "date": "2017-10-26",
+        "symbol": "FTV",
+        "actualEarningResult": 0.77,
+        "estimatedEarning": 0.73
+    },
+    {
+        "date": "2017-07-27",
+        "symbol": "FTV",
+        "actualEarningResult": 0.71,
+        "estimatedEarning": 0.69
+    },
+    {
+        "date": "2017-04-27",
+        "symbol": "FTV",
+        "actualEarningResult": 0.6,
+        "estimatedEarning": 0.57
+    },
+    {
+        "date": "2017-02-07",
+        "symbol": "FTV",
+        "actualEarningResult": 0.68,
+        "estimatedEarning": 0.67
+    },
+    {
+        "date": "2016-10-27",
+        "symbol": "FTV",
+        "actualEarningResult": 0.67,
+        "estimatedEarning": 0.59
+    },
+    {
+        "date": "2016-08-02",
+        "symbol": "FTV",
+        "actualEarningResult": 0.64,
+        "estimatedEarning": 0.61
+    }
+]

@@ -1,0 +1,758 @@
+[
+    {
+        "date": "2024-11-14",
+        "symbol": "AMAT",
+        "actualEarningResult": 2.32,
+        "estimatedEarning": 2.19
+    },
+    {
+        "date": "2024-08-15",
+        "symbol": "AMAT",
+        "actualEarningResult": 2.12,
+        "estimatedEarning": 2.02
+    },
+    {
+        "date": "2024-05-16",
+        "symbol": "AMAT",
+        "actualEarningResult": 2.09,
+        "estimatedEarning": 1.99
+    },
+    {
+        "date": "2024-02-15",
+        "symbol": "AMAT",
+        "actualEarningResult": 2.13,
+        "estimatedEarning": 1.91
+    },
+    {
+        "date": "2023-11-16",
+        "symbol": "AMAT",
+        "actualEarningResult": 2.12,
+        "estimatedEarning": 2
+    },
+    {
+        "date": "2023-08-17",
+        "symbol": "AMAT",
+        "actualEarningResult": 1.9,
+        "estimatedEarning": 1.74
+    },
+    {
+        "date": "2023-05-18",
+        "symbol": "AMAT",
+        "actualEarningResult": 2,
+        "estimatedEarning": 1.84
+    },
+    {
+        "date": "2023-02-16",
+        "symbol": "AMAT",
+        "actualEarningResult": 2.03,
+        "estimatedEarning": 1.93
+    },
+    {
+        "date": "2022-11-17",
+        "symbol": "AMAT",
+        "actualEarningResult": 2.03,
+        "estimatedEarning": 1.73
+    },
+    {
+        "date": "2022-08-18",
+        "symbol": "AMAT",
+        "actualEarningResult": 1.94,
+        "estimatedEarning": 1.79
+    },
+    {
+        "date": "2022-05-19",
+        "symbol": "AMAT",
+        "actualEarningResult": 1.85,
+        "estimatedEarning": 1.9
+    },
+    {
+        "date": "2022-02-16",
+        "symbol": "AMAT",
+        "actualEarningResult": 1.89,
+        "estimatedEarning": 1.85
+    },
+    {
+        "date": "2021-11-18",
+        "symbol": "AMAT",
+        "actualEarningResult": 1.94,
+        "estimatedEarning": 1.95
+    },
+    {
+        "date": "2021-08-19",
+        "symbol": "AMAT",
+        "actualEarningResult": 1.9,
+        "estimatedEarning": 1.77
+    },
+    {
+        "date": "2021-05-20",
+        "symbol": "AMAT",
+        "actualEarningResult": 1.63,
+        "estimatedEarning": 1.51
+    },
+    {
+        "date": "2021-02-18",
+        "symbol": "AMAT",
+        "actualEarningResult": 1.39,
+        "estimatedEarning": 1.28
+    },
+    {
+        "date": "2020-11-12",
+        "symbol": "AMAT",
+        "actualEarningResult": 1.25,
+        "estimatedEarning": 1.17
+    },
+    {
+        "date": "2020-08-13",
+        "symbol": "AMAT",
+        "actualEarningResult": 1.06,
+        "estimatedEarning": 0.95
+    },
+    {
+        "date": "2020-05-14",
+        "symbol": "AMAT",
+        "actualEarningResult": 0.89,
+        "estimatedEarning": 0.94
+    },
+    {
+        "date": "2020-02-12",
+        "symbol": "AMAT",
+        "actualEarningResult": 0.98,
+        "estimatedEarning": 0.93
+    },
+    {
+        "date": "2019-11-14",
+        "symbol": "AMAT",
+        "actualEarningResult": 0.8,
+        "estimatedEarning": 0.76
+    },
+    {
+        "date": "2019-08-15",
+        "symbol": "AMAT",
+        "actualEarningResult": 0.74,
+        "estimatedEarning": 0.7
+    },
+    {
+        "date": "2019-05-16",
+        "symbol": "AMAT",
+        "actualEarningResult": 0.7,
+        "estimatedEarning": 0.66
+    },
+    {
+        "date": "2019-02-14",
+        "symbol": "AMAT",
+        "actualEarningResult": 0.81,
+        "estimatedEarning": 0.79
+    },
+    {
+        "date": "2018-11-15",
+        "symbol": "AMAT",
+        "actualEarningResult": 0.97,
+        "estimatedEarning": 0.97
+    },
+    {
+        "date": "2018-08-16",
+        "symbol": "AMAT",
+        "actualEarningResult": 1.2,
+        "estimatedEarning": 1.17
+    },
+    {
+        "date": "2018-05-17",
+        "symbol": "AMAT",
+        "actualEarningResult": 1.22,
+        "estimatedEarning": 1.14
+    },
+    {
+        "date": "2018-02-14",
+        "symbol": "AMAT",
+        "actualEarningResult": 1.06,
+        "estimatedEarning": 0.97
+    },
+    {
+        "date": "2017-11-16",
+        "symbol": "AMAT",
+        "actualEarningResult": 0.93,
+        "estimatedEarning": 0.91
+    },
+    {
+        "date": "2017-08-17",
+        "symbol": "AMAT",
+        "actualEarningResult": 0.86,
+        "estimatedEarning": 0.84
+    },
+    {
+        "date": "2017-05-18",
+        "symbol": "AMAT",
+        "actualEarningResult": 0.79,
+        "estimatedEarning": 0.76
+    },
+    {
+        "date": "2017-02-15",
+        "symbol": "AMAT",
+        "actualEarningResult": 0.67,
+        "estimatedEarning": 0.66
+    },
+    {
+        "date": "2016-11-17",
+        "symbol": "AMAT",
+        "actualEarningResult": 0.66,
+        "estimatedEarning": 0.65
+    },
+    {
+        "date": "2016-08-18",
+        "symbol": "AMAT",
+        "actualEarningResult": 0.5,
+        "estimatedEarning": 0.48
+    },
+    {
+        "date": "2016-05-19",
+        "symbol": "AMAT",
+        "actualEarningResult": 0.34,
+        "estimatedEarning": 0.32
+    },
+    {
+        "date": "2016-02-18",
+        "symbol": "AMAT",
+        "actualEarningResult": 0.26,
+        "estimatedEarning": 0.25
+    },
+    {
+        "date": "2015-11-12",
+        "symbol": "AMAT",
+        "actualEarningResult": 0.29,
+        "estimatedEarning": 0.29
+    },
+    {
+        "date": "2015-08-13",
+        "symbol": "AMAT",
+        "actualEarningResult": 0.33,
+        "estimatedEarning": 0.33
+    },
+    {
+        "date": "2015-05-14",
+        "symbol": "AMAT",
+        "actualEarningResult": 0.29,
+        "estimatedEarning": 0.28
+    },
+    {
+        "date": "2015-02-11",
+        "symbol": "AMAT",
+        "actualEarningResult": 0.27,
+        "estimatedEarning": 0.27
+    },
+    {
+        "date": "2014-11-13",
+        "symbol": "AMAT",
+        "actualEarningResult": 0.27,
+        "estimatedEarning": 0.27
+    },
+    {
+        "date": "2014-08-14",
+        "symbol": "AMAT",
+        "actualEarningResult": 0.28,
+        "estimatedEarning": 0.27
+    },
+    {
+        "date": "2014-05-15",
+        "symbol": "AMAT",
+        "actualEarningResult": 0.28,
+        "estimatedEarning": 0.28
+    },
+    {
+        "date": "2014-02-12",
+        "symbol": "AMAT",
+        "actualEarningResult": 0.23,
+        "estimatedEarning": 0.22
+    },
+    {
+        "date": "2013-11-14",
+        "symbol": "AMAT",
+        "actualEarningResult": 0.19,
+        "estimatedEarning": 0.18
+    },
+    {
+        "date": "2013-08-15",
+        "symbol": "AMAT",
+        "actualEarningResult": 0.18,
+        "estimatedEarning": 0.19
+    },
+    {
+        "date": "2013-05-16",
+        "symbol": "AMAT",
+        "actualEarningResult": 0.16,
+        "estimatedEarning": 0.13
+    },
+    {
+        "date": "2013-02-13",
+        "symbol": "AMAT",
+        "actualEarningResult": 0.06,
+        "estimatedEarning": 0.03188
+    },
+    {
+        "date": "2012-11-15",
+        "symbol": "AMAT",
+        "actualEarningResult": 0.06,
+        "estimatedEarning": 0.03167
+    },
+    {
+        "date": "2012-08-15",
+        "symbol": "AMAT",
+        "actualEarningResult": 0.24,
+        "estimatedEarning": 0.22
+    },
+    {
+        "date": "2012-05-17",
+        "symbol": "AMAT",
+        "actualEarningResult": 0.27,
+        "estimatedEarning": 0.24
+    },
+    {
+        "date": "2012-02-17",
+        "symbol": "AMAT",
+        "actualEarningResult": 0.18,
+        "estimatedEarning": 0.12
+    },
+    {
+        "date": "2011-11-16",
+        "symbol": "AMAT",
+        "actualEarningResult": 0.21,
+        "estimatedEarning": 0.19
+    },
+    {
+        "date": "2011-08-24",
+        "symbol": "AMAT",
+        "actualEarningResult": 0.35,
+        "estimatedEarning": 0.33
+    },
+    {
+        "date": "2011-05-24",
+        "symbol": "AMAT",
+        "actualEarningResult": 0.38,
+        "estimatedEarning": 0.37
+    },
+    {
+        "date": "2011-02-24",
+        "symbol": "AMAT",
+        "actualEarningResult": 0.36,
+        "estimatedEarning": 0.33
+    },
+    {
+        "date": "2010-11-17",
+        "symbol": "AMAT",
+        "actualEarningResult": 0.36,
+        "estimatedEarning": 0.31
+    },
+    {
+        "date": "2010-08-18",
+        "symbol": "AMAT",
+        "actualEarningResult": 0.29,
+        "estimatedEarning": 0.25
+    },
+    {
+        "date": "2010-05-19",
+        "symbol": "AMAT",
+        "actualEarningResult": 0.22,
+        "estimatedEarning": 0.21
+    },
+    {
+        "date": "2010-02-17",
+        "symbol": "AMAT",
+        "actualEarningResult": 0.13,
+        "estimatedEarning": 0.13
+    },
+    {
+        "date": "2009-11-11",
+        "symbol": "AMAT",
+        "actualEarningResult": 0.11,
+        "estimatedEarning": 0.02889
+    },
+    {
+        "date": "2009-08-11",
+        "symbol": "AMAT",
+        "actualEarningResult": -0.03,
+        "estimatedEarning": -0.08
+    },
+    {
+        "date": "2009-05-12",
+        "symbol": "AMAT",
+        "actualEarningResult": -0.12,
+        "estimatedEarning": -0.1
+    },
+    {
+        "date": "2009-02-10",
+        "symbol": "AMAT",
+        "actualEarningResult": -0.02,
+        "estimatedEarning": -0.00095
+    },
+    {
+        "date": "2008-11-12",
+        "symbol": "AMAT",
+        "actualEarningResult": 0.18,
+        "estimatedEarning": 0.14
+    },
+    {
+        "date": "2008-08-12",
+        "symbol": "AMAT",
+        "actualEarningResult": 0.14,
+        "estimatedEarning": 0.14
+    },
+    {
+        "date": "2008-05-13",
+        "symbol": "AMAT",
+        "actualEarningResult": 0.24,
+        "estimatedEarning": 0.22
+    },
+    {
+        "date": "2008-02-12",
+        "symbol": "AMAT",
+        "actualEarningResult": 0.23,
+        "estimatedEarning": 0.2
+    },
+    {
+        "date": "2007-11-14",
+        "symbol": "AMAT",
+        "actualEarningResult": 0.3,
+        "estimatedEarning": 0.29
+    },
+    {
+        "date": "2007-08-14",
+        "symbol": "AMAT",
+        "actualEarningResult": 0.35,
+        "estimatedEarning": 0.32
+    },
+    {
+        "date": "2007-05-15",
+        "symbol": "AMAT",
+        "actualEarningResult": 0.34,
+        "estimatedEarning": 0.28
+    },
+    {
+        "date": "2007-02-13",
+        "symbol": "AMAT",
+        "actualEarningResult": 0.28,
+        "estimatedEarning": 0.27
+    },
+    {
+        "date": "2006-11-15",
+        "symbol": "AMAT",
+        "actualEarningResult": 0.3,
+        "estimatedEarning": 0.31
+    },
+    {
+        "date": "2006-08-15",
+        "symbol": "AMAT",
+        "actualEarningResult": 0.32,
+        "estimatedEarning": 0.3
+    },
+    {
+        "date": "2006-05-16",
+        "symbol": "AMAT",
+        "actualEarningResult": 0.26,
+        "estimatedEarning": 0.23
+    },
+    {
+        "date": "2006-02-15",
+        "symbol": "AMAT",
+        "actualEarningResult": 0.17,
+        "estimatedEarning": 0.16
+    },
+    {
+        "date": "2005-11-16",
+        "symbol": "AMAT",
+        "actualEarningResult": 0.17,
+        "estimatedEarning": 0.14
+    },
+    {
+        "date": "2005-08-16",
+        "symbol": "AMAT",
+        "actualEarningResult": 0.14,
+        "estimatedEarning": 0.14
+    },
+    {
+        "date": "2005-05-17",
+        "symbol": "AMAT",
+        "actualEarningResult": 0.18,
+        "estimatedEarning": 0.17
+    },
+    {
+        "date": "2005-02-15",
+        "symbol": "AMAT",
+        "actualEarningResult": 0.17,
+        "estimatedEarning": 0.16
+    },
+    {
+        "date": "2004-11-17",
+        "symbol": "AMAT",
+        "actualEarningResult": 0.27,
+        "estimatedEarning": 0.26
+    },
+    {
+        "date": "2004-08-17",
+        "symbol": "AMAT",
+        "actualEarningResult": 0.26,
+        "estimatedEarning": 0.25
+    },
+    {
+        "date": "2004-05-18",
+        "symbol": "AMAT",
+        "actualEarningResult": 0.22,
+        "estimatedEarning": 0.19
+    },
+    {
+        "date": "2004-02-18",
+        "symbol": "AMAT",
+        "actualEarningResult": 0.12,
+        "estimatedEarning": 0.08
+    },
+    {
+        "date": "2003-11-12",
+        "symbol": "AMAT",
+        "actualEarningResult": 0.06,
+        "estimatedEarning": 0.05
+    },
+    {
+        "date": "2003-08-12",
+        "symbol": "AMAT",
+        "actualEarningResult": 0.05,
+        "estimatedEarning": 0.0372
+    },
+    {
+        "date": "2003-05-13",
+        "symbol": "AMAT",
+        "actualEarningResult": 0.03,
+        "estimatedEarning": 0.0164
+    },
+    {
+        "date": "2003-02-11",
+        "symbol": "AMAT",
+        "actualEarningResult": -0.03979,
+        "estimatedEarning": -0.01989
+    },
+    {
+        "date": "2002-11-13",
+        "symbol": "AMAT",
+        "actualEarningResult": 0.09,
+        "estimatedEarning": 0.08
+    },
+    {
+        "date": "2002-08-13",
+        "symbol": "AMAT",
+        "actualEarningResult": 0.07,
+        "estimatedEarning": 0.05
+    },
+    {
+        "date": "2002-05-14",
+        "symbol": "AMAT",
+        "actualEarningResult": 0.03,
+        "estimatedEarning": 0.01685
+    },
+    {
+        "date": "2002-02-12",
+        "symbol": "AMAT",
+        "actualEarningResult": -0.0278,
+        "estimatedEarning": -0.00441
+    },
+    {
+        "date": "2001-11-14",
+        "symbol": "AMAT",
+        "actualEarningResult": 0.02,
+        "estimatedEarning": 0.02587
+    },
+    {
+        "date": "2001-08-14",
+        "symbol": "AMAT",
+        "actualEarningResult": 0.03,
+        "estimatedEarning": 0.01445
+    },
+    {
+        "date": "2001-05-15",
+        "symbol": "AMAT",
+        "actualEarningResult": 0.16,
+        "estimatedEarning": 0.16
+    },
+    {
+        "date": "2001-02-13",
+        "symbol": "AMAT",
+        "actualEarningResult": 0.33,
+        "estimatedEarning": 0.31
+    },
+    {
+        "date": "2000-11-15",
+        "symbol": "AMAT",
+        "actualEarningResult": 0.39,
+        "estimatedEarning": 0.38
+    },
+    {
+        "date": "2000-08-09",
+        "symbol": "AMAT",
+        "actualEarningResult": 0.35,
+        "estimatedEarning": 0.34
+    },
+    {
+        "date": "2000-05-10",
+        "symbol": "AMAT",
+        "actualEarningResult": 0.28,
+        "estimatedEarning": 0.27
+    },
+    {
+        "date": "2000-02-15",
+        "symbol": "AMAT",
+        "actualEarningResult": 0.2,
+        "estimatedEarning": 0.19
+    },
+    {
+        "date": "1999-11-17",
+        "symbol": "AMAT",
+        "actualEarningResult": 0.18,
+        "estimatedEarning": 0.16
+    },
+    {
+        "date": "1999-08-17",
+        "symbol": "AMAT",
+        "actualEarningResult": 0.15,
+        "estimatedEarning": 0.13
+    },
+    {
+        "date": "1999-05-18",
+        "symbol": "AMAT",
+        "actualEarningResult": 0.1,
+        "estimatedEarning": 0.07
+    },
+    {
+        "date": "1999-02-16",
+        "symbol": "AMAT",
+        "actualEarningResult": 0.03,
+        "estimatedEarning": 0.01651
+    },
+    {
+        "date": "1998-11-17",
+        "symbol": "AMAT",
+        "actualEarningResult": 0.02,
+        "estimatedEarning": 0.00672
+    },
+    {
+        "date": "1998-08-11",
+        "symbol": "AMAT",
+        "actualEarningResult": 0.05,
+        "estimatedEarning": 0.04136
+    },
+    {
+        "date": "1998-05-12",
+        "symbol": "AMAT",
+        "actualEarningResult": 0.09,
+        "estimatedEarning": 0.09
+    },
+    {
+        "date": "1998-02-11",
+        "symbol": "AMAT",
+        "actualEarningResult": 0.13,
+        "estimatedEarning": 0.13
+    },
+    {
+        "date": "1997-11-20",
+        "symbol": "AMAT",
+        "actualEarningResult": 0.12,
+        "estimatedEarning": 0.11
+    },
+    {
+        "date": "1997-08-12",
+        "symbol": "AMAT",
+        "actualEarningResult": 0.1,
+        "estimatedEarning": 0.08
+    },
+    {
+        "date": "1997-05-13",
+        "symbol": "AMAT",
+        "actualEarningResult": 0.07,
+        "estimatedEarning": 0.06
+    },
+    {
+        "date": "1997-02-11",
+        "symbol": "AMAT",
+        "actualEarningResult": 0.06,
+        "estimatedEarning": 0.05
+    },
+    {
+        "date": "1996-11-21",
+        "symbol": "AMAT",
+        "actualEarningResult": 0.06,
+        "estimatedEarning": 0.05
+    },
+    {
+        "date": "1996-08-13",
+        "symbol": "AMAT",
+        "actualEarningResult": 0.12,
+        "estimatedEarning": 0.11
+    },
+    {
+        "date": "1996-05-14",
+        "symbol": "AMAT",
+        "actualEarningResult": 0.13,
+        "estimatedEarning": 0.12
+    },
+    {
+        "date": "1996-02-13",
+        "symbol": "AMAT",
+        "actualEarningResult": 0.12,
+        "estimatedEarning": 0.11
+    },
+    {
+        "date": "1995-11-28",
+        "symbol": "AMAT",
+        "actualEarningResult": 0.11,
+        "estimatedEarning": 0.1
+    },
+    {
+        "date": "1995-08-15",
+        "symbol": "AMAT",
+        "actualEarningResult": 0.1,
+        "estimatedEarning": 0.08
+    },
+    {
+        "date": "1995-05-16",
+        "symbol": "AMAT",
+        "actualEarningResult": 0.07,
+        "estimatedEarning": 0.05
+    },
+    {
+        "date": "1995-02-14",
+        "symbol": "AMAT",
+        "actualEarningResult": 0.05,
+        "estimatedEarning": 0.05
+    },
+    {
+        "date": "1994-11-29",
+        "symbol": "AMAT",
+        "actualEarningResult": 0.05,
+        "estimatedEarning": 0.05
+    },
+    {
+        "date": "1994-08-16",
+        "symbol": "AMAT",
+        "actualEarningResult": 0.04,
+        "estimatedEarning": 0.03855
+    },
+    {
+        "date": "1994-05-17",
+        "symbol": "AMAT",
+        "actualEarningResult": 0.04,
+        "estimatedEarning": 0.03247
+    },
+    {
+        "date": "1994-02-15",
+        "symbol": "AMAT",
+        "actualEarningResult": 0.03,
+        "estimatedEarning": 0.02742
+    },
+    {
+        "date": "1993-11-30",
+        "symbol": "AMAT",
+        "actualEarningResult": 0.03,
+        "estimatedEarning": 0.02735
+    },
+    {
+        "date": "1993-08-17",
+        "symbol": "AMAT",
+        "actualEarningResult": 0.02,
+        "estimatedEarning": 0.01769
+    }
+]

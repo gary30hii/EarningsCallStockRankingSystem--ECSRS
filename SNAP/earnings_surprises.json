@@ -1,0 +1,188 @@
+[
+    {
+        "date": "2024-10-29",
+        "symbol": "SNAP",
+        "actualEarningResult": 0.08,
+        "estimatedEarning": -0.13521
+    },
+    {
+        "date": "2024-08-01",
+        "symbol": "SNAP",
+        "actualEarningResult": 0.02,
+        "estimatedEarning": -0.15652
+    },
+    {
+        "date": "2024-04-25",
+        "symbol": "SNAP",
+        "actualEarningResult": 0.03,
+        "estimatedEarning": -0.25701
+    },
+    {
+        "date": "2024-02-06",
+        "symbol": "SNAP",
+        "actualEarningResult": 0.08,
+        "estimatedEarning": 0.07
+    },
+    {
+        "date": "2023-10-24",
+        "symbol": "SNAP",
+        "actualEarningResult": 0.02,
+        "estimatedEarning": 0.00809
+    },
+    {
+        "date": "2023-07-25",
+        "symbol": "SNAP",
+        "actualEarningResult": -0.02,
+        "estimatedEarning": -0.01303
+    },
+    {
+        "date": "2023-04-27",
+        "symbol": "SNAP",
+        "actualEarningResult": 0.01,
+        "estimatedEarning": 0.00276
+    },
+    {
+        "date": "2023-01-31",
+        "symbol": "SNAP",
+        "actualEarningResult": 0.14,
+        "estimatedEarning": 0.1
+    },
+    {
+        "date": "2022-10-20",
+        "symbol": "SNAP",
+        "actualEarningResult": 0.08,
+        "estimatedEarning": 0.01019
+    },
+    {
+        "date": "2022-07-21",
+        "symbol": "SNAP",
+        "actualEarningResult": -0.02,
+        "estimatedEarning": -0.01535
+    },
+    {
+        "date": "2022-04-21",
+        "symbol": "SNAP",
+        "actualEarningResult": -0.02,
+        "estimatedEarning": -0.00399
+    },
+    {
+        "date": "2022-02-03",
+        "symbol": "SNAP",
+        "actualEarningResult": 0.22,
+        "estimatedEarning": 0.09
+    },
+    {
+        "date": "2021-10-21",
+        "symbol": "SNAP",
+        "actualEarningResult": 0.17,
+        "estimatedEarning": 0.06
+    },
+    {
+        "date": "2021-07-22",
+        "symbol": "SNAP",
+        "actualEarningResult": 0.1,
+        "estimatedEarning": 0.00611
+    },
+    {
+        "date": "2021-04-22",
+        "symbol": "SNAP",
+        "actualEarningResult": -0.19105,
+        "estimatedEarning": -0.06
+    },
+    {
+        "date": "2021-02-04",
+        "symbol": "SNAP",
+        "actualEarningResult": 0.09,
+        "estimatedEarning": 0.07
+    },
+    {
+        "date": "2020-10-20",
+        "symbol": "SNAP",
+        "actualEarningResult": 0.01,
+        "estimatedEarning": -0.06
+    },
+    {
+        "date": "2020-07-21",
+        "symbol": "SNAP",
+        "actualEarningResult": -0.09,
+        "estimatedEarning": -0.09
+    },
+    {
+        "date": "2020-04-21",
+        "symbol": "SNAP",
+        "actualEarningResult": -0.08,
+        "estimatedEarning": -0.07
+    },
+    {
+        "date": "2020-02-04",
+        "symbol": "SNAP",
+        "actualEarningResult": 0.03,
+        "estimatedEarning": 0.00723
+    },
+    {
+        "date": "2019-10-22",
+        "symbol": "SNAP",
+        "actualEarningResult": -0.04,
+        "estimatedEarning": -0.05
+    },
+    {
+        "date": "2019-07-23",
+        "symbol": "SNAP",
+        "actualEarningResult": -0.06,
+        "estimatedEarning": -0.1
+    },
+    {
+        "date": "2019-04-23",
+        "symbol": "SNAP",
+        "actualEarningResult": -0.1,
+        "estimatedEarning": -0.12
+    },
+    {
+        "date": "2019-02-05",
+        "symbol": "SNAP",
+        "actualEarningResult": -0.04,
+        "estimatedEarning": -0.08
+    },
+    {
+        "date": "2018-10-25",
+        "symbol": "SNAP",
+        "actualEarningResult": -0.12,
+        "estimatedEarning": -0.14
+    },
+    {
+        "date": "2018-08-07",
+        "symbol": "SNAP",
+        "actualEarningResult": -0.14,
+        "estimatedEarning": -0.17
+    },
+    {
+        "date": "2018-05-01",
+        "symbol": "SNAP",
+        "actualEarningResult": -0.17,
+        "estimatedEarning": -0.17
+    },
+    {
+        "date": "2018-02-06",
+        "symbol": "SNAP",
+        "actualEarningResult": -0.13,
+        "estimatedEarning": -0.15
+    },
+    {
+        "date": "2017-11-07",
+        "symbol": "SNAP",
+        "actualEarningResult": -0.14,
+        "estimatedEarning": -0.14
+    },
+    {
+        "date": "2017-08-10",
+        "symbol": "SNAP",
+        "actualEarningResult": -0.16,
+        "estimatedEarning": -0.14
+    },
+    {
+        "date": "2017-05-10",
+        "symbol": "SNAP",
+        "actualEarningResult": -0.2,
+        "estimatedEarning": -0.22
+    }
+]

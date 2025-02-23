@@ -1,0 +1,566 @@
+[
+    {
+        "date": "2024-10-30",
+        "symbol": "EQIX",
+        "actualEarningResult": 9.05,
+        "estimatedEarning": 8.7
+    },
+    {
+        "date": "2024-08-07",
+        "symbol": "EQIX",
+        "actualEarningResult": 9.22,
+        "estimatedEarning": 8.82
+    },
+    {
+        "date": "2024-05-08",
+        "symbol": "EQIX",
+        "actualEarningResult": 8.86,
+        "estimatedEarning": 8.58
+    },
+    {
+        "date": "2024-02-14",
+        "symbol": "EQIX",
+        "actualEarningResult": 7.3,
+        "estimatedEarning": 7.25
+    },
+    {
+        "date": "2023-10-25",
+        "symbol": "EQIX",
+        "actualEarningResult": 8.19,
+        "estimatedEarning": 7.79
+    },
+    {
+        "date": "2023-08-02",
+        "symbol": "EQIX",
+        "actualEarningResult": 8.04,
+        "estimatedEarning": 7.51
+    },
+    {
+        "date": "2023-05-03",
+        "symbol": "EQIX",
+        "actualEarningResult": 8.59,
+        "estimatedEarning": 7.92
+    },
+    {
+        "date": "2023-02-15",
+        "symbol": "EQIX",
+        "actualEarningResult": 7.09,
+        "estimatedEarning": 6.82
+    },
+    {
+        "date": "2022-11-02",
+        "symbol": "EQIX",
+        "actualEarningResult": 7.73,
+        "estimatedEarning": 7.19
+    },
+    {
+        "date": "2022-07-27",
+        "symbol": "EQIX",
+        "actualEarningResult": 7.58,
+        "estimatedEarning": 7.3
+    },
+    {
+        "date": "2022-04-27",
+        "symbol": "EQIX",
+        "actualEarningResult": 7.16,
+        "estimatedEarning": 7.19
+    },
+    {
+        "date": "2022-02-16",
+        "symbol": "EQIX",
+        "actualEarningResult": 6.22,
+        "estimatedEarning": 6.27
+    },
+    {
+        "date": "2021-11-03",
+        "symbol": "EQIX",
+        "actualEarningResult": 6.94,
+        "estimatedEarning": 6.69
+    },
+    {
+        "date": "2021-07-28",
+        "symbol": "EQIX",
+        "actualEarningResult": 7.01,
+        "estimatedEarning": 6.72
+    },
+    {
+        "date": "2021-04-28",
+        "symbol": "EQIX",
+        "actualEarningResult": 6.98,
+        "estimatedEarning": 6.63
+    },
+    {
+        "date": "2021-02-10",
+        "symbol": "EQIX",
+        "actualEarningResult": 5.76,
+        "estimatedEarning": 5.65
+    },
+    {
+        "date": "2020-10-28",
+        "symbol": "EQIX",
+        "actualEarningResult": 6.48,
+        "estimatedEarning": 6.03
+    },
+    {
+        "date": "2020-07-29",
+        "symbol": "EQIX",
+        "actualEarningResult": 6.35,
+        "estimatedEarning": 5.98
+    },
+    {
+        "date": "2020-05-06",
+        "symbol": "EQIX",
+        "actualEarningResult": 6.21,
+        "estimatedEarning": 5.98
+    },
+    {
+        "date": "2020-02-12",
+        "symbol": "EQIX",
+        "actualEarningResult": 5.51,
+        "estimatedEarning": 5.36
+    },
+    {
+        "date": "2019-10-30",
+        "symbol": "EQIX",
+        "actualEarningResult": 5.52,
+        "estimatedEarning": 5.45
+    },
+    {
+        "date": "2019-07-31",
+        "symbol": "EQIX",
+        "actualEarningResult": 5.87,
+        "estimatedEarning": 5.57
+    },
+    {
+        "date": "2019-05-01",
+        "symbol": "EQIX",
+        "actualEarningResult": 5.95,
+        "estimatedEarning": 5.6
+    },
+    {
+        "date": "2019-02-13",
+        "symbol": "EQIX",
+        "actualEarningResult": 5.13,
+        "estimatedEarning": 4.92
+    },
+    {
+        "date": "2018-11-01",
+        "symbol": "EQIX",
+        "actualEarningResult": 5.01,
+        "estimatedEarning": 4.95
+    },
+    {
+        "date": "2018-08-08",
+        "symbol": "EQIX",
+        "actualEarningResult": 5.37,
+        "estimatedEarning": 5.06
+    },
+    {
+        "date": "2018-05-02",
+        "symbol": "EQIX",
+        "actualEarningResult": 5.21,
+        "estimatedEarning": 4.94
+    },
+    {
+        "date": "2018-02-14",
+        "symbol": "EQIX",
+        "actualEarningResult": 4.82,
+        "estimatedEarning": 4.8
+    },
+    {
+        "date": "2017-11-01",
+        "symbol": "EQIX",
+        "actualEarningResult": 4.97,
+        "estimatedEarning": 4.69
+    },
+    {
+        "date": "2017-08-02",
+        "symbol": "EQIX",
+        "actualEarningResult": 4.59,
+        "estimatedEarning": 3.91
+    },
+    {
+        "date": "2017-04-26",
+        "symbol": "EQIX",
+        "actualEarningResult": 4.14,
+        "estimatedEarning": 4.07
+    },
+    {
+        "date": "2017-02-15",
+        "symbol": "EQIX",
+        "actualEarningResult": 4.08,
+        "estimatedEarning": 4
+    },
+    {
+        "date": "2016-11-02",
+        "symbol": "EQIX",
+        "actualEarningResult": 3.95,
+        "estimatedEarning": 3.91
+    },
+    {
+        "date": "2016-08-03",
+        "symbol": "EQIX",
+        "actualEarningResult": 4.13,
+        "estimatedEarning": 3.71
+    },
+    {
+        "date": "2016-05-04",
+        "symbol": "EQIX",
+        "actualEarningResult": 2.98,
+        "estimatedEarning": 3.52
+    },
+    {
+        "date": "2016-02-18",
+        "symbol": "EQIX",
+        "actualEarningResult": 2.85,
+        "estimatedEarning": 3.57
+    },
+    {
+        "date": "2015-10-28",
+        "symbol": "EQIX",
+        "actualEarningResult": 3.55,
+        "estimatedEarning": 3.07
+    },
+    {
+        "date": "2015-07-29",
+        "symbol": "EQIX",
+        "actualEarningResult": 3.75,
+        "estimatedEarning": 1.1
+    },
+    {
+        "date": "2015-04-29",
+        "symbol": "EQIX",
+        "actualEarningResult": 2.85,
+        "estimatedEarning": 0.85
+    },
+    {
+        "date": "2015-02-19",
+        "symbol": "EQIX",
+        "actualEarningResult": 0.56,
+        "estimatedEarning": 0.98
+    },
+    {
+        "date": "2014-10-29",
+        "symbol": "EQIX",
+        "actualEarningResult": 3.64,
+        "estimatedEarning": 0.88
+    },
+    {
+        "date": "2014-07-30",
+        "symbol": "EQIX",
+        "actualEarningResult": 0.86,
+        "estimatedEarning": 0.81
+    },
+    {
+        "date": "2014-04-30",
+        "symbol": "EQIX",
+        "actualEarningResult": 0.77,
+        "estimatedEarning": 0.68
+    },
+    {
+        "date": "2014-02-19",
+        "symbol": "EQIX",
+        "actualEarningResult": 0.83,
+        "estimatedEarning": 0.74
+    },
+    {
+        "date": "2013-10-23",
+        "symbol": "EQIX",
+        "actualEarningResult": 0.68,
+        "estimatedEarning": 0.55
+    },
+    {
+        "date": "2013-07-24",
+        "symbol": "EQIX",
+        "actualEarningResult": 0.59,
+        "estimatedEarning": 0.59
+    },
+    {
+        "date": "2013-04-24",
+        "symbol": "EQIX",
+        "actualEarningResult": 0.67,
+        "estimatedEarning": 0.73
+    },
+    {
+        "date": "2013-02-13",
+        "symbol": "EQIX",
+        "actualEarningResult": 0.92,
+        "estimatedEarning": 0.59
+    },
+    {
+        "date": "2012-11-01",
+        "symbol": "EQIX",
+        "actualEarningResult": 0.55,
+        "estimatedEarning": 0.55
+    },
+    {
+        "date": "2012-07-25",
+        "symbol": "EQIX",
+        "actualEarningResult": 0.69,
+        "estimatedEarning": 0.57
+    },
+    {
+        "date": "2012-04-25",
+        "symbol": "EQIX",
+        "actualEarningResult": 0.67,
+        "estimatedEarning": 0.49
+    },
+    {
+        "date": "2012-02-15",
+        "symbol": "EQIX",
+        "actualEarningResult": 0.33,
+        "estimatedEarning": 0.41
+    },
+    {
+        "date": "2011-10-26",
+        "symbol": "EQIX",
+        "actualEarningResult": 0.19,
+        "estimatedEarning": 0.41
+    },
+    {
+        "date": "2011-07-27",
+        "symbol": "EQIX",
+        "actualEarningResult": 0.6,
+        "estimatedEarning": 0.45
+    },
+    {
+        "date": "2011-04-27",
+        "symbol": "EQIX",
+        "actualEarningResult": 0.5,
+        "estimatedEarning": 0.28
+    },
+    {
+        "date": "2011-02-09",
+        "symbol": "EQIX",
+        "actualEarningResult": 0.27,
+        "estimatedEarning": 0.21
+    },
+    {
+        "date": "2010-10-26",
+        "symbol": "EQIX",
+        "actualEarningResult": 0.23,
+        "estimatedEarning": 0.24
+    },
+    {
+        "date": "2010-07-28",
+        "symbol": "EQIX",
+        "actualEarningResult": -0.05,
+        "estimatedEarning": 0.24
+    },
+    {
+        "date": "2010-04-21",
+        "symbol": "EQIX",
+        "actualEarningResult": 0.33,
+        "estimatedEarning": 0.41
+    },
+    {
+        "date": "2010-02-10",
+        "symbol": "EQIX",
+        "actualEarningResult": 0.42,
+        "estimatedEarning": 0.32
+    },
+    {
+        "date": "2009-10-21",
+        "symbol": "EQIX",
+        "actualEarningResult": 0.44,
+        "estimatedEarning": 0.28
+    },
+    {
+        "date": "2009-07-22",
+        "symbol": "EQIX",
+        "actualEarningResult": 0.42,
+        "estimatedEarning": 0.31
+    },
+    {
+        "date": "2009-04-22",
+        "symbol": "EQIX",
+        "actualEarningResult": 0.38,
+        "estimatedEarning": 0.17
+    },
+    {
+        "date": "2009-02-11",
+        "symbol": "EQIX",
+        "actualEarningResult": 2.59,
+        "estimatedEarning": 0.24
+    },
+    {
+        "date": "2008-10-22",
+        "symbol": "EQIX",
+        "actualEarningResult": 0.18,
+        "estimatedEarning": 0.15
+    },
+    {
+        "date": "2008-07-23",
+        "symbol": "EQIX",
+        "actualEarningResult": 0.06,
+        "estimatedEarning": 0.13
+    },
+    {
+        "date": "2008-04-23",
+        "symbol": "EQIX",
+        "actualEarningResult": 0.14,
+        "estimatedEarning": -0.12
+    },
+    {
+        "date": "2008-02-13",
+        "symbol": "EQIX",
+        "actualEarningResult": -0.16,
+        "estimatedEarning": -0.07
+    },
+    {
+        "date": "2007-10-30",
+        "symbol": "EQIX",
+        "actualEarningResult": 0.11,
+        "estimatedEarning": 0.02236
+    },
+    {
+        "date": "2007-07-25",
+        "symbol": "EQIX",
+        "actualEarningResult": 0.04,
+        "estimatedEarning": -0.05
+    },
+    {
+        "date": "2007-04-26",
+        "symbol": "EQIX",
+        "actualEarningResult": -0.14,
+        "estimatedEarning": -0.09
+    },
+    {
+        "date": "2007-02-07",
+        "symbol": "EQIX",
+        "actualEarningResult": 0.02,
+        "estimatedEarning": 0.00714
+    },
+    {
+        "date": "2006-10-25",
+        "symbol": "EQIX",
+        "actualEarningResult": -0.17,
+        "estimatedEarning": -0.17
+    },
+    {
+        "date": "2006-08-14",
+        "symbol": "EQIX",
+        "actualEarningResult": -0.18,
+        "estimatedEarning": -0.18
+    },
+    {
+        "date": "2006-04-26",
+        "symbol": "EQIX",
+        "actualEarningResult": -0.17,
+        "estimatedEarning": -0.2
+    },
+    {
+        "date": "2006-02-08",
+        "symbol": "EQIX",
+        "actualEarningResult": -1.18,
+        "estimatedEarning": -0.48
+    },
+    {
+        "date": "2005-10-25",
+        "symbol": "EQIX",
+        "actualEarningResult": -0.03,
+        "estimatedEarning": -0.09
+    },
+    {
+        "date": "2005-07-27",
+        "symbol": "EQIX",
+        "actualEarningResult": -0.13,
+        "estimatedEarning": -0.06
+    },
+    {
+        "date": "2005-04-27",
+        "symbol": "EQIX",
+        "actualEarningResult": -0.25,
+        "estimatedEarning": -0.14
+    },
+    {
+        "date": "2005-02-09",
+        "symbol": "EQIX",
+        "actualEarningResult": -0.27,
+        "estimatedEarning": -0.27
+    },
+    {
+        "date": "2004-10-26",
+        "symbol": "EQIX",
+        "actualEarningResult": -0.34,
+        "estimatedEarning": -0.48
+    },
+    {
+        "date": "2004-07-28",
+        "symbol": "EQIX",
+        "actualEarningResult": -0.48,
+        "estimatedEarning": -0.63
+    },
+    {
+        "date": "2004-04-22",
+        "symbol": "EQIX",
+        "actualEarningResult": -0.87,
+        "estimatedEarning": -0.92
+    },
+    {
+        "date": "2004-02-04",
+        "symbol": "EQIX",
+        "actualEarningResult": -1.41,
+        "estimatedEarning": -1.39
+    },
+    {
+        "date": "2003-10-27",
+        "symbol": "EQIX",
+        "actualEarningResult": -2,
+        "estimatedEarning": -2.03
+    },
+    {
+        "date": "2003-02-15",
+        "symbol": "EQIX",
+        "actualEarningResult": -9.37,
+        "estimatedEarning": 0.38
+    },
+    {
+        "date": "2002-11-05",
+        "symbol": "EQIX",
+        "actualEarningResult": -9.07,
+        "estimatedEarning": 11.19
+    },
+    {
+        "date": "2002-04-25",
+        "symbol": "EQIX",
+        "actualEarningResult": -9.37,
+        "estimatedEarning": -10.13
+    },
+    {
+        "date": "2002-02-14",
+        "symbol": "EQIX",
+        "actualEarningResult": -10.28,
+        "estimatedEarning": -12.55
+    },
+    {
+        "date": "2001-10-17",
+        "symbol": "EQIX",
+        "actualEarningResult": -12.7,
+        "estimatedEarning": -14.52
+    },
+    {
+        "date": "2001-07-18",
+        "symbol": "EQIX",
+        "actualEarningResult": -14.52,
+        "estimatedEarning": -16.93
+    },
+    {
+        "date": "2001-04-18",
+        "symbol": "EQIX",
+        "actualEarningResult": -16.33,
+        "estimatedEarning": -18.25
+    },
+    {
+        "date": "2001-02-07",
+        "symbol": "EQIX",
+        "actualEarningResult": -17.24,
+        "estimatedEarning": -19.25
+    },
+    {
+        "date": "2000-10-17",
+        "symbol": "EQIX",
+        "actualEarningResult": -15.12,
+        "estimatedEarning": -14.89
+    }
+]

@@ -1,0 +1,770 @@
+[
+    {
+        "date": "2024-10-28",
+        "symbol": "F",
+        "actualEarningResult": 0.49,
+        "estimatedEarning": 0.4645
+    },
+    {
+        "date": "2024-07-24",
+        "symbol": "F",
+        "actualEarningResult": 0.47,
+        "estimatedEarning": 0.68
+    },
+    {
+        "date": "2024-04-24",
+        "symbol": "F",
+        "actualEarningResult": 0.49,
+        "estimatedEarning": 0.4273
+    },
+    {
+        "date": "2024-02-06",
+        "symbol": "F",
+        "actualEarningResult": 0.29,
+        "estimatedEarning": 0.12
+    },
+    {
+        "date": "2023-10-26",
+        "symbol": "F",
+        "actualEarningResult": 0.39,
+        "estimatedEarning": 0.45
+    },
+    {
+        "date": "2023-07-27",
+        "symbol": "F",
+        "actualEarningResult": 0.72,
+        "estimatedEarning": 0.51
+    },
+    {
+        "date": "2023-05-02",
+        "symbol": "F",
+        "actualEarningResult": 0.63,
+        "estimatedEarning": 0.4
+    },
+    {
+        "date": "2023-02-02",
+        "symbol": "F",
+        "actualEarningResult": 0.51,
+        "estimatedEarning": 0.6
+    },
+    {
+        "date": "2022-10-26",
+        "symbol": "F",
+        "actualEarningResult": 0.3,
+        "estimatedEarning": 0.31
+    },
+    {
+        "date": "2022-07-27",
+        "symbol": "F",
+        "actualEarningResult": 0.68,
+        "estimatedEarning": 0.43
+    },
+    {
+        "date": "2022-04-27",
+        "symbol": "F",
+        "actualEarningResult": 0.38,
+        "estimatedEarning": 0.39
+    },
+    {
+        "date": "2022-02-03",
+        "symbol": "F",
+        "actualEarningResult": 0.26,
+        "estimatedEarning": 0.43
+    },
+    {
+        "date": "2021-10-27",
+        "symbol": "F",
+        "actualEarningResult": 0.51,
+        "estimatedEarning": 0.27
+    },
+    {
+        "date": "2021-07-28",
+        "symbol": "F",
+        "actualEarningResult": 0.13,
+        "estimatedEarning": 0.02171
+    },
+    {
+        "date": "2021-04-28",
+        "symbol": "F",
+        "actualEarningResult": 0.89,
+        "estimatedEarning": 0.21
+    },
+    {
+        "date": "2021-02-04",
+        "symbol": "F",
+        "actualEarningResult": 0.34,
+        "estimatedEarning": -0.07
+    },
+    {
+        "date": "2020-10-28",
+        "symbol": "F",
+        "actualEarningResult": 0.65,
+        "estimatedEarning": 0.19
+    },
+    {
+        "date": "2020-07-30",
+        "symbol": "F",
+        "actualEarningResult": -0.35,
+        "estimatedEarning": -1.25
+    },
+    {
+        "date": "2020-04-28",
+        "symbol": "F",
+        "actualEarningResult": -0.23,
+        "estimatedEarning": -0.1
+    },
+    {
+        "date": "2020-02-04",
+        "symbol": "F",
+        "actualEarningResult": 0.12,
+        "estimatedEarning": 0.17
+    },
+    {
+        "date": "2019-10-23",
+        "symbol": "F",
+        "actualEarningResult": 0.34,
+        "estimatedEarning": 0.26
+    },
+    {
+        "date": "2019-07-24",
+        "symbol": "F",
+        "actualEarningResult": 0.32,
+        "estimatedEarning": 0.3
+    },
+    {
+        "date": "2019-04-25",
+        "symbol": "F",
+        "actualEarningResult": 0.44,
+        "estimatedEarning": 0.26
+    },
+    {
+        "date": "2019-01-23",
+        "symbol": "F",
+        "actualEarningResult": 0.3,
+        "estimatedEarning": 0.31
+    },
+    {
+        "date": "2018-10-24",
+        "symbol": "F",
+        "actualEarningResult": 0.29,
+        "estimatedEarning": 0.28
+    },
+    {
+        "date": "2018-07-25",
+        "symbol": "F",
+        "actualEarningResult": 0.27,
+        "estimatedEarning": 0.31
+    },
+    {
+        "date": "2018-04-25",
+        "symbol": "F",
+        "actualEarningResult": 0.43,
+        "estimatedEarning": 0.41
+    },
+    {
+        "date": "2018-01-24",
+        "symbol": "F",
+        "actualEarningResult": 0.39,
+        "estimatedEarning": 0.42
+    },
+    {
+        "date": "2017-10-26",
+        "symbol": "F",
+        "actualEarningResult": 0.43,
+        "estimatedEarning": 0.32
+    },
+    {
+        "date": "2017-07-26",
+        "symbol": "F",
+        "actualEarningResult": 0.56,
+        "estimatedEarning": 0.43
+    },
+    {
+        "date": "2017-04-27",
+        "symbol": "F",
+        "actualEarningResult": 0.39,
+        "estimatedEarning": 0.35
+    },
+    {
+        "date": "2017-01-26",
+        "symbol": "F",
+        "actualEarningResult": 0.3,
+        "estimatedEarning": 0.32
+    },
+    {
+        "date": "2016-10-27",
+        "symbol": "F",
+        "actualEarningResult": 0.26,
+        "estimatedEarning": 0.2
+    },
+    {
+        "date": "2016-07-28",
+        "symbol": "F",
+        "actualEarningResult": 0.52,
+        "estimatedEarning": 0.6
+    },
+    {
+        "date": "2016-04-28",
+        "symbol": "F",
+        "actualEarningResult": 0.68,
+        "estimatedEarning": 0.48
+    },
+    {
+        "date": "2016-01-28",
+        "symbol": "F",
+        "actualEarningResult": 0.58,
+        "estimatedEarning": 0.51
+    },
+    {
+        "date": "2015-10-27",
+        "symbol": "F",
+        "actualEarningResult": 0.45,
+        "estimatedEarning": 0.46
+    },
+    {
+        "date": "2015-07-28",
+        "symbol": "F",
+        "actualEarningResult": 0.47,
+        "estimatedEarning": 0.37
+    },
+    {
+        "date": "2015-04-28",
+        "symbol": "F",
+        "actualEarningResult": 0.23,
+        "estimatedEarning": 0.26
+    },
+    {
+        "date": "2015-01-29",
+        "symbol": "F",
+        "actualEarningResult": 0.26,
+        "estimatedEarning": 0.22
+    },
+    {
+        "date": "2014-10-24",
+        "symbol": "F",
+        "actualEarningResult": 0.24,
+        "estimatedEarning": 0.19
+    },
+    {
+        "date": "2014-07-24",
+        "symbol": "F",
+        "actualEarningResult": 0.4,
+        "estimatedEarning": 0.36
+    },
+    {
+        "date": "2014-04-25",
+        "symbol": "F",
+        "actualEarningResult": 0.25,
+        "estimatedEarning": 0.31
+    },
+    {
+        "date": "2014-01-28",
+        "symbol": "F",
+        "actualEarningResult": 0.31,
+        "estimatedEarning": 0.28
+    },
+    {
+        "date": "2013-10-24",
+        "symbol": "F",
+        "actualEarningResult": 0.45,
+        "estimatedEarning": 0.38
+    },
+    {
+        "date": "2013-07-24",
+        "symbol": "F",
+        "actualEarningResult": 0.45,
+        "estimatedEarning": 0.37
+    },
+    {
+        "date": "2013-04-24",
+        "symbol": "F",
+        "actualEarningResult": 0.41,
+        "estimatedEarning": 0.37
+    },
+    {
+        "date": "2013-01-29",
+        "symbol": "F",
+        "actualEarningResult": 0.31,
+        "estimatedEarning": 0.25
+    },
+    {
+        "date": "2012-10-30",
+        "symbol": "F",
+        "actualEarningResult": 0.4,
+        "estimatedEarning": 0.3
+    },
+    {
+        "date": "2012-07-25",
+        "symbol": "F",
+        "actualEarningResult": 0.3,
+        "estimatedEarning": 0.28
+    },
+    {
+        "date": "2012-04-27",
+        "symbol": "F",
+        "actualEarningResult": 0.39,
+        "estimatedEarning": 0.35
+    },
+    {
+        "date": "2012-01-27",
+        "symbol": "F",
+        "actualEarningResult": 0.2,
+        "estimatedEarning": 0.25
+    },
+    {
+        "date": "2011-10-26",
+        "symbol": "F",
+        "actualEarningResult": 0.46,
+        "estimatedEarning": 0.44
+    },
+    {
+        "date": "2011-07-26",
+        "symbol": "F",
+        "actualEarningResult": 0.65,
+        "estimatedEarning": 0.6
+    },
+    {
+        "date": "2011-04-26",
+        "symbol": "F",
+        "actualEarningResult": 0.62,
+        "estimatedEarning": 0.5
+    },
+    {
+        "date": "2011-01-28",
+        "symbol": "F",
+        "actualEarningResult": 0.3,
+        "estimatedEarning": 0.48
+    },
+    {
+        "date": "2010-10-26",
+        "symbol": "F",
+        "actualEarningResult": 0.48,
+        "estimatedEarning": 0.38
+    },
+    {
+        "date": "2010-07-23",
+        "symbol": "F",
+        "actualEarningResult": 0.68,
+        "estimatedEarning": 0.4
+    },
+    {
+        "date": "2010-04-27",
+        "symbol": "F",
+        "actualEarningResult": 0.46,
+        "estimatedEarning": 0.31
+    },
+    {
+        "date": "2010-01-28",
+        "symbol": "F",
+        "actualEarningResult": 0.43,
+        "estimatedEarning": 0.26
+    },
+    {
+        "date": "2009-11-02",
+        "symbol": "F",
+        "actualEarningResult": 0.26,
+        "estimatedEarning": -0.12
+    },
+    {
+        "date": "2009-07-23",
+        "symbol": "F",
+        "actualEarningResult": -0.21,
+        "estimatedEarning": -0.48
+    },
+    {
+        "date": "2009-04-24",
+        "symbol": "F",
+        "actualEarningResult": -0.75,
+        "estimatedEarning": -1.23
+    },
+    {
+        "date": "2009-01-29",
+        "symbol": "F",
+        "actualEarningResult": -1.37,
+        "estimatedEarning": -1.3
+    },
+    {
+        "date": "2008-11-07",
+        "symbol": "F",
+        "actualEarningResult": -1.31,
+        "estimatedEarning": -0.94
+    },
+    {
+        "date": "2008-07-24",
+        "symbol": "F",
+        "actualEarningResult": -0.62,
+        "estimatedEarning": -0.27
+    },
+    {
+        "date": "2008-04-24",
+        "symbol": "F",
+        "actualEarningResult": 0.2,
+        "estimatedEarning": -0.16
+    },
+    {
+        "date": "2008-01-24",
+        "symbol": "F",
+        "actualEarningResult": -0.2,
+        "estimatedEarning": -0.19
+    },
+    {
+        "date": "2007-11-08",
+        "symbol": "F",
+        "actualEarningResult": -0.18972,
+        "estimatedEarning": -0.46
+    },
+    {
+        "date": "2007-07-26",
+        "symbol": "F",
+        "actualEarningResult": 0.13,
+        "estimatedEarning": -0.35
+    },
+    {
+        "date": "2007-04-26",
+        "symbol": "F",
+        "actualEarningResult": -0.09,
+        "estimatedEarning": -0.6
+    },
+    {
+        "date": "2007-01-25",
+        "symbol": "F",
+        "actualEarningResult": -1.1,
+        "estimatedEarning": -1.01
+    },
+    {
+        "date": "2006-10-23",
+        "symbol": "F",
+        "actualEarningResult": -0.62,
+        "estimatedEarning": -0.61
+    },
+    {
+        "date": "2006-07-20",
+        "symbol": "F",
+        "actualEarningResult": -0.03,
+        "estimatedEarning": 0.12
+    },
+    {
+        "date": "2006-04-21",
+        "symbol": "F",
+        "actualEarningResult": 0.24,
+        "estimatedEarning": 0.25
+    },
+    {
+        "date": "2006-01-23",
+        "symbol": "F",
+        "actualEarningResult": 0.26,
+        "estimatedEarning": 0.011
+    },
+    {
+        "date": "2005-10-20",
+        "symbol": "F",
+        "actualEarningResult": -0.1,
+        "estimatedEarning": -0.1
+    },
+    {
+        "date": "2005-07-19",
+        "symbol": "F",
+        "actualEarningResult": 0.47,
+        "estimatedEarning": 0.33
+    },
+    {
+        "date": "2005-04-20",
+        "symbol": "F",
+        "actualEarningResult": 0.62,
+        "estimatedEarning": 0.39
+    },
+    {
+        "date": "2005-01-20",
+        "symbol": "F",
+        "actualEarningResult": 0.28,
+        "estimatedEarning": 0.27
+    },
+    {
+        "date": "2004-10-19",
+        "symbol": "F",
+        "actualEarningResult": 0.28,
+        "estimatedEarning": 0.14
+    },
+    {
+        "date": "2004-07-20",
+        "symbol": "F",
+        "actualEarningResult": 0.61,
+        "estimatedEarning": 0.5
+    },
+    {
+        "date": "2004-04-21",
+        "symbol": "F",
+        "actualEarningResult": 0.96,
+        "estimatedEarning": 0.44
+    },
+    {
+        "date": "2004-01-22",
+        "symbol": "F",
+        "actualEarningResult": 0.31,
+        "estimatedEarning": 0.28
+    },
+    {
+        "date": "2003-10-16",
+        "symbol": "F",
+        "actualEarningResult": 0.15,
+        "estimatedEarning": -0.11
+    },
+    {
+        "date": "2003-07-16",
+        "symbol": "F",
+        "actualEarningResult": 0.22,
+        "estimatedEarning": 0.18
+    },
+    {
+        "date": "2003-04-16",
+        "symbol": "F",
+        "actualEarningResult": 0.45,
+        "estimatedEarning": 0.22
+    },
+    {
+        "date": "2003-01-21",
+        "symbol": "F",
+        "actualEarningResult": 0.08,
+        "estimatedEarning": 0.06
+    },
+    {
+        "date": "2002-10-16",
+        "symbol": "F",
+        "actualEarningResult": 0.12,
+        "estimatedEarning": 0.03562
+    },
+    {
+        "date": "2002-07-17",
+        "symbol": "F",
+        "actualEarningResult": 0.31,
+        "estimatedEarning": 0.26
+    },
+    {
+        "date": "2002-04-17",
+        "symbol": "F",
+        "actualEarningResult": -0.06,
+        "estimatedEarning": -0.15
+    },
+    {
+        "date": "2002-01-17",
+        "symbol": "F",
+        "actualEarningResult": -0.48,
+        "estimatedEarning": -0.5
+    },
+    {
+        "date": "2001-10-17",
+        "symbol": "F",
+        "actualEarningResult": -0.28,
+        "estimatedEarning": -0.27
+    },
+    {
+        "date": "2001-07-18",
+        "symbol": "F",
+        "actualEarningResult": -0.3,
+        "estimatedEarning": -0.34
+    },
+    {
+        "date": "2001-04-19",
+        "symbol": "F",
+        "actualEarningResult": 0.6,
+        "estimatedEarning": 0.53
+    },
+    {
+        "date": "2001-01-18",
+        "symbol": "F",
+        "actualEarningResult": 0.64,
+        "estimatedEarning": 0.64
+    },
+    {
+        "date": "2000-10-18",
+        "symbol": "F",
+        "actualEarningResult": 0.5,
+        "estimatedEarning": 0.49
+    },
+    {
+        "date": "2000-07-19",
+        "symbol": "F",
+        "actualEarningResult": 2.07,
+        "estimatedEarning": 2
+    },
+    {
+        "date": "2000-04-17",
+        "symbol": "F",
+        "actualEarningResult": 1.7,
+        "estimatedEarning": 1.57
+    },
+    {
+        "date": "2000-01-26",
+        "symbol": "F",
+        "actualEarningResult": 1.47,
+        "estimatedEarning": 1.45
+    },
+    {
+        "date": "1999-10-18",
+        "symbol": "F",
+        "actualEarningResult": 0.9,
+        "estimatedEarning": 0.84
+    },
+    {
+        "date": "1999-07-14",
+        "symbol": "F",
+        "actualEarningResult": 2,
+        "estimatedEarning": 1.95
+    },
+    {
+        "date": "1999-04-15",
+        "symbol": "F",
+        "actualEarningResult": 1.46,
+        "estimatedEarning": 1.41
+    },
+    {
+        "date": "1999-01-21",
+        "symbol": "F",
+        "actualEarningResult": 1.35,
+        "estimatedEarning": 1.26
+    },
+    {
+        "date": "1998-10-14",
+        "symbol": "F",
+        "actualEarningResult": 0.8,
+        "estimatedEarning": 0.79
+    },
+    {
+        "date": "1998-07-15",
+        "symbol": "F",
+        "actualEarningResult": 1.91,
+        "estimatedEarning": 1.8
+    },
+    {
+        "date": "1998-04-16",
+        "symbol": "F",
+        "actualEarningResult": 1.22,
+        "estimatedEarning": 1.34
+    },
+    {
+        "date": "1998-01-27",
+        "symbol": "F",
+        "actualEarningResult": 1.45,
+        "estimatedEarning": 1.21
+    },
+    {
+        "date": "1997-10-15",
+        "symbol": "F",
+        "actualEarningResult": 0.9,
+        "estimatedEarning": 0.84
+    },
+    {
+        "date": "1997-07-16",
+        "symbol": "F",
+        "actualEarningResult": 1.98,
+        "estimatedEarning": 1.83
+    },
+    {
+        "date": "1997-04-16",
+        "symbol": "F",
+        "actualEarningResult": 1.2,
+        "estimatedEarning": 0.86
+    },
+    {
+        "date": "1997-01-29",
+        "symbol": "F",
+        "actualEarningResult": 1.1,
+        "estimatedEarning": 0.98
+    },
+    {
+        "date": "1996-10-16",
+        "symbol": "F",
+        "actualEarningResult": 0.53,
+        "estimatedEarning": 0.52
+    },
+    {
+        "date": "1996-07-17",
+        "symbol": "F",
+        "actualEarningResult": 1.38,
+        "estimatedEarning": 1.21
+    },
+    {
+        "date": "1996-04-17",
+        "symbol": "F",
+        "actualEarningResult": 0.53,
+        "estimatedEarning": 0.34
+    },
+    {
+        "date": "1996-01-31",
+        "symbol": "F",
+        "actualEarningResult": 0.29,
+        "estimatedEarning": 0.2
+    },
+    {
+        "date": "1995-10-18",
+        "symbol": "F",
+        "actualEarningResult": 0.27,
+        "estimatedEarning": 0.26
+    },
+    {
+        "date": "1995-07-19",
+        "symbol": "F",
+        "actualEarningResult": 1.3,
+        "estimatedEarning": 1.38
+    },
+    {
+        "date": "1995-04-19",
+        "symbol": "F",
+        "actualEarningResult": 1.28,
+        "estimatedEarning": 1.42
+    },
+    {
+        "date": "1995-02-01",
+        "symbol": "F",
+        "actualEarningResult": 1.31,
+        "estimatedEarning": 1.12
+    },
+    {
+        "date": "1994-10-26",
+        "symbol": "F",
+        "actualEarningResult": 0.93,
+        "estimatedEarning": 0.68
+    },
+    {
+        "date": "1994-07-27",
+        "symbol": "F",
+        "actualEarningResult": 1.44,
+        "estimatedEarning": 1.31
+    },
+    {
+        "date": "1994-04-29",
+        "symbol": "F",
+        "actualEarningResult": 1.13,
+        "estimatedEarning": 0.99
+    },
+    {
+        "date": "1994-02-09",
+        "symbol": "F",
+        "actualEarningResult": 0.65,
+        "estimatedEarning": 0.58
+    },
+    {
+        "date": "1993-10-27",
+        "symbol": "F",
+        "actualEarningResult": 0.26,
+        "estimatedEarning": 0.06
+    },
+    {
+        "date": "1993-07-28",
+        "symbol": "F",
+        "actualEarningResult": 0.72,
+        "estimatedEarning": 0.64
+    },
+    {
+        "date": "1993-04-28",
+        "symbol": "F",
+        "actualEarningResult": 0.51,
+        "estimatedEarning": 0.29
+    },
+    {
+        "date": "1993-02-10",
+        "symbol": "F",
+        "actualEarningResult": -0.32,
+        "estimatedEarning": -0.26
+    }
+]

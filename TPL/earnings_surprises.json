@@ -1,0 +1,122 @@
+[
+    {
+        "date": "2024-11-06",
+        "symbol": "TPL",
+        "actualEarningResult": 4.63,
+        "estimatedEarning": 5.35
+    },
+    {
+        "date": "2024-08-07",
+        "symbol": "TPL",
+        "actualEarningResult": 4.98,
+        "estimatedEarning": 5.36
+    },
+    {
+        "date": "2024-05-08",
+        "symbol": "TPL",
+        "actualEarningResult": 4.97,
+        "estimatedEarning": 4.82
+    },
+    {
+        "date": "2024-02-21",
+        "symbol": "TPL",
+        "actualEarningResult": 4.91,
+        "estimatedEarning": 4.15
+    },
+    {
+        "date": "2023-11-01",
+        "symbol": "TPL",
+        "actualEarningResult": 4.58,
+        "estimatedEarning": 4.84
+    },
+    {
+        "date": "2023-08-02",
+        "symbol": "TPL",
+        "actualEarningResult": 4.35,
+        "estimatedEarning": 3.7
+    },
+    {
+        "date": "2023-05-03",
+        "symbol": "TPL",
+        "actualEarningResult": 3.75,
+        "estimatedEarning": 4.4
+    },
+    {
+        "date": "2023-02-22",
+        "symbol": "TPL",
+        "actualEarningResult": 4.31,
+        "estimatedEarning": 5.05
+    },
+    {
+        "date": "2022-11-02",
+        "symbol": "TPL",
+        "actualEarningResult": 5.61,
+        "estimatedEarning": 4.79
+    },
+    {
+        "date": "2022-08-03",
+        "symbol": "TPL",
+        "actualEarningResult": 5.12,
+        "estimatedEarning": 5.1
+    },
+    {
+        "date": "2022-05-04",
+        "symbol": "TPL",
+        "actualEarningResult": 4.21,
+        "estimatedEarning": 4.61
+    },
+    {
+        "date": "2022-02-23",
+        "symbol": "TPL",
+        "actualEarningResult": 3.4,
+        "estimatedEarning": 3.66
+    },
+    {
+        "date": "2021-11-04",
+        "symbol": "TPL",
+        "actualEarningResult": 3.61,
+        "estimatedEarning": 2.94
+    },
+    {
+        "date": "2021-08-05",
+        "symbol": "TPL",
+        "actualEarningResult": 2.45,
+        "estimatedEarning": 2.46
+    },
+    {
+        "date": "2021-05-06",
+        "symbol": "TPL",
+        "actualEarningResult": 2.15,
+        "estimatedEarning": 1.92
+    },
+    {
+        "date": "2021-02-25",
+        "symbol": "TPL",
+        "actualEarningResult": 1.92,
+        "estimatedEarning": 1.51
+    },
+    {
+        "date": "2020-11-02",
+        "symbol": "TPL",
+        "actualEarningResult": 1.99,
+        "estimatedEarning": 1.2
+    },
+    {
+        "date": "2020-07-30",
+        "symbol": "TPL",
+        "actualEarningResult": 1.19,
+        "estimatedEarning": 2.08
+    },
+    {
+        "date": "2020-04-30",
+        "symbol": "TPL",
+        "actualEarningResult": 2.47,
+        "estimatedEarning": 2.4
+    },
+    {
+        "date": "2020-01-30",
+        "symbol": "TPL",
+        "actualEarningResult": 3.07,
+        "estimatedEarning": 2.47
+    }
+]

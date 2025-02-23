@@ -1,0 +1,554 @@
+[
+    {
+        "date": "2024-12-03",
+        "symbol": "MRVL",
+        "actualEarningResult": 0.43,
+        "estimatedEarning": 0.41
+    },
+    {
+        "date": "2024-08-29",
+        "symbol": "MRVL",
+        "actualEarningResult": 0.3,
+        "estimatedEarning": 0.2936
+    },
+    {
+        "date": "2024-05-30",
+        "symbol": "MRVL",
+        "actualEarningResult": 0.24,
+        "estimatedEarning": 0.2372
+    },
+    {
+        "date": "2024-03-07",
+        "symbol": "MRVL",
+        "actualEarningResult": 0.46,
+        "estimatedEarning": 0.4619
+    },
+    {
+        "date": "2023-11-30",
+        "symbol": "MRVL",
+        "actualEarningResult": 0.41,
+        "estimatedEarning": 0.4
+    },
+    {
+        "date": "2023-08-24",
+        "symbol": "MRVL",
+        "actualEarningResult": 0.33,
+        "estimatedEarning": 0.32
+    },
+    {
+        "date": "2023-05-25",
+        "symbol": "MRVL",
+        "actualEarningResult": 0.31,
+        "estimatedEarning": 0.29
+    },
+    {
+        "date": "2023-03-02",
+        "symbol": "MRVL",
+        "actualEarningResult": 0.46,
+        "estimatedEarning": 0.46
+    },
+    {
+        "date": "2022-12-01",
+        "symbol": "MRVL",
+        "actualEarningResult": 0.57,
+        "estimatedEarning": 0.59
+    },
+    {
+        "date": "2022-08-25",
+        "symbol": "MRVL",
+        "actualEarningResult": 0.57,
+        "estimatedEarning": 0.56
+    },
+    {
+        "date": "2022-05-26",
+        "symbol": "MRVL",
+        "actualEarningResult": 0.52,
+        "estimatedEarning": 0.51
+    },
+    {
+        "date": "2022-03-03",
+        "symbol": "MRVL",
+        "actualEarningResult": 0.5,
+        "estimatedEarning": 0.48
+    },
+    {
+        "date": "2021-12-02",
+        "symbol": "MRVL",
+        "actualEarningResult": 0.43,
+        "estimatedEarning": 0.38
+    },
+    {
+        "date": "2021-08-26",
+        "symbol": "MRVL",
+        "actualEarningResult": 0.34,
+        "estimatedEarning": 0.31
+    },
+    {
+        "date": "2021-06-07",
+        "symbol": "MRVL",
+        "actualEarningResult": 0.29,
+        "estimatedEarning": 0.27
+    },
+    {
+        "date": "2021-03-03",
+        "symbol": "MRVL",
+        "actualEarningResult": 0.29,
+        "estimatedEarning": 0.29
+    },
+    {
+        "date": "2020-12-03",
+        "symbol": "MRVL",
+        "actualEarningResult": 0.25,
+        "estimatedEarning": 0.25
+    },
+    {
+        "date": "2020-08-27",
+        "symbol": "MRVL",
+        "actualEarningResult": 0.21,
+        "estimatedEarning": 0.2
+    },
+    {
+        "date": "2020-05-28",
+        "symbol": "MRVL",
+        "actualEarningResult": 0.18,
+        "estimatedEarning": 0.14
+    },
+    {
+        "date": "2020-03-04",
+        "symbol": "MRVL",
+        "actualEarningResult": 0.17,
+        "estimatedEarning": 0.16
+    },
+    {
+        "date": "2019-12-03",
+        "symbol": "MRVL",
+        "actualEarningResult": 0.17,
+        "estimatedEarning": 0.17
+    },
+    {
+        "date": "2019-08-29",
+        "symbol": "MRVL",
+        "actualEarningResult": 0.16,
+        "estimatedEarning": 0.15
+    },
+    {
+        "date": "2019-05-30",
+        "symbol": "MRVL",
+        "actualEarningResult": 0.16,
+        "estimatedEarning": 0.15
+    },
+    {
+        "date": "2019-03-07",
+        "symbol": "MRVL",
+        "actualEarningResult": 0.25,
+        "estimatedEarning": 0.26
+    },
+    {
+        "date": "2018-12-04",
+        "symbol": "MRVL",
+        "actualEarningResult": 0.33,
+        "estimatedEarning": 0.32
+    },
+    {
+        "date": "2018-09-06",
+        "symbol": "MRVL",
+        "actualEarningResult": 0.28,
+        "estimatedEarning": 0.34
+    },
+    {
+        "date": "2018-05-31",
+        "symbol": "MRVL",
+        "actualEarningResult": 0.32,
+        "estimatedEarning": 0.31
+    },
+    {
+        "date": "2018-03-08",
+        "symbol": "MRVL",
+        "actualEarningResult": 0.32,
+        "estimatedEarning": 0.31
+    },
+    {
+        "date": "2017-11-28",
+        "symbol": "MRVL",
+        "actualEarningResult": 0.34,
+        "estimatedEarning": 0.33
+    },
+    {
+        "date": "2017-08-24",
+        "symbol": "MRVL",
+        "actualEarningResult": 0.3,
+        "estimatedEarning": 0.28
+    },
+    {
+        "date": "2017-05-25",
+        "symbol": "MRVL",
+        "actualEarningResult": 0.24,
+        "estimatedEarning": 0.21
+    },
+    {
+        "date": "2017-03-02",
+        "symbol": "MRVL",
+        "actualEarningResult": 0.22,
+        "estimatedEarning": 0.19
+    },
+    {
+        "date": "2016-11-17",
+        "symbol": "MRVL",
+        "actualEarningResult": 0.2,
+        "estimatedEarning": 0.12
+    },
+    {
+        "date": "2016-09-06",
+        "symbol": "MRVL",
+        "actualEarningResult": 0.18,
+        "estimatedEarning": 0.11
+    },
+    {
+        "date": "2015-12-07",
+        "symbol": "MRVL",
+        "actualEarningResult": 0.05,
+        "estimatedEarning": 0.13
+    },
+    {
+        "date": "2015-09-11",
+        "symbol": "MRVL",
+        "actualEarningResult": -0.74,
+        "estimatedEarning": 0.11
+    },
+    {
+        "date": "2015-05-21",
+        "symbol": "MRVL",
+        "actualEarningResult": 0.13,
+        "estimatedEarning": 0.12
+    },
+    {
+        "date": "2015-02-19",
+        "symbol": "MRVL",
+        "actualEarningResult": 0.25,
+        "estimatedEarning": 0.24
+    },
+    {
+        "date": "2014-11-20",
+        "symbol": "MRVL",
+        "actualEarningResult": 0.29,
+        "estimatedEarning": 0.29
+    },
+    {
+        "date": "2014-08-21",
+        "symbol": "MRVL",
+        "actualEarningResult": 0.34,
+        "estimatedEarning": 0.28
+    },
+    {
+        "date": "2014-05-22",
+        "symbol": "MRVL",
+        "actualEarningResult": 0.27,
+        "estimatedEarning": 0.22
+    },
+    {
+        "date": "2014-02-20",
+        "symbol": "MRVL",
+        "actualEarningResult": 0.29,
+        "estimatedEarning": 0.25
+    },
+    {
+        "date": "2013-11-21",
+        "symbol": "MRVL",
+        "actualEarningResult": 0.32,
+        "estimatedEarning": 0.25
+    },
+    {
+        "date": "2013-08-22",
+        "symbol": "MRVL",
+        "actualEarningResult": 0.23,
+        "estimatedEarning": 0.19
+    },
+    {
+        "date": "2013-05-23",
+        "symbol": "MRVL",
+        "actualEarningResult": 0.19,
+        "estimatedEarning": 0.14
+    },
+    {
+        "date": "2013-02-21",
+        "symbol": "MRVL",
+        "actualEarningResult": 0.19,
+        "estimatedEarning": 0.13
+    },
+    {
+        "date": "2012-11-15",
+        "symbol": "MRVL",
+        "actualEarningResult": 0.2,
+        "estimatedEarning": 0.2
+    },
+    {
+        "date": "2012-08-16",
+        "symbol": "MRVL",
+        "actualEarningResult": 0.24,
+        "estimatedEarning": 0.26
+    },
+    {
+        "date": "2012-05-17",
+        "symbol": "MRVL",
+        "actualEarningResult": 0.23,
+        "estimatedEarning": 0.2
+    },
+    {
+        "date": "2012-02-23",
+        "symbol": "MRVL",
+        "actualEarningResult": 0.21,
+        "estimatedEarning": 0.17
+    },
+    {
+        "date": "2011-11-17",
+        "symbol": "MRVL",
+        "actualEarningResult": 0.4,
+        "estimatedEarning": 0.39
+    },
+    {
+        "date": "2011-08-18",
+        "symbol": "MRVL",
+        "actualEarningResult": 0.38,
+        "estimatedEarning": 0.37
+    },
+    {
+        "date": "2011-05-26",
+        "symbol": "MRVL",
+        "actualEarningResult": 0.29,
+        "estimatedEarning": 0.3
+    },
+    {
+        "date": "2011-03-03",
+        "symbol": "MRVL",
+        "actualEarningResult": 0.4,
+        "estimatedEarning": 0.42
+    },
+    {
+        "date": "2010-11-18",
+        "symbol": "MRVL",
+        "actualEarningResult": 0.45,
+        "estimatedEarning": 0.43
+    },
+    {
+        "date": "2010-08-19",
+        "symbol": "MRVL",
+        "actualEarningResult": 0.4,
+        "estimatedEarning": 0.39
+    },
+    {
+        "date": "2010-05-20",
+        "symbol": "MRVL",
+        "actualEarningResult": 0.38,
+        "estimatedEarning": 0.37
+    },
+    {
+        "date": "2010-03-04",
+        "symbol": "MRVL",
+        "actualEarningResult": 0.4,
+        "estimatedEarning": 0.37
+    },
+    {
+        "date": "2009-12-03",
+        "symbol": "MRVL",
+        "actualEarningResult": 0.35,
+        "estimatedEarning": 0.27
+    },
+    {
+        "date": "2009-08-27",
+        "symbol": "MRVL",
+        "actualEarningResult": 0.18,
+        "estimatedEarning": 0.14
+    },
+    {
+        "date": "2009-05-28",
+        "symbol": "MRVL",
+        "actualEarningResult": 0.05,
+        "estimatedEarning": 0.05
+    },
+    {
+        "date": "2009-03-05",
+        "symbol": "MRVL",
+        "actualEarningResult": 0.05,
+        "estimatedEarning": 0.01191
+    },
+    {
+        "date": "2008-12-02",
+        "symbol": "MRVL",
+        "actualEarningResult": 0.23,
+        "estimatedEarning": 0.21
+    },
+    {
+        "date": "2008-08-28",
+        "symbol": "MRVL",
+        "actualEarningResult": 0.24,
+        "estimatedEarning": 0.21
+    },
+    {
+        "date": "2008-05-29",
+        "symbol": "MRVL",
+        "actualEarningResult": 0.24,
+        "estimatedEarning": 0.13
+    },
+    {
+        "date": "2008-03-06",
+        "symbol": "MRVL",
+        "actualEarningResult": 0.2,
+        "estimatedEarning": 0.11
+    },
+    {
+        "date": "2007-11-27",
+        "symbol": "MRVL",
+        "actualEarningResult": 0.14,
+        "estimatedEarning": 0.08
+    },
+    {
+        "date": "2007-08-23",
+        "symbol": "MRVL",
+        "actualEarningResult": 0.06,
+        "estimatedEarning": 0.06
+    },
+    {
+        "date": "2007-07-02",
+        "symbol": "MRVL",
+        "actualEarningResult": 0.03,
+        "estimatedEarning": 0.07
+    },
+    {
+        "date": "2006-05-18",
+        "symbol": "MRVL",
+        "actualEarningResult": 0.21,
+        "estimatedEarning": 0.21
+    },
+    {
+        "date": "2006-02-23",
+        "symbol": "MRVL",
+        "actualEarningResult": 0.21,
+        "estimatedEarning": 0.2
+    },
+    {
+        "date": "2005-11-17",
+        "symbol": "MRVL",
+        "actualEarningResult": 0.18,
+        "estimatedEarning": 0.17
+    },
+    {
+        "date": "2005-08-18",
+        "symbol": "MRVL",
+        "actualEarningResult": 0.16,
+        "estimatedEarning": 0.14
+    },
+    {
+        "date": "2005-05-19",
+        "symbol": "MRVL",
+        "actualEarningResult": 0.14,
+        "estimatedEarning": 0.13
+    },
+    {
+        "date": "2005-02-24",
+        "symbol": "MRVL",
+        "actualEarningResult": 0.12,
+        "estimatedEarning": 0.12
+    },
+    {
+        "date": "2004-11-18",
+        "symbol": "MRVL",
+        "actualEarningResult": 0.11,
+        "estimatedEarning": 0.11
+    },
+    {
+        "date": "2004-08-19",
+        "symbol": "MRVL",
+        "actualEarningResult": 0.1,
+        "estimatedEarning": 0.09
+    },
+    {
+        "date": "2004-05-20",
+        "symbol": "MRVL",
+        "actualEarningResult": 0.09,
+        "estimatedEarning": 0.08
+    },
+    {
+        "date": "2004-02-26",
+        "symbol": "MRVL",
+        "actualEarningResult": 0.07,
+        "estimatedEarning": 0.07
+    },
+    {
+        "date": "2003-11-19",
+        "symbol": "MRVL",
+        "actualEarningResult": 0.06,
+        "estimatedEarning": 0.06
+    },
+    {
+        "date": "2003-08-21",
+        "symbol": "MRVL",
+        "actualEarningResult": 0.06,
+        "estimatedEarning": 0.05
+    },
+    {
+        "date": "2003-05-22",
+        "symbol": "MRVL",
+        "actualEarningResult": 0.05,
+        "estimatedEarning": 0.04474
+    },
+    {
+        "date": "2003-02-27",
+        "symbol": "MRVL",
+        "actualEarningResult": 0.04,
+        "estimatedEarning": 0.04063
+    },
+    {
+        "date": "2002-11-21",
+        "symbol": "MRVL",
+        "actualEarningResult": 0.04,
+        "estimatedEarning": 0.03735
+    },
+    {
+        "date": "2002-08-22",
+        "symbol": "MRVL",
+        "actualEarningResult": 0.03,
+        "estimatedEarning": 0.02496
+    },
+    {
+        "date": "2002-05-23",
+        "symbol": "MRVL",
+        "actualEarningResult": 0.02,
+        "estimatedEarning": 0.01773
+    },
+    {
+        "date": "2002-02-28",
+        "symbol": "MRVL",
+        "actualEarningResult": 0.02,
+        "estimatedEarning": 0.01667
+    },
+    {
+        "date": "2001-11-15",
+        "symbol": "MRVL",
+        "actualEarningResult": -0.22895,
+        "estimatedEarning": 0.01
+    },
+    {
+        "date": "2001-08-16",
+        "symbol": "MRVL",
+        "actualEarningResult": -0.23128,
+        "estimatedEarning": -0.21586
+    },
+    {
+        "date": "2001-05-17",
+        "symbol": "MRVL",
+        "actualEarningResult": -0.23322,
+        "estimatedEarning": -0.18833
+    },
+    {
+        "date": "2001-02-22",
+        "symbol": "MRVL",
+        "actualEarningResult": -0.90407,
+        "estimatedEarning": 0.01
+    },
+    {
+        "date": "2000-11-16",
+        "symbol": "MRVL",
+        "actualEarningResult": 0.00463,
+        "estimatedEarning": 0.00347
+    }
+]

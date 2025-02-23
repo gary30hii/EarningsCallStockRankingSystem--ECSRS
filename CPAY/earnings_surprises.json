@@ -1,0 +1,26 @@
+[
+    {
+        "date": "2024-11-07",
+        "symbol": "CPAY",
+        "actualEarningResult": 5,
+        "estimatedEarning": 4.97
+    },
+    {
+        "date": "2024-08-07",
+        "symbol": "CPAY",
+        "actualEarningResult": 4.55,
+        "estimatedEarning": 4.51
+    },
+    {
+        "date": "2024-05-08",
+        "symbol": "CPAY",
+        "actualEarningResult": 4.1,
+        "estimatedEarning": 4.09
+    },
+    {
+        "date": "2024-03-04",
+        "symbol": "CPAY",
+        "actualEarningResult": 4.44,
+        "estimatedEarning": 4.48
+    }
+]
