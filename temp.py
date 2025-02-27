@@ -2,9 +2,8 @@ import os
 import json
 import pandas as pd
 import multiprocessing
-import ollama
-import re
-import textwrap
+import torch
+from transformers import pipeline
 
 # Disable Hugging Face tokenizers parallelism to avoid multiprocessing conflicts
 os.environ["TOKENIZERS_PARALLELISM"] = "false"
@@ -12,74 +11,61 @@ os.environ["TOKENIZERS_PARALLELISM"] = "false"
 # Set multiprocessing start method for macOS
 multiprocessing.set_start_method("spawn", force=True)
 
-# Model name (Ensure it’s correct)
-MODEL_NAME = "llama3.2:latest"  # Update this if necessary
+# Check if MPS (Metal Performance Shaders) is available for acceleration
+device = "mps" if torch.backends.mps.is_available() else "cpu"
+
+# Load FinBERT sentiment analysis pipeline with MPS acceleration
+pipe = pipeline(
+    "text-classification", model="ProsusAI/finbert", device=0 if device == "mps" else -1
+)
 
 
-def analyze_sentiment(text, max_words=500):
-    """
-    Analyzes the sentiment of a given text using Ollama's LLaMA model.
+def split_text(text, chunk_size=250, overlap=50):
+    """Splits long text into overlapping chunks to fit FinBERT's token limit."""
+    words = text.split()
+    chunks = []
+    for i in range(0, len(words), chunk_size - overlap):
+        chunks.append(" ".join(words[i : i + chunk_size]))
+    return chunks
 
-    Args:
-        text (str): The input text to analyze.
-        max_words (int): Maximum words per chunk before splitting (default: 50).
 
-    Returns:
-        tuple: (overall_sentiment, total_words)
-               - overall_sentiment (float): Average sentiment score (-1 to 1).
-               - total_words (int): Total word count of the input text.
-    """
+def get_sentiment_score(text):
+    """Return the sentiment score (-1 to 1) using ProsusAI/FinBERT, handling long text."""
+    chunks = split_text(text)  # Get chunks
+    total_words = len(text.split())  # Original total word count
+    sentiment_scores = []
 
-    if not text.strip():
-        return 0.0, 0
-
-    def get_sentiment_score(chunk):
-        """Gets the sentiment score for a text chunk."""
-        prompt = f"""
-        Analyze the tone of management in the following earnings call statement and return a score between -1.0 (very negative) and 1.0 (very positive).
-
-        Scoring Guide:
-        - Positive (0.5 to 1.0): Confident, optimistic, strong leadership, clear vision.
-        - Neutral (-0.4 to 0.4): Balanced, factual, cautious, diplomatic.
-        - Negative (-1.0 to -0.5): Uncertain, hesitant, defensive, concerned.
-
-        Focus on language and tone, not financial numbers.
-
-        Text:
-        {chunk}
-
-        Tone Score (only a number):
-        """
-
+    for i, chunk in enumerate(chunks):
         try:
-            response = ollama.chat(
-                model=MODEL_NAME, messages=[{"role": "user", "content": prompt}]
+            if len(chunk.split()) > 512:
+                chunk = " ".join(
+                    chunk.split()[:512]
+                )  # Ensure chunk does not exceed model limit
+            result = pipe(chunk)[0]  # Run chunk through FinBERT model
+            label = result["label"]
+            score = result["score"]
+            word_count = len(chunk.split())
+
+            if label == "positive":
+                sentiment_scores.append(score * word_count)
+            elif label == "negative":
+                sentiment_scores.append(-score * word_count)
+            else:
+                sentiment_scores.append(0)
+
+            print(
+                f"Chunk {i+1}: Score: {score:.4f}, Words: {word_count}, Label: {label}"
             )
-            score_text = response["message"]["content"].strip()
-            match = re.search(r"-?\d+(?:\.\d+)?", score_text)
-            return float(match.group()) if match else 0.0
         except Exception as e:
-            print(f"Error: {e}")
-            return 0.0  # Default to neutral if API fails
+            print(f"Error processing chunk {i+1}: {e}")
 
-    def split_text(text, max_words=500):
-        """Splits text into smaller chunks while retaining sentence structure."""
-        words = text.split()
-        return textwrap.wrap(" ".join(words), width=max_words)
+    if total_words == 0:
+        return 0, total_words  # Avoid division by zero
 
-    # Step 1: Split text into smaller chunks
-    text_chunks = split_text(text, max_words=max_words)
-
-    # Step 2: Analyze sentiment for each chunk
-    sentiment_scores = [get_sentiment_score(chunk) for chunk in text_chunks]
-
-    # Step 3: Compute the overall sentiment score
     overall_sentiment = (
-        sum(sentiment_scores) / len(sentiment_scores) if sentiment_scores else 0.0
-    )
-    total_words = len(text.split())
-
-    return overall_sentiment, total_words  # Return as a tuple
+        sum(sentiment_scores) / total_words
+    )  # Weighted average sentiment
+    return overall_sentiment, total_words
 
 
 def analyze_weighted_sentiment(json_data):
@@ -99,7 +85,7 @@ def analyze_weighted_sentiment(json_data):
                 speaker_name = speaker_data.get("name", key)
                 text = speaker_data["content"]
                 print(f"\nProcessing {speaker_name} on {date}...")
-                score, word_count = analyze_sentiment(text)
+                score, word_count = get_sentiment_score(text)
 
                 # Store detailed results for each speaker
                 detailed_results.append(
@@ -127,23 +113,16 @@ def analyze_weighted_sentiment(json_data):
     return sentiment_df
 
 
-def process_car_after_earnings(folder_path, sentiment_df, processed_files_count):
-    """Merge sentiment scores into CAR_after_earnings.csv and count processed files."""
+def process_car_after_earnings(folder_path, sentiment_df):
+    """Merge sentiment scores into CAR_after_earnings.csv and save the updated file."""
     car_file_path = os.path.join(folder_path, "CAR_after_earnings.csv")
 
     if os.path.exists(car_file_path):
         car_df = pd.read_csv(car_file_path)
 
-        # Check if 'method_3' column already exists
-        if "method_3" in car_df.columns:
-            print(
-                f"Skipping sentiment analysis for {car_file_path} as 'method_3' already exists."
-            )
-            return processed_files_count + 1
-
         if "Earnings_Call_Date" not in car_df.columns:
             print(f"Error: 'Earnings_Call_Date' column not found in {car_file_path}")
-            return processed_files_count
+            return
 
         car_df["Earnings_Call_Date"] = pd.to_datetime(
             car_df["Earnings_Call_Date"]
@@ -163,64 +142,28 @@ def process_car_after_earnings(folder_path, sentiment_df, processed_files_count)
         )
 
         merged_df.drop(columns=["date"], inplace=True)
-        merged_df.rename(columns={"overall_sentiment_score": "method_3"}, inplace=True)
+        merged_df.rename(columns={"overall_sentiment_score": "method_2"}, inplace=True)
 
         merged_df.to_csv(car_file_path, index=False)
         print(f"Updated {car_file_path} with sentiment scores.")
-
-        # Increment the count of processed files
-        return processed_files_count + 1
     else:
         print(f"No CAR_after_earnings.csv found in {folder_path}")
-        return processed_files_count
 
 
 def load_json_files_from_subdirectories():
     """Find and process earnings_transcripts_2020_2024.json in each subdirectory."""
     current_directory = os.getcwd()
-    processed_files_count = 0  # Tracks total processed files
-    already_has_method_3_count = 0  # Tracks files that already had 'method_3'
-    newly_added_method_3_count = 0  # Tracks files where 'method_3' was added
-
     for subdir in os.listdir(current_directory):
         subdir_path = os.path.join(current_directory, subdir)
         json_file_path = os.path.join(
             subdir_path, "earnings_transcripts_2020_2024.json"
         )
-        car_file_path = os.path.join(subdir_path, "CAR_after_earnings.csv")
 
         if os.path.isdir(subdir_path) and os.path.exists(json_file_path):
-            # First check if CAR_after_earnings.csv exists
-            if not os.path.exists(car_file_path):
-                print(f"Skipping {subdir}: No CAR_after_earnings.csv found.")
-                continue  # Skip to the next directory
-
-            # Read CAR_after_earnings.csv to check if 'method_3' already exists
-            car_df = pd.read_csv(car_file_path)
-            if "method_3" in car_df.columns:
-                print(f"Skipping {car_file_path}: 'method_3' already exists.")
-                already_has_method_3_count += 1  # Count it as processed
-                processed_files_count += 1
-                continue  # Skip further processing
-
-            # If 'method_3' is not present, analyze and add sentiment scores
             with open(json_file_path, "r", encoding="utf-8") as file:
                 data = json.load(file)
                 sentiment_results = analyze_weighted_sentiment(data)
-                process_car_after_earnings(subdir_path, sentiment_results, 0)
-
-                newly_added_method_3_count += 1
-                processed_files_count += 1
-
-            # Print summary of processed files
-            print("\nSummary of processed files:")
-            print(f" - Total files processed: {processed_files_count}")
-            print(
-                f" - Files where 'method_3' was already present: {already_has_method_3_count}"
-            )
-            print(
-                f" - Files where 'method_3' was newly added: {newly_added_method_3_count}"
-            )
+                process_car_after_earnings(subdir_path, sentiment_results)
 
 
 if __name__ == "__main__":
