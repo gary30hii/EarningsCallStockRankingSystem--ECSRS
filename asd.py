@@ -1,173 +1,124 @@
 import os
 import json
-import re
-import unicodedata
+import pandas as pd
+import multiprocessing
+import torch
+from transformers import pipeline
+
+# Disable Hugging Face tokenizers parallelism to avoid multiprocessing conflicts
+os.environ["TOKENIZERS_PARALLELISM"] = "false"
+
+# Set multiprocessing start method for macOS
+multiprocessing.set_start_method("spawn", force=True)
+
+# Check if MPS (Metal Performance Shaders) is available for acceleration
+device = "mps" if torch.backends.mps.is_available() else "cpu"
+
+# Load FinBERT sentiment analysis pipeline with MPS acceleration
+pipe = pipeline(
+    "text-classification", model="ProsusAI/finbert", device=0 if device == "mps" else -1
+)
 
 
-# Function to normalize speaker names
-def normalize_speaker_name(name):
-    """Normalize speaker names: lowercase, remove extra spaces, allow underscores."""
-    name = name.lower().strip()
-    name = re.sub(r"\s+", "_", name)  # Replace spaces with underscores
-    return re.sub(
-        r"[^a-z0-9_]", "", name
-    )  # Remove non-alphanumeric characters except underscores
+def split_text(text, chunk_size=250, overlap=50):
+    """Splits long text into overlapping chunks to fit FinBERT's token limit."""
+    words = text.split()
+    chunks = []
+    for i in range(0, len(words), chunk_size - overlap):
+        chunks.append(" ".join(words[i : i + chunk_size]))
+    return chunks
 
 
-# Preprocess transcript to normalize speaker formatting
-def preprocess_transcript(transcript):
-    # Convert Unicode escape sequences to proper characters
-    transcript = unicodedata.normalize("NFKC", transcript)
+def get_sentiment_score(text):
+    """Return the sentiment score (-1 to 1) using ProsusAI/FinBERT, handling long text."""
+    chunks = split_text(text)  # Get chunks
+    total_words = len(text.split())  # Original total word count
+    sentiment_scores = []
 
-    # Replace curly apostrophes with standard ones
-    transcript = transcript.replace("\u2019", "'")
+    for i, chunk in enumerate(chunks):
+        try:
+            if len(chunk.split()) > 512:
+                chunk = " ".join(
+                    chunk.split()[:512]
+                )  # Ensure chunk does not exceed model limit
+            result = pipe(chunk)[0]  # Run chunk through FinBERT model
+            label = result["label"]
+            score = result["score"]
+            word_count = len(chunk.split())
 
-    # Normalize cases where there is a newline and a space before ":"
-    transcript = re.sub(r"([\w\s.,;&'\\-]+)\s:\s", r"\1:", transcript)
+            if label == "positive":
+                sentiment_scores.append(score * word_count)
+            elif label == "negative":
+                sentiment_scores.append(-score * word_count)
+            else:
+                sentiment_scores.append(0)
 
-    # Ensure lines with "\n" followed by ":" within 30 characters are normalized
-    transcript = re.sub(r"([\w\s.,;&'-]{0,30})\n\s*:", r"\1:", transcript)
-
-    return transcript
-
-
-# Function to display the first 3 conversations from a transcript
-def display_first_three_conversations(transcript):
-    """Extract and display the first 3 speaker-dialogue pairs."""
-    conversations = re.findall(
-        r"([A-Za-zÀ-ÖØ-öø-ÿ.,;&'-]+(?: [A-Za-zÀ-ÖØ-öø-ÿ.,;&'-]+)*):\s*(.*?)(?=\n[A-Za-zÀ-ÖØ-öø-ÿ.,;&'-]+(?: [A-Za-zÀ-ÖØ-öø-ÿ.,;&'-]+)*:|\Z)",
-        transcript,
-        re.DOTALL,
-    )
-    print("First 3 Conversations:")
-    for i, (speaker, content) in enumerate(conversations[:3], start=1):
-        truncated_content = content.strip()[:2000]  # Limit content display
-        print(
-            f"{i}. {speaker}: {truncated_content}{'...' if len(content.strip()) > 2000 else ''}"
-        )
-    print("-" * 40)
-
-
-# Function to group transcript by speaker
-def group_transcript_by_speaker(transcript):
-    """Organize transcript content by speaker."""
-    speaker_dialogues = re.findall(
-        r"([A-Za-zÀ-ÖØ-öø-ÿ.,;&'-]+(?: [A-Za-zÀ-ÖØ-öø-ÿ.,;&'-]+)*):\s*(.*?)(?=\n[A-Za-zÀ-ÖØ-öø-ÿ.,;&'-]+(?: [A-Za-zÀ-ÖØ-öø-ÿ.,;&'-]+)*:|\Z)",
-        transcript,
-        re.DOTALL,
-    )
-    grouped_content = {}
-    speaker_original_names = {}
-    for speaker, content in speaker_dialogues:
-        normalized_name = normalize_speaker_name(speaker)
-        if normalized_name not in grouped_content:
-            grouped_content[normalized_name] = []
-            speaker_original_names[normalized_name] = speaker
-        grouped_content[normalized_name].append(content.strip())
-    return grouped_content, speaker_original_names
-
-
-# Function to parse user input for speaker selection
-def parse_speaker_selection(input_str, num_speakers):
-    """Parse user input allowing selection by number, range (1-3), or 'all'."""
-    if input_str.strip().lower() == "all":
-        return list(range(1, num_speakers + 1))
-    selected_indices = set()
-    for part in input_str.split(","):
-        part = part.strip()
-        if "-" in part:
-            start, end = map(int, part.split("-"))
-            selected_indices.update(range(start, end + 1))
-        elif part.isdigit():
-            selected_indices.add(int(part))
-    return sorted(i for i in selected_indices if 1 <= i <= num_speakers)
-
-
-# Function to print selected speakers' content
-def print_selected_speakers(grouped_content, speaker_original_names, selected_speakers):
-    """Display and return content of selected speakers."""
-    normalized_selected_speakers = {
-        normalize_speaker_name(speaker) for speaker in selected_speakers
-    }
-    print("\nSelected Speakers' Content:")
-    selected_data = {}
-    for index, normalized_name in enumerate(normalized_selected_speakers, start=1):
-        if normalized_name in grouped_content:
-            original_name = speaker_original_names[normalized_name]
-            selected_data[f"speaker{index}"] = {
-                "name": original_name,
-                "content": " ".join(grouped_content[normalized_name]),
-            }
             print(
-                f"Speaker: {original_name}\nContent:\n{' '.join(grouped_content[normalized_name])}\n{'-' * 40}"
+                f"Chunk {i+1}: Score: {score:.4f}, Words: {word_count}, Label: {label}"
             )
-    return selected_data
+        except Exception as e:
+            print(f"Error processing chunk {i+1}: {e}")
+
+    if total_words == 0:
+        return 0, total_words  # Avoid division by zero
+
+    overall_sentiment = (
+        sum(sentiment_scores) / total_words
+    )  # Weighted average sentiment
+    return overall_sentiment, total_words
 
 
-# Main function to process the JSON
-def process_transcripts():
-    """Main script to process earnings call transcripts from a JSON file."""
-    folder_path = input("Enter the folder path containing the JSON file: ").strip()
-    json_file_path = os.path.join(folder_path, "earnings_transcripts_2020_2024.json")
+def get_weighted_sentiment(speakers):
+    """Computes the overall weighted sentiment score from multiple speakers."""
+    total_words = 0
+    weighted_score_sum = 0
 
-    # Check if file exists
-    if not os.path.exists(json_file_path):
-        print(f"Error: The file '{json_file_path}' does not exist.")
-        return
+    for speaker_key, speaker_data in speakers.items():
+        speaker_name = speaker_data.get("name", speaker_key)
+        text = speaker_data["content"]
 
-    # Load JSON file
-    with open(json_file_path, "r", encoding="utf-8") as file:
-        data = json.load(file)
+        print(f"\nProcessing {speaker_name}...")
 
-    # Process each transcript in the JSON
-    for index, entry in enumerate(data, start=1):
-        print(
-            f"Processing Entry {index} - {entry.get('symbol', f'Entry-{index}')} {entry.get('quarter', 'Q?')} {entry.get('year', 'Unknown Year')}"
-        )
-        transcript = entry.get("content", "")
+        score, word_count = get_sentiment_score(text)
 
-        if transcript.strip():
-            # Preprocess transcript
-            transcript = preprocess_transcript(transcript)
+        # Accumulate total words and weighted score sum
+        total_words += word_count
+        weighted_score_sum += score * word_count
 
-            # Display first three conversations
-            display_first_three_conversations(transcript)
+    # Compute final weighted sentiment score for the entire dataset
+    if total_words > 0:
+        return weighted_score_sum / total_words
 
-            # Group transcript by speaker
-            grouped_content, speaker_original_names = group_transcript_by_speaker(
-                transcript
-            )
-
-            # Display available speakers
-            unique_speakers = [
-                speaker_original_names[name] for name in grouped_content.keys()
-            ]
-            print("Available speakers:")
-            for i, speaker in enumerate(unique_speakers, start=1):
-                print(f"{i}. {speaker}")
-
-            # Ask user to select speakers
-            selected_indices = parse_speaker_selection(
-                input("Enter speaker numbers (e.g., 1,3-5,all): "), len(unique_speakers)
-            )
-            selected_speakers = [unique_speakers[i - 1] for i in selected_indices]
-
-            # Save selected speakers' content
-            selected_data = print_selected_speakers(
-                grouped_content, speaker_original_names, selected_speakers
-            )
-            entry.update(selected_data)
-        else:
-            print(f"Skipping Entry {index}: No transcript available.")
-        print("\n" + "=" * 60 + "\n")
-
-    # Save updated JSON to a new file
-    output_file = os.path.join(folder_path, "earnings_transcripts_2020_2024.json")
-    with open(output_file, "w", encoding="utf-8") as file:
-        json.dump(data, file, indent=4, ensure_ascii=False)
-    print(f"Processed JSON saved to {output_file}")
+    return None  # If no valid data
 
 
-# Run the program
 if __name__ == "__main__":
-    process_transcripts()
+    # Sample input formatted with speaker keys
+    data = {
+        "speaker1": {
+            "name": "John Doe",
+            "content": "We had a weak quarter.",
+        },
+        "speaker2": {
+            "name": "Jane Smith",
+            "content": "Our financials remain stable despite challenges.",
+        },
+        "speaker3": {
+            "name": "Alice Johnson",
+            "content": "Market conditions were tough, but we adapted.",
+        },
+    }
+
+    overall_score = get_weighted_sentiment(data)
+    print(
+        f"Overall Weighted Sentiment Score: {overall_score:.4f}"
+        if overall_score is not None
+        else "No valid sentiment data."
+    )
+
+
+def calculate_earnings_surprise(actual, estimated):
+    """Calculate earnings surprise percentage."""
+    if estimated == 0:
+        return None  # Avoid division by zero
+    return (actual - estimated) / estimated
