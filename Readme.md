@@ -131,6 +131,6 @@ The following metrics are used throughout the project:
 If using or referencing this system, please cite:
 
 ```
-Gary Hii Ngo Cheong. (2025). A Multi-Factor Machine Learning Model for Post-Earnings Stock Performance Ranking. University of Nottingham Malaysia. BSc Final Year Dissertation.
+Gary Hii Ngo Cheong. (2025). Earnings Call Stock Ranking System (ECSRS): A Semi-Supervised Multi-Factor Learning Framework for Post-Earnings Stock Performance Prediction. University of Nottingham Malaysia. BSc Final Year Dissertation.
 ```
 
