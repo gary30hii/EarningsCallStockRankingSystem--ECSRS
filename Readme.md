@@ -1,0 +1,136 @@
+# Earnings Call Stock Ranking System (ECSRS)
+
+## 1. Project Overview
+
+This repository implements the Earnings Call Stock Ranking System (ECSRS), a multi-factor machine learning model that predicts post-earnings stock performance. It integrates sentiment analysis of earnings calls with earnings surprises and firm size to capture the Post-Earnings Announcement Drift (PEAD) phenomenon. The system uses a semi-supervised clustering strategy for label generation and trains a Random Forest classifier to categorize earnings events as Bullish, Neutral, or Bearish. A Streamlit-based web application allows users to interact with the system through an intuitive interface.
+
+## 2. System Architecture
+
+The ECSRS pipeline consists of the following components:
+
+1. **Data Collection & Preprocessing**
+2. **Sentiment Analysis (FinBERT)**
+3. **Cumulative Abnormal Return (CAR) Computation**
+4. **Unsupervised Clustering & Label Assignment**
+5. **Supervised Classification using Random Forest**
+6. **Portfolio Backtesting**
+7. **Real-time Prediction Interface (Streamlit App)**
+
+## 3. Setup Instructions
+
+1. Clone the repository.
+2. Install required Python packages manually. Key dependencies include:
+   - pandas, numpy, scikit-learn, shap, streamlit, transformers, requests, torch, nltk
+3. Ensure you have a valid **Financial Modeling Prep API key** inserted in `Stock_list.ipynb`.
+
+## 4. Step-by-Step Reproduction Guide
+
+### Step 1: Data Collection, Sentiment Analysis, and Feature Engineering
+
+Run `Stock_list.ipynb`.
+
+- Collects data on ~500 US stocks from FMP API (2019–2024)
+- Computes:
+  - Earnings surprise
+  - Cumulative Abnormal Returns (CAR)
+  - Firm size (market cap)
+  - FinBERT sentiment score (for management only)
+- Outputs dataset for clustering with full features
+
+### Step 2: Semi-Supervised Labeling via Clustering
+
+Run `Semi_Supervised_Labeling.ipynb`.
+
+- Standardizes features: sentiment (method_2), surprise, firm size
+- Removes outliers (IQR + z-score)
+- Applies Gaussian Mixture Model clustering (k=6)
+- Labels clusters using average CAR:
+  - Bullish: highest CAR
+  - Bearish: lowest clusters
+  - Neutral: remaining
+- Outputs:
+  - `training_data.csv` (2020–2023)
+  - `test_data.csv` (2024)
+
+### Step 3: Supervised Classification using Random Forest
+
+Run `Random_Forest.ipynb`.
+
+- Trains Random Forest on GMM-labeled training data
+- Features: `Earnings_Surprise`, `Firm_Size`, `method_2`
+- Hyperparameter tuning via Grid Search
+- Evaluates:
+  - Accuracy, Precision, Recall, F1
+  - Feature importance
+  - SHAP summary plots
+
+### Step 4: Portfolio Backtesting and Performance Evaluation
+
+Run `Trading_Testing.ipynb`.
+
+- Simulates trading decisions for:
+  - **Portfolio A**: sentiment-only (FinBERT)
+  - **Portfolio B**: ECSRS predictions
+- Benchmarks against S&P 500
+- Metrics:
+  - CAGR
+  - Sharpe Ratio
+  - Max Drawdown
+  - Volatility
+
+### Step 5: ECSRS Inference Pipeline
+
+Run `pipeline.ipynb`.
+
+- Accepts:
+  - Management transcript
+  - Actual EPS
+  - Estimated EPS
+  - Firm size
+- Returns:
+  - ECSRS classification (Bullish / Neutral / Bearish)
+  - FinBERT sentiment score
+  - Prediction confidence
+
+## 5. ECSRS Web Application (Streamlit)
+
+### Launch the App
+
+To run the ECSRS user interface:
+
+```bash
+streamlit run app.py
+```
+
+### Features
+
+- Upload transcript (management only)
+- Input EPS (actual & estimated) and firm size
+- Displays:
+  - Prediction (Bullish / Neutral / Bearish)
+  - Sentiment score (FinBERT)
+  - Classifier confidence
+- Export predictions and browse historical outputs (SQLite)
+
+## 6. Evaluation Metrics
+
+The following metrics are used throughout the project:
+
+| Metric          | Description                                     |
+|-----------------|-------------------------------------------------|
+| **CAGR**        | Compound Annual Growth Rate                     |
+| **Sharpe Ratio**| Risk-adjusted return                           |
+| **Max Drawdown**| Largest observed loss from peak to trough       |
+| **Volatility**  | Standard deviation of returns                   |
+| **Precision**   | Correct positive predictions / All positive predictions |
+| **Recall**      | Correct positive predictions / All actual positives |
+| **F1-Score**    | Harmonic mean of Precision and Recall           |
+
+## 7. Citation
+
+If using or referencing this system, please cite:
+
+```
+Gary Hii Ngo Cheong. (2025). A Multi-Factor Machine Learning Model for Post-Earnings Stock Performance Ranking. University of Nottingham Malaysia. BSc Final Year Dissertation.
+```
+

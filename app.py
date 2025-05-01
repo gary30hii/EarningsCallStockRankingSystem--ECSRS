@@ -84,7 +84,7 @@ def calculate_earnings_surprise(actual, estimated):
 def run_prediction(actual, estimated, size, transcript):
     earnings_surprise = calculate_earnings_surprise(actual, estimated)
     tone = get_weighted_sentiment(transcript)
-    model = joblib.load("random_forest_model.pkl")
+    model = joblib.load("random_forest_best_model.pkl")
     new_data = pd.DataFrame(
         [[earnings_surprise, size, tone]],
         columns=["Earnings_Surprise", "Firm_Size", "method_2"],
