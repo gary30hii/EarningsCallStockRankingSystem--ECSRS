@@ -1,0 +1,17 @@
+certifi
+joblib
+matplotlib
+nltk
+numpy
+ollama  
+pandas
+scikit-learn
+scipy
+seaborn
+shap
+statsmodels
+streamlit
+torch
+transformers
+jupyter
+ipykernel

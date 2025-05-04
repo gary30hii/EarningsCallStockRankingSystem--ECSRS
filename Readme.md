@@ -18,10 +18,38 @@ The ECSRS pipeline consists of the following components:
 
 ## 3. Setup Instructions
 
-1. Clone the repository.
-2. Install required Python packages manually. Key dependencies include:
-   - pandas, numpy, scikit-learn, shap, streamlit, transformers, requests, torch, nltk
-3. Ensure you have a valid **Financial Modeling Prep API key** inserted in `Stock_list.ipynb`.
+1. **Clone the repository:**
+
+   ```bash
+   git clone https://github.com/gary30hii/EarningsCallStockRankingSystem--ECSRS.git
+   cd EarningsCallStockRankingSystem--ECSRS
+   ```
+
+2. **Install the required Python packages:**
+
+   You can install them manually, or with:
+
+   ```bash
+   pip install -r requirements.txt
+   ```
+
+   Key dependencies include:
+   - `pandas`, `numpy`, `scikit-learn`, `shap`, `streamlit`, `transformers`, `requests`, `torch`, `nltk`, `matplotlib`, `seaborn`
+
+3. **LLaMA Sentiment Analysis (Optional but recommended for comparison):**
+
+   - Install **[Ollama](https://ollama.com)** from their official website.
+   - After installation, download the LLaMA 3.2 3B model locally by running:
+
+     ```bash
+     ollama run llama3:3b
+     ```
+
+   - In `Stock_list.ipynb`, update the `MODEL_NAME` variable to match your downloaded model name (e.g., `llama3.2:latest`) to ensure the LLaMA sentiment analysis runs correctly.
+
+   > ⚠️ *LLaMA is one of the sentiment analysis models compared in this project. While the pipeline fully supports FinBERT, using LLaMA allows reproduction of the multi-model sentiment comparison analysis.*
+
+4. **Insert your [Financial Modeling Prep API](https://site.financialmodelingprep.com/) key** into `Stock_list.ipynb` to enable stock data collection.
 
 ## 4. Step-by-Step Reproduction Guide
 
@@ -131,6 +159,6 @@ The following metrics are used throughout the project:
 If using or referencing this system, please cite:
 
 ```
-Gary Hii Ngo Cheong. (2025). A Multi-Factor Machine Learning Model for Post-Earnings Stock Performance Ranking. University of Nottingham Malaysia. BSc Final Year Dissertation.
+Gary Hii Ngo Cheong. (2025). Earnings Call Stock Ranking System (ECSRS): A Semi-Supervised Multi-Factor Learning Framework for Post-Earnings Stock Performance Prediction. University of Nottingham Malaysia. BSc Final Year Dissertation.
 ```
 
