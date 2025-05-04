@@ -36,7 +36,18 @@ The ECSRS pipeline consists of the following components:
    Key dependencies include:
    - `pandas`, `numpy`, `scikit-learn`, `shap`, `streamlit`, `transformers`, `requests`, `torch`, `nltk`, `matplotlib`, `seaborn`
 
-3. **LLaMA Sentiment Analysis (Optional but recommended for comparison):**
+3. **Install and configure Git LFS (Large File Storage):**
+
+   Git LFS is used to manage large dataset files in this project.
+
+   ```bash
+   git lfs install
+   git lfs pull
+   ```
+
+   > ⚠️ *Make sure Git LFS is installed before pulling large dataset files from the repository.*
+
+4. **LLaMA Sentiment Analysis (Optional but recommended for comparison):**
 
    - Install **[Ollama](https://ollama.com)** from their official website.
    - After installation, download the LLaMA 3.2 3B model locally by running:
@@ -49,7 +60,7 @@ The ECSRS pipeline consists of the following components:
 
    > ⚠️ *LLaMA is one of the sentiment analysis models compared in this project. While the pipeline fully supports FinBERT, using LLaMA allows reproduction of the multi-model sentiment comparison analysis.*
 
-4. **Insert your [Financial Modeling Prep API](https://site.financialmodelingprep.com/) key** into `Stock_list.ipynb` to enable stock data collection.
+5. **Insert your [Financial Modeling Prep API](https://site.financialmodelingprep.com/) key** into `Stock_list.ipynb` to enable stock data collection.
 
 ## 4. Step-by-Step Reproduction Guide
 
