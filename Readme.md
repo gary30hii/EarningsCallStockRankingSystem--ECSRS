@@ -162,3 +162,15 @@ If using or referencing this system, please cite:
 Gary Hii Ngo Cheong. (2025). Earnings Call Stock Ranking System (ECSRS): A Semi-Supervised Multi-Factor Learning Framework for Post-Earnings Stock Performance Prediction. University of Nottingham Malaysia. BSc Final Year Dissertation.
 ```
 
+## Note on Data Availability
+
+> **⚠️ Important:** The full dataset required to fully reproduce the ECSRS pipeline (including all CSV files generated during data collection, sentiment analysis, and feature engineering) is not included in the submitted ZIP file due to file size limitations.
+>
+> To access the complete version of the project with all required data files, please refer to the GitHub repository:  
+> [https://github.com/gary30hii/EarningsCallStockRankingSystem--ECSRS](https://github.com/gary30hii/EarningsCallStockRankingSystem--ECSRS)
+>
+> All steps in the pipeline—including clustering, model training, and portfolio backtesting—are best evaluated using the GitHub version.
+>
+> Please ensure you are working from the GitHub repository if you intend to reproduce the results end-to-end.
+
+
