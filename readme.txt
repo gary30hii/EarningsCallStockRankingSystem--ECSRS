@@ -22,35 +22,44 @@ The ECSRS pipeline consists of the following components:
 3. Setup Instructions
 ---------------------
 
-1. Clone the repository:
+    1. Clone the repository:
 
-   git clone https://github.com/gary30hii/EarningsCallStockRankingSystem--ECSRS.git
-   cd EarningsCallStockRankingSystem--ECSRS
+        git clone https://github.com/gary30hii/EarningsCallStockRankingSystem--ECSRS.git
+        cd EarningsCallStockRankingSystem--ECSRS
 
-2. Install the required Python packages:
+    2. Install the required Python packages:
 
-   You can install them manually, or run:
+        You can install them manually, or run:
 
-   pip install -r requirements.txt
+        pip install -r requirements.txt
 
-   Key dependencies:
-   - pandas, numpy, scikit-learn, shap, streamlit, transformers,
-     requests, torch, nltk, matplotlib, seaborn
+        Key dependencies:
+        - pandas, numpy, scikit-learn, shap, streamlit, transformers,
+            requests, torch, nltk, matplotlib, seaborn
 
-3. LLaMA Sentiment Analysis (Optional but Recommended):
+    3. Install and configure Git LFS (Large File Storage):
 
-   - Install Ollama from https://ollama.com
-   - Download LLaMA 3.2 3B model:
+        Git LFS is used to manage large dataset files in this project.
 
-     ollama run llama3:3b
+        git lfs install
+        git lfs pull
 
-   - Update the MODEL_NAME variable in Stock_list.ipynb
-     (e.g., llama3.2:latest)
+        Make sure Git LFS is installed before pulling large dataset files from the repository.
 
-   Note: LLaMA enables comparison with FinBERT-based sentiment analysis.
+    4. LLaMA Sentiment Analysis (Optional but Recommended):
 
-4. Insert your Financial Modeling Prep (FMP) API key
-   into Stock_list.ipynb to enable stock data collection.
+        - Install Ollama from https://ollama.com
+        - Download LLaMA 3.2 3B model:
+
+            ollama run llama3:3b
+
+        - Update the MODEL_NAME variable in Stock_list.ipynb
+            (e.g., llama3.2:latest)
+
+        Note: LLaMA enables comparison with FinBERT-based sentiment analysis.
+
+    5. Insert your Financial Modeling Prep (FMP) API key into Stock_list.ipynb to enable stock data collection.
+
 
 4. Step-by-Step Reproduction Guide
 ----------------------------------
@@ -144,3 +153,11 @@ Metric Descriptions:
 If using or referencing this system, please cite:
 
 Gary Hii Ngo Cheong. (2025). Earnings Call Stock Ranking System (ECSRS): A Semi-Supervised Multi-Factor Learning Framework for Post-Earnings Stock Performance Prediction. University of Nottingham Malaysia. BSc Final Year Dissertation.
+
+
+Note on Data Availability
+⚠️ Important: The full dataset required to fully reproduce the ECSRS pipeline (including all CSV files generated during data collection, sentiment analysis, and feature engineering) is not included in the submitted ZIP file due to file size limitations.
+To access the complete version of the project with all required data files, please refer to the GitHub repository:
+https://github.com/gary30hii/EarningsCallStockRankingSystem--ECSRS
+All steps in the pipeline—including clustering, model training, and portfolio backtesting—are best evaluated using the GitHub version.
+Please ensure you are working from the GitHub repository if you intend to reproduce the results end-to-end.
